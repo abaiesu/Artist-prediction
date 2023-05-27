@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell ask share say share admit tell ask share share
+SECONDARY:ABSTRACTION                                            6
+    know know know know cause cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over backwards over backwards
+SECONDARY:RESTRAINT                                              4
+    must must must must
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jump jump
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when time
+EMOTIONS:AGGRESSION                                              2
+    blame fights
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 61.111111 %
+EMOTIONS            : 13.888889 %
+
+162 words total

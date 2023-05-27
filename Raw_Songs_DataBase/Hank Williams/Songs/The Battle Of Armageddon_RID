@@ -1,0 +1,42 @@
+EMOTIONS:AGGRESSION                                              7
+    battle fought battle battle battle war war
+EMOTIONS:SADNESS                                                 4
+    sad sad sorrow despair
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say said said spoke
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now then when
+EMOTIONS:GLORY                                                   3
+    great great great
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+EMOTIONS:ANXIETY                                                 2
+    troubles troubled
+PRIMARY:SENSATION:VISION                                         2
+    see stars
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revelation
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gates
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+EMOTIONS:AFFECTION                                               1
+    mercy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+
+PRIMARY             : 32.432432 %
+SECONDARY           : 21.621622 %
+EMOTIONS            : 45.945946 %
+
+206 words total

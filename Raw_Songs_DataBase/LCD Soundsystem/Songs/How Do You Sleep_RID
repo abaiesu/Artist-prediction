@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       32
+    east east out east straight straight where off here forward forward forward back back back back back back back back place forward forward forward back back back back back back back back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      23
+    step step step steps steps steps steps steps steps steps steps floor step step step steps steps steps steps steps steps steps steps
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    shore shore water shore shore shore
+EMOTIONS:AFFECTION                                               5
+    friends friend like like like
+PRIMARY:SENSATION:SOUND                                          5
+    ear hear hear hear hear
+PRIMARY:SENSATION:VISION                                         4
+    view watching see see
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when then then again
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    calling admit meet asking
+SECONDARY:ORDER                                                  1
+    listing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    aimed
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+EMOTIONS:AGGRESSION                                              1
+    fighting
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:NEED:ORALITY                                             1
+    corner
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clowns
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 78.723404 %
+SECONDARY           : 11.702128 %
+EMOTIONS            : 9.574468 %
+
+304 words total

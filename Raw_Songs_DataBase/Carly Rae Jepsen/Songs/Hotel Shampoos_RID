@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out away away away away away out where where where away away
+SECONDARY:TEMPORAL REFERENCES                                    8
+    soon again again again again again again again
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            8
+    dream dream sleepin sleep dreaming sleep dreaming dream
+SECONDARY:ABSTRACTION                                            7
+    thought prove prove prove know prove prove
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    chasers driving chasers chasers
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    collect work work
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    tall tall tall
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:GLORY                                                   2
+    gold riches
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    says says
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:NEED:ORALITY                                             1
+    dishes
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:SEX                                                 1
+    kisses
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 37.878788 %
+EMOTIONS            : 7.575758 %
+
+255 words total

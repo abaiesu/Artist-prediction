@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where where away overstanding here overstanding
+SECONDARY:ABSTRACTION                                            5
+    problems solution cause problems solution
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find trying try trying
+PRIMARY:SENSATION:VISION                                         2
+    see looking
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everybody time
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 9.090909 %
+
+107 words total

@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:SOUND                                         20
+    melodie sound voice heart music melodie symphony melodie hear melodie symphony melodie music ears melodie symphony melodie melodie symphony melodie
+SECONDARY:TEMPORAL REFERENCES                                   14
+    yesterday past when time everything now now now now yesterday everything every everything everything
+EMOTIONS:AFFECTION                                               8
+    like love love love goodbye love love love
+PRIMARY:SENSATION:VISION                                         5
+    saw see colours brighter lighter
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    sing play sing sing sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    somewhere long here
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    answered told say
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    woke enchanted
+SECONDARY:ABSTRACTION                                            2
+    knowing know
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 46.478873 %
+SECONDARY           : 32.394366 %
+EMOTIONS            : 21.126761 %
+
+251 words total

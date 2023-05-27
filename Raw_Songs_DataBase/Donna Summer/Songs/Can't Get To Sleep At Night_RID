@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    at off far away off separately at over off far away off off off
+SECONDARY:TEMPORAL REFERENCES                                   11
+    tonight tonight today tonight time time tonight today tonight tonight tonight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           10
+    sleep sleep sleep sleep sleep awake sleep sleep sleep sleep
+EMOTIONS:AFFECTION                                               7
+    love love like love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    spoke called telling spoke called
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try found try try
+SECONDARY:ABSTRACTION                                            4
+    real real believe think
+PRIMARY:SENSATION:SOUND                                          3
+    sounded heartache sounded
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 47.457627 %
+SECONDARY           : 40.677966 %
+EMOTIONS            : 11.864407 %
+
+251 words total

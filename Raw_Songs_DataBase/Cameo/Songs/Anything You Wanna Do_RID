@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time sometimes past past everyday
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    guides offer
+SECONDARY:ABSTRACTION                                            2
+    sure sure
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+EMOTIONS:SADNESS                                                 1
+    sorrow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:RESTRAINT                                              1
+    controls
+
+PRIMARY             : 7.142857 %
+SECONDARY           : 85.714286 %
+EMOTIONS            : 7.142857 %
+
+98 words total

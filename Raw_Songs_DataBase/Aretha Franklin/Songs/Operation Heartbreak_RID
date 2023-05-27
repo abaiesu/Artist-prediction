@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:SOUND                                          6
+    heartbreak heartbreak heartbreak heartbreak heartbreak heartbreak
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:ABSTRACTION                                            5
+    why why why why why
+EMOTIONS:AGGRESSION                                              2
+    wound wound
+SECONDARY:RESTRAINT                                              2
+    must must
+EMOTIONS:SADNESS                                                 2
+    suffer suffer
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+
+PRIMARY             : 34.615385 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 34.615385 %
+
+151 words total

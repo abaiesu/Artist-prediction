@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    years years when old old when then ago
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    beside long out where out along
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk spoke talk talk said tell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing game sing sung
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    tried tried carried
+PRIMARY:SENSATION:COLD                                           3
+    child child cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    rode shipped
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    ditch lowered
+EMOTIONS:AGGRESSION                                              2
+    harm killed
+PRIMARY:NEED:ORALITY                                             2
+    drunk gin
+SECONDARY:ABSTRACTION                                            2
+    judge them
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died death
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:GLORY                                                   1
+    golden
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 46.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 14.000000 %
+
+203 words total

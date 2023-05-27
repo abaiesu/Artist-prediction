@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                        11
+    tint blue see tint see tint blue tint blue tint see
+EMOTIONS:AGGRESSION                                              4
+    jealous angry jealous angry
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+EMOTIONS:SADNESS                                                 2
+    pain sad
+EMOTIONS:AFFECTION                                               2
+    lover lover
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+SECONDARY:ABSTRACTION                                            2
+    why why
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 19.354839 %
+EMOTIONS            : 32.258065 %
+
+106 words total

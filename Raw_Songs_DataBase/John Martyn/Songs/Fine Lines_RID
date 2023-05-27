@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    here here place over here space over far back where over here here place over
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    call say talk call say talk call say say talk call say tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make make make making make make make
+EMOTIONS:AFFECTION                                               7
+    friends lovely friends love friends friends love
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time when times time now
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    strange strange strange strange
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line line line
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face head face
+EMOTIONS:SADNESS                                                 2
+    sad sad
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:NEED:ORALITY                                             1
+    bread
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slack
+
+PRIMARY             : 43.076923 %
+SECONDARY           : 43.076923 %
+EMOTIONS            : 13.846154 %
+
+239 words total

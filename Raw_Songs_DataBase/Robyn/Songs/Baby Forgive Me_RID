@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    forgive forgive forgive forgive say forgive forgive forgive forgive forgive forgive forgive forgive
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    won try won won try try price make work
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chance chance chance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here out
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy smile
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then again
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 21.052632 %
+SECONDARY           : 68.421053 %
+EMOTIONS            : 10.526316 %
+
+148 words total

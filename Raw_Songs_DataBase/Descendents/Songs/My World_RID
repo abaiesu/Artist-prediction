@@ -1,0 +1,40 @@
+SECONDARY:RESTRAINT                                             19
+    stop stop stop stop locking locking stop stop stop stop stop stop stop stop locking stop stop stop stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out inside out at away inside inside closet out inside
+SECONDARY:ABSTRACTION                                            6
+    know them think them cause them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    use tried use study use
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said tell
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight guitar
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+PRIMARY:SENSATION:SOUND                                          1
+    chords
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 58.620690 %
+EMOTIONS            : 6.896552 %
+
+323 words total

@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                           15
+    reason why knew know plan plan cause know know know plan cause know know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    soon when when when
+PRIMARY:SENSATION:VISION                                         3
+    look see saw
+EMOTIONS:AGGRESSION                                              2
+    revenge hurt
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    forgiveness tell
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 21.875000 %
+SECONDARY           : 68.750000 %
+EMOTIONS            : 9.375000 %
+
+121 words total

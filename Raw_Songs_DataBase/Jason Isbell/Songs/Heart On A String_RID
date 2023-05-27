@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:SOUND                                         11
+    heart heart heart heart heart heart heart heart heart heart heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   8
+    hanging hanging hanging hanging hanging hanging hanging hanging
+SECONDARY:ABSTRACTION                                            7
+    cause cause cause cause know know cause
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then every time when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out along away
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    searching smoke flame
+EMOTIONS:AFFECTION                                               2
+    friend loving
+SECONDARY:RESTRAINT                                              2
+    captured bound
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tells pleasure
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+EMOTIONS:AGGRESSION                                              1
+    break
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 34.693878 %
+EMOTIONS            : 8.163265 %
+
+276 words total

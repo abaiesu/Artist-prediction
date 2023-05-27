@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       30
+    somewhere back off off over off off off off off off off off place back off off off off off here off off off off off off off off off
+SECONDARY:ABSTRACTION                                            3
+    thought cause fact
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything date instant
+PRIMARY:SENSATION:VISION                                         2
+    looking star
+PRIMARY:NEED:SEX                                                 2
+    masturbator naked
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    attack
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 78.723404 %
+SECONDARY           : 17.021277 %
+EMOTIONS            : 4.255319 %
+
+279 words total

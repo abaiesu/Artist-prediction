@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when month year when year when every when when
+SECONDARY:ABSTRACTION                                            7
+    them them cause think cause know circumstances
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    win money pay student pick
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at place place round long
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say say tell
+PRIMARY:NEED:ORALITY                                             4
+    drink drink beer bread
+SECONDARY:RESTRAINT                                              2
+    jail jail
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mounth throw
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swim sea
+EMOTIONS:AGGRESSION                                              2
+    gunny murder
+SECONDARY:MORAL IMPERATIVE                                       1
+    proper
+PRIMARY:SENSATION:COLD                                           1
+    snow
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    jolly
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    deadly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 31.372549 %
+SECONDARY           : 58.823529 %
+EMOTIONS            : 9.803922 %
+
+370 words total

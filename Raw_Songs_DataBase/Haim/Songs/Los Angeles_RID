@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out back at back side back back
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now once sometimes every every time time
+PRIMARY:SENSATION:VISION                                         5
+    see visions see visions light
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    dreamin wake dreamin dreamin dreamin
+SECONDARY:ABSTRACTION                                            4
+    know thinkin cause think
+EMOTIONS:AGGRESSION                                              3
+    killin breakin breakin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    win tried win
+EMOTIONS:ANXIETY                                                 3
+    fears fears fears
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share helping
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:SENSATION:COLD                                           2
+    cold winter
+EMOTIONS:GLORY                                                   2
+    greatest wonderin
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:NEED:ORALITY                                             1
+    corner
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heights
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+
+PRIMARY             : 49.019608 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 17.647059 %
+
+290 words total

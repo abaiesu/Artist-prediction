@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old when then when
+PRIMARY:SENSATION:VISION                                         2
+    bright behold
+PRIMARY:SENSATION:COLD                                           2
+    cold winter
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spent spent
+EMOTIONS:AFFECTION                                               2
+    kind love
+SECONDARY:ABSTRACTION                                            1
+    tender
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sprung
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sung
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 20.000000 %
+
+77 words total

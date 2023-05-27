@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    over over overwhelming at out away overwhelming
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time past time everything old
+SECONDARY:ABSTRACTION                                            3
+    learn something truth
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burning burning burning
+EMOTIONS:AGGRESSION                                              2
+    destruction war
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    belong found
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:VISION                                         1
+    flash
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fading
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 10.000000 %
+
+98 words total

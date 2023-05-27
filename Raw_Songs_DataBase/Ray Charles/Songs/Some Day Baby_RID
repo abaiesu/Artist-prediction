@@ -1,0 +1,22 @@
+EMOTIONS:ANXIETY                                                 8
+    worry worryin worry worry worry worry worry worry
+SECONDARY:ABSTRACTION                                            2
+    may knows
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away place
+EMOTIONS:AFFECTION                                               2
+    love goodbye
+EMOTIONS:AGGRESSION                                              1
+    hurts
+EMOTIONS:SADNESS                                                 1
+    grievin
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 11.111111 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 66.666667 %
+
+155 words total

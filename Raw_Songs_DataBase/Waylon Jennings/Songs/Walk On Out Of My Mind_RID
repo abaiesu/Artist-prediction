@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out out out out out out over round circles out out out
+SECONDARY:ABSTRACTION                                            4
+    know them plans something
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please please please
+PRIMARY:SENSATION:SOUND                                          2
+    hear echo
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    footsteps footprints
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+EMOTIONS:ANXIETY                                                 1
+    scared
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:AGGRESSION                                              1
+    kickin
+PRIMARY:SENSATION:VISION                                         1
+    looking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 59.375000 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 6.250000 %
+
+138 words total

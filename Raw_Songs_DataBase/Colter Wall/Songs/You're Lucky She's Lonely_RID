@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         7
+    blue brunette blue see blue see blue
+EMOTIONS:SADNESS                                                 5
+    lonely misery lonely lonely lonely
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    place along over out where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make cure reach
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time past once
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arm hand hand
+EMOTIONS:AGGRESSION                                              2
+    broke unkind
+EMOTIONS:AFFECTION                                               2
+    lovesick love
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ABSTRACTION                                            1
+    prove
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 26.470588 %
+
+176 words total

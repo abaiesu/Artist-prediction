@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    clock minute now old now once time when
+PRIMARY:SENSATION:VISION                                         7
+    shine sunshine sunshine look imagine shine sunshine
+SECONDARY:ABSTRACTION                                            5
+    why why truth almost thought
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake sleepy waking waking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make making making
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell thank thank say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    far away out
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:NEED:ORALITY                                             3
+    coffee lunch honey
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed bed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 45.833333 %
+SECONDARY           : 45.833333 %
+EMOTIONS            : 8.333333 %
+
+229 words total

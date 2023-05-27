@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out here off wherever out at at out off out here
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    smokes fireworks flames burns smokes
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said tell told tell said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    seldom use seldom use
+SECONDARY:ABSTRACTION                                            4
+    guess thinkin thinks truth
+PRIMARY:NEED:ORALITY                                             3
+    beer drank beer
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high sky hill
+PRIMARY:NEED:SEX                                                 2
+    fucked fucked
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forevers forever
+EMOTIONS:AGGRESSION                                              2
+    blame break
+SECONDARY:TEMPORAL REFERENCES                                    2
+    while time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sang danced
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:SOUND                                          1
+    tunes
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 28.846154 %
+EMOTIONS            : 13.461538 %
+
+223 words total

@@ -1,0 +1,62 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    money money used building building make used won money money money won buy found
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    meet tell say ask say call call call telling treat
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when hours now moment time time hour date when
+SECONDARY:ABSTRACTION                                            8
+    models may thought them know cause different think
+EMOTIONS:AFFECTION                                               8
+    like like like friends like like likes friends
+PRIMARY:SENSATION:VISION                                         7
+    shine see star gazing stars looking looks
+EMOTIONS:AGGRESSION                                              7
+    killer hate broke struggling hurts crushes jealous
+SECONDARY:RESTRAINT                                              4
+    bars stop refuse stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    round long straight place
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play played games
+SECONDARY:MORAL IMPERATIVE                                       3
+    right conscience right
+EMOTIONS:GLORY                                                   3
+    great great proud
+PRIMARY:NEED:ORALITY                                             3
+    whiskey liquor cook
+EMOTIONS:POSITIVE AFFECT                                         2
+    jokes funny
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy dreaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead slow
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shady
+EMOTIONS:ANXIETY                                                 1
+    horror
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:ORDER                                                  1
+    arrange
+PRIMARY:SENSATION:COLD                                           1
+    chilling
+PRIMARY:NEED:SEX                                                 1
+    bitches
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:TASTE                                          1
+    sour
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chaser
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 28.155340 %
+SECONDARY           : 48.543689 %
+EMOTIONS            : 23.300971 %
+
+484 words total

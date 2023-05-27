@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                            5
+    know fact guess know cause
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    treated treated tell said
+PRIMARY:SENSATION:VISION                                         2
+    look tan
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:AGGRESSION                                              1
+    cruel
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    soldier
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+PRIMARY:SENSATION:HARD                                           1
+    solider
+
+PRIMARY             : 23.529412 %
+SECONDARY           : 64.705882 %
+EMOTIONS            : 11.764706 %
+
+176 words total

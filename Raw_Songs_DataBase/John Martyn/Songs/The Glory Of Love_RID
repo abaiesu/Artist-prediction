@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    sometimes sometimes sometimes now sometimes sometimes now now sometimes sometimes
+EMOTIONS:GLORY                                                   7
+    glory glory glory glory glory glory glory
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long long here long long
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry cry cry cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    die die die die
+EMOTIONS:POSITIVE AFFECT                                         3
+    laugh laugh laugh
+EMOTIONS:AGGRESSION                                              2
+    break break
+EMOTIONS:SADNESS                                                 1
+    moan
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+SECONDARY:ABSTRACTION                                            1
+    real
+
+PRIMARY             : 32.075472 %
+SECONDARY           : 22.641509 %
+EMOTIONS            : 45.283019 %
+
+288 words total

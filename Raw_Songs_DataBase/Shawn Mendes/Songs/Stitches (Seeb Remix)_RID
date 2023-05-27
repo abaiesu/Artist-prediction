@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    over back out over over over over over over over out over over over over over over over
+SECONDARY:TEMPORAL REFERENCES                                    7
+    ever now now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    calling help calling help
+PRIMARY:NEED:SEX                                                 4
+    kisses kisses kisses kisses
+SECONDARY:ABSTRACTION                                            3
+    thought know know
+EMOTIONS:AGGRESSION                                              3
+    hurt cut knife
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deeper under under
+PRIMARY:SENSATION:ODOR                                           3
+    breathe breathe breathe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make sow make
+EMOTIONS:AFFECTION                                               3
+    lover like lover
+PRIMARY:SENSATION:VISION                                         3
+    watch seeing watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shaking shaking
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling falling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees knees
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    tripping tripping
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 10.294118 %
+
+292 words total

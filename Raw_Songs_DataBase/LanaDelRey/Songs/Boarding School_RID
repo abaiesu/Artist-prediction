@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    everyone everybody everyone date everyone everybody everyone everyone while everyone everybody everyone when now everyone everybody everyone
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    says says teachers says says educated taught says says said says says
+PRIMARY:SENSATION:COLD                                           8
+    cool cool cool cool cool cool cool cool
+SECONDARY:ABSTRACTION                                            5
+    them knows knows problem thought
+PRIMARY:NEED:ORALITY                                             3
+    food drinking sugar
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    trailer wall street
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back south
+PRIMARY:SENSATION:SOUND                                          2
+    heard purring
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:AGGRESSION                                              1
+    beat
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    beach
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+
+PRIMARY             : 33.870968 %
+SECONDARY           : 58.064516 %
+EMOTIONS            : 8.064516 %
+
+345 words total

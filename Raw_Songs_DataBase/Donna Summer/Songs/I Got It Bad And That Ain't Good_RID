@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at out over out out out at
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when weekend then
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treats treating
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:NEED:ORALITY                                             2
+    drink drink
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:SENSATION:HARD                                           1
+    rocked
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolls
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mister
+EMOTIONS:AGGRESSION                                              1
+    shot
+
+PRIMARY             : 54.285714 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 11.428571 %
+
+177 words total

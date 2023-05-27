@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    now then today when now then again today when then when today when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    off out side side off away over off away off away
+EMOTIONS:POSITIVE AFFECT                                         6
+    laughs jokes laugh joke laugh joke
+EMOTIONS:AFFECTION                                               4
+    like like like like
+EMOTIONS:AGGRESSION                                              4
+    gun argumentative argumentative argumentative
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face face face face
+EMOTIONS:SADNESS                                                 3
+    frown disappointment sorry
+PRIMARY:SENSATION:TOUCH                                          3
+    cuddles cuddles cuddles
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:SENSATION:VISION                                         2
+    seen looking
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleasant say
+SECONDARY:ABSTRACTION                                            2
+    thought cause
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 28.571429 %
+
+288 words total

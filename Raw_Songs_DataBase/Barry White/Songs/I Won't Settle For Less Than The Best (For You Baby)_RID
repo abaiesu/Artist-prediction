@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              11
+    love loves like lovin love love loves like lovin love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes won won won
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside across
+SECONDARY:ABSTRACTION                                            2
+    real real
+PRIMARY:SENSATION:VISION                                         2
+    bright bright
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sharing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:SENSATION:SOFT                                           1
+    gently
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    seas
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:AGGRESSION                                              1
+    doubt
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 25.806452 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 38.709677 %
+
+275 words total

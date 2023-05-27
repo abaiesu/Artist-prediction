@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:TOUCH                                         15
+    touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    tell visitor tell tell answer answer answer answer answer answer answer answer convinced
+SECONDARY:ABSTRACTION                                            9
+    something something something something something almost real something something
+EMOTIONS:AFFECTION                                               9
+    like love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where where within behind where
+PRIMARY:SENSATION:VISION                                         4
+    pictures see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    belong belong
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+EMOTIONS:SADNESS                                                 1
+    painter
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tourist
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:TEMPORAL REFERENCES                                    1
+    suddenly
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hunger
+
+PRIMARY             : 47.058824 %
+SECONDARY           : 36.764706 %
+EMOTIONS            : 16.176471 %
+
+223 words total

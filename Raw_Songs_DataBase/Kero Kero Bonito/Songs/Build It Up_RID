@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   23
+    when then time when then time when then time when then then then then then then then then then then when then time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 18
+    pick build make build build pick build built build build make build pick build pick build pick build
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    places front back out places over out forward here back where places places places
+EMOTIONS:AFFECTION                                              10
+    like favorite like favorite like favorite like favorite like favorite
+SECONDARY:ABSTRACTION                                            6
+    problem why cause theme why decide
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    top top top top top
+EMOTIONS:POSITIVE AFFECT                                         5
+    fun fun fun fun fun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hair hands foot head
+PRIMARY:SENSATION:VISION                                         3
+    pink see green
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    stairs bridge
+PRIMARY:NEED:ORALITY                                             2
+    sauce biscuit
+SECONDARY:RESTRAINT                                              1
+    blocks
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    solar
+PRIMARY:NEED:ANALITY                                             1
+    sweater
+SECONDARY:MORAL IMPERATIVE                                       1
+    laws
+PRIMARY:SENSATION:SOUND                                          1
+    bang
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+
+PRIMARY             : 33.673469 %
+SECONDARY           : 51.020408 %
+EMOTIONS            : 15.306122 %
+
+542 words total

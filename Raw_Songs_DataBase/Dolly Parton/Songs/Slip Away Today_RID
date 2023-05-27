@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    back away away across close away back at off far away back
+SECONDARY:ABSTRACTION                                           10
+    thoughts know something know something know something know something something
+EMOTIONS:SADNESS                                                 7
+    sorry sorrow sorry sorry sorrow sorry sorry
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then quickly today tonight today
+EMOTIONS:AFFECTION                                               5
+    love like love love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying trying won trying
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say borrow borrow
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slip slip
+PRIMARY:SENSATION:SOUND                                          2
+    heart hearts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quietly
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+SECONDARY:MORAL IMPERATIVE                                       1
+    conscience
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumping
+
+PRIMARY             : 43.750000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 18.750000 %
+
+238 words total

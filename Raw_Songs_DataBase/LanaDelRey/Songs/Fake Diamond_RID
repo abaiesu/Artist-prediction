@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              17
+    like like like like like like like like like like like like love like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    off off where close where close close middle close close
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when when when old when when when when when
+PRIMARY:SENSATION:VISION                                         9
+    lights lights lights film watch shine lights look light
+SECONDARY:ABSTRACTION                                            8
+    them sure true know true know true know
+PRIMARY:NEED:ORALITY                                             7
+    coughs honey candy honey honey honey honey
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    body arm body body body body
+EMOTIONS:AGGRESSION                                              6
+    hurt hurt hurt fight hurt hurt
+PRIMARY:SENSATION:COLD                                           5
+    child child child child child
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    belongs belongs belongs belongs belongs
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sparkling sparkling sun
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:NEED:SEX                                                 2
+    kissing kissing
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    reel
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:SENSATION:SOFT                                           1
+    velvet
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 48.979592 %
+SECONDARY           : 26.530612 %
+EMOTIONS            : 24.489796 %
+
+435 words total

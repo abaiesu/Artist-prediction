@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              12
+    dear dear romance romance love love romance romance romance romance romance romance
+PRIMARY:SENSATION:VISION                                        12
+    saw glance see saw glance see saw glance see saw glance see
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    help help tell please help help help help calling help help help
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    find find find won won make find find find find find
+PRIMARY:SENSATION:TASTE                                         10
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    8
+    moment again moment again moment again moment again
+SECONDARY:ABSTRACTION                                            8
+    knew may knew may knew may knew may
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes eyes eyes
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    closely
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 13.636364 %
+
+261 words total

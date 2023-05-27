@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    everything everything everything when everytime now everything everything everything everything sometimes when often ever ever
+EMOTIONS:AFFECTION                                              12
+    kinds loving loving love love loving loving love love love love loving
+SECONDARY:ABSTRACTION                                            6
+    causing knowing know know know them
+SECONDARY:RESTRAINT                                              5
+    stop stop stop stop stop
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk shared talking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    played games
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    wins finding
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    wide out
+PRIMARY:SENSATION:VISION                                         1
+    seeing
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+EMOTIONS:AGGRESSION                                              1
+    blame
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 12.280702 %
+SECONDARY           : 56.140351 %
+EMOTIONS            : 31.578947 %
+
+287 words total

@@ -1,0 +1,36 @@
+SECONDARY:RESTRAINT                                             39
+    stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today now now today now now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes hand eyes hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    open out open out
+PRIMARY:SENSATION:HARD                                           4
+    rocking rocking rocking rocking
+SECONDARY:ABSTRACTION                                            2
+    something something
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    telling telling
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets streets
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+PRIMARY:SENSATION:VISION                                         2
+    look look
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hills hills
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrills thrills
+
+PRIMARY             : 23.376623 %
+SECONDARY           : 68.831169 %
+EMOTIONS            : 7.792208 %
+
+355 words total

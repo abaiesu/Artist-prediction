@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   9
+    sky sky sky sky sky sky sky sky sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    across off side side closed closed closed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eye eye eye
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make trying trying
+PRIMARY:SENSATION:VISION                                         3
+    blue looking looking
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searching searching
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:RESTRAINT                                              2
+    stop stop
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:AGGRESSION                                              1
+    kill
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+
+PRIMARY             : 65.853659 %
+SECONDARY           : 29.268293 %
+EMOTIONS            : 4.878049 %
+
+220 words total

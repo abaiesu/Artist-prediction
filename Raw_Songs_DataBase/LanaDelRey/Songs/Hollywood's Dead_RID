@@ -1,0 +1,52 @@
+EMOTIONS:AFFECTION                                              10
+    kind love like goodbye kind like like goodbye loved goodbye
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell tell say tell tell say tell tell say say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       10
+    dead dying dead dead dead dead dead dead dead dead
+PRIMARY:SENSATION:GENERAL-SENSATION                              7
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over over over over over over
+PRIMARY:SENSATION:VISION                                         4
+    blue light light light
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once time then
+SECONDARY:ABSTRACTION                                            3
+    meant proof know
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+EMOTIONS:AGGRESSION                                              2
+    cruel cut
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    swooned wake
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+PRIMARY:SENSATION:COLD                                           1
+    cool
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flames
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roland
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 52.112676 %
+SECONDARY           : 26.760563 %
+EMOTIONS            : 21.126761 %
+
+298 words total

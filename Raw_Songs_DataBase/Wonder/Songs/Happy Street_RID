@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    street street street hallelu hallelu hallelu street street street street street street
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everybody everybody everybody now everybody now everybody now everybody now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    hands hands hands feet hands hands hands feet hands
+EMOTIONS:POSITIVE AFFECT                                         6
+    happy happy happy happy happy happy
+SECONDARY:ABSTRACTION                                            3
+    cause cause cause
+PRIMARY:SENSATION:SOUND                                          2
+    rhythm rhythm
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+EMOTIONS:AFFECTION                                               1
+    loving
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 19.565217 %
+
+123 words total

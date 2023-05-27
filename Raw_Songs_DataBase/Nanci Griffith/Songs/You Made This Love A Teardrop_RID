@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now now when when again when years
+EMOTIONS:AFFECTION                                               7
+    love love love love loved love love
+SECONDARY:ABSTRACTION                                            5
+    truth something know think believe
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say remind forgive
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    nearly between
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy sleepless
+EMOTIONS:AGGRESSION                                              2
+    broken betraying
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flame fire
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    weary
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 34.146341 %
+SECONDARY           : 41.463415 %
+EMOTIONS            : 24.390244 %
+
+177 words total

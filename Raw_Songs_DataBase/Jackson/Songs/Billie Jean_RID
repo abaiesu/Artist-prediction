@@ -1,0 +1,42 @@
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    said said told told told says advice told told called says says says says says says call
+EMOTIONS:AFFECTION                                              14
+    like love lover like lover lover lover lover lover lover lover lover lover lover
+SECONDARY:ABSTRACTION                                           10
+    caused cause truth schemes plans cause think think think know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    dance dance dance danced danced cry dance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    round round round side round at round
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then every when then then soon
+PRIMARY:SENSATION:VISION                                         5
+    scene scene looked looked scene
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    floor floor floor floor floor
+EMOTIONS:AGGRESSION                                              4
+    breaking breaking break breaking
+PRIMARY:SENSATION:SOUND                                          4
+    hearts hearts heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    claims claims claims claims
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eyes eyes
+SECONDARY:MORAL IMPERATIVE                                       2
+    law right
+PRIMARY:SENSATION:ODOR                                           2
+    smell perfume
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 31.914894 %
+SECONDARY           : 41.489362 %
+EMOTIONS            : 26.595745 %
+
+544 words total

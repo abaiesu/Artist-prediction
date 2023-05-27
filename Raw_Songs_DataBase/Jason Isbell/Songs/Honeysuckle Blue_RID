@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         7
+    saw see blue seen blue blue blue
+PRIMARY:NEED:ORALITY                                             5
+    corner honeysuckle corner honeysuckle honeysuckle
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    southern southern where longer
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again old ever again
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road street
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky ridge
+SECONDARY:ABSTRACTION                                            2
+    believe true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found found
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    shelter promised
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    sail roam
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    caverns
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+
+PRIMARY             : 71.794872 %
+SECONDARY           : 25.641026 %
+EMOTIONS            : 2.564103 %
+
+166 words total

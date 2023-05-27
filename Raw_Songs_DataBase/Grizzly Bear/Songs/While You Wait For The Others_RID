@@ -1,0 +1,22 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    forgiveness ask answers ask ask
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while time while time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make find make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long out long out
+EMOTIONS:AFFECTION                                               4
+    like kindly like kindly
+SECONDARY:ABSTRACTION                                            2
+    weighing why
+PRIMARY:SENSATION:VISION                                         2
+    glare glare
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+
+PRIMARY             : 29.629630 %
+SECONDARY           : 55.555556 %
+EMOTIONS            : 14.814815 %
+
+177 words total

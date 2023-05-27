@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell told saying say say say say said
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when yesterday yesterday when now time again now
+PRIMARY:SENSATION:VISION                                         7
+    see see saw saw look look see
+SECONDARY:ABSTRACTION                                            6
+    know know believe why know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here long side out away at
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    play game play cry
+SECONDARY:MORAL IMPERATIVE                                       4
+    ought ought ought ought
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair eyes eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lay dying die
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    working found
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river water
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    hypnotized
+PRIMARY:NEED:SEX                                                 1
+    kissing
+PRIMARY:SENSATION:SOUND                                          1
+    ears
+
+PRIMARY             : 44.262295 %
+SECONDARY           : 45.901639 %
+EMOTIONS            : 9.836066 %
+
+263 words total

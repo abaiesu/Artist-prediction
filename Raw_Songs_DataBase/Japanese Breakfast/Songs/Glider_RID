@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything time every
+SECONDARY:RESTRAINT                                              2
+    caught caught
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    between between
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    guide
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 25.000000 %
+
+62 words total

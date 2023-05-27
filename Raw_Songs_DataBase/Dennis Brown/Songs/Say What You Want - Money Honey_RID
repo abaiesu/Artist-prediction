@@ -1,0 +1,20 @@
+SECONDARY:ABSTRACTION                                            4
+    cause something reason cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money buy money
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say saying
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+
+PRIMARY             : 7.142857 %
+SECONDARY           : 71.428571 %
+EMOTIONS            : 21.428571 %
+
+99 words total

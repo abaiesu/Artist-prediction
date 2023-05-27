@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                              14
+    love darling love love love dear love dear love love love cherish love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    away away close close away away here where away away
+SECONDARY:ABSTRACTION                                            9
+    true cause know may know surely cause know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make belong pay pay cost
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every everyday everyway
+EMOTIONS:AGGRESSION                                              2
+    hurt cruel
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+EMOTIONS:GLORY                                                   2
+    wonderful wonderful
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+
+PRIMARY             : 24.489796 %
+SECONDARY           : 38.775510 %
+EMOTIONS            : 36.734694 %
+
+181 words total

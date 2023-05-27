@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    away long back where at back where away long back where at where where close inside where where where
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when time now when time everywhere now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying trying tried used
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell please
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:ABSTRACTION                                            2
+    cause learned
+EMOTIONS:ANXIETY                                                 1
+    worry
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 48.780488 %
+SECONDARY           : 41.463415 %
+EMOTIONS            : 9.756098 %
+
+273 words total

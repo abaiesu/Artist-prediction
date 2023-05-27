@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    over over over over place over over over
+EMOTIONS:AFFECTION                                               8
+    kind friend lovin lovin lovin loves love lover
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+SECONDARY:ABSTRACTION                                            5
+    tenderly knows understand know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when early early now
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say treats say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 52.777778 %
+EMOTIONS            : 22.222222 %
+
+240 words total

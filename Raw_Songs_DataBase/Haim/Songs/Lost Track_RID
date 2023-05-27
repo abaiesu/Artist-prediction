@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back at back back back back back back back back
+SECONDARY:ABSTRACTION                                            8
+    know know caused know know know know caused
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try find find
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time when time
+EMOTIONS:AGGRESSION                                              3
+    cut steal cut
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meeting say meeting
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deepest deepest
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:SENSATION:COLD                                           1
+    numb
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnt
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 40.540541 %
+SECONDARY           : 45.945946 %
+EMOTIONS            : 13.513514 %
+
+299 words total

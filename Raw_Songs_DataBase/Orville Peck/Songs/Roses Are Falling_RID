@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  8
+    fallin fallin fallin fallin fallin fallin fallin fallin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back back inside over out
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now sometimes when
+SECONDARY:ABSTRACTION                                            3
+    know know guess
+EMOTIONS:AFFECTION                                               3
+    darling like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    winning found
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face skin
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say met
+PRIMARY:SENSATION:VISION                                         1
+    blue
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 30.303030 %
+EMOTIONS            : 15.151515 %
+
+140 words total

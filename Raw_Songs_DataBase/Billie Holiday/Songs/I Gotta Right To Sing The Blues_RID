@@ -1,0 +1,32 @@
+SECONDARY:MORAL IMPERATIVE                                      11
+    right right right right right right right right right right right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    sing cry sing cry sing sing cry sigh sing sing
+PRIMARY:SENSATION:VISION                                         9
+    blues see blues blue blues blues blue blues blues
+EMOTIONS:SADNESS                                                 5
+    moan misery moan moan misery
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    river river sea river sea
+SECONDARY:ABSTRACTION                                            4
+    certain certain choose choose
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    callin say callin say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside inside
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon soon
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+SECONDARY:RESTRAINT                                              2
+    must must
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 32.203390 %
+SECONDARY           : 38.983051 %
+EMOTIONS            : 28.813559 %
+
+164 words total

@@ -1,0 +1,38 @@
+EMOTIONS:SADNESS                                                11
+    sad lonely loneliness sad lonely sadly sad lonely lonely sad lonely
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time when time when then ever time when time when
+SECONDARY:ABSTRACTION                                            6
+    suppose knows know knew know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won won pay won won
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    promise promise say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    open inside
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny gladly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistaken
+EMOTIONS:AGGRESSION                                              1
+    blame
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+
+PRIMARY             : 19.230769 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 34.615385 %
+
+255 words total

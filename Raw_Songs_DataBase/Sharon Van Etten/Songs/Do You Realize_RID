@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            8
+    know them know caused know them know caused
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    space round round
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes make make
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everyone everyone
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    saying saying
+EMOTIONS:AFFECTION                                               2
+    goodbyes goodbyes
+PRIMARY:NEED:ORALITY                                             2
+    fast fast
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spinning spinning
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floating
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 48.648649 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 10.810811 %
+
+151 words total

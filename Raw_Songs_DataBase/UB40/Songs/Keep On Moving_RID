@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where back somewhere near
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now then
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found find
+SECONDARY:MORAL IMPERATIVE                                       2
+    law law
+EMOTIONS:AGGRESSION                                              2
+    accused killing
+SECONDARY:ABSTRACTION                                            2
+    knows why
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grown grown
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+EMOTIONS:SADNESS                                                 1
+    suffer
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    forgive
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 25.000000 %
+
+133 words total

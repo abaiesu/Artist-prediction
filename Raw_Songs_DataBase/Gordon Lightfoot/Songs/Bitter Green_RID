@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    called met called say say called met called kneeling called met called called met called
+PRIMARY:SENSATION:TASTE                                         10
+    bitter bitter bitter bitter bitter bitter bitter bitter bitter bitter
+PRIMARY:SENSATION:VISION                                        10
+    green green green green green green green green green green
+PRIMARY:ICARIAN IMAGERY:FIRE                                     8
+    sun sun sun sun sun sun sun sun
+SECONDARY:TEMPORAL REFERENCES                                    6
+    years everyone everyone now everyone everyone
+EMOTIONS:AFFECTION                                               4
+    loving loving loving loving
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hills above hills
+PRIMARY:NEED:SEX                                                 3
+    kiss kiss kiss
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away at
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    died died weary
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea ocean
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mist mist
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreaming dreaming
+PRIMARY:SENSATION:SOUND                                          1
+    echoed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    footsteps
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sailor
+SECONDARY:RESTRAINT                                              1
+    prisoner
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 5.128205 %
+
+225 words total

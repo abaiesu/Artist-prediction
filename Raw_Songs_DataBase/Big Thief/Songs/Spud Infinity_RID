@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everybody everybody everybody when past when when when now now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    body organism body body body body
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    ask say accepting say say
+PRIMARY:NEED:ORALITY                                             4
+    eats garlic bread potato
+SECONDARY:ABSTRACTION                                            4
+    plants knows history cause
+PRIMARY:SENSATION:VISION                                         3
+    looks looks look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here long
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    steps edges
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    ash sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buy finish
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    infinity infinity
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    perception
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandering
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:SENSATION:TOUCH                                          1
+    rubbing
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 3.703704 %
+
+261 words total

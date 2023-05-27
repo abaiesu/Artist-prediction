@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    pouring rain sea
+SECONDARY:ABSTRACTION                                            1
+    true
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    brain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+PRIMARY:NEED:SEX                                                 1
+    lust
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    between
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+SECONDARY:RESTRAINT                                              1
+    control
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    called
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 5.263158 %
+
+94 words total

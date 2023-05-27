@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            4
+    know real know know
+EMOTIONS:AFFECTION                                               2
+    friends like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    escort invited
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:SENSATION:COLD                                           1
+    ice
+PRIMARY:NEED:ORALITY                                             1
+    cream
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impresses
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:SENSATION:VISION                                         1
+    stars
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+SECONDARY:RESTRAINT                                              1
+    police
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:SOUND                                          1
+    hearing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 45.000000 %
+EMOTIONS            : 25.000000 %
+
+162 words total

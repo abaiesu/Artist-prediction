@@ -1,0 +1,54 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    sing poets sing shouted play sing poets sing
+EMOTIONS:AFFECTION                                               8
+    like like love like like like like love
+SECONDARY:TEMPORAL REFERENCES                                    8
+    till again old old time everyone till again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away away at away away away
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    tides sea river tides sea
+PRIMARY:SENSATION:VISION                                         5
+    light blue colored see light
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleep dream sleep dream
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rise fly rise
+PRIMARY:SENSATION:SOUND                                          3
+    melody symphony melody
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride rode wander
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand head
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:NEED:ORALITY                                             1
+    tongues
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    perceptions
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    marketplace
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+EMOTIONS:AGGRESSION                                              1
+    shot
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:NEED:ANALITY                                             1
+    stallion
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:ABSTRACTION                                            1
+    caused
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+
+PRIMARY             : 57.971014 %
+SECONDARY           : 15.942029 %
+EMOTIONS            : 26.086957 %
+
+260 words total

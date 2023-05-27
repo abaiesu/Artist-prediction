@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    older time older time till older now when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    find find spend find money find won buy won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at out where where where where where where where
+EMOTIONS:AFFECTION                                               5
+    friends friends friends friends friends
+SECONDARY:ABSTRACTION                                            4
+    figure know know know
+EMOTIONS:GLORY                                                   3
+    gold gold gold
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    digging digging
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest rest
+PRIMARY:SENSATION:TASTE                                          2
+    sweetness sweetness
+EMOTIONS:SADNESS                                                 2
+    suffering suffering
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+PRIMARY:SENSATION:VISION                                         2
+    looking see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream sleeping
+SECONDARY:RESTRAINT                                              2
+    shut shut
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+
+PRIMARY             : 37.931034 %
+SECONDARY           : 44.827586 %
+EMOTIONS            : 17.241379 %
+
+198 words total

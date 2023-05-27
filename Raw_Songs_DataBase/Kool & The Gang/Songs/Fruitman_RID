@@ -1,0 +1,22 @@
+PRIMARY:NEED:ORALITY                                            28
+    fruitman fruit fruitman vegetables fruit fruitman tomatoes apples potatoes eat eat fruitman fruit fruitman vegetables fruit fruitman tomatoes apples potatoes eat eat fruitman fruit fruitman vegetables eat eat
+PRIMARY:SENSATION:VISION                                        14
+    see look see see see see look see see see look see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here here here here here here
+SECONDARY:ABSTRACTION                                            6
+    know difference know difference know difference
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body body body
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    asks asks
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    watermelons watermelons
+
+PRIMARY             : 84.126984 %
+SECONDARY           : 15.873016 %
+EMOTIONS            : 0.000000 %
+
+227 words total

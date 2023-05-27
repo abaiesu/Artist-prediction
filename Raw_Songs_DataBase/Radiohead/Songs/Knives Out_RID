@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back back out at out back point out
+SECONDARY:ABSTRACTION                                            4
+    know know truth know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes head head
+EMOTIONS:AGGRESSION                                              4
+    knives shove knives knives
+PRIMARY:NEED:ORALITY                                             4
+    mouth cook pot pot
+PRIMARY:SENSATION:VISION                                         3
+    look look look
+SECONDARY:RESTRAINT                                              2
+    catch catch
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    telling
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+
+PRIMARY             : 64.516129 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 12.903226 %
+
+118 words total

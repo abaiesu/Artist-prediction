@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time now date time month now time time time time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    tried won won won won won used won
+SECONDARY:ABSTRACTION                                            5
+    cause may cause believed calculate
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off off front back
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call tell call
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pitchin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:TOUCH                                          1
+    scratched
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gate
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:SENSATION:VISION                                         1
+    looked
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+EMOTIONS:ANXIETY                                                 1
+    troubles
+EMOTIONS:AFFECTION                                               1
+    kind
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+
+PRIMARY             : 27.906977 %
+SECONDARY           : 65.116279 %
+EMOTIONS            : 6.976744 %
+
+246 words total

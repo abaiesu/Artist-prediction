@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    now time time time time time now year time time time time time time time
+SECONDARY:ABSTRACTION                                            6
+    knew fact know think know know
+PRIMARY:SENSATION:VISION                                         5
+    bright lights shine see star
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where at east west
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    win success test success
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game play
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    handle handles
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    following interviews
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowds
+EMOTIONS:GLORY                                                   1
+    fame
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    steps
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+
+PRIMARY             : 34.782609 %
+SECONDARY           : 58.695652 %
+EMOTIONS            : 6.521739 %
+
+201 words total

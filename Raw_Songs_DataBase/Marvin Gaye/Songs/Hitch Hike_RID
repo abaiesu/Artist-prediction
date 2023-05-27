@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:COLD                                          14
+    children children children children children children children children children children children children children children
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old till now now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    place away round round round
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find find money find
+SECONDARY:RESTRAINT                                              2
+    limits stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:NEED:ORALITY                                             1
+    corner
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+
+PRIMARY             : 58.536585 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 2.439024 %
+
+338 words total

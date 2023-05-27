@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         4
+    see light tan light
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart music music
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand head
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    straight
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 19.047619 %
+EMOTIONS            : 23.809524 %
+
+132 words total

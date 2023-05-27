@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:VISION                                        15
+    lavender lavender lavender lavender light colors lavender lavender lavender see lavender lavender see lavender lavender
+EMOTIONS:AFFECTION                                               9
+    like like like like love like love like like
+SECONDARY:ABSTRACTION                                            8
+    sure understanding sure learn reason understand understanding sure
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    spend try won find spend try try
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then soon everywhere while again then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at surround away at
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    warm flame fire sun
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    spoke speak please share
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+SECONDARY:RESTRAINT                                              3
+    must must must
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    game dancing game
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shade shadows
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain sea
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile laugh
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tour
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+SECONDARY:ORDER                                                  1
+    constantly
+PRIMARY:SENSATION:ODOR                                           1
+    fragrant
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:NEED:SEX                                                 1
+    naked
+EMOTIONS:AGGRESSION                                              1
+    blame
+
+PRIMARY             : 45.121951 %
+SECONDARY           : 35.365854 %
+EMOTIONS            : 19.512195 %
+
+280 words total

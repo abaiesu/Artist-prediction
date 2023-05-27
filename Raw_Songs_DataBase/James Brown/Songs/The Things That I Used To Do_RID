@@ -1,0 +1,24 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    used won used won used tried
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back back back back back along
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old old now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AGGRESSION                                              1
+    hurting
+SECONDARY:ABSTRACTION                                            1
+    cause
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 9.523810 %
+
+155 words total

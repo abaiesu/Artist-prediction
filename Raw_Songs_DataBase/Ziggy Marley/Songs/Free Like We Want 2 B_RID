@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              19
+    like like like like like like like like like love like like like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say tell tell say tell taught say committing committing tell
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time now now now now everyone now
+SECONDARY:ABSTRACTION                                            7
+    them think cause know them them reason
+EMOTIONS:AGGRESSION                                              6
+    beat defeat stole fight homicide homicide
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay working
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet blood
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 41.269841 %
+
+328 words total

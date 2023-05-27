@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    out at out at out at out at at away out at out at out at
+SECONDARY:TEMPORAL REFERENCES                                   14
+    when when when when again when when when when again when when now when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         10
+    face face eyes skin face face skin face face face
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    cry cry cry cry cry cry cry cry cry
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart heart heart heart heart heart
+EMOTIONS:AGGRESSION                                              7
+    doubt doubt doubt doubt doubt doubt doubt
+EMOTIONS:AFFECTION                                               6
+    like friends like like love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    telling please calling say
+SECONDARY:RESTRAINT                                              4
+    stop stop stop stop
+EMOTIONS:ANXIETY                                                 3
+    scared afraid scared
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging hanging
+PRIMARY:SENSATION:VISION                                         1
+    invisible
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:ABSTRACTION                                            1
+    idea
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 45.054945 %
+SECONDARY           : 26.373626 %
+EMOTIONS            : 28.571429 %
+
+378 words total

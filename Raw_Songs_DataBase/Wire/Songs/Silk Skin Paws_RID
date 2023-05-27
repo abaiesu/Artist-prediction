@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             12
+    blame blame invading blame blame blame blame cut blame blame blame blame
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back over opening out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    bone skin feet
+PRIMARY:NEED:ORALITY                                             3
+    jaws mouth corners
+EMOTIONS:AFFECTION                                               3
+    embracing like like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hang hang
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burns
+SECONDARY:TEMPORAL REFERENCES                                    1
+    once
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:SENSATION:TOUCH                                          1
+    contact
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    following
+SECONDARY:ABSTRACTION                                            1
+    certain
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:SOFT                                           1
+    silk
+PRIMARY:SENSATION:VISION                                         1
+    seen
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 13.157895 %
+EMOTIONS            : 44.736842 %
+
+189 words total

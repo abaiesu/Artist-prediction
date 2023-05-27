@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    long inside inside inside flat inside inside inside inside inside inside inside inside inside inside
+SECONDARY:RESTRAINT                                             15
+    lock lock lock lock lock lock lock lock lock lock lock lock lock lock lock
+PRIMARY:SENSATION:SOUND                                         13
+    heart heart heart heart heart heart heart heart heart heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when then sometimes then sometimes tonight sometimes
+EMOTIONS:AFFECTION                                               5
+    like like love love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    making try won won
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say says please
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand hand hand
+SECONDARY:ABSTRACTION                                            2
+    think knowing
+EMOTIONS:AGGRESSION                                              2
+    hits hits
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    melting sun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:NEED:ORALITY                                             1
+    lips
+
+PRIMARY             : 50.649351 %
+SECONDARY           : 40.259740 %
+EMOTIONS            : 9.090909 %
+
+330 words total

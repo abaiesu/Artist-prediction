@@ -1,0 +1,38 @@
+SECONDARY:RESTRAINT                                              9
+    policeman policeman policeman policeman policeman policeman police police police
+PRIMARY:SENSATION:VISION                                         7
+    seen look seen saw see saw see
+EMOTIONS:AGGRESSION                                              5
+    gun shoot beat shoot gun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand face face face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out out side
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    dies dies dies dies
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun fun fun
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everytime everytime everytime
+EMOTIONS:AFFECTION                                               2
+    friend friend
+SECONDARY:ABSTRACTION                                            2
+    why why
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call meet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searchin
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:NEED:SEX                                                 1
+    whores
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 32.000000 %
+EMOTIONS            : 20.000000 %
+
+227 words total

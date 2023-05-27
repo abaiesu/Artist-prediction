@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    open where back back back where back back back
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when old present old then again old
+SECONDARY:ABSTRACTION                                            7
+    know plant decided think plane plant decided
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    yellow horny yellow yellow horny yellow
+EMOTIONS:AFFECTION                                               5
+    friends goodbye like like goodbye
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    road road road road
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    plough found plough
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+SECONDARY:ORDER                                                  1
+    listened
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:VISION                                         1
+    blues
+EMOTIONS:AGGRESSION                                              1
+    shoot
+PRIMARY:NEED:ORALITY                                             1
+    vodka
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:SENSATION:ODOR                                           1
+    sniffing
+
+PRIMARY             : 37.735849 %
+SECONDARY           : 39.622642 %
+EMOTIONS            : 22.641509 %
+
+231 words total

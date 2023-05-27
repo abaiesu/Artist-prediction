@@ -1,0 +1,54 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time when when while now now when while
+EMOTIONS:AGGRESSION                                              6
+    tyrant fighting blame angry violence jealous
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out near off off off
+PRIMARY:SENSATION:VISION                                         4
+    violet see blue blue
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    beneath beneath beneath beneath
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sight sing sang
+EMOTIONS:GLORY                                                   2
+    great victor
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    coast door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet feet
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wandering wandering
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    excuse excuse
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    ladder sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:SADNESS                                                 1
+    wept
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    waterside
+SECONDARY:MORAL IMPERATIVE                                       1
+    upright
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+
+PRIMARY             : 49.090909 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 23.636364 %
+
+252 words total

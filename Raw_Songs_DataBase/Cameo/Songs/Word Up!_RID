@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    tell tell tell say call say tell say call say tell say
+SECONDARY:ABSTRACTION                                           11
+    cause know know think reason know reason why real know real
+EMOTIONS:AFFECTION                                              11
+    like like romance romance romance romance love like like like like
+SECONDARY:TEMPORAL REFERENCES                                   11
+    quick everybody when now time everybody when now now now everybody
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dance dance dance dance
+PRIMARY:SENSATION:SOUND                                          4
+    hear heard music hear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throw fly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try use
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:NEED:ORALITY                                             1
+    sucker
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 21.538462 %
+SECONDARY           : 55.384615 %
+EMOTIONS            : 23.076923 %
+
+341 words total

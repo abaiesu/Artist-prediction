@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    far away along at long at inside away away
+SECONDARY:TEMPORAL REFERENCES                                    6
+    times when time while till old
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    window window window windows windows
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    drifting slow silence
+PRIMARY:SENSATION:COLD                                           3
+    snow freeze cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    plays play screams
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    spirits high hills
+PRIMARY:SENSATION:VISION                                         2
+    looking watched
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    beach streams
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeps dreams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly leaps
+SECONDARY:MORAL IMPERATIVE                                       2
+    rights right
+EMOTIONS:AGGRESSION                                              2
+    fights beating
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand bones
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    candle burns
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:RESTRAINT                                              1
+    bounds
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    bought
+EMOTIONS:GLORY                                                   1
+    golden
+
+PRIMARY             : 67.924528 %
+SECONDARY           : 18.867925 %
+EMOTIONS            : 13.207547 %
+
+168 words total

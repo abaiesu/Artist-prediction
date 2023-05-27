@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                        17
+    shinin green seen seen seen seen seen look seen seen seen seen seen seen seen seen seen
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everything everything when times when when when when
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    rain rain rain rain rain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    fallin fallin fallin fallin fallin
+EMOTIONS:AFFECTION                                               4
+    lovin like lovin lovin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where out away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms arms arms
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+EMOTIONS:AGGRESSION                                              1
+    hits
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 71.153846 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 13.461538 %
+
+202 words total

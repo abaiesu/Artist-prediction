@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where where thither
+EMOTIONS:AFFECTION                                               2
+    like friend
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swim swim
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    limb
+PRIMARY:SENSATION:VISION                                         1
+    saw
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safely
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    depths
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    descend
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 12.500000 %
+EMOTIONS            : 12.500000 %
+
+48 words total

@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    once once now times when then every times when then every
+EMOTIONS:SADNESS                                                 7
+    disappointments sorrow sadness sorrow sorrow sorrow sorrow
+EMOTIONS:AGGRESSION                                              7
+    wreckage breaks hate breaks breaks breaks breaks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    claim found claim found
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    speaks answer speaks answer
+SECONDARY:RESTRAINT                                              4
+    stop stop stop stop
+EMOTIONS:AFFECTION                                               3
+    love loving loving
+PRIMARY:SENSATION:VISION                                         2
+    sunshine sunshine
+SECONDARY:ABSTRACTION                                            1
+    weigh
+EMOTIONS:ANXIETY                                                 1
+    dread
+
+PRIMARY             : 4.545455 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 40.909091 %
+
+156 words total

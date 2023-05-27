@@ -1,0 +1,20 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell promise said said
+SECONDARY:ABSTRACTION                                            1
+    thinking
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    bought
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+PRIMARY:SENSATION:VISION                                         1
+    blue
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 70.000000 %
+EMOTIONS            : 10.000000 %
+
+84 words total

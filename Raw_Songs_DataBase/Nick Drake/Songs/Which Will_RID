@@ -1,0 +1,22 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    answer call tell tell
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:ABSTRACTION                                            3
+    choose choose choose
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes won won
+PRIMARY:SENSATION:VISION                                         2
+    stars shine
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 19.047619 %
+
+95 words total

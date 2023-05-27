@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    away away out where where out at at back out
+PRIMARY:NEED:ORALITY                                             9
+    eats eats eats eat eat eat eaten cream throat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make pay reached tried tried sold producers
+SECONDARY:MORAL IMPERATIVE                                       6
+    right should should should rights moral
+EMOTIONS:AFFECTION                                               5
+    marry like lovers like like
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    met met met said
+PRIMARY:SENSATION:VISION                                         4
+    vision saw see see
+EMOTIONS:SADNESS                                                 3
+    sad sad repent
+SECONDARY:ABSTRACTION                                            3
+    plan them thought
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    horny scream yellow
+SECONDARY:RESTRAINT                                              2
+    stopped lock
+EMOTIONS:ANXIETY                                                 2
+    scary horror
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now then
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:SENSATION:SOUND                                          1
+    croaked
+PRIMARY:SENSATION:TOUCH                                          1
+    scaly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:AGGRESSION                                              1
+    ripped
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:SENSATION:COLD                                           1
+    ice
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slid
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 46.478873 %
+SECONDARY           : 33.802817 %
+EMOTIONS            : 19.718310 %
+
+356 words total

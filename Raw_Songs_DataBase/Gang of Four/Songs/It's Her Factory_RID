@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            4
+    subject them them them
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    front position close
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    attain factory factory
+EMOTIONS:GLORY                                                   2
+    heroine heroines
+SECONDARY:TEMPORAL REFERENCES                                    1
+    daily
+PRIMARY:SENSATION:VISION                                         1
+    views
+SECONDARY:RESTRAINT                                              1
+    suppress
+EMOTIONS:SADNESS                                                 1
+    suffering
+SECONDARY:MORAL IMPERATIVE                                       1
+    duty
+EMOTIONS:AFFECTION                                               1
+    sympathy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floors
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:ANXIETY                                                 1
+    avoid
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answers
+PRIMARY:SENSATION:SOUND                                          1
+    snappy
+
+PRIMARY             : 26.086957 %
+SECONDARY           : 47.826087 %
+EMOTIONS            : 26.086957 %
+
+137 words total

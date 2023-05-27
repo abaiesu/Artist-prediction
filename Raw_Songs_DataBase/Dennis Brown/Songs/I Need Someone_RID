@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:SOUND                                          9
+    music hear sound music hear sound music hear sound
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    dancing playing dancing playing dancing playing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away back away away back
+EMOTIONS:AFFECTION                                               4
+    like like like like
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+SECONDARY:MORAL IMPERATIVE                                       2
+    honest honest
+SECONDARY:ABSTRACTION                                            1
+    cause
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 33.333333 %
+
+210 words total

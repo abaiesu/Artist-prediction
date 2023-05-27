@@ -1,0 +1,32 @@
+EMOTIONS:POSITIVE AFFECT                                         5
+    smile smile smile smile laughter
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    roll roll roll roll roll
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    climb climb climb climb
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry cry cry cry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes foot
+PRIMARY:SENSATION:SOUND                                          1
+    echoes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+EMOTIONS:SADNESS                                                 1
+    sadness
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 7.142857 %
+EMOTIONS            : 35.714286 %
+
+54 words total

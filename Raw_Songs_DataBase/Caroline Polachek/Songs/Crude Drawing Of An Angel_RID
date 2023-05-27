@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    side here back side here
+PRIMARY:SENSATION:VISION                                         4
+    watch light watch light
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    brow hand blood eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bath
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaky
+SECONDARY:ABSTRACTION                                            1
+    something
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+EMOTIONS:ANXIETY                                                 1
+    shy
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+
+PRIMARY             : 86.956522 %
+SECONDARY           : 8.695652 %
+EMOTIONS            : 4.347826 %
+
+158 words total

@@ -1,0 +1,34 @@
+EMOTIONS:AGGRESSION                                             11
+    breaking whip whip whip whip whip whip whip whip whip whip
+SECONDARY:ABSTRACTION                                            4
+    problem problem true true
+PRIMARY:NEED:ORALITY                                             3
+    fast drink fast
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time every old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    backs over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    paying trade
+EMOTIONS:AFFECTION                                               2
+    dear dear
+SECONDARY:RESTRAINT                                              1
+    tax
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:SENSATION:HARD                                           1
+    hardy
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+
+PRIMARY             : 32.352941 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 38.235294 %
+
+230 words total

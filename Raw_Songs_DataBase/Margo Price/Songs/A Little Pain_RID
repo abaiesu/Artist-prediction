@@ -1,0 +1,30 @@
+EMOTIONS:SADNESS                                                10
+    pain pain pain pain pain pain pain pain pain pain
+EMOTIONS:AGGRESSION                                             10
+    hurt hurt breaking hurt hurt hurt hurt hurt hurt hurt
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please said said say call said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    trying work make working making
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everybody everybody when quick when
+SECONDARY:ABSTRACTION                                            5
+    except thinks reality believe real
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+SECONDARY:RESTRAINT                                              1
+    obligations
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+
+PRIMARY             : 6.122449 %
+SECONDARY           : 44.897959 %
+EMOTIONS            : 48.979592 %
+
+192 words total

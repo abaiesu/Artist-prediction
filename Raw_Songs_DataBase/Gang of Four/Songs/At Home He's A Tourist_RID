@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at at at at off forward back back back back at at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    floor floor steps steps steps steps steps step
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make profit sell make profit sell make
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    help said accepts said accepts help
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    tourist tourist tourist tourist
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    jump jump jump jump
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+PRIMARY:SENSATION:TOUCH                                          2
+    rubbers rubbers
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top top
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+PRIMARY:NEED:ORALITY                                             1
+    cob
+SECONDARY:ABSTRACTION                                            1
+    why
+EMOTIONS:ANXIETY                                                 1
+    anxious
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 24.561404 %
+EMOTIONS            : 8.771930 %
+
+197 words total

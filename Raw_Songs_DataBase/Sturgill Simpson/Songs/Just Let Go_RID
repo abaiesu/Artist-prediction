@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    off far away here between far at close
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today ever now time everything
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    woke dream dreaming
+SECONDARY:ABSTRACTION                                            3
+    decided them reality
+PRIMARY:SENSATION:VISION                                         3
+    light looking see
+EMOTIONS:AGGRESSION                                              2
+    kill break
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying lies
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blast
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    bardo
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 8.823529 %
+
+137 words total

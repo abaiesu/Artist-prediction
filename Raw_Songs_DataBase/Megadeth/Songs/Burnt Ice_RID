@@ -1,0 +1,54 @@
+SECONDARY:RESTRAINT                                              7
+    mustaine mustaine mustaine stop mustaine mustaine mustaine
+EMOTIONS:AGGRESSION                                              7
+    blames hit destruction break broken beaten hit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    try make pay sell find
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said calling talk follow
+SECONDARY:ABSTRACTION                                            4
+    them truth cause think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    straight at away over
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    spiral high grows
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies death dead
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now everywhere
+PRIMARY:SENSATION:SOUND                                          2
+    voices ringing
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+PRIMARY:SENSATION:HARD                                           2
+    hardly hardly
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:ORALITY                                             1
+    toothless
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:NEED:ANALITY                                             1
+    dungeon
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnt
+PRIMARY:SENSATION:COLD                                           1
+    ice
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    paranoia
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 40.350877 %
+EMOTIONS            : 17.543860 %
+
+182 words total

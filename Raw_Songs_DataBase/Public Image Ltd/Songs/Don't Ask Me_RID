@@ -1,0 +1,60 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    20
+    scream shout scream shout scream shout scream shout scream shout scream shout scream shout scream shout scream shout scream shout
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    ask told ask ask told protecting met told ask told ask told ask told
+SECONDARY:ABSTRACTION                                           14
+    cause know know planning cause know planet truth cause know cause know cause know
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when then then then then then then then then then then then
+EMOTIONS:AGGRESSION                                              6
+    blame blame blame blame blame deceive
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    sky trees heaven highest highest
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    river tide ocean swimming
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should shouldn oughta
+PRIMARY:NEED:ORALITY                                             4
+    honey cake choking eat
+EMOTIONS:AFFECTION                                               3
+    like like goodbye
+PRIMARY:SENSATION:VISION                                         3
+    view see greenhouse
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    middle layered layers
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burning heat sun
+PRIMARY:NEED:ANALITY                                             2
+    mud messing
+SECONDARY:ORDER                                                  2
+    listen listen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    product product
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb climb
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrete
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 30.973451 %
+SECONDARY           : 42.477876 %
+EMOTIONS            : 26.548673 %
+
+491 words total

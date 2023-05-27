@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       25
+    over over out out over over off over here over over over over over over back at over here over over over over over over
+SECONDARY:ABSTRACTION                                            5
+    different learnin suppose why proof
+SECONDARY:TEMPORAL REFERENCES                                    4
+    soon years week years
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    bought records make
+EMOTIONS:AGGRESSION                                              2
+    hurtin bother
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+EMOTIONS:POSITIVE AFFECT                                         1
+    jokes
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sayin
+EMOTIONS:AFFECTION                                               1
+    friends
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:VISION                                         1
+    picture
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+
+PRIMARY             : 57.446809 %
+SECONDARY           : 29.787234 %
+EMOTIONS            : 12.765957 %
+
+225 words total

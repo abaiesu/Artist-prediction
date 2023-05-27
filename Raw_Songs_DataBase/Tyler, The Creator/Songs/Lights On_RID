@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    off closer closer closer closer far forward where far off off front
+SECONDARY:ABSTRACTION                                           11
+    sure may may may know plane may may may cause plan
+PRIMARY:SENSATION:VISION                                        11
+    lights lights lights seeing lights lights lights lights see lights lights
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now now now while while while while while while then
+PRIMARY:SENSATION:SOUND                                          6
+    hear ring echo echo echo echo
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    streets door door door
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slow slow slow
+EMOTIONS:AFFECTION                                               3
+    goodbyes like like
+PRIMARY:NEED:ORALITY                                             2
+    fast fast
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pick trying
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    gift
+
+PRIMARY             : 60.273973 %
+SECONDARY           : 34.246575 %
+EMOTIONS            : 5.479452 %
+
+362 words total

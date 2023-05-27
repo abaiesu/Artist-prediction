@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:SOUND                                         16
+    sounds heart heart heart heart heart heart heart heart heart heart heart heart heart temporary hearts
+EMOTIONS:AFFECTION                                               8
+    like love goodbye kind love lovin love love
+SECONDARY:ABSTRACTION                                            7
+    cause real think know think may different
+SECONDARY:TEMPORAL REFERENCES                                    7
+    quick older old ever time soon when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    makes try cure won cure
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    side at close overdose
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say help told
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfaction relief
+EMOTIONS:GLORY                                                   2
+    gold greatest
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:NEED:ORALITY                                             1
+    swallowed
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+
+PRIMARY             : 40.322581 %
+SECONDARY           : 37.096774 %
+EMOTIONS            : 22.580645 %
+
+267 words total

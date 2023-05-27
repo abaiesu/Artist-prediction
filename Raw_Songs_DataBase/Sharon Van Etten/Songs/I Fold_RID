@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                              7
+    broken broken broken broken broken broken broken
+SECONDARY:ABSTRACTION                                            4
+    thought thought know thought
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    confidence granted
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    foot face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sang
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 24.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 36.000000 %
+
+91 words total

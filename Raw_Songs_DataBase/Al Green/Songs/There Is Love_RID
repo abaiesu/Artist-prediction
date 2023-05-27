@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              39
+    love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tellers sayings saying sayings
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    paid count lessons counting
+SECONDARY:ABSTRACTION                                            3
+    believe know know
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out opened
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stepped
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:RESTRAINT                                              1
+    captured
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+
+PRIMARY             : 18.181818 %
+SECONDARY           : 19.696970 %
+EMOTIONS            : 62.121212 %
+
+214 words total

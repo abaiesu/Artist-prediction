@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:TASTE                                         12
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+PRIMARY:SENSATION:VISION                                         7
+    see see see green light green light
+SECONDARY:RESTRAINT                                              6
+    stop stop stop stop stop stop
+SECONDARY:ABSTRACTION                                            6
+    sure sure sure sure sure sure
+EMOTIONS:AGGRESSION                                              6
+    shot shot shot shot shot shot
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now everybody everybody everybody time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancin dancin dancin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back here back
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dip
+PRIMARY:NEED:ORALITY                                             1
+    candy
+
+PRIMARY             : 49.056604 %
+SECONDARY           : 32.075472 %
+EMOTIONS            : 18.867925 %
+
+259 words total

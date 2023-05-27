@@ -1,0 +1,38 @@
+PRIMARY:NEED:ORALITY                                             4
+    coffee toothpaste grain toothless
+PRIMARY:SENSATION:VISION                                         3
+    color saw amber
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    layer at westbound
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    elevators high tally
+SECONDARY:ORDER                                                  2
+    former former
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+EMOTIONS:SADNESS                                                 1
+    paintings
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+EMOTIONS:AGGRESSION                                              1
+    feudal
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+EMOTIONS:POSITIVE AFFECT                                         1
+    grinning
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:ABSTRACTION                                            1
+    something
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    called
+PRIMARY:SENSATION:SOUND                                          1
+    hum
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trade
+
+PRIMARY             : 65.384615 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 11.538462 %
+
+91 words total

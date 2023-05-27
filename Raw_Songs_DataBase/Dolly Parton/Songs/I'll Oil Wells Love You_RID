@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              10
+    married love dear love love dear love married love dear
+PRIMARY:SENSATION:VISION                                         5
+    looked saw light shine light
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    met said said tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make money find money
+SECONDARY:ABSTRACTION                                            4
+    sure real thought know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    suddenly then now ever
+EMOTIONS:GLORY                                                   3
+    wealthy rich fame
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near nearly
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:TOUCH                                          1
+    cuddled
+PRIMARY:SENSATION:SOUND                                          1
+    ear
+
+PRIMARY             : 29.268293 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 31.707317 %
+
+225 words total

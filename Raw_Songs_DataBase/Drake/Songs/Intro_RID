@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    here south south wherever out south here southern out here south
+SECONDARY:ABSTRACTION                                            7
+    know understand know cause know cause know
+PRIMARY:SENSATION:VISION                                         3
+    witness look look
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard tune
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time now time
+SECONDARY:ORDER                                                  3
+    listening listening listen
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call accept
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    improvement
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 2.631579 %
+
+197 words total

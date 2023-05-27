@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    while sometimes now sometimes whens again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make work work make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    distance somewhere here here
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    help taught shelter share
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile laugh laugh
+EMOTIONS:AGGRESSION                                              3
+    hurting struggling cut
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes arms
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire burn
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:ABSTRACTION                                            2
+    comprehend know
+EMOTIONS:SADNESS                                                 2
+    pain suffering
+PRIMARY:SENSATION:ODOR                                           2
+    smell perfume
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:SENSATION:SOUND                                          1
+    ears
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+
+PRIMARY             : 36.956522 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 23.913043 %
+
+223 words total

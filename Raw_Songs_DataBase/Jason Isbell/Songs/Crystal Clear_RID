@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    here wide away place away place away place away back off away place away place away place away place
+SECONDARY:ABSTRACTION                                            9
+    guess different know think think thought guess difference thought
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every when ever now old
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call says helps told told
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    makin money pay skill make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    street avenue trailer avenue
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    flames burn burned burn
+PRIMARY:NEED:ORALITY                                             3
+    fast cook fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow shade
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin brains
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    awake sleep
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:ORDER                                                  2
+    list list
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:AGGRESSION                                              1
+    killed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:SENSATION:VISION                                         1
+    looks
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+
+PRIMARY             : 58.904110 %
+SECONDARY           : 38.356164 %
+EMOTIONS            : 2.739726 %
+
+365 words total

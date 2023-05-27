@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            7
+    cause know cause cause true true true
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now once time when when time
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    promise promise promise promise said tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at along rearrange rearrange rearrange rearrange
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun satisfy satisfy
+SECONDARY:RESTRAINT                                              3
+    stop must stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    mend try won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    brain brain brain
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainin
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    painin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:HARD                                           1
+    marbles
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 52.083333 %
+EMOTIONS            : 14.583333 %
+
+455 words total

@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said say tell tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    sold find sell buy make
+SECONDARY:ABSTRACTION                                            5
+    know know thinks know figured
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when now now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    death death death death
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high heaven
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    toes beardless
+PRIMARY:SENSATION:VISION                                         2
+    blue scene
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    square
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screamed
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rode
+
+PRIMARY             : 37.837838 %
+SECONDARY           : 56.756757 %
+EMOTIONS            : 5.405405 %
+
+235 words total

@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:TASTE                                          5
+    sweet sweet sweet sweet sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makin won use make
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    hours when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    able tell
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 22.727273 %
+SECONDARY           : 68.181818 %
+EMOTIONS            : 9.090909 %
+
+250 words total

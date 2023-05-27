@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               7
+    like like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    6
+    weekend weekend years when when till
+EMOTIONS:POSITIVE AFFECT                                         4
+    laugh fun laugh fun
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at away at away
+SECONDARY:ABSTRACTION                                            3
+    tender weighs weighs
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body body bones
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    danced danced dance
+PRIMARY:SENSATION:HARD                                           3
+    splintered splintered stone
+EMOTIONS:AGGRESSION                                              2
+    violent break
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    forgive forgive
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    dawn dawn
+PRIMARY:SENSATION:VISION                                         2
+    shins shins
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow shadow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    win costs
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 36.956522 %
+SECONDARY           : 28.260870 %
+EMOTIONS            : 34.782609 %
+
+343 words total

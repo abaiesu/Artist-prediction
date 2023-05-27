@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:SOUND                                          5
+    whirl hearts hearts hearts hearts
+EMOTIONS:AGGRESSION                                              4
+    breakin breaking breakin breakin
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+EMOTIONS:AFFECTION                                               2
+    like marry
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    workin
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tells
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 44.444444 %
+
+87 words total

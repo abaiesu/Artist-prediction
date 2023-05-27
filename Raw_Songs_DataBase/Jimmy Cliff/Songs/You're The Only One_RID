@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                           12
+    believe believe real believe believe believe believe believe believe believe believe believe
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk answers
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancers
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    places
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    showered
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 20.833333 %
+SECONDARY           : 70.833333 %
+EMOTIONS            : 8.333333 %
+
+268 words total

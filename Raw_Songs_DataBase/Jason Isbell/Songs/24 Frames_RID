@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when when now everything when every when when again now everything now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make make make make architect built architect built architect
+SECONDARY:ABSTRACTION                                            8
+    thought know something thought know something thought know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call help help talk help
+EMOTIONS:AFFECTION                                               4
+    love like like friends
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    frames frames frames frames
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back closer back
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flames flames
+PRIMARY:SENSATION:VISION                                         2
+    see noticed
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floating
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ceiling
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    stops
+EMOTIONS:AGGRESSION                                              1
+    beating
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 62.068966 %
+EMOTIONS            : 10.344828 %
+
+242 words total

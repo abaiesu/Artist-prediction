@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    inside off here backstretch inside back out out place
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now when now once today now
+PRIMARY:SENSATION:SOUND                                          5
+    heart heartaches heart heartaches heart
+EMOTIONS:AFFECTION                                               4
+    like love like love
+EMOTIONS:AGGRESSION                                              4
+    break stab break hated
+EMOTIONS:SADNESS                                                 4
+    loneliness painful sorrow pain
+SECONDARY:ABSTRACTION                                            4
+    may may true cause
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    sharp say call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    result findin win
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sprung
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    bawl
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:TOUCH                                          1
+    scratched
+PRIMARY:SENSATION:VISION                                         1
+    looks
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    waking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 30.357143 %
+EMOTIONS            : 26.785714 %
+
+196 words total

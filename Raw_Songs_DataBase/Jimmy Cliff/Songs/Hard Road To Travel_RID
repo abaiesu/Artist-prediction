@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                        19
+    rough rough rough rough see see rough rough rough rough see see see rough rough rough rough see see
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said tell call said said help please help
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    road road road road road road road
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           7
+    travel travel roam travel travel travel travel
+PRIMARY:SENSATION:HARD                                           6
+    hard hard hard hard hard hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back back far where where back
+SECONDARY:RESTRAINT                                              4
+    stop stop must stop
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:SADNESS                                                 2
+    lonesome pain
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river sea
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deeper deeper
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hills steeper
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:ANXIETY                                                 1
+    troubles
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 72.727273 %
+SECONDARY           : 19.480519 %
+EMOTIONS            : 7.792208 %
+
+273 words total

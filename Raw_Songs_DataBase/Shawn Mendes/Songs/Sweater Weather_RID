@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    centered out here away place far away outside inside out here here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    hands toes head neck hands hand face hands hands
+SECONDARY:ABSTRACTION                                            8
+    knows think think cause may cause knows cause
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now sometimes minute then everybody now now
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:NEED:ANALITY                                             4
+    sweater sweater sweater sweater
+PRIMARY:NEED:ORALITY                                             4
+    mouths mouths tongue mouths
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk say guides talk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    use find find
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touch
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    holes holes holes
+EMOTIONS:AGGRESSION                                              2
+    hate beat
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    beach pours
+PRIMARY:NEED:SEX                                                 2
+    waisted waist
+EMOTIONS:GLORY                                                   1
+    adventure
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 27.500000 %
+EMOTIONS            : 10.000000 %
+
+282 words total

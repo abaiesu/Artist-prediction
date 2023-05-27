@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                         7
+    colours colours colours colours colours colours colours
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now now now now now
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please please please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+SECONDARY:ABSTRACTION                                            3
+    sure sure sure
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    stepping stepping stepping
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out out
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+
+PRIMARY             : 38.235294 %
+SECONDARY           : 52.941176 %
+EMOTIONS            : 8.823529 %
+
+174 words total

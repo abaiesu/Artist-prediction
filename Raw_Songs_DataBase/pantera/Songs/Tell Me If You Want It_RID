@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    tell tell tell tell tell tell tell tell call tell tell call tell tell tell tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    try make making try make make makin make
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+PRIMARY:SENSATION:VISION                                         3
+    looking look lookin
+SECONDARY:TEMPORAL REFERENCES                                    3
+    sometimes sometimes sometimes
+EMOTIONS:AFFECTION                                               3
+    love love like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back at back
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    laid laid
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 24.528302 %
+SECONDARY           : 69.811321 %
+EMOTIONS            : 5.660377 %
+
+272 words total

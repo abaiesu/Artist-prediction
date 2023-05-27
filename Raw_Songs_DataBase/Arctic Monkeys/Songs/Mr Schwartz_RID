@@ -1,0 +1,38 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    test win attempted try reaching business
+SECONDARY:TEMPORAL REFERENCES                                    4
+    timing now time ever
+SECONDARY:ABSTRACTION                                            3
+    probably fact guess
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here at
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolling rolling
+PRIMARY:SENSATION:SOFT                                           2
+    velveteen velveteen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing dancing
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:ORDER                                                  1
+    gradually
+PRIMARY:SENSATION:VISION                                         1
+    view
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:NEED:ORALITY                                             1
+    tea
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asking
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 48.387097 %
+EMOTIONS            : 16.129032 %
+
+189 words total

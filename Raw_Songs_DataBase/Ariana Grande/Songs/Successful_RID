@@ -1,0 +1,38 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 15
+    work successful successful successful successful successful successful successful successful make make successful successful successful successful
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say say say say say say say say say say
+SECONDARY:TEMPORAL REFERENCES                                    6
+    tonight tonight tonight tonight tonight tonight
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    6
+    beneath beneath beneath beneath beneath beneath
+EMOTIONS:POSITIVE AFFECT                                         4
+    excited fun fun fun
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back place over
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play play play
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+EMOTIONS:AFFECTION                                               3
+    favorite like like
+PRIMARY:SENSATION:COLD                                           3
+    chills chills cold
+SECONDARY:ABSTRACTION                                            2
+    real know
+PRIMARY:SENSATION:HARD                                           2
+    hard hardly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands eyes
+PRIMARY:SENSATION:VISION                                         1
+    imagine
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 29.850746 %
+SECONDARY           : 55.223881 %
+EMOTIONS            : 14.925373 %
+
+493 words total

@@ -1,0 +1,30 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find carry try carry finds
+EMOTIONS:AFFECTION                                               5
+    love dear love like love
+SECONDARY:ABSTRACTION                                            3
+    tender know know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old then time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place inside between
+PRIMARY:SENSATION:HARD                                           2
+    hard hardly
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 37.037037 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 22.222222 %
+
+179 words total

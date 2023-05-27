@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    place where here here space here place at here
+PRIMARY:SENSATION:VISION                                         4
+    light light green look
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever when old
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky grow
+SECONDARY:ABSTRACTION                                            2
+    reason why
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling happy
+PRIMARY:SENSATION:SOUND                                          2
+    sound hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deepest
+PRIMARY:NEED:ANALITY                                             1
+    stalks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shades
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+
+PRIMARY             : 72.222222 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 11.111111 %
+
+114 words total

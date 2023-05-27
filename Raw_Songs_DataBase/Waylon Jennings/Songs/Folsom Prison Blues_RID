@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    round farther far where long away
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when time when ever every time
+PRIMARY:SENSATION:VISION                                         5
+    seen sunshine see watch blues
+SECONDARY:ABSTRACTION                                            5
+    know probably know know them
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear whistle whistle
+PRIMARY:NEED:ORALITY                                             4
+    eatin dining drinkin coffee
+SECONDARY:RESTRAINT                                              3
+    prison prison prison
+EMOTIONS:AGGRESSION                                              3
+    tortures guns shot
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play cry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    railroad line
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rollin
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smokin
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:SADNESS                                                 1
+    lonesome
+
+PRIMARY             : 54.166667 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 14.583333 %
+
+187 words total

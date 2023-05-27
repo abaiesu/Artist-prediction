@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say say say say say granted accepted say said say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make find
+SECONDARY:ABSTRACTION                                            3
+    important believe meant
+SECONDARY:TEMPORAL REFERENCES                                    3
+    often older now
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+EMOTIONS:AFFECTION                                               2
+    love goodbye
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long back
+PRIMARY:SENSATION:VISION                                         1
+    notice
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:SOUND                                          1
+    ears
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 13.333333 %
+
+275 words total

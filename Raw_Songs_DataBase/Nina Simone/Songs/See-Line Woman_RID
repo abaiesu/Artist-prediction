@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        11
+    see see see green see see see see see see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    line line line line line line line line line line
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at back away out away
+PRIMARY:NEED:ORALITY                                             4
+    drink coffee drink tea
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then now now then
+EMOTIONS:SADNESS                                                 4
+    wail moan wail moan
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+EMOTIONS:AFFECTION                                               3
+    like love love
+EMOTIONS:AGGRESSION                                              2
+    wreck wreck
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:SENSATION:SOFT                                           1
+    silk
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:ABSTRACTION                                            1
+    sure
+
+PRIMARY             : 66.037736 %
+SECONDARY           : 15.094340 %
+EMOTIONS            : 18.867925 %
+
+148 words total

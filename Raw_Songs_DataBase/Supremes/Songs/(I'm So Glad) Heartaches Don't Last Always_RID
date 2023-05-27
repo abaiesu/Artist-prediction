@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                         13
+    heartaches heartaches heartaches heartaches heartaches heartaches heartaches heartaches heartaches heartaches heartaches heartaches heartaches
+EMOTIONS:POSITIVE AFFECT                                        10
+    glad glad glad glad glad glad happy rejoiced glad glad
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    at away over over close middle between over over at
+SECONDARY:ABSTRACTION                                            5
+    cause cause cause cause cause
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    tossin tossin tossin tossin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleep sleep sleep sleep
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when now
+EMOTIONS:GLORY                                                   2
+    wondering wonderful
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+
+PRIMARY             : 60.714286 %
+SECONDARY           : 16.071429 %
+EMOTIONS            : 23.214286 %
+
+231 words total

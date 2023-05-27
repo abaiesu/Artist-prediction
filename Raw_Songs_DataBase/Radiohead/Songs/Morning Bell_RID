@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where where round round round round round round round round
+PRIMARY:SENSATION:VISION                                         3
+    light lights lights
+EMOTIONS:AGGRESSION                                              3
+    cut cut cut
+PRIMARY:SENSATION:SOUND                                          2
+    bell bell
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    candle fire
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now everybody
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepy
+EMOTIONS:AFFECTION                                               1
+    friend
+
+PRIMARY             : 73.076923 %
+SECONDARY           : 11.538462 %
+EMOTIONS            : 15.384615 %
+
+145 words total

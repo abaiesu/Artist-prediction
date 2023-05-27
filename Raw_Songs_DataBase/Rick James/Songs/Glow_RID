@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                        16
+    look look glow glow glow glow glow glow glow glow glow glow glow glow glow glow
+PRIMARY:SENSATION:GENERAL-SENSATION                             12
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please tell agree
+EMOTIONS:AFFECTION                                               3
+    like dear love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    open open open
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin eyes
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling smile
+PRIMARY:NEED:SEX                                                 1
+    sexy
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    vibration
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:TEMPORAL REFERENCES                                    1
+    tonight
+
+PRIMARY             : 73.214286 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 8.928571 %
+
+178 words total

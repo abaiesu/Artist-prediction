@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       35
+    at long back back here back here back here back here at back back here back here back here back here away here back here back here back here back here back here back here
+SECONDARY:TEMPORAL REFERENCES                                   11
+    then when when today now now when today when when today
+SECONDARY:ABSTRACTION                                           10
+    know plane guess know knowing known know guess cause guess
+EMOTIONS:AFFECTION                                               6
+    goodbye like like love like like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  6
+    fall sinks sinks falling falling sinks
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said told help
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play played
+EMOTIONS:AGGRESSION                                              2
+    cruelest break
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+PRIMARY:SENSATION:SOFT                                           1
+    delicate
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    nonchalant
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+
+PRIMARY             : 56.976744 %
+SECONDARY           : 31.395349 %
+EMOTIONS            : 11.627907 %
+
+328 words total

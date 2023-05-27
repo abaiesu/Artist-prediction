@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                        17
+    look see looking look see looking look see looking look look looking look look see look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    where back at besides out back back at back at at back at at at over
+SECONDARY:ABSTRACTION                                           13
+    know true problem solution reason why think think evidence reason why reason why
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    tell talking saying talking say talking called talking talking talking talking talking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       11
+    safe die lie lie die lie lie die lie lie dead
+PRIMARY:NEED:ORALITY                                             4
+    mouth lime eaten teeth
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when time now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find won pay won
+PRIMARY:SENSATION:SOUND                                          3
+    hear boomerang loudest
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleeping sleeping sleeping
+SECONDARY:RESTRAINT                                              3
+    resist stop stop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face brain flesh
+EMOTIONS:AGGRESSION                                              2
+    shovel attack
+EMOTIONS:AFFECTION                                               2
+    friends like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    bark play
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trail
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 5.882353 %
+
+370 words total

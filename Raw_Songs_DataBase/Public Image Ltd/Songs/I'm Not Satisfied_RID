@@ -1,0 +1,26 @@
+EMOTIONS:POSITIVE AFFECT                                        18
+    satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied satisfied
+EMOTIONS:SADNESS                                                 5
+    pain suffering pain pain suffering
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then again again again again
+SECONDARY:ABSTRACTION                                            4
+    why know why why
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said talk said
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed dead ease
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+
+PRIMARY             : 16.279070 %
+SECONDARY           : 30.232558 %
+EMOTIONS            : 53.488372 %
+
+179 words total

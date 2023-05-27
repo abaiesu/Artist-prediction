@@ -1,0 +1,30 @@
+PRIMARY:NEED:ORALITY                                             8
+    cherry cherry cherry cherry cherry cherry cherry cherry
+SECONDARY:ABSTRACTION                                            7
+    know believe true believe why believe why
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please say accept say accept
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make try make try make
+PRIMARY:SENSATION:VISION                                         3
+    look see see
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now then then
+EMOTIONS:POSITIVE AFFECT                                         3
+    joys gladly gladly
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long over
+EMOTIONS:SADNESS                                                 2
+    frown frown
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    madly madly
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 32.608696 %
+SECONDARY           : 45.652174 %
+EMOTIONS            : 21.739130 %
+
+180 words total

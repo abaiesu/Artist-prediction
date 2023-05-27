@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes head head
+SECONDARY:ABSTRACTION                                            3
+    true real cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place place
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    chase chase
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    unknown unknown
+PRIMARY:SENSATION:VISION                                         1
+    invisible
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:TEMPORAL REFERENCES                                    1
+    tonight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fantasy
+
+PRIMARY             : 70.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 0.000000 %
+
+142 words total

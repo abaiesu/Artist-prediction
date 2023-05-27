@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         3
+    looking light scene
+EMOTIONS:AFFECTION                                               1
+    familiar
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    pile
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    lit
+SECONDARY:RESTRAINT                                              1
+    summons
+PRIMARY:NEED:ORALITY                                             1
+    beer
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    poured
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    off
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+EMOTIONS:GLORY                                                   1
+    golden
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screamed
+
+PRIMARY             : 71.428571 %
+SECONDARY           : 7.142857 %
+EMOTIONS            : 21.428571 %
+
+135 words total

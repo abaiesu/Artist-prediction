@@ -1,0 +1,60 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    education tell ask called said education promise help say ask pleasure education education
+SECONDARY:ABSTRACTION                                           13
+    topic understand know cause difference purpose know probably know proof know sure cause
+PRIMARY:SENSATION:VISION                                        12
+    look see blue look picture noticed see lights blinkin blue flash see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    acquire record record buildin buildin study findin pick make hired obtain
+SECONDARY:TEMPORAL REFERENCES                                   11
+    yesterday when time every time clock while when when now ever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       9
+    hallucination walls street step hallucination step hallucination streets hallucination
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    inside inside away off place out side
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    face neck blood head neck brain
+SECONDARY:MORAL IMPERATIVE                                       5
+    should should respect honesty respect
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    roof top roof grown grown
+EMOTIONS:POSITIVE AFFECT                                         4
+    elations elations elations elations
+PRIMARY:SENSATION:SOUND                                          4
+    bang heard heard rhythm
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    safe quietly silence
+EMOTIONS:AGGRESSION                                              3
+    accustomed kill violence
+SECONDARY:RESTRAINT                                              2
+    prisoner require
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing playin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jumpin lift
+EMOTIONS:ANXIETY                                                 2
+    trouble fear
+SECONDARY:ORDER                                                  2
+    rank grade
+EMOTIONS:SADNESS                                                 2
+    paint pain
+EMOTIONS:GLORY                                                   2
+    wonderin wonder
+PRIMARY:NEED:ORALITY                                             2
+    candy candy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    stray
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spin
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 42.519685 %
+SECONDARY           : 44.881890 %
+EMOTIONS            : 12.598425 %
+
+590 words total

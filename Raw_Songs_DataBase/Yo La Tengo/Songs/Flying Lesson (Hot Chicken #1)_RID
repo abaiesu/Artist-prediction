@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everywhere everywhere when again again when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes head footsteps eyes eyes
+PRIMARY:SENSATION:SOUND                                          5
+    hear hear heart hear sound
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    places apart places places
+PRIMARY:SENSATION:VISION                                         3
+    see look look
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep dream awake
+SECONDARY:ABSTRACTION                                            2
+    think why
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+EMOTIONS:ANXIETY                                                 1
+    nervous
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    restlessness
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 8.823529 %
+
+113 words total

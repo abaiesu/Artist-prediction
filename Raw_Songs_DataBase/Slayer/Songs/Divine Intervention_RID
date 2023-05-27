@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    face face eyes flesh bone faces face eyes
+PRIMARY:SENSATION:VISION                                         7
+    look light look see see look see
+EMOTIONS:AFFECTION                                               5
+    like mercy familiar mercy like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    place at at place at
+SECONDARY:ABSTRACTION                                            5
+    why reality reason judge why
+EMOTIONS:SADNESS                                                 4
+    pain pain pain pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reach trying reach
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    awaken awaken
+EMOTIONS:AGGRESSION                                              2
+    torture violated
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    void strange
+EMOTIONS:GLORY                                                   1
+    brilliant
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    deathless
+PRIMARY:NEED:SEX                                                 1
+    naked
+PRIMARY:NEED:ANALITY                                             1
+    shattered
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+SECONDARY:RESTRAINT                                              1
+    control
+
+PRIMARY             : 54.901961 %
+SECONDARY           : 19.607843 %
+EMOTIONS            : 25.490196 %
+
+190 words total

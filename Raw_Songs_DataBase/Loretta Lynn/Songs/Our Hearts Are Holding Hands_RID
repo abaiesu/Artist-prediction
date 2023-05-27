@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    far apart here where across far apart out where across far apart
+SECONDARY:ABSTRACTION                                           10
+    knowing cause cause know know cause cause know know may
+PRIMARY:SENSATION:SOUND                                          6
+    hearts hearts hearts hearts hearts hearts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    hands hands hands hands hands hands
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when sometimes today
+PRIMARY:SENSATION:VISION                                         3
+    rough looked flashed
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buy found
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:GLORY                                                   1
+    gold
+
+PRIMARY             : 56.363636 %
+SECONDARY           : 30.909091 %
+EMOTIONS            : 12.727273 %
+
+188 words total

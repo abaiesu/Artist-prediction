@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    open outside middle middle place middle out southern outside middle close here away open outside middle
+PRIMARY:SENSATION:VISION                                         8
+    light see see seeing watch watch notice light
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    window step stepping step window step
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried tried used used tried
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again everybody moment time again
+SECONDARY:ABSTRACTION                                            5
+    them know know know them
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face hand head hand
+EMOTIONS:AFFECTION                                               3
+    grateful like like
+EMOTIONS:ANXIETY                                                 3
+    scared scared scared
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silent bed die
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call say
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping dream
+EMOTIONS:AGGRESSION                                              1
+    blame
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+
+PRIMARY             : 62.318841 %
+SECONDARY           : 24.637681 %
+EMOTIONS            : 13.043478 %
+
+288 words total

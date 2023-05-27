@@ -1,0 +1,40 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    won use won make make won use make make use make make
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    says says help help tell say helps say please told help
+SECONDARY:ABSTRACTION                                           11
+    think idea plan meant think plan know knows know why plan
+EMOTIONS:AFFECTION                                               8
+    love love love love like love love love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever ever when now now
+SECONDARY:MORAL IMPERATIVE                                       4
+    should right right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    veins brain brain brain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away out out long
+EMOTIONS:AGGRESSION                                              3
+    opposite strike striking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    hypnotized hypnotize
+PRIMARY:NEED:ORALITY                                             1
+    cherry
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+
+PRIMARY             : 21.126761 %
+SECONDARY           : 60.563380 %
+EMOTIONS            : 18.309859 %
+
+357 words total

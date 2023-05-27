@@ -1,0 +1,50 @@
+EMOTIONS:AFFECTION                                              32
+    love love love love love love love love love love love love love love love love love love love love love love love love embrace love love love love love love love
+PRIMARY:SENSATION:TASTE                                         12
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time now now time now time soon now now
+SECONDARY:ABSTRACTION                                            7
+    truly tender cause cause truly tender truly
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+EMOTIONS:GLORY                                                   4
+    wonderful wonderful wonderful wonderful
+PRIMARY:SENSATION:VISION                                         3
+    watched star see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    lit search warm
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    close long inside
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    comfort comfort comfort
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried found
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:NEED:ORALITY                                             1
+    lips
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 33.684211 %
+SECONDARY           : 25.263158 %
+EMOTIONS            : 41.052632 %
+
+291 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out off out open open open open
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    winning winning winning try winning
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when now
+PRIMARY:SENSATION:SOUND                                          3
+    vocal sounding heartaches
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eye headaches
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    educated answers suggestions
+SECONDARY:ABSTRACTION                                            2
+    learning understanding
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    revolving revolving
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:GLORY                                                   1
+    brilliant
+PRIMARY:SENSATION:VISION                                         1
+    observing
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doors
+
+PRIMARY             : 55.882353 %
+SECONDARY           : 38.235294 %
+EMOTIONS            : 5.882353 %
+
+106 words total

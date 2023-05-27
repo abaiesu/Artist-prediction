@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    off off off off off off off off
+PRIMARY:NEED:ORALITY                                             5
+    candy candy candy candy lip
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    drippin drippin drippin drippin
+EMOTIONS:GLORY                                                   4
+    gold gold gold gold
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell talking
+SECONDARY:ABSTRACTION                                            3
+    them guess guess
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything when when
+PRIMARY:SENSATION:VISION                                         3
+    see see lights
+PRIMARY:SENSATION:SOUND                                          2
+    trill heard
+PRIMARY:NEED:SEX                                                 2
+    kiss bitch
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    screen screen
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 65.116279 %
+SECONDARY           : 23.255814 %
+EMOTIONS            : 11.627907 %
+
+211 words total

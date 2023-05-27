@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    far afar out where where where where at round where where where where round where where round where where where where
+SECONDARY:TEMPORAL REFERENCES                                   19
+    time every whenever now now now now now ever again now now now now now now now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 18
+    making make spent used spent used pickup picks spent used spent used spent used spent used spent used
+SECONDARY:ABSTRACTION                                           15
+    cause think think know know know know know know know know know know know know
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say say call talk talk tell talk talk talk talk talk
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                          10
+    drive driving riding drive driving riding driving riding driving riding
+PRIMARY:SENSATION:SOUND                                         10
+    noise loud noise noise loud noise noise noise loud noise
+PRIMARY:NEED:ORALITY                                             6
+    poison drinking drinking fast drinking drinking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    playing dancing playing dancing playing dancing
+SECONDARY:RESTRAINT                                              4
+    bars stop bars bars
+EMOTIONS:AFFECTION                                               3
+    like love like
+PRIMARY:SENSATION:HARD                                           3
+    rock rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roll roll roll
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty beautiful
+EMOTIONS:AGGRESSION                                              2
+    gun guns
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:VISION                                         1
+    star
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    corpse
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 41.843972 %
+SECONDARY           : 48.226950 %
+EMOTIONS            : 9.929078 %
+
+459 words total

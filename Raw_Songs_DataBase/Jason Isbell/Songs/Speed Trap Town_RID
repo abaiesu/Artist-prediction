@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out straight behind over here long back over here behind away away
+SECONDARY:TEMPORAL REFERENCES                                   12
+    everybody tonight then year decade when when tonight when then when hours
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said ask said say
+SECONDARY:ABSTRACTION                                            4
+    knows decide caused decide
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    business make pickup
+EMOTIONS:AGGRESSION                                              3
+    breaks breaking attack
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high mound
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream sleep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    veins skin
+EMOTIONS:AFFECTION                                               2
+    like goodbye
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    faded blurry
+PRIMARY:NEED:ORALITY                                             2
+    drank coffee
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 48.214286 %
+SECONDARY           : 41.071429 %
+EMOTIONS            : 10.714286 %
+
+290 words total

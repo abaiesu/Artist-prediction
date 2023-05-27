@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    calls calls shares calls
+PRIMARY:SENSATION:VISION                                         4
+    pictured bright ray sunshine
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight today
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+SECONDARY:ABSTRACTION                                            2
+    know knows
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place longs
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    sorrow
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    hurts
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+SECONDARY:RESTRAINT                                              1
+    prison
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 20.000000 %
+
+118 words total

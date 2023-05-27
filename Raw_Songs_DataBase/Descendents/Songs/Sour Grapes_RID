@@ -1,0 +1,56 @@
+PRIMARY:NEED:ORALITY                                            18
+    lips grapes grapes grapes grapes grapes grapes cherry grapes grapes grapes grapes grapes grapes grapes grapes grapes grapes
+PRIMARY:SENSATION:TASTE                                         18
+    sour taste sour sour sour sour sour sour sour sour sour sour sour taste sour sour sour sour
+PRIMARY:SENSATION:VISION                                         8
+    noticing saw seen see seen shiny seen look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    across over here away close squares at at
+EMOTIONS:AFFECTION                                               7
+    like like love like pity love love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    year when old when when when when
+SECONDARY:ABSTRACTION                                            6
+    know know why why why know
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    wave wave rolls wave wave
+SECONDARY:RESTRAINT                                              5
+    must must bar refuse refuse
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say tell tell
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty beauty
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling fun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    scream scream
+EMOTIONS:AGGRESSION                                              2
+    rage rage
+EMOTIONS:GLORY                                                   1
+    wondering
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ladder
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 63.461538 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 13.461538 %
+
+332 words total

@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              15
+    kind loves loves loves loves lovely loves loves loves loves love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    told please tell answers tells please tell
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ever when again when now now
+SECONDARY:ABSTRACTION                                            5
+    knows guess something meant meant
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    die die die die die
+PRIMARY:NEED:SEX                                                 5
+    fucking fucking fucking fucking fucking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside inside close inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    using find won won
+SECONDARY:MORAL IMPERATIVE                                       4
+    shouldn should right should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    skin eyes head
+PRIMARY:NEED:ANALITY                                             3
+    dirty dirty defiled
+EMOTIONS:POSITIVE AFFECT                                         2
+    grin smiles
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fantasy insane
+EMOTIONS:SADNESS                                                 2
+    lonely pain
+EMOTIONS:AGGRESSION                                              2
+    hurts hurt
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty beautiful
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusing
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 37.333333 %
+SECONDARY           : 34.666667 %
+EMOTIONS            : 28.000000 %
+
+296 words total

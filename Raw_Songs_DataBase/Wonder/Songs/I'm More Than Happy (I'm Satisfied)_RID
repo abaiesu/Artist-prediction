@@ -1,0 +1,56 @@
+EMOTIONS:AFFECTION                                              15
+    love love love love love love love love love love love love love mercy love
+SECONDARY:TEMPORAL REFERENCES                                   14
+    then when when now now now now now now now now now yesterday now
+SECONDARY:ABSTRACTION                                           12
+    plans may cause true cause sure cause sure cause cause sure cause
+EMOTIONS:POSITIVE AFFECT                                        11
+    smiled happy satisfied happy satisfied happy satisfied happy satisfied happy satisfied
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    aside back side away side
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    plead talk talks said
+EMOTIONS:AGGRESSION                                              3
+    wrecked smashed break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found pick found
+EMOTIONS:GLORY                                                   2
+    pride pride
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweetest
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:SENSATION:VISION                                         1
+    bright
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lullaby
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    binds
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 38.636364 %
+EMOTIONS            : 36.363636 %
+
+387 words total

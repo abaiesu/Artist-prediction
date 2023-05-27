@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:SOUND                                          9
+    hear sound hear sound hear sound hear sound hear
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    taught teachers saying tell say saying say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at round at ahead
+SECONDARY:RESTRAINT                                              2
+    catch catch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    hallelujahs walls
+EMOTIONS:AGGRESSION                                              2
+    guns offended
+PRIMARY:NEED:ORALITY                                             1
+    sucking
+EMOTIONS:GLORY                                                   1
+    kingdom
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    mended
+SECONDARY:ABSTRACTION                                            1
+    them
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:NEED:SEX                                                 1
+    fucking
+PRIMARY:NEED:ANALITY                                             1
+    shit
+SECONDARY:ORDER                                                  1
+    class
+PRIMARY:SENSATION:VISION                                         1
+    pink
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+
+PRIMARY             : 58.536585 %
+SECONDARY           : 31.707317 %
+EMOTIONS            : 9.756098 %
+
+214 words total

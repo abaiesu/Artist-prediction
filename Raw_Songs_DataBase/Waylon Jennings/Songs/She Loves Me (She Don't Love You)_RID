@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              10
+    loves love friend love friend like loves love friend love
+SECONDARY:ABSTRACTION                                            6
+    know true think cause know true
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tellin say tell tellin say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    dancin dance dancin dance dance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    close at away here away
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now every when
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor door
+EMOTIONS:AGGRESSION                                              1
+    hit
+
+PRIMARY             : 26.190476 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 38.095238 %
+
+192 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      14
+    road road road floor road road floor road road road road road floor road
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    outside outside back round here back round here apart out back round here
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk tell talk tell talk tell
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when everybody when everybody when everybody
+PRIMARY:SENSATION:SOUND                                          5
+    heart rattle rattle tune soundtrack
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    shake roll shake roll
+EMOTIONS:AFFECTION                                               4
+    patterns like like like
+SECONDARY:ABSTRACTION                                            4
+    thought thought knew knew
+EMOTIONS:GLORY                                                   3
+    wondering wondering wondering
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    pour pour pour
+PRIMARY:SENSATION:VISION                                         2
+    saw saw
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sinking fall
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ceiling
+EMOTIONS:AGGRESSION                                              1
+    hits
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+
+PRIMARY             : 64.788732 %
+SECONDARY           : 22.535211 %
+EMOTIONS            : 12.676056 %
+
+305 words total

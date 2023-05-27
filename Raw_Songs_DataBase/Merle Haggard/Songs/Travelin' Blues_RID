@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    away back round round away back long away back here
+SECONDARY:TEMPORAL REFERENCES                                   10
+    today week now today now time again now today time
+SECONDARY:ABSTRACTION                                            6
+    thought know know true know understand
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    driver driver driver
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    jump jump jump
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    railroad railroad railroad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pickin won found
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream woke
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+SECONDARY:RESTRAINT                                              1
+    caught
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+PRIMARY:SENSATION:VISION                                         1
+    blues
+
+PRIMARY             : 51.111111 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 2.222222 %
+
+246 words total

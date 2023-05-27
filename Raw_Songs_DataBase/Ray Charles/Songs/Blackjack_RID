@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every now every every
+SECONDARY:ABSTRACTION                                            3
+    caused almost thought
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away away
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell borrow
+EMOTIONS:AGGRESSION                                              2
+    blame hit
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+EMOTIONS:ANXIETY                                                 1
+    trouble
+EMOTIONS:AFFECTION                                               1
+    friends
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 15.789474 %
+SECONDARY           : 52.631579 %
+EMOTIONS            : 31.578947 %
+
+144 words total

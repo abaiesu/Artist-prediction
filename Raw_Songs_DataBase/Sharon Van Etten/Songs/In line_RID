@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    line line line line line line line line line line
+PRIMARY:SENSATION:VISION                                         5
+    gray look see light light
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when then then now
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:ABSTRACTION                                            3
+    weigh thought know
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right should
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    side distant
+EMOTIONS:ANXIETY                                                 1
+    worried
+PRIMARY:NEED:ANALITY                                             1
+    shitty
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    telling
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumbling
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 30.555556 %
+EMOTIONS            : 11.111111 %
+
+128 words total

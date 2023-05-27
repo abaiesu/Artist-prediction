@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       26
+    side out out overprotective off close close close close close close far away far away overprotective off close close close close close close close close close
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         16
+    eyes head chest head chest face face palm palm eyes head chest head chest head chest
+SECONDARY:ABSTRACTION                                           10
+    cause true know know problems true true know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    makes pick makes buildings won make makes buildings won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    cry cry cry cry cry cry cry
+EMOTIONS:SADNESS                                                 5
+    pain sad sad sad sad
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time again till till
+PRIMARY:SENSATION:VISION                                         3
+    see watch watch
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    jump dawn jump
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    promise promise
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie safe
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 56.989247 %
+SECONDARY           : 26.881720 %
+EMOTIONS            : 16.129032 %
+
+388 words total

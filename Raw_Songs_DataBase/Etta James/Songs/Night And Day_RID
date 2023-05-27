@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    near far where longing wherever inside inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won spent making won spent making
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    beneath under under under
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun burning burning
+EMOTIONS:AFFECTION                                               3
+    darling love love
+SECONDARY:ABSTRACTION                                            3
+    think why think
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hungry hungry
+SECONDARY:TEMPORAL REFERENCES                                    2
+    yearning yearning
+EMOTIONS:AGGRESSION                                              2
+    torment torment
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follows
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    roaring
+PRIMARY:SENSATION:SOUND                                          1
+    boom
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 48.648649 %
+SECONDARY           : 32.432432 %
+EMOTIONS            : 18.918919 %
+
+158 words total

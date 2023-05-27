@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    today now now today now now quick then then quick then then time time time
+SECONDARY:ABSTRACTION                                           13
+    idea suppose thinking different guess suppose thinking different guess cause cause cause cause
+PRIMARY:SENSATION:VISION                                         9
+    looks lights looks lights see see lights see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    price pay price pay
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out out out
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    woke wake woke
+EMOTIONS:AFFECTION                                               2
+    friend love
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:POSITIVE AFFECT                                         1
+    exciting
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+PRIMARY:NEED:ORALITY                                             1
+    brewing
+EMOTIONS:AGGRESSION                                              1
+    struggle
+
+PRIMARY             : 36.206897 %
+SECONDARY           : 56.896552 %
+EMOTIONS            : 6.896552 %
+
+300 words total

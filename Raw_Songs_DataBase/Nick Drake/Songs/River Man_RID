@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    said say said tell tells said calling tell tells
+SECONDARY:ABSTRACTION                                            9
+    choose believes plan knows sure thought knows suppose meant
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today time time today when again
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    river river rain river river
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 30.555556 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 2.777778 %
+
+169 words total

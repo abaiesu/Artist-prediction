@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    spirit spirit spirit spirit spirit
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say ask say say
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    deep deep deep deep
+EMOTIONS:AFFECTION                                               3
+    loving loving loving
+SECONDARY:ABSTRACTION                                            2
+    something plant
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    washed sea
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    footsteps
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rides
+PRIMARY:SENSATION:VISION                                         1
+    star
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    situation
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 10.714286 %
+
+119 words total

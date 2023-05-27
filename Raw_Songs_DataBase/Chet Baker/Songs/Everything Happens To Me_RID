@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    date everything when everything now once then everything once then everything
+EMOTIONS:AFFECTION                                               5
+    love goodbye love goodbye love
+SECONDARY:ABSTRACTION                                            4
+    guess guess thought thinks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make try
+EMOTIONS:AGGRESSION                                              2
+    complains break
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answer answer
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fell
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rains
+SECONDARY:RESTRAINT                                              1
+    catching
+PRIMARY:SENSATION:COLD                                           1
+    colds
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:VISION                                         1
+    looks
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumps
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:SADNESS                                                 1
+    despair
+EMOTIONS:GLORY                                                   1
+    castles
+
+PRIMARY             : 23.076923 %
+SECONDARY           : 51.282051 %
+EMOTIONS            : 25.641026 %
+
+204 words total

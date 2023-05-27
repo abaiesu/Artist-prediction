@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    long over closer closer closer away closer closer closer closer away closer closer closer closer away closer
+EMOTIONS:AFFECTION                                              14
+    love love love love love kind love love love love love love love love
+SECONDARY:ABSTRACTION                                            9
+    understand choose reason understand plan truth cause reason reason
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make use make make
+PRIMARY:SENSATION:VISION                                         4
+    shining seen see looking
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when time
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    slip slip slip
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep dream
+EMOTIONS:AGGRESSION                                              2
+    kicking hit
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 45.312500 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 26.562500 %
+
+267 words total

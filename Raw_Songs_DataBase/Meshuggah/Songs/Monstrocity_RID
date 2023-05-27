@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                            8
+    knows idea know sure judgment knows truth real
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where where where where where here where
+EMOTIONS:AGGRESSION                                              3
+    treacherous tyrants tyrants
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    skyline streets
+PRIMARY:SENSATION:VISION                                         2
+    shimmering imaginary
+EMOTIONS:GLORY                                                   2
+    glorious empire
+EMOTIONS:ANXIETY                                                 1
+    dread
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    continuously
+EMOTIONS:AFFECTION                                               1
+    welcome
+SECONDARY:ORDER                                                  1
+    norm
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    relishing
+EMOTIONS:SADNESS                                                 1
+    wailing
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+SECONDARY:MORAL IMPERATIVE                                       1
+    righteous
+SECONDARY:RESTRAINT                                              1
+    reign
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everyone
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    saturates
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 21.052632 %
+
+143 words total

@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now then now old time old time time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    playing game playing play playing game played
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out somewhere away away away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    spend win win find
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    remind share share
+PRIMARY:SENSATION:SOUND                                          2
+    hearts heart
+EMOTIONS:AFFECTION                                               2
+    love romance
+SECONDARY:ABSTRACTION                                            2
+    meant cause
+EMOTIONS:POSITIVE AFFECT                                         2
+    joker laugh
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 45.000000 %
+EMOTIONS            : 30.000000 %
+
+154 words total

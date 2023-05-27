@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            7
+    know believe learn know cause believe learn
+EMOTIONS:AGGRESSION                                              6
+    doubt doubt doubt doubt doubt doubt
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when time when when time
+PRIMARY:SENSATION:VISION                                         4
+    vision see light see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    follow sharp answer sharp
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    piled grow piled grow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long longer longer
+EMOTIONS:ANXIETY                                                 3
+    scared fear scared
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:SENSATION:HARD                                           2
+    harder harder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found find
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+
+PRIMARY             : 37.777778 %
+SECONDARY           : 42.222222 %
+EMOTIONS            : 20.000000 %
+
+306 words total

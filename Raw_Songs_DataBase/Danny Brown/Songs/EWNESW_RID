@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    east side west side south west east side at over where off round fronting east at where where
+SECONDARY:ABSTRACTION                                            8
+    guess plane cause know something cause something cause
+PRIMARY:SENSATION:SOUND                                          7
+    hear sound rings bells swisher belly belly
+PRIMARY:NEED:ORALITY                                             5
+    fork lunchable dinner swallowed swallowed
+EMOTIONS:AFFECTION                                               4
+    pat like like like
+PRIMARY:SENSATION:VISION                                         4
+    look lights brown looked
+SECONDARY:RESTRAINT                                              4
+    caught locks block caught
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used find money buy
+PRIMARY:NEED:SEX                                                 3
+    fuck bitches fuck
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    explains mentioning
+SECONDARY:TEMPORAL REFERENCES                                    2
+    minute while
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep low
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    couches
+PRIMARY:SENSATION:COLD                                           1
+    north
+SECONDARY:ORDER                                                  1
+    grade
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throwing
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+EMOTIONS:AGGRESSION                                              1
+    broke
+
+PRIMARY             : 64.000000 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 8.000000 %
+
+352 words total

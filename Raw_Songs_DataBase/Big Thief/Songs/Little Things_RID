@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    out place behind inside inside out out out out place behind inside where where
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when when when everything every once when when when everything every now now
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say say talk told following say say talk following
+PRIMARY:SENSATION:VISION                                         6
+    blue see seeing seeing seeing blue
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face eye eye eye face
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:NEED:ORALITY                                             4
+    drinking beer mouth mouth
+PRIMARY:NEED:SEX                                                 3
+    undressed kissing kissing
+EMOTIONS:GLORY                                                   2
+    gold gold
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    crowded crowded
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won use
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step step
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:ORDER                                                  1
+    classic
+
+PRIMARY             : 53.521127 %
+SECONDARY           : 35.211268 %
+EMOTIONS            : 11.267606 %
+
+210 words total

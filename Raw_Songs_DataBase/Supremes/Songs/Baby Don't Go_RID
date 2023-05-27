@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                               9
+    loved love love love love love like darling darling
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said tell tell tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found find find
+EMOTIONS:AGGRESSION                                              2
+    breaking breaking
+SECONDARY:ABSTRACTION                                            2
+    true true
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    side
+
+PRIMARY             : 12.000000 %
+SECONDARY           : 44.000000 %
+EMOTIONS            : 44.000000 %
+
+161 words total

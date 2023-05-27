@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       73
+    told told please told say told tell told say told told told please please told told say told told told told told please please told told say say told told told told please please told told told said say say told say told told told told please please told told say told say say say told told told told told told please please told say say told told told please told say told
+PRIMARY:SENSATION:VISION                                        10
+    see see see see see see see see see see
+SECONDARY:ABSTRACTION                                            8
+    thought know decide something cause think choose know
+EMOTIONS:AFFECTION                                               7
+    friends love friends romance love love love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now time then then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside between extend
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:AGGRESSION                                              1
+    offend
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 13.513514 %
+SECONDARY           : 78.378378 %
+EMOTIONS            : 8.108108 %
+
+693 words total

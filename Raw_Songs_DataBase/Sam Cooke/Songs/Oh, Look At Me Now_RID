@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    place at at at out at at at out at at
+PRIMARY:SENSATION:VISION                                         6
+    look look blue look blue look
+EMOTIONS:AFFECTION                                               5
+    like love love lover lover
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old now now now now
+SECONDARY:ABSTRACTION                                            4
+    may sure knew knew
+PRIMARY:SENSATION:SOUND                                          4
+    heart rings heart rings
+EMOTIONS:POSITIVE AFFECT                                         3
+    thrill laughed laughed
+EMOTIONS:GLORY                                                   2
+    proud proud
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:NEED:SEX                                                 1
+    kissing
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 22.727273 %
+
+211 words total

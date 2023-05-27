@@ -1,0 +1,30 @@
+EMOTIONS:SADNESS                                                 6
+    loneliness sad lonely sorrow sad lonely
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    depend call tell tell tell tell
+SECONDARY:TEMPORAL REFERENCES                                    4
+    todays years when when
+PRIMARY:NEED:ORALITY                                             3
+    drinking drinking drinking
+PRIMARY:SENSATION:VISION                                         2
+    seen see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face head
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 30.000000 %
+
+146 words total

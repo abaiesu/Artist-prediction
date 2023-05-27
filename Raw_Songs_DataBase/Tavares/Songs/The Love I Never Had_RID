@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                               9
+    love love like love love goodbye love love love
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    saying conversation say taught say say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried make reachin try try
+EMOTIONS:SADNESS                                                 5
+    sad sad sad sad sad
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where out at over
+SECONDARY:ABSTRACTION                                            3
+    know guess know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when then
+PRIMARY:SENSATION:VISION                                         2
+    see see
+
+PRIMARY             : 15.384615 %
+SECONDARY           : 48.717949 %
+EMOTIONS            : 35.897436 %
+
+262 words total

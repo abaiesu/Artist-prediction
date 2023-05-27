@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                        10
+    look look look see look look look see look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here near near here behind far away away distance
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    agree help asked help asking answers ask answer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    won won won find won trying trying won
+SECONDARY:ABSTRACTION                                            7
+    learned them think cause learned know true
+PRIMARY:SENSATION:ODOR                                           4
+    breathe breathe breathe breathe
+SECONDARY:TEMPORAL REFERENCES                                    4
+    years today years time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyes eyes
+PRIMARY:SENSATION:HARD                                           2
+    hard harder
+EMOTIONS:AFFECTION                                               2
+    like friend
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play games
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    darkened darkened
+EMOTIONS:AGGRESSION                                              2
+    killed breaking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    soothe dead
+EMOTIONS:SADNESS                                                 1
+    disappointed
+PRIMARY:NEED:ORALITY                                             1
+    spit
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+
+PRIMARY             : 49.275362 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 11.594203 %
+
+351 words total

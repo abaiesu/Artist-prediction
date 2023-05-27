@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    over places out close off
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when everything
+PRIMARY:SENSATION:VISION                                         2
+    notice light
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door windows
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+SECONDARY:RESTRAINT                                              1
+    lock
+
+PRIMARY             : 70.588235 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 0.000000 %
+
+52 words total

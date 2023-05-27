@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say tell said tell addressed said told said please please say
+SECONDARY:TEMPORAL REFERENCES                                    7
+    yesterday soon time time now now now
+EMOTIONS:AGGRESSION                                              3
+    fighting war war
+SECONDARY:RESTRAINT                                              3
+    stop stop stop
+EMOTIONS:AFFECTION                                               2
+    friend friends
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:NEED:ORALITY                                             2
+    lips cherry
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistress mistress
+PRIMARY:SENSATION:VISION                                         2
+    brown brown
+EMOTIONS:GLORY                                                   1
+    golden
+EMOTIONS:ANXIETY                                                 1
+    alarmed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 24.324324 %
+SECONDARY           : 56.756757 %
+EMOTIONS            : 18.918919 %
+
+188 words total

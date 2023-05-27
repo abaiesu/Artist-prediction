@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:TASTE                                          8
+    taste taste sweeter taste taste sweeter taste bitter
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    over back behind back back back back
+PRIMARY:NEED:ORALITY                                             7
+    honey honey honey honey honey honey honey
+SECONDARY:ABSTRACTION                                            2
+    may may
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:SENSATION:COLD                                           1
+    icy
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmth
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    remind
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+
+PRIMARY             : 88.571429 %
+SECONDARY           : 8.571429 %
+EMOTIONS            : 2.857143 %
+
+134 words total

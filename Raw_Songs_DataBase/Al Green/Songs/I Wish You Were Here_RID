@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out here here away here here here here here here
+PRIMARY:SENSATION:VISION                                         8
+    lookin shinin bright looking brighter see see see
+EMOTIONS:AFFECTION                                               4
+    love goodbye like love
+SECONDARY:RESTRAINT                                              3
+    catch stop stop
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every when time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window doors
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make find
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play sigh
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    music
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipping
+
+PRIMARY             : 60.975610 %
+SECONDARY           : 24.390244 %
+EMOTIONS            : 14.634146 %
+
+170 words total

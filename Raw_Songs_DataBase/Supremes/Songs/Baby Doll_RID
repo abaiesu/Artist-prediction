@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talking explain please say please tell
+EMOTIONS:AFFECTION                                               4
+    love embrace love love
+SECONDARY:ABSTRACTION                                            3
+    true know know
+SECONDARY:MORAL IMPERATIVE                                       3
+    right should right
+PRIMARY:SENSATION:TASTE                                          3
+    sweet taste sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    handsome arm head
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when till time
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    belong belong
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:NEED:ORALITY                                             1
+    sugar
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+
+PRIMARY             : 40.540541 %
+SECONDARY           : 45.945946 %
+EMOTIONS            : 13.513514 %
+
+193 words total

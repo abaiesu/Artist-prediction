@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    out out space out place close open open out away over out away away out out
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    helpless guide help helpless guide helpless helpless guide
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everything everything again everything everything
+EMOTIONS:AGGRESSION                                              4
+    breakdown struggle breakdown breakdown
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find used
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:ABSTRACTION                                            2
+    know thought
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:NEED:ORALITY                                             1
+    consumes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+
+PRIMARY             : 46.808511 %
+SECONDARY           : 38.297872 %
+EMOTIONS            : 14.893617 %
+
+255 words total

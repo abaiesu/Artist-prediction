@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    here here out back where here long away away away here
+EMOTIONS:AFFECTION                                              10
+    mate favorite likes mate favorite mate favorite mate mate mate
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now sometimes sometimes sometimes everyone everybody sometimes sometimes sometimes now
+SECONDARY:ABSTRACTION                                            8
+    reason them surely know them know think know
+PRIMARY:SENSATION:VISION                                         5
+    look look look look see
+EMOTIONS:AGGRESSION                                              3
+    war hate blame
+PRIMARY:SENSATION:SOUND                                          3
+    hear voices hear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flames flames
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streetlamps
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+
+PRIMARY             : 42.372881 %
+SECONDARY           : 33.898305 %
+EMOTIONS            : 23.728814 %
+
+255 words total

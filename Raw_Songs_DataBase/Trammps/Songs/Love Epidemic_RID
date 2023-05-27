@@ -1,0 +1,32 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                 15
+    spread spread spread spread spread spread spread spread spread spread spread spread spread spread spread
+SECONDARY:TEMPORAL REFERENCES                                   14
+    now every then now every sooner now every now now now now now now
+EMOTIONS:AFFECTION                                              10
+    love love love love kind love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say participation treat able share
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make won won make
+SECONDARY:ABSTRACTION                                            4
+    think cause learn problems
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along over out
+SECONDARY:ORDER                                                  2
+    listen listen
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile relieve
+EMOTIONS:AGGRESSION                                              2
+    enemies hate
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:VISION                                         1
+    colors
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 23.076923 %
+
+353 words total

@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    callow follow follow follow follow follow follow follow follow
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when when then when time when then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    try try try try try try try
+EMOTIONS:AFFECTION                                               4
+    kind kind kind love
+SECONDARY:ABSTRACTION                                            4
+    tender tender except know
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+PRIMARY:SENSATION:SOFT                                           2
+    mellow mellow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    ember fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:VISION                                         1
+    green
+PRIMARY:NEED:ORALITY                                             1
+    grain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellow
+EMOTIONS:SADNESS                                                 1
+    wept
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 27.083333 %
+SECONDARY           : 60.416667 %
+EMOTIONS            : 12.500000 %
+
+137 words total

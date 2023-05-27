@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everyone when everyone ever again when when when then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out side out sides out out here out here away
+SECONDARY:ABSTRACTION                                            9
+    true know why know know know know know know
+PRIMARY:SENSATION:VISION                                         6
+    looking looking see looking looking looking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    built find reach reach
+EMOTIONS:AGGRESSION                                              3
+    cut hate injured
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say tell told
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 52.941176 %
+EMOTIONS            : 5.882353 %
+
+216 words total

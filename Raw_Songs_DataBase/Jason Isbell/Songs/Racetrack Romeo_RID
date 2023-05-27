@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                           10
+    think know think knew think guess why why guess real
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    used used make make make find makes
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call say answer say advice
+SECONDARY:MORAL IMPERATIVE                                       3
+    shoulda should should
+PRIMARY:SENSATION:VISION                                         3
+    seen watch seen
+EMOTIONS:AFFECTION                                               2
+    like liked
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off off
+EMOTIONS:SADNESS                                                 2
+    suffer lonely
+PRIMARY:SENSATION:SOUND                                          2
+    loud sounds
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:AGGRESSION                                              1
+    hated
+PRIMARY:NEED:ANALITY                                             1
+    piss
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everybody
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    windows
+
+PRIMARY             : 31.914894 %
+SECONDARY           : 57.446809 %
+EMOTIONS            : 10.638298 %
+
+246 words total

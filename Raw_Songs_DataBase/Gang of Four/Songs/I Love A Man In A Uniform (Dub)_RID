@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              48
+    love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love
+EMOTIONS:AGGRESSION                                             24
+    shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot
+SECONDARY:ORDER                                                 21
+    uniform uniform uniform uniform uniform uniform uniform uniform order order order order uniform uniform uniform uniform uniform uniform uniform uniform uniform
+PRIMARY:SENSATION:VISION                                        16
+    see see see see see see see see see see see see see see see see
+PRIMARY:SENSATION:SOUND                                         12
+    bang bang bang bang bang bang bang bang bang bang bang bang
+SECONDARY:RESTRAINT                                              6
+    must must must must must must
+EMOTIONS:POSITIVE AFFECT                                         6
+    joking joking joking joking joking joking
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spent spent spent
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead dead dead
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    protected confidence
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    handouts handouts
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 22.972973 %
+SECONDARY           : 24.324324 %
+EMOTIONS            : 52.702703 %
+
+458 words total

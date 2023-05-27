@@ -1,0 +1,50 @@
+EMOTIONS:SADNESS                                                 6
+    sadness pain suffering pain pain pain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    across here out here somewhere
+EMOTIONS:ANXIETY                                                 5
+    desperation fear fear fear fear
+EMOTIONS:AGGRESSION                                              5
+    anger war struggle tyrant strike
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when again again when ever
+PRIMARY:SENSATION:VISION                                         4
+    see see see watch
+PRIMARY:NEED:ORALITY                                             4
+    food starvation food food
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean waters
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    float rise
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying decay
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sail
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    madness
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hunger
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    granted
+PRIMARY:NEED:ANALITY                                             1
+    pollution
+SECONDARY:ABSTRACTION                                            1
+    learn
+PRIMARY:SENSATION:COLD                                           1
+    childhood
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 14.814815 %
+EMOTIONS            : 37.037037 %
+
+175 words total

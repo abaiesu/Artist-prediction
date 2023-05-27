@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         8
+    see look see looking look see look see
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when ever ever ever ever ever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    street step window window
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:ABSTRACTION                                            1
+    think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    afford
+PRIMARY:SENSATION:ODOR                                           1
+    noses
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 7.407407 %
+
+216 words total

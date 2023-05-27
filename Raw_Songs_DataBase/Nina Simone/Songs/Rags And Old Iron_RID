@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   30
+    old old old old now old old old old old when old old old old old old old when once when old old old old old old old old old
+PRIMARY:SENSATION:HARD                                          21
+    iron iron iron iron iron iron iron iron iron iron iron iron iron iron iron iron iron iron iron iron iron
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    buying making buying pay used buying used make buying possession buy buying
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    rounds away out longer longer off
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    ask asked promises tell asked
+PRIMARY:SENSATION:SOUND                                          4
+    heard sounds heart heart
+EMOTIONS:AFFECTION                                               3
+    love love like
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+PRIMARY:SENSATION:VISION                                         2
+    light beams
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand head
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:SADNESS                                                 1
+    sorrowful
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnt
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shook
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 51.041667 %
+EMOTIONS            : 7.291667 %
+
+250 words total

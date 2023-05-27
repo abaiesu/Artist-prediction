@@ -1,0 +1,60 @@
+EMOTIONS:AGGRESSION                                             11
+    hater hate hate fightin hate break hate break break hate break
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out here out here closest forward over out here here here
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when time when time hour while then then then
+SECONDARY:ABSTRACTION                                            7
+    know know know know plans know know
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    told tell please speak say ask thankful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won afford record make workin afford try
+EMOTIONS:AFFECTION                                               5
+    like like like like grateful
+PRIMARY:SENSATION:VISION                                         5
+    see see shine watch see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    playin playin game play play
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    die slow lay lay
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride ride tourist
+EMOTIONS:POSITIVE AFFECT                                         3
+    grinin laugh laugh
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high trees
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees eyes
+PRIMARY:NEED:SEX                                                 2
+    fuck fuckin
+PRIMARY:SENSATION:COLD                                           2
+    chillin chill
+PRIMARY:NEED:ORALITY                                             2
+    cheese salty
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+SECONDARY:RESTRAINT                                              1
+    lock
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impressin
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+PRIMARY:SENSATION:HARD                                           1
+    irony
+PRIMARY:SENSATION:SOUND                                          1
+    chorus
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 31.632653 %
+EMOTIONS            : 25.510204 %
+
+473 words total

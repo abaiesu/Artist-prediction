@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here at at away away round away away
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:ABSTRACTION                                            4
+    them them them them
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand hand face
+PRIMARY:SENSATION:SOUND                                          3
+    hear hearin hear
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try win find
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everywhere every
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clowns
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 22.222222 %
+
+117 words total

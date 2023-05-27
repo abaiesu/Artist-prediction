@@ -1,0 +1,30 @@
+SECONDARY:RESTRAINT                                             17
+    shut control control shut control control control control control control control control control control control control control
+EMOTIONS:AFFECTION                                              16
+    like like love like like like like like like like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talk tell tell say talk
+SECONDARY:ABSTRACTION                                            3
+    know know know
+EMOTIONS:AGGRESSION                                              3
+    hurt fight fight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play playing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+EMOTIONS:ANXIETY                                                 1
+    afraid
+
+PRIMARY             : 7.407407 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 42.592593 %
+
+283 words total

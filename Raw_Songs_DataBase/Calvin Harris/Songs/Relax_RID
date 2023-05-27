@@ -1,0 +1,32 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        9
+    relax relax relax relax relax relax relax relax relax
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+EMOTIONS:POSITIVE AFFECT                                         5
+    celebrating celebrating celebrating celebrating celebrating
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away back away back
+EMOTIONS:ANXIETY                                                 2
+    panic panic
+EMOTIONS:AGGRESSION                                              2
+    attack attack
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spinning spinning
+PRIMARY:SENSATION:VISION                                         2
+    lights lights
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:RESTRAINT                                              2
+    catch catch
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+
+PRIMARY             : 52.500000 %
+SECONDARY           : 12.500000 %
+EMOTIONS            : 35.000000 %
+
+179 words total

@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            8
+    knew knew knew somethin somethin think think think
+PRIMARY:SENSATION:VISION                                         7
+    see see see see look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where at at at west west
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talkin promised promised promised promised
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again again again when
+SECONDARY:ORDER                                                  2
+    grader class
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carryin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:NEED:ANALITY                                             1
+    shit
+
+PRIMARY             : 43.902439 %
+SECONDARY           : 48.780488 %
+EMOTIONS            : 7.317073 %
+
+150 words total

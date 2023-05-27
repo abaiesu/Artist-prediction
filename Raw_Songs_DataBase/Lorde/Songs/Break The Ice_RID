@@ -1,0 +1,42 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     8
+    blazin heat warm warm hot hot hot hot
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now while now now
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say allow allow
+EMOTIONS:AFFECTION                                               3
+    like like like
+EMOTIONS:AGGRESSION                                              3
+    hit break break
+PRIMARY:SENSATION:COLD                                           3
+    froze ice ice
+SECONDARY:ABSTRACTION                                            2
+    know thinking
+PRIMARY:SENSATION:VISION                                         2
+    looks lights
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 47.500000 %
+SECONDARY           : 32.500000 %
+EMOTIONS            : 20.000000 %
+
+152 words total

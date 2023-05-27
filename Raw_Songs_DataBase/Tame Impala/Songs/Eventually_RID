@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                           15
+    cause know know know know know cause know know know know know cause know know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time ever soon
+EMOTIONS:AGGRESSION                                              2
+    murder hurt
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+
+PRIMARY             : 11.111111 %
+SECONDARY           : 77.777778 %
+EMOTIONS            : 11.111111 %
+
+167 words total

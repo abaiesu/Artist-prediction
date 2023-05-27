@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   28
+    week month year week month year every week month year week month year every week month year week month year every week month year week month year every
+PRIMARY:SENSATION:VISION                                        13
+    blue lightning lightning light light lightning lightning light light lightning lightning light light
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here here away here here
+PRIMARY:SENSATION:SOUND                                          4
+    heard heard heard voice
+SECONDARY:ABSTRACTION                                            2
+    why thought
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answer told
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find trying
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+
+PRIMARY             : 40.677966 %
+SECONDARY           : 57.627119 %
+EMOTIONS            : 1.694915 %
+
+209 words total

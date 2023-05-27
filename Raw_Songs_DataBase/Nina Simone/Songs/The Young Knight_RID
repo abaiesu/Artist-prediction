@@ -1,0 +1,50 @@
+EMOTIONS:AFFECTION                                              10
+    deary deary deary like like deary deary deary deary deary
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    along among among along straight within out here here
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    met quote told said meet meet
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then when again when when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    hall road stepped gate
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fair fair
+PRIMARY:NEED:ANALITY                                             2
+    rumpling rumpling
+EMOTIONS:POSITIVE AFFECT                                         2
+    enjoy gay
+SECONDARY:RESTRAINT                                              2
+    shut must
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mounted
+PRIMARY:NEED:ORALITY                                             1
+    milk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pursue
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    dewy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+SECONDARY:MORAL IMPERATIVE                                       1
+    moral
+SECONDARY:ABSTRACTION                                            1
+    may
+
+PRIMARY             : 43.636364 %
+SECONDARY           : 29.090909 %
+EMOTIONS            : 27.272727 %
+
+251 words total

@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    then when today today when when everyone when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    apart away out far away where where
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell talking say ask tell
+SECONDARY:ABSTRACTION                                            4
+    why thoughts why why
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    deceiving
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:RESTRAINT                                              1
+    stops
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reaching
+
+PRIMARY             : 34.285714 %
+SECONDARY           : 62.857143 %
+EMOTIONS            : 2.857143 %
+
+111 words total

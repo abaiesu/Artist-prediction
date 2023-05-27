@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              19
+    love loved love loved love loved love loved like love loved love loved love loved love loved love loved
+PRIMARY:NEED:ORALITY                                            14
+    honey honey honey honey cherry honey honey lemonade honey honey honey honey honey honey
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    tell tell tell tell tell tell said said please tell tell tell said
+SECONDARY:ABSTRACTION                                           11
+    know know know know know know know know know know know
+PRIMARY:SENSATION:VISION                                         7
+    green pink lights blue pink look watching
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    wide where at long back long
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hair palm palm handsome arms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used buy worked spend
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high high tree
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swimming pool
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now time
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flamingo
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    delight
+PRIMARY:SENSATION:HARD                                           1
+    nails
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trailer
+
+PRIMARY             : 46.808511 %
+SECONDARY           : 31.914894 %
+EMOTIONS            : 21.276596 %
+
+480 words total

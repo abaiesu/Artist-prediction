@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    over long out back at out out back back out out out
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    call answered told meet say granted appeal say granted tell
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when time time when when when past time old
+SECONDARY:ABSTRACTION                                            7
+    true cause supposed supposed cause know knows
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried make find won spent
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    flame burn burnin burnin burn
+EMOTIONS:ANXIETY                                                 4
+    afraid afraid frightful afraid
+PRIMARY:SENSATION:VISION                                         4
+    look look look look
+EMOTIONS:AFFECTION                                               3
+    dear friends dear
+SECONDARY:MORAL IMPERATIVE                                       3
+    oughta right right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    low raving low
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    foot body bone
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    fence floor
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry scream
+PRIMARY:SENSATION:SOUND                                          2
+    loud heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad dreaming
+PRIMARY:SENSATION:TOUCH                                          2
+    itch itch
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+
+PRIMARY             : 45.783133 %
+SECONDARY           : 42.168675 %
+EMOTIONS            : 12.048193 %
+
+368 words total

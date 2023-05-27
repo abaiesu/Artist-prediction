@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    moment early time till till when moment moment
+SECONDARY:ABSTRACTION                                            7
+    problem something problem truth difference planning problem
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used prepare work finished
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk tell talk
+SECONDARY:RESTRAINT                                              3
+    locked stops stops
+PRIMARY:SENSATION:SOUND                                          3
+    ringing voice ring
+SECONDARY:MORAL IMPERATIVE                                       2
+    should shouldn
+PRIMARY:SENSATION:VISION                                         2
+    saw imagined
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silence safe
+EMOTIONS:ANXIETY                                                 1
+    nervous
+EMOTIONS:AGGRESSION                                              1
+    argue
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+EMOTIONS:AFFECTION                                               1
+    lovely
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    raining
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 27.906977 %
+SECONDARY           : 62.790698 %
+EMOTIONS            : 9.302326 %
+
+245 words total

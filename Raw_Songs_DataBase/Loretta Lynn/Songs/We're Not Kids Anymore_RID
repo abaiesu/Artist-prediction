@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                              9
+    break breaks hurt break hurt break breaks break breaks
+EMOTIONS:AFFECTION                                               8
+    like love like love like love like love
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+PRIMARY:SENSATION:VISION                                         4
+    watchin blue watchin watchin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    grow grow grow grow
+PRIMARY:SENSATION:COLD                                           3
+    child child child
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    slip slip slip
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands hands hands
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out point
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 51.111111 %
+SECONDARY           : 6.666667 %
+EMOTIONS            : 42.222222 %
+
+195 words total

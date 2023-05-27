@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                               6
+    lover like friends love love loved
+SECONDARY:ABSTRACTION                                            3
+    reality know reason
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    advice treating
+EMOTIONS:ANXIETY                                                 2
+    afraid scared
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throw throw
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    off
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+EMOTIONS:AGGRESSION                                              1
+    killed
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:GLORY                                                   1
+    exhibition
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    relax
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 41.379310 %
+
+175 words total

@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:TASTE                                         10
+    sweet sweetness sweetness sweetness sweetness sweetness sweetness sweetness sweetness sweetness
+EMOTIONS:AFFECTION                                               8
+    like lovin like lovely lovely love lovin lovin
+SECONDARY:ABSTRACTION                                            4
+    know know sure real
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    place at round here
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    thankful say say imitate
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:SENSATION:VISION                                         2
+    see look
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time when
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 47.500000 %
+SECONDARY           : 27.500000 %
+EMOTIONS            : 25.000000 %
+
+189 words total

@@ -1,0 +1,26 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    20
+    cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when time when everything
+EMOTIONS:SADNESS                                                 3
+    lonely loneliness loneliness
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calls tell
+PRIMARY:SENSATION:ODOR                                           2
+    smell perfume
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    beats
+
+PRIMARY             : 11.904762 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 71.428571 %
+
+148 words total

@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    place where close at round here at place where
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call sale call sale call
+EMOTIONS:AFFECTION                                               4
+    love like loving like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find job try try
+SECONDARY:ABSTRACTION                                            3
+    know cause know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every when
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    lit warmly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doorway wall
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows fade
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:SADNESS                                                 1
+    rue
+PRIMARY:SENSATION:ODOR                                           1
+    perfume
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 35.897436 %
+EMOTIONS            : 17.948718 %
+
+270 words total

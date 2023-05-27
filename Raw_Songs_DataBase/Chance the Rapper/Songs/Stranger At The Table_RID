@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where at at at longer at at where longer
+SECONDARY:ABSTRACTION                                            8
+    know know understand them know know know understand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used pick won pick won
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    tree grown tree tree grown
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    playing playing playing horne
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when now now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell call say talkin
+PRIMARY:SENSATION:SOUND                                          4
+    heart sound heart sound
+EMOTIONS:AFFECTION                                               4
+    like like love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under under
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistletoe mistletoe
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:SENSATION:VISION                                         2
+    star looking
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 37.096774 %
+EMOTIONS            : 12.903226 %
+
+423 words total

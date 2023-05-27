@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out out out out out out out out out
+PRIMARY:SENSATION:VISION                                         9
+    look look watch watch look look look look watch
+SECONDARY:ABSTRACTION                                            9
+    why knows knows knows why knows knows knows why
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when when when when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    asleep awake sleeping awake
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry cry cry
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    telling telling telling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    making find
+SECONDARY:ORDER                                                  1
+    list
+
+PRIMARY             : 48.936170 %
+SECONDARY           : 44.680851 %
+EMOTIONS            : 6.382979 %
+
+195 words total

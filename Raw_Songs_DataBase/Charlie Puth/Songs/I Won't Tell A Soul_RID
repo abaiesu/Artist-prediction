@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    every time tonight again tonight then every time tonight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here between here ahead between here situation between here
+SECONDARY:ABSTRACTION                                            8
+    know something judge cause knows know something cause
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say tell tell say tell tell say tell
+EMOTIONS:AFFECTION                                               6
+    darling love love like darling love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won won
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    secret secret
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doors
+
+PRIMARY             : 25.490196 %
+SECONDARY           : 62.745098 %
+EMOTIONS            : 11.764706 %
+
+220 words total

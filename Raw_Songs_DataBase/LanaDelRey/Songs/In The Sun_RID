@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              11
+    love loved friend love loved friend loved love like loved friend
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everybody now then now everybody now now now
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said told said told said told told told
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long off open wide off off
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    sun sun sun sun sun sun
+EMOTIONS:POSITIVE AFFECT                                         6
+    fun fun fun fun fun fun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    money money used money money
+PRIMARY:SENSATION:VISION                                         4
+    pictures pictures pictures pictures
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    wall wall wall wall
+SECONDARY:ABSTRACTION                                            4
+    believed thought thought thought
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high heaven cliff
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    headed eyes bloody
+EMOTIONS:AGGRESSION                                              2
+    beating beat
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:NEED:ORALITY                                             1
+    sugar
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:NEED:ANALITY                                             1
+    messing
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+
+PRIMARY             : 39.743590 %
+SECONDARY           : 34.615385 %
+EMOTIONS            : 25.641026 %
+
+335 words total

@@ -1,0 +1,34 @@
+PRIMARY:NEED:ORALITY                                             9
+    eat mouthful tooth mouth honey spoon starve sugar mouthful
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    talk talk talk talk talk talk talk talk talk
+PRIMARY:SENSATION:TASTE                                          8
+    sweet tasted sweet tastes tastes tastes tastes tastes
+EMOTIONS:AFFECTION                                               5
+    like goodbye like like likes
+PRIMARY:SENSATION:VISION                                         5
+    look blue see looking see
+SECONDARY:ABSTRACTION                                            4
+    know believe know sure
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now every when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sells make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:TOUCH                                          1
+    sting
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+
+PRIMARY             : 54.716981 %
+SECONDARY           : 35.849057 %
+EMOTIONS            : 9.433962 %
+
+358 words total

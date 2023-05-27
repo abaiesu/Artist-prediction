@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when old often times sometimes old then till then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    western where backwards back where away where away wherever
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    river river river dam
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    coal coal coal ashes
+EMOTIONS:AGGRESSION                                              4
+    shoot kill shovel tortured
+PRIMARY:SENSATION:VISION                                         3
+    green green green
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travel travel
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay die
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hill heaven
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:SADNESS                                                 1
+    sorry
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asking
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mister
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    prison
+PRIMARY:SENSATION:ODOR                                           1
+    smelled
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dug
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    float
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 26.923077 %
+EMOTIONS            : 11.538462 %
+
+200 words total

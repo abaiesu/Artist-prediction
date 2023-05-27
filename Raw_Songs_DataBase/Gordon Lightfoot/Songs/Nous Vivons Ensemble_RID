@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:SOUND                                          3
+    deaf hear voici
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+SECONDARY:ABSTRACTION                                            2
+    learn understand
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    sayin comment
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+PRIMARY:SENSATION:TASTE                                          1
+    sourd
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 6.250000 %
+
+155 words total

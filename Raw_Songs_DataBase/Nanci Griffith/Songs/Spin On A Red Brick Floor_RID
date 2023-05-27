@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    floor door walls line road lines road road lines floor door wall
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when old again when tonight then tonight old again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where at tip at here out east out here
+SECONDARY:RESTRAINT                                              6
+    bar locks stop catch bar locked
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    crazy sleep crazy crazy crazy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    burnin warmth hot burnin warmth
+PRIMARY:SENSATION:SOUND                                          3
+    ring buzzin ringin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    mountains spring spring
+SECONDARY:ABSTRACTION                                            3
+    sure cause cause
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say lend lend
+PRIMARY:NEED:ORALITY                                             3
+    honey tongue tongue
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spin spin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    cheek cheek
+EMOTIONS:AFFECTION                                               2
+    lovers lovers
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travellin travellin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ridge
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:SENSATION:COLD                                           1
+    north
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+EMOTIONS:AGGRESSION                                              1
+    kickin
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 65.000000 %
+SECONDARY           : 27.500000 %
+EMOTIONS            : 7.500000 %
+
+292 words total

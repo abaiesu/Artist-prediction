@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              18
+    love like love love love love love love love affect love love love love love love love love
+EMOTIONS:AGGRESSION                                             15
+    hate hate fight despise hate hate hate hate hate hate hate hate hate hate hate
+SECONDARY:ABSTRACTION                                           10
+    know know know fact reason why why knows know probably
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make won makes makes won won make
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything then sudden
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile laugh laugh
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at long
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+
+PRIMARY             : 13.043478 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 52.173913 %
+
+452 words total

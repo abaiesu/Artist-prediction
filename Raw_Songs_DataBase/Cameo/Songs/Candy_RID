@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                           12
+    know thought think reason why real real cause sure real why sure
+EMOTIONS:AFFECTION                                              11
+    like like affect like like kind like like like like like
+PRIMARY:NEED:ORALITY                                            11
+    candy candy appetite candy candy strawberry strawberry candy candy candy candy
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when now now now now when
+PRIMARY:SENSATION:VISION                                         5
+    look look bright violets watch
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk thank saying
+PRIMARY:SENSATION:SOUND                                          3
+    heart raspberry raspberry
+SECONDARY:ORDER                                                  2
+    simple simply
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes head
+EMOTIONS:ANXIETY                                                 2
+    shy shy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistaking
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    toss
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    attempt
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+EMOTIONS:AGGRESSION                                              1
+    attack
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+
+PRIMARY             : 45.070423 %
+SECONDARY           : 35.211268 %
+EMOTIONS            : 19.718310 %
+
+302 words total

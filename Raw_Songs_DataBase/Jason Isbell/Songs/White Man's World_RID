@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                            5
+    thought knew think know why
+EMOTIONS:AGGRESSION                                              5
+    shot war fighting war fighting
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    bones feet eyes eyes eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    carrying burden carrying burden
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burn fire fire
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under under
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    roof highway
+PRIMARY:SENSATION:SOUND                                          2
+    sound hear
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comforts comforts
+PRIMARY:SENSATION:ODOR                                           2
+    breathing breathing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    sharing sharing
+SECONDARY:TEMPORAL REFERENCES                                    2
+    past times
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    burial
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    oceans
+PRIMARY:SENSATION:VISION                                         1
+    looking
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 14.285714 %
+
+276 words total

@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    say teach say suggest agree say suggest tell teach say teach teach say
+PRIMARY:NEED:ORALITY                                            12
+    sucka sucka cherries fast sucka cherries sucka sucka sucka sucka sucka sucka
+SECONDARY:ABSTRACTION                                           10
+    know figure them fact know think cause cause know think
+PRIMARY:NEED:ANALITY                                             9
+    dirty dirty dirty dirty dirty dirty dirty dirty dirty
+SECONDARY:TEMPORAL REFERENCES                                    9
+    till till now till again now till till till
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out away close away close away away away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    sellin pay pay money pay pay pay pay
+EMOTIONS:AGGRESSION                                              3
+    destruction beating slap
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    slippin slidin drop
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    attention attention
+EMOTIONS:GLORY                                                   2
+    gold gold
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fever fever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lane street
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top grown
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+EMOTIONS:SADNESS                                                 1
+    frown
+
+PRIMARY             : 44.565217 %
+SECONDARY           : 45.652174 %
+EMOTIONS            : 9.782609 %
+
+434 words total

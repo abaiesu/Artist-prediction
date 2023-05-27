@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    southbound here long here here long here out out where here long here here long here here long here
+PRIMARY:SENSATION:VISION                                         8
+    shining blues blue blues blues blue blues blues
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old time old now now time again ever
+EMOTIONS:SADNESS                                                 6
+    lonely lonely lonely pain lonely lonely
+SECONDARY:ABSTRACTION                                            5
+    know thinking know cause cause
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:AGGRESSION                                              1
+    kill
+
+PRIMARY             : 56.363636 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 16.363636 %
+
+169 words total

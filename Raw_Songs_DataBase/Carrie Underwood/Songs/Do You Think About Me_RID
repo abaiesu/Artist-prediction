@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           17
+    think think think think different think think think think thinkin think think think think think think think
+EMOTIONS:AFFECTION                                              10
+    love like like like like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when sometimes when when
+EMOTIONS:POSITIVE AFFECT                                         5
+    smilin funny smilin smilin smilin
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said told met
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside out out outside
+SECONDARY:RESTRAINT                                              4
+    stop stop stop stop
+PRIMARY:NEED:ORALITY                                             3
+    sugar drinking coffee
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    played sing sing
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rainin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used used
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:NEED:SEX                                                 1
+    kissing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melts
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolled
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flyin
+
+PRIMARY             : 23.529412 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 29.411765 %
+
+321 words total

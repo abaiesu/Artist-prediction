@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                         9
+    green looking watched looking watched looking watched looking watched
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back where where back where back back back
+SECONDARY:ABSTRACTION                                            4
+    think know think think
+EMOTIONS:AFFECTION                                               4
+    kinda kinda kinda kinda
+EMOTIONS:SADNESS                                                 4
+    sad sad sad sad
+PRIMARY:SENSATION:COLD                                           3
+    ice ice ice
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said thanked
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 19.444444 %
+EMOTIONS            : 22.222222 %
+
+236 words total

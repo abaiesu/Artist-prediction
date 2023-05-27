@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    between between longer along between back along at between longer along between
+SECONDARY:ABSTRACTION                                            8
+    know think true reason knew know knew know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everybody again then now ever everybody
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+EMOTIONS:AGGRESSION                                              4
+    angry disagree fought disagree
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fantasy fantasy
+EMOTIONS:GLORY                                                   1
+    wonderful
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 36.585366 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 24.390244 %
+
+194 words total

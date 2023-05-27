@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    closer closer closer away inside closer closer closer away
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talk talk say say talk
+SECONDARY:ABSTRACTION                                            5
+    cause cause cause cause know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when then when then
+EMOTIONS:AGGRESSION                                              2
+    breakin hurting
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep low
+EMOTIONS:AFFECTION                                               2
+    flirting love
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 38.235294 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 11.764706 %
+
+193 words total

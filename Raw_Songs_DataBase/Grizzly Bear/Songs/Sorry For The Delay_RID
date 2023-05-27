@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    back behind behind behind between between between between between between between between
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time time time time time time time time time
+SECONDARY:MORAL IMPERATIVE                                       8
+    right right right right right right right right
+PRIMARY:SENSATION:VISION                                         3
+    see see looking
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falling falling falling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+SECONDARY:ABSTRACTION                                            1
+    something
+EMOTIONS:AGGRESSION                                              1
+    kill
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 51.282051 %
+EMOTIONS            : 2.564103 %
+
+199 words total

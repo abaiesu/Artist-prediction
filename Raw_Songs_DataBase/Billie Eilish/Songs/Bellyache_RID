@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    far back where where here where where where where where where where where where
+EMOTIONS:AFFECTION                                               8
+    friends kinda lover like like like lover lover
+SECONDARY:TEMPORAL REFERENCES                                    5
+    soon now everything now now
+PRIMARY:NEED:ORALITY                                             3
+    mouth gum biting
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    gutter gutter gutter
+SECONDARY:ABSTRACTION                                            3
+    thought thought thought
+PRIMARY:SENSATION:SOUND                                          3
+    bellyache bellyache bellyache
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bodies necklace
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money make
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driveway
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:SENSATION:HARD                                           1
+    nails
+SECONDARY:RESTRAINT                                              1
+    jail
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+EMOTIONS:ANXIETY                                                 1
+    scared
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 21.568627 %
+EMOTIONS            : 19.607843 %
+
+216 words total

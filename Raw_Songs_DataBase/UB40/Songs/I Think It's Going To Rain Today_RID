@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at overflowing away overflowing overflowing
+SECONDARY:ABSTRACTION                                            5
+    think think think them think
+EMOTIONS:AFFECTION                                               5
+    friend kindness love kindness kindness
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street windows hall
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    treat implore help
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain rain rain
+SECONDARY:TEMPORAL REFERENCES                                    3
+    today today today
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:AGGRESSION                                              2
+    kick broken
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:VISION                                         1
+    grey
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 43.589744 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 25.641026 %
+
+105 words total

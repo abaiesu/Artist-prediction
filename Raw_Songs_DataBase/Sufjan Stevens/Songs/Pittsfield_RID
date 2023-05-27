@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now now till time time time when time once now older
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    talk say remind told tell share remind remind
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back long here at at at place
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    work work works machine use work working
+SECONDARY:ABSTRACTION                                            6
+    know know learned meant know may
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    wash flood bathroom river wash
+EMOTIONS:AGGRESSION                                              5
+    kicked shoveled war kicked break
+EMOTIONS:ANXIETY                                                 4
+    afraid alarm afraid afraid
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    beds silence lazy lazy
+PRIMARY:SENSATION:COLD                                           3
+    cold snow cold
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climbed sunrise
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low pittsfield
+PRIMARY:NEED:ORALITY                                             2
+    meals salad
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair knees
+EMOTIONS:AFFECTION                                               2
+    loved friend
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:SENSATION:SOUND                                          1
+    rattled
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+PRIMARY:NEED:ANALITY                                             1
+    mess
+
+PRIMARY             : 43.421053 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 14.473684 %
+
+313 words total

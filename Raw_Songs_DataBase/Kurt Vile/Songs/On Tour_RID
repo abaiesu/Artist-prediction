@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out back out at out out
+SECONDARY:ABSTRACTION                                            6
+    know know cause know cause them
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    guitar playin sing screamin playin
+PRIMARY:SENSATION:VISION                                         5
+    watch watch see watch see
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time everyone now time again
+EMOTIONS:AGGRESSION                                              3
+    stab annoyingly beat
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head blood
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    tour tour
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+PRIMARY:SENSATION:SOUND                                          2
+    drum heart
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 48.837209 %
+SECONDARY           : 25.581395 %
+EMOTIONS            : 25.581395 %
+
+174 words total

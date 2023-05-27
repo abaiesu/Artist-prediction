@@ -1,0 +1,36 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    sight chant chant chant chant chant chant
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    close pointed out side
+SECONDARY:ABSTRACTION                                            4
+    know why important theory
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    speaker mention speaker
+PRIMARY:SENSATION:SOUND                                          2
+    voice voice
+EMOTIONS:SADNESS                                                 2
+    moaning moaning
+SECONDARY:RESTRAINT                                              2
+    control guardian
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    mob wild
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever every
+EMOTIONS:AGGRESSION                                              2
+    steal bother
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    effort
+EMOTIONS:POSITIVE AFFECT                                         1
+    entertainment
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tourists
+EMOTIONS:AFFECTION                                               1
+    likes
+
+PRIMARY             : 30.555556 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 36.111111 %
+
+111 words total

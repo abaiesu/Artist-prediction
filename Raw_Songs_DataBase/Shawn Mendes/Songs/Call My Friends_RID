@@ -1,0 +1,34 @@
+SECONDARY:MORAL IMPERATIVE                                      12
+    right should should should right should should should should should should should
+EMOTIONS:AFFECTION                                              12
+    like friends friends friends like friends friends friends friends friends friends friends
+SECONDARY:ABSTRACTION                                           12
+    different knows them something knows them something know know knows them something
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    call call call call call call call call call call
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now everybody while again when older when again again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    inside at where far closer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    count make make
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high high high
+PRIMARY:SENSATION:SOUND                                          2
+    music loud
+SECONDARY:RESTRAINT                                              1
+    bar
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 17.808219 %
+SECONDARY           : 64.383562 %
+EMOTIONS            : 17.808219 %
+
+242 words total

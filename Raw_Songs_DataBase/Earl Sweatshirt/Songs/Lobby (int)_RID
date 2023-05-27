@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    overreact back off where inside where overturned
+SECONDARY:ABSTRACTION                                            5
+    know plan know know known
+SECONDARY:TEMPORAL REFERENCES                                    4
+    past when when quick
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    trail fence steps
+EMOTIONS:AFFECTION                                               3
+    like love love
+PRIMARY:SENSATION:ODOR                                           2
+    inhaling nose
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    quota call
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slid slide
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sailing
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:SENSATION:VISION                                         1
+    notice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AGGRESSION                                              1
+    stubborn
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+
+PRIMARY             : 56.410256 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 15.384615 %
+
+167 words total

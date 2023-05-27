@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    somewhere out somewhere far away back back at side back back at side side somewhere out somewhere far away
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    talking talking talking talk say talking talking talking talking talking calling talking talking talking
+SECONDARY:ABSTRACTION                                            8
+    know think understand know know cause cause know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when ever every
+PRIMARY:SENSATION:VISION                                         4
+    stars light stars light
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy mad mad
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:GLORY                                                   1
+    famous
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+
+PRIMARY             : 48.275862 %
+SECONDARY           : 48.275862 %
+EMOTIONS            : 3.448276 %
+
+239 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out frontier where out rears out frontier out out
+EMOTIONS:AGGRESSION                                              2
+    cut cut
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:COLD                                           2
+    winter cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes won
+SECONDARY:ABSTRACTION                                            2
+    history know
+PRIMARY:SENSATION:VISION                                         2
+    saw saw
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    informs
+SECONDARY:TEMPORAL REFERENCES                                    1
+    past
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:NEED:ORALITY                                             1
+    spit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+
+PRIMARY             : 63.333333 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 10.000000 %
+
+165 words total

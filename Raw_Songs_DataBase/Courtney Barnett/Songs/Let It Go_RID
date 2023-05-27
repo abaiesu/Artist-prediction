@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    backstage over eastern open at at over over over over
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake sleep dreams reverie
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time moment
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    depends say
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rainbow water
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lethargy calm
+SECONDARY:RESTRAINT                                              2
+    obligations blocked
+SECONDARY:ABSTRACTION                                            2
+    learn know
+EMOTIONS:ANXIETY                                                 1
+    horror
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+SECONDARY:ORDER                                                  1
+    standard
+PRIMARY:SENSATION:VISION                                         1
+    sunlight
+PRIMARY:NEED:ORALITY                                             1
+    salty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:SENSATION:SOUND                                          1
+    chorus
+
+PRIMARY             : 68.571429 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 2.857143 %
+
+151 words total

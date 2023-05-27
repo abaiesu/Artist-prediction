@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              27
+    love love love love kind love love love love friend love love darling love love love love love love love kind love love darling love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    makes makes makes make make make makes makes makes won
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    helpless tell helpless
+SECONDARY:ABSTRACTION                                            3
+    believe know know
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    sunrise rises
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water swim
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    higher
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    open
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 15.789474 %
+SECONDARY           : 35.087719 %
+EMOTIONS            : 49.122807 %
+
+298 words total

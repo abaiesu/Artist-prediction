@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off where where space
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    earned find pick pick
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time clock
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire fire fire
+PRIMARY:SENSATION:COLD                                           2
+    chill cold
+PRIMARY:SENSATION:VISION                                         2
+    saw looking
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    stranger strange
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shook
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    curb
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    idling
+PRIMARY:NEED:ORALITY                                             1
+    cough
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+SECONDARY:ABSTRACTION                                            1
+    believe
+
+PRIMARY             : 68.965517 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 0.000000 %
+
+130 words total

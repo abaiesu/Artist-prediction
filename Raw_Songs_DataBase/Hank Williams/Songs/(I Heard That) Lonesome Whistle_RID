@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                         13
+    heard whistle heard whistle heart heard whistle heard whistle heard whistle heard whistle
+EMOTIONS:SADNESS                                                 6
+    lonesome lonesome lonesome lonesome lonesome lonesome
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    headin body hair
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    south off here
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    caroline cry
+SECONDARY:ABSTRACTION                                            2
+    guess know
+SECONDARY:RESTRAINT                                              2
+    locked locked
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when time
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+EMOTIONS:AGGRESSION                                              1
+    broke
+EMOTIONS:AFFECTION                                               1
+    darlin
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 56.410256 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 28.205128 %
+
+157 words total

@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+SECONDARY:ABSTRACTION                                            2
+    know cause
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    says treat
+PRIMARY:SENSATION:COLD                                           2
+    snowflake ice
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:SENSATION:TASTE                                          1
+    sweets
+
+PRIMARY             : 23.529412 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 29.411765 %
+
+97 words total

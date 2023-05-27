@@ -1,0 +1,28 @@
+PRIMARY:NEED:ORALITY                                             5
+    eggs bacon tomatoes coffee porridge
+EMOTIONS:AGGRESSION                                              4
+    kickoff breakfast hurts bothered
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then when when
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 30.434783 %
+
+117 words total

@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    again ago every when then ago ago ever ever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away away long apart long out away long
+EMOTIONS:AFFECTION                                               8
+    like love love cherish love friend pity love
+EMOTIONS:AGGRESSION                                              8
+    rage destroy hate ripped fight hate hurt break
+SECONDARY:ABSTRACTION                                            7
+    know know them think supposed know know
+SECONDARY:RESTRAINT                                              4
+    cage refused control punished
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    deliver claimed sold won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin face
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+PRIMARY:NEED:ORALITY                                             2
+    lips spit
+PRIMARY:SENSATION:VISION                                         2
+    light light
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death lie
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:TASTE                                          1
+    savor
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:SENSATION:HARD                                           1
+    stones
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 35.820896 %
+SECONDARY           : 38.805970 %
+EMOTIONS            : 25.373134 %
+
+288 words total

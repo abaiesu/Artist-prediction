@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    closer over over at off close off off off
+SECONDARY:ABSTRACTION                                            4
+    know them them them
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said met say say
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    wings wings wings wings
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed lay lay
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now tonight
+PRIMARY:NEED:ORALITY                                             2
+    fast honey
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find used
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:SENSATION:VISION                                         2
+    watch see
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 35.897436 %
+EMOTIONS            : 2.564103 %
+
+158 words total

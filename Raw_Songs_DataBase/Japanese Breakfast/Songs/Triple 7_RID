@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            7
+    know something know know know meant something
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    work machine find spend repair
+EMOTIONS:AFFECTION                                               5
+    love loves like like like
+PRIMARY:SENSATION:VISION                                         3
+    look light looks
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    valley bottom bottom
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out longing out
+SECONDARY:TEMPORAL REFERENCES                                    2
+    week till
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+SECONDARY:ORDER                                                  1
+    uniform
+EMOTIONS:AGGRESSION                                              1
+    cruel
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sails
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:GLORY                                                   1
+    scorn
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:NEED:SEX                                                 1
+    fucked
+
+PRIMARY             : 32.432432 %
+SECONDARY           : 45.945946 %
+EMOTIONS            : 21.621622 %
+
+176 words total

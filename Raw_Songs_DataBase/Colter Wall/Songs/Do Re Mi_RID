@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back east out here at back off where tip back
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every now today old every
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find find buy find
+PRIMARY:SENSATION:VISION                                         4
+    see look see huey
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    hot hot hot
+SECONDARY:ABSTRACTION                                            3
+    think believe believe
+EMOTIONS:AGGRESSION                                              2
+    beatin harm
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    desert rode
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:NEED:ORALITY                                             1
+    sugarbowl
+SECONDARY:RESTRAINT                                              1
+    police
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    entry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headlines
+
+PRIMARY             : 57.777778 %
+SECONDARY           : 37.777778 %
+EMOTIONS            : 4.444444 %
+
+256 words total

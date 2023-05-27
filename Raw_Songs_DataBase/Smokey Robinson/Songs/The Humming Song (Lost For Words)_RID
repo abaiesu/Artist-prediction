@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:SOUND                                          6
+    humming melody melody melody hear melody
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing plays
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along near
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+SECONDARY:TEMPORAL REFERENCES                                    2
+    whenever everyday
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ABSTRACTION                                            1
+    cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searched
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+
+PRIMARY             : 45.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 25.000000 %
+
+128 words total

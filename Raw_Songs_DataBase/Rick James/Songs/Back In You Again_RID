@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    here back here back back back long where out here back here back situation here back here back back back back
+SECONDARY:TEMPORAL REFERENCES                                   17
+    again everyday again again now everybody again everyday again minute suddenly now again everyday again again again
+SECONDARY:ABSTRACTION                                           10
+    thought know know something thought think believe know know thought
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say please say say say say
+EMOTIONS:POSITIVE AFFECT                                         5
+    glad glad glad glad glad
+PRIMARY:NEED:SEX                                                 3
+    sexy sexy sexy
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+SECONDARY:RESTRAINT                                              3
+    jail police must
+EMOTIONS:AGGRESSION                                              2
+    guns hurt
+EMOTIONS:ANXIETY                                                 1
+    trouble
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaky
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:AFFECTION                                               1
+    loves
+
+PRIMARY             : 40.259740 %
+SECONDARY           : 48.051948 %
+EMOTIONS            : 11.688312 %
+
+312 words total

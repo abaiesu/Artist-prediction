@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    away out where away back where away away away away away away where away where away away
+SECONDARY:TEMPORAL REFERENCES                                   11
+    every minute now now everything everywhere everybody everything everywhere everywhere everywhere
+PRIMARY:SENSATION:VISION                                        10
+    see look see see look see look see look see
+EMOTIONS:AFFECTION                                               9
+    like beloved like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    follow callow say say talk
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+SECONDARY:RESTRAINT                                              4
+    control control control control
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    line line line line
+PRIMARY:NEED:ORALITY                                             3
+    teeth grain salt
+EMOTIONS:SADNESS                                                 3
+    pain dejected suffer
+SECONDARY:ORDER                                                  2
+    serial balance
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin hands
+EMOTIONS:AGGRESSION                                              2
+    kill complain
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:SENSATION:HARD                                           1
+    nails
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    construct
+PRIMARY:NEED:SEX                                                 1
+    fuck
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 17.857143 %
+
+368 words total

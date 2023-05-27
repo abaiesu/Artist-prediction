@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old when old now now when old
+PRIMARY:SENSATION:SOUND                                          5
+    boomer hummin whistle whistle whistle
+PRIMARY:SENSATION:VISION                                         4
+    blues blues blues blues
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    bottom bottom
+SECONDARY:ABSTRACTION                                            2
+    guess guess
+EMOTIONS:AFFECTION                                               2
+    dear married
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    railroad
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drivers
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lullaby
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    taught
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fireman
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+EMOTIONS:AGGRESSION                                              1
+    broke
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 16.666667 %
+
+162 words total

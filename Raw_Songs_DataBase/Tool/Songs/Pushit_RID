@@ -1,0 +1,48 @@
+EMOTIONS:AGGRESSION                                             19
+    strike shoving shoving shoving shoving shoving shoving shoving shoving shoving shoving shoving shoving shoving shoving shoving shoving shoving shoving
+SECONDARY:TEMPORAL REFERENCES                                   13
+    again today while again when when again again today while when again again
+EMOTIONS:AFFECTION                                              11
+    love love love love love love dear like love friend love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here back flat somewhere somewhere somewhere place away back away
+SECONDARY:ABSTRACTION                                            6
+    may know judge cause may may
+PRIMARY:SENSATION:VISION                                         5
+    saw seeing see see saw
+PRIMARY:NEED:ORALITY                                             4
+    choke swallow choke throat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make trade
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head feet hands
+SECONDARY:RESTRAINT                                              2
+    managed must
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say persuade
+EMOTIONS:ANXIETY                                                 2
+    fear terrified
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:SENSATION:SOUND                                          1
+    bang
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipping
+PRIMARY:SENSATION:TOUCH                                          1
+    touching
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sigh
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:NEED:SEX                                                 1
+    fucking
+
+PRIMARY             : 33.707865 %
+SECONDARY           : 29.213483 %
+EMOTIONS            : 37.078652 %
+
+422 words total

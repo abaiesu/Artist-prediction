@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back out at out behind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make try make
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call call call
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughter laughter
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    laying laying
+PRIMARY:SENSATION:VISION                                         2
+    sunlight look
+SECONDARY:RESTRAINT                                              1
+    cage
+SECONDARY:TEMPORAL REFERENCES                                    1
+    quick
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lake
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+EMOTIONS:AFFECTION                                               1
+    dear
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:ABSTRACTION                                            1
+    reason
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 16.000000 %
+
+98 words total

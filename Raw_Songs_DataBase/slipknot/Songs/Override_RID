@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           14
+    thought understand know know know plans them know know why judged believe know know
+SECONDARY:TEMPORAL REFERENCES                                   14
+    now when everybody everybody when now sometimes when when everybody everybody when everybody everybody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    override override over over out override override out back override override
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell say protect says follow granted answer granted
+EMOTIONS:AGGRESSION                                              4
+    doubt opposite hate fought
+EMOTIONS:AFFECTION                                               3
+    familiar mercy love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found price
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfaction satisfaction
+SECONDARY:MORAL IMPERATIVE                                       2
+    law should
+SECONDARY:RESTRAINT                                              1
+    cage
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fades
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    risen
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:ORDER                                                  1
+    simple
+
+PRIMARY             : 23.188406 %
+SECONDARY           : 60.869565 %
+EMOTIONS            : 15.942029 %
+
+347 words total

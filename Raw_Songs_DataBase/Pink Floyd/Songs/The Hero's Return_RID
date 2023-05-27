@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when time now time when everyone
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out over at behind away back
+EMOTIONS:AGGRESSION                                              4
+    ingrates sarcasm war gunners
+PRIMARY:SENSATION:VISION                                         2
+    lights light
+EMOTIONS:SADNESS                                                 2
+    whine painful
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie dying
+PRIMARY:SENSATION:TASTE                                          2
+    sweetheart sweetheart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door street
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    danced sang
+PRIMARY:SENSATION:SOUND                                          2
+    bells heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning smoulders
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+EMOTIONS:ANXIETY                                                 1
+    desperate
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+SECONDARY:ABSTRACTION                                            1
+    something
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+
+PRIMARY             : 52.500000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 22.500000 %
+
+145 words total

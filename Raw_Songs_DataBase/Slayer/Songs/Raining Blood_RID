@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    past now hour time now
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    sky sky above sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near away
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall slips
+EMOTIONS:AGGRESSION                                              2
+    treacherous betrayed
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    dripping raining
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood blood
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:SENSATION:VISION                                         1
+    crimson
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+EMOTIONS:ANXIETY                                                 1
+    horror
+SECONDARY:RESTRAINT                                              1
+    reign
+
+PRIMARY             : 64.000000 %
+SECONDARY           : 24.000000 %
+EMOTIONS            : 12.000000 %
+
+80 words total

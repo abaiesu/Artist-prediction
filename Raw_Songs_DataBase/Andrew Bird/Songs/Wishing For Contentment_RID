@@ -1,0 +1,28 @@
+EMOTIONS:AGGRESSION                                              2
+    resentment retribution
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy elation
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    finding making
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when soon
+SECONDARY:ABSTRACTION                                            2
+    judgmental perhaps
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    contentment
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    visit
+PRIMARY:NEED:ORALITY                                             1
+    nauseous
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fades
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 23.529412 %
+
+78 words total

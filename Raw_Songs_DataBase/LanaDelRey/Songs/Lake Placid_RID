@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    tonight tonight tonight tonight when tonight tonight tonight tonight
+EMOTIONS:AFFECTION                                               6
+    like kinda like like liked like
+SECONDARY:ABSTRACTION                                            4
+    real probably why probably
+PRIMARY:SENSATION:VISION                                         3
+    looks blue saw
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams dreams dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won reaching
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride riding
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tall
+PRIMARY:NEED:ORALITY                                             1
+    drinks
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 43.902439 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 17.073171 %
+
+280 words total

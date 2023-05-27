@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              14
+    love love love love love love love love love love love love love love
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heart heart heart sound
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then then then then then again
+PRIMARY:SENSATION:VISION                                         6
+    look see see look see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    roll roll roll roll roll
+PRIMARY:NEED:ORALITY                                             4
+    lips lips lips lips
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking say say
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandering
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 48.076923 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 28.846154 %
+
+272 words total

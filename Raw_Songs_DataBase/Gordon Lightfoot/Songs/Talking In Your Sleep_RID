@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:SOUND                                         10
+    heard heard heard hear heard heard heard heard hear heard
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    talking talking call spoke talking say talking call spoke talking
+SECONDARY:ABSTRACTION                                            5
+    believe supposed know believe believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at out near at at
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep sleep sleep
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:HARD                                           2
+    hardly hardly
+PRIMARY:SENSATION:SOFT                                           2
+    softly whisper
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reached
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+
+PRIMARY             : 55.813953 %
+SECONDARY           : 44.186047 %
+EMOTIONS            : 0.000000 %
+
+178 words total

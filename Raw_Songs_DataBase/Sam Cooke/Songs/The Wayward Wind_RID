@@ -1,0 +1,32 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    restless restless restless restless restless restless
+SECONDARY:TEMPORAL REFERENCES                                    4
+    yearns yearns now yearns
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    wander wandering wander wander
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye eye eye
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    railroad border
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spent tried
+PRIMARY:SENSATION:SOUND                                          2
+    sound heart
+EMOTIONS:AFFECTION                                               1
+    lovely
+SECONDARY:ABSTRACTION                                            1
+    guess
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    outward
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+EMOTIONS:AGGRESSION                                              1
+    broken
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 6.896552 %
+
+163 words total

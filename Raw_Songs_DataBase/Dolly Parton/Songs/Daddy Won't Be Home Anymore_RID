@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           11
+    think them them them thought know sure understand why understand why
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    ask tell say help say tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find won won won won
+SECONDARY:TEMPORAL REFERENCES                                    4
+    times again then tonight
+PRIMARY:SENSATION:COLD                                           4
+    children children children children
+PRIMARY:SENSATION:VISION                                         2
+    look see
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+EMOTIONS:AGGRESSION                                              2
+    break fighting
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far off
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 13.333333 %
+
+172 words total

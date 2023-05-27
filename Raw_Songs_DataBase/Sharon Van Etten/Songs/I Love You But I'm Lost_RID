@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           12
+    know something know know know believe believe them something know suppose something
+EMOTIONS:AFFECTION                                              10
+    love lover love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    answers tell help tell promises
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everyday while again time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out here back between
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows mistakes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall lines
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:SENSATION:VISION                                         2
+    seeing see
+EMOTIONS:SADNESS                                                 2
+    disappointed pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find cost
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:MORAL IMPERATIVE                                       1
+    sanctuary
+EMOTIONS:AGGRESSION                                              1
+    shots
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 26.415094 %
+SECONDARY           : 45.283019 %
+EMOTIONS            : 28.301887 %
+
+246 words total

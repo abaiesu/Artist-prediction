@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out south out here at here out
+PRIMARY:SENSATION:SOUND                                          7
+    whistle heart heart heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time when now time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    harvest used harvest
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    highway high highway
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    buried fell buried
+EMOTIONS:GLORY                                                   3
+    gold gold gold
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tell
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+SECONDARY:ABSTRACTION                                            2
+    something something
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 61.904762 %
+SECONDARY           : 26.190476 %
+EMOTIONS            : 11.904762 %
+
+176 words total

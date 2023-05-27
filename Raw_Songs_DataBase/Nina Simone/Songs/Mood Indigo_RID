@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         9
+    blue blue blues lights bluer blue blue blue blues
+SECONDARY:TEMPORAL REFERENCES                                    6
+    till while when when till while
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here along here along
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sigh cry sigh
+EMOTIONS:AGGRESSION                                              2
+    stealing stealing
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay die
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:AFFECTION                                               1
+    goodbye
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:ANXIETY                                                 1
+    cares
+
+PRIMARY             : 48.484848 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 24.242424 %
+
+142 words total

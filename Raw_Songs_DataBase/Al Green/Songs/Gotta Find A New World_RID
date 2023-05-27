@@ -1,0 +1,22 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    treat say help say say say help able able talk able
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at where out along where
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everybody everybody when when when
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear hear hear
+PRIMARY:SENSATION:VISION                                         2
+    look see
+SECONDARY:ABSTRACTION                                            2
+    know understand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+EMOTIONS:AFFECTION                                               2
+    loves love
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 60.606061 %
+EMOTIONS            : 6.060606 %
+
+139 words total

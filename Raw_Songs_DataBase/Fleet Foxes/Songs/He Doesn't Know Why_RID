@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long at nears where frontier over back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hair face hands hand eyes
+PRIMARY:SENSATION:VISION                                         4
+    looking looked light see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+SECONDARY:ABSTRACTION                                            3
+    understand understand evidence
+SECONDARY:TEMPORAL REFERENCES                                    3
+    years when week
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reached try
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+EMOTIONS:AGGRESSION                                              1
+    knife
+
+PRIMARY             : 58.064516 %
+SECONDARY           : 38.709677 %
+EMOTIONS            : 3.225806 %
+
+151 words total

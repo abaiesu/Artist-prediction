@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out front off closer off at front off off
+SECONDARY:ABSTRACTION                                            9
+    thought think know something think know know think know
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then then when ever ever whenever ever ever
+PRIMARY:SENSATION:VISION                                         8
+    saw lookin looked films lookin saw saw lookin
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said met mention said say said
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    hand eye eye feet feet feet
+EMOTIONS:AFFECTION                                               5
+    friend like goodbyes like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found tried found found
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door stepped stepped
+PRIMARY:NEED:SEX                                                 3
+    kissed kissed kissed
+PRIMARY:NEED:ORALITY                                             2
+    dinner lip
+EMOTIONS:ANXIETY                                                 2
+    desperately cares
+PRIMARY:SENSATION:SOUND                                          2
+    heart drumming
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:AGGRESSION                                              1
+    hate
+SECONDARY:RESTRAINT                                              1
+    managed
+SECONDARY:ORDER                                                  1
+    constantly
+
+PRIMARY             : 47.887324 %
+SECONDARY           : 40.845070 %
+EMOTIONS            : 11.267606 %
+
+335 words total

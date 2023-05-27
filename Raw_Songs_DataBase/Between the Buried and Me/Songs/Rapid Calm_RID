@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now old soon now old soon time soon soon
+PRIMARY:ICARIAN IMAGERY:FIRE                                     9
+    sun sun smoke sun smoke smoke search search search
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    speak speak speak accept follow accept kneel
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    distant distant here here here
+SECONDARY:ABSTRACTION                                            5
+    choice choice reason choice reason
+PRIMARY:SENSATION:VISION                                         5
+    light shines light shines lights
+EMOTIONS:AFFECTION                                               4
+    embracing embracing embracing embrace
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    rising lifting rising lifts
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    awakens awakens dream
+EMOTIONS:GLORY                                                   2
+    golden gold
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fog
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    machine
+PRIMARY:SENSATION:SOFT                                           1
+    velvet
+PRIMARY:NEED:ORALITY                                             1
+    famine
+
+PRIMARY             : 52.542373 %
+SECONDARY           : 37.288136 %
+EMOTIONS            : 10.169492 %
+
+192 words total

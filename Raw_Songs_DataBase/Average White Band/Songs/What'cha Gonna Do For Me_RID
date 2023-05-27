@@ -1,0 +1,40 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    work spend won job make try
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time when when
+EMOTIONS:AGGRESSION                                              2
+    exploiting blame
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sights cry
+SECONDARY:ABSTRACTION                                            2
+    true sure
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:VISION                                         1
+    blues
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:NEED:ORALITY                                             1
+    bites
+PRIMARY:SENSATION:COLD                                           1
+    cool
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 48.148148 %
+EMOTIONS            : 18.518519 %
+
+155 words total

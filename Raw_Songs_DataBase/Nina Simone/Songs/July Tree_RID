@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                           10
+    true true true true know true know true true true
+EMOTIONS:AFFECTION                                               8
+    love love love love love love love love
+PRIMARY:SENSATION:COLD                                           4
+    winter snow winter snow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grow high tree
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where long
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 23.529412 %
+
+89 words total

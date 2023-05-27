@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    off long open back along long open back along along
+PRIMARY:SENSATION:VISION                                         6
+    see looking see see looking see
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    met said meet meet meet
+EMOTIONS:AFFECTION                                               5
+    goodbye love like like like
+SECONDARY:ABSTRACTION                                            5
+    choice cause supposed supposed supposed
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again everyone now again again
+EMOTIONS:AGGRESSION                                              4
+    broke kicked broken broken
+PRIMARY:SENSATION:HARD                                           4
+    hard rock rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    silence slowly silence slowly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    wrist eyes eyes
+SECONDARY:MORAL IMPERATIVE                                       3
+    ought ought ought
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roll roll roll
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    insane insane insane
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughs laughs
+PRIMARY:NEED:ANALITY                                             2
+    pissed pissed
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+
+PRIMARY             : 55.223881 %
+SECONDARY           : 28.358209 %
+EMOTIONS            : 16.417910 %
+
+233 words total

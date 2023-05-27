@@ -1,0 +1,32 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            7
+    chance chance chance chance chance chance chance
+SECONDARY:ABSTRACTION                                            6
+    guess guess learned thought know knew
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say call told
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back at where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reach reach
+EMOTIONS:AFFECTION                                               2
+    romance friendly
+SECONDARY:ORDER                                                  1
+    simply
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 6.666667 %
+
+136 words total

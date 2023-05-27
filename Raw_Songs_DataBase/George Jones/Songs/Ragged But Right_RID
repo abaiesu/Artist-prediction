@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here out at rounds at here
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+SECONDARY:TEMPORAL REFERENCES                                    5
+    times old while then now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell tell tell tell
+EMOTIONS:AFFECTION                                               3
+    married love love
+SECONDARY:ABSTRACTION                                            3
+    knew know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    afford built
+PRIMARY:NEED:ANALITY                                             2
+    dirty dirty
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+EMOTIONS:GLORY                                                   1
+    proud
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 30.555556 %
+SECONDARY           : 52.777778 %
+EMOTIONS            : 16.666667 %
+
+192 words total

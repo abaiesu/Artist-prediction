@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       30
+    back back back back away back back back back back back back back back back back back away back back back back back back back back back back back back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      28
+    wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+EMOTIONS:AGGRESSION                                              7
+    fighters fight fight battle fighter fight fight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    rise rise rise rise
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fallen fallen
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sow
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:SENSATION:HARD                                           1
+    harder
+PRIMARY:SENSATION:TASTE                                          1
+    sweeter
+EMOTIONS:GLORY                                                   1
+    victory
+
+PRIMARY             : 83.544304 %
+SECONDARY           : 6.329114 %
+EMOTIONS            : 10.126582 %
+
+266 words total

@@ -1,0 +1,44 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                   18
+    deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    within at somewhere away away away over out out away side
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    beckon tells say tells tells say talking tells tells
+SECONDARY:ABSTRACTION                                            7
+    something know know know believe may cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won make try making try making won
+EMOTIONS:AGGRESSION                                              7
+    break killing break break doubt fight break
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now then time now
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes hands head face
+SECONDARY:RESTRAINT                                              2
+    resist resist
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:AFFECTION                                               2
+    love loving
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ship sail
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+
+PRIMARY             : 54.022989 %
+SECONDARY           : 35.632184 %
+EMOTIONS            : 10.344828 %
+
+354 words total

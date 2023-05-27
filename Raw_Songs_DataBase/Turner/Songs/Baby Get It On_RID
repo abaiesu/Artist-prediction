@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now ever now now now now every now now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said say said said
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won found
+EMOTIONS:AFFECTION                                               2
+    lovin like
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+
+PRIMARY             : 9.090909 %
+SECONDARY           : 77.272727 %
+EMOTIONS            : 13.636364 %
+
+160 words total

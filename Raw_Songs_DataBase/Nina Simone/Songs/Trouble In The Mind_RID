@@ -1,0 +1,46 @@
+EMOTIONS:ANXIETY                                                 7
+    trouble trouble trouble trouble trouble trouble worried
+PRIMARY:SENSATION:VISION                                         6
+    blue blue shine lamp blues see
+SECONDARY:ABSTRACTION                                            4
+    cause true almost cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    backdoor at away
+PRIMARY:SENSATION:HARD                                           3
+    rockin rock hard
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun burnin
+SECONDARY:TEMPORAL REFERENCES                                    2
+    sometimes when
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    railroad line
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughin laughin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:SENSATION:SOUND                                          1
+    hearted
+EMOTIONS:GLORY                                                   1
+    great
+EMOTIONS:AGGRESSION                                              1
+    unkind
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:SADNESS                                                 1
+    lonesome
+
+PRIMARY             : 53.488372 %
+SECONDARY           : 16.279070 %
+EMOTIONS            : 30.232558 %
+
+161 words total

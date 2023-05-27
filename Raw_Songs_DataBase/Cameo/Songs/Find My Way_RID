@@ -1,0 +1,36 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 15
+    find try find find carry won make find find find find find find find find
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please saying please saying say please
+EMOTIONS:AGGRESSION                                              4
+    break break hits strikes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    games play games play
+SECONDARY:RESTRAINT                                              3
+    must stop stop
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when then when
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ABSTRACTION                                            2
+    think cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out away
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    spite
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    star
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+
+PRIMARY             : 14.893617 %
+SECONDARY           : 63.829787 %
+EMOTIONS            : 21.276596 %
+
+187 words total

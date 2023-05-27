@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back back back
+PRIMARY:SENSATION:COLD                                           2
+    child child
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    job makes
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please say
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:TOUCH                                          1
+    sting
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+
+PRIMARY             : 52.941176 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 0.000000 %
+
+101 words total

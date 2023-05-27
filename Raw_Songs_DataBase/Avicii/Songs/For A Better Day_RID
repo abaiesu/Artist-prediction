@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    called call call call call call call
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             6
+    magic magic magic magic magic magic
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    line path road line line
+EMOTIONS:AFFECTION                                               4
+    love love love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sang sang sang
+EMOTIONS:POSITIVE AFFECT                                         3
+    joy joy joy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find find
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+PRIMARY:SENSATION:COLD                                           2
+    cold snow
+PRIMARY:SENSATION:VISION                                         2
+    saw saw
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    straight forward
+EMOTIONS:SADNESS                                                 1
+    paint
+SECONDARY:ORDER                                                  1
+    neath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumble
+
+PRIMARY             : 48.979592 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 22.448980 %
+
+222 words total

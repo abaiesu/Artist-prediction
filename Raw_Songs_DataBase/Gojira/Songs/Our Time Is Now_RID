@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    time time now time now time now today now time now time now ever
+EMOTIONS:AFFECTION                                               6
+    love like love like love like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out back out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try belong belong
+EMOTIONS:GLORY                                                   2
+    conquer conquer
+EMOTIONS:AGGRESSION                                              2
+    deceived seize
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystic
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+
+PRIMARY             : 26.190476 %
+SECONDARY           : 45.238095 %
+EMOTIONS            : 28.571429 %
+
+158 words total

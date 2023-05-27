@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now hour hour now time hour hour
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here west where
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning sun
+EMOTIONS:GLORY                                                   2
+    golden golden
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruins
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dances
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 17.391304 %
+
+75 words total

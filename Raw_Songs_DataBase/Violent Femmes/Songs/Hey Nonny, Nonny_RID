@@ -1,0 +1,54 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    then when sometimes while when ever again
+SECONDARY:ABSTRACTION                                            5
+    thoughts feature something think thoughts
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    beauty fairest beauty fairest
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    bathing streams bathing streams
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where beside where beside
+PRIMARY:SENSATION:VISION                                         4
+    see imagination see see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said tell say said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    slumber dreams awaked sleeping
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fell fall fell
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring spring
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shades shades
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calm calm
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds birds
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:SENSATION:COLD                                           2
+    cool cool
+PRIMARY:NEED:SEX                                                 2
+    wanton wanton
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eye
+SECONDARY:RESTRAINT                                              2
+    forbidden forbidden
+EMOTIONS:AGGRESSION                                              2
+    chidden chidden
+EMOTIONS:AFFECTION                                               1
+    fond
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:SADNESS                                                 1
+    weeping
+EMOTIONS:ANXIETY                                                 1
+    worried
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 57.812500 %
+SECONDARY           : 29.687500 %
+EMOTIONS            : 12.500000 %
+
+232 words total

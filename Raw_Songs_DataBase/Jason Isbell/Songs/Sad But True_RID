@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           23
+    true real true know true true true real true know true true true know true real true truth reason true true true true
+EMOTIONS:SADNESS                                                21
+    pain sad pain sad sad sad pain sad pain sad sad sad pain pain sad pain sad sad sad sad sad
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now when when while while when when while while when when when
+EMOTIONS:AGGRESSION                                              9
+    betray betray steal blamed steal hate hate hate steal
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make work work make pay pay price pay make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    eyes eyes eyes eyes eyes eyes eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    dream dream dream dream dream dream dream
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away away longer inside open
+SECONDARY:RESTRAINT                                              3
+    must must must
+EMOTIONS:AFFECTION                                               2
+    friend love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    shelter telling
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 22.641509 %
+SECONDARY           : 46.226415 %
+EMOTIONS            : 31.132075 %
+
+343 words total

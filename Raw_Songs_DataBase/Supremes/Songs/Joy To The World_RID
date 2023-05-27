@@ -1,0 +1,32 @@
+EMOTIONS:GLORY                                                  10
+    glories wonders wonders wonders wonders wonders wonders wonders wonders wonders
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+EMOTIONS:POSITIVE AFFECT                                         5
+    joy joy joy joy joy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    heaven heaven heaven heaven hills
+PRIMARY:SENSATION:SOUND                                          4
+    heart sounding sounding sounding
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    prepare employ makes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every while
+SECONDARY:ABSTRACTION                                            2
+    truth prove
+SECONDARY:RESTRAINT                                              1
+    reigns
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    floods
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+SECONDARY:MORAL IMPERATIVE                                       1
+    righteousness
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 20.454545 %
+EMOTIONS            : 54.545455 %
+
+123 words total

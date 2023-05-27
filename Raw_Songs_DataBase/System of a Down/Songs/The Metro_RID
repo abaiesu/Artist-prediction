@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    past years years now then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away along over away
+EMOTIONS:AGGRESSION                                              3
+    broken hurt hurt
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    riding riding riding
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand hand eyes
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    follow spoke
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain swimming
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    soldier soldier
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling smiling
+PRIMARY:SENSATION:VISION                                         2
+    saw see
+EMOTIONS:AFFECTION                                               2
+    love loving
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:NEED:SEX                                                 1
+    fuck
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 25.714286 %
+EMOTIONS            : 22.857143 %
+
+167 words total

@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      21
+    hall hall hall hall hall stairs stairs line hall hall doors hall hall hall hall hall hall hall hall hall hall
+EMOTIONS:GLORY                                                  18
+    fame fame fame fame fame fame fame pride fame fame fame fame fame fame fame fame fame fame
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           12
+    sleep dream dreamed dreamed woke woke dreaming dream dreamed dream dream dream
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    elected said called called called call tell
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when soon everywhere everywhere presented when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out closing inside at at at
+SECONDARY:ABSTRACTION                                            4
+    know planks planks knew
+PRIMARY:SENSATION:SOUND                                          2
+    hearts heard
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangest
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pools
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:SADNESS                                                 1
+    tragical
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tour
+EMOTIONS:AFFECTION                                               1
+    pitiful
+PRIMARY:SENSATION:VISION                                         1
+    pictures
+EMOTIONS:AGGRESSION                                              1
+    broken
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 22.826087 %
+EMOTIONS            : 25.000000 %
+
+407 words total

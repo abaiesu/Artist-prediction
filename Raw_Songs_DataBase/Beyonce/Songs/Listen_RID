@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    here within aside at at here inside long out aside at at where here
+SECONDARY:ABSTRACTION                                           13
+    cause known believing know thought cause known believing know know believing know think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    find won tried tried find won tried tried find belong won find
+PRIMARY:SENSATION:SOUND                                         10
+    heart melody sound heard voice heard voice heart melody voice
+SECONDARY:ORDER                                                  8
+    listen listen listen listen listened listen listen listen
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time now now ago now now now now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say followed say followed followed
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+
+PRIMARY             : 35.897436 %
+SECONDARY           : 62.820513 %
+EMOTIONS            : 1.282051 %
+
+328 words total

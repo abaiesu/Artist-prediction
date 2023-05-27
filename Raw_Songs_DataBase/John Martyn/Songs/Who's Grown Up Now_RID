@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    away across away near here here away round rearrange away across away near
+PRIMARY:SENSATION:VISION                                        11
+    looked saw saw see see see see see see see see
+SECONDARY:TEMPORAL REFERENCES                                    9
+    suddenly time suddenly now time again again suddenly suddenly
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    fly dawn sunrise fly dawn
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    meet meet tell meet meet
+SECONDARY:ABSTRACTION                                            4
+    something cause why cause
+EMOTIONS:AFFECTION                                               3
+    lover love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    darkened
+PRIMARY:SENSATION:SOUND                                          1
+    whistling
+PRIMARY:SENSATION:SOFT                                           1
+    velvet
+EMOTIONS:GLORY                                                   1
+    wondering
+SECONDARY:MORAL IMPERATIVE                                       1
+    conscience
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    recover
+
+PRIMARY             : 57.627119 %
+SECONDARY           : 35.593220 %
+EMOTIONS            : 6.779661 %
+
+259 words total

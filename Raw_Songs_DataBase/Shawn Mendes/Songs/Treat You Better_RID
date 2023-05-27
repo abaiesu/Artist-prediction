@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    tell say treat tell treat say tell treat tell treat promise promise treat tell treat
+SECONDARY:ABSTRACTION                                           14
+    know know why know different cause know why know know cause know why know
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when time time when time everything time when time when
+EMOTIONS:AFFECTION                                               5
+    like like loving like like
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won spending won
+PRIMARY:SENSATION:SOFT                                           3
+    gentleman gentleman gentleman
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off situation
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hand
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+
+PRIMARY             : 15.873016 %
+SECONDARY           : 76.190476 %
+EMOTIONS            : 7.936508 %
+
+305 words total

@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:COLD                                           5
+    cold winter cold winter cold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out out where opened opened
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again time time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms eyes eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    belong find find
+EMOTIONS:SADNESS                                                 2
+    painful mourning
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warmth sun
+EMOTIONS:GLORY                                                   2
+    golden gold
+EMOTIONS:AGGRESSION                                              2
+    fight fight
+SECONDARY:MORAL IMPERATIVE                                       2
+    upright upright
+SECONDARY:ABSTRACTION                                            1
+    learn
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+PRIMARY:SENSATION:VISION                                         1
+    star
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    expanding
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 16.666667 %
+
+123 words total

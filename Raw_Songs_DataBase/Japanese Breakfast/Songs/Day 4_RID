@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out at towards back
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:ABSTRACTION                                            1
+    something
+EMOTIONS:AGGRESSION                                              1
+    kick
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ago
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rode
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lining
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 20.000000 %
+
+57 words total

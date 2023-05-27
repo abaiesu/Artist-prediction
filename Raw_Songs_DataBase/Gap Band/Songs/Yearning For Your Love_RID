@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    near out side inside inside out out out out out out out out out out out out out out out out
+EMOTIONS:AFFECTION                                              12
+    like love love love lover lover friend lover love love love love
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time times yearning yearning times yearning yearning yearning yearning
+PRIMARY:SENSATION:SOUND                                          7
+    ear heart heart heart heart heart heart
+SECONDARY:ABSTRACTION                                            3
+    cause know cause
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say guide
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+
+PRIMARY             : 51.785714 %
+SECONDARY           : 26.785714 %
+EMOTIONS            : 21.428571 %
+
+378 words total

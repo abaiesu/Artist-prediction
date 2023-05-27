@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            9
+    sleepwalker sleepwalker sleepwalk sleeping sleepwalker sleepwalker sleepwalker sleepwalker sleepwalk
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when then now
+PRIMARY:SENSATION:COLD                                           3
+    hoarse cold numb
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    side side
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm warm
+SECONDARY:ABSTRACTION                                            2
+    thinking thinking
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    brain
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 72.413793 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 3.448276 %
+
+192 words total

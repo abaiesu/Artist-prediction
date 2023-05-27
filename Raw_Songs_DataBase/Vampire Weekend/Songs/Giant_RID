@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    agree pleases pleases gifts agree pleases pleases agree pleases pleases
+SECONDARY:ABSTRACTION                                            9
+    different cause cause different cause cause different cause cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used winning winning winning
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now ancient now now
+PRIMARY:SENSATION:VISION                                         3
+    looking pictures scene
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    game game game
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    waters water
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:MORAL IMPERATIVE                                       1
+    duty
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautifully
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spiral
+EMOTIONS:AFFECTION                                               1
+    favorite
+PRIMARY:NEED:ORALITY                                             1
+    cheese
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+EMOTIONS:AGGRESSION                                              1
+    slaughter
+
+PRIMARY             : 28.260870 %
+SECONDARY           : 60.869565 %
+EMOTIONS            : 10.869565 %
+
+130 words total

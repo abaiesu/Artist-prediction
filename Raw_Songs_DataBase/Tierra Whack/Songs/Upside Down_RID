@@ -1,0 +1,50 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    9
+    water river river river river river river river river
+PRIMARY:SENSATION:VISION                                         8
+    look saw see see watching spy brown watch
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today tonight today tonight today tonight today tonight
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    help message reply asked talk calling taught
+SECONDARY:ABSTRACTION                                            7
+    truth qualify cause cause purpose learning cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    dream woke wake wake wake wake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    money buy working money pick make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at far inside circle back
+PRIMARY:SENSATION:SOUND                                          5
+    hear heartbreaker heart heard heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    cry sight sight sight sight
+EMOTIONS:AFFECTION                                               3
+    goodbye love like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died lies
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    search burning
+PRIMARY:NEED:SEX                                                 2
+    thighs bitch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:NEED:ANALITY                                             2
+    shit dirty
+SECONDARY:RESTRAINT                                              2
+    must determined
+PRIMARY:NEED:ORALITY                                             1
+    breast
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 53.488372 %
+SECONDARY           : 36.046512 %
+EMOTIONS            : 10.465116 %
+
+430 words total

@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell ask ask ask
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    ocean shore ocean shore
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sell sell
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    closer
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 14.285714 %
+
+178 words total

@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say spoken say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make makes make make
+SECONDARY:ABSTRACTION                                            4
+    tender may qualities cause
+EMOTIONS:AGGRESSION                                              3
+    doubt doubt doubt
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:GLORY                                                   1
+    wealth
+PRIMARY:SENSATION:VISION                                         1
+    watching
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handsome
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+EMOTIONS:ANXIETY                                                 1
+    shy
+
+PRIMARY             : 16.666667 %
+SECONDARY           : 54.166667 %
+EMOTIONS            : 29.166667 %
+
+134 words total

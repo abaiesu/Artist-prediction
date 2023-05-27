@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                        11
+    blue blue blue blue blue blue blue blue blue blue blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out out out out out out out out out
+EMOTIONS:AFFECTION                                               5
+    love love like love love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    till till till till
+SECONDARY:ABSTRACTION                                            3
+    thought almost thought
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    wings fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spreading
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 65.789474 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 13.157895 %
+
+121 words total

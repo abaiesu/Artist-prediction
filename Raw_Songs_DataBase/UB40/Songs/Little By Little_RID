@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:HARD                                           6
+    stone stone stone stone stone stone
+EMOTIONS:GLORY                                                   6
+    rich rich rich rich rich rich
+SECONDARY:TEMPORAL REFERENCES                                    5
+    soon while while past while
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    rising mountain mountain mountain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head blood blood feet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead bed dead
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+EMOTIONS:AGGRESSION                                              2
+    anger defeat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeps sleeps
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    boiling
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:NEED:ORALITY                                             1
+    fat
+PRIMARY:SENSATION:SOUND                                          1
+    belly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drives
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 19.047619 %
+
+129 words total

@@ -1,0 +1,44 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won find found
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    screaming screams sight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out spaces inside
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever ever when
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    water ocean tides
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+SECONDARY:ABSTRACTION                                            2
+    true sure
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sinking sink
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ship sailing
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:AGGRESSION                                              1
+    crushes
+
+PRIMARY             : 55.882353 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 17.647059 %
+
+144 words total

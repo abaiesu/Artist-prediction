@@ -1,0 +1,44 @@
+EMOTIONS:ANXIETY                                                21
+    scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out inside at along at far side away along along along
+EMOTIONS:SADNESS                                                10
+    lonely lonely lonely lonely lonely lonely lonely lonely lonely lonely
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            8
+    dream dream dream dream dream dream dream dream
+PRIMARY:SENSATION:SOUND                                          8
+    heartbeat hear heartbeat hear heartbeat hear heartbeat hear
+EMOTIONS:AGGRESSION                                              7
+    fight beat hurtin beating beating beating beating
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when when when when when
+PRIMARY:SENSATION:VISION                                         6
+    see imagine looking see see see
+SECONDARY:ABSTRACTION                                            5
+    cause cause cause cause think
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    shadow shadow shadow shadow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    wall wall wall wall
+PRIMARY:SENSATION:ODOR                                           4
+    breathe breathe breathe breathe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try find won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms hand
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swingin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinkin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 49.038462 %
+SECONDARY           : 13.461538 %
+EMOTIONS            : 37.500000 %
+
+447 words total

@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everyone ever everyone ever again when while when everyone ever
+SECONDARY:MORAL IMPERATIVE                                       6
+    honesty honesty honesty honesty honesty honesty
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say tell promises ask tell depend
+SECONDARY:ABSTRACTION                                            5
+    tenderness truthfulness believe know know
+PRIMARY:SENSATION:HARD                                           5
+    hard hard hardly hardly hardly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find find find find won
+EMOTIONS:AFFECTION                                               4
+    love sympathize lover friend
+PRIMARY:SENSATION:SOUND                                          4
+    heard heart heard heard
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out inside where
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty comfort
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies security
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 36.065574 %
+SECONDARY           : 52.459016 %
+EMOTIONS            : 11.475410 %
+
+218 words total

@@ -1,0 +1,26 @@
+SECONDARY:RESTRAINT                                             13
+    bind prisoner prisoner prisoner prisoner prisoner prisoner prisoner prisoner prisoner prisoner prisoner prisoner
+EMOTIONS:AFFECTION                                               8
+    love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams awake sleeping
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    remind sharing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms knees
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 17.142857 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 25.714286 %
+
+188 words total

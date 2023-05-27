@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here here out here here
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    bounce bounce bounce bounce
+SECONDARY:ABSTRACTION                                            4
+    know cause figure know
+EMOTIONS:AGGRESSION                                              2
+    beating guns
+PRIMARY:SENSATION:SOUND                                          1
+    drums
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:GLORY                                                   1
+    gold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+PRIMARY:SENSATION:COLD                                           1
+    cool
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 12.500000 %
+
+130 words total

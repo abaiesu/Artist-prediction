@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           22
+    cause cause know know know cause sure know cause know cause know know know know know know know know know know know
+EMOTIONS:AFFECTION                                              17
+    like like like like like like like love like like like like like love like like like
+SECONDARY:TEMPORAL REFERENCES                                   10
+    moment then moment then every time every time moment then
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say call tell say said tell say said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    middle at middle inside inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    bed dying dying dying
+EMOTIONS:SADNESS                                                 4
+    sorry sorry sorry sorry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes won won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfortable
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheers
+EMOTIONS:ANXIETY                                                 1
+    worried
+EMOTIONS:AGGRESSION                                              1
+    argue
+SECONDARY:RESTRAINT                                              1
+    caught
+
+PRIMARY             : 16.867470 %
+SECONDARY           : 53.012048 %
+EMOTIONS            : 30.120482 %
+
+387 words total

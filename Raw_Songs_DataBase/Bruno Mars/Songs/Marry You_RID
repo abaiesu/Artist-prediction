@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           16
+    something think think know know cause something think think cause something think think something think think
+EMOTIONS:AFFECTION                                              11
+    marry marry like marry marry like like marry marry marry marry
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say say say say say tell tell say tell tell
+PRIMARY:SENSATION:VISION                                         8
+    looking look looking look looking look looking look
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    dancing dancing sing dancing dancing
+EMOTIONS:ANXIETY                                                 5
+    cares cares cares cares cares
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    beautiful beautiful beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes eyes eyes
+PRIMARY:NEED:ORALITY                                             4
+    juice juice juice juice
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+EMOTIONS:AGGRESSION                                              3
+    shots break blame
+PRIMARY:SENSATION:SOUND                                          2
+    ring bells
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:SENSATION:COLD                                           1
+    cool
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 29.761905 %
+
+368 words total

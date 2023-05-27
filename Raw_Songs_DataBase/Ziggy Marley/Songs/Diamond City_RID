@@ -1,0 +1,38 @@
+EMOTIONS:AGGRESSION                                             14
+    broken broken broken broken broken broken broken fight fight fight fight broken broken broken
+PRIMARY:SENSATION:SOUND                                         11
+    heart heart heart heart heart heart heart hear heart heart heart
+PRIMARY:SENSATION:VISION                                         9
+    seen seen seen seen color seen seen seen seen
+SECONDARY:ABSTRACTION                                            3
+    know them surely
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everyday time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where here
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:ORALITY                                             1
+    milk
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrills
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    swim
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+SECONDARY:MORAL IMPERATIVE                                       1
+    rights
+
+PRIMARY             : 50.980392 %
+SECONDARY           : 15.686275 %
+EMOTIONS            : 33.333333 %
+
+334 words total

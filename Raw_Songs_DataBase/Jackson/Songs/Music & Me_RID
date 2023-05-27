@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:SOUND                                         10
+    music music music music music music melody music music music
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long wherever close along
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time now now now
+EMOTIONS:AFFECTION                                               3
+    friends lovers like
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+PRIMARY:SENSATION:SOFT                                           1
+    feather
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 64.285714 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 14.285714 %
+
+92 words total

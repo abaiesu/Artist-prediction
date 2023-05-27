@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               6
+    goodbye like lovers lovers lovers lovers
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time time time
+PRIMARY:SENSATION:VISION                                         3
+    imagine see blue
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    waking dreaming
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+EMOTIONS:AGGRESSION                                              1
+    rip
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+EMOTIONS:GLORY                                                   1
+    genius
+EMOTIONS:ANXIETY                                                 1
+    cares
+
+PRIMARY             : 31.818182 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 45.454545 %
+
+178 words total

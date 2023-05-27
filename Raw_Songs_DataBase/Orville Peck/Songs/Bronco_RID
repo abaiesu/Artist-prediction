@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out out circling here back at side side
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    fire fire sun fire fire hot
+PRIMARY:SENSATION:VISION                                         5
+    see flash see scene see
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            4
+    wild wild wild wild
+SECONDARY:ABSTRACTION                                            4
+    something know something something
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when now every
+PRIMARY:SENSATION:COLD                                           3
+    child child child
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    gates gate
+EMOTIONS:AGGRESSION                                              2
+    hit fight
+EMOTIONS:ANXIETY                                                 2
+    cares fear
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play sing
+EMOTIONS:AFFECTION                                               2
+    like dear
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    mend
+EMOTIONS:GLORY                                                   1
+    wondering
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 21.153846 %
+EMOTIONS            : 21.153846 %
+
+224 words total

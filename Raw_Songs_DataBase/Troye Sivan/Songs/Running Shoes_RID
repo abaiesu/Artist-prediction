@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out out where out out out off out out
+SECONDARY:ABSTRACTION                                           10
+    cause beliefs weigh knows beliefs weigh weigh weigh weigh weigh
+SECONDARY:TEMPORAL REFERENCES                                   10
+    while while while while while while while while while while
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    use use use use spent tried tried try
+EMOTIONS:AGGRESSION                                              5
+    gunning abuse kicking kicking hit
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    sleep sleep sleepless sleep sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest rest
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screaming screaming
+PRIMARY:SENSATION:COLD                                           2
+    children children
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 35.087719 %
+SECONDARY           : 50.877193 %
+EMOTIONS            : 14.035088 %
+
+344 words total

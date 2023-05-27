@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    open here distant here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won sell spent
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ship sail
+SECONDARY:RESTRAINT                                              2
+    bars shut
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:SOUND                                          2
+    ring bells
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tell
+SECONDARY:ABSTRACTION                                            1
+    believe
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:SENSATION:HARD                                           1
+    nails
+PRIMARY:NEED:ANALITY                                             1
+    shit
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:ORALITY                                             1
+    rice
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:NEED:SEX                                                 1
+    bitch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yell
+
+PRIMARY             : 46.428571 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 14.285714 %
+
+101 words total

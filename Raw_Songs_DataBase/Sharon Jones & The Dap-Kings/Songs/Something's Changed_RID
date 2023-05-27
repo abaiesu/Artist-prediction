@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            9
+    something something known something something something something something something
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    eyes eyes eyes eyes eyes eyes eyes eyes eyes
+PRIMARY:SENSATION:VISION                                         8
+    see see see regard see see look look
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when now when once again when
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell tell talk talk
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here situation at at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won used used used
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile glad
+PRIMARY:NEED:ORALITY                                             1
+    lip
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 46.551724 %
+SECONDARY           : 46.551724 %
+EMOTIONS            : 6.896552 %
+
+246 words total

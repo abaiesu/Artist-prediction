@@ -1,0 +1,38 @@
+EMOTIONS:POSITIVE AFFECT                                         7
+    funny laughter funny funny funny smile funny
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once timing yearn when old
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    pretty pretty pretty charmed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    outsider out out off
+PRIMARY:SENSATION:VISION                                         2
+    look flash
+SECONDARY:RESTRAINT                                              2
+    captivating must
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    interviews share
+EMOTIONS:AFFECTION                                               2
+    like friends
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    gut
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    foot
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    industry
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    indifferent
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 27.777778 %
+
+148 words total

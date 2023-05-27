@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now time now every time now
+PRIMARY:SENSATION:HARD                                           4
+    stoned stoned stoned stoned
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out off off
+EMOTIONS:AFFECTION                                               2
+    love friend
+EMOTIONS:AGGRESSION                                              2
+    kicked kick
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door floor
+SECONDARY:ABSTRACTION                                            2
+    think know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    soldier job
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepin
+PRIMARY:SENSATION:SOUND                                          1
+    music
+PRIMARY:NEED:ORALITY                                             1
+    whiskey
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dies
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 16.666667 %
+
+146 words total

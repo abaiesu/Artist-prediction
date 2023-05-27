@@ -1,0 +1,50 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    telling meet call call call meet call call call call call call
+PRIMARY:SENSATION:VISION                                         7
+    light see see lights look see lights
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at front long ahead
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now everything minute everything
+SECONDARY:ABSTRACTION                                            3
+    plans plans plans
+EMOTIONS:AGGRESSION                                              3
+    break wreck wreck
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falling drop drop
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    swing hang swing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair face
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+EMOTIONS:AFFECTION                                               2
+    kind kind
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pour pour
+PRIMARY:NEED:ORALITY                                             2
+    drink drink
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+PRIMARY:SENSATION:HARD                                           2
+    rockin rock
+SECONDARY:RESTRAINT                                              1
+    bar
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:SOUND                                          1
+    buzz
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:GLORY                                                   1
+    wondering
+
+PRIMARY             : 51.612903 %
+SECONDARY           : 33.870968 %
+EMOTIONS            : 14.516129 %
+
+317 words total

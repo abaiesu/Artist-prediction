@@ -1,0 +1,32 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    cry cry cry cry cry cry cry cry cry cry
+EMOTIONS:AFFECTION                                               7
+    like like like like like like like
+SECONDARY:ABSTRACTION                                            5
+    knows except except them know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+PRIMARY:SENSATION:VISION                                         3
+    sees bluest see
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say said said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall wall
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad happy
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairest
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+
+PRIMARY             : 20.454545 %
+SECONDARY           : 34.090909 %
+EMOTIONS            : 45.454545 %
+
+179 words total

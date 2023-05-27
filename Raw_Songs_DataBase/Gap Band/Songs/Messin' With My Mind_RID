@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    behind behind behind behind behind behind
+SECONDARY:ABSTRACTION                                            4
+    know know why knew
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tellin said told
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 63.157895 %
+EMOTIONS            : 0.000000 %
+
+234 words total

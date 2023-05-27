@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                        12
+    blue blue green blue blue blue blue blue blue blue blue blue
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:ABSTRACTION                                            1
+    thinking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:AFFECTION                                               1
+    dear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:SENSATION:COLD                                           1
+    snowflakes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calling
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 4.166667 %
+
+94 words total

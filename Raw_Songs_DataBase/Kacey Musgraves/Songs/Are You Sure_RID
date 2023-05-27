@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         7
+    look look see look look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at where where at where at where
+SECONDARY:ABSTRACTION                                            6
+    sure real sure cause sure sure
+EMOTIONS:AFFECTION                                               4
+    friends friends love kind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used used
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please persuade
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+EMOTIONS:SADNESS                                                 1
+    misery
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 46.875000 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 18.750000 %
+
+146 words total

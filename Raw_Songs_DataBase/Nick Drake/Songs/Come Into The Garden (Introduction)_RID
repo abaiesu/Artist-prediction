@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:VISION                                         2
+    bright see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when old
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+SECONDARY:RESTRAINT                                              1
+    prisoners
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:SADNESS                                                 1
+    weep
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 10.000000 %
+
+30 words total

@@ -1,0 +1,22 @@
+EMOTIONS:AGGRESSION                                              7
+    war fight fight fight fight kill killed
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything then now time
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+SECONDARY:ABSTRACTION                                            2
+    know think
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    brain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 15.789474 %
+SECONDARY           : 47.368421 %
+EMOTIONS            : 36.842105 %
+
+107 words total

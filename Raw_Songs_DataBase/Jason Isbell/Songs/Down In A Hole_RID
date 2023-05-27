@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+EMOTIONS:ANXIETY                                                 6
+    trouble trouble trouble trouble trouble trouble
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out where at away away
+SECONDARY:ABSTRACTION                                            5
+    something cause real real real
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    work selling bought work selling
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    thanks telling forgive
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window roadside
+SECONDARY:TEMPORAL REFERENCES                                    2
+    yearlong date
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    hole hole
+PRIMARY:SENSATION:HARD                                           2
+    stone hard
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:SENSATION:VISION                                         1
+    looker
+PRIMARY:SENSATION:ODOR                                           1
+    smelled
+SECONDARY:ORDER                                                  1
+    grades
+EMOTIONS:AGGRESSION                                              1
+    tore
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    football
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    games
+EMOTIONS:POSITIVE AFFECT                                         1
+    grin
+
+PRIMARY             : 35.416667 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 31.250000 %
+
+263 words total

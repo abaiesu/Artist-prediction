@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            7
+    reason reason believe reason think believe believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    using make make make make
+EMOTIONS:AFFECTION                                               5
+    love friends love love love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every times now now
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile fun fun
+SECONDARY:ORDER                                                  3
+    listen listen listen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+EMOTIONS:AGGRESSION                                              2
+    breakups breakdowns
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+
+PRIMARY             : 3.030303 %
+SECONDARY           : 60.606061 %
+EMOTIONS            : 36.363636 %
+
+138 words total

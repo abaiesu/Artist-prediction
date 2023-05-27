@@ -1,0 +1,50 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   21
+    water water water water pool water water water water water water water water water water water water water water water water
+PRIMARY:SENSATION:COLD                                          10
+    cool cool cool cool cool cool cool cool cool cool
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out where where where
+PRIMARY:SENSATION:VISION                                         3
+    star see green
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burned burnin
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    sway spreads
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight yearnin
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:NEED:ORALITY                                             1
+    throats
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+SECONDARY:ABSTRACTION                                            1
+    guess
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+
+PRIMARY             : 83.606557 %
+SECONDARY           : 11.475410 %
+EMOTIONS            : 4.918033 %
+
+194 words total

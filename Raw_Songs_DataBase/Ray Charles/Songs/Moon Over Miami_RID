@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over beside over over
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    roll rolling throbbing waves
+PRIMARY:SENSATION:VISION                                         3
+    shine shine stars
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    sea tide shore
+SECONDARY:ABSTRACTION                                            3
+    may true know
+PRIMARY:SENSATION:SOUND                                          3
+    hark hark hear
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    troubadours guitars
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    offer
+EMOTIONS:GLORY                                                   1
+    applause
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 63.333333 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 20.000000 %
+
+85 words total

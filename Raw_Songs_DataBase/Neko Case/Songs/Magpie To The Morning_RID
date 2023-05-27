@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at at at middle out out close close
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    calling says advice advice saying
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    sky roof top bird sky
+SECONDARY:ABSTRACTION                                            5
+    them them knows almost them
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    bottom bottom bottom under
+EMOTIONS:AGGRESSION                                              4
+    mocking stolen stole whippoorwills
+PRIMARY:SENSATION:SOUND                                          3
+    sounds ringing hear
+PRIMARY:SENSATION:VISION                                         3
+    lightning light stars
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sings yellow sings
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now old
+EMOTIONS:ANXIETY                                                 2
+    alarming afraid
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fading fading
+EMOTIONS:SADNESS                                                 2
+    sorrow sorrow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drops
+PRIMARY:SENSATION:HARD                                           1
+    marble
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 23.333333 %
+EMOTIONS            : 18.333333 %
+
+190 words total

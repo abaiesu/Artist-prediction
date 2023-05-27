@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    close near neared away away away
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ancient old time now then
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell called said ask
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    lit candle
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window door
+EMOTIONS:AGGRESSION                                              2
+    wound jeer
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    vagabond
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screamed
+EMOTIONS:SADNESS                                                 1
+    wept
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 17.647059 %
+
+167 words total

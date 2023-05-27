@@ -1,0 +1,32 @@
+PRIMARY:NEED:ORALITY                                            24
+    sherry sherry milk honey sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry sherry
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time time time time time time
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    relax relax relax relax relax relax
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    money make won find won
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    share kneelin answer answer answer
+SECONDARY:ABSTRACTION                                            4
+    cause reason think reason
+EMOTIONS:AFFECTION                                               2
+    friend friend
+EMOTIONS:SADNESS                                                 1
+    disappointment
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    point
+PRIMARY:SENSATION:VISION                                         1
+    view
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+SECONDARY:RESTRAINT                                              1
+    bound
+
+PRIMARY             : 57.627119 %
+SECONDARY           : 37.288136 %
+EMOTIONS            : 5.084746 %
+
+224 words total

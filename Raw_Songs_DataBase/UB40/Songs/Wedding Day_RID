@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       25
+    where away where where back where at where back where side where where back back where at where where back where side where where back
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when everybody now now when now when everybody now now when now
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say said say said say say
+PRIMARY:SENSATION:SOUND                                          6
+    ring ring ring ring ring ring
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughing laughing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searched searched
+
+PRIMARY             : 62.264151 %
+SECONDARY           : 33.962264 %
+EMOTIONS            : 3.773585 %
+
+231 words total

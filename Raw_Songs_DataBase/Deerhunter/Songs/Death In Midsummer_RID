@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    aside here inside out away away away back back
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        7
+    cloud fade fade fades fading fades faded
+PRIMARY:SENSATION:VISION                                         5
+    light see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    worked worked factories worked factories
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time time now now
+SECONDARY:ABSTRACTION                                            3
+    may sure themselves
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hills hills hills
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:NEED:ORALITY                                             1
+    poisoned
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    called
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+EMOTIONS:AFFECTION                                               1
+    friends
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 31.818182 %
+EMOTIONS            : 4.545455 %
+
+181 words total

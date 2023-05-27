@@ -1,0 +1,26 @@
+EMOTIONS:ANXIETY                                                26
+    trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble troubles trouble trouble trouble
+EMOTIONS:AFFECTION                                               9
+    love love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    guide protect help speak speak
+SECONDARY:ABSTRACTION                                            3
+    cause knows knows
+EMOTIONS:SADNESS                                                 3
+    sad woes sad
+EMOTIONS:AGGRESSION                                              2
+    war war
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+
+PRIMARY             : 1.886792 %
+SECONDARY           : 20.754717 %
+EMOTIONS            : 77.358491 %
+
+269 words total

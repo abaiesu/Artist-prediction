@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                           16
+    somethin know knew know thought thought believe know know know know knew sure real believe believe
+SECONDARY:TEMPORAL REFERENCES                                   12
+    old once every time time when when times now sometimes sometimes every
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    say said said asked help please said able able able tell tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long long long back long long long long
+EMOTIONS:AFFECTION                                               3
+    friend like like
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:SOUND                                          2
+    heard heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river river
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    uphill uphill
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    journey journey
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:VISION                                         1
+    looked
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+
+PRIMARY             : 32.876712 %
+SECONDARY           : 60.273973 %
+EMOTIONS            : 6.849315 %
+
+298 words total

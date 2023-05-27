@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         4
+    light light light light
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out towards towards
+SECONDARY:ABSTRACTION                                            2
+    chose meant
+EMOTIONS:AGGRESSION                                              2
+    fight wars
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+EMOTIONS:SADNESS                                                 1
+    sadness
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    roads
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    machine
+EMOTIONS:AFFECTION                                               1
+    lovers
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 15.789474 %
+EMOTIONS            : 21.052632 %
+
+151 words total

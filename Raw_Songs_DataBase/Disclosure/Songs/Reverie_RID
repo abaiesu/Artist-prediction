@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say say sayin tell sayers calls
+SECONDARY:TEMPORAL REFERENCES                                    5
+    times old when old when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    heavenly high heights
+EMOTIONS:AFFECTION                                               3
+    like love like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly wings flights
+SECONDARY:ABSTRACTION                                            3
+    understandin true knew
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make try
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    reverie
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    melody
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:NEED:SEX                                                 1
+    naked
+EMOTIONS:SADNESS                                                 1
+    mourn
+PRIMARY:NEED:ORALITY                                             1
+    pot
+PRIMARY:NEED:ANALITY                                             1
+    piss
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 43.589744 %
+EMOTIONS            : 10.256410 %
+
+192 words total

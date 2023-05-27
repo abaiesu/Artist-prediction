@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when now now then now then
+EMOTIONS:SADNESS                                                 6
+    moanin moan moanin moanin moan moanin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out long long here front
+PRIMARY:SENSATION:VISION                                         5
+    blues blues blues blues blues
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    sayin please treat please promise
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head hands head
+SECONDARY:ABSTRACTION                                            3
+    thought cause almost
+EMOTIONS:AFFECTION                                               2
+    lovin kind
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:RESTRAINT                                              2
+    must stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    afford
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 45.238095 %
+EMOTIONS            : 19.047619 %
+
+214 words total

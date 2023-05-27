@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sang cried cried
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at aside
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hearts
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:AGGRESSION                                              1
+    stole
+PRIMARY:SENSATION:VISION                                         1
+    sunshine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 35.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 35.000000 %
+
+125 words total

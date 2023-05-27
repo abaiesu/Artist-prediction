@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         5
+    look look blue blue appears
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    behind out out out behind
+PRIMARY:SENSATION:COLD                                           3
+    ice ice ice
+EMOTIONS:AFFECTION                                               2
+    loves loves
+SECONDARY:ABSTRACTION                                            2
+    may may
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes feet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under depth
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+EMOTIONS:AGGRESSION                                              1
+    reproach
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 73.333333 %
+SECONDARY           : 13.333333 %
+EMOTIONS            : 13.333333 %
+
+93 words total

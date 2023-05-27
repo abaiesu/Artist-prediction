@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please depending please speak please gifts
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    price burden work won
+SECONDARY:ABSTRACTION                                            4
+    know know meant true
+EMOTIONS:AFFECTION                                               3
+    dear dear dear
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when times
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at place
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    steamboat
+PRIMARY:SENSATION:SOUND                                          1
+    whistle
+EMOTIONS:SADNESS                                                 1
+    suffered
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:AGGRESSION                                              1
+    argue
+
+PRIMARY             : 29.032258 %
+SECONDARY           : 54.838710 %
+EMOTIONS            : 16.129032 %
+
+164 words total

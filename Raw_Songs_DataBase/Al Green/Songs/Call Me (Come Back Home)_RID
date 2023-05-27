@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    call call tell call call call call call call
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time now time time when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long here back long back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried work find work work
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:ABSTRACTION                                            2
+    cause real
+EMOTIONS:SADNESS                                                 2
+    lonely sad
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:ANXIETY                                                 1
+    worried
+
+PRIMARY             : 17.073171 %
+SECONDARY           : 63.414634 %
+EMOTIONS            : 19.512195 %
+
+190 words total

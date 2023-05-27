@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   18
+    now now when when when when now now when when when when when when when when when when
+EMOTIONS:AFFECTION                                              14
+    like love love love love love love dear like love love love love love
+SECONDARY:ABSTRACTION                                           10
+    know know know know know know know know know know
+PRIMARY:SENSATION:GENERAL-SENSATION                              9
+    beautiful beautiful pretty beautiful beautiful beautiful beautiful beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    longer longer at longer longer longer longer longer
+PRIMARY:SENSATION:VISION                                         4
+    seen lights seen shine
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    hot lit hot sun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face body face
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please tell tell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes makes
+PRIMARY:NEED:ORALITY                                             1
+    cake
+EMOTIONS:GLORY                                                   1
+    brilliant
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    channeling
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 42.528736 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 19.540230 %
+
+320 words total

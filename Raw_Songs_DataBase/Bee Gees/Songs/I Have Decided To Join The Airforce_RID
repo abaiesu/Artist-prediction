@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            6
+    may think perhaps think why why
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say ask ask agree agree
+SECONDARY:TEMPORAL REFERENCES                                    4
+    today today now then
+PRIMARY:SENSATION:VISION                                         4
+    see seen see seen
+EMOTIONS:AFFECTION                                               2
+    friends friends
+EMOTIONS:AGGRESSION                                              2
+    army army
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:NEED:ORALITY                                             1
+    drink
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 58.620690 %
+EMOTIONS            : 13.793103 %
+
+165 words total

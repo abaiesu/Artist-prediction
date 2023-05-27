@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when everybody old old when old
+PRIMARY:SENSATION:VISION                                         6
+    looking seen stars seen lights look
+EMOTIONS:POSITIVE AFFECT                                         5
+    happy smiles happy happy happy
+SECONDARY:ABSTRACTION                                            4
+    why truly why why
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sold find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 36.666667 %
+SECONDARY           : 43.333333 %
+EMOTIONS            : 20.000000 %
+
+137 words total

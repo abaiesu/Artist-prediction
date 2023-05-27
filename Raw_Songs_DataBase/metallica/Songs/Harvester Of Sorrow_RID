@@ -1,0 +1,32 @@
+EMOTIONS:SADNESS                                                17
+    misery suffer sorrow sorrow pain misery suffer sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 17
+    harvester harvester work try used gain harvester harvester find harvester harvester harvester harvester harvester harvester harvester harvester
+EMOTIONS:AGGRESSION                                              8
+    hate hate anger shoot beatings anger invade murder
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    far here back back where
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    mad mad nightmares mad mad
+SECONDARY:ABSTRACTION                                            2
+    planting truth
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lies
+PRIMARY:SENSATION:VISION                                         2
+    looking see
+EMOTIONS:AFFECTION                                               1
+    loved
+SECONDARY:TEMPORAL REFERENCES                                    1
+    soon
+PRIMARY:NEED:ORALITY                                             1
+    drink
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 25.396825 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 41.269841 %
+
+161 words total

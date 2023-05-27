@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    work work work work work work work work
+SECONDARY:RESTRAINT                                              4
+    stopped stopped stopped stopped
+EMOTIONS:POSITIVE AFFECT                                         4
+    celebrate celebrate celebrate celebrate
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when old
+PRIMARY:SENSATION:VISION                                         2
+    scene vision
+EMOTIONS:AGGRESSION                                              2
+    shot shot
+SECONDARY:ABSTRACTION                                            2
+    plan plan
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met met
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing poetry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    behind out
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revelation
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+PRIMARY:NEED:ORALITY                                             1
+    feed
+
+PRIMARY             : 23.529412 %
+SECONDARY           : 52.941176 %
+EMOTIONS            : 23.529412 %
+
+344 words total

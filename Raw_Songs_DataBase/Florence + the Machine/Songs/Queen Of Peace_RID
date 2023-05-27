@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    within out over overcome away away long out over overcome away away overcome away away
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when suddenly now already suddenly now already suddenly now already
+EMOTIONS:AFFECTION                                              10
+    like like like like like like like love like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           8
+    chase driving driving chase driving driving driving driving
+EMOTIONS:AGGRESSION                                              7
+    cut battle hurt damage hurt damage damage
+SECONDARY:ABSTRACTION                                            6
+    cause cause cause cause cause cause
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    sun sun sun sun sun
+PRIMARY:SENSATION:VISION                                         4
+    stars glowing stars glowing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    mad sleep sleep
+EMOTIONS:SADNESS                                                 3
+    suffering grief sorrow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    cure won use
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    blood blood blood
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    called please
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hill hill
+EMOTIONS:GLORY                                                   2
+    conquer conquer
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+PRIMARY:SENSATION:SOUND                                          1
+    echoing
+
+PRIMARY             : 49.438202 %
+SECONDARY           : 23.595506 %
+EMOTIONS            : 26.966292 %
+
+276 words total

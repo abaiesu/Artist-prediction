@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    long front long long long long long long long long long inside long long long long long long long long long long long long
+SECONDARY:TEMPORAL REFERENCES                                   16
+    everywhere time ago when today time now today ever ever now time then today today today
+SECONDARY:ABSTRACTION                                            5
+    may cause knows cause perhaps
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying won pay makes
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say promise calling promise
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    hungry heaven sky higher
+PRIMARY:SENSATION:SOUND                                          3
+    hear ears hear
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comfortable beautiful
+PRIMARY:NEED:ORALITY                                             1
+    lips
+SECONDARY:RESTRAINT                                              1
+    shut
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flyin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    bordering
+
+PRIMARY             : 54.411765 %
+SECONDARY           : 44.117647 %
+EMOTIONS            : 1.470588 %
+
+257 words total

@@ -1,0 +1,30 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    bed lie bed lie
+EMOTIONS:AGGRESSION                                              3
+    damage damage ripped
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used use used
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off where longer
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun candles
+PRIMARY:SENSATION:VISION                                         2
+    lights colors
+SECONDARY:ABSTRACTION                                            2
+    understand know
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    message
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 34.615385 %
+EMOTIONS            : 11.538462 %
+
+104 words total

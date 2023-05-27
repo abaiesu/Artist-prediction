@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    straightens over far away here
+EMOTIONS:AFFECTION                                               5
+    love love friends romance love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time date when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye hands
+PRIMARY:SENSATION:VISION                                         1
+    gleam
+EMOTIONS:AGGRESSION                                              1
+    hate
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 31.578947 %
+
+90 words total

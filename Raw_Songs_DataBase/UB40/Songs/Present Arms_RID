@@ -1,0 +1,34 @@
+EMOTIONS:GLORY                                                   3
+    pride golden hero
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    job pay
+EMOTIONS:AGGRESSION                                              2
+    fight kill
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy smile
+EMOTIONS:ANXIETY                                                 2
+    dangerous fear
+SECONDARY:ORDER                                                  2
+    uniformed ranks
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    off
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shores
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    flesh
+PRIMARY:SENSATION:HARD                                           1
+    steel
+SECONDARY:ABSTRACTION                                            1
+    learning
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    teach
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screams
+
+PRIMARY             : 19.047619 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 47.619048 %
+
+68 words total

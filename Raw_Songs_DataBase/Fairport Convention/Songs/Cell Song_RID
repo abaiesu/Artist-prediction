@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    minute when when everything
+PRIMARY:SENSATION:VISION                                         3
+    shining see see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancing game play
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed lie rest
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at beside behind
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say confess tell
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window wall
+EMOTIONS:ANXIETY                                                 2
+    frightened cares
+PRIMARY:SENSATION:SOUND                                          2
+    ringing bell
+SECONDARY:ABSTRACTION                                            2
+    know learn
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throw hangman
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    improve pay
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:SADNESS                                                 1
+    woes
+
+PRIMARY             : 48.648649 %
+SECONDARY           : 32.432432 %
+EMOTIONS            : 18.918919 %
+
+175 words total

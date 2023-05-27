@@ -1,0 +1,28 @@
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should right right
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try make makes
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy happy
+SECONDARY:ABSTRACTION                                            3
+    think cause know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near near
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 48.275862 %
+EMOTIONS            : 24.137931 %
+
+124 words total

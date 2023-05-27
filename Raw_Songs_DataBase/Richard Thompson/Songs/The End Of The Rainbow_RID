@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at at side wide outside at at
+EMOTIONS:AGGRESSION                                              5
+    break rob knife beat cut
+PRIMARY:NEED:ORALITY                                             4
+    breast corner bread throat
+EMOTIONS:AFFECTION                                               4
+    friend love loving friend
+SECONDARY:ABSTRACTION                                            3
+    cause thinks themselves
+PRIMARY:SENSATION:VISION                                         3
+    rosy look rosy
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rainbow rainbow rainbow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grow grow grow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet faces handshake
+EMOTIONS:ANXIETY                                                 2
+    horror anxious
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    works make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door street
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep dream
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:NEED:SEX                                                 1
+    whore
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 60.377358 %
+SECONDARY           : 15.094340 %
+EMOTIONS            : 24.528302 %
+
+244 words total

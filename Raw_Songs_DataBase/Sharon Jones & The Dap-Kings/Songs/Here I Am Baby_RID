@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here here here here here here here further here here here here
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now ever now now ever now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said say call
+EMOTIONS:AFFECTION                                               4
+    love love loving loved
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make spend find
+SECONDARY:ABSTRACTION                                            3
+    know cause cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    yield
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:GLORY                                                   1
+    proudly
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 42.500000 %
+SECONDARY           : 42.500000 %
+EMOTIONS            : 15.000000 %
+
+242 words total

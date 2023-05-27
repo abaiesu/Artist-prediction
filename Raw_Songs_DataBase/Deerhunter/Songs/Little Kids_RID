@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    old older older older older older older older older older older older older
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    front behind where
+PRIMARY:NEED:ORALITY                                             2
+    drinking gin
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flames smokes
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    followed
+EMOTIONS:AGGRESSION                                              1
+    strike
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 51.724138 %
+EMOTIONS            : 3.448276 %
+
+114 words total

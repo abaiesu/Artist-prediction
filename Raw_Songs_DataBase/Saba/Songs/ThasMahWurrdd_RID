@@ -1,0 +1,56 @@
+EMOTIONS:AFFECTION                                              19
+    like like like like like liker like like like like like like like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    talking call told tell tell inquire sayonara tell tell tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back back back here here side at long here here
+SECONDARY:TEMPORAL REFERENCES                                    7
+    till when year year when year year
+EMOTIONS:AGGRESSION                                              5
+    hit war hate shoveling break
+SECONDARY:ABSTRACTION                                            4
+    probably know cause almost
+EMOTIONS:GLORY                                                   4
+    prince throne castles famous
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    bucket bucket bucket flood
+PRIMARY:NEED:ANALITY                                             3
+    dirt shit shit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make work building
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high high high
+EMOTIONS:POSITIVE AFFECT                                         3
+    jokes gladly grind
+PRIMARY:SENSATION:HARD                                           3
+    rock hardship hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    channel streets
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet leg
+PRIMARY:SENSATION:VISION                                         2
+    blue looking
+PRIMARY:SENSATION:SOUND                                          2
+    sounds tunes
+SECONDARY:RESTRAINT                                              2
+    bar caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pivot
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:TOUCH                                          1
+    touching
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 37.894737 %
+SECONDARY           : 28.421053 %
+EMOTIONS            : 33.684211 %
+
+521 words total

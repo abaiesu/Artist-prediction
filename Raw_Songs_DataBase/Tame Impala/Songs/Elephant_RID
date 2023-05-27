@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                               7
+    like loved like friends like like like
+PRIMARY:SENSATION:VISION                                         6
+    grey look see looking looks saw
+SECONDARY:ABSTRACTION                                            5
+    knows something cause opinion fact
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now when again
+EMOTIONS:ANXIETY                                                 3
+    shy scared fear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here off back
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shaking shook
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask talks
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mister
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stairs
+SECONDARY:ORDER                                                  1
+    simple
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+
+PRIMARY             : 41.463415 %
+SECONDARY           : 31.707317 %
+EMOTIONS            : 26.829268 %
+
+156 words total

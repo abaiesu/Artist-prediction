@@ -1,0 +1,48 @@
+SECONDARY:SOCIAL BEHAVIOR                                       19
+    call preacher call say treat say say treat say say treat say say treat say say treat say treat
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when when when when when then when then when when when when
+EMOTIONS:AFFECTION                                              11
+    love love love like love love love like love love love
+PRIMARY:NEED:ORALITY                                             6
+    throat drink thirsty throat drink thirsty
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won count money count money
+EMOTIONS:AGGRESSION                                              4
+    broken hits blame hits
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above above
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny funny
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shades
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+SECONDARY:RESTRAINT                                              1
+    cage
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:GLORY                                                   1
+    wondering
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:ABSTRACTION                                            1
+    cause
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 52.000000 %
+EMOTIONS            : 28.000000 %
+
+289 words total

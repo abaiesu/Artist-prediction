@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here at away long back away long back place long back back
+SECONDARY:ABSTRACTION                                           12
+    know understand knew knew cause knew knew know know knew knew knew
+EMOTIONS:AFFECTION                                              10
+    friends like love like loving love like love love like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again time now everyday
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say answer say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make working working working
+EMOTIONS:AGGRESSION                                              4
+    anger anger anger anger
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes arms face
+PRIMARY:SENSATION:VISION                                         2
+    looks see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throwing
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    gladly
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 40.322581 %
+EMOTIONS            : 24.193548 %
+
+292 words total

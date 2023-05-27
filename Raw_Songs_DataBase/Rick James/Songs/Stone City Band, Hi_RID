@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:HARD                                          10
+    stone stoned stone stone stone stone stone stone stone stone
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    sing play play sing sing playing playing play sing
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when tonight now again everybody again now now
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    calls call say saying said say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won won won won make won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here along where away out
+SECONDARY:ABSTRACTION                                            5
+    understand understand understand understand them
+PRIMARY:SENSATION:SOUND                                          4
+    sound sound music tune
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    smokin smokin smokin smokin
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:SADNESS                                                 1
+    sadness
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    madness
+
+PRIMARY             : 39.682540 %
+SECONDARY           : 41.269841 %
+EMOTIONS            : 19.047619 %
+
+248 words total

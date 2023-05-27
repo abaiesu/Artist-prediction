@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        20
+    green seen green green green sunshine blue green seen green green seen green light sunshine blue green green green green
+SECONDARY:ABSTRACTION                                            7
+    sure think sure know sure sure know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes find makes find
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+EMOTIONS:AFFECTION                                               2
+    love kind
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treat treat
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warms warms
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+PRIMARY:SENSATION:TOUCH                                          2
+    touches touches
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:SENSATION:SOFT                                           1
+    softest
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:AGGRESSION                                              1
+    cut
+
+PRIMARY             : 60.784314 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 5.882353 %
+
+171 words total

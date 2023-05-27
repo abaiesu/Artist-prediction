@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   20
+    time when time time time then time when time time when time when time time pasts time when time time
+EMOTIONS:AFFECTION                                               9
+    love loved love dear love kind love loving love
+EMOTIONS:POSITIVE AFFECT                                         8
+    happy happy happiness happy happiness happy happy happy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            8
+    dream dreams dream dreams dream dreams dream dreams
+SECONDARY:ABSTRACTION                                            7
+    cause something know true cause cause cause
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:SADNESS                                                 3
+    pains sadly loneliness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:NEED:SEX                                                 1
+    caress
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:AGGRESSION                                              1
+    hurts
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 44.117647 %
+EMOTIONS            : 30.882353 %
+
+258 words total

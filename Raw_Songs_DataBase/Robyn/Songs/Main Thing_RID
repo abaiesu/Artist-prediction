@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    here close situation out out out out out out out out out out out out out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 15
+    built work work work work work work work work work work work work work work
+SECONDARY:ABSTRACTION                                           10
+    know know think prove know cause knows know true know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now time when everyday
+EMOTIONS:AFFECTION                                               3
+    like love like
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:ANXIETY                                                 1
+    scared
+EMOTIONS:AGGRESSION                                              1
+    destroy
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 54.385965 %
+EMOTIONS            : 8.771930 %
+
+312 words total

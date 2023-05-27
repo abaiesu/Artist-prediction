@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              14
+    love love friend love love love love love love love love love love love
+EMOTIONS:POSITIVE AFFECT                                        11
+    fun fun fun fun fun fun fun fun fun fun fun
+SECONDARY:TEMPORAL REFERENCES                                   10
+    every every every every every every every every every every
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say say say say say say say say say
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun sun sun hot
+SECONDARY:ABSTRACTION                                            3
+    choice know problems
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work work make
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under under under
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+
+PRIMARY             : 13.333333 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 45.000000 %
+
+300 words total

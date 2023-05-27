@@ -1,0 +1,28 @@
+EMOTIONS:AGGRESSION                                             14
+    raging raging raging deceive raging raging raging raging raging raging raging strife raging raging
+SECONDARY:ABSTRACTION                                            5
+    cause cause cause cause cause
+PRIMARY:SENSATION:COLD                                           3
+    children cold children
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:NEED:ORALITY                                             2
+    teeth famine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+EMOTIONS:GLORY                                                   1
+    gold
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 24.242424 %
+SECONDARY           : 24.242424 %
+EMOTIONS            : 51.515152 %
+
+119 words total

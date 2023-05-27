@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    ever everybody weekend everybody old now now everything now times everybody when ever everybody weekend
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    called calling ask answer tell say tell say called
+PRIMARY:SENSATION:COLD                                           9
+    chill chilled cold cold chill cooler cold chilling chill
+SECONDARY:ABSTRACTION                                            9
+    why cause know truth cause cause them them think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    closest at over level long square closest
+PRIMARY:SENSATION:VISION                                         6
+    lights stars flash brown seeing stars
+EMOTIONS:AFFECTION                                               6
+    like like like kind marry like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high highlights roof high
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughing jokes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    blazing heater
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    twilight cloud
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancers clowns
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying works
+SECONDARY:MORAL IMPERATIVE                                       2
+    shouldn right
+PRIMARY:NEED:SEX                                                 2
+    fucking fuck
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream sleep
+PRIMARY:NEED:ORALITY                                             1
+    vodka
+PRIMARY:SENSATION:HARD                                           1
+    glass
+SECONDARY:ORDER                                                  1
+    class
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    stoop
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 43.678161 %
+EMOTIONS            : 11.494253 %
+
+409 words total

@@ -1,0 +1,48 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    depends tell meet tell meet told shared request followed allowed tell sharpened
+SECONDARY:ABSTRACTION                                            8
+    true true feature concentration truth reason them them
+PRIMARY:SENSATION:SOUND                                          6
+    ring snapping heart hear voice thud
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    beside away where away
+EMOTIONS:AGGRESSION                                              4
+    threatening stolen stole breaks
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    stir rolls reel
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyelids eyes
+EMOTIONS:AFFECTION                                               2
+    welcome like
+EMOTIONS:POSITIVE AFFECT                                         2
+    excitement laughter
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything now
+PRIMARY:NEED:ORALITY                                             2
+    soup fast
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    burden
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    splashing
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    continually
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silences
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 39.655172 %
+EMOTIONS            : 15.517241 %
+
+212 words total

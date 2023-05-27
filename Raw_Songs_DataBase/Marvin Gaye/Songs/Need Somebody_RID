@@ -1,0 +1,18 @@
+EMOTIONS:AFFECTION                                               5
+    kind kind love love like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when everything everything ever
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk tell tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won make try
+EMOTIONS:ANXIETY                                                 1
+    troubles
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 63.157895 %
+EMOTIONS            : 36.842105 %
+
+132 words total

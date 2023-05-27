@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    inside back out out out out out out here out out out out out out out out out out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         16
+    head head head head head head head head head head head head head head head head
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now soon now today time now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    trying make make tried tried make
+SECONDARY:ABSTRACTION                                            5
+    why know know know know
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rainin rains
+EMOTIONS:POSITIVE AFFECT                                         2
+    cheer enjoy
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds fog
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answer answer
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:NEED:SEX                                                 1
+    bitches
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 62.686567 %
+SECONDARY           : 31.343284 %
+EMOTIONS            : 5.970149 %
+
+252 words total

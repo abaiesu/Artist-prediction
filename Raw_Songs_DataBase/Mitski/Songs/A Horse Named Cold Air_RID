@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long circled
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lake
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    traveled
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 9.090909 %
+
+41 words total

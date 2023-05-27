@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    here out at at at at at at at at at at at at
+SECONDARY:ABSTRACTION                                            4
+    definite quality learn something
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try try make
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything time
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:RESTRAINT                                              1
+    obligation
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:NEED:ANALITY                                             1
+    shitty
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:SENSATION:VISION                                         1
+    lightning
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 6.666667 %
+
+246 words total

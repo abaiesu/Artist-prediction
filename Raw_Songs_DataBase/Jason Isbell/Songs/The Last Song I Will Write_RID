@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away open place at away away away away away
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time ever time when then everything
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    floating spring floating spring
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    sea sea sea
+EMOTIONS:AGGRESSION                                              3
+    war fight defeat
+PRIMARY:SENSATION:VISION                                         2
+    sunshine seen
+PRIMARY:SENSATION:SOUND                                          1
+    echoes
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ceiling
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    coal
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 63.888889 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 13.888889 %
+
+158 words total

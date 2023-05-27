@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    away away out out out out out out away away out out
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when every every when every when every every every
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    built work work work work won work work
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    promised promise promise promise promise promised promise promise
+EMOTIONS:AGGRESSION                                              2
+    smashed broken
+SECONDARY:ABSTRACTION                                            2
+    cause know
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:NEED:ORALITY                                             1
+    dishes
+PRIMARY:SENSATION:VISION                                         1
+    pictures
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    frame
+PRIMARY:NEED:SEX                                                 1
+    bitch
+PRIMARY:SENSATION:TOUCH                                          1
+    scratched
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 54.000000 %
+EMOTIONS            : 6.000000 %
+
+150 words total

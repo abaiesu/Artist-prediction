@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       31
+    wide wide wide wide overseas backslash wide wide wide wide where side here places wide wide wide wide wide wide wide wide wide wide wide wide wide wide wide wide wide
+SECONDARY:ABSTRACTION                                           17
+    know know them them believe know know know know know know think real know know know know
+EMOTIONS:AFFECTION                                               5
+    like like like love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won find
+PRIMARY:SENSATION:HARD                                           2
+    stone hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    roads
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    assure
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    sensitivity
+EMOTIONS:POSITIVE AFFECT                                         1
+    enjoy
+
+PRIMARY             : 57.352941 %
+SECONDARY           : 33.823529 %
+EMOTIONS            : 8.823529 %
+
+502 words total

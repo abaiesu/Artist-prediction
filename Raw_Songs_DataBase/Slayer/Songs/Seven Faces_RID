@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                        14
+    saw seen look look seen looks look see seen look look seen looks look
+SECONDARY:TEMPORAL REFERENCES                                    7
+    today when everything everyday everything everyday everything
+EMOTIONS:AFFECTION                                               7
+    love familiar like like familiar like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away out within inside back back
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    help tell say pleasures tell say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes faces face faces
+EMOTIONS:SADNESS                                                 4
+    sorrow pain sorrow pain
+SECONDARY:ABSTRACTION                                            3
+    them them knew
+PRIMARY:NEED:SEX                                                 3
+    lust sex sex
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfy
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burns
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    depths
+
+PRIMARY             : 50.793651 %
+SECONDARY           : 30.158730 %
+EMOTIONS            : 19.047619 %
+
+273 words total

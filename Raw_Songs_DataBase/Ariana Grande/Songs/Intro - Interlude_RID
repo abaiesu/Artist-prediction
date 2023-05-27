@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                            4
+    know sure think know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at at
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+PRIMARY:SENSATION:VISION                                         2
+    look looking
+EMOTIONS:AFFECTION                                               1
+    loves
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 13.333333 %
+
+92 words total

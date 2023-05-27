@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              10
+    love love love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    ask depends say asked
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time when when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes won spend
+SECONDARY:ABSTRACTION                                            3
+    think know think
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:RESTRAINT                                              1
+    require
+
+PRIMARY             : 6.896552 %
+SECONDARY           : 51.724138 %
+EMOTIONS            : 41.379310 %
+
+109 words total

@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time now now then now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back long places long
+SECONDARY:ABSTRACTION                                            3
+    choosin understand know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    travelin travelin travelin
+PRIMARY:SENSATION:VISION                                         2
+    see scenes
+PRIMARY:SENSATION:HARD                                           2
+    rock stonehaven
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll shakers
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    below below
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    lunatics crazies
+PRIMARY:SENSATION:COLD                                           2
+    freezing freezing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    working
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    jokes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 63.888889 %
+SECONDARY           : 30.555556 %
+EMOTIONS            : 5.555556 %
+
+278 words total

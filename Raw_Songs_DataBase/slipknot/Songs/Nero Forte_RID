@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              15
+    like like like like like like like like like like like like like like like
+SECONDARY:ABSTRACTION                                           12
+    guess know reason know believe truth why why believe true true consequence
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time years now now now now every till now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    using used find won won won won won won won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where off at at at at at at at at
+EMOTIONS:AGGRESSION                                              8
+    hate enemy enemy enemy enemy abuse enemy enemy
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say help help help help help help help
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    lie lie lie lie lie
+PRIMARY:SENSATION:VISION                                         4
+    watch see see see
+PRIMARY:SENSATION:SOUND                                          3
+    voice heart belligerent
+EMOTIONS:ANXIETY                                                 2
+    fear traumatic
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+EMOTIONS:SADNESS                                                 1
+    dissatisfied
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wade
+SECONDARY:RESTRAINT                                              1
+    resist
+SECONDARY:ORDER                                                  1
+    form
+
+PRIMARY             : 27.368421 %
+SECONDARY           : 45.263158 %
+EMOTIONS            : 27.368421 %
+
+670 words total

@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    till again ago again again again again again now now now now now now again tonight
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    tell told said told said say say told said say say say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back back long far away here back back back where
+EMOTIONS:AFFECTION                                               9
+    loved love love loved love love loved love love
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+EMOTIONS:GLORY                                                   5
+    wonder wonder wonder wonder wonder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    belong belong make used
+EMOTIONS:SADNESS                                                 4
+    loneliness sad sad sad
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    guitar play play
+SECONDARY:ABSTRACTION                                            2
+    know real
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:VISION                                         1
+    looked
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 21.794872 %
+SECONDARY           : 51.282051 %
+EMOTIONS            : 26.923077 %
+
+460 words total

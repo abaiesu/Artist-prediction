@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              20
+    loved loved loved loved loved loved loved affection romance dear dear loved romance dear dear loved loved loved loved loved
+SECONDARY:ABSTRACTION                                            6
+    tender know true tender know true
+EMOTIONS:POSITIVE AFFECT                                         5
+    gladly thrilled thrilled thrilled thrilled
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    conversation share asked asked
+PRIMARY:NEED:SEX                                                 3
+    kisses caress caress
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make find find
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+SECONDARY:TEMPORAL REFERENCES                                    1
+    tonight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:VISION                                         1
+    shine
+
+PRIMARY             : 18.000000 %
+SECONDARY           : 32.000000 %
+EMOTIONS            : 50.000000 %
+
+226 words total

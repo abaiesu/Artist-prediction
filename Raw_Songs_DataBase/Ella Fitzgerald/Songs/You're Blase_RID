@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when while time while time
+PRIMARY:SENSATION:VISION                                         4
+    stars shining stars shining
+SECONDARY:ORDER                                                  4
+    simple normal simple normal
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleep wake sleep wake
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    leisure slowly slowly
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    search sun sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reaching reaching
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:NEED:ORALITY                                             2
+    dining dining
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasm
+EMOTIONS:POSITIVE AFFECT                                         1
+    enthusiasm
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    pleasure
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 5.882353 %
+
+134 words total

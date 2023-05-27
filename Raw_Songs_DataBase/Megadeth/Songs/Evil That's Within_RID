@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    inside inside within inside inside within out within
+PRIMARY:SENSATION:VISION                                         6
+    seen look see seen look see
+EMOTIONS:AGGRESSION                                              5
+    battle war hurt break broken
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face face skin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rise rise jump
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    possesses pay possesses
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please say please
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once once
+EMOTIONS:AFFECTION                                               2
+    familiar like
+EMOTIONS:ANXIETY                                                 2
+    worries nervous
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:NEED:ORALITY                                             1
+    drunk
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    pyramids
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    digging
+PRIMARY:SENSATION:TOUCH                                          1
+    scratch
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+
+PRIMARY             : 64.000000 %
+SECONDARY           : 18.000000 %
+EMOTIONS            : 18.000000 %
+
+166 words total

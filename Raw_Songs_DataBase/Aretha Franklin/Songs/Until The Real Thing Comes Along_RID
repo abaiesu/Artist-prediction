@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               7
+    love love love dear love darling love
+SECONDARY:ABSTRACTION                                            7
+    real prove real understand may real real
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    along along at out out along along
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sigh sigh cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work make reach
+EMOTIONS:POSITIVE AFFECT                                         3
+    gladly gladly gladly
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:VISION                                         1
+    stars
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 36.111111 %
+EMOTIONS            : 38.888889 %
+
+167 words total

@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:HARD                                           8
+    hard hard hard hard hard hard hard hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used try use tried use
+EMOTIONS:AGGRESSION                                              4
+    break break break break
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm burns
+SECONDARY:ABSTRACTION                                            2
+    tender knows
+PRIMARY:NEED:SEX                                                 2
+    kiss caress
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    depend
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    dim
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 20.588235 %
+
+197 words total

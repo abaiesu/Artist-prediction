@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:SOUND                                         13
+    hear music heart hear hear music melody heart hear heard heard heart music
+SECONDARY:ABSTRACTION                                            8
+    theme knew why why know why know true
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when every ever then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at away inside
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream enchanted
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play sing
+EMOTIONS:AFFECTION                                               2
+    lovely love
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 10.000000 %
+
+130 words total

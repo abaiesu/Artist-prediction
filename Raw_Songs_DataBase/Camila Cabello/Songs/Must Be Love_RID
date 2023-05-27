@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              13
+    love love like like like love love love love love love love love
+SECONDARY:ABSTRACTION                                           11
+    guess consequence cause known think think real cause think think think
+SECONDARY:RESTRAINT                                              8
+    control must must must must must must must
+EMOTIONS:AGGRESSION                                              7
+    hurt hurt break fight hurt hurt hurt
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything ever everything when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at back
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say promise
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highs highs
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    lows lows
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumped
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:TOUCH                                          1
+    rubber
+
+PRIMARY             : 22.950820 %
+SECONDARY           : 44.262295 %
+EMOTIONS            : 32.786885 %
+
+294 words total

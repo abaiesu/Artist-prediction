@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        49
+    see see green light green light green light green light light green light see green light green light green light green green light green light green light green light green light green light light green light green green light green light green light green light green light green light
+SECONDARY:ABSTRACTION                                            8
+    reason thinking cause know know problem problem why
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now then older now
+EMOTIONS:AFFECTION                                               4
+    like like love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long over along along
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    result won find find
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    pleasin say said
+EMOTIONS:AGGRESSION                                              3
+    threat threat threat
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:SENSATION:COLD                                           1
+    colder
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 66.279070 %
+SECONDARY           : 25.581395 %
+EMOTIONS            : 8.139535 %
+
+477 words total

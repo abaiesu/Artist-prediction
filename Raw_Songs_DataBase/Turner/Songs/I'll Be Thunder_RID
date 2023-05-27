@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                        12
+    watch lights lightning lightning light lightning lightning lightning lightning lightning lightning lightning
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    shelter helpless explain rescue guiding helpless explain explain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms hand hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place far place
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then everything
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    soaked rain
+EMOTIONS:AFFECTION                                               2
+    welcome like
+PRIMARY:SENSATION:ODOR                                           2
+    breathless breathless
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    restless restless
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    ignite fire
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:RESTRAINT                                              1
+    forbidden
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+EMOTIONS:GLORY                                                   1
+    castle
+SECONDARY:ABSTRACTION                                            1
+    planned
+EMOTIONS:AGGRESSION                                              1
+    betrayal
+
+PRIMARY             : 61.224490 %
+SECONDARY           : 30.612245 %
+EMOTIONS            : 8.163265 %
+
+256 words total

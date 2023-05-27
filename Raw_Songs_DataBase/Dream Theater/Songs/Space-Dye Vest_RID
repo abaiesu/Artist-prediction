@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    west space at long open out place where here at place near open open open open open open
+SECONDARY:ABSTRACTION                                           17
+    know know something something real think thoughts ideas learning think facts reality know know something think learn
+SECONDARY:TEMPORAL REFERENCES                                   16
+    when now again ever when clock clock then everywhere again again again again again again again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    possession trying found make job work try try find aim
+EMOTIONS:AFFECTION                                               7
+    love love intimately like love love like
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell advice help say say say say
+EMOTIONS:AGGRESSION                                              4
+    rage doubt hit blame
+PRIMARY:SENSATION:VISION                                         3
+    saw dye look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    blood arms face
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    pool swimming pool
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep sleep dreams
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:NEED:ORALITY                                             2
+    swallow supper
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    heat sun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+SECONDARY:RESTRAINT                                              2
+    locked locked
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+EMOTIONS:SADNESS                                                 1
+    painting
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 39.449541 %
+SECONDARY           : 48.623853 %
+EMOTIONS            : 11.926606 %
+
+538 words total

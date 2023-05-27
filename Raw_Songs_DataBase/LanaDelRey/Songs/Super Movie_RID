@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    off at round away off round away out round round
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when everyday time when everyday time once when everyday every
+SECONDARY:ABSTRACTION                                            9
+    true know truly idea why think think know almost
+EMOTIONS:AFFECTION                                               9
+    love love love like love love like love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    spin sway spin spin spin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make used make found make
+PRIMARY:NEED:SEX                                                 4
+    kiss kiss kiss kiss
+PRIMARY:SENSATION:VISION                                         4
+    blue color blue see
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drop drop
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safe safe
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said say
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny funny
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grew top
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+SECONDARY:ORDER                                                  1
+    former
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 17.391304 %
+
+332 words total

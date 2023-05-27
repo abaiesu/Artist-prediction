@@ -1,0 +1,18 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell tell tell tell tell tell tell tell tell tell
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:ABSTRACTION                                            4
+    believe difference know choose
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make trying use
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 84.615385 %
+EMOTIONS            : 15.384615 %
+
+265 words total

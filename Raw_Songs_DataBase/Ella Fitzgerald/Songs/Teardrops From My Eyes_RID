@@ -1,0 +1,34 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    8
+    rains rain raining raining raining raining raining pouring
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every time time when every every
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes eyes eyes eyes eyes eyes
+PRIMARY:SENSATION:VISION                                         5
+    blue see shining blue blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here back here back here
+SECONDARY:ABSTRACTION                                            4
+    think cause cause cause
+EMOTIONS:AFFECTION                                               4
+    love goodbye love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    clouds cloud cloud
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said told told
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won won
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling tumbling
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 14.814815 %
+
+210 words total

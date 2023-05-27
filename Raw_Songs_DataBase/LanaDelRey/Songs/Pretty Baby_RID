@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    then then when then when tonight then then when
+EMOTIONS:AFFECTION                                               8
+    like like love love darling love like like
+SECONDARY:ABSTRACTION                                            6
+    believe think know thinking believe believe
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say told tell say
+PRIMARY:NEED:ORALITY                                             5
+    honey honey honey honey honey
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    pretty pretty pretty pretty
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 32.608696 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 17.391304 %
+
+200 words total

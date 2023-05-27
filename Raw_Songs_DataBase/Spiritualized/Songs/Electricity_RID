@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    ask help meet ask help said
+EMOTIONS:AFFECTION                                               4
+    love love love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dance playin playin dance
+SECONDARY:ABSTRACTION                                            4
+    why know why know
+PRIMARY:SENSATION:VISION                                         4
+    light green light green
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    drivin drivin drivin
+PRIMARY:NEED:ORALITY                                             3
+    fast fast fast
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street road street
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky sky sky
+EMOTIONS:AGGRESSION                                              2
+    hit hit
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain wash
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over over
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:ORDER                                                  1
+    neat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 56.862745 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 19.607843 %
+
+163 words total

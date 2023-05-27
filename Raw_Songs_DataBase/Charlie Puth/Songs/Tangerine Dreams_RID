@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at behind closed over open off away long back away out out
+SECONDARY:ABSTRACTION                                            8
+    why them them cause cause know cause know
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now everyday when again again again again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    build found won won
+EMOTIONS:SADNESS                                                 3
+    pain sorry suffering
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep dreams
+PRIMARY:SENSATION:SOUND                                          2
+    melodies hear
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doors floor
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain wash
+PRIMARY:SENSATION:VISION                                         2
+    seeing seeing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:NEED:ORALITY                                             1
+    corner
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    curtains
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    excuse
+PRIMARY:SENSATION:TASTE                                          1
+    tangerine
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silently
+
+PRIMARY             : 52.727273 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 7.272727 %
+
+184 words total

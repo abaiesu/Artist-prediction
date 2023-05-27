@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               6
+    like like love like love love
+EMOTIONS:AGGRESSION                                              5
+    broke broke broke broke broke
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside away place inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying built swept
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then moment then
+SECONDARY:ABSTRACTION                                            3
+    guess cause guess
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    china hands
+PRIMARY:NEED:ANALITY                                             2
+    shatter shatter
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safely
+SECONDARY:RESTRAINT                                              1
+    locked
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+
+PRIMARY             : 31.428571 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 34.285714 %
+
+136 words total

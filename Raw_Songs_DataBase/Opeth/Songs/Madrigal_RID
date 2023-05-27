@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long at at long open within
+SECONDARY:TEMPORAL REFERENCES                                    2
+    times now
+PRIMARY:NEED:SEX                                                 2
+    concubine caress
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:NEED:ORALITY                                             1
+    corner
+
+PRIMARY             : 76.470588 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 0.000000 %
+
+85 words total

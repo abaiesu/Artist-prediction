@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              24
+    friend loves love love love love friend love love love love love loves friend loves love love love love love love love love love
+EMOTIONS:AGGRESSION                                             16
+    crush unkind unkind unkind unkind unkind unkind unkind unkind unkind unkind unkind unkind unkind unkind unkind
+SECONDARY:ABSTRACTION                                           11
+    cause cause choose them cause know cause cause may why why
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    outside inside where outside back inside behind
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    asked asked said said
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every when when
+PRIMARY:SENSATION:SOUND                                          1
+    rings
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    hallway
+PRIMARY:SENSATION:VISION                                         1
+    notice
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+SECONDARY:ORDER                                                  1
+    class
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 17.567568 %
+SECONDARY           : 27.027027 %
+EMOTIONS            : 55.405405 %
+
+237 words total

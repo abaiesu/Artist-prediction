@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    moments old now old old old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    space away back away back
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    die slack died slack died
+EMOTIONS:AGGRESSION                                              4
+    invaders hit breaker hit
+SECONDARY:RESTRAINT                                              4
+    bound taxed bound taxed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won won
+PRIMARY:NEED:SEX                                                 2
+    kissing kissing
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:SENSATION:SOUND                                          2
+    bell chords
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 54.761905 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 9.523810 %
+
+192 words total

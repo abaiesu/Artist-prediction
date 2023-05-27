@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        10
+    moonlight shining bright moonlight moonlight moonlight moonlight moonlight moonlight moonlight
+PRIMARY:SENSATION:SOUND                                          9
+    hear ringing hear hear hear hear hear ringing hear
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when till then time ever then while
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    finished working used used used
+EMOTIONS:POSITIVE AFFECT                                         5
+    fun enjoy enjoy enjoy enjoy
+SECONDARY:ORDER                                                  4
+    listen listen listen listen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sang sang sang
+PRIMARY:NEED:ORALITY                                             3
+    cornbread eat supper
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:ABSTRACTION                                            1
+    them
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 32.692308 %
+EMOTIONS            : 17.307692 %
+
+253 words total

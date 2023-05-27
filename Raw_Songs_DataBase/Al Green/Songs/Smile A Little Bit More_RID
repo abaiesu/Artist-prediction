@@ -1,0 +1,36 @@
+EMOTIONS:POSITIVE AFFECT                                        12
+    smile smile smile smile smile smile smile smiled happiness smile smile smile
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said said told told say
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart ring bell
+SECONDARY:ABSTRACTION                                            3
+    cause something sure
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:SENSATION:COLD                                           1
+    winter
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+SECONDARY:TEMPORAL REFERENCES                                    1
+    older
+SECONDARY:ORDER                                                  1
+    simple
+EMOTIONS:ANXIETY                                                 1
+    troubles
+
+PRIMARY             : 24.324324 %
+SECONDARY           : 29.729730 %
+EMOTIONS            : 45.945946 %
+
+205 words total

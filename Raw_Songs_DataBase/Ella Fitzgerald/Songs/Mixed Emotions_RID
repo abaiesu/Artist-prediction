@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when time when
+EMOTIONS:AFFECTION                                               5
+    loving like loving like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    near far away over over
+SECONDARY:MORAL IMPERATIVE                                       4
+    shouldn shouldn shouldn shouldn
+PRIMARY:SENSATION:TASTE                                          4
+    bitter sweet bitter sweet
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    confuse confuse
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreaming waking
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 46.875000 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 18.750000 %
+
+165 words total

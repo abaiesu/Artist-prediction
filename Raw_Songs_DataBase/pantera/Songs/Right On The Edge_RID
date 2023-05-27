@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    floor door edge verge edge edge verge edge
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    nightmare fantasy crazee insane crazee insane crazee
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out overtime at out back out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    workin try reach pay price try
+PRIMARY:SENSATION:SOUND                                          5
+    rings hear ear rings hear
+SECONDARY:RESTRAINT                                              4
+    caught stop locked stop
+PRIMARY:SENSATION:VISION                                         4
+    see lights see see
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:AGGRESSION                                              3
+    shot wrecks shot
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lay bed dead
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drivin drivin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+
+PRIMARY             : 64.912281 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 8.771930 %
+
+176 words total

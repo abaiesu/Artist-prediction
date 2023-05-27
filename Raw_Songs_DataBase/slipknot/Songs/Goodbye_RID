@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now moment time ago time ago ever moment time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    over point long long apart where behind
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    help help say agree say
+SECONDARY:ABSTRACTION                                            4
+    something believed know know
+PRIMARY:SENSATION:VISION                                         2
+    see view
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silence rest
+EMOTIONS:AFFECTION                                               1
+    goodbye
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:AGGRESSION                                              1
+    torn
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 58.823529 %
+EMOTIONS            : 5.882353 %
+
+145 words total

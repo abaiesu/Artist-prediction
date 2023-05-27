@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                               9
+    love like love love love darling love love love
+SECONDARY:ABSTRACTION                                            6
+    know true know cause reason may
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when yearns past when
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+SECONDARY:MORAL IMPERATIVE                                       3
+    shouldn should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spend build find
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    shared promise call
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    sided at
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:SADNESS                                                 1
+    disappoint
+SECONDARY:RESTRAINT                                              1
+    refuse
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 27.659574 %
+SECONDARY           : 44.680851 %
+EMOTIONS            : 27.659574 %
+
+207 words total

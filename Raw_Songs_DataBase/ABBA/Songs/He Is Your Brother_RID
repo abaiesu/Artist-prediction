@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    saying treat help depend treat meet saying treat help depend treat treat help depend
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    road road street road road
+EMOTIONS:AGGRESSION                                              2
+    fighter fight
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then then
+PRIMARY:SENSATION:SOUND                                          2
+    hear heard
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comfort comfort
+PRIMARY:SENSATION:VISION                                         1
+    looking
+EMOTIONS:ANXIETY                                                 1
+    trouble
+SECONDARY:ABSTRACTION                                            1
+    thinking
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 27.777778 %
+SECONDARY           : 47.222222 %
+EMOTIONS            : 25.000000 %
+
+265 words total

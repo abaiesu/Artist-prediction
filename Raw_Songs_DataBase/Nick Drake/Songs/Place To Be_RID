@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when now older now older now when now
+PRIMARY:SENSATION:VISION                                         7
+    saw see green greener shone see blue
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face face hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place where place
+SECONDARY:ABSTRACTION                                            2
+    truth thought
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hill grew
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deepest
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+
+PRIMARY             : 67.741935 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 0.000000 %
+
+104 words total

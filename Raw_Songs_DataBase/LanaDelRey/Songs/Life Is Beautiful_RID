@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            6
+    know know knows real believe knows
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far where
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 11.111111 %
+
+174 words total

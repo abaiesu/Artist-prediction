@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    where round out out out here out near where nearly over
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when while while when again
+SECONDARY:ABSTRACTION                                            5
+    idea thought thought believe know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    sheltering say met
+EMOTIONS:AGGRESSION                                              3
+    torn defeat defeat
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay lies
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+PRIMARY:SENSATION:VISION                                         2
+    blue bright
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    aisles street
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes palm
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowding
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+
+PRIMARY             : 57.777778 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 8.888889 %
+
+183 words total

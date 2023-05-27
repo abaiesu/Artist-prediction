@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    out off off off off off off off off off back off off off off off off off off off back
+PRIMARY:NEED:SEX                                                 8
+    lust lust lust lust lust lust lust lust
+EMOTIONS:AFFECTION                                               7
+    love love like love love affection like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    trying working trying make working
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    dying die dying die
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    attention attention
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+PRIMARY:SENSATION:COLD                                           2
+    cooler cooler
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    foot
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+
+PRIMARY             : 69.841270 %
+SECONDARY           : 15.873016 %
+EMOTIONS            : 14.285714 %
+
+270 words total

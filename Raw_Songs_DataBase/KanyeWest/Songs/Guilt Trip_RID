@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:SOFT                                           9
+    softer softer softer softer softer softer softer softer softer
+SECONDARY:ABSTRACTION                                            8
+    known something cause cause why why why why
+EMOTIONS:AFFECTION                                               8
+    like likes like like love love love love
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now time when then then then then then
+PRIMARY:NEED:ORALITY                                             8
+    champagne cranberry vodka chewbacca guts guts guts guts
+SECONDARY:RESTRAINT                                              6
+    locked blocka blocka blocka blocka blocka
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call helped said call
+PRIMARY:SENSATION:VISION                                         3
+    peekin lookin star
+EMOTIONS:AGGRESSION                                              3
+    shot hit wars
+PRIMARY:SENSATION:HARD                                           3
+    rockin rocka rocka
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off out
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rise rise
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trips
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pour
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaka
+
+PRIMARY             : 45.205479 %
+SECONDARY           : 38.356164 %
+EMOTIONS            : 16.438356 %
+
+414 words total

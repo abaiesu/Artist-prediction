@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              22
+    love love love love love love love love love love love love love love love love love love love love love love
+EMOTIONS:POSITIVE AFFECT                                        11
+    happiness happiness happiness happiness happiness happiness happiness happiness happiness happiness happiness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    make make make make make make make make make make make
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    talking say tell talkin say say say say talkin
+SECONDARY:TEMPORAL REFERENCES                                    6
+    minute clock when early minute minute
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:SADNESS                                                 4
+    moan moan moan moan
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away out long
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance sing dance
+SECONDARY:ABSTRACTION                                            2
+    something something
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:GLORY                                                   1
+    victory
+
+PRIMARY             : 5.194805 %
+SECONDARY           : 41.558442 %
+EMOTIONS            : 53.246753 %
+
+224 words total

@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:TASTE                                         11
+    sweet sweet bitter taste sweet sweet bitter sweet bitter sweet bitter
+EMOTIONS:AFFECTION                                              10
+    loved love love love like love like like love like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    long apart here away where where where where at
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today then now then then then then then
+SECONDARY:ABSTRACTION                                            7
+    circumstances know sure sure why why know
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreams awaken dreams awakened
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talked helpless told
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    magic magic magic
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lingers
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 53.030303 %
+SECONDARY           : 28.787879 %
+EMOTIONS            : 18.181818 %
+
+224 words total

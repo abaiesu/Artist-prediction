@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time every ever months time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at back at here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    win working won
+SECONDARY:ABSTRACTION                                            3
+    decide sure know
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:SENSATION:VISION                                         3
+    notice sees rough
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face knees
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipping
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    calm
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wallowing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 58.620690 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 3.448276 %
+
+110 words total

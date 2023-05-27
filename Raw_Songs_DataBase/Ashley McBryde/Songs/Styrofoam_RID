@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:VISION                                         6
+    ray looked ray lights brown ray
+SECONDARY:ABSTRACTION                                            6
+    knew quantities know cause know know
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    reminds say thanks thank thank thanks
+PRIMARY:NEED:ORALITY                                             6
+    pots peanut diet liquor beer drinkin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found make used make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    closed along off at
+SECONDARY:ORDER                                                  3
+    form form class
+PRIMARY:SENSATION:COLD                                           3
+    ice cold cold
+EMOTIONS:AFFECTION                                               3
+    love kinds love
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    foam moisture
+SECONDARY:RESTRAINT                                              2
+    resistant catch
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight now
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ash
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:SOUND                                          1
+    buzz
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+
+PRIMARY             : 49.122807 %
+SECONDARY           : 43.859649 %
+EMOTIONS            : 7.017544 %
+
+281 words total

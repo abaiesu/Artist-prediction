@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    once once again today today today today today
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    find find find find find find find
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say meet tell meet say
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    streets step street street
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    outside place place
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    quiet quiet quiet
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling smiling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+EMOTIONS:SADNESS                                                 2
+    lonely lonesome
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:ORDER                                                  1
+    form
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 32.075472 %
+SECONDARY           : 43.396226 %
+EMOTIONS            : 24.528302 %
+
+183 words total

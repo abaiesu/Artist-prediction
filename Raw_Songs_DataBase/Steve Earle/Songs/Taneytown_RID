@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    off off off long where at at at off back back back
+PRIMARY:SENSATION:VISION                                        11
+    see see stars bright see see see seen colored look look
+SECONDARY:ABSTRACTION                                            6
+    almost think sure them them thought
+SECONDARY:TEMPORAL REFERENCES                                    6
+    years old sometimes everybody old month
+EMOTIONS:AGGRESSION                                              6
+    whipped fight knife cut gun knife
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told called followed said
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road street railroad
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    top highway hung
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bloody
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    picked
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 28.333333 %
+EMOTIONS            : 15.000000 %
+
+280 words total

@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                           16
+    known know known know believe known real known known known known know think known believe believe
+SECONDARY:MORAL IMPERATIVE                                       9
+    should should should should should should should should should
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time then again every when when then when then
+EMOTIONS:AFFECTION                                               8
+    favourite like liked friends like kindness like love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play play players
+PRIMARY:SENSATION:VISION                                         2
+    seen seen
+PRIMARY:NEED:SEX                                                 2
+    fucking fucking
+EMOTIONS:AGGRESSION                                              2
+    broke blamed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make try
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 13.793103 %
+SECONDARY           : 63.793103 %
+EMOTIONS            : 22.413793 %
+
+233 words total

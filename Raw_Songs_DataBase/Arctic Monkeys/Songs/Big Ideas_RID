@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    over out over surrounded out over out over surrounded
+EMOTIONS:POSITIVE AFFECT                                         4
+    thrill excited thrill excited
+SECONDARY:ABSTRACTION                                            3
+    theme ideas ideas
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing play
+EMOTIONS:AFFECTION                                               2
+    kind kind
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share share
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms feet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    lit
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lowered
+EMOTIONS:GLORY                                                   1
+    wonderful
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waving
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    hysterical
+PRIMARY:SENSATION:VISION                                         1
+    scenes
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 21.875000 %
+EMOTIONS            : 28.125000 %
+
+180 words total

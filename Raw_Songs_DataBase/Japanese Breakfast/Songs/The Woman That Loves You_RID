@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               5
+    marriage like like loves loves
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out back out
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then weekend weekend
+SECONDARY:ABSTRACTION                                            2
+    think think
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+EMOTIONS:AGGRESSION                                              2
+    harm harm
+PRIMARY:SENSATION:VISION                                         2
+    blues gazing
+PRIMARY:NEED:ANALITY                                             1
+    stalled
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolled
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:COLD                                           1
+    frosted
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 25.925926 %
+
+107 words total

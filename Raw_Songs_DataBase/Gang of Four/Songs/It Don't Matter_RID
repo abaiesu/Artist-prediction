@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away at where at away off away at where
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today times when while today
+SECONDARY:ABSTRACTION                                            3
+    sure may sure
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    slip slip slip
+PRIMARY:SENSATION:VISION                                         3
+    look looked look
+EMOTIONS:AGGRESSION                                              2
+    break fight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    luxury
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 61.290323 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 6.451613 %
+
+132 words total

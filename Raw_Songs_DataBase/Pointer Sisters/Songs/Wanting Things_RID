@@ -1,0 +1,22 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell thank tell say meet tell
+SECONDARY:ABSTRACTION                                            4
+    learn think know why
+SECONDARY:RESTRAINT                                              3
+    must resist must
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when often
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make find
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:TOUCH                                          2
+    touching touch
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 75.000000 %
+EMOTIONS            : 0.000000 %
+
+114 words total

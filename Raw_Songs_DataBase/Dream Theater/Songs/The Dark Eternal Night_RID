@@ -1,0 +1,60 @@
+PRIMARY:SENSATION:VISION                                         8
+    green seen light appear light unseen light unseen
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ancient time time past time past
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out out near behind out out
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        6
+    endless eternal eternal eternal eternal eternal
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  6
+    churning waves churning spinning churning spinning
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    drifting restless dead drifting drifting
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    speak beckoning beckoning beckoning
+EMOTIONS:AGGRESSION                                              4
+    rage fighting destruction battle
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    void mysteries nameless
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chaos crowds ruins
+PRIMARY:NEED:ORALITY                                             3
+    thirst choking swallowing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky sky sky
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    blood faces corpses
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    risen climbing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight yellow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    heat burned
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadowed screen
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+EMOTIONS:ANXIETY                                                 2
+    frightfully frightfully
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stairs
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    explore
+PRIMARY:SENSATION:SOUND                                          1
+    echo
+PRIMARY:NEED:ANALITY                                             1
+    rotting
+SECONDARY:ORDER                                                  1
+    forms
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:NEED:SEX                                                 1
+    leer
+
+PRIMARY             : 76.250000 %
+SECONDARY           : 13.750000 %
+EMOTIONS            : 10.000000 %
+
+233 words total

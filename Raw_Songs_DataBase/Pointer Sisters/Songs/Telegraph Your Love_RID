@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              12
+    love love lovin love love lovin lovin love lovin love love lovin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won won won won won won won
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart loud
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here open here
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+PRIMARY:NEED:SEX                                                 2
+    kisses kisses
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:NEED:ORALITY                                             1
+    feed
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:VISION                                         1
+    beam
+SECONDARY:ABSTRACTION                                            1
+    them
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:AGGRESSION                                              1
+    raging
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+
+PRIMARY             : 39.024390 %
+SECONDARY           : 29.268293 %
+EMOTIONS            : 31.707317 %
+
+200 words total

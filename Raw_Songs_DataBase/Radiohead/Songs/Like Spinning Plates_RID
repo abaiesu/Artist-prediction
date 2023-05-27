@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    2
+    while when
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spinning spinning
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speeches
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:NEED:ORALITY                                             1
+    feed
+PRIMARY:SENSATION:SOFT                                           1
+    delicate
+SECONDARY:ORDER                                                  1
+    balance
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floating
+PRIMARY:NEED:ANALITY                                             1
+    muddy
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 16.666667 %
+
+49 words total

@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    inside far at at at at at at at at at at at at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    door door door door door door door door door door door door
+EMOTIONS:AGGRESSION                                              3
+    broke doubt wars
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searched searched
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed death
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then ever
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    paid
+
+PRIMARY             : 81.578947 %
+SECONDARY           : 7.894737 %
+EMOTIONS            : 10.526316 %
+
+129 words total

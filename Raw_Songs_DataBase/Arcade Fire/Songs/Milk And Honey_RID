@@ -1,0 +1,30 @@
+PRIMARY:NEED:ORALITY                                            12
+    feeds milk honey feeds milk honey feeds milk honey feeds milk honey
+EMOTIONS:AFFECTION                                               3
+    loves love loves
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everytime quick everytime
+PRIMARY:SENSATION:VISION                                         2
+    sunlight sunlight
+SECONDARY:RESTRAINT                                              2
+    stop stop
+SECONDARY:ABSTRACTION                                            2
+    thinkin thinkin
+PRIMARY:SENSATION:ODOR                                           2
+    breathin breathin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candle
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 21.875000 %
+EMOTIONS            : 9.375000 %
+
+79 words total

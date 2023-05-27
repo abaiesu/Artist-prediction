@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    once again years time year years once again again once again again
+EMOTIONS:SADNESS                                                12
+    sorrow sorrow grief pain grief pain sorrow sorrow grief pain grief pain
+EMOTIONS:POSITIVE AFFECT                                         7
+    glad glad happy happy happy happy happy
+EMOTIONS:AFFECTION                                               4
+    friends friends dear love
+PRIMARY:SENSATION:VISION                                         3
+    blues stars shine
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    greetings please tell
+PRIMARY:SENSATION:SOUND                                          2
+    bells ringing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    carols
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candlelight
+SECONDARY:ABSTRACTION                                            1
+    sure
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+
+PRIMARY             : 17.647059 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 47.058824 %
+
+208 words total

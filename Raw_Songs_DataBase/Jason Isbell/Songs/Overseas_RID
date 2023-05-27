@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    out off back back at at overseas long here out out here here overseas where overseas
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    used make won won won won won won finish make
+PRIMARY:SENSATION:VISION                                         8
+    saw watched looking saw watching light saw star
+EMOTIONS:AFFECTION                                               8
+    love love love love love love love like
+SECONDARY:ABSTRACTION                                            5
+    know thought know know believe
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ago when now when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    died lie rest
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    swimming pool wash
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms knees eyes
+PRIMARY:SENSATION:SOUND                                          2
+    sound heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping woke
+EMOTIONS:AGGRESSION                                              2
+    fight weaponize
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treat call
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ashes
+EMOTIONS:ANXIETY                                                 1
+    scared
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:RESTRAINT                                              1
+    caught
+
+PRIMARY             : 53.424658 %
+SECONDARY           : 30.136986 %
+EMOTIONS            : 16.438356 %
+
+256 words total

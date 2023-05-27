@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            7
+    know knows knows knows know know know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said said said
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+EMOTIONS:GLORY                                                   1
+    kingdom
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 21.052632 %
+SECONDARY           : 68.421053 %
+EMOTIONS            : 10.526316 %
+
+164 words total

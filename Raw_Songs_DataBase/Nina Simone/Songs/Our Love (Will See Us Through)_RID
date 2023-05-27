@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               4
+    love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along long at
+SECONDARY:ABSTRACTION                                            2
+    tender cause
+EMOTIONS:AGGRESSION                                              2
+    doubt complain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+PRIMARY:SENSATION:VISION                                         1
+    grey
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 33.333333 %
+
+113 words total

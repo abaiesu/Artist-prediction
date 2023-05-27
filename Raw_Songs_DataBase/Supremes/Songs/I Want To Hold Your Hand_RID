@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         13
+    hand hand hand hand hand hand hand hand hand hand hand hand hand
+SECONDARY:ABSTRACTION                                           12
+    something think understand something something think understand something something think understand something
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell say please say please say say say
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when now when when when when
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside inside
+EMOTIONS:AFFECTION                                               2
+    love love
+
+PRIMARY             : 36.170213 %
+SECONDARY           : 55.319149 %
+EMOTIONS            : 8.510638 %
+
+198 words total

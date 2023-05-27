@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              7
+    fair fair fair beautiful beautiful beautiful beautiful
+PRIMARY:SENSATION:COLD                                           6
+    children cold children children children children
+SECONDARY:TEMPORAL REFERENCES                                    4
+    yesterday now yesterday again
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+EMOTIONS:SADNESS                                                 2
+    lonely hopeless
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying dying
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying trying
+SECONDARY:ABSTRACTION                                            2
+    them them
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:AGGRESSION                                              1
+    beaten
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 53.125000 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 12.500000 %
+
+169 words total

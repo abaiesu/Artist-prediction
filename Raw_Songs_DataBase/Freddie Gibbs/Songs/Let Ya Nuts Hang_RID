@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at front at back straight south back back back back where out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    door streets passage street streets door streets
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now when when week then then
+EMOTIONS:AGGRESSION                                              6
+    killers shot hit homicide killers kill
+SECONDARY:ABSTRACTION                                            5
+    them cause cause them real
+PRIMARY:NEED:ORALITY                                             5
+    nuts thirsty lick beefing lick
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    claim trying make sold
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+SECONDARY:RESTRAINT                                              3
+    caught police caught
+PRIMARY:NEED:ANALITY                                             3
+    dirty shit shit
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    forgive talking called
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot burn
+PRIMARY:NEED:SEX                                                 2
+    bitch fuck
+EMOTIONS:AFFECTION                                               2
+    mercy like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 30.555556 %
+EMOTIONS            : 13.888889 %
+
+344 words total

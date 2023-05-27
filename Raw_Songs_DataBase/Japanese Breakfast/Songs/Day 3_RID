@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    work sell buy make money buy pick
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes chinatown
+PRIMARY:NEED:ORALITY                                             2
+    drink corner
+SECONDARY:TEMPORAL REFERENCES                                    2
+    while when
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:VISION                                         1
+    watch
+EMOTIONS:AGGRESSION                                              1
+    kills
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promise
+
+PRIMARY             : 31.578947 %
+SECONDARY           : 57.894737 %
+EMOTIONS            : 10.526316 %
+
+78 words total

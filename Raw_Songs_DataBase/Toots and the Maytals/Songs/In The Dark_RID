@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    where at back where where back back where at where at where at
+SECONDARY:ABSTRACTION                                            6
+    know true know know know know
+EMOTIONS:AFFECTION                                               6
+    love love love love love loving
+PRIMARY:SENSATION:VISION                                         3
+    light light blue
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell telling
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when soon
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:AGGRESSION                                              1
+    fight
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endlessly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+
+PRIMARY             : 47.500000 %
+SECONDARY           : 32.500000 %
+EMOTIONS            : 20.000000 %
+
+208 words total

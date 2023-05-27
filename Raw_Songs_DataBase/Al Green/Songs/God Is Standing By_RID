@@ -1,0 +1,28 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    17
+    cry cry cry sing cry cry cry cry cry cry cry cry cry cry cry cry cry
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when when sometime when now when ever sometimes when
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    thank told say thank say please thank thank thank
+EMOTIONS:ANXIETY                                                 6
+    troubles worry worry trouble worry worry
+PRIMARY:SENSATION:SOUND                                          2
+    heartaches heartaches
+EMOTIONS:SADNESS                                                 2
+    discouraged discouraged
+PRIMARY:SENSATION:VISION                                         2
+    see seeing
+SECONDARY:ABSTRACTION                                            2
+    why know
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    burdens
+
+PRIMARY             : 7.692308 %
+SECONDARY           : 40.384615 %
+EMOTIONS            : 51.923077 %
+
+261 words total

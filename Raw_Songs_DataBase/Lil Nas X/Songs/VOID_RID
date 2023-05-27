@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    behind out place away away out where where away away away away away
+SECONDARY:TEMPORAL REFERENCES                                   11
+    old time now today everyone every time now today today today
+EMOTIONS:AFFECTION                                               8
+    friend like like love love loves love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    reach find find reach win spent find
+PRIMARY:SENSATION:VISION                                         7
+    blue blue see see looking blue blue
+SECONDARY:ABSTRACTION                                            5
+    know thought know prove know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell say tells tell say
+PRIMARY:SENSATION:HARD                                           4
+    hard hard hard hard
+EMOTIONS:SADNESS                                                 3
+    weep lonely loner
+EMOTIONS:AGGRESSION                                              2
+    hit hit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:NEED:ORALITY                                             1
+    salt
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mounts
+
+PRIMARY             : 44.594595 %
+SECONDARY           : 37.837838 %
+EMOTIONS            : 17.567568 %
+
+333 words total

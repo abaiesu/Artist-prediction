@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    south where out south south south back south
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when now ever old while then
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    border border border border border
+PRIMARY:SENSATION:SOFT                                           3
+    lace whispered whisperd
+PRIMARY:SENSATION:VISION                                         2
+    stars picture
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play sighed
+SECONDARY:ABSTRACTION                                            2
+    thoughts tender
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    stray rode
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile gay
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    kneeled told
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    veil
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candlelight
+
+PRIMARY             : 62.790698 %
+SECONDARY           : 23.255814 %
+EMOTIONS            : 13.953488 %
+
+159 words total

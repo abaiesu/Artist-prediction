@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    meet talk ask say tell ask call ask ask
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when old then when when when
+SECONDARY:ABSTRACTION                                            4
+    knew them why knew
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    stepping stepping
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    chin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 24.137931 %
+SECONDARY           : 68.965517 %
+EMOTIONS            : 6.896552 %
+
+106 words total

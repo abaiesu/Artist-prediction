@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now then when then when then now now then then when then
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said pleaded told tell asked tell tell
+SECONDARY:ABSTRACTION                                            5
+    know different believe think know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out sides round
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high hung high
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    steppin steppin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rovin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:AFFECTION                                               1
+    lovin
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:NEED:SEX                                                 1
+    kissin
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfaction
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 38.636364 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 6.818182 %
+
+266 words total

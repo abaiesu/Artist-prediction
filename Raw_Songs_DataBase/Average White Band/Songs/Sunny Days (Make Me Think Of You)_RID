@@ -1,0 +1,40 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    find tried find make reaching find make make make make make makes
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when again again then once again once again every every
+EMOTIONS:AFFECTION                                              10
+    kind love love like love like love love love love
+SECONDARY:ABSTRACTION                                            8
+    think understand think think think think think think
+EMOTIONS:POSITIVE AFFECT                                         6
+    funny funny funny funny funny funny
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    sunny sunny sunny sunny sunny sunny
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call reply meet saying
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    somewhere where out
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drift
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fades
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:SENSATION:COLD                                           1
+    colder
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 22.058824 %
+SECONDARY           : 51.470588 %
+EMOTIONS            : 26.470588 %
+
+209 words total

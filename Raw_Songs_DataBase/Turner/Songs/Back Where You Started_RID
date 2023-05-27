@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       28
+    back where back where back where back where far far back where away over back where back where back where back where back where back where back where
+SECONDARY:ABSTRACTION                                           12
+    prove known know think know guess learn know think know think know
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell tell admit told help tell admit
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now now again when time now when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    trying trying won won won won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    playing games played play
+EMOTIONS:AGGRESSION                                              4
+    broke hurt brokenhearted brokenhearted
+PRIMARY:SENSATION:HARD                                           4
+    harder harder harder harder
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+EMOTIONS:AFFECTION                                               2
+    friend love
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire burned
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+
+PRIMARY             : 47.777778 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 12.222222 %
+
+369 words total

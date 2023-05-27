@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    at back at at at at at back at at at at at away at at back at at
+SECONDARY:TEMPORAL REFERENCES                                   19
+    once moment once once once ever once now once once once once once once ever once now once once
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes face arms face
+SECONDARY:ABSTRACTION                                            4
+    known know known know
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    drifting drifting drifting drifting
+EMOTIONS:SADNESS                                                 4
+    lonely lonely lonely lonely
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    sea sea sea sea
+EMOTIONS:AGGRESSION                                              3
+    hit hurts hurts
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    counting found used
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met greet met
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:NEED:ANALITY                                             2
+    shattered shattered
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:VISION                                         2
+    looked brightened
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swell
+
+PRIMARY             : 47.560976 %
+SECONDARY           : 37.804878 %
+EMOTIONS            : 14.634146 %
+
+272 words total

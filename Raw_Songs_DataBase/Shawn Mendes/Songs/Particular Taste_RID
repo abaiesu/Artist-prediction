@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    away at place at place away at place at place at
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when then when time then when time now time
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+PRIMARY:SENSATION:TASTE                                          5
+    taste taste taste taste taste
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    conversations answers conversations conversations
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face face hair face
+EMOTIONS:AFFECTION                                               3
+    like mercy mercy
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    chase chase chase
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dances play
+EMOTIONS:AGGRESSION                                              2
+    hit hit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pickin try
+SECONDARY:ABSTRACTION                                            2
+    thinkin knows
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    rings
+PRIMARY:SENSATION:COLD                                           1
+    cool
+
+PRIMARY             : 44.642857 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 12.500000 %
+
+334 words total

@@ -1,0 +1,38 @@
+PRIMARY:NEED:ORALITY                                            25
+    apple bite eat fruit fruit fruit apple apple eat fruit fruit fruit bite eat fruit fruit fruit eating apples eat fruit fruit fruit bite fruit
+SECONDARY:RESTRAINT                                             14
+    bound forbidden forbidden forbidden forbidden forbidden forbidden forbidden forbidden forbidden forbidden forbidden forbidden forbidden
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    says pardon treat said treat tell followed confession said teach treat treat
+SECONDARY:TEMPORAL REFERENCES                                    9
+    everything till tonight everything till when now ever now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over ahead ahead placed ahead ahead
+PRIMARY:SENSATION:TASTE                                          6
+    sweet taste sweet sweet sweet taste
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried try making lesson labour
+SECONDARY:ABSTRACTION                                            4
+    except decided them guess
+PRIMARY:SENSATION:VISION                                         3
+    see saw see
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun delighted delighted
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    yonder
+EMOTIONS:AGGRESSION                                              1
+    hate
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:MORAL IMPERATIVE                                       1
+    laws
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 45.161290 %
+SECONDARY           : 48.387097 %
+EMOTIONS            : 6.451613 %
+
+327 words total

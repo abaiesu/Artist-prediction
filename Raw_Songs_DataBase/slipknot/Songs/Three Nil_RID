@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              19
+    love goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    promise help discussion forgiven apologize said said said said said say say say said said said said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    center middle open where at here here here here off off here here here here
+SECONDARY:TEMPORAL REFERENCES                                   11
+    every today today today today today everything today today today today
+EMOTIONS:AGGRESSION                                             10
+    hated war fight war fight break accuse kill cut break
+SECONDARY:MORAL IMPERATIVE                                       8
+    right right right right right right right right
+SECONDARY:ABSTRACTION                                            6
+    reason guess something something reason why
+PRIMARY:SENSATION:VISION                                         5
+    see looking looking look see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make won try won buy
+SECONDARY:ORDER                                                  2
+    constant system
+EMOTIONS:ANXIETY                                                 2
+    desperation afraid
+EMOTIONS:GLORY                                                   2
+    glorified great
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chaos
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lined
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 22.018349 %
+SECONDARY           : 45.871560 %
+EMOTIONS            : 32.110092 %
+
+443 words total

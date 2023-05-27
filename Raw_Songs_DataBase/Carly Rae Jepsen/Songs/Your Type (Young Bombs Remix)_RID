@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   40
+    when when again time time time time time time time time time time time time time time time time every ever when when again time time time time time time time time time time time time time time time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 22
+    used used tried won make make make make make make make make tried won make make make make make make make make
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    call say said met call call says say said met call call
+EMOTIONS:AFFECTION                                              10
+    love friend love love friend friend love love friend friend
+SECONDARY:ABSTRACTION                                            5
+    know know probably think know
+EMOTIONS:SADNESS                                                 4
+    sorry sorry sorry sorry
+EMOTIONS:AGGRESSION                                              4
+    break break break break
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:NEED:ORALITY                                             1
+    eat
+PRIMARY:SENSATION:VISION                                         1
+    flicker
+
+PRIMARY             : 8.490566 %
+SECONDARY           : 74.528302 %
+EMOTIONS            : 16.981132 %
+
+505 words total

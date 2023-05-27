@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:VISION                                         7
+    blues blue see see blues blue see
+SECONDARY:ABSTRACTION                                            6
+    think know think difference know think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away where out here
+SECONDARY:TEMPORAL REFERENCES                                    3
+    today every time
+EMOTIONS:AGGRESSION                                              2
+    break beating
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask meet
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:NEED:ORALITY                                             1
+    drink
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+
+PRIMARY             : 52.500000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 10.000000 %
+
+196 words total

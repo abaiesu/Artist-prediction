@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:SOUND                                          4
+    hear heard heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    promised say said say
+SECONDARY:TEMPORAL REFERENCES                                    3
+    sometimes every every
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window line line
+SECONDARY:ABSTRACTION                                            2
+    cause why
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over away
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cries cries
+PRIMARY:SENSATION:VISION                                         1
+    blue
+EMOTIONS:ANXIETY                                                 1
+    worried
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 17.391304 %
+
+106 words total

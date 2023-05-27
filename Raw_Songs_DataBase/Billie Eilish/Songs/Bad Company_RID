@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:ABSTRACTION                                            6
+    known know know known know know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry cry cry cry
+PRIMARY:SENSATION:VISION                                         3
+    picture tinted picture
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    beach beach
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    building makes
+EMOTIONS:ANXIETY                                                 1
+    worried
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    outside
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    windows
+EMOTIONS:AGGRESSION                                              1
+    killing
+
+PRIMARY             : 29.032258 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 38.709677 %
+
+257 words total

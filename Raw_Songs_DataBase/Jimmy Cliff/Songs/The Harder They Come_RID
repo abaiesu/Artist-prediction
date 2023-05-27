@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:HARD                                          18
+    harder harder harder harder harder harder harder harder harder harder harder harder harder harder harder harder harder harder
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when when now then now then when now then now now now time
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell share say forgive share share say say say say
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  9
+    fall fall fall fall fall fall fall fall fall
+SECONDARY:ABSTRACTION                                            8
+    sure think them know cause sure know sure
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die die dead
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+PRIMARY:SENSATION:VISION                                         3
+    shine shine shine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying trying won
+EMOTIONS:AGGRESSION                                              2
+    battle fighting
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    between
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+
+PRIMARY             : 52.564103 %
+SECONDARY           : 43.589744 %
+EMOTIONS            : 3.846154 %
+
+289 words total

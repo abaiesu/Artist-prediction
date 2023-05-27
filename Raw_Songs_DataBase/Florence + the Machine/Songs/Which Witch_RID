@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    inside out out out out out away out out out away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    trying delivered making make make tried tested trying won
+EMOTIONS:AGGRESSION                                              8
+    beat beat beat beat beat beat beat beat
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell met help tell met help say
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old now now while time
+SECONDARY:ABSTRACTION                                            4
+    weighed deemed learn learn
+EMOTIONS:AFFECTION                                               4
+    pity pity pity pity
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire burned fire
+SECONDARY:ORDER                                                  1
+    measured
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+
+PRIMARY             : 35.593220 %
+SECONDARY           : 44.067797 %
+EMOTIONS            : 20.338983 %
+
+339 words total

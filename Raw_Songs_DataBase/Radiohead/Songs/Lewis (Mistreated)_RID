@@ -1,0 +1,38 @@
+EMOTIONS:SADNESS                                                 4
+    pain pain pain pain
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk talk talk talk
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under low low
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out at
+EMOTIONS:AFFECTION                                               2
+    friend love
+SECONDARY:ABSTRACTION                                            2
+    think understood
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jump jump
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistreated mistreated
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    business
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:TOUCH                                          1
+    thicker
+PRIMARY:SENSATION:VISION                                         1
+    noticed
+EMOTIONS:AGGRESSION                                              1
+    crushed
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+
+PRIMARY             : 41.379310 %
+SECONDARY           : 27.586207 %
+EMOTIONS            : 31.034483 %
+
+170 words total

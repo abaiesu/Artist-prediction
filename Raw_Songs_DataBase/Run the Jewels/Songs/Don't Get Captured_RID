@@ -1,0 +1,56 @@
+SECONDARY:RESTRAINT                                             16
+    captured captured captured captured stop catch captured captured captured captured captured captured captured captured captured captured
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    out out here out out here here here here where at here here here here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    soldiers bought sold sold job profit make job work
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now everything then when till then
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    lay slow calm lay slow
+SECONDARY:ABSTRACTION                                            4
+    them them truth thought
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told say please call
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:COLD                                           3
+    cold child snow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window path walls
+PRIMARY:SENSATION:SOUND                                          3
+    ring hear heart
+EMOTIONS:GLORY                                                   3
+    victorious great victorious
+PRIMARY:SENSATION:VISION                                         2
+    color films
+PRIMARY:NEED:ANALITY                                             2
+    dirt dirt
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smoke smoke
+EMOTIONS:AGGRESSION                                              2
+    shoot argue
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight art
+EMOTIONS:ANXIETY                                                 1
+    horrors
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    stray
+EMOTIONS:POSITIVE AFFECT                                         1
+    delight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+EMOTIONS:SADNESS                                                 1
+    paint
+
+PRIMARY             : 42.553191 %
+SECONDARY           : 43.617021 %
+EMOTIONS            : 13.829787 %
+
+401 words total

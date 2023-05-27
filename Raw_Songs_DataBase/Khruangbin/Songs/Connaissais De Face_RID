@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         11
+    head face face face face face face face face face face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes used work
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place out back
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swimming swim
+EMOTIONS:AFFECTION                                               2
+    loved marry
+SECONDARY:ABSTRACTION                                            1
+    think
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asked
+
+PRIMARY             : 68.000000 %
+SECONDARY           : 24.000000 %
+EMOTIONS            : 8.000000 %
+
+166 words total

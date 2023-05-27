@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever ever ever ever time
+EMOTIONS:AFFECTION                                               4
+    loved loved loved loved
+EMOTIONS:AGGRESSION                                              3
+    break arrows complain
+SECONDARY:ABSTRACTION                                            3
+    understanding thoughts prove
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tall tall
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    sailor sail
+PRIMARY:NEED:ORALITY                                             2
+    swallowed consume
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out outwards
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 27.586207 %
+EMOTIONS            : 27.586207 %
+
+158 words total

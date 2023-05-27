@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         8
+    watch watch watched watch watch see watch watch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away away away away away away
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time time time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    line line line line
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    wave wave
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+EMOTIONS:AFFECTION                                               1
+    loved
+PRIMARY:SENSATION:COLD                                           1
+    cooled
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:ABSTRACTION                                            1
+    real
+
+PRIMARY             : 70.270270 %
+SECONDARY           : 16.216216 %
+EMOTIONS            : 13.513514 %
+
+209 words total

@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:HARD                                          16
+    rock rock rock rock rock rock rock rock rock rock rock rock rock rock rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                 16
+    roll roll roll roll roll roll roll roll roll roll roll roll roll roll roll roll
+SECONDARY:RESTRAINT                                             16
+    control stop control control control control control control control control control control control control control control
+PRIMARY:ICARIAN IMAGERY:FIRE                                    12
+    fire heat burnin hot fire heat burnin fire fire heat fire heat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here away long out back here place inside out here
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    scream shout scream shout scream shout scream scream shout
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    feet body eyes feet feet head feet
+SECONDARY:TEMPORAL REFERENCES                                    6
+    while now when now once time
+SECONDARY:ABSTRACTION                                            4
+    know think true reality
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell said tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find found
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low deep
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:ANXIETY                                                 1
+    shy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:COLD                                           1
+    snowblind
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    friend
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+
+PRIMARY             : 61.261261 %
+SECONDARY           : 27.927928 %
+EMOTIONS            : 10.810811 %
+
+362 words total

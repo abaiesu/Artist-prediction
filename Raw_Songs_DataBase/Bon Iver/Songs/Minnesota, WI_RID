@@ -1,0 +1,42 @@
+EMOTIONS:AGGRESSION                                             12
+    break break break break break break break break break break break break
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    closing where where closed back open here here at
+SECONDARY:ABSTRACTION                                            4
+    truth proof know know
+PRIMARY:SENSATION:VISION                                         4
+    glowing blue pictures beams
+SECONDARY:TEMPORAL REFERENCES                                    4
+    past minute soon year
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    finished won carry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grew grow hung
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    roots valley
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knee toes
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water streams
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay laying
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call beseech
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    marvel
+EMOTIONS:AFFECTION                                               1
+    dear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:SOUND                                          1
+    bellows
+PRIMARY:NEED:ORALITY                                             1
+    swallows
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swelling
+
+PRIMARY             : 52.727273 %
+SECONDARY           : 23.636364 %
+EMOTIONS            : 23.636364 %
+
+232 words total

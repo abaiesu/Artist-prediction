@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       26
+    place at away where long where far over away at out where long where far over where long where far over over over over far over
+SECONDARY:TEMPORAL REFERENCES                                   13
+    once moments moments when once moments moments once moments moments moments moments moments
+PRIMARY:SENSATION:TOUCH                                         12
+    touched touched touched touched touched touched touched touched touched touched touched touched
+PRIMARY:SENSATION:SOUND                                         12
+    heart heart heart heart heart heart heart heart heart heart heart heart
+EMOTIONS:AFFECTION                                              11
+    love love love love love love love love love love love
+SECONDARY:ABSTRACTION                                           11
+    knew knew knew knew knew know knew know knew knew knew
+SECONDARY:RESTRAINT                                              9
+    capture capture capture capture capture capture capture capture capture
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandered
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+
+PRIMARY             : 54.455446 %
+SECONDARY           : 34.653465 %
+EMOTIONS            : 10.891089 %
+
+289 words total

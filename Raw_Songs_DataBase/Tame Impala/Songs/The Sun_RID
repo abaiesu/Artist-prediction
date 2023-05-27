@@ -1,0 +1,18 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun sun sun sun
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    side at back side
+PRIMARY:SENSATION:VISION                                         2
+    noticed stars
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when then
+SECONDARY:ABSTRACTION                                            1
+    knows
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 71.428571 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 7.142857 %
+
+76 words total

@@ -1,0 +1,52 @@
+PRIMARY:SENSATION:VISION                                        10
+    rough rough looking looking rough rough looking looking rough rough
+EMOTIONS:AFFECTION                                               8
+    lover lover like loves lover lover lover lover
+PRIMARY:NEED:ORALITY                                             4
+    bite spit chew creampuff
+SECONDARY:ABSTRACTION                                            4
+    know know plan plan
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now then
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell treat treat
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find make make
+PRIMARY:NEED:SEX                                                 3
+    kiss kiss kiss
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:SENSATION:SOFT                                           3
+    whisper gentle gentle
+PRIMARY:SENSATION:HARD                                           2
+    nails iron
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+EMOTIONS:AGGRESSION                                              1
+    fight
+SECONDARY:RESTRAINT                                              1
+    shut
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    roaring
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    raving
+
+PRIMARY             : 52.459016 %
+SECONDARY           : 29.508197 %
+EMOTIONS            : 18.032787 %
+
+319 words total

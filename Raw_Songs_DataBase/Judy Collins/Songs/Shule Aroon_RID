@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    soldier sell sell sell buy soldier soldier sold sold soldier
+PRIMARY:SENSATION:VISION                                         6
+    blink blink blink see blink blink
+SECONDARY:MORAL IMPERATIVE                                       5
+    should should should should should
+PRIMARY:NEED:ORALITY                                             3
+    buttermilk meal meal
+EMOTIONS:SADNESS                                                 3
+    weep weep woe
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every time now
+EMOTIONS:AFFECTION                                               3
+    love loved loved
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spinnin spinnin
+EMOTIONS:AGGRESSION                                              2
+    sword broke
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:SENSATION:HARD                                           1
+    steel
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 19.047619 %
+
+212 words total

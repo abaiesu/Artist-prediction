@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                               7
+    kinds goodbye like like like like like
+SECONDARY:ABSTRACTION                                            7
+    them considered judge probably them thinking thinking
+SECONDARY:TEMPORAL REFERENCES                                    7
+    brief ever yesterday yesterday again then then
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said asked confidence answers please tells
+PRIMARY:SENSATION:SOUND                                          6
+    hear ring ears bells ringing hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out back here here here
+EMOTIONS:AGGRESSION                                              4
+    cut breakfast robs robs
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    smoke burn burn
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    headed eye head
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sang sang sang
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    shower shower shower
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead bed
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+PRIMARY:SENSATION:COLD                                           2
+    frost frost
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+SECONDARY:RESTRAINT                                              1
+    summon
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:VISION                                         1
+    looks
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+
+PRIMARY             : 42.424242 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 24.242424 %
+
+287 words total

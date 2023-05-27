@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                         6
+    green blue gaze look brightly shine
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    converse said said inquire followed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    among overheard along side
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair eyes
+PRIMARY:NEED:ORALITY                                             2
+    lips teeth
+SECONDARY:ABSTRACTION                                            2
+    opinion perhaps
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountain mountains
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+EMOTIONS:AFFECTION                                               1
+    kind
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:NEED:SEX                                                 1
+    venus
+EMOTIONS:SADNESS                                                 1
+    lonesome
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+EMOTIONS:AGGRESSION                                              1
+    gun
+SECONDARY:RESTRAINT                                              1
+    guard
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:GLORY                                                   1
+    castle
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 16.666667 %
+
+163 words total

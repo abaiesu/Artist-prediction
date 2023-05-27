@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back back here back back
+SECONDARY:ABSTRACTION                                            4
+    know understand know real
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time again
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 0.000000 %
+
+153 words total

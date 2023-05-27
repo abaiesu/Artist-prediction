@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           11
+    meditate meditate meditate meditate meditate crazy crazier crazy crazier meditate meditate
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    off here rear within inside inside
+SECONDARY:ABSTRACTION                                            4
+    real real choose choose
+EMOTIONS:AFFECTION                                               3
+    loves friendships appreciate
+EMOTIONS:AGGRESSION                                              3
+    smash shoot kill
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now then
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    crier
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:SENSATION:VISION                                         1
+    shine
+SECONDARY:ORDER                                                  1
+    class
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnt
+EMOTIONS:SADNESS                                                 1
+    frown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+
+PRIMARY             : 52.500000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 22.500000 %
+
+186 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out out at close back out at close out at close
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    playing cry dance playing cry dance playing cry dance
+PRIMARY:SENSATION:COLD                                           9
+    cold cold cold cold cold cold cold cold cold
+EMOTIONS:AGGRESSION                                              9
+    hurting hurting hurting hurting hurting hurting hurting hurting hurting
+SECONDARY:ABSTRACTION                                            8
+    cause knows know cause knows cause knows knows
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight presents tonight presents presents
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    floor coast coast floor floor
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    counting making making making
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistletoe
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamin
+
+PRIMARY             : 41.791045 %
+SECONDARY           : 25.373134 %
+EMOTIONS            : 32.835821 %
+
+397 words total

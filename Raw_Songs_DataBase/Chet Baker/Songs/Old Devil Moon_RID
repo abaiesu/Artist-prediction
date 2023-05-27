@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    suddenly soon old old old when old
+PRIMARY:SENSATION:VISION                                         5
+    look see glance stars light
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes eyes handle eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at wide inside
+EMOTIONS:AFFECTION                                               3
+    romance like love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    hot blazing candle
+SECONDARY:ABSTRACTION                                            2
+    something think
+EMOTIONS:AGGRESSION                                              1
+    stole
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:GLORY                                                   1
+    dazzle
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flyin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 55.263158 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 18.421053 %
+
+120 words total

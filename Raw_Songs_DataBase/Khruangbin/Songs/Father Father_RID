@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    at at here over backwards at at here over backwards
+EMOTIONS:AFFECTION                                              10
+    like love love love love like love love love love
+SECONDARY:ABSTRACTION                                            8
+    them cause know know them cause know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    hands face hands face hands face hands face
+EMOTIONS:AGGRESSION                                              8
+    cutting blades damage damage cutting blades damage damage
+PRIMARY:NEED:ANALITY                                             6
+    mess unclean unclean mess unclean unclean
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    works gain works gain gain
+PRIMARY:SENSATION:VISION                                         4
+    look look look look
+SECONDARY:TEMPORAL REFERENCES                                    4
+    present present present present
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    ladder top ladder top
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    attention attention
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb climb
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    bottom bottom
+SECONDARY:RESTRAINT                                              2
+    stops stops
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slows slows
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    forgive
+
+PRIMARY             : 51.282051 %
+SECONDARY           : 25.641026 %
+EMOTIONS            : 23.076923 %
+
+321 words total

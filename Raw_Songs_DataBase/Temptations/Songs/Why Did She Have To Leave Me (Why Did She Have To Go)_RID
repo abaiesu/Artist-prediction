@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           18
+    knew thought know why know reason know why know something something know why know know why know why
+EMOTIONS:AFFECTION                                              13
+    love love love love like love love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    found found try find find found try find try find try try
+SECONDARY:TEMPORAL REFERENCES                                    9
+    times ever now ever ever now now now now
+SECONDARY:MORAL IMPERATIVE                                       6
+    should should should should should should
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away behind side behind behind
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 13.888889 %
+SECONDARY           : 65.277778 %
+EMOTIONS            : 20.833333 %
+
+314 words total

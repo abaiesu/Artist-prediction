@@ -1,0 +1,20 @@
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+SECONDARY:ABSTRACTION                                            4
+    something cause something something
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say share
+EMOTIONS:AFFECTION                                               2
+    kind love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    between
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+
+PRIMARY             : 12.500000 %
+SECONDARY           : 75.000000 %
+EMOTIONS            : 12.500000 %
+
+102 words total

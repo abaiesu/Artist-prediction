@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                             12
+    break break break break break break break break break break break break
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    away away away away away away away away away away away away
+PRIMARY:SENSATION:SOUND                                          9
+    heartaches heartaches heartaches heartaches heartaches heartaches heartaches heartaches heartaches
+PRIMARY:NEED:SEX                                                 6
+    kiss kiss kiss kiss kiss kiss
+SECONDARY:ABSTRACTION                                            5
+    cause cause true why cause
+EMOTIONS:AFFECTION                                               5
+    loving love love loving loving
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    arms hand arms arms
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time sometimes week
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    charms charms charms
+SECONDARY:MORAL IMPERATIVE                                       3
+    shouldn shouldn shouldn
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please share promises
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 53.521127 %
+SECONDARY           : 22.535211 %
+EMOTIONS            : 23.943662 %
+
+292 words total

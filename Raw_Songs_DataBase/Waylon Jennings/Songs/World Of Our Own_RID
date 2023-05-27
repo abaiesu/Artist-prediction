@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    far behind close at far away away far behind long far behind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    build find build find build find find
+SECONDARY:ABSTRACTION                                            5
+    know know known know know
+EMOTIONS:SADNESS                                                 4
+    sorrows sorrows lonely sorrows
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    stairs door stairs stairs
+PRIMARY:SENSATION:VISION                                         4
+    light lights bright lights
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    share share share
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight while now
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 14.000000 %
+
+240 words total

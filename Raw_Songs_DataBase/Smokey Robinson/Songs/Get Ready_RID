@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    here here out here here here here here here out here here here here here here here here
+SECONDARY:ABSTRACTION                                           17
+    real cause true cause cause cause cause cause understand planned cause true cause cause cause cause cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    makes makes try make try make makes
+EMOTIONS:AFFECTION                                               5
+    love love friends love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    met asked say met
+SECONDARY:TEMPORAL REFERENCES                                    2
+    whenever once
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:SOUND                                          1
+    rhythm
+
+PRIMARY             : 36.666667 %
+SECONDARY           : 51.666667 %
+EMOTIONS            : 11.666667 %
+
+379 words total

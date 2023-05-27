@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:TASTE                                         11
+    sweet flavors sweet sweetheart sweetheart sweetheart sweet sweet sweetheart sweet sweet
+PRIMARY:NEED:ORALITY                                             6
+    sugar peppermint candy candy candy candy
+SECONDARY:ABSTRACTION                                            6
+    know cause know facts real real
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over over over
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head feet arms
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hangin wings
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    harp play
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty charms
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees birds
+PRIMARY:SENSATION:ODOR                                           2
+    smell perfume
+PRIMARY:SENSATION:VISION                                         1
+    halo
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippers
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sprinkled
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+
+PRIMARY             : 73.469388 %
+SECONDARY           : 16.326531 %
+EMOTIONS            : 10.204082 %
+
+239 words total

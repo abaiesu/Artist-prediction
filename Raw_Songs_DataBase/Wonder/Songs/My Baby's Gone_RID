@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at at away away away away
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    woke woke
+EMOTIONS:AFFECTION                                               1
+    loving
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:SADNESS                                                 1
+    misery
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:ANXIETY                                                 1
+    worried
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 64.285714 %
+SECONDARY           : 7.142857 %
+EMOTIONS            : 28.571429 %
+
+107 words total

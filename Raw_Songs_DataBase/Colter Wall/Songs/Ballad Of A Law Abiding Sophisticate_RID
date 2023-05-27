@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out closed far where
+PRIMARY:SENSATION:VISION                                         3
+    see glare see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes bones knees
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    called asking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay lay
+EMOTIONS:AFFECTION                                               1
+    marry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+SECONDARY:ABSTRACTION                                            1
+    judge
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:RESTRAINT                                              1
+    bar
+SECONDARY:TEMPORAL REFERENCES                                    1
+    past
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AGGRESSION                                              1
+    cut
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 8.333333 %
+
+106 words total

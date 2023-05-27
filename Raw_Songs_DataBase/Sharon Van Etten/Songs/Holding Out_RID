@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       22
+    out out out out out out out out out out at out out far away out out out out out out out
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when now now now now now then
+SECONDARY:ABSTRACTION                                            7
+    reason cause something believed circumstance something know
+EMOTIONS:AFFECTION                                               4
+    kind lover like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying find trying won
+EMOTIONS:POSITIVE AFFECT                                         2
+    joking smile
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calling talk
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street street
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calm silent
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+EMOTIONS:AGGRESSION                                              2
+    kick break
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face arms
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:NEED:ORALITY                                             1
+    tongues
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairy
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 54.687500 %
+SECONDARY           : 32.812500 %
+EMOTIONS            : 12.500000 %
+
+269 words total

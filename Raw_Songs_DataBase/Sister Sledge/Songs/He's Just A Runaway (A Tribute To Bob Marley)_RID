@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               5
+    love love lovely love lovely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes face eyes face
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away back long
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time weekend now
+EMOTIONS:AGGRESSION                                              2
+    break break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money bought
+SECONDARY:MORAL IMPERATIVE                                       2
+    honest honest
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangs
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+SECONDARY:ABSTRACTION                                            1
+    reality
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 24.137931 %
+
+143 words total

@@ -1,0 +1,28 @@
+SECONDARY:RESTRAINT                                             15
+    bound bound bound bound bound bound bound bound bound bound bound bound bound bound bound
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    tell meet tell meet promises promised tell meet promises promised tell meet tell meet
+PRIMARY:NEED:ORALITY                                             6
+    lemon lemon lemon lemon lemon lemon
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    ride ride ride ride ride ride
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand hand hand hand
+EMOTIONS:AFFECTION                                               2
+    friend friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used record
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back somewhere
+PRIMARY:SENSATION:SOUND                                          2
+    tune heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sung
+SECONDARY:ABSTRACTION                                            1
+    learned
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 58.181818 %
+EMOTIONS            : 5.454545 %
+
+258 words total

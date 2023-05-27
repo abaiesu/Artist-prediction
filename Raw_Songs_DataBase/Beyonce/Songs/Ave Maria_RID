@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then when when sometimes while suddenly then then
+PRIMARY:SENSATION:SOUND                                          7
+    hear voice loud hear voice hear voice
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out inside surrounded inside out inside
+SECONDARY:ABSTRACTION                                            5
+    different know knowing plans understand
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    heaven heaven hunger heaven
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    cost found making
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hands
+EMOTIONS:AFFECTION                                               2
+    friends love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    guide
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:NEED:ORALITY                                             1
+    thirst
+EMOTIONS:AGGRESSION                                              1
+    hit
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 40.476190 %
+EMOTIONS            : 7.142857 %
+
+166 words total

@@ -1,0 +1,60 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    places close out out surrounded out surrounded behind places
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now pasture when then yearning everybody everything ever
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    die die die die die die
+SECONDARY:ABSTRACTION                                            5
+    think know why think know
+PRIMARY:SENSATION:TASTE                                          5
+    sweet sweet sweet sweet sweet
+PRIMARY:SENSATION:SOFT                                           4
+    mellow mellow mellow mellow
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under under beneath
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    melted sun sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    trees above trees
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street street
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comfort beautiful
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call meet
+PRIMARY:NEED:ORALITY                                             2
+    teeth lips
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    streaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floating
+EMOTIONS:AGGRESSION                                              1
+    kill
+PRIMARY:SENSATION:ODOR                                           1
+    perfuming
+
+PRIMARY             : 66.197183 %
+SECONDARY           : 23.943662 %
+EMOTIONS            : 9.859155 %
+
+253 words total

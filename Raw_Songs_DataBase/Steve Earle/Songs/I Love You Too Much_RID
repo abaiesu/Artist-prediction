@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            6
+    think think believe think think think
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+EMOTIONS:AGGRESSION                                              3
+    break crush cut
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn burns
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then every
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:SEX                                                 1
+    kisses
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    longer
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 27.586207 %
+
+173 words total

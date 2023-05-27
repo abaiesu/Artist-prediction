@@ -1,0 +1,56 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    times moments hours soon once again once then ever present
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    off at over inside at inside at at
+SECONDARY:ABSTRACTION                                            7
+    know why cause cause know why history
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    ferris port window wall port
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    offered call preacher asked call
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    cheek hand face handled
+SECONDARY:MORAL IMPERATIVE                                       3
+    shoulders shouldn shoulder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find count find
+EMOTIONS:AFFECTION                                               2
+    love favorite
+EMOTIONS:AGGRESSION                                              2
+    tortured tortured
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughing smiling
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:NEED:ORALITY                                             1
+    dinner
+EMOTIONS:ANXIETY                                                 1
+    anxious
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:SADNESS                                                 1
+    tragedy
+
+PRIMARY             : 43.076923 %
+SECONDARY           : 43.076923 %
+EMOTIONS            : 13.846154 %
+
+234 words total

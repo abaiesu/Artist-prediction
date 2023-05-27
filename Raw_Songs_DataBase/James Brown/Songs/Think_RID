@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           46
+    think think think think think think think think thought think think think think think think think think think think think think think think think think think think think think think think think think think think think think think think think think think think think think think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    tried claim tried tried spent make claim
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now times now
+EMOTIONS:AFFECTION                                               2
+    loves loves
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness happiness
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+EMOTIONS:AGGRESSION                                              1
+    blame
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:ANXIETY                                                 1
+    fret
+
+PRIMARY             : 4.411765 %
+SECONDARY           : 85.294118 %
+EMOTIONS            : 10.294118 %
+
+315 words total

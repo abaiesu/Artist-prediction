@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            5
+    know know know know know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    speak say say speak pleased
+SECONDARY:TEMPORAL REFERENCES                                    4
+    today old years ago
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long long here here
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    river shore ocean
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silence slow quiet
+EMOTIONS:GLORY                                                   2
+    crown gold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high birds
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window railroad
+EMOTIONS:AFFECTION                                               2
+    like dear
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fades fades
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drops
+PRIMARY:SENSATION:SOFT                                           1
+    feather
+EMOTIONS:SADNESS                                                 1
+    lonesome
+
+PRIMARY             : 48.648649 %
+SECONDARY           : 37.837838 %
+EMOTIONS            : 13.513514 %
+
+170 words total

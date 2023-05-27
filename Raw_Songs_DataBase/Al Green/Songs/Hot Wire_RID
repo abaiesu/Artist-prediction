@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long long long long long here long long long long
+PRIMARY:NEED:SEX                                                 7
+    kiss kiss kiss kiss kiss kiss kiss
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every every now every now every every
+EMOTIONS:AFFECTION                                               4
+    darling love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell please say say
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    above higher higher
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:ABSTRACTION                                            1
+    possible
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 55.319149 %
+SECONDARY           : 31.914894 %
+EMOTIONS            : 12.765957 %
+
+323 words total

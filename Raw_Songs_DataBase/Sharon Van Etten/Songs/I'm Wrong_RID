@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       20
+    tell tell tell tell tell tell say tell tell tell tell tell tell tell tell please tell tell please tell
+SECONDARY:ABSTRACTION                                            7
+    believe believe believe believe know believe believe
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while then again time when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    inside long at along long
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    work work make finish
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:SOUND                                          2
+    hum rings
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    odds
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 18.867925 %
+SECONDARY           : 71.698113 %
+EMOTIONS            : 9.433962 %
+
+251 words total

@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time every then
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask ask
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies bed
+SECONDARY:ABSTRACTION                                            2
+    cause thinking
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    beside
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamed
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+
+PRIMARY             : 31.578947 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 26.315789 %
+
+137 words total

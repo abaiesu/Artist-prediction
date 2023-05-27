@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               3
+    married loved loving
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out at at
+PRIMARY:NEED:ORALITY                                             2
+    mouth drunk
+PRIMARY:SENSATION:VISION                                         2
+    transparent transparent
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speak spoke
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunk
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    restlessness
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+PRIMARY:SENSATION:ODOR                                           1
+    inhaling
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blasts
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    frames
+EMOTIONS:SADNESS                                                 1
+    despairing
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+SECONDARY:RESTRAINT                                              1
+    stopped
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 17.391304 %
+EMOTIONS            : 26.086957 %
+
+84 words total

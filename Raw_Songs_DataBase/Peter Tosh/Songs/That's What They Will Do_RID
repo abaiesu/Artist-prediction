@@ -1,0 +1,38 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    gain make carry try try make
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    confidence tell promises
+SECONDARY:ABSTRACTION                                            3
+    know know them
+EMOTIONS:AGGRESSION                                              3
+    steal cutting robbed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    round back
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then ever
+EMOTIONS:AFFECTION                                               1
+    friends
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+SECONDARY:RESTRAINT                                              1
+    jail
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:NEED:ORALITY                                             1
+    throat
+
+PRIMARY             : 24.137931 %
+SECONDARY           : 55.172414 %
+EMOTIONS            : 20.689655 %
+
+125 words total

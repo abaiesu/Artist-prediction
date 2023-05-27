@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    inside away out out here inside inside away out
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk say promise say promise say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    quiet quiet quiet silence quiet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make try makes won makes
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when everything everything
+SECONDARY:ABSTRACTION                                            4
+    know know cause know
+EMOTIONS:ANXIETY                                                 4
+    nervous shy nervous shy
+PRIMARY:SENSATION:VISION                                         3
+    see look see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:SENSATION:COLD                                           2
+    snow colder
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:GLORY                                                   1
+    greater
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+
+PRIMARY             : 47.058824 %
+SECONDARY           : 37.254902 %
+EMOTIONS            : 15.686275 %
+
+190 words total

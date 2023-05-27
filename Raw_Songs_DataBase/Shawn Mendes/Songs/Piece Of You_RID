@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    everybody everybody when everybody every everybody when everybody everybody everybody when everybody
+SECONDARY:ABSTRACTION                                            7
+    know true sure know know true true
+PRIMARY:SENSATION:VISION                                         4
+    light look look look
+EMOTIONS:AGGRESSION                                              4
+    hurts jealous jealous jealous
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    share protective message share
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes possessive makes
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    ruined ruined ruined
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fair fair
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:GLORY                                                   1
+    majestic
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mesmerizing
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 27.450980 %
+SECONDARY           : 52.941176 %
+EMOTIONS            : 19.607843 %
+
+281 words total

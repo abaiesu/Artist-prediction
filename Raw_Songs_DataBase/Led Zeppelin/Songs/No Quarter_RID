@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    close out where side side back where
+SECONDARY:ABSTRACTION                                            5
+    know know true choose choose
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door path step path
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won carry carry build
+PRIMARY:SENSATION:COLD                                           3
+    snow cold snow
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    ask ask ask
+PRIMARY:SENSATION:VISION                                         2
+    light bright
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight every
+PRIMARY:SENSATION:HARD                                           2
+    hard steel
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death slow
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+EMOTIONS:AGGRESSION                                              1
+    mocks
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drives
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    foot
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 56.818182 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 6.818182 %
+
+168 words total

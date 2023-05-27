@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              14
+    love love love love love love love devotion goodbye love devotion goodbye love love
+SECONDARY:ABSTRACTION                                            8
+    true supposed why think meant why think meant
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now now again ever again
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say said call share share
+SECONDARY:RESTRAINT                                              4
+    must locked must must
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:COLD                                           2
+    icy frigid
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring spring
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used used
+EMOTIONS:POSITIVE AFFECT                                         1
+    merry
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 18.367347 %
+SECONDARY           : 51.020408 %
+EMOTIONS            : 30.612245 %
+
+253 words total

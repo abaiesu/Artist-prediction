@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    ask ask tell ask call excuse met say said
+SECONDARY:ABSTRACTION                                            9
+    know know know choice know know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    money make making try make use
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at out long close
+EMOTIONS:AFFECTION                                               4
+    love like love like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time when again
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+EMOTIONS:AGGRESSION                                              3
+    destroy destroy destroy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 30.188679 %
+SECONDARY           : 52.830189 %
+EMOTIONS            : 16.981132 %
+
+438 words total

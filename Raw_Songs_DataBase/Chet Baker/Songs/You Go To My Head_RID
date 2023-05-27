@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    head brain head head eyes head head
+EMOTIONS:AFFECTION                                               6
+    like like like like like romance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find makes
+SECONDARY:ABSTRACTION                                            3
+    thought thought certain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    round over
+PRIMARY:NEED:ORALITY                                             2
+    champagne brew
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    mention say
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    linger
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bubbles
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparkling
+EMOTIONS:AGGRESSION                                              1
+    kicker
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 55.263158 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 23.684211 %
+
+153 words total

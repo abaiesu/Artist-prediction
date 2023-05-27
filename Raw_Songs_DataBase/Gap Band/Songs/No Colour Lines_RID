@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                        16
+    colour brighter colour colour colour see colour colour brown colour colour see colour colour colour colour
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      11
+    lines lines lines lines lines lines lines lines lines lines lines
+EMOTIONS:AFFECTION                                               9
+    love love friend love like love love friend love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time everybody time then time then time
+SECONDARY:ABSTRACTION                                            6
+    why why why why why why
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    separate place open out open out
+EMOTIONS:AGGRESSION                                              3
+    hate hate hatred
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make find find
+PRIMARY:SENSATION:SOUND                                          3
+    hear hearts hearts
+EMOTIONS:GLORY                                                   2
+    conquer conquers
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:NEED:ORALITY                                             1
+    consummate
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+
+PRIMARY             : 53.947368 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 21.052632 %
+
+263 words total

@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    said remind said say say say say say say tell
+PRIMARY:SENSATION:VISION                                         5
+    see look look look look
+SECONDARY:ABSTRACTION                                            4
+    cause why why know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    outside inside somewhere out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes eyes eyes
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight then tonight
+SECONDARY:MORAL IMPERATIVE                                       3
+    shouldn right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won find make
+EMOTIONS:AGGRESSION                                              2
+    gun fight
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:NEED:SEX                                                 1
+    kissed
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:SADNESS                                                 1
+    painting
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+
+PRIMARY             : 37.777778 %
+SECONDARY           : 53.333333 %
+EMOTIONS            : 8.888889 %
+
+423 words total

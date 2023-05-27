@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                            6
+    reason guess know guess sure guess
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here behind back long back
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun hot fire sun
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now everything times now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye body eyes
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:SOUND                                          2
+    sounds sounds
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleepy sleepy
+PRIMARY:SENSATION:VISION                                         2
+    bright light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make money
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk talking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    games
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 9.090909 %
+
+190 words total

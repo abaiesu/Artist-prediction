@@ -1,0 +1,32 @@
+EMOTIONS:ANXIETY                                                24
+    cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares cares
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    says say say say says says says say say say says gift forgiven say say say
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old again when when old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used bid pursue bought sold
+EMOTIONS:AFFECTION                                               4
+    love sympathy like love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back out back
+PRIMARY:SENSATION:VISION                                         2
+    saw looking
+EMOTIONS:AGGRESSION                                              2
+    wounded broke
+PRIMARY:SENSATION:SOUND                                          2
+    ring heart
+SECONDARY:MORAL IMPERATIVE                                       2
+    duty shoulder
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:ABSTRACTION                                            1
+    them
+
+PRIMARY             : 13.235294 %
+SECONDARY           : 42.647059 %
+EMOTIONS            : 44.117647 %
+
+310 words total

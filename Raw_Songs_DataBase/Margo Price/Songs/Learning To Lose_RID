@@ -1,0 +1,30 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    belong won pay won winning winning won pay won winning winning winning
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    far away where closer where behind long off long off
+SECONDARY:ABSTRACTION                                           10
+    reason learn know learning true learning learning true learning learning
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell tell said say tell tell said say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    year ever everywhere sometime
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trails
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:AGGRESSION                                              1
+    enemy
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 26.923077 %
+SECONDARY           : 69.230769 %
+EMOTIONS            : 3.846154 %
+
+203 words total

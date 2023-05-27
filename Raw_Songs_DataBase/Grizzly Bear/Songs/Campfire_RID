@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out long
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire fire fire
+SECONDARY:ABSTRACTION                                            2
+    know think
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    toes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 85.714286 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 0.000000 %
+
+57 words total

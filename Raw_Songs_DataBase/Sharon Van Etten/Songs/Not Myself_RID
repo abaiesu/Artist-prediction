@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                            9
+    something believes something believe something know believe something know
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    call say call tell please please please please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away place away out at at
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    ashes ashes
+EMOTIONS:AFFECTION                                               2
+    darling darling
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 54.838710 %
+EMOTIONS            : 9.677419 %
+
+155 words total

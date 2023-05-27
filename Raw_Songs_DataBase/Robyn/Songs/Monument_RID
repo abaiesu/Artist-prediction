@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    space sides apart inside back out back out
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when when when moment moment moment
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make used make used
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body body body
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say represent represent
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:ABSTRACTION                                            2
+    knew knew
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+SECONDARY:RESTRAINT                                              1
+    controlling
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    moat
+
+PRIMARY             : 39.024390 %
+SECONDARY           : 43.902439 %
+EMOTIONS            : 17.073171 %
+
+178 words total

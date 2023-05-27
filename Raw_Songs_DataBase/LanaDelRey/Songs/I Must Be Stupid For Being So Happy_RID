@@ -1,0 +1,28 @@
+EMOTIONS:POSITIVE AFFECT                                         9
+    happy smile happy laughing funny smile smile happy happy
+EMOTIONS:AFFECTION                                               9
+    like like friends like like like friends like like
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    calling say say call say say call call
+SECONDARY:ABSTRACTION                                            6
+    real know think think real know
+SECONDARY:RESTRAINT                                              5
+    must must must must must
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow slow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along along
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+
+PRIMARY             : 18.750000 %
+SECONDARY           : 39.583333 %
+EMOTIONS            : 41.666667 %
+
+213 words total

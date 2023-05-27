@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    away here out here back back side out long back back back back back here back back here back
+SECONDARY:TEMPORAL REFERENCES                                   16
+    while when again again now again again while when again again old again again now again
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    road road road road road walls road
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talking said please appeal talking said
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    highway highway highway highway highway highway
+PRIMARY:SENSATION:SOUND                                          5
+    heart belly heard heart belly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    build won tried won
+EMOTIONS:AGGRESSION                                              4
+    broken break broken break
+EMOTIONS:AFFECTION                                               4
+    love bride like love
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    throw dawn dawn
+SECONDARY:ABSTRACTION                                            3
+    thinking cause thinking
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    rolling roll rolling
+PRIMARY:SENSATION:HARD                                           3
+    stone hard stone
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    sail traveling
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea rain
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyed eyed
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    tumbleweed tumbleweed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    laying bed
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    notice
+
+PRIMARY             : 60.824742 %
+SECONDARY           : 30.927835 %
+EMOTIONS            : 8.247423 %
+
+353 words total

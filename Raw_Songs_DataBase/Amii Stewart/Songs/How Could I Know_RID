@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    long back over over over long back over over long somewhere long long long long somewhere
+SECONDARY:ABSTRACTION                                           14
+    chose believe believe know believe believe know know know know know know know know
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everything ago everything ago everything everything ago everything
+EMOTIONS:AGGRESSION                                              5
+    broken broken broken broken broken
+SECONDARY:RESTRAINT                                              4
+    must must must must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try try try try
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    firefight firefight
+PRIMARY:NEED:ORALITY                                             1
+    choke
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 34.545455 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 10.909091 %
+
+175 words total

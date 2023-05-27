@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    straight places off off place where where place
+PRIMARY:SENSATION:VISION                                         3
+    looked saw see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hands feet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    higher sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly climb
+SECONDARY:ABSTRACTION                                            2
+    reason why
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try find
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stairs
+
+PRIMARY             : 70.370370 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 3.703704 %
+
+118 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at space off at front central off off
+SECONDARY:ABSTRACTION                                            8
+    know real history believe real know real knows
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream dream dream dream
+EMOTIONS:AFFECTION                                               4
+    like like love embrace
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    hanging hang hanging
+PRIMARY:SENSATION:SOUND                                          3
+    hear sound voice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    wrist wrist
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ablaze
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    coast
+PRIMARY:SENSATION:VISION                                         1
+    greyhound
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:ANXIETY                                                 1
+    afraid
+
+PRIMARY             : 63.414634 %
+SECONDARY           : 24.390244 %
+EMOTIONS            : 12.195122 %
+
+224 words total

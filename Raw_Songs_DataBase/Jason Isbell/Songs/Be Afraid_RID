@@ -1,0 +1,42 @@
+EMOTIONS:ANXIETY                                                13
+    afraid afraid terrified afraid afraid afraid afraid afraid afraid afraid afraid afraid afraid
+SECONDARY:ABSTRACTION                                            8
+    truth think think think think truth think choice
+PRIMARY:SENSATION:VISION                                         7
+    see see see star see looks see
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    ask help help requests tell speakers
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    bark guitar sing screamed sing cry
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every everything when then when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    counting belongs won find making
+PRIMARY:SENSATION:SOUND                                          4
+    snap tuned sound voice
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long at long
+SECONDARY:RESTRAINT                                              2
+    control shut
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+PRIMARY:SENSATION:SOFT                                           1
+    delicate
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blasting
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:AGGRESSION                                              1
+    battle
+
+PRIMARY             : 29.411765 %
+SECONDARY           : 38.235294 %
+EMOTIONS            : 32.352941 %
+
+311 words total

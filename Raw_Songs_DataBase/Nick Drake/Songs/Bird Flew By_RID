@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    year season once soon year season year season again year season year season
+EMOTIONS:GLORY                                                   9
+    wondered wondered wonder wonder wonder wonder wondered wondered wonder
+SECONDARY:ABSTRACTION                                            8
+    why reason think reason reason reason why reason
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    point away point point point point
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    bird sky bird sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flew flew
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair hands
+PRIMARY:SENSATION:VISION                                         2
+    grey stars
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shook
+SECONDARY:RESTRAINT                                              1
+    managed
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    able
+
+PRIMARY             : 35.087719 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 22.807018 %
+
+185 words total

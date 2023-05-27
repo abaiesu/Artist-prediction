@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now time time now years time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    across away beside here away across
+PRIMARY:SENSATION:ODOR                                           4
+    breathing breath breath breath
+EMOTIONS:AGGRESSION                                              4
+    killing killing killing killing
+PRIMARY:SENSATION:VISION                                         3
+    light lightning imagination
+PRIMARY:SENSATION:SOUND                                          2
+    ring heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly mountains
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands blood
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolls
+SECONDARY:RESTRAINT                                              1
+    punish
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    infinity
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ANALITY                                             1
+    polluted
+PRIMARY:NEED:ORALITY                                             1
+    drunk
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drift
+
+PRIMARY             : 68.888889 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 11.111111 %
+
+122 words total

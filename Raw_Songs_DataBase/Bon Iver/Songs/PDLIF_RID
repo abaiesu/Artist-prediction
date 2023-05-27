@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here off here rearranged at at away back back
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    please tell say say tell say tell please
+SECONDARY:ABSTRACTION                                            6
+    know think think think know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now again while everyone
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+EMOTIONS:AGGRESSION                                              2
+    blame blame
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    fantastic
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+
+PRIMARY             : 37.837838 %
+SECONDARY           : 51.351351 %
+EMOTIONS            : 10.810811 %
+
+202 words total

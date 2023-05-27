@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               7
+    lover loving love lover lover like like
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    teacher preacher teach talking met
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything when season
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+SECONDARY:ABSTRACTION                                            2
+    know reason
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:NEED:SEX                                                 1
+    infatuation
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flighty
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    exploring
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    ecstasy
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 44.827586 %
+EMOTIONS            : 27.586207 %
+
+278 words total

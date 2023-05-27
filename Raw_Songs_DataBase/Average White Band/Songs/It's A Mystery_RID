@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    inside here here beside over beside
+SECONDARY:ABSTRACTION                                            5
+    choice understand why know cause
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when now when
+PRIMARY:SENSATION:VISION                                         3
+    see seeing see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call speak
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    mystery mystery
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:AFFECTION                                               1
+    loving
+
+PRIMARY             : 48.275862 %
+SECONDARY           : 41.379310 %
+EMOTIONS            : 10.344828 %
+
+116 words total

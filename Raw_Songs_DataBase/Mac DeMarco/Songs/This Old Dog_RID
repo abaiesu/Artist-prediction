@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    sometimes sometimes times times old old often old old
+SECONDARY:ABSTRACTION                                            5
+    may may know tends decides
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long long long long
+EMOTIONS:AGGRESSION                                              2
+    beating beating
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    chest chest
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 37.931034 %
+SECONDARY           : 51.724138 %
+EMOTIONS            : 10.344828 %
+
+137 words total

@@ -1,0 +1,52 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when again when now old months time when now week
+SECONDARY:ABSTRACTION                                            7
+    think judge thinking them them know plant
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    spoke called saying say talking saying call
+PRIMARY:SENSATION:VISION                                         5
+    seen see seen watch see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    work worked harvest won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    places off off at
+EMOTIONS:AGGRESSION                                              3
+    beat tortured tore
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    growing grown grow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    weary slowly drifting
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    sailors wander sailor
+PRIMARY:SENSATION:SOUND                                          2
+    heart hearts
+EMOTIONS:AFFECTION                                               2
+    friends like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heads skin
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:SENSATION:HARD                                           1
+    solid
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shores
+PRIMARY:NEED:ORALITY                                             1
+    lunch
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 44.615385 %
+EMOTIONS            : 9.230769 %
+
+348 words total

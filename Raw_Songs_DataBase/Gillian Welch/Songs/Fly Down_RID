@@ -1,0 +1,40 @@
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  10
+    fly fly fly fly fly fly fly fly fly fly
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    close side at back at
+SECONDARY:TEMPORAL REFERENCES                                    4
+    times once once again
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    knee hand knee
+PRIMARY:SENSATION:VISION                                         2
+    light light
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comfort comfort
+PRIMARY:SENSATION:SOFT                                           2
+    gentle gentle
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    callin meet
+EMOTIONS:SADNESS                                                 2
+    wail sorrow
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doorway
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:AGGRESSION                                              1
+    beating
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:AFFECTION                                               1
+    friend
+
+PRIMARY             : 68.292683 %
+SECONDARY           : 21.951220 %
+EMOTIONS            : 9.756098 %
+
+149 words total

@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancer sing
+EMOTIONS:AGGRESSION                                              2
+    break shoot
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:NEED:SEX                                                 1
+    prostitute
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:COLD                                           1
+    polaroid
+EMOTIONS:SADNESS                                                 1
+    frown
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:SENSATION:VISION                                         1
+    star
+EMOTIONS:GLORY                                                   1
+    heroin
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 42.857143 %
+
+123 words total

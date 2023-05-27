@@ -1,0 +1,44 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    record succeed finish craftsman
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time time past
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    layers far apart
+SECONDARY:ABSTRACTION                                            3
+    planet plan belief
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    wings spring
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    walls stairs
+EMOTIONS:SADNESS                                                 2
+    grief grief
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hung trees
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:AGGRESSION                                              1
+    betrayal
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:ANXIETY                                                 1
+    worries
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+EMOTIONS:GLORY                                                   1
+    exhibited
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promised
+PRIMARY:SENSATION:VISION                                         1
+    lights
+
+PRIMARY             : 42.424242 %
+SECONDARY           : 39.393939 %
+EMOTIONS            : 18.181818 %
+
+144 words total

@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    reply speak reply reply calling say reply asks answer reply reply calling
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time time time till time time year year time time
+EMOTIONS:GLORY                                                   3
+    golden crown wondered
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    trees hill sky
+SECONDARY:ABSTRACTION                                            3
+    thought why why
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    heat sun
+PRIMARY:SENSATION:VISION                                         2
+    looked look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    behind here
+EMOTIONS:AFFECTION                                               2
+    goodbye goodbye
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reached
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sigh
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    roadside
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 30.434783 %
+SECONDARY           : 56.521739 %
+EMOTIONS            : 13.043478 %
+
+177 words total

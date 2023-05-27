@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say asked say say say say say say
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when old ever now
+SECONDARY:ABSTRACTION                                            3
+    suppose themselves why
+EMOTIONS:ANXIETY                                                 2
+    scared scared
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:GLORY                                                   1
+    extreme
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+
+PRIMARY             : 16.666667 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 16.666667 %
+
+177 words total

@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                           26
+    real knew know may know real know may know real know real know real know real know real know real know real know real real real
+SECONDARY:TEMPORAL REFERENCES                                   18
+    time today time time now every time time now time time time time time time time time time
+PRIMARY:SENSATION:VISION                                         5
+    saw star shining bright star
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    confess say
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    sway
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 82.539683 %
+EMOTIONS            : 3.174603 %
+
+324 words total

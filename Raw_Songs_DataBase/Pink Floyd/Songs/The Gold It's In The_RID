@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    along over across places close far distant
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say tell say
+SECONDARY:ABSTRACTION                                            4
+    cause something knows may
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make find count
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands faces eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride sail journey
+PRIMARY:SENSATION:VISION                                         2
+    looking see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time everybody
+EMOTIONS:AFFECTION                                               1
+    friends
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrills
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+EMOTIONS:AGGRESSION                                              1
+    kicks
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:SENSATION:SOUND                                          1
+    sounding
+
+PRIMARY             : 56.410256 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 10.256410 %
+
+145 words total

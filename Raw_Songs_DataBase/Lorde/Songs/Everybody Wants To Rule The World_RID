@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    while everybody ever everybody while when everybody everybody everybody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back back where behind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find make won find
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    help help pleasure
+EMOTIONS:SADNESS                                                 2
+    remorse sad
+SECONDARY:ABSTRACTION                                            2
+    decide almost
+EMOTIONS:AFFECTION                                               1
+    welcome
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumbling
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+
+PRIMARY             : 32.352941 %
+SECONDARY           : 55.882353 %
+EMOTIONS            : 11.764706 %
+
+128 words total

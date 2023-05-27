@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:SOUND                                         13
+    heart heart heart heart heart heart heart heart heart heart heart heart heart
+EMOTIONS:AFFECTION                                              12
+    love like love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time when when when when
+EMOTIONS:AGGRESSION                                              5
+    strike break break break break
+SECONDARY:MORAL IMPERATIVE                                       5
+    should should should should should
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        4
+    forever forever forever forever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find make won
+PRIMARY:SENSATION:VISION                                         2
+    lightning seen
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    hypnotized
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    closer
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+
+PRIMARY             : 44.067797 %
+SECONDARY           : 25.423729 %
+EMOTIONS            : 30.508475 %
+
+361 words total

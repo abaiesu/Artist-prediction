@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              12
+    like love like love like love like love love like love like
+SECONDARY:ABSTRACTION                                           10
+    think know why think know different think know think know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time everyday when everything then
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    asking saying say ask say saying
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won try tried
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream dream dream dream
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy satisfied
+PRIMARY:NEED:SEX                                                 2
+    sexy sexy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play game
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 17.307692 %
+SECONDARY           : 51.923077 %
+EMOTIONS            : 30.769231 %
+
+356 words total

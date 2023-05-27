@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                         9
+    watch light seen noticed shining light seen noticed shining
+SECONDARY:ABSTRACTION                                            9
+    cause know cause think cause know cause cause understand
+SECONDARY:TEMPORAL REFERENCES                                    8
+    every then time time then then when then
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    walls walls walls walls
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes hand
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+EMOTIONS:AGGRESSION                                              3
+    break break break
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall lean
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreaming crazy
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    underneath underneath
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying trying
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    telling call
+SECONDARY:MORAL IMPERATIVE                                       2
+    shoulder right
+EMOTIONS:ANXIETY                                                 1
+    troubled
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:RESTRAINT                                              1
+    shut
+
+PRIMARY             : 44.067797 %
+SECONDARY           : 40.677966 %
+EMOTIONS            : 15.254237 %
+
+306 words total

@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    6
+    low valley low valley low valley
+EMOTIONS:AFFECTION                                               6
+    loved loved loved love sympathy loved
+EMOTIONS:SADNESS                                                 6
+    sorrow sorrow sorrow sorrow sorrow sorrow
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when now now now
+SECONDARY:ABSTRACTION                                            4
+    tenderly knows knows knows
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleeps sleeps sleeps
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where where where
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    wild wild wild
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:NEED:ORALITY                                             1
+    milk
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    spoke
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    paid
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 23.913043 %
+EMOTIONS            : 32.608696 %
+
+157 words total

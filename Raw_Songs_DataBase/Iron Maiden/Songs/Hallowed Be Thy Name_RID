@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when past time clock time when when now when time then
+SECONDARY:ABSTRACTION                                            8
+    cause why believe why believe truth know understand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at at out near away close at here
+SECONDARY:RESTRAINT                                              5
+    bars stop stop guards catch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sights screaming cries
+EMOTIONS:ANXIETY                                                 3
+    terror afraid worry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy dream dreaming
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please tell speak
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying drifts
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    hallowed hallowed
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:SOUND                                          1
+    bell
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 11.666667 %
+
+274 words total

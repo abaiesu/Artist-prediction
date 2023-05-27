@@ -1,0 +1,40 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                   12
+    low low low low low bottom deep low low low low low
+PRIMARY:SENSATION:VISION                                         6
+    light blue see light shine blue
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+EMOTIONS:SADNESS                                                 4
+    lonesome lonesome lonesome lonesome
+SECONDARY:ABSTRACTION                                            4
+    cause cause know cause
+EMOTIONS:AGGRESSION                                              3
+    whippoorwill broken hit
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    side here where
+PRIMARY:SENSATION:SOUND                                          2
+    buzz ring
+PRIMARY:SENSATION:HARD                                           2
+    stone rock
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything ever
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:TASTE                                          1
+    tangled
+
+PRIMARY             : 58.000000 %
+SECONDARY           : 16.000000 %
+EMOTIONS            : 26.000000 %
+
+187 words total

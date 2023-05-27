@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:COLD                                           4
+    children children children children
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grown hunger hunger
+EMOTIONS:AFFECTION                                               2
+    like lovers
+PRIMARY:NEED:ORALITY                                             2
+    thirst thirst
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 12.500000 %
+EMOTIONS            : 18.750000 %
+
+124 words total

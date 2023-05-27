@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out back apart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead calm
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    appeals
+PRIMARY:NEED:ANALITY                                             1
+    shit
+EMOTIONS:AGGRESSION                                              1
+    kill
+PRIMARY:NEED:SEX                                                 1
+    fucking
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 15.789474 %
+
+128 words total

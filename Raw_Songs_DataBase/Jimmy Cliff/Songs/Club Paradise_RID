@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    place where back back here where place where out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make found find price make price find
+PRIMARY:SENSATION:TASTE                                          7
+    sweet sweet sweet sweet sweet sweet sweet
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:POSITIVE AFFECT                                         4
+    happy happy happy happy
+PRIMARY:SENSATION:HARD                                           3
+    rock harder rock
+PRIMARY:SENSATION:TOUCH                                          3
+    contact rub contact
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:ABSTRACTION                                            2
+    something something
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:NEED:ORALITY                                             1
+    coconut
+
+PRIMARY             : 51.020408 %
+SECONDARY           : 36.734694 %
+EMOTIONS            : 12.244898 %
+
+231 words total

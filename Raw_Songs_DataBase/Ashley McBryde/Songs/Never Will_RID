@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                            7
+    know knowin know knowin understand reasons know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where long far out out point out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    makes trade sell sell trade money trade
+SECONDARY:TEMPORAL REFERENCES                                    7
+    sometimes ago moment ever ever moment moment
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    playin playin play game play
+SECONDARY:RESTRAINT                                              4
+    bars control control control
+PRIMARY:SENSATION:VISION                                         4
+    star lights look see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    sayin sayin said said
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire fire fire
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head faces
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:SENSATION:HARD                                           1
+    hardest
+SECONDARY:ORDER                                                  1
+    listened
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowds
+EMOTIONS:GLORY                                                   1
+    fame
+SECONDARY:MORAL IMPERATIVE                                       1
+    honestly
+
+PRIMARY             : 36.206897 %
+SECONDARY           : 53.448276 %
+EMOTIONS            : 10.344828 %
+
+315 words total

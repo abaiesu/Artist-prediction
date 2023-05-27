@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    somewhere off out somewhere off close off somewhere off somewhere
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time when sometimes while when time when when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    crazy crazy wake wake wake wake
+EMOTIONS:SADNESS                                                 4
+    sad sad sad sad
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun sun sun sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    top top top
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes heels
+PRIMARY:SENSATION:VISION                                         2
+    green glistens
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive ride
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+EMOTIONS:AGGRESSION                                              1
+    fight
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sunglasses
+
+PRIMARY             : 68.085106 %
+SECONDARY           : 17.021277 %
+EMOTIONS            : 14.893617 %
+
+390 words total

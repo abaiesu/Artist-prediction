@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    off back long off place long
+EMOTIONS:AFFECTION                                               5
+    like love lovers like like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now time presently when
+SECONDARY:ABSTRACTION                                            4
+    something true know something
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try improve make
+PRIMARY:NEED:ANALITY                                             2
+    rot shit
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    premonitions sleeping
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lines streets
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ridge
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+SECONDARY:ORDER                                                  1
+    standard
+PRIMARY:NEED:SEX                                                 1
+    phallic
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 51.282051 %
+SECONDARY           : 35.897436 %
+EMOTIONS            : 12.820513 %
+
+158 words total

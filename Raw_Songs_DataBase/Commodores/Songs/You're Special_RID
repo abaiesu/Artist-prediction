@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              10
+    love friend love love kind kind kind kind kind kind
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every while when every time ever
+SECONDARY:ABSTRACTION                                            5
+    know supposed tenderly know knows
+PRIMARY:SENSATION:VISION                                         2
+    sunshine see
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:ORALITY                                             1
+    sugar
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+
+PRIMARY             : 24.242424 %
+SECONDARY           : 42.424242 %
+EMOTIONS            : 33.333333 %
+
+240 words total

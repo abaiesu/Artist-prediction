@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    back back behind long back back place side far out back back back place side back back place side
+SECONDARY:ABSTRACTION                                           12
+    proved know guess know sure true true knew guess know guess know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    make find find find find found sold bought find find find find
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ago time whenever once time whenever time whenever
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said said said said said said
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    ride ride ride ride
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreaming dreaming dreams dreams
+SECONDARY:ORDER                                                  3
+    simpler simpler simpler
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:VISION                                         1
+    star
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 37.179487 %
+SECONDARY           : 56.410256 %
+EMOTIONS            : 6.410256 %
+
+534 words total

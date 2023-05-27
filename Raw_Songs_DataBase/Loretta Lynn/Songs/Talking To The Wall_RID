@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    talking say talking tell talking say talking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long at back long long at
+SECONDARY:TEMPORAL REFERENCES                                    5
+    already when every time time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    wall wall wall wall
+SECONDARY:ABSTRACTION                                            4
+    known why cause know
+EMOTIONS:AFFECTION                                               2
+    goodbye friends
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 53.125000 %
+EMOTIONS            : 9.375000 %
+
+143 words total

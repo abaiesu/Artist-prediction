@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              16
+    love love love love love love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    called called explain called called
+SECONDARY:ABSTRACTION                                            5
+    understand cause know know understand
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    crazy crazy crazy crazy
+PRIMARY:SENSATION:VISION                                         4
+    scene scene scene scene
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work try work
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:ANXIETY                                                 1
+    shy
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 20.408163 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 36.734694 %
+
+127 words total

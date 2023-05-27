@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    position out out circle out out position out out
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    fade fade fade fade fade fade
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again again again again again
+PRIMARY:NEED:ORALITY                                             3
+    swallow eggs swallow
+PRIMARY:SENSATION:VISION                                         2
+    blue see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands eyes
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under under
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead death
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:TOUCH                                          1
+    touching
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    machine
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    communicate
+SECONDARY:ABSTRACTION                                            1
+    thoughts
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+EMOTIONS:AGGRESSION                                              1
+    fight
+
+PRIMARY             : 69.047619 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 9.523810 %
+
+121 words total

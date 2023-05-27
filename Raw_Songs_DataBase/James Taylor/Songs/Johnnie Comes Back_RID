@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    week today again again again again again again now again again again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at back back back where where back back back long back back
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said please said say said please said please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying counting use won
+PRIMARY:SENSATION:VISION                                         3
+    watching watching flashing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eye chest
+EMOTIONS:AGGRESSION                                              3
+    rob fighting despise
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door line
+SECONDARY:ABSTRACTION                                            2
+    learn guess
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:SENSATION:SOUND                                          1
+    banging
+PRIMARY:NEED:ORALITY                                             1
+    meals
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 41.071429 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 8.928571 %
+
+221 words total

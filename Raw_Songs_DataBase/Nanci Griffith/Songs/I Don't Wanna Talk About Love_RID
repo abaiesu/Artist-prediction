@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    talk talks talk talk talk talk talk talk talk talk talk calls talk say call
+EMOTIONS:AFFECTION                                              11
+    love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when everytime yesterdays yesterday then now now now now when
+PRIMARY:SENSATION:SOUND                                          9
+    heard loud hear heart voice hear voice heart voice
+SECONDARY:ABSTRACTION                                            4
+    cause think think cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away out middle
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    shouting shout
+PRIMARY:SENSATION:COLD                                           2
+    winter cold
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    washing rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    traveling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+EMOTIONS:AGGRESSION                                              1
+    breaking
+
+PRIMARY             : 29.032258 %
+SECONDARY           : 48.387097 %
+EMOTIONS            : 22.580645 %
+
+228 words total

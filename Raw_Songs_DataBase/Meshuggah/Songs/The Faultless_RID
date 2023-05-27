@@ -1,0 +1,38 @@
+EMOTIONS:AGGRESSION                                              8
+    violence injurious weapons weapons cuts wounds gashes betrayal
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game play
+PRIMARY:NEED:ORALITY                                             2
+    spiteful tongue
+SECONDARY:ORDER                                                  2
+    arranged divide
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    occupy resulting
+PRIMARY:SENSATION:VISION                                         2
+    see saw
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly wings
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+SECONDARY:ABSTRACTION                                            1
+    deliberate
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    wide
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    veil
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreak
+EMOTIONS:SADNESS                                                 1
+    despair
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 17.241379 %
+EMOTIONS            : 37.931034 %
+
+91 words total

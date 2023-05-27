@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    inside out outside along out inside
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever already ever ever
+SECONDARY:ABSTRACTION                                            3
+    know cause knew
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    speak say depending
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    submission submission silently
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carry won
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rise rise
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    beneath beneath
+PRIMARY:NEED:ANALITY                                             2
+    soil soil
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair blood
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever endless
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+SECONDARY:RESTRAINT                                              1
+    interfere
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmth
+PRIMARY:SENSATION:SOFT                                           1
+    whispering
+
+PRIMARY             : 64.864865 %
+SECONDARY           : 35.135135 %
+EMOTIONS            : 0.000000 %
+
+183 words total

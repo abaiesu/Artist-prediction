@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              14
+    cherish cherish cherish cherish cherish cherish like like like cherish cherish cherish cherish cherish
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say describe told share share share say say say describe told
+SECONDARY:TEMPORAL REFERENCES                                    9
+    times times times time then when times times times
+SECONDARY:ABSTRACTION                                            8
+    know know know schemes think know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here inside out here inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    applies found make make make
+PRIMARY:SENSATION:SOUND                                          3
+    heart sound hear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face hand eyes
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         2
+    see gaze
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest lies
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 26.865672 %
+SECONDARY           : 52.238806 %
+EMOTIONS            : 20.895522 %
+
+321 words total

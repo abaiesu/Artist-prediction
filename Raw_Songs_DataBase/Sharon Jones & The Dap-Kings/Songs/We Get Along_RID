@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    along along along along along inside along along along along along
+SECONDARY:ABSTRACTION                                            9
+    know know prove know know know know know know
+EMOTIONS:SADNESS                                                 7
+    sorrows sorrows pain sorrow pain sorrows sorrows
+EMOTIONS:AGGRESSION                                              6
+    strife strife strife strife wars fighting
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time often again again again
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    candle sun
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:NEED:ORALITY                                             1
+    brewin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 39.130435 %
+SECONDARY           : 32.608696 %
+EMOTIONS            : 28.260870 %
+
+270 words total

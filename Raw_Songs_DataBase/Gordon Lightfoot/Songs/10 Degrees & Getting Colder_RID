@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away where back out point back off over off
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said sayin talked told told please
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when then when now ever today
+PRIMARY:SENSATION:SOUND                                          3
+    heard musician heard
+PRIMARY:SENSATION:COLD                                           3
+    colder frozen colder
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    dam dam dam
+EMOTIONS:AFFECTION                                               3
+    lovin friend loved
+SECONDARY:ABSTRACTION                                            3
+    know know almost
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway higher
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driver ride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road line
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell sinkin
+SECONDARY:MORAL IMPERATIVE                                       2
+    shoulders shoulder
+SECONDARY:ORDER                                                  2
+    listenin listen
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    traded won
+EMOTIONS:GLORY                                                   1
+    famous
+EMOTIONS:ANXIETY                                                 1
+    troubles
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 8.928571 %
+
+243 words total

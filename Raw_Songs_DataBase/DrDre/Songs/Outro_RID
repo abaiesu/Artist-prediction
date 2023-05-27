@@ -1,0 +1,12 @@
+SECONDARY:ABSTRACTION                                            2
+    real know
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:RESTRAINT                                              1
+    prescribe
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 75.000000 %
+EMOTIONS            : 25.000000 %
+
+42 words total

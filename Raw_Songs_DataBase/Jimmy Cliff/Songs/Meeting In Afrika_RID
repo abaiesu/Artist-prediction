@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       21
+    meeting meeting meeting meeting meeting meeting talk say meeting meeting meeting calling meeting meeting meeting assured meeting meeting meeting tell meet
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today every today today today
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear ring ring
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    across east west out
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    yellow sing sing
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain oceans
+EMOTIONS:AFFECTION                                               2
+    love friends
+PRIMARY:SENSATION:COLD                                           2
+    children children
+SECONDARY:RESTRAINT                                              1
+    boundary
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    vibration
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    success
+
+PRIMARY             : 31.250000 %
+SECONDARY           : 58.333333 %
+EMOTIONS            : 10.416667 %
+
+228 words total

@@ -1,0 +1,26 @@
+SECONDARY:RESTRAINT                                             24
+    obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey obey
+EMOTIONS:AFFECTION                                              15
+    love love love love love love love love love love love love love love love
+SECONDARY:MORAL IMPERATIVE                                      15
+    law law law law law law law law law law law law law law law
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    business business lesson make gain business business aim aim lesson make gain
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say say say say say say commit explain say say say
+SECONDARY:ABSTRACTION                                            6
+    learn learn know know know learn
+EMOTIONS:GLORY                                                   4
+    greater greater greater greater
+EMOTIONS:SADNESS                                                 4
+    suffer suffer pain suffer
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everyone everyone everyone
+EMOTIONS:AGGRESSION                                              1
+    destruction
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 74.736842 %
+EMOTIONS            : 25.263158 %
+
+271 words total

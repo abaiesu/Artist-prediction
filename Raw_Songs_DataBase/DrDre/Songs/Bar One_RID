@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here over here out out here here out
+PRIMARY:SENSATION:VISION                                         6
+    looking look look look look look
+PRIMARY:NEED:ORALITY                                             5
+    drink apple drunk thirsty drunken
+PRIMARY:NEED:SEX                                                 5
+    fuck fuck bitches fuckable fuckable
+PRIMARY:NEED:ANALITY                                             4
+    shit shit shit shit
+PRIMARY:SENSATION:COLD                                           3
+    chill chill chill
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    bar
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 88.571429 %
+SECONDARY           : 8.571429 %
+EMOTIONS            : 2.857143 %
+
+128 words total

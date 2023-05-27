@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                              4
+    broken fighting fighting fighting
+SECONDARY:ABSTRACTION                                            4
+    know believing know believing
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right shoulder
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    beside here over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find won won
+SECONDARY:RESTRAINT                                              3
+    stop stop stop
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answer
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 25.806452 %
+SECONDARY           : 58.064516 %
+EMOTIONS            : 16.129032 %
+
+231 words total

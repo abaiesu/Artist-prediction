@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:SOUND                                          6
+    heart heard music music heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won find won find won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where where where over
+PRIMARY:SENSATION:VISION                                         4
+    seen green see see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    spring flight wings wings
+SECONDARY:ABSTRACTION                                            4
+    know them know them
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    journeying riding riding
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tell
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mist shadows
+EMOTIONS:SADNESS                                                 2
+    lonely sad
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    faint crazy
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    valley
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+EMOTIONS:GLORY                                                   1
+    wonderful
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    serenading
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 24.444444 %
+EMOTIONS            : 8.888889 %
+
+157 words total

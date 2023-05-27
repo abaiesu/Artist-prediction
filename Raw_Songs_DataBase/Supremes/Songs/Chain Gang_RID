@@ -1,0 +1,36 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 13
+    workin workin workin workin work workin workin workin work workin workin work work
+PRIMARY:SENSATION:SOUND                                         11
+    hear sound sound sound sound hear hear sound sound sound sound
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    sayin saying say saying saying
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long long away here long
+SECONDARY:ABSTRACTION                                            4
+    know know them know
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+SECONDARY:TEMPORAL REFERENCES                                    3
+    till then while
+EMOTIONS:SADNESS                                                 2
+    frown moaning
+EMOTIONS:AFFECTION                                               2
+    love dear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highways
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:NEED:ORALITY                                             1
+    thirsty
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 48.148148 %
+EMOTIONS            : 7.407407 %
+
+233 words total

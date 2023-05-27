@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    head head head head head head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart apart apart apart
+EMOTIONS:AFFECTION                                               3
+    bosom beloved like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    yearning then year
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+EMOTIONS:GLORY                                                   2
+    gold gold
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    wing winged
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    claim sell
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highest
+PRIMARY:SENSATION:VISION                                         1
+    gaze
+PRIMARY:NEED:ORALITY                                             1
+    starved
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+
+PRIMARY             : 54.838710 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 22.580645 %
+
+132 words total

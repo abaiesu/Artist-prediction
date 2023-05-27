@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              10
+    sympathetic love love like love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every when when time when instantaneously instantaneously
+SECONDARY:ABSTRACTION                                            6
+    problem know understands know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at away behind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try make
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 9.090909 %
+SECONDARY           : 51.515152 %
+EMOTIONS            : 39.393939 %
+
+233 words total

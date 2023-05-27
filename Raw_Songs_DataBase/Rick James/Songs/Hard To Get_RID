@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:HARD                                          13
+    hard hard hard hard hard hard hard hard hard hard hard hard hard
+EMOTIONS:AFFECTION                                              10
+    love romance kind love love lovin lovin love lovin love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when every when ever when every time
+SECONDARY:ABSTRACTION                                            5
+    cause cause why why cause
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    hot hot hot hot
+PRIMARY:NEED:SEX                                                 3
+    sexy sex sexy
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    treat appeal treat
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance sing sing
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rainbow wet
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:AGGRESSION                                              1
+    steal
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+
+PRIMARY             : 45.614035 %
+SECONDARY           : 29.824561 %
+EMOTIONS            : 24.561404 %
+
+459 words total

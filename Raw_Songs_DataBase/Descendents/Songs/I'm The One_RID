@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here along at here along long here along here along here along
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    tell call said say treats say said sayin said
+SECONDARY:MORAL IMPERATIVE                                       7
+    shoulder shoulder right right shoulder shoulder shoulder
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every time everything ever then
+SECONDARY:ABSTRACTION                                            4
+    knows truth know think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    finish picks use
+EMOTIONS:AFFECTION                                               3
+    friends sympathy love
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 28.888889 %
+SECONDARY           : 62.222222 %
+EMOTIONS            : 8.888889 %
+
+292 words total

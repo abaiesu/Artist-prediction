@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    said talked talked said spoke talked shelter said spoke
+PRIMARY:SENSATION:VISION                                         6
+    saw blue image saw lights image
+SECONDARY:TEMPORAL REFERENCES                                    5
+    yesterday now time now time
+EMOTIONS:AFFECTION                                               4
+    liked liked liked like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out round back away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand eyes hand
+SECONDARY:ABSTRACTION                                            2
+    think think
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    blurred blurred
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky roof
+PRIMARY:SENSATION:COLD                                           2
+    cold winter
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:ORDER                                                  1
+    listened
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 36.956522 %
+EMOTIONS            : 10.869565 %
+
+180 words total

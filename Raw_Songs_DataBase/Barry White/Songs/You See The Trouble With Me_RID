@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         6
+    see see see see see see
+EMOTIONS:ANXIETY                                                 5
+    trouble trouble trouble trouble trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    drive drive drive drive drive
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    crazy crazy crazy crazy crazy
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:SOUND                                          2
+    deaf hear
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 6.060606 %
+EMOTIONS            : 30.303030 %
+
+188 words total

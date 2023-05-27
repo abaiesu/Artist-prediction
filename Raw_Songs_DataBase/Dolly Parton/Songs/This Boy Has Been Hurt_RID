@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                              7
+    broken broke killed broken hurt hurt hurt
+PRIMARY:SENSATION:VISION                                         6
+    saw see blue see scene looking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    picking trying mend make
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over over back at
+SECONDARY:ABSTRACTION                                            3
+    almost them them
+EMOTIONS:AFFECTION                                               2
+    lover love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everywhere again
+SECONDARY:RESTRAINT                                              1
+    stopped
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 30.555556 %
+
+149 words total

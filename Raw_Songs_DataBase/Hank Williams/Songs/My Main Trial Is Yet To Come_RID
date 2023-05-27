@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over at here
+SECONDARY:ABSTRACTION                                            3
+    judge judge know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+SECONDARY:RESTRAINT                                              1
+    prison
+PRIMARY:SENSATION:VISION                                         1
+    watching
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 5.555556 %
+
+76 words total

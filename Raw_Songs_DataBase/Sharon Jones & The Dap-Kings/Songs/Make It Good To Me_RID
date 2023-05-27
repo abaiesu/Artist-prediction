@@ -1,0 +1,38 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 16
+    make make used won making make used make used make used make make make make make
+SECONDARY:TEMPORAL REFERENCES                                   11
+    tonight ever tonight hour past time old times sometimes ever ever
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell say talk say mention assist said said said said
+SECONDARY:ABSTRACTION                                            7
+    know know know them may know may
+EMOTIONS:AFFECTION                                               5
+    friends affection darlin darlin darlin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where over here
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:SENSATION:SOUND                                          3
+    hear heard heart
+EMOTIONS:SADNESS                                                 2
+    pain sorrow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+EMOTIONS:ANXIETY                                                 1
+    worries
+EMOTIONS:AGGRESSION                                              1
+    harms
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:COLD                                           1
+    numb
+
+PRIMARY             : 19.402985 %
+SECONDARY           : 67.164179 %
+EMOTIONS            : 13.432836 %
+
+319 words total

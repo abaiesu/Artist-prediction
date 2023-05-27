@@ -1,0 +1,52 @@
+PRIMARY:SENSATION:VISION                                         5
+    saw colours seen see see
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while times now now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    walls streets floor
+SECONDARY:RESTRAINT                                              3
+    stop stop stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    wide round round
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell help help
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood face
+PRIMARY:NEED:ORALITY                                             2
+    eat guts
+EMOTIONS:GLORY                                                   2
+    pride victory
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+SECONDARY:ABSTRACTION                                            2
+    knows knows
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging hanging
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+EMOTIONS:AGGRESSION                                              1
+    breaking
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    littered
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    burying
+PRIMARY:SENSATION:SOUND                                          1
+    chorus
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+EMOTIONS:AFFECTION                                               1
+    loves
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+
+PRIMARY             : 59.090909 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 13.636364 %
+
+222 words total

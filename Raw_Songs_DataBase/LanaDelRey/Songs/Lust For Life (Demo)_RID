@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    off off off off off off off off off off off off off off off off off off
+PRIMARY:ICARIAN IMAGERY:WATER                                   12
+    swimming pool swimming pool swimming pool swimming pool swimming pool swimming pool
+PRIMARY:NEED:SEX                                                12
+    lust lust lust lust lust lust lust lust lust lust lust lust
+EMOTIONS:POSITIVE AFFECT                                         9
+    fun funny funny fun fun funny funny funny funny
+SECONDARY:TEMPORAL REFERENCES                                    8
+    hour now tonight hour now now hour now
+SECONDARY:RESTRAINT                                              7
+    caged stopped caged caged caged caged caged
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            6
+    wild wild wild wild wild wild
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say meeting say
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    stranger stranger stranger
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying trying trying
+EMOTIONS:ANXIETY                                                 3
+    avoid avoid avoid
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 56.382979 %
+SECONDARY           : 24.468085 %
+EMOTIONS            : 19.148936 %
+
+362 words total

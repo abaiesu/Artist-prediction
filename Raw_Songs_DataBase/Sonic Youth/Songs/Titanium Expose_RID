@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                        10
+    see see blue see see see see looking see see
+PRIMARY:NEED:ORALITY                                             8
+    sugar sugar sugar sugar sugar sugar sugar sugar
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now now now now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    waking dreaming
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes head
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile funny
+PRIMARY:SENSATION:COLD                                           2
+    freezin wintertime
+SECONDARY:ABSTRACTION                                            2
+    why know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    open
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sights
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystery
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 70.731707 %
+SECONDARY           : 19.512195 %
+EMOTIONS            : 9.756098 %
+
+164 words total

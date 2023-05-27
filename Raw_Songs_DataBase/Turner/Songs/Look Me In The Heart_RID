@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                        23
+    look look see look look spy looking look look see look look look look see look look look look see look look look
+PRIMARY:SENSATION:SOUND                                         18
+    heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    tried tried try try make used make
+SECONDARY:ABSTRACTION                                            7
+    think why think tender know think think
+EMOTIONS:AFFECTION                                               7
+    love like love love like love love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    asleep crazy crazy crazy crazy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    close further apart
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk say said
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when past again
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:NEED:ORALITY                                             1
+    throats
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 65.432099 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 8.641975 %
+
+314 words total

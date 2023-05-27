@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                              16
+    lovin love lovin lovin love lovin lovin love lovin love lovin love lovin lovin love lovin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make make makin make make
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfaction
+SECONDARY:ABSTRACTION                                            1
+    cause
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 38.709677 %
+EMOTIONS            : 61.290323 %
+
+290 words total

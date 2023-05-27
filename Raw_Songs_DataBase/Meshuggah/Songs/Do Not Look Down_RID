@@ -1,0 +1,38 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    goals attain claims product reach goals use product
+PRIMARY:SENSATION:VISION                                         8
+    picture shimmering gleam seen look look shimmering gleam
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where where out surface length surface
+SECONDARY:RESTRAINT                                              3
+    obstacles obstructions conformity
+SECONDARY:ABSTRACTION                                            3
+    may theme truth
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    approve imitation commit
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies secure lies
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line path
+EMOTIONS:AGGRESSION                                              2
+    strife betray
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now then
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:NEED:SEX                                                 1
+    lustrous
+EMOTIONS:GLORY                                                   1
+    great
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:ANXIETY                                                 1
+    avoid
+
+PRIMARY             : 48.936170 %
+SECONDARY           : 40.425532 %
+EMOTIONS            : 10.638298 %
+
+174 words total

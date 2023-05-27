@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:ABSTRACTION                                            7
+    true know knew true know true know
+PRIMARY:SENSATION:COLD                                           3
+    snow snow snow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found found
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out place
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when time
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    valleys below
+SECONDARY:MORAL IMPERATIVE                                       2
+    should ought
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    weary
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+
+PRIMARY             : 34.285714 %
+SECONDARY           : 45.714286 %
+EMOTIONS            : 20.000000 %
+
+162 words total

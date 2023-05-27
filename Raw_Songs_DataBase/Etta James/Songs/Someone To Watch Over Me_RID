@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    saying says told tell tell please follow tell please follow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where longin out over over over over over
+PRIMARY:SENSATION:VISION                                         7
+    looking see watch watch watch watch watch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find found carries won won
+SECONDARY:ABSTRACTION                                            5
+    certain think know may think
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old often everywhere ever
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handsome
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 39.534884 %
+SECONDARY           : 55.813953 %
+EMOTIONS            : 4.651163 %
+
+195 words total

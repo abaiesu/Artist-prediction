@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    near away near here near away near here near away near here
+SECONDARY:ABSTRACTION                                            4
+    understand cause know decided
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used make used used
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful attention
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing games
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+SECONDARY:TEMPORAL REFERENCES                                    1
+    occasional
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AGGRESSION                                              1
+    cruel
+
+PRIMARY             : 54.285714 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 11.428571 %
+
+206 words total

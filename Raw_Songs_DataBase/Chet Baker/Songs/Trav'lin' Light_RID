@@ -1,0 +1,20 @@
+PRIMARY:SENSATION:VISION                                         7
+    light light light see light see light
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now again then again then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away back back
+SECONDARY:ABSTRACTION                                            2
+    may may
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:AFFECTION                                               1
+    goodbye
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 4.761905 %
+
+97 words total

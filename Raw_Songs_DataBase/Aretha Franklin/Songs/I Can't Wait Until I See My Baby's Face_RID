@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         8
+    see see look look see see see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    face eyes face face face face face
+SECONDARY:ABSTRACTION                                            5
+    cause cause know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    round away away out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try make find
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:AFFECTION                                               1
+    goodbye
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 54.285714 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 11.428571 %
+
+213 words total

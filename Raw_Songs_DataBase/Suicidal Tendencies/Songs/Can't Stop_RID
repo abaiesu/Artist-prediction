@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    place far here close round here out place space overtakes away out place far here close
+SECONDARY:RESTRAINT                                             16
+    stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop
+SECONDARY:ABSTRACTION                                           12
+    know them why know know something them them them facts them them
+SECONDARY:TEMPORAL REFERENCES                                    9
+    then time now now now now time now time
+EMOTIONS:AGGRESSION                                              7
+    fighting fight break fight fighting hate hate
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes body face body eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try try make try
+PRIMARY:SENSATION:VISION                                         4
+    look see seen see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    consensus say talking help
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wander ride
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+EMOTIONS:ANXIETY                                                 1
+    scares
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    hypnotized
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ORDER                                                  1
+    consistency
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 34.444444 %
+SECONDARY           : 53.333333 %
+EMOTIONS            : 12.222222 %
+
+395 words total

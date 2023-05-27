@@ -1,0 +1,44 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       10
+    slow slow slow slow slow slow slow lie slow slow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make find find find try
+SECONDARY:ABSTRACTION                                            5
+    something prove sure true believe
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once past when
+PRIMARY:NEED:ORALITY                                             3
+    fast quenching thirst
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treat tell
+PRIMARY:SENSATION:VISION                                         2
+    see looks
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    fence
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    hazey
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusing
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 52.272727 %
+SECONDARY           : 38.636364 %
+EMOTIONS            : 9.090909 %
+
+208 words total

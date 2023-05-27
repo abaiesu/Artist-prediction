@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            7
+    know know know learned know learned know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find find find find try
+PRIMARY:SENSATION:HARD                                           3
+    harder hard hard
+PRIMARY:SENSATION:ODOR                                           3
+    breathe breathe breathe
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistakes mistakes
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              2
+    break break
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing playing
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    sail sail
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every time
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 40.625000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 15.625000 %
+
+178 words total

@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                           11
+    think think think think think think think think cause think cause
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    met say met met say say
+PRIMARY:SENSATION:VISION                                         4
+    blue green pictures see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    birds birds birds birds
+PRIMARY:SENSATION:SOFT                                           4
+    feather feather feather feather
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    front front
+PRIMARY:SENSATION:SOUND                                          2
+    heart drums
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:SENSATION:COLD                                           1
+    cool
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    haze
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shower
+
+PRIMARY             : 46.938776 %
+SECONDARY           : 44.897959 %
+EMOTIONS            : 8.163265 %
+
+264 words total

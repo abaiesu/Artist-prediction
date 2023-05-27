@@ -1,0 +1,48 @@
+EMOTIONS:AGGRESSION                                             16
+    condemned condemned destroy destroy condemned condemned condemned condemned condemned condemned condemned condemned condemned condemned condemned condemned
+PRIMARY:SENSATION:VISION                                         9
+    brightest glimpse light crimson moonbeam lights crimson moonbeam lights
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    7
+    low low below tunnel low tunnel low
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    search search search search warm
+PRIMARY:SENSATION:SOUND                                          4
+    noise sounds sounds hear
+PRIMARY:SENSATION:COLD                                           4
+    ice cold cold snow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    floors steps frame frame
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high above high above
+SECONDARY:ABSTRACTION                                            3
+    reason logical thought
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside out surrounds
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive journey
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silent slowly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake waking
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fog curtain
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    showers drips
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:SENSATION:HARD                                           1
+    splintered
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:SADNESS                                                 1
+    misery
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+
+PRIMARY             : 68.421053 %
+SECONDARY           : 6.578947 %
+EMOTIONS            : 25.000000 %
+
+184 words total

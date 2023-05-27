@@ -1,0 +1,46 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    sea river river waters river river sea
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    found found found found found found found
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where far where where
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meets answers meets
+PRIMARY:SENSATION:SOUND                                          3
+    sound sound hear
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when then then
+PRIMARY:SENSATION:COLD                                           2
+    north north
+EMOTIONS:AFFECTION                                               2
+    darling darling
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safe lie
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+SECONDARY:ABSTRACTION                                            2
+    true knows
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    path
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dive
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:HARD                                           1
+    solid
+SECONDARY:RESTRAINT                                              1
+    bound
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 8.695652 %
+
+156 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    longing here side out
+SECONDARY:ABSTRACTION                                            3
+    know certain knows
+EMOTIONS:AFFECTION                                               2
+    love lover
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die rest
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pouring shore
+SECONDARY:MORAL IMPERATIVE                                       1
+    honest
+SECONDARY:TEMPORAL REFERENCES                                    1
+    years
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talks
+PRIMARY:SENSATION:VISION                                         1
+    seen
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+EMOTIONS:AGGRESSION                                              1
+    wound
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 15.000000 %
+
+95 words total

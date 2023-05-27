@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              25
+    kind love like loves loving love loving love like loves loving love loving love friend love loves loving loves loving love loving love loving love
+SECONDARY:ABSTRACTION                                            8
+    sure cause know cause cause reason cause cause
+PRIMARY:SENSATION:VISION                                         4
+    seeing seeing seeing seeing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    above above above above
+PRIMARY:NEED:SEX                                                 4
+    kiss kiss kiss kiss
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside long longer
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met say
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    physically
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    crafted
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    accessory
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 30.508475 %
+SECONDARY           : 25.423729 %
+EMOTIONS            : 44.067797 %
+
+416 words total

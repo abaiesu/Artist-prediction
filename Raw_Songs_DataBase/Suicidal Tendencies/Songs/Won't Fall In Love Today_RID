@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            8
+    know true know true sure know know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today when everything time when
+EMOTIONS:AFFECTION                                               4
+    love love love like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won make
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 18.518519 %
+SECONDARY           : 62.962963 %
+EMOTIONS            : 18.518519 %
+
+125 words total

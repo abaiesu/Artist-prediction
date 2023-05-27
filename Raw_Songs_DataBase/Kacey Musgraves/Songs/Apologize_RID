@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       18
+    say tell tell say apologize said apologize say apologize said apologize apologize said apologize said apologize said apologize
+PRIMARY:SENSATION:SOUND                                          3
+    hearing sound heart
+EMOTIONS:AGGRESSION                                              3
+    cut shot beat
+EMOTIONS:AFFECTION                                               3
+    like loved like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet feet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off off
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then now
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+SECONDARY:ABSTRACTION                                            2
+    think think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+EMOTIONS:ANXIETY                                                 1
+    afraid
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 52.272727 %
+EMOTIONS            : 20.454545 %
+
+224 words total

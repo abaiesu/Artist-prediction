@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where out where place
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyes hand
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when while
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    spring sprung lift
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told lend
+EMOTIONS:AGGRESSION                                              2
+    fight cruel
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinks
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sail
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 24.242424 %
+EMOTIONS            : 12.121212 %
+
+116 words total

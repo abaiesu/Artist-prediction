@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    time time time now now time time once then when again till then time time time time
+SECONDARY:RESTRAINT                                             12
+    must must must must must must must must must must must must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    find find tried find find won find find find find
+PRIMARY:SENSATION:VISION                                         9
+    look look look look look look look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    further over here over further back long further further
+EMOTIONS:AFFECTION                                               5
+    kind kind love kind kind
+EMOTIONS:POSITIVE AFFECT                                         4
+    happiness happiness happiness happiness
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    line line line line
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    linger
+
+PRIMARY             : 34.246575 %
+SECONDARY           : 53.424658 %
+EMOTIONS            : 12.328767 %
+
+277 words total

@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    front front length front front front front length front front front front length front front
+EMOTIONS:AFFECTION                                               8
+    like like like like like like darling darling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    face face eyes face face face face
+EMOTIONS:SADNESS                                                 6
+    pain suffer suffer pain suffer suffer
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    dream dream dream dream dream dream
+SECONDARY:TEMPORAL REFERENCES                                    5
+    times times time time time
+SECONDARY:ABSTRACTION                                            4
+    learned learned learned learned
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall fallen fallen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    taught taught
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+EMOTIONS:AGGRESSION                                              2
+    kills kills
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    built
+
+PRIMARY             : 56.923077 %
+SECONDARY           : 18.461538 %
+EMOTIONS            : 24.615385 %
+
+264 words total

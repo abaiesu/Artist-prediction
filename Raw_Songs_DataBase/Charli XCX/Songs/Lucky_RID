@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away away along along along along along along along
+SECONDARY:ABSTRACTION                                            7
+    believe believe know knew knew knew knew
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    ask call tell ask call tell
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever ever ever
+EMOTIONS:AGGRESSION                                              2
+    breakin breakin
+EMOTIONS:AFFECTION                                               2
+    love loved
+PRIMARY:SENSATION:COLD                                           2
+    numb numb
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 51.612903 %
+EMOTIONS            : 12.903226 %
+
+229 words total

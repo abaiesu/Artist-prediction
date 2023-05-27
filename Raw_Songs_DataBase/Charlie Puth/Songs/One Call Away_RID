@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    away away out where away away along here where away away long away away away away
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    call call call call call call call call call call call
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now while when now when
+EMOTIONS:AFFECTION                                               4
+    friend love darling like
+SECONDARY:ABSTRACTION                                            4
+    know cause know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reaching make won
+EMOTIONS:ANXIETY                                                 2
+    scared worry
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 38.775510 %
+SECONDARY           : 46.938776 %
+EMOTIONS            : 14.285714 %
+
+264 words total

@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    say said taught say said call tell speak say call tell speak
+SECONDARY:ABSTRACTION                                            9
+    know knows cause something think know cause something think
+EMOTIONS:AFFECTION                                               6
+    friends like love like friends like
+PRIMARY:NEED:SEX                                                 6
+    seduce infatuated erotic seduce infatuated erotic
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make make make make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when now when now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    legs body legs body
+PRIMARY:NEED:ORALITY                                             4
+    lips juicy lips juicy
+SECONDARY:MORAL IMPERATIVE                                       4
+    ought right ought right
+SECONDARY:RESTRAINT                                              4
+    capture control capture control
+PRIMARY:SENSATION:SOUND                                          3
+    hear sound hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    exotic exotic
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+
+PRIMARY             : 31.343284 %
+SECONDARY           : 58.208955 %
+EMOTIONS            : 10.447761 %
+
+312 words total

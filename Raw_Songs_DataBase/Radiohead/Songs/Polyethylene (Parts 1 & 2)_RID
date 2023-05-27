@@ -1,0 +1,28 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    paid sell risk used sell obtain obtain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    round inside place middle surfaces
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now once
+EMOTIONS:ANXIETY                                                 2
+    scare scared
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:SENSATION:VISION                                         1
+    glow
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+SECONDARY:ORDER                                                  1
+    class
+SECONDARY:ABSTRACTION                                            1
+    believe
+
+PRIMARY             : 29.166667 %
+SECONDARY           : 58.333333 %
+EMOTIONS            : 12.500000 %
+
+124 words total

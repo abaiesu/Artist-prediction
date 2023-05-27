@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time older now past every year sometimes sometimes time every older
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    soldier soldier won won find
+SECONDARY:ABSTRACTION                                            4
+    know cause knows know
+PRIMARY:SENSATION:SOUND                                          4
+    drummer noise drummer heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep sleep sleeps
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    close over
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    beddy bed
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    says visit
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:HARD                                           2
+    brass brass
+PRIMARY:SENSATION:COLD                                           2
+    children child
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:RESTRAINT                                              1
+    stopped
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:AFFECTION                                               1
+    loving
+EMOTIONS:AGGRESSION                                              1
+    destroy
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+
+PRIMARY             : 42.553191 %
+SECONDARY           : 51.063830 %
+EMOTIONS            : 6.382979 %
+
+198 words total

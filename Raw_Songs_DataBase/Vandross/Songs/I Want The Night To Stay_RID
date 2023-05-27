@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    arms arms arms arms arms arms arms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    longer away here away longer here here
+EMOTIONS:AFFECTION                                               6
+    love love love love goodbye love
+SECONDARY:MORAL IMPERATIVE                                       5
+    should shouldn right right right
+SECONDARY:TEMPORAL REFERENCES                                    4
+    tonight tonight tonight tonight
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        4
+    forever forever forever forever
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dreaming awake
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+SECONDARY:ABSTRACTION                                            2
+    know true
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 57.446809 %
+SECONDARY           : 27.659574 %
+EMOTIONS            : 14.893617 %
+
+253 words total

@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell call call call call
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    lie lie silence lie lie
+EMOTIONS:POSITIVE AFFECT                                         4
+    joke joke joke joke
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time then then
+SECONDARY:MORAL IMPERATIVE                                       2
+    should shoulder
+SECONDARY:ABSTRACTION                                            2
+    believe believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try tried
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    front
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 15.384615 %
+
+107 words total

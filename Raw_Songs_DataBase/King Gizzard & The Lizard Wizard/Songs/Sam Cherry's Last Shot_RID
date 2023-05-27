@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    out out along nearly along off towards away surrounded at away out west out across
+SECONDARY:TEMPORAL REFERENCES                                    8
+    early immediately every then suddenly suddenly when instant
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    body body body bodies neck leg body arms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    found found found sold worked carry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    road trails road entrance line road
+EMOTIONS:AGGRESSION                                              6
+    cutting breaking shots tortures rage shot
+PRIMARY:NEED:ORALITY                                             4
+    cherry fast cherry fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead dead die
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    canyon canyon canyon
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    search fired
+SECONDARY:ABSTRACTION                                            2
+    evidence examined
+EMOTIONS:GLORY                                                   2
+    great extreme
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    traveled desert
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:POSITIVE AFFECT                                         1
+    excited
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    stream
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    followed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yelling
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:ANXIETY                                                 1
+    terrified
+PRIMARY:SENSATION:TOUCH                                          1
+    touching
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+
+PRIMARY             : 62.025316 %
+SECONDARY           : 22.784810 %
+EMOTIONS            : 15.189873 %
+
+306 words total

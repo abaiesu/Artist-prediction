@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at side side over at side over round side side at side
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    doorstep street step street street street street
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    sunny sunny sunny sunny sunny
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet feet feet
+EMOTIONS:GLORY                                                   3
+    rich gold gold
+EMOTIONS:ANXIETY                                                 2
+    worry afraid
+PRIMARY:SENSATION:SOUND                                          2
+    hear tune
+PRIMARY:SENSATION:VISION                                         2
+    blues blues
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    rover rover
+PRIMARY:SENSATION:HARD                                           2
+    rockfeller rockfeller
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    pitter
+EMOTIONS:AFFECTION                                               1
+    pat
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+SECONDARY:ABSTRACTION                                            1
+    cause
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+
+PRIMARY             : 79.166667 %
+SECONDARY           : 6.250000 %
+EMOTIONS            : 14.583333 %
+
+148 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long long long long long off long near
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy smile
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree cliff
+PRIMARY:NEED:ORALITY                                             2
+    cannibals lap
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:AFFECTION                                               2
+    lovin like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms neck
+PRIMARY:SENSATION:SOUND                                          2
+    bells ringling
+PRIMARY:NEED:SEX                                                 1
+    naked
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spine
+PRIMARY:SENSATION:SOFT                                           1
+    tingling
+EMOTIONS:AGGRESSION                                              1
+    torture
+PRIMARY:SENSATION:TOUCH                                          1
+    rubber
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 71.875000 %
+SECONDARY           : 9.375000 %
+EMOTIONS            : 18.750000 %
+
+152 words total

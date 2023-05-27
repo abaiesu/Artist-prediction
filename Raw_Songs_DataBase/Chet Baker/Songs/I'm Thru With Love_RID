@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               8
+    love love love like love devotion love love
+SECONDARY:ABSTRACTION                                            7
+    why why why think meant why why
+SECONDARY:RESTRAINT                                              4
+    must locked stopped must
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again ever again
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said call share
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:COLD                                           2
+    icy frigidaire
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+
+PRIMARY             : 21.212121 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 24.242424 %
+
+148 words total

@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    talk spoken tell told talk spoken tell told
+SECONDARY:ABSTRACTION                                            6
+    meant knew knew meant knew knew
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then moment when then moment when
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at at at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    feet hands feet hands
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step step
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill thrill
+SECONDARY:RESTRAINT                                              1
+    stopped
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 4.545455 %
+
+153 words total

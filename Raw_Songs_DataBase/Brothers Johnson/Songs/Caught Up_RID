@@ -1,0 +1,32 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        5
+    clouds clouds clouds clouds clouds
+SECONDARY:RESTRAINT                                              4
+    caught caught caught caught
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time now
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly flying
+PRIMARY:SENSATION:SOUND                                          2
+    music sound
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said meet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:SENSATION:TASTE                                          1
+    sweeter
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 7.692308 %
+
+99 words total

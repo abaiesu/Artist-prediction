@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              14
+    love love love love love love love love love love love like love like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    13
+    cried game play game play game play game play game play game play
+EMOTIONS:AGGRESSION                                             13
+    defeat cruel cruel cruel cruel cruel cruel cruel cruel cruel cruel cruel cruel
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time now when when again when again again now again
+SECONDARY:ABSTRACTION                                            7
+    surely know learning knows why know know
+EMOTIONS:SADNESS                                                 7
+    sad pain pain pain pain pain pain
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    speaks tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying sell sell
+EMOTIONS:POSITIVE AFFECT                                         3
+    satisfied satisfied satisfied
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow heights
+PRIMARY:SENSATION:SOUND                                          2
+    heart heartache
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    unbelievable unbelievable
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    flood
+
+PRIMARY             : 16.853933 %
+SECONDARY           : 26.966292 %
+EMOTIONS            : 56.179775 %
+
+440 words total

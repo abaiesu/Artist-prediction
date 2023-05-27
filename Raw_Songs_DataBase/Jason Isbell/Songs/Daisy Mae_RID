@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    beside close at here inside where outside
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes hands head
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    remind called call
+EMOTIONS:ANXIETY                                                 3
+    scared feared fear
+SECONDARY:ABSTRACTION                                            3
+    plans them know
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay lay
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time till
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make won
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 31.428571 %
+EMOTIONS            : 11.428571 %
+
+214 words total

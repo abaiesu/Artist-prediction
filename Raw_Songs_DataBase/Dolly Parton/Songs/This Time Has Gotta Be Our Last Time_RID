@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    again time time now time time time time time time time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here place at apart back
+EMOTIONS:AFFECTION                                               4
+    friend kind kind kind
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hands
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:MORAL IMPERATIVE                                       2
+    should conscience
+EMOTIONS:AGGRESSION                                              2
+    break hurt
+PRIMARY:SENSATION:SOUND                                          2
+    hearts rings
+PRIMARY:SENSATION:VISION                                         1
+    seen
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 30.303030 %
+SECONDARY           : 51.515152 %
+EMOTIONS            : 18.181818 %
+
+158 words total

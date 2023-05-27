@@ -1,0 +1,44 @@
+PRIMARY:NEED:ORALITY                                            18
+    mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    15
+    sang sang sang sang sing scream shout scream shout scream shout scream shout scream shout
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell invited promised said taught
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    outside inside out opened opened
+PRIMARY:SENSATION:SOUND                                          4
+    loud hear louder louder
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    bird bird above
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flew flapped flapped
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again ever old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make picked lesson
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    neck arms arms
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    waved waved
+PRIMARY:SENSATION:VISION                                         1
+    saw
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:ABSTRACTION                                            1
+    reason
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:AFFECTION                                               1
+    familiar
+
+PRIMARY             : 56.944444 %
+SECONDARY           : 18.055556 %
+EMOTIONS            : 25.000000 %
+
+250 words total

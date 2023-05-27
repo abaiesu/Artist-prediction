@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       24
+    help say talk talking say tell talk asking say talk talking say tell talk share share talk talk talk talk talking say tell talk
+PRIMARY:SENSATION:SOUND                                         22
+    heart heart hear heart heart heart hear heart heart heart hear heart heart heart hear heart hear hear hear hear hear hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    place back back where straight out straight straight point where straight out straight at out where straight out straight
+SECONDARY:TEMPORAL REFERENCES                                   14
+    when now when when when when when every minute tonight tonight when when when
+SECONDARY:ABSTRACTION                                           11
+    know cause know know real guess know know real cause real
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    found make reach make reach making reach reach
+EMOTIONS:AFFECTION                                               7
+    friend love like love like love like
+PRIMARY:SENSATION:TOUCH                                          4
+    touch contact touch touch
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:AGGRESSION                                              3
+    cut cut cut
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    relax lie
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+SECONDARY:RESTRAINT                                              1
+    inhibitions
+
+PRIMARY             : 39.837398 %
+SECONDARY           : 51.219512 %
+EMOTIONS            : 8.943089 %
+
+378 words total

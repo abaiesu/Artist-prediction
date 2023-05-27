@@ -1,0 +1,58 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    apart off at away where at far at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    halloween street aisle hallway aisle hallow aisle
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    above highway highway above high above highway
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once years once now once
+SECONDARY:ABSTRACTION                                            5
+    knew learned knew know knew
+PRIMARY:SENSATION:VISION                                         5
+    see see light bright see
+EMOTIONS:GLORY                                                   3
+    magnificent magnificent magnificent
+PRIMARY:SENSATION:TOUCH                                          3
+    thick thick thick
+PRIMARY:SENSATION:COLD                                           3
+    ice ice ice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head feet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burnt smoked
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    bought make
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk saying
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laying
+PRIMARY:NEED:SEX                                                 1
+    fucked
+EMOTIONS:AFFECTION                                               1
+    friend
+EMOTIONS:AGGRESSION                                              1
+    struck
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    strayed
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lake
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+PRIMARY:NEED:ORALITY                                             1
+    lip
+SECONDARY:RESTRAINT                                              1
+    decree
+PRIMARY:SENSATION:TASTE                                          1
+    tangled
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spines
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+
+PRIMARY             : 67.164179 %
+SECONDARY           : 22.388060 %
+EMOTIONS            : 10.447761 %
+
+196 words total

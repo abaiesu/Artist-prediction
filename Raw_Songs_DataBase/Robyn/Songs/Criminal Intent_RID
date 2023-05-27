@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                       19
+    engage say engage say engage say please say admit engage say engage say pardon aid engage say engage say
+PRIMARY:NEED:SEX                                                14
+    lewd indecent lewd indecent lewd indecent lewd indecent lewd indecent lewd indecent lewd indecent
+SECONDARY:ABSTRACTION                                           11
+    know somewhat something something judge judge may fact them something judge
+SECONDARY:TEMPORAL REFERENCES                                   10
+    again again again time time again again priors again again
+EMOTIONS:POSITIVE AFFECT                                         9
+    grind grind grind grind fun grind grind grind grind
+EMOTIONS:AGGRESSION                                              4
+    shot hurt ripped stole
+SECONDARY:MORAL IMPERATIVE                                       3
+    honor honor legal
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    besides at at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    record record
+EMOTIONS:SADNESS                                                 2
+    frowned frowned
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    played played
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 24.096386 %
+SECONDARY           : 55.421687 %
+EMOTIONS            : 20.481928 %
+
+468 words total

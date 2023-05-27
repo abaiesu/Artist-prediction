@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place long long long away over
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said said say called meet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    heaven above above
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old ago
+EMOTIONS:AFFECTION                                               2
+    friends love
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 14.285714 %
+
+126 words total

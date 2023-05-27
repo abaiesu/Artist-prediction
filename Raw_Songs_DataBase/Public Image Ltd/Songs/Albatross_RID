@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    far close rear away away along away away away far close away away away away
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow slow
+PRIMARY:SENSATION:VISION                                         2
+    seen see
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sowing
+EMOTIONS:AGGRESSION                                              1
+    discontent
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 3.571429 %
+
+114 words total

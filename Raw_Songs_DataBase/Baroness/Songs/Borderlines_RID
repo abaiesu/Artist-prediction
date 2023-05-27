@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    apart back at behind long out where inside back out where across out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won belong won won find belong architect
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    wall borderline borderline line borderline borderline
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    sea rains rains rains rains
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    feet head hand head
+EMOTIONS:AGGRESSION                                              3
+    struck whip axe
+PRIMARY:SENSATION:HARD                                           3
+    nail iron hard
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling fell
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    boiling
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    forgive
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 66.129032 %
+SECONDARY           : 25.806452 %
+EMOTIONS            : 8.064516 %
+
+185 words total

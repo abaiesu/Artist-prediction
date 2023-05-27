@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    off at at over out at at off points
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    called tell said called forgive please
+SECONDARY:TEMPORAL REFERENCES                                    5
+    minute then weekend when then
+PRIMARY:SENSATION:VISION                                         3
+    looked see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pay costs trying
+EMOTIONS:AGGRESSION                                              2
+    kill beat
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flew flying
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driving drive
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:ABSTRACTION                                            2
+    guess cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunset
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trails
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 53.488372 %
+SECONDARY           : 37.209302 %
+EMOTIONS            : 9.302326 %
+
+220 words total

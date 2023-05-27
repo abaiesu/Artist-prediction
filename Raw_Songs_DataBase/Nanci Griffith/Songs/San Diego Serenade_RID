@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        17
+    saw saw sunshine light saw saw saw saw moonlight shone saw saw saw saw sunshine light saw
+SECONDARY:TEMPORAL REFERENCES                                   13
+    till till till till till till till till till till till till till
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out away long behind nearly east west off away out away long
+PRIMARY:SENSATION:SOUND                                          6
+    heard melody heart heart heard melody
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line coast
+SECONDARY:RESTRAINT                                              2
+    caught bind
+SECONDARY:ABSTRACTION                                            1
+    knew
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    spoke
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+PRIMARY:NEED:ORALITY                                             1
+    breast
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+EMOTIONS:AGGRESSION                                              1
+    steal
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolled
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 67.213115 %
+SECONDARY           : 29.508197 %
+EMOTIONS            : 3.278689 %
+
+173 words total

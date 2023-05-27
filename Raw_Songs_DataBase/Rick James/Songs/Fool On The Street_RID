@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when now time now time ago now when when when when when when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    between back furthermore furthermore furthermore furthermore within long place back furthermore furthermore furthermore furthermore
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    streets street street street street street street street street street street street
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    tried won won won won won won won won won won
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    meet meet meet meet meet meet meet meet
+SECONDARY:ABSTRACTION                                            5
+    know knew thought knew know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    game playin cried game playin
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:AFFECTION                                               3
+    love love loved
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+PRIMARY:SENSATION:VISION                                         2
+    scene scene
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died died
+EMOTIONS:GLORY                                                   2
+    wealth fame
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+
+PRIMARY             : 39.784946 %
+SECONDARY           : 48.387097 %
+EMOTIONS            : 11.827957 %
+
+574 words total

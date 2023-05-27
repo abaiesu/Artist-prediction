@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       23
+    at wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever wherever
+SECONDARY:TEMPORAL REFERENCES                                   18
+    when whenever week whenever week minutes till now whenever week whenever week whenever week whenever week week week
+EMOTIONS:AFFECTION                                               8
+    like like like like like like like like
+PRIMARY:SENSATION:SOUND                                          7
+    heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat
+PRIMARY:SENSATION:VISION                                         2
+    look stars
+SECONDARY:ORDER                                                  2
+    simple simple
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 34.920635 %
+EMOTIONS            : 12.698413 %
+
+362 words total

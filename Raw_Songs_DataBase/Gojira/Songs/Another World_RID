@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    place place longing place place place place
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    prepare find find
+EMOTIONS:AGGRESSION                                              2
+    mock slaughter
+SECONDARY:ABSTRACTION                                            2
+    believe believe
+EMOTIONS:AFFECTION                                               1
+    kinds
+PRIMARY:SENSATION:SOUND                                          1
+    noise
+PRIMARY:SENSATION:VISION                                         1
+    flash
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 15.789474 %
+
+95 words total

@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said said say confess help please say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    head eyes body body knees
+SECONDARY:ABSTRACTION                                            5
+    truth know believe true why
+EMOTIONS:AGGRESSION                                              4
+    betrayed betrayed betrayed hurts
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time again again when
+PRIMARY:NEED:SEX                                                 3
+    lust lust lust
+EMOTIONS:AFFECTION                                               2
+    goodbyes friends
+EMOTIONS:SADNESS                                                 2
+    sad suffering
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistakes mistakes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:SENSATION:VISION                                         1
+    scene
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 34.146341 %
+SECONDARY           : 43.902439 %
+EMOTIONS            : 21.951220 %
+
+179 words total

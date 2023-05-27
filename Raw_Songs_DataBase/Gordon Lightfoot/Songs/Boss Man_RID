@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say say say say say say say lend say say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away at back back out back back
+SECONDARY:ABSTRACTION                                            5
+    plan may cause knows plan
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pay pay earned spent riskin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face skin hand hands neck
+SECONDARY:TEMPORAL REFERENCES                                    4
+    years when then ever
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    holes holes
+EMOTIONS:AGGRESSION                                              2
+    murder breakin
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    coal
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 54.166667 %
+EMOTIONS            : 4.166667 %
+
+319 words total

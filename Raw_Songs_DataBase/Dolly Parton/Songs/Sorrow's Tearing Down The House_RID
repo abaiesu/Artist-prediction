@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    then suddenly once weekly then while once weekly then while once once
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    met called share called share
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    built built built built built
+EMOTIONS:POSITIVE AFFECT                                         5
+    happiness happiness happiness happiness happiness
+EMOTIONS:AFFECTION                                               4
+    married love friends friends
+EMOTIONS:SADNESS                                                 4
+    sorrow sorrow sorrow sorrow
+SECONDARY:ABSTRACTION                                            3
+    planned guess guess
+PRIMARY:SENSATION:SOUND                                          2
+    heartbreak heartbreak
+EMOTIONS:AGGRESSION                                              2
+    blame blame
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+
+PRIMARY             : 9.090909 %
+SECONDARY           : 56.818182 %
+EMOTIONS            : 34.090909 %
+
+142 words total

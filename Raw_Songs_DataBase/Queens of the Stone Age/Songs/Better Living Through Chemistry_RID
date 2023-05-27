@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    opens back here here out out here here
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everywhere everyone everywhere
+PRIMARY:SENSATION:VISION                                         2
+    blue see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes blood
+EMOTIONS:AGGRESSION                                              2
+    knife destroying
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn fire
+SECONDARY:RESTRAINT                                              1
+    prescribed
+EMOTIONS:GLORY                                                   1
+    hero
+PRIMARY:SENSATION:SOUND                                          1
+    hearing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    suggest
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    mob
+
+PRIMARY             : 59.259259 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 11.111111 %
+
+120 words total

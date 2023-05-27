@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    here here forward here here here here here here here here here here here
+PRIMARY:SENSATION:VISION                                        12
+    seen looking lookin see looking lookin looking lookin looking lookin looking lookin
+SECONDARY:TEMPORAL REFERENCES                                    4
+    years older now everything
+SECONDARY:ABSTRACTION                                            2
+    guess think
+PRIMARY:SENSATION:COLD                                           2
+    cool cool
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    engaged talk
+PRIMARY:NEED:ORALITY                                             2
+    fast lemon
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    legs
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    pits
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:AGGRESSION                                              1
+    killin
+
+PRIMARY             : 76.744186 %
+SECONDARY           : 18.604651 %
+EMOTIONS            : 4.651163 %
+
+297 words total

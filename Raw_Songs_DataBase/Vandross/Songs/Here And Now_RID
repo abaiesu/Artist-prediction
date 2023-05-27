@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              15
+    love love love love love love love love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here close here here away here here here here here here here
+SECONDARY:TEMPORAL REFERENCES                                   11
+    ever now now when now now now now now now now
+PRIMARY:SENSATION:VISION                                         6
+    look see look see look see
+SECONDARY:ABSTRACTION                                            5
+    believe believe believe believe believe
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    share promise say promise promise
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness glad
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 35.820896 %
+SECONDARY           : 38.805970 %
+EMOTIONS            : 25.373134 %
+
+311 words total

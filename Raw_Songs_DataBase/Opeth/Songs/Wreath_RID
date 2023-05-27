@@ -1,0 +1,62 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    inside at inside at behind further out across behind nearby back back closure back closure
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again once old time time
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    dead calm death death decay
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    fire smoke burning search search
+SECONDARY:ABSTRACTION                                            3
+    know history true
+PRIMARY:SENSATION:VISION                                         3
+    watching visions watching
+PRIMARY:NEED:ANALITY                                             3
+    smeared rotten sweat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    nightmare dreams
+SECONDARY:RESTRAINT                                              2
+    halting captured
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    brink walls
+PRIMARY:SENSATION:COLD                                           2
+    children frozen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes skin
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pool water
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fairytale perception
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calling calling
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    entangled
+EMOTIONS:AFFECTION                                               1
+    familiar
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    harvest
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spiritual
+EMOTIONS:SADNESS                                                 1
+    mourn
+
+PRIMARY             : 73.529412 %
+SECONDARY           : 20.588235 %
+EMOTIONS            : 5.882353 %
+
+227 words total

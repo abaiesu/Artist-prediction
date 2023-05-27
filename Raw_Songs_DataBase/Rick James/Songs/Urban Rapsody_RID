@@ -1,0 +1,52 @@
+PRIMARY:SENSATION:SOUND                                         16
+    sound sound sound sound sound sound sound hear melody rhythm sound sound sound sound sound sound
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    12
+    player game player player game players players game game players players player
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    represent talk say call call say callers
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    west out where at wide out west
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    copycat money cost
+SECONDARY:TEMPORAL REFERENCES                                    3
+    clock every again
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:NEED:ORALITY                                             2
+    suckas corner
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    trippin trip
+SECONDARY:RESTRAINT                                              2
+    block stoppin
+PRIMARY:SENSATION:VISION                                         2
+    see blues
+SECONDARY:ABSTRACTION                                            2
+    choose real
+PRIMARY:SENSATION:HARD                                           2
+    stone glass
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippin
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smokin
+SECONDARY:ORDER                                                  1
+    listenin
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloudy
+EMOTIONS:AGGRESSION                                              1
+    shot
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    root
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    coast
+
+PRIMARY             : 50.684932 %
+SECONDARY           : 26.027397 %
+EMOTIONS            : 23.287671 %
+
+459 words total

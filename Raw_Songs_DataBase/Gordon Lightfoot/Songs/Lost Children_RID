@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:SOUND                                          6
+    voices ring voices heard voices ring
+PRIMARY:SENSATION:VISION                                         6
+    blue seen watched seen gazes blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    side middle at away at out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    feet eyes faces feet eyes
+EMOTIONS:POSITIVE AFFECT                                         5
+    laughter laugh smiles laughter laugh
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again now now once again
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    hall lines floor hall
+PRIMARY:SENSATION:COLD                                           4
+    winter child children winter
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    carried built builds carried
+EMOTIONS:AGGRESSION                                              4
+    war killed guns weapons
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    games cry sings
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    faded faded
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fires searches
+EMOTIONS:SADNESS                                                 2
+    mournful despair
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    beds lullaby
+SECONDARY:ORDER                                                  1
+    uniforms
+EMOTIONS:GLORY                                                   1
+    wondered
+EMOTIONS:AFFECTION                                               1
+    goodbye
+
+PRIMARY             : 61.194030 %
+SECONDARY           : 14.925373 %
+EMOTIONS            : 23.880597 %
+
+228 words total

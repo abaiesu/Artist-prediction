@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    outside behind along outside behind back
+EMOTIONS:AGGRESSION                                              6
+    break beat beating break beat beating
+PRIMARY:SENSATION:VISION                                         5
+    seeing see see see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    window wall trail window wall
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now while now again
+EMOTIONS:AFFECTION                                               4
+    familiar love familiar love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams sleep sleep
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:SENSATION:SOUND                                          2
+    voices voices
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    embers
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:SADNESS                                                 1
+    mourn
+
+PRIMARY             : 56.818182 %
+SECONDARY           : 13.636364 %
+EMOTIONS            : 29.545455 %
+
+145 words total

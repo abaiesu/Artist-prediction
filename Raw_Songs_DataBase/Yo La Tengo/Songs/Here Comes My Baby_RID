@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    long here here here here out here here here here here here here here
+SECONDARY:TEMPORAL REFERENCES                                   12
+    every time now now every time now now till then now now
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try tried try try
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talkin call say
+PRIMARY:SENSATION:VISION                                         2
+    moonlight picture
+SECONDARY:ABSTRACTION                                            2
+    cause sure
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 39.130435 %
+SECONDARY           : 45.652174 %
+EMOTIONS            : 15.217391 %
+
+235 words total

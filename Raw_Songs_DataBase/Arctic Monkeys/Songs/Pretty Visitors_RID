@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         11
+    arm arms arms legs head arms arms feet feet arms arms
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    7
+    under pit pit pit pit pit pit
+PRIMARY:SENSATION:GENERAL-SENSATION                              7
+    charm pretty pretty pretty pretty pretty pretty
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    visitors visitors say visitors visitors visitors visitors
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        7
+    shadow shadow twilight shadow shadow shadow shadow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    wall wall wall trailing trailing wall wall
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  6
+    waved waved waved waved waved waved
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall slip base base
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    barking plays plays
+EMOTIONS:AGGRESSION                                              3
+    struggle cruelly cruelly
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    round placed away
+SECONDARY:RESTRAINT                                              3
+    caught bound bound
+SECONDARY:TEMPORAL REFERENCES                                    2
+    past time
+EMOTIONS:ANXIETY                                                 2
+    alarm frightening
+SECONDARY:ABSTRACTION                                            2
+    thoughts reasonably
+PRIMARY:SENSATION:VISION                                         2
+    behold behold
+SECONDARY:ORDER                                                  2
+    balancing balancing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    crafting crafting
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:NEED:ANALITY                                             1
+    muddy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springs
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:TASTE                                          1
+    aftertaste
+EMOTIONS:SADNESS                                                 1
+    unhappy
+PRIMARY:NEED:SEX                                                 1
+    fucking
+
+PRIMARY             : 68.965517 %
+SECONDARY           : 20.689655 %
+EMOTIONS            : 10.344828 %
+
+316 words total

@@ -1,0 +1,54 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    ever when when when every year then while then then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    besides where back where off near close where out
+PRIMARY:NEED:ORALITY                                             5
+    food eggs coffee juice buttered
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make mend buy spend
+PRIMARY:SENSATION:TOUCH                                          3
+    rub touch cuddles
+EMOTIONS:AGGRESSION                                              2
+    fighting breakfast
+PRIMARY:SENSATION:SOFT                                           2
+    gentle gently
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:ANXIETY                                                 1
+    afraid
+EMOTIONS:AFFECTION                                               1
+    loved
+PRIMARY:SENSATION:TASTE                                          1
+    sweetie
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+SECONDARY:RESTRAINT                                              1
+    locks
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippers
+PRIMARY:SENSATION:HARD                                           1
+    glasses
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    forehead
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:SENSATION:SOUND                                          1
+    soundly
+PRIMARY:SENSATION:COLD                                           1
+    icebox
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+SECONDARY:ORDER                                                  1
+    balance
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 35.185185 %
+EMOTIONS            : 9.259259 %
+
+300 words total

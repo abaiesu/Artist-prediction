@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far away
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:NEED:SEX                                                 1
+    kissing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:ANXIETY                                                 1
+    troubles
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:ABSTRACTION                                            1
+    true
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 7.692308 %
+
+65 words total

@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    sometimes sometimes sometimes sometimes time time time sometimes sometimes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    open ahead here inside out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    win win win succeed win
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            4
+    chance chance chance chance
+SECONDARY:ABSTRACTION                                            4
+    know may know important
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    game play play play
+PRIMARY:SENSATION:VISION                                         4
+    look watch look watch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+EMOTIONS:AGGRESSION                                              2
+    shoot shot
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    leap
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    confidence
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumblin
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 44.897959 %
+SECONDARY           : 38.775510 %
+EMOTIONS            : 16.326531 %
+
+197 words total

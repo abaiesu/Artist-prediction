@@ -1,0 +1,34 @@
+EMOTIONS:POSITIVE AFFECT                                         8
+    smile smile smile smile smile smile smile smile
+PRIMARY:SENSATION:VISION                                         7
+    light see watching watching watching watching watching
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    remind remind remind remind remind
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when times
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+SECONDARY:RESTRAINT                                              1
+    control
+SECONDARY:ABSTRACTION                                            1
+    important
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 33.333333 %
+
+133 words total

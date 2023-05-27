@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    today everlasting season season season season today season season
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    outside inside back here off out here over here
+PRIMARY:SENSATION:VISION                                         6
+    looking see looks vision see looking
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please say please say please say
+EMOTIONS:AFFECTION                                               4
+    like friends like kind
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window wallpaper door
+EMOTIONS:ANXIETY                                                 3
+    worrying worrying worrying
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    making found
+EMOTIONS:AGGRESSION                                              2
+    robs robs
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    reeling staggered
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+PRIMARY:NEED:ORALITY                                             1
+    bite
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+
+PRIMARY             : 50.909091 %
+SECONDARY           : 30.909091 %
+EMOTIONS            : 18.181818 %
+
+288 words total

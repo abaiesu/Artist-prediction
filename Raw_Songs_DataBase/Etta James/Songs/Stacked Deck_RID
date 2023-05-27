@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   19
+    time time time time time old years time week hour when years every month when every when time when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    tried used tried worked collect pay using trying
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    play play play game clown play
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+SECONDARY:ORDER                                                  2
+    listen listen
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell met
+EMOTIONS:AFFECTION                                               2
+    darlin lover
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:NEED:ORALITY                                             1
+    throat
+EMOTIONS:GLORY                                                   1
+    crown
+
+PRIMARY             : 15.094340 %
+SECONDARY           : 66.037736 %
+EMOTIONS            : 18.867925 %
+
+280 words total

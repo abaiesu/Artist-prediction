@@ -1,0 +1,46 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    screen screen screen screen screen screen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    between inside back at
+SECONDARY:TEMPORAL REFERENCES                                    4
+    sometimes time quick hour
+EMOTIONS:AFFECTION                                               3
+    friend like like
+SECONDARY:ABSTRACTION                                            3
+    something meant them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make tried
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk replies
+PRIMARY:SENSATION:VISION                                         2
+    watching images
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:NEED:ORALITY                                             1
+    dinner
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    waking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trails
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    streaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+
+PRIMARY             : 55.263158 %
+SECONDARY           : 34.210526 %
+EMOTIONS            : 10.526316 %
+
+173 words total

@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away behind within behind closed
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    search warm warm warm
+SECONDARY:ABSTRACTION                                            3
+    purpose knowing truth
+PRIMARY:SENSATION:VISION                                         3
+    bright bright bright
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sight sight sight
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin eyes
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleasure spoken
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:ORDER                                                  1
+    constant
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    craze
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 58.974359 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 17.948718 %
+
+194 words total

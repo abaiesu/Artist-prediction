@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                        11
+    lookin look see lookin lookin see see lookin look see lookin
+SECONDARY:ABSTRACTION                                            8
+    real real real real real reality real real
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time time every time time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out long out out long
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pay find find pay find
+EMOTIONS:AFFECTION                                               3
+    loves love loves
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 38.636364 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 11.363636 %
+
+307 words total

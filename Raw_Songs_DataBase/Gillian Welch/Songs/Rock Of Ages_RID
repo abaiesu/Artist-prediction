@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    round round round out round round round out round round round out round round round out round round round out
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    told meet guide greet told called
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+PRIMARY:SENSATION:HARD                                           5
+    rock rock rock rock rock
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when once when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    body body body body body
+PRIMARY:SENSATION:SOUND                                          2
+    heard voice
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shoutin
+
+PRIMARY             : 73.584906 %
+SECONDARY           : 22.641509 %
+EMOTIONS            : 3.773585 %
+
+175 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    over side where over across wide wide across side wide over side side
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    calling calling saying tell saying tell saying
+SECONDARY:ABSTRACTION                                            6
+    know know know cause know cause
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time when time when when
+EMOTIONS:AFFECTION                                               4
+    lover lover like like
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    river river river river
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear hear hear
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountain mountain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms arms
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 54.716981 %
+SECONDARY           : 37.735849 %
+EMOTIONS            : 7.547170 %
+
+296 words total

@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say talks talks talks
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    fly wings fly wings
+SECONDARY:TEMPORAL REFERENCES                                    3
+    yearning everybody now
+SECONDARY:RESTRAINT                                              3
+    stops stops stops
+SECONDARY:ABSTRACTION                                            3
+    know sure something
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    bridges door
+PRIMARY:NEED:ORALITY                                             2
+    pumpkin drunk
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at long
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+EMOTIONS:ANXIETY                                                 1
+    desperation
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:SENSATION:COLD                                           1
+    frost
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sow
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:SEX                                                 1
+    kissing
+EMOTIONS:GLORY                                                   1
+    golden
+
+PRIMARY             : 48.571429 %
+SECONDARY           : 45.714286 %
+EMOTIONS            : 5.714286 %
+
+233 words total

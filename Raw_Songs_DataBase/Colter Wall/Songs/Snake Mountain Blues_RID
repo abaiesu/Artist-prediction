@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where here where long
+PRIMARY:SENSATION:VISION                                         4
+    green blues see blues
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand body headed body
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time again time time
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell calling calling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money find find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die die die
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    mountain mountain mountain
+SECONDARY:ABSTRACTION                                            3
+    know known know
+PRIMARY:NEED:ORALITY                                             2
+    drink liquor
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:TASTE                                          1
+    tasting
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rides
+PRIMARY:SENSATION:COLD                                           1
+    winter
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+EMOTIONS:SADNESS                                                 1
+    misery
+
+PRIMARY             : 61.904762 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 4.761905 %
+
+169 words total

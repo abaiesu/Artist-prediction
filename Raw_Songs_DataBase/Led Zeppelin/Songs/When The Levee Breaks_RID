@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when old old when when now now now now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make make trying find work won won won won
+EMOTIONS:SADNESS                                                 7
+    weep moan weep moan moaned moaned sorry
+EMOTIONS:AGGRESSION                                              4
+    break break breaks breaks
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    taught taught help help
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    raining raining
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place south
+SECONDARY:ABSTRACTION                                            2
+    know thinking
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:SENSATION:COLD                                           1
+    north
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 13.636364 %
+SECONDARY           : 59.090909 %
+EMOTIONS            : 27.272727 %
+
+248 words total

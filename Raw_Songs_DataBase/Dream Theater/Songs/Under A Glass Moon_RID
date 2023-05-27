@@ -1,0 +1,52 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    water liquid water bathing liquid bathing bathing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    sky sky sky sky sky sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    beside at outside outside outside
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    5
+    beneath beneath under beneath beneath
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes hand
+PRIMARY:SENSATION:VISION                                         3
+    flashlights scan moonlight
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    shadows clouds shadows
+PRIMARY:SENSATION:SOUND                                          3
+    soundness soundness soundness
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell remind
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    chase chasing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams awakened
+EMOTIONS:AGGRESSION                                              2
+    argue stealing
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:ANXIETY                                                 1
+    nervous
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screams
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:AFFECTION                                               1
+    bride
+SECONDARY:MORAL IMPERATIVE                                       1
+    honor
+
+PRIMARY             : 78.571429 %
+SECONDARY           : 10.714286 %
+EMOTIONS            : 10.714286 %
+
+154 words total

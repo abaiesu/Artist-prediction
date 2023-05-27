@@ -1,0 +1,64 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    east out back round outside back over at at here here
+SECONDARY:ABSTRACTION                                            8
+    know cause cause real know cause real think
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now tonight time then time everybody when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    work try test price job won
+PRIMARY:NEED:SEX                                                 5
+    bitch fuck fuck bitch bitch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    shoutout barkley shoutout shoutout shoutout
+PRIMARY:NEED:ORALITY                                             4
+    mouth mouth fat bread
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call speak said talking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    skin skin hands head
+EMOTIONS:AGGRESSION                                              4
+    gun gun guns guns
+PRIMARY:SENSATION:VISION                                         4
+    looking vision see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead die bed
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    mob mob ambiguous
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride riding
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:GLORY                                                   2
+    crown heroes
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:TOUCH                                          1
+    slick
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:RESTRAINT                                              1
+    arrest
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+SECONDARY:ORDER                                                  1
+    order
+
+PRIMARY             : 53.932584 %
+SECONDARY           : 32.584270 %
+EMOTIONS            : 13.483146 %
+
+394 words total

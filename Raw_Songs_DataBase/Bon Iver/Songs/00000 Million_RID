@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    closest off where out middle out off back out among behind where off long
+SECONDARY:ABSTRACTION                                            9
+    them knows them them weigh cause suppose know cause
+EMOTIONS:AGGRESSION                                              9
+    harmed harmed harm harms harms harms harms harms harms
+EMOTIONS:ANXIETY                                                 4
+    worried worried worry worry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    slope highlands high high
+PRIMARY:SENSATION:VISION                                         3
+    lightning watched light
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    low lowlands canyon
+PRIMARY:SENSATION:SOUND                                          2
+    hark ring
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain river
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buy find
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    path line
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:TASTE                                          1
+    source
+
+PRIMARY             : 55.384615 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 21.538462 %
+
+262 words total

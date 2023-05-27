@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    sometime sometime when today sometime sometime time time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talking say telling said
+PRIMARY:SENSATION:SOUND                                          3
+    loud hear whistle
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over over at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won trying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands eyes
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:NEED:ORALITY                                             2
+    fast lap
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+SECONDARY:ABSTRACTION                                            1
+    why
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    marvel
+EMOTIONS:ANXIETY                                                 1
+    cowardice
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 5.714286 %
+
+198 words total

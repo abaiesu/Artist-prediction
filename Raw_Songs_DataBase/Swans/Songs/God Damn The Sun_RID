@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when then then old now today again now again
+SECONDARY:ABSTRACTION                                            8
+    history meant choose choose thought true them choose
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    sun sun sun sun sun
+EMOTIONS:AGGRESSION                                              4
+    revenge hate knife kill
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    gained found found
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face hand face
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said say says
+PRIMARY:NEED:ORALITY                                             2
+    drink drunk
+EMOTIONS:AFFECTION                                               2
+    friends kind
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back where
+PRIMARY:SENSATION:VISION                                         2
+    light shines
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+EMOTIONS:SADNESS                                                 1
+    depression
+EMOTIONS:GLORY                                                   1
+    arrogance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolled
+
+PRIMARY             : 35.849057 %
+SECONDARY           : 45.283019 %
+EMOTIONS            : 18.867925 %
+
+209 words total

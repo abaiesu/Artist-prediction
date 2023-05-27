@@ -1,0 +1,24 @@
+SECONDARY:RESTRAINT                                             15
+    must control must control stop must control must control must control must control must control
+SECONDARY:ABSTRACTION                                           11
+    know know know know know know cause know know know know
+EMOTIONS:AFFECTION                                              10
+    like like like like like like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    over over over over over over over over
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then when then when then when then when
+PRIMARY:NEED:ORALITY                                             7
+    honey honey honey honey honey honey honey
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    help met tell
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+
+PRIMARY             : 28.985507 %
+SECONDARY           : 53.623188 %
+EMOTIONS            : 17.391304 %
+
+344 words total

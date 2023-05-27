@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over at away long
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet hand head
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    restless slowly slow
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    swimming swimming soaking
+SECONDARY:TEMPORAL REFERENCES                                    3
+    hour when ago
+PRIMARY:SENSATION:VISION                                         2
+    looking look
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    bleating
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:ABSTRACTION                                            1
+    truly
+SECONDARY:RESTRAINT                                              1
+    inhibition
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 70.370370 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 3.703704 %
+
+101 words total

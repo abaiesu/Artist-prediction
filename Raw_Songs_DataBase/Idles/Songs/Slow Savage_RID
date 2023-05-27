@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when time ever ever years years now ever ever ever ever
+EMOTIONS:AFFECTION                                               7
+    like lover lover lover lover lover lover
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    help help help help said said
+SECONDARY:ABSTRACTION                                            5
+    cause thought know cause cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won carry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed die
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    scream cry
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AGGRESSION                                              1
+    knife
+PRIMARY:NEED:ORALITY                                             1
+    drunk
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+
+PRIMARY             : 18.604651 %
+SECONDARY           : 58.139535 %
+EMOTIONS            : 23.255814 %
+
+232 words total

@@ -1,0 +1,48 @@
+SECONDARY:RESTRAINT                                              6
+    catch catching catching bound must stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here where open open open
+PRIMARY:SENSATION:VISION                                         4
+    see light gaze look
+EMOTIONS:AGGRESSION                                              4
+    breaking kill kill kill
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now then then then
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking said said
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive explore
+SECONDARY:ABSTRACTION                                            2
+    believe cause
+EMOTIONS:AFFECTION                                               2
+    friend friendly
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+EMOTIONS:SADNESS                                                 1
+    despair
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    diggin
+PRIMARY:NEED:ORALITY                                             1
+    fork
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    foam
+PRIMARY:NEED:SEX                                                 1
+    sexuality
+PRIMARY:NEED:ANALITY                                             1
+    filth
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 17.391304 %
+
+205 words total

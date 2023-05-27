@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         9
+    look star star look star star look star star
+PRIMARY:SENSATION:HARD                                           7
+    hard hard hard hard hard hard hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           7
+    driving driving driving driving driving driving driving
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    crazy crazy crazy crazy crazy crazy crazy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    far far far far far
+PRIMARY:NEED:SEX                                                 5
+    kissability kiss kissability kissability kiss
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    twistability twistability twistability
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sigh
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+
+PRIMARY             : 96.153846 %
+SECONDARY           : 1.923077 %
+EMOTIONS            : 1.923077 %
+
+250 words total

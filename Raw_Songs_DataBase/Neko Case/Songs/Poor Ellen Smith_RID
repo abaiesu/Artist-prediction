@@ -1,0 +1,46 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    found found picked carried picked found found
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now years yesterday today soon old past
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where away long away at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    body blood body brain
+EMOTIONS:AGGRESSION                                              3
+    shot shoot shot
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+SECONDARY:ABSTRACTION                                            3
+    judge knows know
+EMOTIONS:SADNESS                                                 2
+    lonesome lonesome
+SECONDARY:RESTRAINT                                              2
+    prison prison
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepin
+EMOTIONS:AFFECTION                                               1
+    darling
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+SECONDARY:ORDER                                                  1
+    neath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 44.897959 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 12.244898 %
+
+204 words total

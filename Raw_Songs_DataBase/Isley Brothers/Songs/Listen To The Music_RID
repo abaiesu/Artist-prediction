@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:SOUND                                         12
+    music music music music music music music music sounds music music music
+SECONDARY:ORDER                                                 10
+    listen listen listen listen listen listen list listen listen listen
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now while time everything time time
+EMOTIONS:POSITIVE AFFECT                                         4
+    happy smile happy happy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    play dance dance play
+SECONDARY:ABSTRACTION                                            4
+    know know know them
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    message say meet say
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    growin sky growing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away surrounding
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:VISION                                         1
+    blues
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lazy
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+EMOTIONS:GLORY                                                   1
+    castles
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 38.983051 %
+SECONDARY           : 42.372881 %
+EMOTIONS            : 18.644068 %
+
+228 words total

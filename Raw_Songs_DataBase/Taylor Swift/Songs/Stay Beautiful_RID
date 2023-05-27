@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             14
+    pretty beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:TEMPORAL REFERENCES                                   12
+    every ever every when everything when every when everything every when everything
+SECONDARY:ABSTRACTION                                            8
+    knows know know know them know know know
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    saying ask conversation say ask told ask
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back away back at back front
+EMOTIONS:AFFECTION                                               5
+    like like love love love
+PRIMARY:SENSATION:VISION                                         5
+    watch looked pictures looked looked
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find finds make find find
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    window door door door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jungle
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highlight
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainy
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 48.684211 %
+SECONDARY           : 43.421053 %
+EMOTIONS            : 7.894737 %
+
+293 words total

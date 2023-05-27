@@ -1,0 +1,48 @@
+EMOTIONS:AGGRESSION                                              5
+    cut cut enemies hate kill
+SECONDARY:ABSTRACTION                                            5
+    them them them them them
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    flat away away flat out
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    smoke melted melted fire fire
+PRIMARY:NEED:ORALITY                                             4
+    herb herb herb corn
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hills grow
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfied satisfied
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    maketh workers
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon now
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:RESTRAINT                                              2
+    shut shut
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driven drive
+PRIMARY:SENSATION:VISION                                         2
+    lightning lightning
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    brimstone brimstone
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    watereth
+EMOTIONS:ANXIETY                                                 1
+    fret
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    arise
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+
+PRIMARY             : 55.102041 %
+SECONDARY           : 24.489796 %
+EMOTIONS            : 20.408163 %
+
+221 words total

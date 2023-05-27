@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    face hand face toe toe toe heel head
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every every when every time then moment
+PRIMARY:SENSATION:VISION                                         6
+    lightly lightly look looks pictures pictures
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    place away back at
+SECONDARY:ABSTRACTION                                            4
+    them think think cause
+PRIMARY:NEED:ORALITY                                             3
+    lips tongue tongue
+EMOTIONS:SADNESS                                                 3
+    frown paint paint
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please met
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make reached
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+EMOTIONS:AGGRESSION                                              1
+    hit
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sigh
+
+PRIMARY             : 48.888889 %
+SECONDARY           : 35.555556 %
+EMOTIONS            : 15.555556 %
+
+147 words total

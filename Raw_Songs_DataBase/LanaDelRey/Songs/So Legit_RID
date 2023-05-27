@@ -1,0 +1,50 @@
+SECONDARY:ABSTRACTION                                            8
+    thought cause perhaps thought know know thinking cause
+PRIMARY:SENSATION:VISION                                         7
+    looking scene scene seen see scene sunlight
+PRIMARY:SENSATION:HARD                                           7
+    rock rock rock rock rock rock rock
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    off round frontier here where round back
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once then when when everyone
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    selling make make used used
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talking called tell said
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    brooklyn brooklyn brooklyn
+PRIMARY:NEED:ORALITY                                             3
+    suck pearls honey
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:NEED:SEX                                                 2
+    fuck fuck
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:GLORY                                                   1
+    exquisite
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 12.121212 %
+
+291 words total

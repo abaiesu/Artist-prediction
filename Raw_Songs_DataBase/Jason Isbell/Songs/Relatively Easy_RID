@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    long off point here forward at off away at out here forward
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everyone when when year again again when everything every now
+EMOTIONS:AGGRESSION                                             10
+    kick angry beats kill break broke shooting blame beats beats
+SECONDARY:ABSTRACTION                                            9
+    different know compared something understand compared may except something
+PRIMARY:SENSATION:SOUND                                          7
+    bells ringing ears heart noise heart heart
+EMOTIONS:AFFECTION                                               6
+    like like kind kind friend friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    try make make work buy picked
+PRIMARY:SENSATION:VISION                                         6
+    look blue watch see picture look
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    meet teach answers say
+SECONDARY:MORAL IMPERATIVE                                       4
+    should right law should
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets step windows
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand eyes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky loft
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:SENSATION:TOUCH                                          1
+    rubs
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:GLORY                                                   1
+    proud
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 42.391304 %
+SECONDARY           : 35.869565 %
+EMOTIONS            : 21.739130 %
+
+305 words total

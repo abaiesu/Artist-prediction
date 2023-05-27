@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                        13
+    picture gaze look look look see see see look see look look look
+SECONDARY:ABSTRACTION                                            8
+    something something cause tender knowing true thought known
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time soon time ever again again
+EMOTIONS:POSITIVE AFFECT                                         5
+    happy joy joy happiness happiness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out where overflow long
+EMOTIONS:AFFECTION                                               4
+    loving loving loved embrace
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carry spent
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    lips
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    pleasure
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:SADNESS                                                 1
+    sorrow
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 46.428571 %
+SECONDARY           : 33.928571 %
+EMOTIONS            : 19.642857 %
+
+305 words total

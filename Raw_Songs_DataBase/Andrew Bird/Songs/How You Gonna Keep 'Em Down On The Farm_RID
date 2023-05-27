@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back close away away away away
+PRIMARY:SENSATION:VISION                                         6
+    seen see seen seen imagine seen
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said asked said meets
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now soon once when
+SECONDARY:ABSTRACTION                                            3
+    thinking may think
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    peaceful calm slowly
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    mystery strange mystery
+EMOTIONS:AFFECTION                                               2
+    dear dear
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mister mistaken
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    chin cheek
+EMOTIONS:SADNESS                                                 2
+    paintin paintin
+EMOTIONS:AGGRESSION                                              2
+    harm harm
+PRIMARY:SENSATION:TOUCH                                          1
+    rubbed
+EMOTIONS:POSITIVE AFFECT                                         1
+    grin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    plow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 53.488372 %
+SECONDARY           : 27.906977 %
+EMOTIONS            : 18.604651 %
+
+242 words total

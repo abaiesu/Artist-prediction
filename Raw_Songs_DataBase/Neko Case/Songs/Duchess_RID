@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               5
+    like like love like love
+PRIMARY:SENSATION:VISION                                         4
+    look light shimmering light
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when seasons old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    across back back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    veins flesh face
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    says says says
+PRIMARY:SENSATION:ODOR                                           2
+    breathing breathing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    candles candles
+PRIMARY:SENSATION:SOUND                                          1
+    bells
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swells
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    shapeless
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 14.705882 %
+
+150 words total

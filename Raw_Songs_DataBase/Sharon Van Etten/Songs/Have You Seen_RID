@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    once now now once
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart apart away away
+PRIMARY:SENSATION:SOUND                                          3
+    heart heard heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arm arms arms
+PRIMARY:SENSATION:VISION                                         2
+    seen seen
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    called called
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling falling
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 69.565217 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 4.347826 %
+
+85 words total

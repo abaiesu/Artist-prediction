@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    at side side out place out place out place behind away
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when now tonight when now now tonight now when
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    told help help talk talk told
+PRIMARY:SENSATION:VISION                                         5
+    seeing looks stars looks stars
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky sky sky
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found tried
+PRIMARY:SENSATION:SOUND                                          2
+    belly tune
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    games play
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun laugh
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:ABSTRACTION                                            1
+    concentrate
+PRIMARY:NEED:ORALITY                                             1
+    chew
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    chin
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruining
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 14.814815 %
+
+231 words total

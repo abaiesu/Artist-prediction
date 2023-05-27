@@ -1,0 +1,38 @@
+EMOTIONS:AGGRESSION                                             10
+    accustomed accustomed accustomed accustomed accustomed accustomed break accustomed accustomed accustomed
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    grown grown grown grown highs grown grown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face face face face
+SECONDARY:ABSTRACTION                                            4
+    almost surely almost something
+PRIMARY:SENSATION:SOUND                                          4
+    tune whistles voice hear
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now again every now
+EMOTIONS:AFFECTION                                               4
+    like like grateful like
+PRIMARY:SENSATION:ODOR                                           4
+    breathing breathing breathing breathing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes makes used
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiles joys
+EMOTIONS:SADNESS                                                 2
+    frowns woes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    serenely
+PRIMARY:SENSATION:VISION                                         1
+    looks
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lows
+
+PRIMARY             : 43.636364 %
+SECONDARY           : 23.636364 %
+EMOTIONS            : 32.727273 %
+
+167 words total

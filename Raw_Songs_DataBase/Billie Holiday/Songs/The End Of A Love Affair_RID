@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at out at where at place at
+PRIMARY:SENSATION:SOUND                                          4
+    voice loud tunes blare
+PRIMARY:NEED:ORALITY                                             3
+    fast fast drink
+EMOTIONS:POSITIVE AFFECT                                         3
+    laugh smile smile
+SECONDARY:ABSTRACTION                                            2
+    true know
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk request
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+
+PRIMARY             : 63.333333 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 20.000000 %
+
+160 words total

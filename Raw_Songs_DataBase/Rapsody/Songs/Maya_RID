@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    away away long forward forward off back away away long forward off out long long long away away long forward
+SECONDARY:TEMPORAL REFERENCES                                   17
+    time old old then time times times time everytime times times time when every time time time
+SECONDARY:RESTRAINT                                             16
+    cage cage caged lock locks cage cage cage prison block cage caged control cage cage control
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    told tell told told educated say speak told engage say tell tell told
+EMOTIONS:AFFECTION                                              11
+    like like like like like like like like like like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  10
+    bird bird elevate bird bird bird bird bird bird bird
+SECONDARY:ABSTRACTION                                            7
+    important thinkin thinkin truth knowin knowin cause
+PRIMARY:NEED:ORALITY                                             3
+    juice juice juice
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor borderline wall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sings sang play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make burden make
+PRIMARY:SENSATION:SOUND                                          2
+    voice voice
+EMOTIONS:AGGRESSION                                              2
+    beat rage
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    idle
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    burino
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confuse
+PRIMARY:SENSATION:HARD                                           1
+    rockin
+
+PRIMARY             : 39.495798 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 13.445378 %
+
+689 words total

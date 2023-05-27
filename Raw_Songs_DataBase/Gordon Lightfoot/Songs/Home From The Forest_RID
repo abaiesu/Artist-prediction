@@ -1,0 +1,52 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    old old old year when then old old old
+PRIMARY:SENSATION:VISION                                         5
+    lights flashin vision appear shining
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    sidewalk street hallway staircase streets
+EMOTIONS:AFFECTION                                               4
+    friend like dear loved
+PRIMARY:SENSATION:COLD                                           3
+    icy snow children
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes faces face
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead lay lay
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    springtime soar dawn
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long at where
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water river
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low canyon
+SECONDARY:RESTRAINT                                              2
+    stopped stopped
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speak called
+EMOTIONS:GLORY                                                   2
+    castle wondered
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleeps
+PRIMARY:SENSATION:SOUND                                          2
+    heard sound
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    games roar
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hillside above
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wildflowers
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+EMOTIONS:POSITIVE AFFECT                                         1
+    joyful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    soldier
+
+PRIMARY             : 62.295082 %
+SECONDARY           : 22.950820 %
+EMOTIONS            : 14.754098 %
+
+266 words total

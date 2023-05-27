@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time now time now time
+EMOTIONS:AFFECTION                                               3
+    welcome like welcome
+SECONDARY:ABSTRACTION                                            3
+    know cause cause
+PRIMARY:NEED:ORALITY                                             1
+    eat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    across
+EMOTIONS:POSITIVE AFFECT                                         1
+    enjoy
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:SENSATION:VISION                                         1
+    green
+PRIMARY:SENSATION:ODOR                                           1
+    smells
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    approval
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 20.000000 %
+
+86 words total

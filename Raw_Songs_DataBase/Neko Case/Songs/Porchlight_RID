@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    far away far away away front long long far away far away away long far away far away away
+SECONDARY:ABSTRACTION                                            5
+    cause thought why cause cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    gaining gaining make gaining
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    forgiven tell forgiven forgiven
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    wild wild wild
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hungry hungry hungry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burns burns burns
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair arms
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time year
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangs
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    madness
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:AFFECTION                                               1
+    dear
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 67.924528 %
+SECONDARY           : 28.301887 %
+EMOTIONS            : 3.773585 %
+
+146 words total

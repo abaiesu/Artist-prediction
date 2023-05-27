@@ -1,0 +1,44 @@
+SECONDARY:RESTRAINT                                              7
+    bound bound bound determined bound bound bound
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back out out back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    gainfully employed money
+EMOTIONS:AGGRESSION                                              3
+    cut cut slap
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    insane dreams insane
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+EMOTIONS:GLORY                                                   2
+    rich richfield
+SECONDARY:TEMPORAL REFERENCES                                    2
+    years once
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slack slack
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drivin drivin
+SECONDARY:ABSTRACTION                                            2
+    guess think
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playboy
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impressed
+EMOTIONS:AFFECTION                                               1
+    pats
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    upward
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 40.476190 %
+EMOTIONS            : 21.428571 %
+
+213 words total

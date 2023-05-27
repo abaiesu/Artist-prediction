@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           11
+    why consider know true may may why consider true may may
+PRIMARY:SENSATION:SOUND                                         10
+    hear hear heard heart hear hear hear heard heart hear
+SECONDARY:TEMPORAL REFERENCES                                    8
+    till till when till till till when till
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said please told told said please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over at apart over at apart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head arms head arms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay pay
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    attention attention
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+EMOTIONS:AFFECTION                                               2
+    romance romance
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:SENSATION:VISION                                         2
+    seen seen
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    cloud cloud
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill thrill
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spreads
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 42.647059 %
+EMOTIONS            : 7.352941 %
+
+258 words total

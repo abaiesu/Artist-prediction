@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everybody when everywhere now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out at front back
+PRIMARY:SENSATION:VISION                                         4
+    see see look see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    built built built
+EMOTIONS:POSITIVE AFFECT                                         3
+    thrill thrill thrill
+SECONDARY:ABSTRACTION                                            2
+    think sure
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    cruisin
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolled
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 11.538462 %
+
+119 words total

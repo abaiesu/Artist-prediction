@@ -1,0 +1,44 @@
+EMOTIONS:AGGRESSION                                             19
+    complaining angry killing killing stealing killing killing killing stealing killing break killing killing stealing killing killing killing stealing killing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    making make pay make won won won won make paid won won won won
+EMOTIONS:AFFECTION                                              13
+    goodbye love kind loving like loving loving like loving love love love love
+SECONDARY:RESTRAINT                                             12
+    shut stop stop resistance stop stop resistance stop stop stop stop resistance
+SECONDARY:ABSTRACTION                                           12
+    why why know believe why why know why why know problem true
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when hours when once
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    call call call call say commitment
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart hearts heart heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams wake crazy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    distance distance distance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    path path path
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:NEED:ORALITY                                             2
+    honey sugar
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:NEED:ANALITY                                             2
+    mess dirty
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 21.296296 %
+SECONDARY           : 47.222222 %
+EMOTIONS            : 31.481481 %
+
+406 words total

@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                           10
+    know reasons know know somethin something decide know true know
+EMOTIONS:AFFECTION                                               5
+    lovin love love friends lovin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    tried makes makes tried
+PRIMARY:SENSATION:VISION                                         3
+    look see look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at here here
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every when time
+SECONDARY:MORAL IMPERATIVE                                       3
+    shouldn should should
+SECONDARY:RESTRAINT                                              2
+    stop stop
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tellin say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 19.444444 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 13.888889 %
+
+186 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    eye brain head head eye brain head head
+PRIMARY:SENSATION:VISION                                         4
+    gleam see gleam see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    rest rest rest rest
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again when again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away rearranged away
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calling calling
+EMOTIONS:AFFECTION                                               2
+    goodbye goodbye
+EMOTIONS:ANXIETY                                                 2
+    troubles troubles
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+SECONDARY:ABSTRACTION                                            1
+    thoughts
+
+PRIMARY             : 65.625000 %
+SECONDARY           : 18.750000 %
+EMOTIONS            : 15.625000 %
+
+104 words total

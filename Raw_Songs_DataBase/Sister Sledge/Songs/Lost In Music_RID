@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:SOUND                                         29
+    music music music music melody music music music music music music music music music music music music music melody music music music music music music music music music music
+SECONDARY:RESTRAINT                                              8
+    caught caught caught caught caught caught caught caught
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back front back back away back back back
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ever everything time ever every now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    responsibility call ask say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    job job won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play plays
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:SADNESS                                                 1
+    tragedy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:ABSTRACTION                                            1
+    why
+
+PRIMARY             : 60.937500 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 4.687500 %
+
+377 words total

@@ -1,0 +1,48 @@
+EMOTIONS:AGGRESSION                                             16
+    beat beat beat beat beat beat beat beat doubt beat beats beat beat beat beat beat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back across out out back back back long back across
+SECONDARY:TEMPORAL REFERENCES                                    6
+    tonight ever already soon then tonight
+SECONDARY:ABSTRACTION                                            6
+    know know know why thought thought
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+SECONDARY:RESTRAINT                                              4
+    obstructs shut shut obstructs
+PRIMARY:SENSATION:SOUND                                          4
+    melody heard boom boom
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    followed tell say say
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    jumpin jump jumpin jumpin
+SECONDARY:MORAL IMPERATIVE                                       3
+    justice honest justice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet feet feet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor walls floor
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    ceiling top roof
+PRIMARY:SENSATION:COLD                                           3
+    cold cold chillin
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    quiet quiet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shakin quakin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:NEED:ORALITY                                             1
+    honey
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pick
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+
+PRIMARY             : 45.783133 %
+SECONDARY           : 28.915663 %
+EMOTIONS            : 25.301205 %
+
+358 words total

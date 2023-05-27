@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here here here here here
+SECONDARY:ABSTRACTION                                            5
+    believe plane believe reason why
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy crazy crazy
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+PRIMARY:NEED:ORALITY                                             2
+    corner corner
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street street
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 62.962963 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 3.703704 %
+
+202 words total

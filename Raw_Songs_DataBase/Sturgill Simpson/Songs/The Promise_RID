@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                           18
+    know thinking know planned them know thinking know planned them thinking know planned them thinking know planned them
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    say promise promise say promise promise say promise promise say promise promise
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when while when sometimes while while
+EMOTIONS:SADNESS                                                 4
+    sorry sorry sorry sorry
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:SENSATION:SOUND                                          4
+    sound sound sound sound
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fall fall fall
+PRIMARY:SENSATION:VISION                                         2
+    look look
+EMOTIONS:AGGRESSION                                              2
+    doubt temper
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 18.461538 %
+SECONDARY           : 69.230769 %
+EMOTIONS            : 12.307692 %
+
+276 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    long out over out out out out here over out out here
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    appealing tell saying appealing tell
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today now today now now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    sigh playing sigh playing playing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes arms arms
+SECONDARY:MORAL IMPERATIVE                                       3
+    shouldn should should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dream dream
+PRIMARY:SENSATION:SOUND                                          3
+    heartbreak heartbreak heartbreak
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill thrill
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:VISION                                         1
+    visions
+SECONDARY:RESTRAINT                                              1
+    mustn
+SECONDARY:ABSTRACTION                                            1
+    scheme
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 18.750000 %
+
+199 words total

@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    help confess confide tell help confess confide
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away overtake out round
+SECONDARY:ABSTRACTION                                            4
+    understood understanding cause cause
+SECONDARY:RESTRAINT                                              3
+    stop stop stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:AGGRESSION                                              2
+    resent resent
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowing
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+
+PRIMARY             : 20.689655 %
+SECONDARY           : 62.068966 %
+EMOTIONS            : 17.241379 %
+
+139 words total

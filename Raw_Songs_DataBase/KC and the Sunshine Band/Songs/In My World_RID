@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    side side side
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    rest rest rest
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 16.666667 %
+
+170 words total

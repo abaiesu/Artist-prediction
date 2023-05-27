@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    tell tell tells tell tell tells tell tell tells tell tell tell tell
+EMOTIONS:AFFECTION                                              12
+    marry like loves loves marry loves loves marry loves loves marry marry
+SECONDARY:TEMPORAL REFERENCES                                   10
+    while while while while while while while while while while
+PRIMARY:SENSATION:VISION                                        10
+    green green green green green green green green green green
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  10
+    tree tree tree tree tree tree tree tree tree tree
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here here here round length
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    builder build builder builder
+EMOTIONS:SADNESS                                                 4
+    sorry sorry sorry sorry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    handsome handsome handsome handsome
+PRIMARY:NEED:SEX                                                 3
+    fondly fondly fondly
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparks
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    showering
+
+PRIMARY             : 45.569620 %
+SECONDARY           : 34.177215 %
+EMOTIONS            : 20.253165 %
+
+328 words total

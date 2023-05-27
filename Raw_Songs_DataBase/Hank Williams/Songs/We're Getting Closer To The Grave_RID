@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away closer closer closer
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died lay
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please call
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    prepared won
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:HARD                                           1
+    nailed
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 0.000000 %
+
+95 words total

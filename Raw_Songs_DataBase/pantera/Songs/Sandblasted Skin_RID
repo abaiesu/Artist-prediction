@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time old old old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over at at
+EMOTIONS:AGGRESSION                                              2
+    exterminate exterminate
+EMOTIONS:POSITIVE AFFECT                                         1
+    grind
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    frame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sale
+PRIMARY:NEED:SEX                                                 1
+    fucking
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 20.000000 %
+
+70 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    closer back here back front over over over over back back front over over front front over over over over
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    speak reminding said said say say said said speak
+SECONDARY:ABSTRACTION                                            8
+    know almost almost cause know know almost almost
+PRIMARY:SENSATION:SOUND                                          4
+    heart hear heart hear
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+EMOTIONS:AFFECTION                                               2
+    loved loved
+EMOTIONS:AGGRESSION                                              2
+    cruel breaks
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 7.407407 %
+
+427 words total

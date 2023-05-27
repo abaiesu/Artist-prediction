@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    inside here where where open away open
+PRIMARY:SENSATION:HARD                                           7
+    harden harden harden harden harden harden harden
+PRIMARY:SENSATION:SOFT                                           6
+    soft soft soft soft soft soft
+EMOTIONS:AGGRESSION                                              5
+    fury knife beaten beaten beaten
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye face hand
+SECONDARY:ABSTRACTION                                            3
+    why thinking cause
+PRIMARY:NEED:ORALITY                                             3
+    eaten eaten eaten
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    gates gates
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:SENSATION:VISION                                         1
+    glints
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 73.469388 %
+SECONDARY           : 10.204082 %
+EMOTIONS            : 16.326531 %
+
+168 words total

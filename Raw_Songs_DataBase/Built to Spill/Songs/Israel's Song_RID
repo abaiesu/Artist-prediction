@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away back back
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today now
+EMOTIONS:AGGRESSION                                              2
+    breaks break
+SECONDARY:ABSTRACTION                                            2
+    understanding knew
+SECONDARY:ORDER                                                  1
+    normal
+PRIMARY:SENSATION:SOUND                                          1
+    snap
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+PRIMARY:SENSATION:HARD                                           1
+    glass
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 15.384615 %
+
+42 words total

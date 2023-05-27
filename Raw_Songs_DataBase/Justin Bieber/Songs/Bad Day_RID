@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                            8
+    think think cause thought cause think think knew
+EMOTIONS:AFFECTION                                               7
+    like love like sympathy like goodbye like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over away away out over away
+SECONDARY:TEMPORAL REFERENCES                                    4
+    moment time already now
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 31.034483 %
+SECONDARY           : 44.827586 %
+EMOTIONS            : 24.137931 %
+
+165 words total

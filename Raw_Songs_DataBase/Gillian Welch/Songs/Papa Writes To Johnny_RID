@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time now every week now when today everything everything time now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    road road street street road road
+SECONDARY:ABSTRACTION                                            6
+    why why knew knew meant meant
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    help say say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out where over
+PRIMARY:SENSATION:VISION                                         2
+    blues blues
+PRIMARY:NEED:ORALITY                                             2
+    coffee pot
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    stranger stranger
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pourin
+EMOTIONS:AFFECTION                                               1
+    friends
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 6.666667 %
+
+199 words total

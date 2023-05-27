@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every while now time
+PRIMARY:NEED:ORALITY                                             4
+    sugar sugar sugar sugar
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile fun fun
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hands
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+SECONDARY:ABSTRACTION                                            1
+    idea
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 27.272727 %
+
+185 words total

@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                              9
+    kill fight stole kill fight hurt blame kill fight
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time when then again everything when time when time
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said tell followed say tell forgive answer
+PRIMARY:SENSATION:GENERAL-SENSATION                              7
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:ABSTRACTION                                            5
+    know know why know know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    played cry dancing
+EMOTIONS:SADNESS                                                 3
+    suffer pain pain
+EMOTIONS:POSITIVE AFFECT                                         3
+    laugh laugh laugh
+PRIMARY:SENSATION:VISION                                         3
+    saw saw scene
+EMOTIONS:AFFECTION                                               2
+    likes love
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shakira shakira
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out over
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreak
+SECONDARY:ORDER                                                  1
+    simple
+
+PRIMARY             : 27.868852 %
+SECONDARY           : 39.344262 %
+EMOTIONS            : 32.786885 %
+
+322 words total

@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say treat pleasure said met say saying said talkin talk follow
+SECONDARY:TEMPORAL REFERENCES                                   11
+    tonight ever ever old now while ever ever ever ever ever
+EMOTIONS:AFFECTION                                               9
+    love love love kind likes love love love love
+SECONDARY:ABSTRACTION                                            9
+    tender cause true know know understand think true know
+EMOTIONS:AGGRESSION                                              4
+    hit hurt hurt hurt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pay won make
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+EMOTIONS:ANXIETY                                                 1
+    shy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 12.068966 %
+SECONDARY           : 60.344828 %
+EMOTIONS            : 27.586207 %
+
+363 words total

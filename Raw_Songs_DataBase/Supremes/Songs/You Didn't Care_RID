@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            7
+    know reconsider meant knew knew knew knew
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now every now then then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away at at away
+EMOTIONS:AFFECTION                                               3
+    like love love
+PRIMARY:SENSATION:VISION                                         2
+    look looked
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cried
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 48.275862 %
+EMOTIONS            : 24.137931 %
+
+117 words total

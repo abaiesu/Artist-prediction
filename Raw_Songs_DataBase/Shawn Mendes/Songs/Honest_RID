@@ -1,0 +1,32 @@
+SECONDARY:MORAL IMPERATIVE                                      13
+    honest honest honest honest honest honest honest honest honest honest honest honest honest
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    meet talk say said tell promise say tell said promise promise promise
+SECONDARY:ABSTRACTION                                           10
+    meant know probably cause know different know probably know cause
+EMOTIONS:AGGRESSION                                              9
+    kills hate hurt hate hurt hate hurt hate hurt
+SECONDARY:TEMPORAL REFERENCES                                    5
+    moment everything when every when
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+
+PRIMARY             : 8.196721 %
+SECONDARY           : 67.213115 %
+EMOTIONS            : 24.590164 %
+
+382 words total

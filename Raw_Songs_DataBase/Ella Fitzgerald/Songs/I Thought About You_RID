@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out out behind at at back
+PRIMARY:SENSATION:VISION                                         6
+    stars shining beam blue peeked looked
+SECONDARY:ABSTRACTION                                            4
+    thought thought thought thought
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old every when then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried find
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadowy shade
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    stream
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 59.375000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 3.125000 %
+
+137 words total

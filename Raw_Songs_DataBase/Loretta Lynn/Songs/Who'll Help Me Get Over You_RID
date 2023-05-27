@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    over over over over over long at over over over
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    help help help help help help help help
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old when when old now when now now
+EMOTIONS:AFFECTION                                               6
+    love love love love loved love
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heartbreak heart heartache
+EMOTIONS:AGGRESSION                                              3
+    hurt breaking breaking
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+
+PRIMARY             : 38.297872 %
+SECONDARY           : 38.297872 %
+EMOTIONS            : 23.404255 %
+
+143 words total

@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                         7
+    scenes watchin vision watchin seeing seeing watchin
+SECONDARY:TEMPORAL REFERENCES                                    6
+    tonight while past past while now
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    bubbles bubbles bubbles bubbles
+PRIMARY:NEED:ORALITY                                             4
+    beer beer beer beer
+SECONDARY:ABSTRACTION                                            3
+    know think know
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughter cheers
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+PRIMARY:SENSATION:SOUND                                          2
+    hearthaches heart
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    apart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+EMOTIONS:AFFECTION                                               1
+    loved
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    traveled
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 65.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 10.000000 %
+
+131 words total

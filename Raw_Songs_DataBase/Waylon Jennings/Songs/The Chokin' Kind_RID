@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              10
+    love love love kind kind love like kind love kind
+PRIMARY:NEED:ORALITY                                             4
+    chokin poison chokin chokin
+SECONDARY:ABSTRACTION                                            3
+    meant know why
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when again
+EMOTIONS:AGGRESSION                                              3
+    kill knife hurts
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    contented death
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:ANXIETY                                                 1
+    scares
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    tip
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 34.210526 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 39.473684 %
+
+142 words total

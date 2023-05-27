@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here places over over at side place over over
+SECONDARY:ABSTRACTION                                            5
+    know think guess know prove
+PRIMARY:SENSATION:VISION                                         4
+    see see looks see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face faces face
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again when everyone
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying trying
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met meet
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:GLORY                                                   1
+    extremes
+EMOTIONS:ANXIETY                                                 1
+    anxious
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 8.571429 %
+
+142 words total

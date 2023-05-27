@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                           13
+    why why know know know why know know know know know know know
+EMOTIONS:AFFECTION                                              11
+    kind love kind love kind kind kind kind kind kind kind
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell help
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 6.250000 %
+SECONDARY           : 56.250000 %
+EMOTIONS            : 37.500000 %
+
+149 words total

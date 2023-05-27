@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    back back back back back back back back back back back back back back back back
+EMOTIONS:AFFECTION                                              13
+    love love loving loving loving love love love love loving love love love
+SECONDARY:TEMPORAL REFERENCES                                   13
+    now when when time when time when now when time time when when
+SECONDARY:ABSTRACTION                                            5
+    know know know know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    handle handle handle
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 38.181818 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 25.454545 %
+
+289 words total

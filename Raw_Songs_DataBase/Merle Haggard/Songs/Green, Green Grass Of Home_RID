@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:VISION                                        15
+    looks look green green green green green green look grey green green see green green
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old old old then old again old
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hair hair arms arm arm
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    step lane lane walls
+PRIMARY:NEED:ORALITY                                             4
+    lips cherries lips cherries
+PRIMARY:SENSATION:TOUCH                                          4
+    touch touch touch touch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at surround at
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet meet
+EMOTIONS:GLORY                                                   2
+    gold gold
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:SADNESS                                                 2
+    paint sad
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree tree
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used reached
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweetly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    awake dreaming
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+SECONDARY:RESTRAINT                                              1
+    guard
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+SECONDARY:ORDER                                                  1
+    neath
+
+PRIMARY             : 67.187500 %
+SECONDARY           : 20.312500 %
+EMOTIONS            : 12.500000 %
+
+209 words total

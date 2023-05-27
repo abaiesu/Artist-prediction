@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where back back side
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call says says talk
+EMOTIONS:GLORY                                                   4
+    palace palace palace palace
+SECONDARY:TEMPORAL REFERENCES                                    3
+    week when when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets walls walls
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    ease slowed slowed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    built built
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strangers strangers
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drives
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:SOUND                                          1
+    hears
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    fountain
+EMOTIONS:ANXIETY                                                 1
+    avoid
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:NEED:ANALITY                                             1
+    shit
+SECONDARY:ORDER                                                  1
+    listens
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 18.421053 %
+
+265 words total

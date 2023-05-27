@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    here here here here out out out here away out along here away here away out out out out
+SECONDARY:ABSTRACTION                                           12
+    otherwise chosen certainly chosen certainly may may chosen certainly may may may
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    met reminding reminding reminding reminding
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old now now now
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:AFFECTION                                               4
+    loving embrace loving embrace
+SECONDARY:RESTRAINT                                              4
+    must must must must
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    path path path
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood blood
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:AGGRESSION                                              2
+    damaged broken
+EMOTIONS:SADNESS                                                 1
+    groan
+EMOTIONS:ANXIETY                                                 1
+    fearful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    test
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    paranoid
+
+PRIMARY             : 41.538462 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 12.307692 %
+
+243 words total

@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              21
+    love love love love love love love love love love love love love love love love love love love love love
+EMOTIONS:POSITIVE AFFECT                                         6
+    thrill delight excite thrill delight excite
+PRIMARY:SENSATION:VISION                                         4
+    bright stars stars bright
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+SECONDARY:ABSTRACTION                                            1
+    sure
+PRIMARY:SENSATION:SOUND                                          1
+    rings
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 11.363636 %
+EMOTIONS            : 61.363636 %
+
+174 words total

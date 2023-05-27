@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every old once when old once
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    calls calls calls calls reply calls
+SECONDARY:ABSTRACTION                                            5
+    think why why knew think
+PRIMARY:SENSATION:VISION                                         4
+    look look color color
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head blood veins
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at back
+EMOTIONS:AGGRESSION                                              2
+    hate rage
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try make
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:AFFECTION                                               1
+    friend
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sang
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 41.463415 %
+SECONDARY           : 46.341463 %
+EMOTIONS            : 12.195122 %
+
+187 words total

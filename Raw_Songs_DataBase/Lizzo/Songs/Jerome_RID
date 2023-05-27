@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here back where back where back where
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    told thank said call said
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again when when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    business won carry practice
+PRIMARY:SENSATION:VISION                                         3
+    look witness looks
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grown grown grown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face handle beard
+EMOTIONS:AFFECTION                                               3
+    love kind attractive
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry cry cry
+PRIMARY:SENSATION:SOUND                                          2
+    heart hearts
+SECONDARY:ABSTRACTION                                            2
+    know fact
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:GLORY                                                   1
+    royalty
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:POSITIVE AFFECT                                         1
+    smileys
+PRIMARY:NEED:ORALITY                                             1
+    juicy
+PRIMARY:SENSATION:HARD                                           1
+    hardest
+
+PRIMARY             : 46.938776 %
+SECONDARY           : 34.693878 %
+EMOTIONS            : 18.367347 %
+
+296 words total

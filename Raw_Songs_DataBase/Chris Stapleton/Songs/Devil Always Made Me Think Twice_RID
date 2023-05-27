@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                           12
+    figured knew example think think example think think think think think think
+EMOTIONS:AFFECTION                                               6
+    kind like kind like kind kind
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    behind over at
+EMOTIONS:ANXIETY                                                 3
+    trouble trouble trouble
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    advice sayin advice
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    tried won tried
+EMOTIONS:AGGRESSION                                              2
+    killin shovel
+SECONDARY:TEMPORAL REFERENCES                                    2
+    minute when
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:NEED:ORALITY                                             1
+    whiskey
+PRIMARY:SENSATION:COLD                                           1
+    ice
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    diggin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gate
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tally
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 48.888889 %
+EMOTIONS            : 24.444444 %
+
+236 words total

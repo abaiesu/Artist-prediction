@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    ahead apart inside ahead apart ahead apart
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    sometimes tonight sometimes today
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    die death dying death
+SECONDARY:ABSTRACTION                                            4
+    cause cause cause cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes hand
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    remind say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried tried
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+EMOTIONS:AGGRESSION                                              1
+    rage
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 22.857143 %
+
+169 words total

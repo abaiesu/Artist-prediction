@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    close long close out within at at away back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    price work industry cost win
+SECONDARY:ABSTRACTION                                            5
+    proved them them basic cause
+EMOTIONS:AGGRESSION                                              4
+    rage break deprive fight
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again again
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    roads door
+PRIMARY:NEED:ORALITY                                             1
+    starve
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    agree
+SECONDARY:ORDER                                                  1
+    divide
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burns
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:MORAL IMPERATIVE                                       1
+    rights
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hunger
+PRIMARY:SENSATION:SOUND                                          1
+    banging
+EMOTIONS:ANXIETY                                                 1
+    desperate
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 48.717949 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 12.820513 %
+
+136 words total

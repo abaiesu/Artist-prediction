@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    then today everybody everybody today everybody today today today today everybody today today everybody everybody everybody
+SECONDARY:ABSTRACTION                                           12
+    think know known think almost them why real think why real think
+PRIMARY:SENSATION:VISION                                        10
+    blue see gray looks blue light gray see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    far along here here here here here
+EMOTIONS:AFFECTION                                               6
+    love loves loves loves loves loves
+EMOTIONS:GLORY                                                   6
+    great great glorious great glorious great
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky sky sky
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy joy
+SECONDARY:RESTRAINT                                              2
+    catch catch
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    marvelous marvelous
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 31.506849 %
+SECONDARY           : 49.315068 %
+EMOTIONS            : 19.178082 %
+
+197 words total

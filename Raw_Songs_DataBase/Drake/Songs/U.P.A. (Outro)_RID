@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here at here long point long outside
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    recital meeting able able tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    student improvement won
+PRIMARY:SENSATION:VISION                                         3
+    see grey grey
+PRIMARY:NEED:ORALITY                                             3
+    eat salad drink
+EMOTIONS:AFFECTION                                               1
+    welcome
+PRIMARY:SENSATION:SOFT                                           1
+    gentlemen
+SECONDARY:ORDER                                                  1
+    class
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 6.666667 %
+
+157 words total

@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              16
+    like dear dear love dear dear dear dear dear dear dear dear dear dear dear dear
+SECONDARY:ABSTRACTION                                           15
+    thinking know cause know know think know know know know know know know know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         12
+    head face face hands face face face face face face face face
+SECONDARY:TEMPORAL REFERENCES                                   10
+    minute sometimes sometimes when when sometimes sometimes when sometimes sometimes
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell mention tell speaks tell tell tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    tried tried tried tried tried makes makes makes
+EMOTIONS:AGGRESSION                                              5
+    hit hit hit hit hit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    door door door door door
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here away
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fireplace
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:SENSATION:COLD                                           1
+    freeze
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:RESTRAINT                                              1
+    obey
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:SENSATION:TOUCH                                          1
+    touchy
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:VISION                                         1
+    blue
+
+PRIMARY             : 28.421053 %
+SECONDARY           : 48.421053 %
+EMOTIONS            : 23.157895 %
+
+594 words total

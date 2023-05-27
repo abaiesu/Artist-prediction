@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    distant away overwhelming where placed where back where
+SECONDARY:TEMPORAL REFERENCES                                    8
+    past ever again while once then now ever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    bone hand eyes bone hand
+EMOTIONS:GLORY                                                   3
+    wondered proud wondered
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    helps gift
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fires burn
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven high
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:ABSTRACTION                                            2
+    understand understand
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shores
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+EMOTIONS:AGGRESSION                                              1
+    steal
+EMOTIONS:ANXIETY                                                 1
+    fearless
+PRIMARY:NEED:ORALITY                                             1
+    fruitful
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dipped
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowded
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    countless
+PRIMARY:NEED:ANALITY                                             1
+    rot
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+
+PRIMARY             : 57.446809 %
+SECONDARY           : 27.659574 %
+EMOTIONS            : 14.893617 %
+
+188 words total

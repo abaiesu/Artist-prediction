@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         8
+    color color vision look look see picture color
+EMOTIONS:AFFECTION                                               4
+    love love love loving
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where behind ahead where
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every everywhere ever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair body
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fair beauty
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:SADNESS                                                 2
+    painted despair
+SECONDARY:ABSTRACTION                                            1
+    true
+EMOTIONS:GLORY                                                   1
+    gold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 54.838710 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 22.580645 %
+
+113 words total

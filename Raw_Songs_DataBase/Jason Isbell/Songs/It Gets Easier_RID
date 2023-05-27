@@ -1,0 +1,38 @@
+PRIMARY:NEED:ORALITY                                             8
+    drinking drinking whiskey throat liquor swallow liquor swallow
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    dreamed dream woke dream dreamed awake
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    inside behind over out behind inside
+SECONDARY:TEMPORAL REFERENCES                                    5
+    week past now times when
+SECONDARY:ABSTRACTION                                            5
+    knew knew believe believe believe
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say called say follow say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand handcuffs eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won won
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughed joke
+EMOTIONS:GLORY                                                   2
+    pride pride
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:SENSATION:SOUND                                          1
+    rattlesnake
+EMOTIONS:AFFECTION                                               1
+    favor
+SECONDARY:RESTRAINT                                              1
+    bar
+
+PRIMARY             : 52.941176 %
+SECONDARY           : 37.254902 %
+EMOTIONS            : 9.803922 %
+
+288 words total

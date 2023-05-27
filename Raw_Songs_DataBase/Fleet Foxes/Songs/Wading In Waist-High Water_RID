@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    over over wide open inside
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    water wading wading wading water
+SECONDARY:TEMPORAL REFERENCES                                    3
+    timing soon now
+SECONDARY:ABSTRACTION                                            3
+    choose knew choose
+EMOTIONS:AGGRESSION                                              2
+    blame violent
+PRIMARY:SENSATION:VISION                                         2
+    sunlight saw
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    avenue
+PRIMARY:NEED:SEX                                                 1
+    waist
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 64.285714 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 14.285714 %
+
+83 words total

@@ -1,0 +1,36 @@
+EMOTIONS:SADNESS                                                13
+    sad sad sad sad sad sad sad sad sad sad sad sad sad
+EMOTIONS:AGGRESSION                                              7
+    broken broken broken broken broken broken broken
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart heart heart heart heart heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    play play play play play play
+SECONDARY:ABSTRACTION                                            5
+    know know know why knows
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found found tried make
+EMOTIONS:AFFECTION                                               4
+    love love love loving
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slowly slowly slowly
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 24.137931 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 51.724138 %
+
+173 words total

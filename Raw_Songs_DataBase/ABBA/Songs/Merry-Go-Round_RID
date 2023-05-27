@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    round where round round where round round round where round round where round round round where round round where round round
+EMOTIONS:AFFECTION                                              10
+    friend love love loving love love loving love love loving
+EMOTIONS:POSITIVE AFFECT                                         9
+    merry merry merry merry merry merry merry merry merry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    tried success found find try try found found
+SECONDARY:RESTRAINT                                              6
+    bound bound bound bound bound bound
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now again then again
+SECONDARY:ABSTRACTION                                            4
+    knew knows knew knew
+PRIMARY:NEED:SEX                                                 3
+    kiss kiss kiss
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:SENSATION:VISION                                         1
+    looking
+
+PRIMARY             : 37.142857 %
+SECONDARY           : 31.428571 %
+EMOTIONS            : 31.428571 %
+
+277 words total

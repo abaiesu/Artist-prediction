@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       25
+    back back back back out over out out out over out out out back away place out out out out back back back back back
+SECONDARY:ABSTRACTION                                           16
+    thought think almost real cause guess why think almost real cause know facts knows cause cause
+SECONDARY:TEMPORAL REFERENCES                                   14
+    time everything when time now time now time time now now now now now
+SECONDARY:MORAL IMPERATIVE                                      12
+    right honestly right honestly right honestly honestly right right right right right
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say thank thank thank thank said thank
+PRIMARY:NEED:ORALITY                                             7
+    sucks sucks sucks sucks sucks sucks sucks
+PRIMARY:SENSATION:VISION                                         4
+    saw looking saw looking
+EMOTIONS:AFFECTION                                               3
+    loved loved goodbye
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found used used
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 39.583333 %
+SECONDARY           : 55.208333 %
+EMOTIONS            : 5.208333 %
+
+516 words total

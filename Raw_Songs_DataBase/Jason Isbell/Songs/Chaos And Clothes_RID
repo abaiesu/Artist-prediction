@@ -1,0 +1,46 @@
+EMOTIONS:AGGRESSION                                             14
+    struggle fight killed killed hate hate fight battlefield killed killed fight fight killed killed
+EMOTIONS:AFFECTION                                              13
+    like lovers friend friend love friend friend lovers love love friend like friend
+SECONDARY:TEMPORAL REFERENCES                                    9
+    ever past now when past now ever past now
+SECONDARY:ABSTRACTION                                            6
+    proof real chose know know guess
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find find won build machines
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    quiet death death death
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky tree grow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    round where place
+PRIMARY:SENSATION:ODOR                                           3
+    breath breath breath
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    frame trail ferris
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chaos chaos
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep dreams
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+PRIMARY:NEED:ORALITY                                             1
+    corners
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:NEED:ANALITY                                             1
+    mess
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 27.631579 %
+EMOTIONS            : 35.526316 %
+
+328 words total

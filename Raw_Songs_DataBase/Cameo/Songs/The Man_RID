@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                        12
+    saw watch watch watch watch see see saw watch watch watch watch
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell tell tell please calling tell please calling
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:ABSTRACTION                                            6
+    cause cause cause cause cause cause
+PRIMARY:NEED:ORALITY                                             4
+    bite honey bite honey
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again now again now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    ledge ledge
+SECONDARY:RESTRAINT                                              2
+    stop stop
+
+PRIMARY             : 42.553191 %
+SECONDARY           : 42.553191 %
+EMOTIONS            : 14.893617 %
+
+271 words total

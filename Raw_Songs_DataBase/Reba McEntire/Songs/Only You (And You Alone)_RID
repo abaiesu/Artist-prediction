@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            6
+    true understand true true understand true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+PRIMARY:SENSATION:VISION                                         2
+    bright bright
+EMOTIONS:AFFECTION                                               2
+    like love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    magic magic
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 12.500000 %
+
+115 words total

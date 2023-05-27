@@ -1,0 +1,26 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    yellow yellow yellow yellow yellow yellow
+EMOTIONS:AFFECTION                                               5
+    like favorite favorite favorite like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when now now
+PRIMARY:SENSATION:VISION                                         4
+    saw color color color
+SECONDARY:ABSTRACTION                                            3
+    somethin cause cause
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searchin sun
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    endless endless
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 31.034483 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 37.931034 %
+
+79 words total

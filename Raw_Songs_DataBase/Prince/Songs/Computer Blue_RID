@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell please please tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where where where where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    machinery find find
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:MORAL IMPERATIVE                                       2
+    righteous righteous
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:ABSTRACTION                                            1
+    something
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 9.090909 %
+
+69 words total

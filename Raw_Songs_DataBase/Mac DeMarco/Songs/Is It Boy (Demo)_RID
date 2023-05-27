@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    year when old when old now
+SECONDARY:ABSTRACTION                                            6
+    know them believin decide understand belief
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    waking sleepin dreamin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off away ahead
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find won won
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+EMOTIONS:AGGRESSION                                              1
+    rip
+PRIMARY:SENSATION:SOUND                                          1
+    whistling
+EMOTIONS:ANXIETY                                                 1
+    worries
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    foot
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+
+PRIMARY             : 45.161290 %
+SECONDARY           : 48.387097 %
+EMOTIONS            : 6.451613 %
+
+172 words total

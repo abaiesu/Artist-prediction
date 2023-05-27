@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         3
+    lightning lightning watch
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    awake sleeping dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    ceiling sky trees
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    heat heat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    outside longer
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window doorstep
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now clock
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyelid
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flutters
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swaying
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+
+PRIMARY             : 80.000000 %
+SECONDARY           : 12.000000 %
+EMOTIONS            : 8.000000 %
+
+178 words total

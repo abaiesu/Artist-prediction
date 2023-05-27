@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now times now times old then when time tonight times time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    close at far out out out ahead outside here pointed out
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say said say
+PRIMARY:SENSATION:HARD                                           4
+    hardness hard hard glass
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find counting count find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eyes hands
+SECONDARY:ABSTRACTION                                            3
+    learn know think
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spin spinning
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay idle
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lines ledge
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    scorch burn
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+EMOTIONS:GLORY                                                   1
+    wondering
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+EMOTIONS:AFFECTION                                               1
+    friends
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 52.459016 %
+SECONDARY           : 37.704918 %
+EMOTIONS            : 9.836066 %
+
+224 words total

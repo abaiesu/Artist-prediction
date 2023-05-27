@@ -1,0 +1,32 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    make make pay money try product money pay buy found
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time now time time now now then
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell saying tell say
+SECONDARY:ABSTRACTION                                            5
+    know sure example them example
+EMOTIONS:AGGRESSION                                              4
+    argument kill murder murder
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at where here south
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:VISION                                         2
+    watch see
+SECONDARY:RESTRAINT                                              2
+    police police
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:NEED:ORALITY                                             1
+    beer
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+
+PRIMARY             : 21.739130 %
+SECONDARY           : 63.043478 %
+EMOTIONS            : 15.217391 %
+
+232 words total

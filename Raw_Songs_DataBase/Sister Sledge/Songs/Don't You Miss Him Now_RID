@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now now past when now till till when now now when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    over at at out at out out out out out out
+SECONDARY:ABSTRACTION                                            8
+    guess think cause know know know know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won find won carry find find find
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please call call call call
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    hang dawn hang dawn
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 32.692308 %
+SECONDARY           : 61.538462 %
+EMOTIONS            : 5.769231 %
+
+323 words total

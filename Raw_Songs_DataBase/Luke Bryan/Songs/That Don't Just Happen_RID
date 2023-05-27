@@ -1,0 +1,52 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    then then soon then when every then when every when every every time every time every time
+PRIMARY:SENSATION:VISION                                        15
+    see look blue green stars see look blue green stars see look blue green stars
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here out at out out at out out at out out front
+SECONDARY:ABSTRACTION                                            4
+    planets know cause history
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    throw throw throw hang
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    window window window step
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    screen screen screen
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky sky sky
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun smoky
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+PRIMARY:SENSATION:SOUND                                          1
+    bang
+EMOTIONS:AGGRESSION                                              1
+    kick
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:SADNESS                                                 1
+    despair
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:SENSATION:TOUCH                                          1
+    touchdown
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    picked
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+
+PRIMARY             : 65.384615 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 3.846154 %
+
+304 words total

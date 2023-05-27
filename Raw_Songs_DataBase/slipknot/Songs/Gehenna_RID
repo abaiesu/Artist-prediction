@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:SOUND                                         14
+    hear heart heart heart heart heart heart heart heart heart heart heart heart heart
+EMOTIONS:AGGRESSION                                             14
+    cut sever severed severed severed severed severed severed severed severed severed severed severed severed
+SECONDARY:ABSTRACTION                                            4
+    believe judgments cause cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes blood body
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream sleep
+PRIMARY:SENSATION:VISION                                         2
+    watch scene
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    promises help
+SECONDARY:RESTRAINT                                              2
+    punishments control
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now everybody
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+SECONDARY:ORDER                                                  1
+    normal
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+
+PRIMARY             : 46.296296 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 31.481481 %
+
+329 words total

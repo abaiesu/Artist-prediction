@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every time time now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    closed space away space
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes body
+PRIMARY:SENSATION:VISION                                         2
+    saw watched
+SECONDARY:ABSTRACTION                                            2
+    knew known
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    constructed make
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AGGRESSION                                              1
+    doubt
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shared
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 47.368421 %
+EMOTIONS            : 10.526316 %
+
+69 words total

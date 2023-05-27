@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    yesterdays yesterdays then today yesterdays then today yesterdays
+EMOTIONS:POSITIVE AFFECT                                         6
+    happy gay joyous glad gay glad
+SECONDARY:ABSTRACTION                                            3
+    knew truth truth
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    mad dreaming dreaming
+EMOTIONS:AFFECTION                                               2
+    romance love
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flaming
+
+PRIMARY             : 18.518519 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 40.740741 %
+
+74 words total

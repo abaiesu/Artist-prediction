@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    once once once then when till again everywhere again again
+SECONDARY:ABSTRACTION                                            8
+    know know something true guess true true true
+PRIMARY:SENSATION:VISION                                         5
+    lookin look look lookin lookin
+EMOTIONS:AFFECTION                                               4
+    love love love love
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happiness happy
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    treated confess explain
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    surround between
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searchin searchin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+EMOTIONS:AGGRESSION                                              2
+    break break
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOUND                                          1
+    melodies
+EMOTIONS:SADNESS                                                 1
+    sorrow
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 27.450980 %
+SECONDARY           : 50.980392 %
+EMOTIONS            : 21.568627 %
+
+196 words total

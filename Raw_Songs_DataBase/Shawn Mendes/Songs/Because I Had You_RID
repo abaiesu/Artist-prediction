@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    told tell meet help told ask tell meet help tell help
+SECONDARY:ABSTRACTION                                            9
+    think thought knew know something history something think something
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time when time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at places places
+EMOTIONS:AFFECTION                                               3
+    loving loving loving
+SECONDARY:MORAL IMPERATIVE                                       2
+    honest should
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+
+PRIMARY             : 10.810811 %
+SECONDARY           : 75.675676 %
+EMOTIONS            : 13.513514 %
+
+255 words total

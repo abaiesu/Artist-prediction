@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       23
+    long long long long outside back long long long long long long here long long long long outside back long long long long
+PRIMARY:SENSATION:COLD                                          12
+    winter winter cold winter winter cold winter winter winter cold winter winter
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again now now now again
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+EMOTIONS:SADNESS                                                 5
+    misery misery misery misery misery
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:ABSTRACTION                                            1
+    think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+
+PRIMARY             : 75.862069 %
+SECONDARY           : 15.517241 %
+EMOTIONS            : 8.620690 %
+
+225 words total

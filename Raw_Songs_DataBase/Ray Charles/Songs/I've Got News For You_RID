@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said met say said say tell
+SECONDARY:ABSTRACTION                                            6
+    knew true cause true think true
+PRIMARY:SENSATION:SOUND                                          3
+    ring ring ring
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then when
+PRIMARY:SENSATION:VISION                                         2
+    watch looked
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    bridge
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    claimed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 32.000000 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 8.000000 %
+
+188 words total

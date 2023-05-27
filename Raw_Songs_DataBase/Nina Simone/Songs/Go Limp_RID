@@ -1,0 +1,52 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time again briefing when time brief
+EMOTIONS:AFFECTION                                               5
+    dear dear dear dear like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    handbag face beard cheek eye
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    meeting pleasure say suggested address
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off nearby at away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won carried win won
+PRIMARY:SENSATION:HARD                                           3
+    rock stiff hard
+EMOTIONS:AGGRESSION                                              2
+    shove steal
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed dead
+EMOTIONS:ANXIETY                                                 2
+    afraid distress
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:VISION                                         1
+    gleam
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:GLORY                                                   1
+    great
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+SECONDARY:ORDER                                                  1
+    classroom
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:NEED:SEX                                                 1
+    kissed
+SECONDARY:RESTRAINT                                              1
+    resist
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 25.490196 %
+
+280 words total

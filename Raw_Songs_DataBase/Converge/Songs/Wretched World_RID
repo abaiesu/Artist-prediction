@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         6
+    watch light illuminates watch light illuminates
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    reach make won reach make won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    side across side across
+EMOTIONS:SADNESS                                                 4
+    dreary paint dreary paint
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    skin arm skin arm
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    bed lies bed lies
+EMOTIONS:AGGRESSION                                              4
+    damage broken damage broken
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleeping
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    seething seething
+PRIMARY:NEED:ANALITY                                             2
+    shattered shattered
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    art art
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 22.222222 %
+
+136 words total

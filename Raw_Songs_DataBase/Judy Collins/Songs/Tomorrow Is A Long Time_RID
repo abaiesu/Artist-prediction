@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    today tonight time then once again once again once again
+PRIMARY:SENSATION:SOUND                                         10
+    hear heart sounds hear echo sound hear heart hear heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    lie bed lie bed bed
+SECONDARY:ABSTRACTION                                            4
+    true true true true
+EMOTIONS:AFFECTION                                               4
+    love love love love
+PRIMARY:SENSATION:SOFT                                           3
+    softly softly softly
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beauty beauty beauty
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long at
+EMOTIONS:SADNESS                                                 2
+    lonesome pain
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    waters river
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    footsteps eyes
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trail
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sunrise
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 61.111111 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 11.111111 %
+
+208 words total

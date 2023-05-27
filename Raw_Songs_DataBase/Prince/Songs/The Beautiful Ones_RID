@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            9
+    cause know know may know may know certain know
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    please told said tell said please please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make find make
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time tonight everytime everytime
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+PRIMARY:SENSATION:VISION                                         3
+    picture vision picture
+EMOTIONS:AGGRESSION                                              2
+    hurt smash
+EMOTIONS:AFFECTION                                               2
+    love married
+PRIMARY:NEED:SEX                                                 1
+    kisses
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+
+PRIMARY             : 27.906977 %
+SECONDARY           : 60.465116 %
+EMOTIONS            : 11.627907 %
+
+238 words total

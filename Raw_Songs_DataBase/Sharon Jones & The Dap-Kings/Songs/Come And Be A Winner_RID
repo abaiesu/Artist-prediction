@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time time every sometimes now when past time every sometimes now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    place out off back out
+SECONDARY:ABSTRACTION                                            5
+    know understand know understand know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying find won finish
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow treat treat
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:NEED:ORALITY                                             1
+    corner
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 19.444444 %
+SECONDARY           : 69.444444 %
+EMOTIONS            : 11.111111 %
+
+214 words total

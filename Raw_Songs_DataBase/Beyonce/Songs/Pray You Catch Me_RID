@@ -1,0 +1,42 @@
+SECONDARY:RESTRAINT                                             14
+    catch catch catch catch catch catch catch catch catch catch catch catch catch catch
+PRIMARY:SENSATION:SOFT                                           9
+    whispering whispering whispering whispering whispering whispering whispering whispering whispering
+SECONDARY:ORDER                                                  4
+    constantly listening listening listening
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over off at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    walls curb
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever when
+EMOTIONS:AGGRESSION                                              2
+    hurt hit
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face head
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    test
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    aware
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:SOUND                                          1
+    ear
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 44.897959 %
+EMOTIONS            : 12.244898 %
+
+175 words total

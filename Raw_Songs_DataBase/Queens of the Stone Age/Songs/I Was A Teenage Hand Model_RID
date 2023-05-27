@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eye face
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor window line
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:NEED:ORALITY                                             2
+    spit fork
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    job
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:TEMPORAL REFERENCES                                    1
+    years
+SECONDARY:ABSTRACTION                                            1
+    thinking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    peak
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 21.052632 %
+
+149 words total

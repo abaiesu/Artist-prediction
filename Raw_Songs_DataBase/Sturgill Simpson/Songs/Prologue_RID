@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    year time when time when
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trails
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    called
+EMOTIONS:AGGRESSION                                              1
+    blade
+EMOTIONS:GLORY                                                   1
+    eagle
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+SECONDARY:ABSTRACTION                                            1
+    true
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 16.666667 %
+
+86 words total

@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         9
+    watch watch watch watch watch seen look watch watch
+SECONDARY:TEMPORAL REFERENCES                                    9
+    everyone everyone time moment while time moment time moment
+SECONDARY:ABSTRACTION                                            6
+    know know sure them guess know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    closing closing back at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+EMOTIONS:AGGRESSION                                              2
+    hate shoot
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    curtain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:ANXIETY                                                 1
+    worried
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stepping
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:GLORY                                                   1
+    wondering
+
+PRIMARY             : 46.341463 %
+SECONDARY           : 41.463415 %
+EMOTIONS            : 12.195122 %
+
+160 words total

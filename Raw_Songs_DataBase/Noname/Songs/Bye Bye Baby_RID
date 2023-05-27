@@ -1,0 +1,48 @@
+PRIMARY:NEED:ORALITY                                             9
+    tea milk honey milk honey milk honey milk honey
+SECONDARY:TEMPORAL REFERENCES                                    8
+    interlude now date soon soon presents again again
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    interview help ask said ask reminds help
+SECONDARY:ABSTRACTION                                            7
+    almost why why why almost know know
+EMOTIONS:AFFECTION                                               6
+    love goodbye loves goodbye love love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    window walls road road road
+PRIMARY:SENSATION:VISION                                         5
+    look see see blue blue
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile happiness happiness happiness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over where where where
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play yellow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:NEED:SEX                                                 1
+    nude
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    biddi
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    hate
+
+PRIMARY             : 43.661972 %
+SECONDARY           : 32.394366 %
+EMOTIONS            : 23.943662 %
+
+243 words total

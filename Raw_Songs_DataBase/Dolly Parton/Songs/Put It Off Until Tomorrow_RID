@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    off over away back far away off off
+EMOTIONS:AGGRESSION                                              5
+    hurt hurt hurt hurt hurt
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today today today today today
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say accept
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found won
+SECONDARY:ABSTRACTION                                            2
+    believe fact
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:SADNESS                                                 1
+    loneliness
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 48.275862 %
+EMOTIONS            : 24.137931 %
+
+106 words total

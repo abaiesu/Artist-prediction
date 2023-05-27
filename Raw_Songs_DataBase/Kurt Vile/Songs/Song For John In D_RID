@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calls said
+PRIMARY:NEED:ORALITY                                             1
+    candy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    center
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:HARD                                           1
+    splinter
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 8.333333 %
+
+55 words total

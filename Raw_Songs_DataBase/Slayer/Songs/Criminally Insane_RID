@@ -1,0 +1,30 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make try make make
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    follow follow follow follow
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time again soon time
+PRIMARY:NEED:ORALITY                                             3
+    fast fast fast
+EMOTIONS:SADNESS                                                 3
+    sorrow pain sorrow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    trail path trail
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    insane insane insane
+SECONDARY:RESTRAINT                                              2
+    must locked
+SECONDARY:ABSTRACTION                                            1
+    chose
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:NEED:SEX                                                 1
+    fuckin
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 51.612903 %
+EMOTIONS            : 12.903226 %
+
+142 words total

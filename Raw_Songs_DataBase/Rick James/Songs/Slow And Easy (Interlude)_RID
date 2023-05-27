@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         5
+    looked star brightness star shine
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when everytime time times
+EMOTIONS:POSITIVE AFFECT                                         4
+    smiles joy delighted cheered
+PRIMARY:SENSATION:SOUND                                          4
+    heart hear tuned heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing playing sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at between separate
+EMOTIONS:AFFECTION                                               3
+    loved love love
+SECONDARY:ABSTRACTION                                            3
+    may may something
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    laid lingers
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes faces
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talked called
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heavens
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ignited
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 22.500000 %
+EMOTIONS            : 27.500000 %
+
+168 words total

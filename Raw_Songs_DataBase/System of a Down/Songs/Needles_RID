@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    out where out out out out out out where out out out out where out out out out
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when when old old
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tells tells tells tells tells tells
+PRIMARY:NEED:ORALITY                                             4
+    stomach eat roast eat
+SECONDARY:ABSTRACTION                                            3
+    cause cause cause
+EMOTIONS:SADNESS                                                 2
+    pains tragedy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying dying
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+EMOTIONS:GLORY                                                   1
+    majesty
+
+PRIMARY             : 59.183673 %
+SECONDARY           : 34.693878 %
+EMOTIONS            : 6.122449 %
+
+312 words total

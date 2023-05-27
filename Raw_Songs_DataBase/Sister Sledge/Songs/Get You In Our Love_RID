@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              10
+    like love love like love like love love like love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    closer closer over over
+SECONDARY:RESTRAINT                                              3
+    stop resist stop
+SECONDARY:TEMPORAL REFERENCES                                    3
+    till when till
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes skin
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet say
+PRIMARY:SENSATION:SOUND                                          2
+    hear heartbeat
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    sway
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 27.777778 %
+
+169 words total

@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said talking said tell tell telling say talk
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back away out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    finished win
+PRIMARY:SENSATION:VISION                                         2
+    watch see
+SECONDARY:ABSTRACTION                                            2
+    plan cause
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 29.166667 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 8.333333 %
+
+250 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    back over back away back over inside middle back away back away back away back
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when time when past every time when time when time when time when
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  13
+    lift lift lift lift lift lift lift lift lift lift lift lift lift
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell tell ask tell tell tell tell tell told say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    try try try try try
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+EMOTIONS:AGGRESSION                                              5
+    breaks breaks breaks breaks breaks
+SECONDARY:MORAL IMPERATIVE                                       3
+    right shoulders shoulders
+SECONDARY:ABSTRACTION                                            2
+    knew cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping dream
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lower
+SECONDARY:ORDER                                                  1
+    standards
+
+PRIMARY             : 49.367089 %
+SECONDARY           : 43.037975 %
+EMOTIONS            : 7.594937 %
+
+390 words total

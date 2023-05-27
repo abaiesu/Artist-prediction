@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when when when till when when when till when when when till
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    fire sun fire sun fire sun
+PRIMARY:NEED:ORALITY                                             6
+    drink whiskey drink whiskey drink whiskey
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    along back back back
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    highway roof roof roof
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    throwing flying flying flying
+EMOTIONS:AGGRESSION                                              4
+    broken hit hit hit
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    raining raining raining
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falling falling falling
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:ABSTRACTION                                            3
+    learned think know
+PRIMARY:SENSATION:SOUND                                          2
+    rhythm heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+
+PRIMARY             : 59.090909 %
+SECONDARY           : 28.787879 %
+EMOTIONS            : 12.121212 %
+
+274 words total

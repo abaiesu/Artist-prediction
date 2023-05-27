@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        22
+    color picture picture pictures pictures pictures pictures pictures pictures light picture picture pictures pictures pictures pictures pictures pictures pictures pictures pictures pictures
+EMOTIONS:SADNESS                                                18
+    paint painted painted painted painted painted painted painted painted sad painted painted painted painted painted painted painted painted
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when when when when when when when when again when when when
+EMOTIONS:AFFECTION                                               8
+    love love goodbye love like love love goodbye
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    play game cry play play play game cry
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say call say say say say
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+EMOTIONS:POSITIVE AFFECT                                         3
+    laugh glad laugh
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at straight
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    candle hot
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 31.818182 %
+SECONDARY           : 26.136364 %
+EMOTIONS            : 42.045455 %
+
+284 words total

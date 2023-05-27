@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out out out
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time again time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    edge edge edge
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll roll
+EMOTIONS:AGGRESSION                                              2
+    kill kill
+EMOTIONS:GLORY                                                   2
+    glorious glorious
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    lake lake
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    called
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 21.739130 %
+
+116 words total

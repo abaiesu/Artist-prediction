@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              30
+    marry marry love marry marry marry marry marry marry marry marry marry marry marry marry marry marry marry marry marry marry marry love marry marry marry marry marry marry marry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won make soldier won
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight then
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets streets
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    explore cruise
+EMOTIONS:AGGRESSION                                              1
+    warrior
+PRIMARY:SENSATION:SOFT                                           1
+    lace
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:NEED:ORALITY                                             1
+    whiskey
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 18.367347 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 67.346939 %
+
+302 words total

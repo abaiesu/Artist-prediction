@@ -1,0 +1,18 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    message say invite message say
+SECONDARY:ABSTRACTION                                            4
+    think know sure think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    open out out
+EMOTIONS:AGGRESSION                                              2
+    shoot shoot
+SECONDARY:RESTRAINT                                              1
+    limit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 12.500000 %
+
+100 words total

@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today old yesterday now every hour again time
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say call say saying please says please
+SECONDARY:ABSTRACTION                                            3
+    thought sure known
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road door floor
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try make
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face faces
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ORDER                                                  1
+    simple
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    places
+EMOTIONS:AGGRESSION                                              1
+    kill
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 63.636364 %
+EMOTIONS            : 9.090909 %
+
+176 words total

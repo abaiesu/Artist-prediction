@@ -1,0 +1,36 @@
+SECONDARY:RESTRAINT                                             10
+    manage locked control summon control manage locked control control control
+PRIMARY:SENSATION:VISION                                         8
+    look looks ray vision look looks ray vision
+SECONDARY:ORDER                                                  7
+    systems systems systems systems systems systems systems
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every whenever whenever every whenever whenever whenever
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    utterly speak tell tell utterly speak
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at at
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    stream perspire stream
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes cure
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    legs hands
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    madness
+EMOTIONS:SADNESS                                                 1
+    sadness
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 7.142857 %
+
+336 words total

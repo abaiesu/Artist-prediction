@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    over forward open here over over over over over over
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes arms
+SECONDARY:ABSTRACTION                                            2
+    something something
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:VISION                                         1
+    color
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    leaning
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silently
+
+PRIMARY             : 65.384615 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 11.538462 %
+
+97 words total

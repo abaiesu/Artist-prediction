@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    back inside place away here here surrounding at here back back back
+SECONDARY:ABSTRACTION                                            8
+    cause tenderness tender tender tenderness reason known tenderness
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now once clock once till till again when
+PRIMARY:SENSATION:VISION                                         6
+    see watch watch light watching see
+EMOTIONS:AFFECTION                                               4
+    love love darling love
+EMOTIONS:SADNESS                                                 3
+    lonely lonely painted
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door walls windows
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dreams
+PRIMARY:SENSATION:SOUND                                          2
+    rings rings
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms face
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:ANXIETY                                                 1
+    desperately
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 13.793103 %
+
+300 words total

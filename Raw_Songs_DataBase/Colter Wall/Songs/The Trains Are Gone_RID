@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               4
+    like pat kind like
+SECONDARY:ABSTRACTION                                            4
+    fact sure know know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    coal sun coal
+PRIMARY:SENSATION:VISION                                         3
+    seen seen seen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spent spent
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once once
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolled rolled
+PRIMARY:SENSATION:SOUND                                          1
+    hum
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:AGGRESSION                                              1
+    slain
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 21.739130 %
+
+117 words total

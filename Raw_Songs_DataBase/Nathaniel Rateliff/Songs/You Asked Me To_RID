@@ -1,0 +1,22 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    asked asked call asked asked call asked
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long far away away
+EMOTIONS:AFFECTION                                               3
+    likened love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ago old
+SECONDARY:ORDER                                                  2
+    simple simple
+SECONDARY:ABSTRACTION                                            2
+    true knowin
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    labor
+
+PRIMARY             : 17.391304 %
+SECONDARY           : 69.565217 %
+EMOTIONS            : 13.043478 %
+
+144 words total

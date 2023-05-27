@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    time ago everything then tonight tonight tonight tonight years years years years years
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    spend spend spend spend spend spend make spend spend spend spend spend
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    said talk told said said said told share share
+EMOTIONS:AFFECTION                                               6
+    friend love love love love love
+SECONDARY:ABSTRACTION                                            5
+    knew something true something something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long long far here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes arms eyes arms
+SECONDARY:RESTRAINT                                              4
+    resist locked resist must
+PRIMARY:SENSATION:VISION                                         3
+    moonlight see moonlight
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    charms charms
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 28.169014 %
+SECONDARY           : 60.563380 %
+EMOTIONS            : 11.267606 %
+
+269 words total

@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    once ever when when ever when then ever when once now ever when
+PRIMARY:SENSATION:VISION                                         8
+    blues blues blues blues blues blues blues blues
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    sun sun sun sun sun sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make built
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky high
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said called
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:GLORY                                                   1
+    castles
+EMOTIONS:AFFECTION                                               1
+    goodbye
+EMOTIONS:AGGRESSION                                              1
+    tore
+EMOTIONS:SADNESS                                                 1
+    sorrow
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 39.534884 %
+SECONDARY           : 46.511628 %
+EMOTIONS            : 13.953488 %
+
+151 words total

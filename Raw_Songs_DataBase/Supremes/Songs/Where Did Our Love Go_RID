@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    inside inside where where inside inside behind where
+EMOTIONS:AFFECTION                                               6
+    love like love love love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    burning burning burning burning burning
+SECONDARY:TEMPORAL REFERENCES                                    5
+    yearning now now yearning now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please helplessly promisses please
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+EMOTIONS:AGGRESSION                                              2
+    hurts hurts
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:ABSTRACTION                                            1
+    tenderly
+PRIMARY:SENSATION:TOUCH                                          1
+    stings
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 21.052632 %
+
+172 words total

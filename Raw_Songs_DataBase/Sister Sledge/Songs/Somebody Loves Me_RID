@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                              17
+    loved lover friend love loves love loved love like kind loves loves loves loves loves loves loves
+SECONDARY:ABSTRACTION                                           15
+    believe thinking plans believe believe know why plans believe believe believe believe believe believe believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spent making make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here here
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again time
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    shared say
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+
+PRIMARY             : 6.976744 %
+SECONDARY           : 51.162791 %
+EMOTIONS            : 41.860465 %
+
+172 words total

@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           30
+    think think cause thinking think somethin know know cause think somethin problem them opinion cause thinking think somethin know know cause think somethin cause think somethin cause think think somethin
+EMOTIONS:AFFECTION                                              20
+    like likes like like love love friends like likes like like love love love like love love like love love
+SECONDARY:MORAL IMPERATIVE                                      12
+    should should should should should should should should should should should should
+SECONDARY:TEMPORAL REFERENCES                                   10
+    times everyone now when every time everyone now times now
+PRIMARY:SENSATION:VISION                                         6
+    see look see look look look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    using job tried make job
+EMOTIONS:AGGRESSION                                              5
+    broke hit hated hit break
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back where back at
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    admit told told admit
+SECONDARY:RESTRAINT                                              2
+    caught caught
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleeping
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rained
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 16.190476 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 23.809524 %
+
+475 words total

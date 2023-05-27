@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                          2
+    sound voice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin hand
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun warm
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:VISION                                         1
+    invisible
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    guide
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:COLD                                           1
+    winter
+
+PRIMARY             : 88.235294 %
+SECONDARY           : 5.882353 %
+EMOTIONS            : 5.882353 %
+
+99 words total

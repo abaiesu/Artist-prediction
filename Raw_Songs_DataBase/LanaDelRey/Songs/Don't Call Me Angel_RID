@@ -1,0 +1,52 @@
+SECONDARY:SOCIAL BEHAVIOR                                       21
+    call call call call call say say say talk call call call call call call call call call call call call
+SECONDARY:ABSTRACTION                                           16
+    know know know guest know know know know know know know know think guess know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    pay price make money successful pay price try work pay price pick pay price
+PRIMARY:SENSATION:SOUND                                         10
+    heard heard heard heard heard heard heard heard heard heard
+SECONDARY:MORAL IMPERATIVE                                       9
+    right right respect right right right right right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here out out back off off back off
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when again when when now
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    heaven heaven heaven heaven heaven
+PRIMARY:NEED:ORALITY                                             5
+    mouth bite bite mouth mouth
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    fly fly fly fly
+EMOTIONS:AFFECTION                                               4
+    like appreciate like appreciate
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lie lie lie
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    drop fell drop
+SECONDARY:RESTRAINT                                              2
+    stop shut
+PRIMARY:SENSATION:VISION                                         2
+    see watch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:NEED:SEX                                                 1
+    undressed
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 40.495868 %
+SECONDARY           : 56.198347 %
+EMOTIONS            : 3.305785 %
+
+484 words total

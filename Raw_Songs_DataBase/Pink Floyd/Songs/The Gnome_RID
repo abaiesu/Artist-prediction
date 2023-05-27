@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         8
+    scarlet blue green looked look look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at at at at at places
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell say say
+PRIMARY:NEED:ORALITY                                             3
+    eating drinking dining
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time then then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    biding finding
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river river
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+EMOTIONS:GLORY                                                   1
+    adventure
+
+PRIMARY             : 70.967742 %
+SECONDARY           : 25.806452 %
+EMOTIONS            : 3.225806 %
+
+118 words total

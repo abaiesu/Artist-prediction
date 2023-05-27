@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       42
+    out out out out out out out out out out out out out out out round round out out out out out out out out out out out out out out out out out out out out out out out out here
+SECONDARY:ABSTRACTION                                            6
+    thought thought why thought cause something
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now now everyone everyone now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    treat please speak teach
+PRIMARY:NEED:ORALITY                                             3
+    drink mouth fast
+PRIMARY:SENSATION:VISION                                         2
+    look see
+SECONDARY:RESTRAINT                                              2
+    control catch
+EMOTIONS:AFFECTION                                               2
+    love like
+EMOTIONS:ANXIETY                                                 1
+    shy
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hips
+
+PRIMARY             : 70.833333 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 4.166667 %
+
+344 words total

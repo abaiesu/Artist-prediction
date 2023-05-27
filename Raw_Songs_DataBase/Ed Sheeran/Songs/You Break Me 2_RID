@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    far apart away out long open wide out away
+EMOTIONS:AGGRESSION                                              5
+    disagree break break break break
+SECONDARY:ABSTRACTION                                            5
+    think know believer believe believe
+PRIMARY:SENSATION:COLD                                           4
+    numb cold numb numb
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    tide swam tide
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+PRIMARY:NEED:ORALITY                                             2
+    fast eat
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said talking
+EMOTIONS:POSITIVE AFFECT                                         2
+    relieve relieve
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:NEED:ANALITY                                             1
+    mess
+
+PRIMARY             : 57.777778 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 24.444444 %
+
+229 words total

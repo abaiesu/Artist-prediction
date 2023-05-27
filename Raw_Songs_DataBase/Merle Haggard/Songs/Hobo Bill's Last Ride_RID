@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    eastbound away round where outside outside
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    weary contented lay lay dead
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    riding driving ride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    railroad door floor
+EMOTIONS:AGGRESSION                                              3
+    fighting torture raging
+EMOTIONS:SADNESS                                                 2
+    sadness lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes hand
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    coal warm
+PRIMARY:SENSATION:VISION                                         2
+    lights flickered
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when while
+PRIMARY:SENSATION:SOUND                                          2
+    heard whistle
+PRIMARY:SENSATION:TOUCH                                          1
+    brush
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamy
+EMOTIONS:AFFECTION                                               1
+    kind
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:ORDER                                                  1
+    form
+SECONDARY:ABSTRACTION                                            1
+    knew
+
+PRIMARY             : 73.809524 %
+SECONDARY           : 9.523810 %
+EMOTIONS            : 16.666667 %
+
+141 words total

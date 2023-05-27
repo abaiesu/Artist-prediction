@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                         11
+    heart hear heart heart hear heart heart heart hear heart hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back straight straight back straight straight between back straight straight
+PRIMARY:NEED:SEX                                                 9
+    cupid cupid cupid cupid cupid cupid cupid cupid cupid
+EMOTIONS:AGGRESSION                                              9
+    arrow arrow bother arrow arrow arrow steal arrow arrow
+EMOTIONS:AFFECTION                                               9
+    lover lover love lover lover love love lover lover
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please please promise help please calling
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry cry cry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly fly fly
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:ANXIETY                                                 1
+    distress
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+
+PRIMARY             : 49.275362 %
+SECONDARY           : 17.391304 %
+EMOTIONS            : 33.333333 %
+
+203 words total

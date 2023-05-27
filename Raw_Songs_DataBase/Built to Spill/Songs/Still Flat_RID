@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    flat where where at where where at round flat flat
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell tell tell tell
+PRIMARY:SENSATION:VISION                                         3
+    stars imagination imagination
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:POSITIVE AFFECT                                         2
+    celebration fun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+EMOTIONS:AGGRESSION                                              1
+    guns
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    suns
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 12.000000 %
+
+142 words total

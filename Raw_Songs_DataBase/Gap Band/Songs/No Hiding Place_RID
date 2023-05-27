@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       37
+    behind place place behind place place place place place place place over over over over over over over over over over over over over over over over over place over over over place over over over place
+PRIMARY:SENSATION:VISION                                         6
+    look see see see lighten see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes face face face face face
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    6
+    under under under under under under
+EMOTIONS:POSITIVE AFFECT                                         5
+    smile smile smile smile smile
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when again time again
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk speak
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:NEED:ORALITY                                             1
+    honey
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 80.000000 %
+SECONDARY           : 9.333333 %
+EMOTIONS            : 10.666667 %
+
+490 words total

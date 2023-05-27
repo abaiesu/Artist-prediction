@@ -1,0 +1,54 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    19
+    sing sing cry sing player player sing sing player sing player playing sing player player sing player sing player
+EMOTIONS:AFFECTION                                              16
+    love like like like love like love love love love love love like love love love
+SECONDARY:ABSTRACTION                                           10
+    know cause cause true cause think true true cause cause
+EMOTIONS:AGGRESSION                                              8
+    hit hurts broken breaking violently broke hit hurt
+PRIMARY:SENSATION:GENERAL-SENSATION                              8
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when time then
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreams crazy dream insanity
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back back away between
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride drive riding
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make selling
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk help
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sunset drop
+SECONDARY:MORAL IMPERATIVE                                       2
+    oughta law
+PRIMARY:NEED:ORALITY                                             2
+    fast champagne
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:RESTRAINT                                              1
+    insist
+
+PRIMARY             : 32.653061 %
+SECONDARY           : 22.448980 %
+EMOTIONS            : 44.897959 %
+
+447 words total

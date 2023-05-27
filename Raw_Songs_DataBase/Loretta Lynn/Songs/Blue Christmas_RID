@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         9
+    blue blue green blue blue blue blue blue blue
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+SECONDARY:ABSTRACTION                                            2
+    thinking certain
+PRIMARY:SENSATION:SOUND                                          2
+    heartaches heartaches
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:AFFECTION                                               1
+    dear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+EMOTIONS:AGGRESSION                                              1
+    hurtin
+PRIMARY:SENSATION:COLD                                           1
+    snowflakes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calling
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 34.615385 %
+EMOTIONS            : 7.692308 %
+
+93 words total

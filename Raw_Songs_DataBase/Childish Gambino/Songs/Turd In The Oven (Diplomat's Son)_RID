@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    off where off off over westminster here out over out out
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    talk talk talk talk talk talk asking ask follow
+SECONDARY:ABSTRACTION                                            9
+    real know think learn something cause believe know know
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now everything when then when then early
+EMOTIONS:AFFECTION                                               7
+    like like like like like love like
+PRIMARY:NEED:ORALITY                                             7
+    cookin beef mouth lips tongue drink tea
+PRIMARY:NEED:SEX                                                 6
+    fuckin fucking bitches fucking bitches clitoris
+PRIMARY:SENSATION:VISION                                         5
+    light see vision see looking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    top hill atmosphere bird
+EMOTIONS:AGGRESSION                                              4
+    kill shoot kill haters
+PRIMARY:NEED:ANALITY                                             4
+    shit shit shit shit
+SECONDARY:ORDER                                                  3
+    listening listening classics
+SECONDARY:MORAL IMPERATIVE                                       3
+    shouldn should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying business
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot smoke
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    shout shout
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hip
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:ANXIETY                                                 1
+    tremble
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drops
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+PRIMARY:SENSATION:TOUCH                                          1
+    slick
+
+PRIMARY             : 48.421053 %
+SECONDARY           : 35.789474 %
+EMOTIONS            : 15.789474 %
+
+409 words total

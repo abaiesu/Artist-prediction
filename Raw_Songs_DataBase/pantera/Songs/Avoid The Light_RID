@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:VISION                                        19
+    light light light light light light light peer light light light unseen light light light light light light light
+EMOTIONS:ANXIETY                                                18
+    avoid avoid avoid avoid avoid avoid avoid horror avoid avoid avoid avoid avoid avoid avoid avoid avoid avoid
+EMOTIONS:AGGRESSION                                              8
+    army wrath enemy battle battle killed army wrath
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    sight sight sight sight sight sight
+SECONDARY:MORAL IMPERATIVE                                       6
+    should upright should upright should upright
+SECONDARY:ABSTRACTION                                            4
+    choice true true choice
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    underneath underground underground underground
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every years then
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rise arise wings
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleeping sleeping sleeping
+EMOTIONS:SADNESS                                                 3
+    weeping weeping weeping
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    eternally immortal
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    able
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    override
+SECONDARY:RESTRAINT                                              1
+    guard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    countless
+PRIMARY:NEED:ORALITY                                             1
+    devour
+
+PRIMARY             : 42.222222 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 40.000000 %
+
+243 words total

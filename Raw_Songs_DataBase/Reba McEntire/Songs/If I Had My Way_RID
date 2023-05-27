@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meet say call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here place here
+EMOTIONS:AFFECTION                                               3
+    goodbye love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then when till
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    faces hair
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:ANXIETY                                                 1
+    worry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:AGGRESSION                                              1
+    break
+EMOTIONS:SADNESS                                                 1
+    misery
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 31.818182 %
+EMOTIONS            : 27.272727 %
+
+128 words total

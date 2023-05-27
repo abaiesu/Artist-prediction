@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now now when when till when tonight then date when old
+EMOTIONS:AFFECTION                                              10
+    friends friends like friends friends darlin friends friends friends friends
+SECONDARY:ABSTRACTION                                            6
+    them guess them knew judge cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    trying makes won won trying
+PRIMARY:SENSATION:VISION                                         5
+    stars saw stars look looks
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say answers call
+PRIMARY:SENSATION:SOUND                                          4
+    sound heart sounds sounds
+EMOTIONS:AGGRESSION                                              4
+    break fight hate hate
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should oughta should
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    behind where place
+EMOTIONS:POSITIVE AFFECT                                         3
+    smilin funny funny
+PRIMARY:NEED:ORALITY                                             3
+    chewing cook drunk
+SECONDARY:RESTRAINT                                              2
+    bar bar
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+EMOTIONS:GLORY                                                   1
+    castles
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunk
+
+PRIMARY             : 28.767123 %
+SECONDARY           : 45.205479 %
+EMOTIONS            : 26.027397 %
+
+369 words total

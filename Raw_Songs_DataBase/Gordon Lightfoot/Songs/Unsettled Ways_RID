@@ -1,0 +1,22 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    forgive forgive ask share tell forgive lend ask ask share tell forgive
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    make try make try try make make make
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time time time
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    linger linger
+SECONDARY:ABSTRACTION                                            2
+    something know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    longer longer
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 15.625000 %
+SECONDARY           : 81.250000 %
+EMOTIONS            : 3.125000 %
+
+174 words total

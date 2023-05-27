@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       20
+    talk tell pleasure answer please asking asking tell pleasure answer please asking asking asking asking say asking asking asking asking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    near long over apart at within over out
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when soon when when soon when when
+PRIMARY:SENSATION:VISION                                         5
+    lights look look lights look
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing sing dance
+SECONDARY:ABSTRACTION                                            4
+    cause real cause something
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying make make
+EMOTIONS:AFFECTION                                               3
+    loving loving like
+PRIMARY:SENSATION:SOUND                                          2
+    ear heard
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:SEX                                                 1
+    sexy
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+
+PRIMARY             : 36.923077 %
+SECONDARY           : 52.307692 %
+EMOTIONS            : 10.769231 %
+
+432 words total

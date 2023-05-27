@@ -1,0 +1,52 @@
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  12
+    jump jump jumps fly jump jump jump fly jump jump jump fly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    11
+    dance dance dance dance dance dance dance dance dance dance dance
+PRIMARY:SENSATION:VISION                                         9
+    look blue blue sees look blue look look blue
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when then when then when when
+SECONDARY:ABSTRACTION                                            5
+    true true believes them true
+PRIMARY:SENSATION:TOUCH                                          5
+    scratch scratch scratch scratches scratch
+PRIMARY:SENSATION:HARD                                           4
+    hard hard hard hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back out back back
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high spirit high high
+EMOTIONS:AFFECTION                                               3
+    like like like
+EMOTIONS:ANXIETY                                                 3
+    scared scared scared
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet feet feet
+EMOTIONS:AGGRESSION                                              3
+    beat beat beat
+PRIMARY:SENSATION:SOFT                                           3
+    laces laces laces
+PRIMARY:SENSATION:SOUND                                          3
+    hear echo ears
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    called followed
+EMOTIONS:GLORY                                                   1
+    famous
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fella
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    routine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+
+PRIMARY             : 59.770115 %
+SECONDARY           : 16.091954 %
+EMOTIONS            : 24.137931 %
+
+333 words total

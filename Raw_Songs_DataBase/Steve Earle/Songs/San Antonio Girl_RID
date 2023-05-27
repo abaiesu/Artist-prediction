@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         3
+    saw see stars
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now soon
+SECONDARY:ABSTRACTION                                            2
+    thinkin know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out here
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won found
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 40.909091 %
+EMOTIONS            : 4.545455 %
+
+135 words total

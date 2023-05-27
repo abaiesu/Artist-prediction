@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            9
+    understand why understand why knows understand why know why
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    ask ask ask say ask ask ask
+EMOTIONS:AFFECTION                                               5
+    love like dear loving affection
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    cry cry cry cry cry
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when often then then
+EMOTIONS:AGGRESSION                                              2
+    hurt hurts
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    aside aside
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep slumber
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:SENSATION:SOUND                                          1
+    heartaches
+
+PRIMARY             : 19.047619 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 30.952381 %
+
+155 words total

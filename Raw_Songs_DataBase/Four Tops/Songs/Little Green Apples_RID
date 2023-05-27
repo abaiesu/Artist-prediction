@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    says says say call ask meet meet say
+SECONDARY:TEMPORAL REFERENCES                                    7
+    while then when sometimes when then when
+PRIMARY:SENSATION:VISION                                         7
+    look see green green sees green green
+PRIMARY:NEED:ORALITY                                             7
+    lips apples apples bite eat apples apples
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    off out across at at away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    reaches make make make make make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hair eyes hand face
+SECONDARY:ABSTRACTION                                            4
+    think knowin cause believe
+EMOTIONS:AFFECTION                                               3
+    goodbye lovin lovin
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain rain rain
+EMOTIONS:AGGRESSION                                              2
+    breakfast guns
+EMOTIONS:POSITIVE AFFECT                                         2
+    smilin smiles
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm sun
+PRIMARY:SENSATION:COLD                                           2
+    snow winter
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drops
+
+PRIMARY             : 52.941176 %
+SECONDARY           : 36.764706 %
+EMOTIONS            : 10.294118 %
+
+278 words total

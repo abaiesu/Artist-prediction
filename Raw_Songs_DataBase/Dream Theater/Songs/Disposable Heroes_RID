@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       40
+    here away back front back front back front here away back front back front back front off here off here out back here away back front back front back front back front back front back front back front back front
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    said say greeting say say say say greeting say say say say say greeting say say say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       15
+    death die die death die die dying lie dying lie dying die death die die
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now now when when now clock now when when now when when
+EMOTIONS:AGGRESSION                                             10
+    killing kill kill gun slaughter kill kill kill gun kill
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    soldier soldier finished machine used soldier finished soldier finished
+EMOTIONS:ANXIETY                                                 5
+    coward coward fear fear coward
+PRIMARY:SENSATION:VISION                                         4
+    see see see looking
+SECONDARY:ABSTRACTION                                            4
+    them why why planned
+SECONDARY:RESTRAINT                                              3
+    must must must
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bodies bodies
+EMOTIONS:GLORY                                                   2
+    heroes glory
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play barking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:SENSATION:SOUND                                          1
+    sounding
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:AFFECTION                                               1
+    friend
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 34.848485 %
+EMOTIONS            : 15.151515 %
+
+405 words total

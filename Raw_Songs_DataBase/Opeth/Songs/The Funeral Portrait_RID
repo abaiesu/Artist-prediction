@@ -1,0 +1,62 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    outside opened within round away round at close
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hands eyes hands hair eyes
+SECONDARY:TEMPORAL REFERENCES                                    4
+    moment when now now
+PRIMARY:SENSATION:VISION                                         4
+    ruby see looks ruby
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    idle soothes perish
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain washing liquid
+PRIMARY:SENSATION:TASTE                                          2
+    savour tangled
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fog fog
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    secret stranger
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:COLD                                           2
+    child cold
+EMOTIONS:GLORY                                                   2
+    awe admiration
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    beneath downward
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet greeting
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+EMOTIONS:AGGRESSION                                              1
+    loathe
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    ascending
+PRIMARY:NEED:ANALITY                                             1
+    soil
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 71.929825 %
+SECONDARY           : 15.789474 %
+EMOTIONS            : 12.280702 %
+
+173 words total

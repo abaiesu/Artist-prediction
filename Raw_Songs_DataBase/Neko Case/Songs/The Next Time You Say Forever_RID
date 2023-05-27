@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hairs arms palms hand face
+PRIMARY:SENSATION:SOUND                                          4
+    hear sound music sound
+SECONDARY:ABSTRACTION                                            4
+    tenderest believe know know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sparks fire heat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here away long
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time when when
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    flood rain
+EMOTIONS:ANXIETY                                                 2
+    alarm tremble
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    ceiling roof
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallow
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dangling
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 70.588235 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 5.882353 %
+
+135 words total

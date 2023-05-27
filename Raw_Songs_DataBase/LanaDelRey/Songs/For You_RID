@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    over here at out out out out
+SECONDARY:ABSTRACTION                                            6
+    them them them tend know believe
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again again when when when past
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    workman try workman try make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    dance sing sing sing sing
+EMOTIONS:AGGRESSION                                              4
+    hit hit hit hit
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burn burn burn
+PRIMARY:SENSATION:SOUND                                          2
+    loud loud
+EMOTIONS:GLORY                                                   2
+    proud proud
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answer
+EMOTIONS:ANXIETY                                                 1
+    worries
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:NEED:ORALITY                                             1
+    fast
+
+PRIMARY             : 32.608696 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 28.260870 %
+
+265 words total

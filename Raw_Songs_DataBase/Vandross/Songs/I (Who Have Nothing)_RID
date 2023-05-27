@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               9
+    love love love darling loves loves lovin lovin lovin
+PRIMARY:SENSATION:VISION                                         6
+    bright bright watch watch watch see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    arms arms body body
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place near near
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window window
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    buys
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparkling
+SECONDARY:ABSTRACTION                                            1
+    believe
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:AGGRESSION                                              1
+    doubt
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 26.315789 %
+
+308 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long at at over at here out out at at
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tells tells help tells tells tells tells tells
+SECONDARY:ABSTRACTION                                            7
+    something something something something something something something
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  7
+    twisted twisted twisted twisted twisted twisted twisted
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    face face face legs face face
+SECONDARY:RESTRAINT                                              5
+    bar bar bar bar bar
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time hour ago time
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    hazy dim
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    raining
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+
+PRIMARY             : 53.703704 %
+SECONDARY           : 46.296296 %
+EMOTIONS            : 0.000000 %
+
+199 words total

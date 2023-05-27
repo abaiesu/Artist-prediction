@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    tonight when when when old tonight when
+SECONDARY:ABSTRACTION                                            7
+    know believin somethin believin believin know believin
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    tide shore sea shore tide
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won makes won makes
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell ask called tell
+EMOTIONS:AFFECTION                                               4
+    like like kind like
+EMOTIONS:POSITIVE AFFECT                                         4
+    funny funny funny funny
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm warm
+PRIMARY:SENSATION:VISION                                         2
+    stars stars
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cries game
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep awake
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+EMOTIONS:SADNESS                                                 1
+    weeps
+
+PRIMARY             : 32.692308 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 21.153846 %
+
+238 words total

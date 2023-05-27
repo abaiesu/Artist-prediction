@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now every every ever once now every ever once now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    shared tell shared tell
+SECONDARY:ABSTRACTION                                            3
+    understand knew knew
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:VISION                                         2
+    star star
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above above
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over over
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparkle
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:AGGRESSION                                              1
+    breaking
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:NEED:SEX                                                 1
+    kisses
+
+PRIMARY             : 32.258065 %
+SECONDARY           : 54.838710 %
+EMOTIONS            : 12.903226 %
+
+162 words total

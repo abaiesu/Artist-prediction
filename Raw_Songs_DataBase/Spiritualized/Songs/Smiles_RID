@@ -1,0 +1,18 @@
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:VISION                                         2
+    shine see
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:ANXIETY                                                 1
+    horrors
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 22.222222 %
+
+29 words total

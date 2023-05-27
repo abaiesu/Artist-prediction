@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now time time time now time time now time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away far here far where where space place far
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    spending test spending test money spending test
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    laid rest laid rest died laid rest
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head hands blood
+SECONDARY:RESTRAINT                                              3
+    control control control
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please tell telling
+SECONDARY:ABSTRACTION                                            2
+    cause know
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    insanity insanity
+PRIMARY:NEED:ANALITY                                             1
+    sweating
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:SENSATION:COLD                                           1
+    freezing
+EMOTIONS:AGGRESSION                                              1
+    shot
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+EMOTIONS:AFFECTION                                               1
+    friends
+
+PRIMARY             : 49.090909 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 5.454545 %
+
+225 words total

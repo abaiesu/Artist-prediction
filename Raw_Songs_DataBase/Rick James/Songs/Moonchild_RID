@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:COLD                                           8
+    child child child child child child child child
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when times years when times when times
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make pay labor make pay
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    mention talk please mention talk
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    sky heaven sky heaven
+EMOTIONS:AGGRESSION                                              3
+    despise strife strife
+PRIMARY:SENSATION:SOFT                                           2
+    soft gentle
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    hazel shady
+EMOTIONS:SADNESS                                                 2
+    despair lonely
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    attention attention
+SECONDARY:MORAL IMPERATIVE                                       2
+    honorable honorable
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    hallelujah hallelujah
+SECONDARY:ABSTRACTION                                            2
+    know understand
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:ANXIETY                                                 1
+    troubled
+PRIMARY:NEED:ORALITY                                             1
+    cook
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancer
+EMOTIONS:AFFECTION                                               1
+    lovely
+
+PRIMARY             : 42.592593 %
+SECONDARY           : 42.592593 %
+EMOTIONS            : 14.814815 %
+
+243 words total

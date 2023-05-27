@@ -1,0 +1,48 @@
+EMOTIONS:GLORY                                                   7
+    gold gold richlist castle gold gold gold
+EMOTIONS:AFFECTION                                               6
+    love like like love love love
+PRIMARY:SENSATION:VISION                                         4
+    blue pink stars green
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    trees sky topped high
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everywhere everywhere everywhere everywhere
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money spending buy build
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    drip pours rain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    palm head head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out off inside
+PRIMARY:SENSATION:COLD                                           2
+    icy cold
+PRIMARY:NEED:ORALITY                                             2
+    champagne pearls
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window wall
+SECONDARY:ORDER                                                  1
+    neat
+EMOTIONS:ANXIETY                                                 1
+    troubles
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+
+PRIMARY             : 57.407407 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 25.925926 %
+
+172 words total

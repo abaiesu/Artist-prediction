@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over inside over place over open
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time when now already now
+SECONDARY:ABSTRACTION                                            4
+    understand why know learn
+PRIMARY:SENSATION:VISION                                         3
+    watching stars watching
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found find
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    follow speak
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dive
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 43.333333 %
+EMOTIONS            : 3.333333 %
+
+80 words total

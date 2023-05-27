@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    side side out along apart side side side side side side side side side side
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    apologize share call apologize meet say taught taught apologize apologize
+EMOTIONS:AFFECTION                                               5
+    sympathize sympathize love sympathize sympathize
+SECONDARY:ABSTRACTION                                            5
+    thoughts know plan understand sure
+PRIMARY:SENSATION:SOUND                                          3
+    rings sound heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    danced danced sang
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees arms
+PRIMARY:SENSATION:VISION                                         2
+    blue looked
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling fall
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then everything
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swayed
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travelled
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+SECONDARY:RESTRAINT                                              1
+    catch
+EMOTIONS:GLORY                                                   1
+    proud
+
+PRIMARY             : 49.122807 %
+SECONDARY           : 35.087719 %
+EMOTIONS            : 15.789474 %
+
+239 words total

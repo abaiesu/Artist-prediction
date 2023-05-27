@@ -1,0 +1,48 @@
+SECONDARY:ABSTRACTION                                            5
+    figure know thought think surely
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    asked said followed said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    tried finding find try
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    tree above high
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time everyone past
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window frames
+PRIMARY:SENSATION:VISION                                         2
+    saw see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    floating floating
+SECONDARY:ORDER                                                  2
+    neath constantly
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    hazy clouds
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drift contentment
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamer
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    sensations
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    vibrating
+
+PRIMARY             : 48.780488 %
+SECONDARY           : 46.341463 %
+EMOTIONS            : 4.878049 %
+
+154 words total

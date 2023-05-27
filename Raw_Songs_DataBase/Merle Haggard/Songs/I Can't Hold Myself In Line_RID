@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    off at off ahead off
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    line line road line line
+SECONDARY:ABSTRACTION                                            3
+    reason cause guess
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slowly slowly
+EMOTIONS:AGGRESSION                                              2
+    disagree disagree
+SECONDARY:TEMPORAL REFERENCES                                    2
+    times now
+PRIMARY:NEED:ORALITY                                             1
+    drinkin
+EMOTIONS:AFFECTION                                               1
+    kind
+
+PRIMARY             : 65.217391 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 13.043478 %
+
+140 words total

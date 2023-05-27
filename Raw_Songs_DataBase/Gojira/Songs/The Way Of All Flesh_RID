@@ -1,0 +1,60 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away circle close away here here away behind
+PRIMARY:SENSATION:VISION                                         7
+    see light picture light light appeared lights
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    death death dying die dying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face brain blood body skin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    belong find effort try
+SECONDARY:ABSTRACTION                                            4
+    evidence believe understand know
+EMOTIONS:ANXIETY                                                 4
+    fears afraid afraid afraid
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything every now now
+EMOTIONS:AGGRESSION                                              3
+    disturbances hurts crushed
+EMOTIONS:GLORY                                                   2
+    greatest great
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    lower lower
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall edges
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    sharp call
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    ashes warmth
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    faded fading
+SECONDARY:RESTRAINT                                              1
+    refuse
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    higher
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awaken
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:NEED:ORALITY                                             1
+    guts
+PRIMARY:SENSATION:SOUND                                          1
+    heartbeat
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+EMOTIONS:AFFECTION                                               1
+    loved
+
+PRIMARY             : 61.764706 %
+SECONDARY           : 22.058824 %
+EMOTIONS            : 16.176471 %
+
+301 words total

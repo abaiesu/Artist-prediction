@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    where where open close where longer at back at where at where
+SECONDARY:TEMPORAL REFERENCES                                    8
+    every hour everything today then today then sometimes
+SECONDARY:ABSTRACTION                                            7
+    learned learned learned learn learned except learned
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    preacher say say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    heads eyes feet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    steeple steeple
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+PRIMARY:SENSATION:VISION                                         1
+    noticed
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+
+PRIMARY             : 51.219512 %
+SECONDARY           : 43.902439 %
+EMOTIONS            : 4.878049 %
+
+170 words total

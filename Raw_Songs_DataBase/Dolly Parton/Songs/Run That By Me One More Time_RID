@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time when time again time when clock time when time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make try make money pay money
+SECONDARY:ABSTRACTION                                            3
+    sure believe know
+PRIMARY:SENSATION:SOUND                                          2
+    heard hear
+PRIMARY:SENSATION:VISION                                         2
+    see looked
+PRIMARY:SENSATION:ODOR                                           2
+    smell smell
+PRIMARY:NEED:ORALITY                                             2
+    honey cookie
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    overdue back
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    excuse
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 0.000000 %
+
+185 words total

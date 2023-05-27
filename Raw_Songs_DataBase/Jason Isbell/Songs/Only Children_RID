@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at at inside outside over backpack back over over
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    meet encouraged said encouraged said said talk encouraged
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every when when when when old
+EMOTIONS:AGGRESSION                                              5
+    fighting cut broken steal stole
+PRIMARY:SENSATION:COLD                                           4
+    children cold children children
+PRIMARY:NEED:ORALITY                                             3
+    appetite coffee mouth
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used building building
+SECONDARY:ABSTRACTION                                            3
+    something thought believe
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead idling dead
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street walls
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    reel reel
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:SENSATION:SOUND                                          1
+    hearse
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:GLORY                                                   1
+    castle
+
+PRIMARY             : 51.724138 %
+SECONDARY           : 36.206897 %
+EMOTIONS            : 12.068966 %
+
+231 words total

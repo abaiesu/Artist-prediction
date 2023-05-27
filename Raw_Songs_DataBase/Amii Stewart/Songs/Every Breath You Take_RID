@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   52
+    every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every every
+PRIMARY:SENSATION:VISION                                        18
+    watching watching see watching see look see watching watching watching watching watching watching watching watching watching watching watching
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    make belong make claim belong make claim make make make claim make make claim
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    game play game play game play game play game play
+EMOTIONS:AGGRESSION                                              7
+    break break break break break break break
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say calling please say say say say
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    step step step step step step
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile smile smile smile
+PRIMARY:SENSATION:ODOR                                           3
+    breath breath breath
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at long
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AFFECTION                                               1
+    embrace
+
+PRIMARY             : 26.356589 %
+SECONDARY           : 56.589147 %
+EMOTIONS            : 17.054264 %
+
+351 words total

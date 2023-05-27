@@ -1,0 +1,52 @@
+SECONDARY:TEMPORAL REFERENCES                                   28
+    now now now now now now now now now now now now now now now now now when old when now now now now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    tellin tellin tellin tellin tell tellin tellin tellin tellin said say said sayin tellin tellin tellin tellin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make work work work work work work money buy
+SECONDARY:ABSTRACTION                                            7
+    somethin know know plan plan know know
+EMOTIONS:AFFECTION                                               6
+    like like favorite like like love
+PRIMARY:NEED:ORALITY                                             4
+    lime pork drink bread
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    crazy crazy dream sleep
+EMOTIONS:AGGRESSION                                              4
+    shooter beat broke kick
+PRIMARY:SENSATION:SOUND                                          3
+    bang heart hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out close out
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    plays sport screamin
+PRIMARY:NEED:ANALITY                                             2
+    shit dirt
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low trenches
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smokin
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:VISION                                         1
+    lucid
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    legs
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    deads
+
+PRIMARY             : 26.470588 %
+SECONDARY           : 60.784314 %
+EMOTIONS            : 12.745098 %
+
+640 words total

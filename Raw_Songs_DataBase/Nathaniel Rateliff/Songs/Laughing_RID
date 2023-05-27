@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    place at where where where where where where where where where where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    won won won won won make make won won won won won
+SECONDARY:ABSTRACTION                                           10
+    know know know know know know know know know know
+EMOTIONS:POSITIVE AFFECT                                        10
+    laughing laughing laughing laughing laughing laughing laughing laughing laughing laughing
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when when when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    leg leg eyes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun warm warm
+PRIMARY:SENSATION:VISION                                         2
+    looking bright
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:GLORY                                                   1
+    crown
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    waking
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 46.031746 %
+EMOTIONS            : 20.634921 %
+
+259 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where here where longing away at side longing away
+SECONDARY:RESTRAINT                                              5
+    must must must must must
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:ABSTRACTION                                            4
+    believed believed certainties why
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say confess say confess
+EMOTIONS:ANXIETY                                                 4
+    scared frightened scared frightened
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used use
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slip slip
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 41.860465 %
+SECONDARY           : 37.209302 %
+EMOTIONS            : 20.930233 %
+
+151 words total

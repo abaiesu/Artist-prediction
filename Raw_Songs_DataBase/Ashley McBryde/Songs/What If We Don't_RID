@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            8
+    thinkin thinkin know cause know think thinkin know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    far out far over far
+SECONDARY:RESTRAINT                                              4
+    stop stop stop stop
+EMOTIONS:AGGRESSION                                              4
+    fightin breakin fightin fightin
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now once now
+EMOTIONS:AFFECTION                                               2
+    like kinda
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 21.875000 %
+SECONDARY           : 56.250000 %
+EMOTIONS            : 21.875000 %
+
+218 words total

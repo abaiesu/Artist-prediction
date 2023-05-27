@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                           12
+    may may know know understand may know know known may know know
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell say tell tell tell tell say
+PRIMARY:SENSATION:VISION                                         7
+    blue seen light blue look light blue
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find won find find won
+SECONDARY:TEMPORAL REFERENCES                                    4
+    today time now when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    among at
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gate
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flown
+
+PRIMARY             : 34.090909 %
+SECONDARY           : 63.636364 %
+EMOTIONS            : 2.272727 %
+
+158 words total

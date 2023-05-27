@@ -1,0 +1,22 @@
+EMOTIONS:POSITIVE AFFECT                                         4
+    grinnin grinnin grinnin grinnin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face face face face
+SECONDARY:ABSTRACTION                                            4
+    true know know true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find try find
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+EMOTIONS:AFFECTION                                               2
+    friend friend
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk talk
+
+PRIMARY             : 26.086957 %
+SECONDARY           : 47.826087 %
+EMOTIONS            : 26.086957 %
+
+92 words total

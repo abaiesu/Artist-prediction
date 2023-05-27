@@ -1,0 +1,54 @@
+PRIMARY:SENSATION:TASTE                                         47
+    sweet sweetness sweet sweet sweet sweet sweeter sweetness sweetness sweetness sweetness sweetness sweetness sweet sweet sweet sweet sweetness sweetness sweetness sweet sweet sweet sweet sweetness sweetness sweetness sweet sweet sweet sweet sweetness sweetness sweetness sweet sweet sweetness sweetness sweetness sweetness sweetness sweetness sweet sweet sweetness sweetness sweetness
+EMOTIONS:AFFECTION                                              30
+    love love lovin love lovin love love love love love lovin love love lovin loving love love lovin love love lovin love love lovin love love lovin love love lovin
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    reminded talkin say say call say say call say follow call
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time ever time ever everday then minute time when when
+PRIMARY:NEED:ORALITY                                             8
+    candy sugar sugar candy fast sugar eat wheaties
+SECONDARY:ABSTRACTION                                            6
+    think think prove cause cause cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make deliver make money buy
+PRIMARY:SENSATION:VISION                                         4
+    saw star ray flash
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off out rounds away
+SECONDARY:RESTRAINT                                              3
+    bar stop caught
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream insanity
+EMOTIONS:GLORY                                                   2
+    great hero
+PRIMARY:SENSATION:SOUND                                          2
+    ring bang
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    stranger mystery
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+PRIMARY:SENSATION:HARD                                           1
+    rocket
+PRIMARY:SENSATION:COLD                                           1
+    shiver
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+EMOTIONS:SADNESS                                                 1
+    tragedy
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mister
+
+PRIMARY             : 52.739726 %
+SECONDARY           : 23.972603 %
+EMOTIONS            : 23.287671 %
+
+552 words total

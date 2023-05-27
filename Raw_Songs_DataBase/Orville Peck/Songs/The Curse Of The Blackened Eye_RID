@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                            9
+    true true cause true true true true true true
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every time year times now every
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    follows follows said follows follows
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out closer long out
+PRIMARY:SENSATION:COLD                                           4
+    northeast northeast northeast northeast
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun sun sun sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die lie
+EMOTIONS:AGGRESSION                                              2
+    beat break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try work
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+EMOTIONS:AFFECTION                                               1
+    darlin
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 8.333333 %
+
+205 words total

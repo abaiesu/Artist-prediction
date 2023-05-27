@@ -1,0 +1,48 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    used used make try belong make make tried make make make make
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time old when again then old when old when
+SECONDARY:MORAL IMPERATIVE                                       7
+    conscience right right conscience right conscience right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long off somewhere somewhere somewhere somewhere
+SECONDARY:ABSTRACTION                                            6
+    guess know know guess know know
+PRIMARY:SENSATION:SOUND                                          5
+    tuned noise voices hear tuned
+PRIMARY:SENSATION:VISION                                         4
+    watch light light light
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    shadows shadows shadows
+EMOTIONS:AGGRESSION                                              2
+    kicking cut
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow lay
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    advice advice
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chased
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rollin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bone
+
+PRIMARY             : 42.028986 %
+SECONDARY           : 52.173913 %
+EMOTIONS            : 5.797101 %
+
+289 words total

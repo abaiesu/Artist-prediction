@@ -1,0 +1,14 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everyone everyone everyone everyone everyone everyone
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here near near
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 18.181818 %
+
+47 words total

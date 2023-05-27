@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             19
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:TEMPORAL REFERENCES                                   16
+    while time when while when tonight while while every while tonight while tonight while while while
+EMOTIONS:AFFECTION                                              10
+    like like love love love like like like like like
+PRIMARY:SENSATION:TASTE                                          5
+    sweetness sweet sweet sweet sweetness
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy crazy crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride ride ride
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+EMOTIONS:ANXIETY                                                 1
+    worry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    beat
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 27.536232 %
+EMOTIONS            : 20.289855 %
+
+225 words total

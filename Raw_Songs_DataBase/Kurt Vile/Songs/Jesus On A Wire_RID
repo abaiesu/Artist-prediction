@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         6
+    lookin see watch saw saw scene
+SECONDARY:ABSTRACTION                                            4
+    know thinkin almost them
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out here out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reach claim built
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky ceiling sky
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talking tell
+EMOTIONS:AGGRESSION                                              2
+    breakdown blame
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old when
+PRIMARY:SENSATION:SOUND                                          2
+    ring chords
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    floating upward
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    edge horizon
+EMOTIONS:ANXIETY                                                 1
+    nervous
+PRIMARY:NEED:ANALITY                                             1
+    mess
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shakes
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 13.157895 %
+
+171 words total

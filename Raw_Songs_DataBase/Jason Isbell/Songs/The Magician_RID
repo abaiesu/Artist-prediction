@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    somewhere here somewhere here somewhere here here here
+EMOTIONS:SADNESS                                                 6
+    orphan orphan orphan orphan orphan orphan
+SECONDARY:ABSTRACTION                                            5
+    know them them believe know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call taught called
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand feet hand
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughed laughed
+EMOTIONS:AGGRESSION                                              2
+    steal steal
+PRIMARY:SENSATION:VISION                                         1
+    watch
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:AFFECTION                                               1
+    bride
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+
+PRIMARY             : 34.210526 %
+SECONDARY           : 34.210526 %
+EMOTIONS            : 31.578947 %
+
+216 words total

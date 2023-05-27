@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                            5
+    know knows know cause know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where along here where
+SECONDARY:MORAL IMPERATIVE                                       2
+    oughta right
+EMOTIONS:AFFECTION                                               2
+    friend lover
+PRIMARY:SENSATION:VISION                                         1
+    bright
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 52.941176 %
+EMOTIONS            : 11.764706 %
+
+115 words total

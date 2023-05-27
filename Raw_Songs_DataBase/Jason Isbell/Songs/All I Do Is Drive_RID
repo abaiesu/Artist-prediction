@@ -1,0 +1,40 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                          20
+    driver drive drive drive drive drive drive drive drive driving drive drive drive drive drive drive drive drive drive drive
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    asked asked tell said shared said said
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old when every every then every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out here at at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+EMOTIONS:AFFECTION                                               3
+    loving like mate
+PRIMARY:SENSATION:SOUND                                          3
+    hear music tune
+SECONDARY:ABSTRACTION                                            2
+    know truth
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eye
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:ANXIETY                                                 1
+    trembled
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sights
+
+PRIMARY             : 61.016949 %
+SECONDARY           : 28.813559 %
+EMOTIONS            : 10.169492 %
+
+269 words total

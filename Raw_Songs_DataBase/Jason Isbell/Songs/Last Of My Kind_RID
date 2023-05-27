@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              13
+    like kind kind like kind kind kind kind kind kind kind kind kind
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at here here back at at back long long
+SECONDARY:TEMPORAL REFERENCES                                    7
+    everybody old past time everything when hours
+EMOTIONS:POSITIVE AFFECT                                         5
+    happy funny laughed laughed laughed
+PRIMARY:SENSATION:VISION                                         5
+    see stars light blue picture
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    spend tried belong won
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    river river river
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said says
+PRIMARY:NEED:ANALITY                                             2
+    dirty filthy
+PRIMARY:SENSATION:COLD                                           2
+    winter cold
+SECONDARY:ABSTRACTION                                            2
+    them true
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    sidewalk
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+
+PRIMARY             : 42.187500 %
+SECONDARY           : 26.562500 %
+EMOTIONS            : 31.250000 %
+
+301 words total

@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    place far where place here place inside far here place inside far
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             9
+    stranger strange mystery stranger strange stranger strange stranger strange
+SECONDARY:TEMPORAL REFERENCES                                    7
+    years ago now sometimes years again time
+PRIMARY:SENSATION:COLD                                           6
+    ice snow ice snow ice snow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    gained find found
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    calling rescue answer
+SECONDARY:RESTRAINT                                              3
+    prison prison prison
+PRIMARY:SENSATION:VISION                                         2
+    scan see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky spirit
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizon
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wanders
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endlessly
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:ABSTRACTION                                            1
+    why
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+
+PRIMARY             : 68.965517 %
+SECONDARY           : 29.310345 %
+EMOTIONS            : 1.724138 %
+
+263 words total

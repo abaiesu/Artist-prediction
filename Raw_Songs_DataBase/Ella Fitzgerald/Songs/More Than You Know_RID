@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            7
+    true know know know know may know
+EMOTIONS:AFFECTION                                               6
+    fonder friends love loving loving goodbye
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here along
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    yonder wander
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    succeed find
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry sigh
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+EMOTIONS:AGGRESSION                                              1
+    break
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    honey
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 25.806452 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 32.258065 %
+
+161 words total

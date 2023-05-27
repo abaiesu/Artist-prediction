@@ -1,0 +1,52 @@
+EMOTIONS:AFFECTION                                              27
+    romance love love love dear love love love love love love love love love love love love love love love love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 15
+    use use make make makin makin make make make make make makin make make make
+SECONDARY:TEMPORAL REFERENCES                                   10
+    yesterday now time time everybody everybody every when then every
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    meeting say say met say say talkin say talkin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face head face body body
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    woke sleep madness asleep
+PRIMARY:SENSATION:VISION                                         4
+    watched glance see colored
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart hear hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing horn players
+EMOTIONS:SADNESS                                                 3
+    loneliness weep lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    peaceful contentment bed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place wide
+EMOTIONS:AGGRESSION                                              2
+    anger war
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:NEED:SEX                                                 1
+    caress
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:ABSTRACTION                                            1
+    truly
+SECONDARY:ORDER                                                  1
+    listenin
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 27.184466 %
+SECONDARY           : 36.893204 %
+EMOTIONS            : 35.922330 %
+
+369 words total

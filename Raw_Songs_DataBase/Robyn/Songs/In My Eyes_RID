@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                           16
+    know know believe true true think them know think think true think them know think think
+PRIMARY:SENSATION:VISION                                        14
+    star look look shine look look looking look star look look looking look star
+SECONDARY:TEMPORAL REFERENCES                                   12
+    ever again when then when then again when when then again when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    apart inside off outside back inside off outside back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    eyes eyes eyes eyes eyes hand eyes eyes eyes
+EMOTIONS:AFFECTION                                               7
+    like like like like friend like like
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    records make make
+EMOTIONS:AGGRESSION                                              3
+    rebels cruel cruel
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 42.682927 %
+SECONDARY           : 42.682927 %
+EMOTIONS            : 14.634146 %
+
+303 words total
