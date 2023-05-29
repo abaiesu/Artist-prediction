@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    excusing said say admit please said say mention said say
+SECONDARY:ABSTRACTION                                           10
+    prove cause know think cause sure guess think know think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here overcomplicating at here overcomplicating away long away here overcomplicating
+SECONDARY:TEMPORAL REFERENCES                                    9
+    everything when minute once everything when while everything when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    trying won won trying trying
+PRIMARY:SENSATION:SOUND                                          4
+    heart ring ring ring
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+PRIMARY:SENSATION:VISION                                         3
+    lights lights lights
+SECONDARY:MORAL IMPERATIVE                                       3
+    legal legal legal
+SECONDARY:RESTRAINT                                              2
+    catch managed
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:COLD                                           2
+    winter ice
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 32.835821 %
+SECONDARY           : 59.701493 %
+EMOTIONS            : 7.462687 %
+
+336 words total

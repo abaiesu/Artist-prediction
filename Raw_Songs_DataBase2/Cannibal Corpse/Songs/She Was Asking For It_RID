@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         21
+    eye blood hands blood skin blood hands blood hands neck eyes head skin hands neck eyes head skin blood hands blood
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    back back back inside inside at inside out back at back out out out back at back out inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       11
+    died dead dead dead dead dead dead died dead dead dead
+PRIMARY:SENSATION:VISION                                         7
+    scene see see see see see see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    screams screams screaming screaming screams screams
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    asking calling calling asking calling
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear hear hear
+SECONDARY:ABSTRACTION                                            3
+    understand know know
+EMOTIONS:ANXIETY                                                 2
+    fear fright
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall buried
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep wake
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolled rolled
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+EMOTIONS:AGGRESSION                                              1
+    rob
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+
+PRIMARY             : 78.947368 %
+SECONDARY           : 11.578947 %
+EMOTIONS            : 9.473684 %
+
+291 words total

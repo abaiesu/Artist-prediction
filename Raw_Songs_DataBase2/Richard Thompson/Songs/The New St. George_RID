@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    factory forge paid factory forge factory forge
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time while now
+PRIMARY:SENSATION:SOUND                                          3
+    hear tune tune
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance dance dance
+PRIMARY:NEED:ORALITY                                             3
+    teeth choke poisoned
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where backroom backroom
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calling say
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfaction
+EMOTIONS:AGGRESSION                                              1
+    fight
+SECONDARY:ABSTRACTION                                            1
+    believe
+PRIMARY:SENSATION:VISION                                         1
+    flash
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:GLORY                                                   1
+    noble
+
+PRIMARY             : 38.709677 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 19.354839 %
+
+142 words total

@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    tell tell tell call say tell tell tell calling saying say tell tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 13
+    won won won won make won won won won won won won won
+SECONDARY:TEMPORAL REFERENCES                                   10
+    then when quickly then then while time then time then
+EMOTIONS:AFFECTION                                               9
+    love love love love love love love love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    playing playing sight playing playing playing playing
+SECONDARY:ABSTRACTION                                            2
+    supposed know
+PRIMARY:SENSATION:VISION                                         2
+    see light
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 8.196721 %
+SECONDARY           : 63.934426 %
+EMOTIONS            : 27.868852 %
+
+237 words total

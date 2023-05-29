@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    long far long here far long back long back long back away away long here long here
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say told say tell tell tell
+EMOTIONS:AFFECTION                                               6
+    love love love like love like
+SECONDARY:ABSTRACTION                                            6
+    know real cause real know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used used tried
+SECONDARY:TEMPORAL REFERENCES                                    3
+    till till sometimes
+EMOTIONS:AGGRESSION                                              3
+    steal stealin steal
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 47.272727 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 16.363636 %
+
+304 words total

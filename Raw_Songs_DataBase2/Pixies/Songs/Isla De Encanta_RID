@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here where here
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    enchantment enchantment enchantment
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calle
+SECONDARY:ABSTRACTION                                            1
+    planes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hour
+EMOTIONS:SADNESS                                                 1
+    suffering
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 15.384615 %
+
+132 words total

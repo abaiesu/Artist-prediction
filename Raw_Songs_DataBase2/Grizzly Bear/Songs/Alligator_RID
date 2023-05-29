@@ -1,0 +1,24 @@
+EMOTIONS:AGGRESSION                                              3
+    cut attacks fight
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever quick
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try use
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    near
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sharp
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 23.076923 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 38.461538 %
+
+57 words total

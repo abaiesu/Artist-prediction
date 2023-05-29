@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out out out apart out round out out apart out out apart
+SECONDARY:ABSTRACTION                                            6
+    probably something figure cause cause sure
+EMOTIONS:AGGRESSION                                              5
+    fight hit doubt hit hit
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used find used used
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falling falling falling
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell say
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:SEX                                                 1
+    infatuation
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fading
+
+PRIMARY             : 43.902439 %
+SECONDARY           : 43.902439 %
+EMOTIONS            : 12.195122 %
+
+246 words total

@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out place place over out off close over out off
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now when again time ever ever when again time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find make making making
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+EMOTIONS:AFFECTION                                               3
+    lovers flirt like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face footsteps
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    followed treat
+EMOTIONS:AGGRESSION                                              2
+    broken hurt
+PRIMARY:NEED:ANALITY                                             2
+    shattered dirt
+PRIMARY:SENSATION:HARD                                           2
+    glass glass
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    windows
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 35.416667 %
+EMOTIONS            : 14.583333 %
+
+194 words total

@@ -1,0 +1,22 @@
+EMOTIONS:POSITIVE AFFECT                                        14
+    satisfy satisfy satisfy satisfy satisfy satisfy satisfy satisfy satisfy satisfy satisfy satisfy satisfy satisfy
+EMOTIONS:AGGRESSION                                              7
+    hurt break hurt break break hurt break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    pay pay find won pay find won
+PRIMARY:SENSATION:SOUND                                          4
+    hearts heart hearts heart
+SECONDARY:RESTRAINT                                              2
+    must must
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play game
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+
+PRIMARY             : 10.000000 %
+SECONDARY           : 27.500000 %
+EMOTIONS            : 62.500000 %
+
+172 words total

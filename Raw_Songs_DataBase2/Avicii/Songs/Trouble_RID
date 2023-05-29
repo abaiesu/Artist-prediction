@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    far far ahead where farther long back ahead where
+SECONDARY:ABSTRACTION                                            8
+    learnt may may thinking know plan may may
+PRIMARY:SENSATION:VISION                                         5
+    seen seen see seen seen
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    teacher share follow share
+PRIMARY:SENSATION:SOUND                                          3
+    ring heart heart
+EMOTIONS:ANXIETY                                                 3
+    trouble fears trouble
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find student
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy joy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road step
+EMOTIONS:AFFECTION                                               2
+    loving loving
+EMOTIONS:SADNESS                                                 1
+    loner
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 35.416667 %
+EMOTIONS            : 22.916667 %
+
+303 words total

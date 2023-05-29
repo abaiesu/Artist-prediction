@@ -1,0 +1,46 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  20
+    high high high high high high high high high high high high high high high high high high high high
+PRIMARY:ICARIAN IMAGERY:WATER                                   20
+    water water water water water water water water water water water water water water water water water water water water
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say told told told told told told
+SECONDARY:ABSTRACTION                                            4
+    choose prove know know
+SECONDARY:RESTRAINT                                              3
+    scold scold scold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out back
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll rolled
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing sing
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breath
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everybody
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+EMOTIONS:AGGRESSION                                              1
+    fighting
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 72.972973 %
+SECONDARY           : 21.621622 %
+EMOTIONS            : 5.405405 %
+
+238 words total

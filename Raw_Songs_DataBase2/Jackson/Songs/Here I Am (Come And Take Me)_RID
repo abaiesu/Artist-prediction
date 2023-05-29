@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    inside inside round here here here here round here here here here here here here
+SECONDARY:ABSTRACTION                                            6
+    believe real know know know know
+EMOTIONS:AFFECTION                                               5
+    love loving love love loving
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning burning
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes makes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    laying laying
+EMOTIONS:ANXIETY                                                 2
+    troubles troubles
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 59.523810 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 19.047619 %
+
+220 words total

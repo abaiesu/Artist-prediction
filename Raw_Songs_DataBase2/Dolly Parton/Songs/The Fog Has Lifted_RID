@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         9
+    see sunshine see blue saw view sunshine blue view
+SECONDARY:TEMPORAL REFERENCES                                    9
+    again once now time time now again once now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where between long inside out between where
+SECONDARY:ABSTRACTION                                            6
+    know known know know understanding know
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        5
+    fog fog fog fog fog
+EMOTIONS:AFFECTION                                               4
+    loved like loved love
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    lifted lifted lifted
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+EMOTIONS:AGGRESSION                                              2
+    hurts hate
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    helps forgiving
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+
+PRIMARY             : 55.357143 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 12.500000 %
+
+156 words total

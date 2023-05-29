@@ -1,0 +1,32 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    find belongs belongs belongs belongs belongs
+EMOTIONS:AFFECTION                                               5
+    love love love love marry
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+SECONDARY:ABSTRACTION                                            4
+    cause knows sure cause
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call share invites
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now date when
+SECONDARY:MORAL IMPERATIVE                                       2
+    duties right
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:NEED:ORALITY                                             1
+    dine
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    secure
+SECONDARY:ORDER                                                  1
+    simply
+
+PRIMARY             : 29.411765 %
+SECONDARY           : 55.882353 %
+EMOTIONS            : 14.705882 %
+
+153 words total

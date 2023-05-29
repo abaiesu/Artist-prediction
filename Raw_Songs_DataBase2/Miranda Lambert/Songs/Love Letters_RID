@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    closed front closed front off closed front
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    forgivers promise told forgivers forgivers
+SECONDARY:ABSTRACTION                                            5
+    truth believe supposed know think
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find find used find
+SECONDARY:TEMPORAL REFERENCES                                    4
+    already time already already
+PRIMARY:SENSATION:VISION                                         4
+    flashing flashing flashing flashing
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    wet wet wet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    wings wings wings
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    gate gate gate
+EMOTIONS:AGGRESSION                                              2
+    broken hurt
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 48.936170 %
+SECONDARY           : 38.297872 %
+EMOTIONS            : 12.765957 %
+
+178 words total

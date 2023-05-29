@@ -1,0 +1,26 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    tree tree tree
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:TASTE                                          2
+    sweetheart sweetheart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:ABSTRACTION                                            1
+    true
+SECONDARY:TEMPORAL REFERENCES                                    1
+    evermore
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 14.285714 %
+
+63 words total

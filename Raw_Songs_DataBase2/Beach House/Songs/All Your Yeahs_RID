@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say ask asks ask say say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    hush lay dead hush
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when sooner when when
+SECONDARY:ABSTRACTION                                            4
+    them them them them
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    closer inside away
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rollercoaster rollercoaster
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 14.705882 %
+
+152 words total

@@ -1,0 +1,30 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    used used used find used used
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time now when when when now
+EMOTIONS:AFFECTION                                               3
+    like like love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    behind close behind
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grows high
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+EMOTIONS:ANXIETY                                                 1
+    fright
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 53.571429 %
+EMOTIONS            : 17.857143 %
+
+158 words total

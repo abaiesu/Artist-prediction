@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old old time now old time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    south over over long over
+EMOTIONS:AGGRESSION                                              4
+    broken broken killed broken
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest rest
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share spoken
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:VISION                                         1
+    shines
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistreat
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heel
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 16.666667 %
+
+215 words total

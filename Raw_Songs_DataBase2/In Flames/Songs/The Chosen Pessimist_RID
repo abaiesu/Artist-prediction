@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    side side between side between here here
+SECONDARY:ORDER                                                  7
+    constant constant balance divides constant balance balance
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell follow tell follow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    dying slowly dying dying
+EMOTIONS:AFFECTION                                               3
+    friend love love
+PRIMARY:SENSATION:VISION                                         3
+    light halo watch
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    path path
+EMOTIONS:POSITIVE AFFECT                                         2
+    amused amused
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:SENSATION:HARD                                           2
+    stone stone
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    burden
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:ABSTRACTION                                            1
+    chosen
+
+PRIMARY             : 48.837209 %
+SECONDARY           : 32.558140 %
+EMOTIONS            : 18.604651 %
+
+180 words total

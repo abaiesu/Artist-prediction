@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    meet talk appeal say say say say say say said called told
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    money money buy won money spend money find money money
+SECONDARY:ABSTRACTION                                            5
+    cause know real cause cause
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now then when then already
+EMOTIONS:AFFECTION                                               3
+    lovin dear marry
+SECONDARY:RESTRAINT                                              2
+    stop block
+PRIMARY:NEED:ORALITY                                             2
+    eat honey
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy thrill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    ahead here
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 15.217391 %
+SECONDARY           : 73.913043 %
+EMOTIONS            : 10.869565 %
+
+230 words total

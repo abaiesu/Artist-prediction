@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            7
+    know thought know think think think think
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then when now when now
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    played game
+EMOTIONS:AGGRESSION                                              2
+    unkind hurt
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:SADNESS                                                 1
+    sorrow
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+
+PRIMARY             : 23.076923 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 23.076923 %
+
+159 words total

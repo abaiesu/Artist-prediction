@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when when when when when when when when when
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    call say tell say say say ask talk talk
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    play play cry cry sing sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where where where space at
+EMOTIONS:AFFECTION                                               5
+    love love like flirt flirt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    work work buy buy
+SECONDARY:ABSTRACTION                                            3
+    learn learn why
+PRIMARY:NEED:ORALITY                                             2
+    eat eat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh laugh
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shake shake
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:COLD                                           1
+    children
+
+PRIMARY             : 25.925926 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 24.074074 %
+
+327 words total

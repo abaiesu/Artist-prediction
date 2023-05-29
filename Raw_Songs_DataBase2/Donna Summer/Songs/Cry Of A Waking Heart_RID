@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                               7
+    like like love like like familiar love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    open wide within inside behind apart
+PRIMARY:SENSATION:VISION                                         6
+    survey light shine colour view imagine
+PRIMARY:SENSATION:SOUND                                          4
+    sound heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    waking waking waking slumber
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+SECONDARY:ABSTRACTION                                            2
+    believe truly
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    stream waters
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly rising
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever eternal
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    explain
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    vibration
+
+PRIMARY             : 65.306122 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 20.408163 %
+
+158 words total

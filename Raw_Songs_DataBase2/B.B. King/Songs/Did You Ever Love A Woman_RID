@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    ever ever time everyday ever time when time then everything ever time
+EMOTIONS:AFFECTION                                               8
+    love loved love loved love loved love loved
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    treating treating calls say treating
+SECONDARY:ABSTRACTION                                            4
+    knew knew real knew
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at away out
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wash wash
+EMOTIONS:AGGRESSION                                              1
+    breakfast
+PRIMARY:NEED:ORALITY                                             1
+    dishes
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    mend
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 53.061224 %
+EMOTIONS            : 18.367347 %
+
+200 words total

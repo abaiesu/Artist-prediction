@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       26
+    back long back back back long back back back across here back back long back back back long back back back across here back back here
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    saying told call call saying told call call saying saying saying saying
+SECONDARY:TEMPORAL REFERENCES                                   11
+    everybody soon now every now years ago now every now when
+EMOTIONS:AFFECTION                                              11
+    friend lover dear dear loved love friend lover dear dear like
+SECONDARY:ABSTRACTION                                            5
+    knows know know know know
+PRIMARY:SENSATION:VISION                                         4
+    see look see look
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    screaming dancing screaming dancing
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fairy fairy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make belong
+EMOTIONS:AGGRESSION                                              1
+    strikes
+
+PRIMARY             : 41.025641 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 20.512821 %
+
+337 words total

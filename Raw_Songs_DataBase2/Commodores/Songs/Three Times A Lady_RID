@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    times now once times once times when moments every once times
+EMOTIONS:AFFECTION                                               4
+    love cherish love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    thanks say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out apart
+PRIMARY:SENSATION:SOUND                                          2
+    loud heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbow
+SECONDARY:ABSTRACTION                                            1
+    something
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 23.076923 %
+SECONDARY           : 57.692308 %
+EMOTIONS            : 19.230769 %
+
+105 words total

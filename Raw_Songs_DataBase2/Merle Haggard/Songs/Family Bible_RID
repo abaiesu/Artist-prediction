@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever when when when now old old when
+PRIMARY:SENSATION:HARD                                           6
+    hard rock rock rock rock rock
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at over round round
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work count find
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:SENSATION:SOFT                                           2
+    softly softly
+EMOTIONS:AGGRESSION                                              1
+    torn
+PRIMARY:NEED:ORALITY                                             1
+    meal
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 6.666667 %
+
+165 words total

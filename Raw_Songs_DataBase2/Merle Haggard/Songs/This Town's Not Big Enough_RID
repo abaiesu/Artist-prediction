@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where behind between far off places where along
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today once now when every
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window windows road
+EMOTIONS:AFFECTION                                               2
+    loved love
+EMOTIONS:SADNESS                                                 2
+    sorrow lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face faces
+PRIMARY:SENSATION:VISION                                         2
+    see lightly
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:ABSTRACTION                                            1
+    guess
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 64.516129 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 12.903226 %
+
+146 words total

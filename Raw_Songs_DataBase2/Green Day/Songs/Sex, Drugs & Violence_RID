@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    round at out back at wherever back at back at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    pay pay lessons pay pay lessons pay pay lessons
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        8
+    die safety die safety die safety safety safety
+SECONDARY:ABSTRACTION                                            8
+    guess science guess science guess science science science
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now sometimes now sometimes sometimes
+PRIMARY:NEED:SEX                                                 5
+    sex sex sex sex sex
+EMOTIONS:AGGRESSION                                              5
+    violence violence violence violence violence
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    follows teaching teaching teaching
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    attention attention attention
+PRIMARY:SENSATION:HARD                                           3
+    hardest hardest hardest
+SECONDARY:RESTRAINT                                              3
+    must must must
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    mystery mystery
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+
+PRIMARY             : 47.297297 %
+SECONDARY           : 39.189189 %
+EMOTIONS            : 13.513514 %
+
+282 words total

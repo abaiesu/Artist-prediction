@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    over here out away out out away away inside where
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    introduce mention guiding promised guide
+PRIMARY:SENSATION:VISION                                         3
+    saw flashlight watch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    building makes try
+SECONDARY:TEMPORAL REFERENCES                                    3
+    quick when when
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    underneath below
+SECONDARY:RESTRAINT                                              2
+    resist catch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searching melts
+EMOTIONS:AFFECTION                                               2
+    likes like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grows grows
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:SENSATION:TOUCH                                          1
+    tickle
+SECONDARY:ORDER                                                  1
+    order
+EMOTIONS:AGGRESSION                                              1
+    chiding
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:NEED:ORALITY                                             1
+    strawberry
+PRIMARY:NEED:ANALITY                                             1
+    mud
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+
+PRIMARY             : 59.090909 %
+SECONDARY           : 31.818182 %
+EMOTIONS            : 9.090909 %
+
+153 words total

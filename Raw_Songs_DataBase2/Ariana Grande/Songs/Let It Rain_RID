@@ -1,0 +1,26 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   12
+    rain rain rain rain rain rain rain rain rain rain rain rain
+SECONDARY:ABSTRACTION                                            4
+    why think why why
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out open
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever now
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:SENSATION:VISION                                         2
+    shine shine
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    thanks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 3.571429 %
+
+169 words total

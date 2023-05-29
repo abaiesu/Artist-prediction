@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              21
+    love love kind kind love kind love love love kind kind love kind love kind kind love love kind love kind
+SECONDARY:RESTRAINT                                             12
+    must obligations must must must must must must must must must must
+SECONDARY:MORAL IMPERATIVE                                       4
+    rights right right right
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    promises met call
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    magic magic magic
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad mad
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    sensitive
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    cultivates
+
+PRIMARY             : 15.789474 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 42.105263 %
+
+235 words total

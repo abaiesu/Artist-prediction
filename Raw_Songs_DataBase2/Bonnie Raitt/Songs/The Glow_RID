@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when tonight now now tonight tonight tonight
+SECONDARY:ABSTRACTION                                            5
+    think guess think know guess
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say tellin talk talkin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    point here here here
+PRIMARY:NEED:ORALITY                                             3
+    drink drink drink
+PRIMARY:SENSATION:VISION                                         2
+    see glow
+PRIMARY:SENSATION:SOUND                                          2
+    hear sound
+EMOTIONS:AFFECTION                                               2
+    friend friend
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+
+PRIMARY             : 34.375000 %
+SECONDARY           : 56.250000 %
+EMOTIONS            : 9.375000 %
+
+128 words total

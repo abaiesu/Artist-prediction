@@ -1,0 +1,18 @@
+PRIMARY:NEED:ORALITY                                             4
+    drunk drunk liquor vomit
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight tonight
+PRIMARY:SENSATION:COLD                                           1
+    childish
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+SECONDARY:ABSTRACTION                                            1
+    cause
+EMOTIONS:AGGRESSION                                              1
+    hits
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 10.000000 %
+
+74 words total

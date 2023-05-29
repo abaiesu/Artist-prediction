@@ -1,0 +1,38 @@
+EMOTIONS:AGGRESSION                                              3
+    hurtin hurtin hurtin
+SECONDARY:ABSTRACTION                                            3
+    thought thought know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    played yelling play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    job pay
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say told
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:NEED:ORALITY                                             1
+    drinkin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blast
+PRIMARY:NEED:SEX                                                 1
+    fucking
+SECONDARY:ORDER                                                  1
+    class
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 29.166667 %
+
+109 words total

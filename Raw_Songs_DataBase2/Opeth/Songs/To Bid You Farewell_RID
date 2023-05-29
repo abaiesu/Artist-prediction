@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    once again when every
+EMOTIONS:AFFECTION                                               3
+    embracing devotion farewell
+PRIMARY:SENSATION:VISION                                         2
+    gazing see
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling falling
+PRIMARY:SENSATION:SOUND                                          2
+    voice hear
+EMOTIONS:SADNESS                                                 2
+    sadness wept
+SECONDARY:ABSTRACTION                                            2
+    know why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    bid try
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sunrise
+PRIMARY:SENSATION:COLD                                           1
+    coldest
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    treetops
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    motionless
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ashes
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 21.428571 %
+
+92 words total

@@ -1,0 +1,28 @@
+PRIMARY:NEED:ORALITY                                             8
+    bite bite bite bite ale ale bite bite
+EMOTIONS:AFFECTION                                               6
+    loving like loving like loving like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time clock time clock time
+SECONDARY:RESTRAINT                                              5
+    catch catch catch catch catch
+SECONDARY:ABSTRACTION                                            5
+    something know something know something
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won won
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here here here
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river river
+PRIMARY:SENSATION:VISION                                         2
+    spied spied
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hungry hungry
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 40.909091 %
+EMOTIONS            : 13.636364 %
+
+287 words total

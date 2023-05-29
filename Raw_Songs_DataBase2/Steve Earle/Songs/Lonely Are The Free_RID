@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    separately where between here over place along
+EMOTIONS:SADNESS                                                 4
+    lonely lonely lonely lonely
+SECONDARY:ABSTRACTION                                            4
+    cause them them known
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tells help signaling ask
+PRIMARY:SENSATION:VISION                                         3
+    lighter see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silent stillness silent
+PRIMARY:SENSATION:SOFT                                           2
+    feather whisper
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wander yonder
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now moment
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging dawn
+EMOTIONS:AGGRESSION                                              2
+    breaking violent
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumble
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:ANALITY                                             1
+    shattered
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 54.761905 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 16.666667 %
+
+166 words total

@@ -1,0 +1,28 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 18
+    reached reached reached reached reached reached reached reached reached reached reached reached reached reached reached reached reached reached
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where where places point point east point
+PRIMARY:SENSATION:VISION                                         7
+    sees see see seen green seen green
+SECONDARY:RESTRAINT                                              6
+    caught caught caught caught caught caught
+SECONDARY:ABSTRACTION                                            3
+    know know real
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    yellow sings yellow
+EMOTIONS:SADNESS                                                 2
+    paint painted
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    called
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:ORDER                                                  1
+    divided
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 10.000000 %
+
+260 words total

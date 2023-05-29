@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    close here here here here
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    mistaking clouds mistaking clouds
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then now
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountains mountains
+PRIMARY:NEED:SEX                                                 1
+    shameless
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:SENSATION:HARD                                           1
+    stiff
+PRIMARY:SENSATION:SOFT                                           1
+    mild
+SECONDARY:ORDER                                                  1
+    simply
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    advisors
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    fountains
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highlands
+
+PRIMARY             : 77.272727 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 0.000000 %
+
+90 words total

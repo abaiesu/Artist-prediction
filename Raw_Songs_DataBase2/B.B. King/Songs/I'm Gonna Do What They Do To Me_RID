@@ -1,0 +1,36 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    job work won buy pay spend make won money money
+SECONDARY:TEMPORAL REFERENCES                                    8
+    every every when now when now times till
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place out out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face hand hand
+SECONDARY:ABSTRACTION                                            2
+    think think
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask ask
+EMOTIONS:POSITIVE AFFECT                                         2
+    smilin smilin
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AFFECTION                                               1
+    loves
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:SADNESS                                                 1
+    frown
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clown
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 26.315789 %
+SECONDARY           : 57.894737 %
+EMOTIONS            : 15.789474 %
+
+261 words total

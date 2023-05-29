@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where at away where away where where where
+EMOTIONS:GLORY                                                   7
+    castles castles castles castles castles castles castles
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    beach sea wash beach sea washed
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    meet helps meet tell
+SECONDARY:ABSTRACTION                                            3
+    them them know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    build build used
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heavenly heavenly
+SECONDARY:RESTRAINT                                              2
+    stop must
+EMOTIONS:AFFECTION                                               1
+    lovers
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+
+PRIMARY             : 44.186047 %
+SECONDARY           : 34.883721 %
+EMOTIONS            : 20.930233 %
+
+120 words total

@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    tell said says meet say said address meeting asked tell told tell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    harper harper play harper harper harper harper harper harper harper
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now now times date whenever now again then now
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    8
+    valley valley valley valley valley valley valley valley
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here round away here long place at
+SECONDARY:ABSTRACTION                                            5
+    believe sure why cause think
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+SECONDARY:RESTRAINT                                              2
+    stop bar
+PRIMARY:NEED:ORALITY                                             2
+    drinkin gin
+SECONDARY:MORAL IMPERATIVE                                       2
+    ought shouldn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    use find
+PRIMARY:SENSATION:ODOR                                           2
+    smell breath
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:COLD                                           1
+    ice
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shades
+
+PRIMARY             : 36.764706 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 16.176471 %
+
+344 words total

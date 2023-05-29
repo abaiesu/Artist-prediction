@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    away long out here here here long here back here back here long nearly long
+EMOTIONS:AFFECTION                                               7
+    lovin like love love love love love
+PRIMARY:SENSATION:TASTE                                          6
+    sweet sweet sweet sweet sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time now when time
+SECONDARY:ABSTRACTION                                            3
+    real something know
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell call
+PRIMARY:NEED:ORALITY                                             2
+    sugar candy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+PRIMARY:NEED:SEX                                                 1
+    caress
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    depths
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 23.913043 %
+EMOTIONS            : 19.565217 %
+
+253 words total

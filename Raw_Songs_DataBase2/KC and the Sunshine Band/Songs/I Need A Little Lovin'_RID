@@ -1,0 +1,20 @@
+EMOTIONS:AFFECTION                                              18
+    lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin
+PRIMARY:SENSATION:TASTE                                          8
+    sweet sweet sweet sweet sweet sweet sweet sweet
+SECONDARY:MORAL IMPERATIVE                                       8
+    right right right right right right right right
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now now now now now now now
+PRIMARY:SENSATION:VISION                                         4
+    see see watching seen
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+
+PRIMARY             : 26.530612 %
+SECONDARY           : 36.734694 %
+EMOTIONS            : 36.734694 %
+
+191 words total

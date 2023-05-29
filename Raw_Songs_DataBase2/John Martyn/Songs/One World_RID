@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               9
+    like like like like like like like like love
+PRIMARY:SENSATION:COLD                                           7
+    cold cold cold cold cold cold cold
+EMOTIONS:SADNESS                                                 7
+    lonely lonely lonely lonely lonely lonely lonely
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make use make make
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say talk say
+SECONDARY:ABSTRACTION                                            3
+    know believe know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place place place
+EMOTIONS:GLORY                                                   2
+    princes princes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+
+PRIMARY             : 23.809524 %
+SECONDARY           : 30.952381 %
+EMOTIONS            : 45.238095 %
+
+242 words total

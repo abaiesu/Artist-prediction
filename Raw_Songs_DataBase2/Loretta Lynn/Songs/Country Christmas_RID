@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old old presents old old old old
+PRIMARY:NEED:ORALITY                                             4
+    apples nuts candy cakes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play sing sight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    round open here
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree tree
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    organ
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+PRIMARY:SENSATION:SOUND                                          1
+    belle
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ORDER                                                  1
+    gradnama
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 14.285714 %
+
+135 words total

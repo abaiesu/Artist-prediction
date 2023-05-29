@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    talkin talkin talkin talkin talkin say say talkin talkin talkin talkin
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time older when while everybody
+SECONDARY:ORDER                                                  4
+    simple simple simple simple
+EMOTIONS:AFFECTION                                               4
+    love love lovin lovin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try find make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+EMOTIONS:POSITIVE AFFECT                                         2
+    smilin smile
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:SADNESS                                                 1
+    frowns
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 20.454545 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 25.000000 %
+
+163 words total

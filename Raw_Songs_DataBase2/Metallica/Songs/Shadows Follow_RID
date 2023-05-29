@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    shelter follow follow follow follow follow say follow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away away closing away closing away away
+EMOTIONS:AGGRESSION                                              6
+    cut cut hate fight cut hate
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    try try won cost try won
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    shadows shadows shadows shadows shadows shadows
+SECONDARY:RESTRAINT                                              4
+    shut stop stop shut
+SECONDARY:ABSTRACTION                                            4
+    may cause cause know
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    grow hungry grow grow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead tranquilized decay
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes face eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    seething seething seething
+PRIMARY:SENSATION:ODOR                                           3
+    breathing breathing breathing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    nightmares nightmares nightmares
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging hanging
+PRIMARY:NEED:ANALITY                                             2
+    stalking stalks
+PRIMARY:NEED:ORALITY                                             2
+    fast fast
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 53.521127 %
+SECONDARY           : 32.394366 %
+EMOTIONS            : 14.084507 %
+
+218 words total

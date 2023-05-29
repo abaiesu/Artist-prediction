@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                         8
+    film violets violets looked violets blue violets violets
+PRIMARY:SENSATION:COLD                                           6
+    winter snowflakes ice snow snow wintry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    somewhere within where at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    bought bought bought bought
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling fell
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring lift
+SECONDARY:TEMPORAL REFERENCES                                    2
+    while then
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drifted lay
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melted
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    dew
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowds
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+PRIMARY:SENSATION:TASTE                                          1
+    sweetly
+SECONDARY:ABSTRACTION                                            1
+    thought
+
+PRIMARY             : 74.418605 %
+SECONDARY           : 18.604651 %
+EMOTIONS            : 6.976744 %
+
+149 words total

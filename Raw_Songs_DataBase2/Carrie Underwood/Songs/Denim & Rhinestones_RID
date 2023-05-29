@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              12
+    like like like like like like like like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back out back out out
+PRIMARY:NEED:ORALITY                                             5
+    cooking supper tea lemon lips
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    fire sparkle fire fire
+PRIMARY:SENSATION:TOUCH                                          3
+    smooth smooth smooth
+PRIMARY:SENSATION:VISION                                         3
+    shine shine shine
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancing dancing dancing
+PRIMARY:SENSATION:COLD                                           3
+    cool cool cool
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+SECONDARY:ORDER                                                  1
+    classic
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:NEED:SEX                                                 1
+    kissing
+SECONDARY:RESTRAINT                                              1
+    lock
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 12.500000 %
+EMOTIONS            : 31.250000 %
+
+256 words total

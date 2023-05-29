@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                       29
+    ask ask tell ask ask tell ask ask say ask ask please tell tell say ask ask ask ask tell tell ask ask tell ask ask please ask ask
+EMOTIONS:AFFECTION                                              12
+    like like like like like like love love friend friend friend friend
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then when everything once time now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    try make trying try make try
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back close inside along back
+EMOTIONS:AGGRESSION                                              5
+    bothering bothering bothering bothering hurt
+SECONDARY:ABSTRACTION                                            4
+    think something cause think
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 11.428571 %
+SECONDARY           : 64.285714 %
+EMOTIONS            : 24.285714 %
+
+323 words total

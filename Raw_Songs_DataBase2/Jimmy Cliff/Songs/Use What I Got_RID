@@ -1,0 +1,38 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 26
+    use use use trying use use use use use use find find use use use use use use use use use use use use use use
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old now while sometimes when now
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    ask talking say answer said said
+SECONDARY:ABSTRACTION                                            5
+    knows know why cause know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back at side place
+PRIMARY:NEED:ORALITY                                             2
+    eat herb
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    woe
+EMOTIONS:GLORY                                                   1
+    rich
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    steep
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:NEED:ANALITY                                             1
+    disgusted
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 21.666667 %
+SECONDARY           : 71.666667 %
+EMOTIONS            : 6.666667 %
+
+318 words total

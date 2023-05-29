@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at at here
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old now now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets gates curb
+PRIMARY:SENSATION:VISION                                         3
+    stars lamplight invisible
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work money
+EMOTIONS:AGGRESSION                                              2
+    steal hit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heads cheeks
+SECONDARY:ABSTRACTION                                            1
+    real
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    reel
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:NEED:ANALITY                                             1
+    pisses
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:NEED:ORALITY                                             1
+    drunken
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 21.875000 %
+EMOTIONS            : 15.625000 %
+
+160 words total

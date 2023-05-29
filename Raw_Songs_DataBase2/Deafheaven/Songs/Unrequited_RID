@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over where where where behind away
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old once past present again
+PRIMARY:SENSATION:COLD                                           3
+    cold winter cold
+EMOTIONS:AGGRESSION                                              3
+    torn cut hated
+SECONDARY:RESTRAINT                                              2
+    binds catching
+EMOTIONS:SADNESS                                                 1
+    grief
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    discord
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    staggering
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    steps
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bathing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sung
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 16.666667 %
+
+134 words total

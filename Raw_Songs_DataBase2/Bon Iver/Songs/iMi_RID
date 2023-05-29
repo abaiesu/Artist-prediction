@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              10
+    lover kind like like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell forgiveness tell say say say say say say tell
+SECONDARY:ABSTRACTION                                            7
+    know cause know know know why truth
+SECONDARY:TEMPORAL REFERENCES                                    7
+    again while then now every then now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here within here longer at
+EMOTIONS:SADNESS                                                 1
+    lonesome
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 18.181818 %
+SECONDARY           : 56.818182 %
+EMOTIONS            : 25.000000 %
+
+249 words total

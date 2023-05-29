@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    long apart back back here back back back back here back back back back here back back back back back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    trying tried find won make make
+SECONDARY:ABSTRACTION                                            5
+    real fact fact fact think
+EMOTIONS:AFFECTION                                               5
+    love love romance love love
+EMOTIONS:SADNESS                                                 4
+    loneliness pain lonely sadly
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now everybody now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell say
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    tossing
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:SENSATION:VISION                                         1
+    brightens
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:NEED:ORALITY                                             1
+    sugar
+EMOTIONS:AGGRESSION                                              1
+    breaking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 28.070175 %
+EMOTIONS            : 19.298246 %
+
+328 words total

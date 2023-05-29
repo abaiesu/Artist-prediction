@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say say say say say visit
+PRIMARY:SENSATION:VISION                                         5
+    light blues blues blues blues
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    tree grows grows branches
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream dream nightmare dream
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when then when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back at out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+EMOTIONS:SADNESS                                                 3
+    lonely lone lonely
+SECONDARY:RESTRAINT                                              3
+    bound bound bound
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead dead dead
+SECONDARY:ABSTRACTION                                            3
+    choose know thoughts
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    twisted rolling
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:HARD                                           1
+    stone
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+
+PRIMARY             : 53.061224 %
+SECONDARY           : 36.734694 %
+EMOTIONS            : 10.204082 %
+
+184 words total

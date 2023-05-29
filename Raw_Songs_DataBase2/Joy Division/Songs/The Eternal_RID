@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    over round at out inside at out
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now moment years older time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    try possessed make spent burden
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    shouting cry cry played
+EMOTIONS:AFFECTION                                               4
+    loved like like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    gate gate fence wall
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking accept explain
+PRIMARY:SENSATION:VISION                                         3
+    watching view watching
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    washed rain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    foot foot
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky trees
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    heat burns
+PRIMARY:SENSATION:COLD                                           2
+    child children
+EMOTIONS:GLORY                                                   1
+    glory
+PRIMARY:SENSATION:SOUND                                          1
+    aloud
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+EMOTIONS:AGGRESSION                                              1
+    fury
+SECONDARY:RESTRAINT                                              1
+    determine
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 51.923077 %
+SECONDARY           : 28.846154 %
+EMOTIONS            : 19.230769 %
+
+137 words total

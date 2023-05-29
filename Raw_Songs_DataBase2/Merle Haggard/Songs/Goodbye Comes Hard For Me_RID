@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              13
+    goodbye goodbye love goodbye goodbye loved goodbye love goodbye loved goodbye love goodbye
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time once every when now when now when
+SECONDARY:ABSTRACTION                                            6
+    something know know thought guess guess
+PRIMARY:SENSATION:HARD                                           5
+    hard hard hard hard hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door walls
+PRIMARY:SENSATION:VISION                                         2
+    see look
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    agree ask
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wet wet
+EMOTIONS:SADNESS                                                 1
+    paintin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    somewhere
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 29.787234 %
+SECONDARY           : 40.425532 %
+EMOTIONS            : 29.787234 %
+
+185 words total

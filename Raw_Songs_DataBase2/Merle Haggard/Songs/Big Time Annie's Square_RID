@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back away close somewhere close east here square square square
+SECONDARY:ABSTRACTION                                           10
+    something think cause something sure understand know excepted known known
+SECONDARY:TEMPORAL REFERENCES                                    9
+    ever time time now then time sometimes time time
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    treated called says excuses agree call call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    find finding try find find make
+EMOTIONS:AFFECTION                                               5
+    love friends friend friends friends
+EMOTIONS:POSITIVE AFFECT                                         5
+    thrilled joy glad glad happy
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    leaning leaning
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:NEED:ORALITY                                             1
+    sugar
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dangled
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 55.172414 %
+EMOTIONS            : 17.241379 %
+
+211 words total

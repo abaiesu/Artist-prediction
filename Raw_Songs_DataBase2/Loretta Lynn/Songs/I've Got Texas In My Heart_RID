@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old old old old again old old old
+PRIMARY:SENSATION:VISION                                         7
+    see blue see star star see blue
+EMOTIONS:AFFECTION                                               7
+    familiar friends like familiar love love familiar
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    faces faces faces eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long western where back
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sunny sunny
+PRIMARY:SENSATION:ODOR                                           2
+    smell smell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makin won
+EMOTIONS:SADNESS                                                 2
+    lone lone
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    horn
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+
+PRIMARY             : 55.319149 %
+SECONDARY           : 23.404255 %
+EMOTIONS            : 21.276596 %
+
+200 words total

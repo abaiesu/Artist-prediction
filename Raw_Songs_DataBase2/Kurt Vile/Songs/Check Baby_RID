@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    time old old old old old old when then now then when old
+PRIMARY:SENSATION:VISION                                         6
+    see watch watch watch look look
+EMOTIONS:AFFECTION                                               6
+    like like like embrace like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at back at back at round
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    pick found pickle pick
+SECONDARY:ABSTRACTION                                            3
+    reality know real
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    walls walls wall
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+EMOTIONS:AGGRESSION                                              1
+    kick
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 42.000000 %
+SECONDARY           : 42.000000 %
+EMOTIONS            : 16.000000 %
+
+299 words total

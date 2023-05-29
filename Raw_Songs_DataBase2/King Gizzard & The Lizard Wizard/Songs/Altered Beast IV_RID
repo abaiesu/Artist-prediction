@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    point back within longer longer within opened inside back inside within within inside
+EMOTIONS:SADNESS                                                 9
+    pain pain pain pain pain pain pain pain pain
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             5
+    incredibly void void void void
+EMOTIONS:AGGRESSION                                              4
+    kill wound kill cut
+PRIMARY:SENSATION:VISION                                         4
+    watch view see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find reached make find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head flesh chest
+EMOTIONS:ANXIETY                                                 2
+    fear dread
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    apathetic die
+SECONDARY:ABSTRACTION                                            2
+    true think
+PRIMARY:SENSATION:HARD                                           2
+    harder harder
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    faire
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sport
+PRIMARY:NEED:SEX                                                 1
+    lust
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    suggest
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    canyon
+PRIMARY:NEED:ORALITY                                             1
+    meat
+
+PRIMARY             : 55.000000 %
+SECONDARY           : 15.000000 %
+EMOTIONS            : 30.000000 %
+
+476 words total

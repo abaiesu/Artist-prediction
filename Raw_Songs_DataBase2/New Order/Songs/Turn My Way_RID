@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                               9
+    like like like like like like like like like
+SECONDARY:MORAL IMPERATIVE                                       7
+    right right right right right right right
+SECONDARY:ABSTRACTION                                            6
+    cause true true true true thought
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won work work work work
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    wash wash wash wash wash
+PRIMARY:SENSATION:VISION                                         4
+    gray saw see light
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every when then today
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    wide back at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+EMOTIONS:AGGRESSION                                              1
+    steal
+EMOTIONS:GLORY                                                   1
+    crown
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    expanse
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:NEED:ORALITY                                             1
+    drank
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+
+PRIMARY             : 37.037037 %
+SECONDARY           : 42.592593 %
+EMOTIONS            : 20.370370 %
+
+357 words total

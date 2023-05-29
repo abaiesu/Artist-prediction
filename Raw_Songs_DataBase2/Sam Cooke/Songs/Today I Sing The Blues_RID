@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    till yesterday today yesterday today now today now every yesterday today now today now every yesterday today
+EMOTIONS:AFFECTION                                              15
+    love love love kind lovers love kind love love kind lovers love kind love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    sang sing sang sing sang sing sang sing
+PRIMARY:SENSATION:VISION                                         5
+    blues blues blues blues blues
+SECONDARY:ABSTRACTION                                            4
+    know why know guess
+EMOTIONS:AGGRESSION                                              4
+    strikes strikes strikes strikes
+EMOTIONS:POSITIVE AFFECT                                         4
+    funny funny funny funny
+EMOTIONS:SADNESS                                                 3
+    lonely sad lonely
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    circled round
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    called said
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    avenue
+
+PRIMARY             : 13.888889 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 48.611111 %
+
+249 words total

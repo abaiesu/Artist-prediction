@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    behind off where along across where where
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    high above trees trees trees trees trees
+PRIMARY:SENSATION:VISION                                         5
+    colors brown view view flashing
+SECONDARY:ABSTRACTION                                            4
+    know knew know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when suddenly when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet hand eyes
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+PRIMARY:SENSATION:COLD                                           3
+    snow snow frozen
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+
+PRIMARY             : 71.428571 %
+SECONDARY           : 26.190476 %
+EMOTIONS            : 2.380952 %
+
+138 words total

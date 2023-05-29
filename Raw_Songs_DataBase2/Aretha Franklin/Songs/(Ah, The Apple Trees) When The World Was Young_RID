@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    over over here among rounds wherever wherever where backs at
+SECONDARY:TEMPORAL REFERENCES                                    7
+    times while yesterday when often yesterday when
+PRIMARY:NEED:ORALITY                                             6
+    drink drink drink apple drink apple
+EMOTIONS:POSITIVE AFFECT                                         5
+    laugh joke glad gay laughter
+PRIMARY:SENSATION:VISION                                         5
+    lights see shine looking stars
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk call mention talk
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    games play sung game
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    trees trees sky
+PRIMARY:SENSATION:SOUND                                          2
+    belle noise
+SECONDARY:ABSTRACTION                                            2
+    them different
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+EMOTIONS:GLORY                                                   1
+    fame
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 26.785714 %
+EMOTIONS            : 19.642857 %
+
+205 words total

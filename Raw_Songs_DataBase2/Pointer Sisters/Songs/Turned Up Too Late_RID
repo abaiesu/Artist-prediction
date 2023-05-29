@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when date now soon now date now date now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    inside long out over out out out
+EMOTIONS:AFFECTION                                               6
+    kind love love love love love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    lean fall fall fall fall
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say tell say say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head eyes eyes eyes
+SECONDARY:ABSTRACTION                                            4
+    think believe believe believe
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    watery rain watery watery
+PRIMARY:NEED:ORALITY                                             1
+    fed
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:SENSATION:COLD                                           1
+    colder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 48.076923 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 13.461538 %
+
+247 words total

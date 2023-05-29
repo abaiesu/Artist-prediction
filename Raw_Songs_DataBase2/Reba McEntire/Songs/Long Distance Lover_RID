@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    long distance here long distance far long here behind long distance far long long distance far long long
+SECONDARY:TEMPORAL REFERENCES                                    7
+    then when time once again when now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call said said tell call
+EMOTIONS:AFFECTION                                               5
+    lover loved lover like lover
+SECONDARY:ABSTRACTION                                            3
+    cause know cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dream dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    ringing
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 12.500000 %
+
+199 words total

@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when when when instant every every
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find find find find find
+PRIMARY:SENSATION:VISION                                         5
+    starlight light stars stars see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside place place
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    calling answer answer
+SECONDARY:ABSTRACTION                                            3
+    think think know
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep wake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:ANXIETY                                                 1
+    coward
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 48.717949 %
+EMOTIONS            : 5.128205 %
+
+171 words total

@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    tell say promised say say tell say promised say tell say promised say tell say
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when now ever ever now ever when now ever now
+PRIMARY:SENSATION:SOUND                                          8
+    heart hear heart heart hear heart hear heart
+EMOTIONS:AFFECTION                                               6
+    loving love love love love love
+SECONDARY:ABSTRACTION                                            5
+    know believe believe sure true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away inside place apart
+EMOTIONS:AGGRESSION                                              4
+    break break break break
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    built
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 28.333333 %
+SECONDARY           : 51.666667 %
+EMOTIONS            : 20.000000 %
+
+273 words total

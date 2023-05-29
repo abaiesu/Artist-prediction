@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               5
+    love love love friend marriage
+SECONDARY:ABSTRACTION                                            3
+    guess plan know
+PRIMARY:SENSATION:VISION                                         2
+    star grey
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play game
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall feller
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+EMOTIONS:SADNESS                                                 1
+    alas
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 42.307692 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 34.615385 %
+
+154 words total

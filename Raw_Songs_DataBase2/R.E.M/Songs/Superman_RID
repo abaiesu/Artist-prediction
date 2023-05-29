@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            8
+    know know cause know know know know know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when when
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away away
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    pathway pathway
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 29.166667 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 8.333333 %
+
+179 words total

@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    where within away away away away away away away away away away away
+PRIMARY:SENSATION:SOFT                                           9
+    whispers whispers whispers whispers whispers whispers whispers whispers whispers
+SECONDARY:TEMPORAL REFERENCES                                    9
+    soon soon again soon again weeks years soon soon
+PRIMARY:SENSATION:COLD                                           6
+    north north north snow north north
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    drive ride ride ride ride ride
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    fly fly fly rise fly fly
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rain river shore river
+PRIMARY:SENSATION:SOUND                                          4
+    heart hear sound melody
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild wild
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    restless lie
+PRIMARY:SENSATION:VISION                                         2
+    sunshine see
+EMOTIONS:AFFECTION                                               2
+    love like
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+SECONDARY:ABSTRACTION                                            1
+    thoughts
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tested
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    footprints
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:SENSATION:TOUCH                                          1
+    sting
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+
+PRIMARY             : 77.922078 %
+SECONDARY           : 16.883117 %
+EMOTIONS            : 5.194805 %
+
+258 words total

@@ -1,0 +1,56 @@
+SECONDARY:ABSTRACTION                                           20
+    known thought think know think think something think knew cause think think something think believe think something think something think
+PRIMARY:SENSATION:GENERAL-SENSATION                             12
+    pretty impress impress impress impress impress impress impress impress impress impress impress
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won carried won machine make won
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    middle place middle off long
+SECONDARY:MORAL IMPERATIVE                                       4
+    right oughta should right
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    warm warm warm
+SECONDARY:RESTRAINT                                              3
+    lock forbid must
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    brains hair
+PRIMARY:SENSATION:VISION                                         2
+    looks shine
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+EMOTIONS:GLORY                                                   1
+    genius
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:SENSATION:HARD                                           1
+    rocket
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    pitt
+EMOTIONS:AFFECTION                                               1
+    likes
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:POSITIVE AFFECT                                         1
+    joking
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 44.303797 %
+SECONDARY           : 49.367089 %
+EMOTIONS            : 6.329114 %
+
+384 words total

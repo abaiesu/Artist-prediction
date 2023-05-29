@@ -1,0 +1,44 @@
+EMOTIONS:ANXIETY                                                10
+    afraid afraid fear afraid fear afraid afraid fear fear afraid
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    sharing say asked told speaking say said asked
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out here near here away
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly winging
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:SENSATION:VISION                                         2
+    bright shine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reach won
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:ABSTRACTION                                            1
+    plan
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaken
+SECONDARY:TEMPORAL REFERENCES                                    1
+    moment
+EMOTIONS:AGGRESSION                                              1
+    breaking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:SENSATION:SOUND                                          1
+    loud
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+
+PRIMARY             : 42.222222 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 31.111111 %
+
+185 words total

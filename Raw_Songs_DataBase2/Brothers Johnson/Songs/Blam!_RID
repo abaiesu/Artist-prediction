@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    off off off off off off off off off off off off off off
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when when now now now now now now now when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    knees feet eyes body knees feet eyes
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+EMOTIONS:AFFECTION                                               4
+    like like love mercy
+EMOTIONS:AGGRESSION                                              4
+    shove blam blam blam
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    shake stir shake
+SECONDARY:ABSTRACTION                                            3
+    know know know
+EMOTIONS:GLORY                                                   2
+    strut strut
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk please
+PRIMARY:NEED:SEX                                                 1
+    sexy
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 16.129032 %
+
+309 words total

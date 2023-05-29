@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       33
+    place where place place where ahead out out at place out out out out out out out out out out out out out out out out out out out out out out out
+SECONDARY:TEMPORAL REFERENCES                                   22
+    everybody everybody time everybody everywhere everybody everybody now everybody everybody everybody everybody everywhere time everywhere everybody everybody everybody everybody everybody everybody everybody
+SECONDARY:ABSTRACTION                                            8
+    choose cause know sure cause choose know sure
+PRIMARY:SENSATION:VISION                                         4
+    scene seen blues blues
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body hands hands
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow follow say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancin player dancin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throw throw
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:SOUND                                          1
+    rhythm
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 54.761905 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 3.571429 %
+
+400 words total

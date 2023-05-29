@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    round away away away away out away away away away away away away away
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today everything time everything now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spend spend make
+PRIMARY:SENSATION:VISION                                         2
+    twinkle seen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    toes eyes
+SECONDARY:ABSTRACTION                                            1
+    guess
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparkle
+EMOTIONS:AGGRESSION                                              1
+    smash
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twist
+PRIMARY:NEED:ORALITY                                             1
+    lime
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipping
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 64.102564 %
+SECONDARY           : 25.641026 %
+EMOTIONS            : 10.256410 %
+
+160 words total

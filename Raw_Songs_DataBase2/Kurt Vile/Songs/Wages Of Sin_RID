@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out at open back apartment over place out where at away inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won won make make tried
+PRIMARY:SENSATION:SOUND                                          4
+    heart sounds heard snappin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cried cry game play
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when every
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk say sayin
+PRIMARY:NEED:ORALITY                                             3
+    mouth corner stomached
+SECONDARY:ABSTRACTION                                            3
+    think believe real
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wall line path
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grow tall grow
+EMOTIONS:AGGRESSION                                              2
+    fight broken
+EMOTIONS:AFFECTION                                               2
+    like darlin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    thrown throw
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face heels
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+EMOTIONS:ANXIETY                                                 1
+    fears
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 24.561404 %
+EMOTIONS            : 17.543860 %
+
+298 words total

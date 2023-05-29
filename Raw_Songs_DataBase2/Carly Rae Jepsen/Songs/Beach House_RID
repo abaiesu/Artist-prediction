@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                           18
+    thought believe probably probably probably knows believe probably probably probably probably plans probably probably probably probably believe probably
+EMOTIONS:AGGRESSION                                             10
+    hurt hurt hurt hurt hurt hurt hurt hurt hurt hurt
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    agreed say told say call borrow say
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when season when season weekend when season
+PRIMARY:SENSATION:VISION                                         5
+    saw see look see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    ride chase ride chase chase
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    beach beach lake beach beach
+EMOTIONS:AFFECTION                                               4
+    like loved like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found count harvest
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out back place
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eye organs
+PRIMARY:SENSATION:TASTE                                          2
+    taste sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rollercoaster rollercoaster
+EMOTIONS:ANXIETY                                                 1
+    nervous
+PRIMARY:NEED:ORALITY                                             1
+    food
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 35.443038 %
+SECONDARY           : 44.303797 %
+EMOTIONS            : 20.253165 %
+
+377 words total

@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at closet where place place
+PRIMARY:NEED:ORALITY                                             2
+    liquor liquor
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:GLORY                                                   1
+    goldblatt
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 18.750000 %
+
+193 words total

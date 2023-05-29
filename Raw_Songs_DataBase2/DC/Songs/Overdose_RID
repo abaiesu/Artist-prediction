@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    overdosed overdosed overdosed overdosed overdosed overdosed far overdosed overdosed overdosed over over over overdosed overdosed overdosed overdosed
+SECONDARY:ABSTRACTION                                            5
+    understand somethin true true true
+PRIMARY:NEED:ORALITY                                             3
+    drank honey fast
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy crazy crazy
+SECONDARY:TEMPORAL REFERENCES                                    2
+    sometime then
+EMOTIONS:AGGRESSION                                              2
+    hit break
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoked
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:HARD                                           1
+    harder
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    cure
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+
+PRIMARY             : 65.853659 %
+SECONDARY           : 21.951220 %
+EMOTIONS            : 12.195122 %
+
+223 words total

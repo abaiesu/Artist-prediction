@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    side near outside away away away
+PRIMARY:SENSATION:VISION                                         5
+    light light light light light
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake wake waking wake
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun melt
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again while
+SECONDARY:ABSTRACTION                                            2
+    know may
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+EMOTIONS:AGGRESSION                                              1
+    breaking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driven
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promise
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:ANXIETY                                                 1
+    fears
+
+PRIMARY             : 71.875000 %
+SECONDARY           : 18.750000 %
+EMOTIONS            : 9.375000 %
+
+161 words total

@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               9
+    like like like like friend like friends friends friendship
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make won won cure
+SECONDARY:MORAL IMPERATIVE                                       4
+    honesty honesty honesty honesty
+PRIMARY:SENSATION:VISION                                         4
+    watch watch watch see
+SECONDARY:ABSTRACTION                                            3
+    meant meant thought
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy happy
+EMOTIONS:GLORY                                                   2
+    boast boast
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lake
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    surface
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 24.324324 %
+SECONDARY           : 37.837838 %
+EMOTIONS            : 37.837838 %
+
+189 words total

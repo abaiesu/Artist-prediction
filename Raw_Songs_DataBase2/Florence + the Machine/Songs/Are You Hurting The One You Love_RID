@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              12
+    love love like love love like love love love love love love
+SECONDARY:RESTRAINT                                             11
+    stop stop stop stop stop stop stop stop stop stop stop
+EMOTIONS:AGGRESSION                                             10
+    hurting hurting hurting hurting hurting hurting hurting hurting hurting hurting
+SECONDARY:TEMPORAL REFERENCES                                    5
+    till when clock when then
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    heaven heaven heaven heaven
+SECONDARY:ABSTRACTION                                            4
+    something them themselves knows
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found find
+PRIMARY:NEED:ORALITY                                             2
+    bite tongue
+PRIMARY:SENSATION:TASTE                                          1
+    tastes
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+PRIMARY:SENSATION:HARD                                           1
+    glasses
+PRIMARY:SENSATION:VISION                                         1
+    watched
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+
+PRIMARY             : 20.689655 %
+SECONDARY           : 41.379310 %
+EMOTIONS            : 37.931034 %
+
+189 words total

@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               3
+    love goodbye goodbye
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cried cried cry
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river river
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    overboard overboard
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+SECONDARY:ABSTRACTION                                            1
+    thought
+EMOTIONS:SADNESS                                                 1
+    misery
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 33.333333 %
+
+95 words total

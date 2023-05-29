@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         5
+    look color color look color
+EMOTIONS:AGGRESSION                                              5
+    knife cutting destroy knife cutting
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where open open where open
+EMOTIONS:ANXIETY                                                 5
+    fear afraid afraid afraid fear
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should right should
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell tell tell tell
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    secret secret secret
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hungry hungry
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+
+PRIMARY             : 48.888889 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 28.888889 %
+
+266 words total

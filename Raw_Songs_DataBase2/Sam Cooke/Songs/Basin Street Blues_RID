@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    place where place longing where where place longing where where where
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    street street street street street street street street street street
+EMOTIONS:AFFECTION                                               5
+    friends dear dear dear dear
+SECONDARY:ABSTRACTION                                            5
+    know know know know why
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old old old old old
+PRIMARY:SENSATION:VISION                                         5
+    blues blues see blues blues
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    meet meet talking meet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams dreams dreams
+
+PRIMARY             : 60.416667 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 10.416667 %
+
+205 words total

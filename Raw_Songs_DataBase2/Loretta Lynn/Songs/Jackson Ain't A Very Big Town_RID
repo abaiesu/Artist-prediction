@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at place place where round
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight every then
+EMOTIONS:AFFECTION                                               3
+    married friends loved
+SECONDARY:ABSTRACTION                                            3
+    know think cause
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    count
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 17.647059 %
+
+104 words total

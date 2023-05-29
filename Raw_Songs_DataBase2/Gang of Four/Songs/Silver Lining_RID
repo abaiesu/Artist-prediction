@@ -1,0 +1,40 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    find try make try won try find
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every time time every when time time
+PRIMARY:SENSATION:VISION                                         5
+    look star shines bright look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    behind point point at point
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say answer say say
+EMOTIONS:ANXIETY                                                 4
+    worry worry worry worry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    hang hang hang hang
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    hypnotized hypnotized
+SECONDARY:ABSTRACTION                                            2
+    real think
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lining
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 44.897959 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 12.244898 %
+
+174 words total

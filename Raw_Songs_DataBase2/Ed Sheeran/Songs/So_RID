@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                         8
+    see watch see see see watch noticed noticed
+SECONDARY:TEMPORAL REFERENCES                                    7
+    then now when when when then now
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please ask please ask say say
+SECONDARY:ABSTRACTION                                            5
+    plan know plan know cause
+PRIMARY:SENSATION:COLD                                           5
+    cool cool cool cool cool
+PRIMARY:SENSATION:GENERAL-SENSATION                              5
+    beautiful beautiful beautiful beautiful beautiful
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile smile smile smile
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at place at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window window
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow shadow
+EMOTIONS:AGGRESSION                                              1
+    doubt
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 10.000000 %
+
+310 words total

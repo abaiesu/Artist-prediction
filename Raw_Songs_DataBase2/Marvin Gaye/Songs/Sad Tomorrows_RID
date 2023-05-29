@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    place where place where out away away
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when soon again ever when tonight
+EMOTIONS:AFFECTION                                               5
+    friendly friends friendly friends darling
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high sky high sky
+SECONDARY:ABSTRACTION                                            4
+    know understood understood understood
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    rest weary laid
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find makes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flying flying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bodies hands
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+SECONDARY:RESTRAINT                                              1
+    bound
+EMOTIONS:SADNESS                                                 1
+    pains
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:ANXIETY                                                 1
+    trouble
+EMOTIONS:AGGRESSION                                              1
+    destruction
+
+PRIMARY             : 48.837209 %
+SECONDARY           : 32.558140 %
+EMOTIONS            : 18.604651 %
+
+185 words total

@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   9
+    hill hill hill hill hill hill hill hill hill
+EMOTIONS:POSITIVE AFFECT                                         7
+    thrill thrill fun thrill thrill thrill thrill
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everybody now everywhere
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    greet call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long wide
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:AFFECTION                                               1
+    friends
+
+PRIMARY             : 58.064516 %
+SECONDARY           : 16.129032 %
+EMOTIONS            : 25.806452 %
+
+251 words total

@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                              7
+    beat beat beat beat doubt beat beat
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    ask asked ask please please asked
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at long long out away away
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time whenever time time time
+SECONDARY:ABSTRACTION                                            4
+    known thought true tender
+PRIMARY:SENSATION:VISION                                         3
+    saw looking blue
+EMOTIONS:AFFECTION                                               3
+    like loved love
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playboy play
+EMOTIONS:ANXIETY                                                 1
+    shy
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 43.181818 %
+EMOTIONS            : 29.545455 %
+
+225 words total

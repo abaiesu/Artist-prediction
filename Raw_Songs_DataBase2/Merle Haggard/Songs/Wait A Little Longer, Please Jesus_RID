@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here where longer out longer here longer out longer
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please please help say please please
+EMOTIONS:AFFECTION                                               6
+    loved love dear dear loved loved
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    labor workers find find cost
+SECONDARY:ABSTRACTION                                            5
+    thought them them reason why
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    weary rest
+SECONDARY:TEMPORAL REFERENCES                                    2
+    yearning then
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happiness
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wandering wandering
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+EMOTIONS:ANXIETY                                                 1
+    anxious
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 21.428571 %
+
+156 words total

@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              23
+    like like like like like like like like like like like like like like like love like like like like like like like
+PRIMARY:NEED:SEX                                                10
+    sex sex sex sex sex sex sex sex sexual sex
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    said pleasure tell tell talk tell tell speak tell tell
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while now now now when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face neck flesh body hair
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out backs straight straight
+PRIMARY:NEED:ANALITY                                             3
+    sweat sweat sweat
+EMOTIONS:AGGRESSION                                              3
+    betrays betray hurt
+SECONDARY:ABSTRACTION                                            2
+    thinking problems
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:SOUND                                          1
+    ears
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    yields
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:POSITIVE AFFECT                                         1
+    gay
+SECONDARY:ORDER                                                  1
+    constantly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    physically
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 38.157895 %
+
+360 words total

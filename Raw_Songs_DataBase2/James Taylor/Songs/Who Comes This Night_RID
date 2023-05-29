@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:SOUND                                          8
+    heart heart hearts heart voices hearts heart hearts
+PRIMARY:SENSATION:COLD                                           5
+    wintry wintry children wintry children
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    ease lay lay lay lay
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    stranger stranger stranger stranger
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    gift asking greet asking
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    lowly deep
+EMOTIONS:AFFECTION                                               2
+    welcome love
+PRIMARY:SENSATION:VISION                                         2
+    light light
+PRIMARY:NEED:ORALITY                                             2
+    fast fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fading fading
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:SADNESS                                                 1
+    despair
+EMOTIONS:AGGRESSION                                              1
+    breaking
+SECONDARY:ORDER                                                  1
+    measure
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 13.636364 %
+EMOTIONS            : 11.363636 %
+
+205 words total

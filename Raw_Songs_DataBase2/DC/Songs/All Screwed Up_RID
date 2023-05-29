@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out out over out out back at out
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when then when then then
+PRIMARY:NEED:ORALITY                                             4
+    fast nuts lunch lunch
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell said said said
+EMOTIONS:AFFECTION                                               3
+    kinda kinda like
+SECONDARY:ABSTRACTION                                            2
+    think think
+PRIMARY:SENSATION:VISION                                         1
+    rough
+EMOTIONS:GLORY                                                   1
+    strut
+EMOTIONS:AGGRESSION                                              1
+    kick
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+
+PRIMARY             : 48.484848 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 15.151515 %
+
+239 words total

@@ -1,0 +1,58 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    where where at somewhere where here here inside inside front at at out where long where here here
+SECONDARY:ABSTRACTION                                           11
+    learned choice choice know supposed sure cause cause think choice choice
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when moment everybody ever time everybody every when everything everybody ever
+SECONDARY:MORAL IMPERATIVE                                       7
+    right right right right right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    earned lessons collected find won collected business
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    help say told met help say
+EMOTIONS:AFFECTION                                               4
+    friends friends married love
+PRIMARY:SENSATION:VISION                                         4
+    light light light witness
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        4
+    forever forever forever forever
+EMOTIONS:AGGRESSION                                              3
+    break breakups harm
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    dim dim dim
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair hair hair
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strangers strangers
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    buried drop
+PRIMARY:NEED:ORALITY                                             2
+    corner corner
+EMOTIONS:SADNESS                                                 2
+    sad sad
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:SENSATION:HARD                                           2
+    glass glass
+PRIMARY:NEED:ANALITY                                             2
+    shattered shattered
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fantasy fantasy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+
+PRIMARY             : 48.571429 %
+SECONDARY           : 40.952381 %
+EMOTIONS            : 10.476190 %
+
+425 words total

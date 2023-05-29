@@ -1,0 +1,30 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       18
+    rest rest rest rest rest rest rest rest rest rest rest rest rest rest rest rest rest rest
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    out over space forward at at at open out over space forward at
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now time now moment quick ever ever moment quick ever ever
+EMOTIONS:AFFECTION                                               5
+    like cherish like like cherish
+PRIMARY:SENSATION:SOUND                                          3
+    hear heart loud
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:ANXIETY                                                 1
+    anxious
+EMOTIONS:AGGRESSION                                              1
+    beating
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 61.016949 %
+SECONDARY           : 25.423729 %
+EMOTIONS            : 13.559322 %
+
+301 words total

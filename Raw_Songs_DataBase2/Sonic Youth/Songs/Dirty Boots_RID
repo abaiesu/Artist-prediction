@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here out out out out
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time everywhere time now
+PRIMARY:NEED:ANALITY                                             5
+    dirty dirty dirty dirty dirty
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreaming crazy dreaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll rollin
+PRIMARY:SENSATION:VISION                                         2
+    pinking pinking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make making
+PRIMARY:NEED:ORALITY                                             2
+    coffee tongue
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candle
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 71.052632 %
+SECONDARY           : 23.684211 %
+EMOTIONS            : 5.263158 %
+
+136 words total

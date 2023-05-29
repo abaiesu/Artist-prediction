@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:TASTE                                          6
+    sweet sweet sweet sweet sweet sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    slow slow slow slow slow slow
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while time time while while
+PRIMARY:NEED:ORALITY                                             4
+    honey honey honey honey
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    low low low
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place place
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+PRIMARY:SENSATION:VISION                                         2
+    lights lights
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning burning
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:SENSATION:HARD                                           1
+    rock
+EMOTIONS:SADNESS                                                 1
+    moaning
+
+PRIMARY             : 73.684211 %
+SECONDARY           : 23.684211 %
+EMOTIONS            : 2.631579 %
+
+108 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    away away away away away away side side away away away side away side side
+SECONDARY:TEMPORAL REFERENCES                                   13
+    times times ever times times now times times times times times times times
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           8
+    stray stray stray stray stray stray stray stray
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make makes make make make make
+EMOTIONS:AFFECTION                                               6
+    love like like like like like
+PRIMARY:SENSATION:HARD                                           4
+    rock rock rock rock
+PRIMARY:SENSATION:VISION                                         2
+    see scenery
+SECONDARY:ABSTRACTION                                            2
+    why know
+SECONDARY:ORDER                                                  2
+    listen measure
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 38.709677 %
+EMOTIONS            : 11.290323 %
+
+293 words total

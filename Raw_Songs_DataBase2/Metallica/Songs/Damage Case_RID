@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    inside place over away over place away here over place over over
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell call tell tell tell tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face face face face face
+SECONDARY:TEMPORAL REFERENCES                                    4
+    minute time time today
+EMOTIONS:AGGRESSION                                              3
+    damage damage damage
+SECONDARY:ABSTRACTION                                            2
+    know think
+EMOTIONS:ANXIETY                                                 1
+    scared
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:NEED:SEX                                                 1
+    fuck
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 13.157895 %
+
+171 words total

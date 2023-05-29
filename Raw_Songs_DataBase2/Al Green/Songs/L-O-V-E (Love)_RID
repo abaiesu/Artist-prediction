@@ -1,0 +1,50 @@
+EMOTIONS:AFFECTION                                              24
+    love love love love love love love love love love love love love love love love love love love friend love love love love
+PRIMARY:SENSATION:VISION                                         6
+    appeared see see look see bright
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    explain depend told explain able tell
+SECONDARY:ABSTRACTION                                            5
+    decided sure something thought something
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then time
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning sun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:NEED:ORALITY                                             1
+    apple
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heavens
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+EMOTIONS:GLORY                                                   1
+    glory
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fella
+SECONDARY:ORDER                                                  1
+    measured
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 30.158730 %
+SECONDARY           : 25.396825 %
+EMOTIONS            : 44.444444 %
+
+272 words total

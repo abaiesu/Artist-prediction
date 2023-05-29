@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                        10
+    see looks bright lights looks see looks looks see looks
+EMOTIONS:AFFECTION                                               6
+    like like like kind like like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when every when now when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won found won won
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    helpless met
+SECONDARY:ABSTRACTION                                            2
+    thought plans
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sails
+
+PRIMARY             : 42.424242 %
+SECONDARY           : 39.393939 %
+EMOTIONS            : 18.181818 %
+
+224 words total

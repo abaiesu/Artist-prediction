@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    at at along at out place inside at at at at at at along at
+PRIMARY:SENSATION:VISION                                        12
+    looking looking watching looking picture looking looking looking looking looking watching looking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    dream sleeping wake sleep dream sleeping wake
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    street line frame wall street line
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    win find find win won
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    telling call tell telling
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain rain rain
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    brain face brain
+SECONDARY:ABSTRACTION                                            3
+    knowing thinking know
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spin spin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistake mistake
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:SOFT                                           1
+    lace
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+
+PRIMARY             : 74.666667 %
+SECONDARY           : 18.666667 %
+EMOTIONS            : 6.666667 %
+
+196 words total

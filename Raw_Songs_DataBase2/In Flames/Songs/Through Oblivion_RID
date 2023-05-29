@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    inside close out close at close close
+SECONDARY:ABSTRACTION                                            7
+    know believe thought believe believe cause know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    suddenly now everything time times now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    intuition intuition intuition intuition
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won reach carry
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         2
+    see brighter
+EMOTIONS:AFFECTION                                               1
+    affection
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:ANXIETY                                                 1
+    fears
+
+PRIMARY             : 45.945946 %
+SECONDARY           : 48.648649 %
+EMOTIONS            : 5.405405 %
+
+168 words total

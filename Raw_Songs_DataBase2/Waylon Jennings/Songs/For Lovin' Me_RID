@@ -1,0 +1,20 @@
+EMOTIONS:AFFECTION                                              12
+    lovin lovin lovin love like lovin lovin lovin lovin lovin lovin lovin
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everything everything again when again everything
+PRIMARY:SENSATION:VISION                                         4
+    see blue see see
+SECONDARY:ABSTRACTION                                            2
+    thought known
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    mend
+
+PRIMARY             : 18.518519 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 44.444444 %
+
+180 words total

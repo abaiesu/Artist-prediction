@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    now when then time when when when now when when when when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back back where at here back back
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:MORAL IMPERATIVE                                       2
+    should shouldn
+SECONDARY:ABSTRACTION                                            2
+    know think
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest lay
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line door
+PRIMARY:NEED:ORALITY                                             2
+    guts guts
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+SECONDARY:RESTRAINT                                              2
+    control control
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    haze
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+EMOTIONS:AGGRESSION                                              1
+    shoot
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 35.555556 %
+SECONDARY           : 48.888889 %
+EMOTIONS            : 15.555556 %
+
+192 words total

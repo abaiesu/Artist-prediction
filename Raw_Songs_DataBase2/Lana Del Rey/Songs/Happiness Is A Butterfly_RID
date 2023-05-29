@@ -1,0 +1,56 @@
+SECONDARY:TEMPORAL REFERENCES                                   19
+    now every every every then already already then already already now while every then already already then already already
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    19
+    sing dance dance dance dance dance dance dance dance dancing sing dance dance dance dance dance dance dance dance
+EMOTIONS:AGGRESSION                                             10
+    killer hurt hurt hurt hurt killer hurt hurt hurt hurt
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say said call say said call
+PRIMARY:SENSATION:SOUND                                          5
+    heard hearing hum music music
+SECONDARY:RESTRAINT                                              4
+    bar catch catch catch
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:VISION                                         4
+    moonlight looking lightning looking
+SECONDARY:ABSTRACTION                                            4
+    guess think guess think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try pick try
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands eyes eyes
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness happiness
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lullaby lullaby
+SECONDARY:ORDER                                                  2
+    serial serial
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    jerk jerk
+PRIMARY:NEED:ANALITY                                             2
+    sweatshirt sweatshirt
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    backseat backseat
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    avenue avenue
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tour
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    canyon
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunset
+PRIMARY:NEED:ORALITY                                             1
+    corner
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 27.450980 %
+SECONDARY           : 38.235294 %
+EMOTIONS            : 34.313725 %
+
+404 words total

@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                          8
+    music music music hearts music hearts music music
+SECONDARY:TEMPORAL REFERENCES                                    6
+    moment till moment moment till moment
+PRIMARY:SENSATION:VISION                                         4
+    light stars light stars
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flaming fire
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    dawning dawning
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    throbbing throbbing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    guitars guitars
+SECONDARY:ABSTRACTION                                            2
+    may may
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away away
+SECONDARY:RESTRAINT                                              2
+    must must
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+
+PRIMARY             : 59.459459 %
+SECONDARY           : 27.027027 %
+EMOTIONS            : 13.513514 %
+
+148 words total

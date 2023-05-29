@@ -1,0 +1,34 @@
+SECONDARY:MORAL IMPERATIVE                                      16
+    right right right right right right right right right right right right right right right right
+SECONDARY:TEMPORAL REFERENCES                                   12
+    whenever now when when ever already earlier now when when when when
+PRIMARY:SENSATION:VISION                                         6
+    seeing see saw look see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    close beside beside
+EMOTIONS:AFFECTION                                               2
+    kind love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes belong
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breath
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+EMOTIONS:GLORY                                                   2
+    richside wondering
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    promise helps
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 32.727273 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 7.272727 %
+
+316 words total

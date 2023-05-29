@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    ever now time tonight then now ever now ever ever
+EMOTIONS:AFFECTION                                               9
+    love love love love like lover love love love
+PRIMARY:SENSATION:VISION                                         5
+    look look look look look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes arms face arms arms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away long long long
+PRIMARY:SENSATION:HARD                                           3
+    hardly hardly hardly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found found
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    saying say
+PRIMARY:SENSATION:SOUND                                          2
+    heart heard
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 45.652174 %
+SECONDARY           : 32.608696 %
+EMOTIONS            : 21.739130 %
+
+190 words total

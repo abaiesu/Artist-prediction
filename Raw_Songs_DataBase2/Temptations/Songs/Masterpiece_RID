@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where place ahead away away out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    money job find finding possessions
+SECONDARY:ABSTRACTION                                            4
+    cause cause cause know
+EMOTIONS:AGGRESSION                                              4
+    broken stealin robbin breakings
+SECONDARY:RESTRAINT                                              2
+    strictly bars
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    called
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+
+PRIMARY             : 29.166667 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 20.833333 %
+
+186 words total

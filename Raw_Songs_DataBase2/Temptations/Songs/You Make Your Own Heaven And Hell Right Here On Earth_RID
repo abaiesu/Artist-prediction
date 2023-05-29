@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           12
+    learn learn facts facts know true facts facts beliefs judge facts facts
+SECONDARY:MORAL IMPERATIVE                                      10
+    right right right right right right right conscience right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    price make make find work make make make make
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time time time time suddenly now time time now
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    talk tellin tellin admit tellin tell tellin tellin tellin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here here at here here sides here here
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    heavens heaven heaven heaven heaven heaven
+SECONDARY:ORDER                                                  5
+    listen listen listen balance listen
+SECONDARY:RESTRAINT                                              2
+    must determine
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfy
+PRIMARY:SENSATION:VISION                                         1
+    invisible
+
+PRIMARY             : 23.684211 %
+SECONDARY           : 73.684211 %
+EMOTIONS            : 2.631579 %
+
+336 words total

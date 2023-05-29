@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            8
+    believe know thought believe know believe know know
+PRIMARY:SENSATION:SOUND                                          6
+    heart hear hear ring hear ring
+EMOTIONS:AFFECTION                                               6
+    likes like love like grateful love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    share say remind share share
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    spirit above spirit summit above
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now years everything everything
+PRIMARY:SENSATION:TASTE                                          3
+    bittersweet bittersweet bittersweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find reach
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy joy
+EMOTIONS:SADNESS                                                 2
+    sorrow sorrow
+EMOTIONS:AGGRESSION                                              2
+    fighters fighters
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    inconceivable
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    far
+
+PRIMARY             : 39.215686 %
+SECONDARY           : 37.254902 %
+EMOTIONS            : 23.529412 %
+
+323 words total

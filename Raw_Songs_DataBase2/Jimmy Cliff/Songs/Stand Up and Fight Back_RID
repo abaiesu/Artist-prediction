@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back back back back back back away back back
+EMOTIONS:AGGRESSION                                              8
+    fight fight fight fight fight fight fight fight
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    saying say say
+SECONDARY:ABSTRACTION                                            2
+    reality truth
+SECONDARY:TEMPORAL REFERENCES                                    2
+    yearns ever
+EMOTIONS:AFFECTION                                               2
+    love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    price pay
+SECONDARY:RESTRAINT                                              1
+    suppressed
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 30.303030 %
+EMOTIONS            : 36.363636 %
+
+290 words total

@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              12
+    like like like like like like like like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    round at long over out long at long round long at long
+EMOTIONS:AGGRESSION                                              4
+    breaking kill breaking murder
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    death death death
+PRIMARY:SENSATION:VISION                                         3
+    looking looking looking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    scream screaming screaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+EMOTIONS:POSITIVE AFFECT                                         2
+    merry merry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    ferris ferris
+PRIMARY:SENSATION:SOUND                                          2
+    hear sound
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet bloody
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+PRIMARY:NEED:ANALITY                                             1
+    piss
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 5.555556 %
+EMOTIONS            : 38.888889 %
+
+254 words total

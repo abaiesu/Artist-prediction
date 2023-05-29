@@ -1,0 +1,56 @@
+PRIMARY:SENSATION:VISION                                         6
+    looked blue seen seen lights shined
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once when now when now sometimes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    sky above high high high
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    round here at across
+EMOTIONS:GLORY                                                   3
+    eagle awe eagle
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find tried
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    below canyon
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    wings mountains
+SECONDARY:ABSTRACTION                                            2
+    true sure
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    traveled travel
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:HARD                                           1
+    stone
+EMOTIONS:AGGRESSION                                              1
+    fought
+EMOTIONS:ANXIETY                                                 1
+    shuddered
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:SADNESS                                                 1
+    lonesome
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:SENSATION:SOUND                                          1
+    echoes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:ORDER                                                  1
+    divide
+
+PRIMARY             : 58.490566 %
+SECONDARY           : 24.528302 %
+EMOTIONS            : 16.981132 %
+
+207 words total

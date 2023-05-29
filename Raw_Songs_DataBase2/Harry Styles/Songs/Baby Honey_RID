@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   23
+    when time minute now older now older now older time today yesterday every now older now older now older now now now older
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    over over over place over over over over over over over over over over over over
+SECONDARY:ABSTRACTION                                           14
+    think thinkin guess know know true know thinkin guess know thinkin thinkin guess know
+EMOTIONS:AFFECTION                                               3
+    friends like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money make
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:AGGRESSION                                              1
+    hate
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 65.079365 %
+EMOTIONS            : 6.349206 %
+
+233 words total

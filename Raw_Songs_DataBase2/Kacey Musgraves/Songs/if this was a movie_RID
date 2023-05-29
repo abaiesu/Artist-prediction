@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    over back place inside away back place
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face face face
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    lining stairs stairs
+PRIMARY:SENSATION:SOUND                                          3
+    music hearing hearing
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said say say
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when then
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:SENSATION:HARD                                           1
+    stone
+SECONDARY:ABSTRACTION                                            1
+    weighing
+SECONDARY:RESTRAINT                                              1
+    locket
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 21.875000 %
+EMOTIONS            : 3.125000 %
+
+179 words total

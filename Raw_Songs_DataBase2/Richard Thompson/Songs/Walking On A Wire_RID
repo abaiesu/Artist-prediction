@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long long where where side long long
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  6
+    falling falling falling falling falling falling
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old tonight when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won use use
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    steps fence steps
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+SECONDARY:MORAL IMPERATIVE                                       2
+    right justice
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    awake awake
+EMOTIONS:POSITIVE AFFECT                                         2
+    grindstone grindstone
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    endlessly endlessly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:ANXIETY                                                 1
+    scares
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 56.410256 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 15.384615 %
+
+244 words total

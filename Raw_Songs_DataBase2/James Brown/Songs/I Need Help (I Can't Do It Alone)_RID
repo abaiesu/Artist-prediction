@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when when now when when when time everybody everybody
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    help help help say help help say tell
+SECONDARY:ABSTRACTION                                            6
+    know sure fact know know fact
+EMOTIONS:AGGRESSION                                              6
+    hit hit hit hit shovin shove
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    business make make make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    scream scream scream shout
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here here place
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lay lay lay
+PRIMARY:SENSATION:VISION                                         2
+    looka looka
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rains pours
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:SENSATION:SOUND                                          2
+    drums drum
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+
+PRIMARY             : 23.636364 %
+SECONDARY           : 52.727273 %
+EMOTIONS            : 23.636364 %
+
+367 words total

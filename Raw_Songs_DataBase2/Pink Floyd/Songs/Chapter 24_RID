@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when time month when once when
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    sunrise sunrise sunrise sunrise sunrise
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    success success success
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    sunset sunset sunset
+PRIMARY:SENSATION:VISION                                         2
+    light light
+SECONDARY:ORDER                                                  2
+    forms forms
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+EMOTIONS:AGGRESSION                                              1
+    destroyed
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 45.833333 %
+EMOTIONS            : 4.166667 %
+
+133 words total

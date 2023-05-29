@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            4
+    cause cause choose cause
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make making making
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please please please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over apart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet hand
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 14.285714 %
+
+143 words total

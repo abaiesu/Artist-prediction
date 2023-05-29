@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today time when time now now
+EMOTIONS:AFFECTION                                               5
+    like love love love love
+SECONDARY:ABSTRACTION                                            4
+    true meant true meant
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away over over
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    wave wave
+EMOTIONS:AGGRESSION                                              2
+    breaks breaks
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+
+PRIMARY             : 32.142857 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 32.142857 %
+
+107 words total

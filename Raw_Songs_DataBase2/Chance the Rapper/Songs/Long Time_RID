@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    long over close within out round at round out
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    called call quotes talking calling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hand head blood hands arms
+PRIMARY:NEED:ORALITY                                             4
+    vomit throat coughing spit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money use count reach
+EMOTIONS:GLORY                                                   3
+    wonder famous crowns
+SECONDARY:ABSTRACTION                                            3
+    subject think know
+EMOTIONS:AFFECTION                                               3
+    patterson like like
+EMOTIONS:POSITIVE AFFECT                                         2
+    gladys smiles
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when while
+PRIMARY:SENSATION:VISION                                         2
+    green saw
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water surfing
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive traveling
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throwing tossing
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling falling
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    darkened cloud
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yelling
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:AGGRESSION                                              1
+    blame
+PRIMARY:NEED:ANALITY                                             1
+    shit
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowds
+
+PRIMARY             : 56.896552 %
+SECONDARY           : 25.862069 %
+EMOTIONS            : 17.241379 %
+
+225 words total

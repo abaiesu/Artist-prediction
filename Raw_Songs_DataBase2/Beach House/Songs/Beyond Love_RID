@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            8
+    understand believe know know know believe know know
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:SENSATION:VISION                                         5
+    seen vision sees lights seen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off inside off
+PRIMARY:NEED:ORALITY                                             2
+    mouth corner
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    nightmares dreams
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreak
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sprung
+
+PRIMARY             : 48.571429 %
+SECONDARY           : 37.142857 %
+EMOTIONS            : 14.285714 %
+
+169 words total

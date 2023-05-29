@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                            11
+    strange strange strange strange strange strange strange strange strange strange strange
+SECONDARY:ABSTRACTION                                            8
+    guess think thought thoughts guess think thought thoughts
+EMOTIONS:AFFECTION                                               4
+    loving like loved loved
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along away along
+SECONDARY:RESTRAINT                                              2
+    stopped stopped
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny funny
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 16.666667 %
+
+144 words total

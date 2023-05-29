@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              32
+    love love friends love love love love love love love love love love love love love love love love friends love love love love love like love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    talk say conversation say gift say say
+SECONDARY:ABSTRACTION                                            5
+    known supposed knew something think
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    making reaches making
+PRIMARY:NEED:ORALITY                                             2
+    corner honey
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:SEX                                                 1
+    kissin
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+
+PRIMARY             : 6.557377 %
+SECONDARY           : 36.065574 %
+EMOTIONS            : 57.377049 %
+
+337 words total

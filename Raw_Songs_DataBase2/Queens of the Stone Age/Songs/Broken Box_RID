@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    head head head head head head head head
+SECONDARY:ABSTRACTION                                            5
+    know know guess guess guess
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everyone now tonight
+EMOTIONS:AFFECTION                                               3
+    loves love like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where where where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    hurray dance
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find make
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pools rain
+PRIMARY:NEED:SEX                                                 1
+    fucking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AGGRESSION                                              1
+    broken
+
+PRIMARY             : 44.117647 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 20.588235 %
+
+220 words total

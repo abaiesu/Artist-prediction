@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   12
+    rain rain rain rain rain rain water washin water water wash sea
+PRIMARY:SENSATION:SOUND                                          6
+    hear hear hear hear hear hear
+EMOTIONS:SADNESS                                                 6
+    pain pain lone lone lone lone
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out over out out out
+EMOTIONS:AGGRESSION                                              2
+    kill kill
+PRIMARY:NEED:ANALITY                                             2
+    sewer sewer
+PRIMARY:SENSATION:VISION                                         2
+    color watch
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calls
+PRIMARY:NEED:ORALITY                                             1
+    tea
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 68.292683 %
+SECONDARY           : 9.756098 %
+EMOTIONS            : 21.951220 %
+
+103 words total

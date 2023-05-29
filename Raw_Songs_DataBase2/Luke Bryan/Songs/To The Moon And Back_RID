@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back beside off back back over back back back
+EMOTIONS:AFFECTION                                               3
+    kind love love
+PRIMARY:NEED:ANALITY                                             2
+    dirt muddy
+SECONDARY:TEMPORAL REFERENCES                                    2
+    years every
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road coast
+PRIMARY:SENSATION:VISION                                         2
+    blue stars
+PRIMARY:SENSATION:TASTE                                          2
+    bitter sweet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire burning
+PRIMARY:SENSATION:HARD                                           1
+    gravel
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travelled
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+SECONDARY:RESTRAINT                                              1
+    bind
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:ABSTRACTION                                            1
+    different
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+
+PRIMARY             : 72.972973 %
+SECONDARY           : 13.513514 %
+EMOTIONS            : 13.513514 %
+
+197 words total

@@ -1,0 +1,38 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    played play guitar playin guitar dance
+PRIMARY:SENSATION:VISION                                         6
+    saw lights blues star seen lookin
+PRIMARY:SENSATION:SOUND                                          4
+    rhythm rhythm heard rhythm
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever ever when everybody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    opened backstage out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand feet head
+SECONDARY:ABSTRACTION                                            3
+    knew them planted
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rollin
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:AGGRESSION                                              1
+    shootin
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:AFFECTION                                               1
+    romance
+
+PRIMARY             : 55.263158 %
+SECONDARY           : 23.684211 %
+EMOTIONS            : 21.052632 %
+
+152 words total

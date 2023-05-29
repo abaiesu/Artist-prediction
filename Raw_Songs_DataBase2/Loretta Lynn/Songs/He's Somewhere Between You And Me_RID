@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    close somewhere between somewhere between somewhere between somewhere between somewhere somewhere between
+SECONDARY:ABSTRACTION                                            6
+    know know sure know cause cause
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when often time
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:SOUND                                          2
+    heartache heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tells
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:AGGRESSION                                              1
+    doubt
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 6.896552 %
+
+119 words total

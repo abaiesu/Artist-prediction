@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    now now now time time time time now present once once now soon now now now
+EMOTIONS:AFFECTION                                              12
+    love loved loved love love love love love love loved loved love
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say say please please said said said said treat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    used used used used try try make used
+SECONDARY:ABSTRACTION                                            4
+    believe believe know know
+EMOTIONS:AGGRESSION                                              3
+    hate blame hate
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistreat mistreat
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 8.771930 %
+SECONDARY           : 64.912281 %
+EMOTIONS            : 26.315789 %
+
+273 words total

@@ -1,0 +1,28 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    make find count make find make make find make find make
+PRIMARY:SENSATION:GENERAL-SENSATION                              8
+    beauty beauty beauty beauty beauty beauty beauty beauty
+EMOTIONS:SADNESS                                                 8
+    sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    lies dying lies lies lies lies lies
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    told told told reminder told told told
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here at out
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:SENSATION:VISION                                         1
+    looking
+SECONDARY:TEMPORAL REFERENCES                                    1
+    early
+EMOTIONS:AGGRESSION                                              1
+    shots
+
+PRIMARY             : 44.000000 %
+SECONDARY           : 38.000000 %
+EMOTIONS            : 18.000000 %
+
+211 words total

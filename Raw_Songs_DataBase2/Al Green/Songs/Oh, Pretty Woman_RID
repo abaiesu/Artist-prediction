@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             24
+    pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    meet pardon help talk please treat talk please please asking talk say met talk
+EMOTIONS:AFFECTION                                               9
+    kind like lovely like love love love love love
+EMOTIONS:POSITIVE AFFECT                                         7
+    smile smile smile smile smile smile smile
+PRIMARY:SENSATION:VISION                                         5
+    look see look look look
+SECONDARY:RESTRAINT                                              5
+    stop stop stop stop stop
+SECONDARY:ABSTRACTION                                            4
+    believe truth cause know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now tonight then again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 38.961039 %
+SECONDARY           : 38.961039 %
+EMOTIONS            : 22.077922 %
+
+240 words total

@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time now time then time now when time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   8
+    grow taller grow taller grow taller grow taller
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where out off back
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    fair fair fair
+PRIMARY:SENSATION:VISION                                         3
+    moonlight bright see
+EMOTIONS:POSITIVE AFFECT                                         3
+    grinnin fun laughin
+PRIMARY:SENSATION:TASTE                                          2
+    sweetheart sweetheart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair handsome
+SECONDARY:ABSTRACTION                                            2
+    cause know
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:ORDER                                                  1
+    neath
+PRIMARY:SENSATION:TOUCH                                          1
+    slickin
+SECONDARY:RESTRAINT                                              1
+    stopped
+EMOTIONS:AFFECTION                                               1
+    married
+EMOTIONS:AGGRESSION                                              1
+    gun
+PRIMARY:SENSATION:ODOR                                           1
+    smellin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 32.608696 %
+EMOTIONS            : 10.869565 %
+
+189 words total

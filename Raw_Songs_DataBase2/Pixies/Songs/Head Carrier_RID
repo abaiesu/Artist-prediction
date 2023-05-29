@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         17
+    head head hand head head head head headed head head head head head head head head head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    carrier carrier carrier carrier carrier carrier carrier carrier carrier carrier carrier carrier carrier carrier
+SECONDARY:TEMPORAL REFERENCES                                    5
+    already again again again again
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where off
+EMOTIONS:AGGRESSION                                              2
+    cut killed
+SECONDARY:ABSTRACTION                                            1
+    planned
+PRIMARY:SENSATION:VISION                                         1
+    looks
+SECONDARY:RESTRAINT                                              1
+    prison
+PRIMARY:NEED:ORALITY                                             1
+    cough
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:COLD                                           1
+    chill
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talked
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    riverside
+
+PRIMARY             : 48.076923 %
+SECONDARY           : 44.230769 %
+EMOTIONS            : 7.692308 %
+
+138 words total

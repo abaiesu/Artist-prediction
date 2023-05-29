@@ -1,0 +1,28 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    8
+    river river river river river river river river
+EMOTIONS:AFFECTION                                               3
+    like dear like
+EMOTIONS:AGGRESSION                                              3
+    strife cut knife
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once old yesterday
+EMOTIONS:SADNESS                                                 3
+    sad sorrow weeps
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:ABSTRACTION                                            2
+    thought knew
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drifting
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 20.689655 %
+EMOTIONS            : 34.482759 %
+
+99 words total

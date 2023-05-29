@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    far long far side side farther at inside side farther at inside inside far
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    architect won reach make reach used
+SECONDARY:ABSTRACTION                                            6
+    think understand thoughts something know know
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        5
+    forever forever forever forever forever
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say answer please
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever while tonight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    brain eyes skin
+EMOTIONS:AGGRESSION                                              2
+    breaking hurt
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AFFECTION                                               1
+    goodbye
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 51.020408 %
+SECONDARY           : 36.734694 %
+EMOTIONS            : 12.244898 %
+
+231 words total

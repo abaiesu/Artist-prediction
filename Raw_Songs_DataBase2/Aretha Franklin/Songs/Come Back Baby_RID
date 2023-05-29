@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    back back over long back over long back over back back over back over
+SECONDARY:TEMPORAL REFERENCES                                   12
+    time time time time time time time time time time time time
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    please talk admit talk talk say call talk talk
+SECONDARY:ABSTRACTION                                            4
+    cause know know know
+EMOTIONS:AFFECTION                                               2
+    love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+
+PRIMARY             : 37.777778 %
+SECONDARY           : 57.777778 %
+EMOTIONS            : 4.444444 %
+
+178 words total

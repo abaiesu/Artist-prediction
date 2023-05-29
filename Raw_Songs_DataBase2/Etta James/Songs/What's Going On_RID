@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    far back here back back here long back back back here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    find find picket picket find find picket picket
+SECONDARY:ABSTRACTION                                            7
+    know know thinks judge know understanding know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today today every today today
+EMOTIONS:AFFECTION                                               4
+    love love love love
+EMOTIONS:AGGRESSION                                              4
+    war hate brutality brutality
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    answer talk talk tell
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lines lines
+SECONDARY:RESTRAINT                                              2
+    punish punish
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body hair
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:GLORY                                                   1
+    conquer
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 16.666667 %
+
+224 words total

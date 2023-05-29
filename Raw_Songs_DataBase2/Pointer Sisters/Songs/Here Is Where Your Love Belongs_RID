@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    side side side here where here where here where here where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    find find belongs belongs make make belongs belongs
+EMOTIONS:AFFECTION                                               4
+    love love love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    laying laying lay
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+EMOTIONS:GLORY                                                   2
+    wondering wondering
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    message message
+PRIMARY:SENSATION:SOUND                                          2
+    loud loud
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:NEED:SEX                                                 1
+    kissing
+
+PRIMARY             : 43.589744 %
+SECONDARY           : 41.025641 %
+EMOTIONS            : 15.384615 %
+
+153 words total

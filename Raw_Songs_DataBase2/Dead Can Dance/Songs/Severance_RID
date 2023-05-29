@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while now past when
+PRIMARY:SENSATION:COLD                                           4
+    child child child child
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here over within
+EMOTIONS:AGGRESSION                                              1
+    severance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:NEED:ORALITY                                             1
+    consume
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    indifference
+
+PRIMARY             : 65.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 10.000000 %
+
+85 words total

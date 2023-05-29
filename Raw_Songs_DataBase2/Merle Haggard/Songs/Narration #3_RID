@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    railroads roads lines railroaders
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head skinner skinner skinner
+SECONDARY:TEMPORAL REFERENCES                                    3
+    during years time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    worked spent hired
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    able talk conversation
+EMOTIONS:AFFECTION                                               2
+    affection like
+SECONDARY:ABSTRACTION                                            2
+    them subject
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    between out
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:SENSATION:COLD                                           1
+    northeastern
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+EMOTIONS:AGGRESSION                                              1
+    cut
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    blue
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 41.379310 %
+EMOTIONS            : 13.793103 %
+
+152 words total

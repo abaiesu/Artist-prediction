@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:COLD                                          23
+    children snow snow snowfall winter snow snow snow snow snow snow snow snow snow snow cold snow snow snow snow snow snow snow
+PRIMARY:SENSATION:SOUND                                          7
+    hear music hear drummer sounds hear hear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  6
+    fall fall fall fall fall fall
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say call call call say
+EMOTIONS:GLORY                                                   5
+    wonderful wonderful wonderful wonderful wonderful
+EMOTIONS:AFFECTION                                               3
+    like like like
+EMOTIONS:POSITIVE AFFECT                                         3
+    laughter happy happy
+SECONDARY:TEMPORAL REFERENCES                                    3
+    today time meanwhile
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playin playin
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mister mister
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    marvelous
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 65.625000 %
+SECONDARY           : 14.062500 %
+EMOTIONS            : 20.312500 %
+
+116 words total

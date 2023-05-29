@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         8
+    gazed stars lookin stars blues blues look picture
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when hour when hour when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at at at at at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head eyes
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell describe describe
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    laid laid
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above above
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+EMOTIONS:SADNESS                                                 1
+    miserable
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 60.606061 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 6.060606 %
+
+135 words total

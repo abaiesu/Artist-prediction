@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when when when every when when
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    found makes makes found makes makes
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    message said tell said tell
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    dips dips dips dips
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh laugh
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 42.222222 %
+EMOTIONS            : 24.444444 %
+
+191 words total

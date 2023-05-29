@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    round at wide here side across
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when old everybody ever everybody
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hillside hill tree
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    explainin tellin tellin
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river water
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carryin used
+PRIMARY:SENSATION:SOUND                                          2
+    music music
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippin
+EMOTIONS:AFFECTION                                               1
+    darlin
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:NEED:ORALITY                                             1
+    corn
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 2.941176 %
+
+155 words total

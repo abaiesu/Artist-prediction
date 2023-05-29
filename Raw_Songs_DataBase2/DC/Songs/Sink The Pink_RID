@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                        10
+    rough pink pink pink pink pink pink pink pink pink
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  9
+    sink sink sink sink sink sink sink sink sink
+PRIMARY:NEED:ORALITY                                             7
+    spit drink drink drink drink drink drink
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old time old time old time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    count make make make
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said say
+SECONDARY:ABSTRACTION                                            3
+    choice why know
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    water water water
+EMOTIONS:AGGRESSION                                              3
+    break shot hit
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire hot
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head eyes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    wings fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 63.934426 %
+SECONDARY           : 26.229508 %
+EMOTIONS            : 9.836066 %
+
+215 words total

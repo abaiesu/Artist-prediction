@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along outside inside
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sings
+PRIMARY:SENSATION:VISION                                         2
+    see lookin
+SECONDARY:TEMPORAL REFERENCES                                    2
+    hours when
+PRIMARY:SENSATION:SOUND                                          2
+    hummin hiss
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    downhill leanin
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamin
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swells
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    windowsill
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+
+PRIMARY             : 76.190476 %
+SECONDARY           : 9.523810 %
+EMOTIONS            : 14.285714 %
+
+148 words total

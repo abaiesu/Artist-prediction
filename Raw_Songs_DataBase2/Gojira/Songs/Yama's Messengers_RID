@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when time now now while now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at distant back far near
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    death dead slow dying
+EMOTIONS:AGGRESSION                                              3
+    retribution killed raping
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    counting count spent
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    growing sky piles
+PRIMARY:NEED:ORALITY                                             3
+    devoured feed consuming
+EMOTIONS:SADNESS                                                 3
+    pain suffering pain
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    reminder please help
+PRIMARY:SENSATION:VISION                                         2
+    see flashes
+SECONDARY:ABSTRACTION                                            2
+    them them
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes brain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cries shouts
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling fallen
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusing
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endure
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    blurred
+SECONDARY:RESTRAINT                                              1
+    cage
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 51.020408 %
+SECONDARY           : 30.612245 %
+EMOTIONS            : 18.367347 %
+
+161 words total

@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                         6
+    brightly image picture shining see behold
+EMOTIONS:AGGRESSION                                              5
+    doubt deprived hatred hurting deceived
+EMOTIONS:GLORY                                                   3
+    wondering splendor gold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    edges lines framing
+SECONDARY:ABSTRACTION                                            2
+    knowledge comprehend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    grasp grasp
+SECONDARY:RESTRAINT                                              2
+    determined caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ambiguity
+EMOTIONS:SADNESS                                                 1
+    painfully
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    blurred
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    awareness
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    tip
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:SENSATION:ODOR                                           1
+    fumes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:NEED:ORALITY                                             1
+    devoured
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 19.444444 %
+EMOTIONS            : 25.000000 %
+
+123 words total

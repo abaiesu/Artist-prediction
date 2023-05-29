@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at where where where where where out where where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    try try try try try make try try
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when everybody
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:SADNESS                                                 1
+    frown
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 11.111111 %
+
+194 words total

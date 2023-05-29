@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    arm body body eyes organism eyes
+SECONDARY:TEMPORAL REFERENCES                                    5
+    year ever ever ever once
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    closer between closer between
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    edge road edge
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    social promise
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spins shake
+PRIMARY:SENSATION:VISION                                         2
+    light light
+EMOTIONS:SADNESS                                                 2
+    lonely miserably
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:AGGRESSION                                              2
+    hate kill
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    downward
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spiral
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    feat
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    digging
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    psychotic
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chaos
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 15.789474 %
+
+129 words total

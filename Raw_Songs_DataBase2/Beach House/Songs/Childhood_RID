@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place out far west at open
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time everywhere time time time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head hand hand
+PRIMARY:SENSATION:SOUND                                          2
+    heart heartbreak
+EMOTIONS:AFFECTION                                               2
+    friend love
+SECONDARY:ABSTRACTION                                            2
+    know why
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slowly dead
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:SENSATION:HARD                                           1
+    hardest
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stairs
+EMOTIONS:ANXIETY                                                 1
+    cares
+
+PRIMARY             : 62.962963 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 11.111111 %
+
+105 words total

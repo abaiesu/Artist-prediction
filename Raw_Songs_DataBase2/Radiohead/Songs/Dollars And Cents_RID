@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    out over over out here over over out here over over over over
+SECONDARY:ABSTRACTION                                           10
+    why why know why why planet planet why why why
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       10
+    quiet quiet quiet quiet quiet dead quiet quiet quiet quiet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    constructive use constructive business goals
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk talking promised promised
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when times when
+EMOTIONS:AGGRESSION                                              2
+    weapon war
+PRIMARY:SENSATION:VISION                                         2
+    blues see
+SECONDARY:MORAL IMPERATIVE                                       2
+    honesty honesty
+PRIMARY:SENSATION:COLD                                           2
+    children children
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wander wander
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    games
+
+PRIMARY             : 50.877193 %
+SECONDARY           : 43.859649 %
+EMOTIONS            : 5.263158 %
+
+280 words total

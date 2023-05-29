@@ -1,0 +1,20 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swim sea
+SECONDARY:ABSTRACTION                                            2
+    know real
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    explain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 55.555556 %
+EMOTIONS            : 11.111111 %
+
+96 words total

@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when then when once then when till when once then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out here surface surface surface along surface surface
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying mends trying mends
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    ledge lines ledge
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:SENSATION:COLD                                           2
+    ice ice
+EMOTIONS:AGGRESSION                                              2
+    broke broke
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shakes
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 8.571429 %
+
+135 words total

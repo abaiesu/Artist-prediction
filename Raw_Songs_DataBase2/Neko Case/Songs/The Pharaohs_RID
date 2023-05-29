@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         6
+    blue blue blue blue blue blue
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    spoke said said said said
+EMOTIONS:AFFECTION                                               4
+    married love love like
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+SECONDARY:ABSTRACTION                                            3
+    thought knows know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    hall halls
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body legs
+SECONDARY:ORDER                                                  1
+    listened
+SECONDARY:RESTRAINT                                              1
+    caught
+EMOTIONS:AGGRESSION                                              1
+    tornado
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:GLORY                                                   1
+    wondered
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 16.666667 %
+
+166 words total

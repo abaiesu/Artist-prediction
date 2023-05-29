@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now whenever whenever whenever whenever whenever whenever whenever today whenever whenever whenever
+SECONDARY:ABSTRACTION                                            6
+    true real planned real sure sure
+EMOTIONS:AFFECTION                                               5
+    loving friend friend friend friend
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money making coping built
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face hand bone
+PRIMARY:SENSATION:VISION                                         2
+    see looking
+PRIMARY:SENSATION:HARD                                           2
+    stone hard
+PRIMARY:NEED:ORALITY                                             2
+    choking fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wilderness
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    saying
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+
+PRIMARY             : 38.297872 %
+SECONDARY           : 48.936170 %
+EMOTIONS            : 12.765957 %
+
+193 words total

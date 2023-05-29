@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say tell say tell tell say tell tell say say
+EMOTIONS:AFFECTION                                               6
+    like love love love love love
+SECONDARY:ABSTRACTION                                            6
+    something thinking something something something something
+SECONDARY:TEMPORAL REFERENCES                                    4
+    timing everything when while
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at away here away
+EMOTIONS:SADNESS                                                 4
+    sorry sorry sorry sorry
+PRIMARY:SENSATION:SOUND                                          2
+    heartbeat hear
+PRIMARY:SENSATION:VISION                                         2
+    look looked
+EMOTIONS:AGGRESSION                                              2
+    cruel cruel
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:NEED:ORALITY                                             2
+    tongue pearls
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 47.916667 %
+EMOTIONS            : 27.083333 %
+
+165 words total

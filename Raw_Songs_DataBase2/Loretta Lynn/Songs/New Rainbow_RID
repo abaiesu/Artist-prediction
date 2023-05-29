@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               7
+    love love like love love like love
+SECONDARY:ABSTRACTION                                            7
+    know true know know true true know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find found won find found
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away here apart away here
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rainbow rainbow rainbow rainbow
+PRIMARY:SENSATION:VISION                                         4
+    see starlight beams shine
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now then now
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searchin searchin
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fade fade
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:NEED:SEX                                                 1
+    cupid
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 48.888889 %
+SECONDARY           : 35.555556 %
+EMOTIONS            : 15.555556 %
+
+142 words total

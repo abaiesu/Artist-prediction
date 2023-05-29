@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                           12
+    believe think think know meant think believe think know know know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time now time time
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:SENSATION:SOUND                                          2
+    melody symphony
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+
+PRIMARY             : 17.857143 %
+SECONDARY           : 60.714286 %
+EMOTIONS            : 21.428571 %
+
+212 words total

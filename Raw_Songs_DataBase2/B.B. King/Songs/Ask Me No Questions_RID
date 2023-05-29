@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when when when now time now
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    please talk tell ask tell ask tell
+EMOTIONS:AFFECTION                                               6
+    love like like love love love
+SECONDARY:ABSTRACTION                                            6
+    think know know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try won won won
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    bird sky bird sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out close close
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:NEED:ORALITY                                             1
+    lips
+
+PRIMARY             : 26.190476 %
+SECONDARY           : 59.523810 %
+EMOTIONS            : 14.285714 %
+
+208 words total

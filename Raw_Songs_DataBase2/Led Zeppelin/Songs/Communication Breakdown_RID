@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              11
+    like like loving love like love love love love love love
+EMOTIONS:AGGRESSION                                             10
+    breakdown breakdown breakdown breakdown breakdown breakdown breakdown breakdown breakdown breakdown
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    communication tell communication communication communication communication communication communication
+SECONDARY:ABSTRACTION                                            5
+    know something think know cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    drive drive drive drive
+EMOTIONS:ANXIETY                                                 3
+    nervous nervous nervous
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    insane insane insane
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+
+PRIMARY             : 21.568627 %
+SECONDARY           : 31.372549 %
+EMOTIONS            : 47.058824 %
+
+188 words total

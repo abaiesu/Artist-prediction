@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    when old already when when when old when when when old old time when when when old
+EMOTIONS:AFFECTION                                              13
+    like like like like like friends like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say allowed talk
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride travel
+EMOTIONS:GLORY                                                   2
+    rich proud
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try find
+PRIMARY:SENSATION:VISION                                         2
+    seen watch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out away
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AGGRESSION                                              1
+    hate
+SECONDARY:ORDER                                                  1
+    class
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+
+PRIMARY             : 25.454545 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 29.090909 %
+
+237 words total

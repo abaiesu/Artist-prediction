@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   29
+    now now now now now now now now now now now now now now now now now now now now now now now now now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    said help calling calling please said calling calling please please
+SECONDARY:MORAL IMPERATIVE                                      10
+    right right right right right right right right right right
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfy cheer
+PRIMARY:SENSATION:SOUND                                          1
+    echo
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:ABSTRACTION                                            1
+    learned
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 7.017544 %
+SECONDARY           : 89.473684 %
+EMOTIONS            : 3.508772 %
+
+402 words total

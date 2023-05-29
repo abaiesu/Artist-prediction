@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say tell talking called apologize promise sale tell tell
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time now then tonight times now tonight tonight now
+SECONDARY:ABSTRACTION                                            8
+    think cause know thinking know thinking understand cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make make try pay buy make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back back back where back back
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            4
+    wilding wilding wilding wilding
+PRIMARY:SENSATION:VISION                                         3
+    shining see see
+EMOTIONS:AFFECTION                                               2
+    kindness kindness
+EMOTIONS:GLORY                                                   2
+    wondering pride
+PRIMARY:NEED:ORALITY                                             1
+    drunk
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystery
+SECONDARY:RESTRAINT                                              1
+    jail
+
+PRIMARY             : 32.142857 %
+SECONDARY           : 60.714286 %
+EMOTIONS            : 7.142857 %
+
+316 words total

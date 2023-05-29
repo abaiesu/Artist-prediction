@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:HARD                                          20
+    rock rock rock rock rock rock rock rock rock rock rock rock rock rock rock rock rock rock rock rock
+EMOTIONS:AFFECTION                                              11
+    like patter like like like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say please please answer help say said said said please said
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when clock clock once when soon everyone clock clock clock
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at where back at out at
+SECONDARY:ABSTRACTION                                            4
+    knew surely supposed knew
+PRIMARY:SENSATION:VISION                                         4
+    see saw look lamp
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancer dancer play
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping crazy
+PRIMARY:SENSATION:SOUND                                          2
+    hear music
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find win
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    pitter
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheer
+EMOTIONS:AGGRESSION                                              1
+    broke
+
+PRIMARY             : 45.121951 %
+SECONDARY           : 35.365854 %
+EMOTIONS            : 19.512195 %
+
+379 words total

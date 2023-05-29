@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    long long here here long distant long round away round close
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    ships ships sailed ships ship sail
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    sea sea sea washed sea sea
+SECONDARY:TEMPORAL REFERENCES                                    4
+    till again till week
+EMOTIONS:AGGRESSION                                              4
+    anger broken temper jealous
+PRIMARY:SENSATION:COLD                                           3
+    northlands wintertime winter
+EMOTIONS:SADNESS                                                 3
+    paint paint tragedy
+EMOTIONS:ANXIETY                                                 2
+    fear feared
+PRIMARY:SENSATION:VISION                                         2
+    seen grey
+SECONDARY:ABSTRACTION                                            2
+    them may
+PRIMARY:SENSATION:SOUND                                          2
+    music music
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calling protector
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring threw
+SECONDARY:RESTRAINT                                              2
+    locked guard
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    char
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    roaring
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+
+PRIMARY             : 64.285714 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 17.857143 %
+
+253 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    long closed far out at long far long back long far long long far long
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when ago times time now when time time years now time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    build won build build used
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    met tell tell tell
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high high high
+EMOTIONS:AGGRESSION                                              3
+    tore tore tore
+SECONDARY:ABSTRACTION                                            3
+    knows think cause
+SECONDARY:MORAL IMPERATIVE                                       2
+    right custom
+PRIMARY:SENSATION:VISION                                         2
+    imagine lookin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:RESTRAINT                                              1
+    bars
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 41.509434 %
+SECONDARY           : 50.943396 %
+EMOTIONS            : 7.547170 %
+
+284 words total

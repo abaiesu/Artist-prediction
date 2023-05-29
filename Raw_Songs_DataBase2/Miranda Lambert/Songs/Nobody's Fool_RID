@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say ask say tells reminds say ask say say ask say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    place at round out off long out out off off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    find buy try make try won find try try
+SECONDARY:TEMPORAL REFERENCES                                    9
+    every now when then every when while when when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    dance play dance play play
+SECONDARY:ABSTRACTION                                            5
+    know them learning know know
+EMOTIONS:AFFECTION                                               4
+    friends like friends friends
+PRIMARY:SENSATION:COLD                                           3
+    cool cool cool
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill fun
+PRIMARY:SENSATION:VISION                                         1
+    lights
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:AGGRESSION                                              1
+    kill
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+
+PRIMARY             : 27.692308 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 18.461538 %
+
+260 words total

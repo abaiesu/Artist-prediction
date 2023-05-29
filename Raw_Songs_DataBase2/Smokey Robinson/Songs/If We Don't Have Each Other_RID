@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    tell tell tell tell tell meeting tell tell tell tell tell tell say tell tell tell agree
+EMOTIONS:AFFECTION                                               9
+    love like love love like love love like love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where off at at close at at at at
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever everything ever every when when ever when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+SECONDARY:ABSTRACTION                                            2
+    know think
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:SENSATION:VISION                                         1
+    imagine
+PRIMARY:SENSATION:TOUCH                                          1
+    snuggle
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 57.692308 %
+EMOTIONS            : 17.307692 %
+
+397 words total

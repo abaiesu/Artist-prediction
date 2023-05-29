@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hands arms muscles hands
+EMOTIONS:AFFECTION                                               3
+    darling kind like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grow trees high
+PRIMARY:SENSATION:VISION                                         2
+    rough sees
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm hot
+PRIMARY:NEED:ORALITY                                             2
+    salt ham
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    cure plow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back here
+SECONDARY:ABSTRACTION                                            2
+    believe why
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    player
+EMOTIONS:AGGRESSION                                              1
+    hater
+PRIMARY:NEED:ANALITY                                             1
+    sweater
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:TEMPORAL REFERENCES                                    1
+    quick
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 20.689655 %
+EMOTIONS            : 17.241379 %
+
+243 words total

@@ -1,0 +1,22 @@
+PRIMARY:NEED:ORALITY                                             5
+    honey honey honey honey honey
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    round where where
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll roll
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 6.250000 %
+
+143 words total

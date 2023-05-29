@@ -1,0 +1,42 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    rain rain rain washin rain rain rain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out out place where out near where
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    ashes heat burnin blazed
+SECONDARY:TEMPORAL REFERENCES                                    4
+    once now quick once
+EMOTIONS:AFFECTION                                               3
+    like likes like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line wall wall
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    says say says
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    thrown fly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried claims
+PRIMARY:SENSATION:VISION                                         2
+    lighter colors
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hung sky
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet limb
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 22.916667 %
+EMOTIONS            : 10.416667 %
+
+236 words total

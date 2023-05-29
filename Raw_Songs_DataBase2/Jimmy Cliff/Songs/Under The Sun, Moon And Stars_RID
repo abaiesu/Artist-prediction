@@ -1,0 +1,44 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                   21
+    under under under under under under under under under under under under under under under under under under under under under
+PRIMARY:ICARIAN IMAGERY:FIRE                                    16
+    sun sun sun sun sun sun sun sun sun sun sun sun sun sun sun sun
+PRIMARY:SENSATION:VISION                                        15
+    stars see stars stars stars stars stars stars stars stars stars stars stars stars stars
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    work work paid try worked found gain won find
+EMOTIONS:POSITIVE AFFECT                                         8
+    fun happiness fun fun fun happiness fun happiness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out here wherever here wherever wherever
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    sayin tell tell tell
+SECONDARY:ABSTRACTION                                            4
+    know know understand understand
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now time everyone
+SECONDARY:ORDER                                                  3
+    listen listen listen
+PRIMARY:SENSATION:SOUND                                          2
+    sound heard
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:AGGRESSION                                              1
+    complain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    peaceful
+PRIMARY:NEED:SEX                                                 1
+    venus
+
+PRIMARY             : 61.386139 %
+SECONDARY           : 26.732673 %
+EMOTIONS            : 11.881188 %
+
+298 words total

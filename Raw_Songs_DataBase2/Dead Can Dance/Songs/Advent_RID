@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at point at inside behind inside inside away side
+PRIMARY:SENSATION:VISION                                         6
+    light shines light shines light shines
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    madness dementia dementia dementia dream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies lay ease
+SECONDARY:ABSTRACTION                                            2
+    reason may
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hour
+EMOTIONS:SADNESS                                                 1
+    despair
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wanderings
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebration
+SECONDARY:MORAL IMPERATIVE                                       1
+    virtues
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+EMOTIONS:ANXIETY                                                 1
+    troubled
+
+PRIMARY             : 75.609756 %
+SECONDARY           : 12.195122 %
+EMOTIONS            : 12.195122 %
+
+159 words total

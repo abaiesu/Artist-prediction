@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back middle longing somewhere
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    meet say tell answer
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    caroline caroline caroline
+SECONDARY:ABSTRACTION                                            3
+    may sure them
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    stairway stairway
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    handy hand
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high hungry
+EMOTIONS:AFFECTION                                               2
+    like love
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:AGGRESSION                                              1
+    angry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+
+PRIMARY             : 48.275862 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 20.689655 %
+
+119 words total

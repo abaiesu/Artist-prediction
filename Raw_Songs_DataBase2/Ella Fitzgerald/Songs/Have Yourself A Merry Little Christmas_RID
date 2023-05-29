@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    year year once again once soon then now once again once soon then now
+EMOTIONS:POSITIVE AFFECT                                         7
+    merry merry gay happy merry happy merry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out away near near
+EMOTIONS:AFFECTION                                               4
+    friends dear friends dear
+EMOTIONS:ANXIETY                                                 2
+    troubles troubles
+EMOTIONS:GLORY                                                   2
+    golden golden
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    allow allow
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    light
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+
+PRIMARY             : 17.500000 %
+SECONDARY           : 42.500000 %
+EMOTIONS            : 40.000000 %
+
+147 words total

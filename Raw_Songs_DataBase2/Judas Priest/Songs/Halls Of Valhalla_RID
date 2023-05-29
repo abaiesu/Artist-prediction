@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    calling calling calling calling calling calling calling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    belong belong belong belong belong belong
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long where where where where
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    line halls line halls halls
+EMOTIONS:AGGRESSION                                              3
+    fierce combat slain
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every then every
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    dawning dawning dawning
+PRIMARY:SENSATION:COLD                                           2
+    north ice
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea tide
+PRIMARY:NEED:ORALITY                                             2
+    drink bite
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death rests
+EMOTIONS:POSITIVE AFFECT                                         1
+    rejoice
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:VISION                                         1
+    lightning
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drives
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 8.695652 %
+
+200 words total

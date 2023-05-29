@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:SOUND                                         20
+    hearts hearts hearts hearts heart heart hearts hearts hearts heart heart hearts hearts hearts heart heart heart hearts hearts hearts
+EMOTIONS:AFFECTION                                              14
+    love kindest love darling loved darling loved love love darling loved darling loved like
+PRIMARY:SENSATION:HARD                                          13
+    hardest hardest hardest hardest hardest hardest hardest hardest hardest hardest hardest hardest hardest
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         10
+    body eyes skin body head face bodies body head face
+SECONDARY:ABSTRACTION                                            6
+    tenderest know something know cause cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out out apart out out at
+PRIMARY:SENSATION:TASTE                                          6
+    sweetest bitterest taste sweetest bitterest taste
+PRIMARY:NEED:ORALITY                                             4
+    mouth tongue mouth tongue
+EMOTIONS:AGGRESSION                                              3
+    break hurts break
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pours water
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    excuse excuse
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:SEX                                                 1
+    kisses
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swells
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 68.817204 %
+SECONDARY           : 12.903226 %
+EMOTIONS            : 18.279570 %
+
+367 words total

@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where long long where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find found found
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time now now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share share
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    search searched
+PRIMARY:SENSATION:VISION                                         2
+    looked see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizons
+
+PRIMARY             : 61.904762 %
+SECONDARY           : 38.095238 %
+EMOTIONS            : 0.000000 %
+
+99 words total

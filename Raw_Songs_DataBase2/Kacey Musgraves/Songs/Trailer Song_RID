@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    out at side here back out side here back out side side here back here back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    window fence trailer line fence trailer street fence trailer trailer
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say borrowing ask ask ask ask ask
+PRIMARY:SENSATION:VISION                                         7
+    watching watch see see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    traded job won work try claim
+EMOTIONS:AFFECTION                                               4
+    like friends friends friends
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    birds bird high
+PRIMARY:NEED:ORALITY                                             3
+    eggs dishes tea
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washed
+PRIMARY:SENSATION:COLD                                           1
+    iced
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+SECONDARY:ABSTRACTION                                            1
+    judging
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:NEED:SEX                                                 1
+    bitch
+
+PRIMARY             : 70.967742 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 6.451613 %
+
+261 words total

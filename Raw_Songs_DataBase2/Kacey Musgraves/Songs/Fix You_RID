@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try succeed try try
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face bones bones
+PRIMARY:SENSATION:VISION                                         2
+    lights lights
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    guide guide
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    ignite ignite
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    streaming
+SECONDARY:ABSTRACTION                                            1
+    something
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 4.545455 %
+
+99 words total

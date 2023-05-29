@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           10
+    thought think something think know something why guess why guess
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever now then soon now now while now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    round out over over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    works won won
+PRIMARY:SENSATION:VISION                                         2
+    watch see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answer answer
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun suns
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing guitar
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    airplanes
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swaying
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chancer
+EMOTIONS:AFFECTION                                               1
+    darling
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 54.761905 %
+EMOTIONS            : 7.142857 %
+
+141 words total

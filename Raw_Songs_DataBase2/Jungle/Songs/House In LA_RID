@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                        11
+    sunshine sunshine sunshine sunshine sunlight sunlight sunshine sunshine sunlight sunlight sunshine
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now now now now now years now now now years now
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    ask say ask tell ask say tell ask say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    won won won won try find try find
+EMOTIONS:AFFECTION                                               5
+    like friends like friends like
+SECONDARY:ABSTRACTION                                            4
+    truly plane real real
+SECONDARY:MORAL IMPERATIVE                                       3
+    right should right
+EMOTIONS:ANXIETY                                                 2
+    fears fears
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sunset sunset
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    haze
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+
+PRIMARY             : 32.307692 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 13.846154 %
+
+289 words total

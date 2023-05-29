@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    line stairs door floor step step
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    across backseat across along across along
+SECONDARY:ABSTRACTION                                            4
+    know true know true
+PRIMARY:SENSATION:VISION                                         4
+    see see watch watch
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    excuse callous excuse callous
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    yellow sing sing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams awake awake
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time while
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    charm charm
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    arch arch
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    factory
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:HARD                                           1
+    glass
+
+PRIMARY             : 59.090909 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 13.636364 %
+
+173 words total

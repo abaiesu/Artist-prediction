@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    wherever where round out
+PRIMARY:SENSATION:VISION                                         3
+    rough picture see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road step
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk talk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money money
+EMOTIONS:AFFECTION                                               2
+    like loving
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 14.285714 %
+
+127 words total

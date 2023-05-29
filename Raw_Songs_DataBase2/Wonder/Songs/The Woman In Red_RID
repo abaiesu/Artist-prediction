@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                        13
+    seeing see see looking imagine see imagine see see see see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    over at side inside straight at side inside straight straight
+EMOTIONS:AFFECTION                                               6
+    love like like like like like
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    pretty pretty pretty pretty pretty pretty
+SECONDARY:ABSTRACTION                                            4
+    think cause cause something
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes head head head
+PRIMARY:SENSATION:SOUND                                          4
+    ring heart drum ring
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please pardon speak saying
+SECONDARY:RESTRAINT                                              3
+    catch caught resist
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now old
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing sight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make trying
+PRIMARY:NEED:SEX                                                 1
+    venus
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+EMOTIONS:AGGRESSION                                              1
+    beating
+
+PRIMARY             : 60.606061 %
+SECONDARY           : 25.757576 %
+EMOTIONS            : 13.636364 %
+
+386 words total

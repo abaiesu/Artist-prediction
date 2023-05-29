@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    wall floor floor wall floor wall wall wall wall floor wall wall
+EMOTIONS:AGGRESSION                                             10
+    hit hit hurt hit hit hit hit hurt hit hit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    using make make found
+SECONDARY:ABSTRACTION                                            4
+    thought sure thought sure
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    low low hole
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    waterfall swimming pool
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now then
+EMOTIONS:AFFECTION                                               2
+    like loving
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:SENSATION:VISION                                         2
+    watched watched
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    ashes ashes
+PRIMARY:NEED:ORALITY                                             1
+    salted
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+
+PRIMARY             : 53.703704 %
+SECONDARY           : 20.370370 %
+EMOTIONS            : 25.925926 %
+
+289 words total

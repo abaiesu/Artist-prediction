@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    out out away place out out away place out out away place out
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when ever once again quicksand tonight
+EMOTIONS:ANXIETY                                                 7
+    afraid fear fear fear fear fear fear
+SECONDARY:ABSTRACTION                                            4
+    supposed something choice know
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    falling bury bury bury
+EMOTIONS:AGGRESSION                                              4
+    break struggle break break
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reaching won
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top above
+PRIMARY:NEED:ORALITY                                             2
+    consume swallow
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain flood
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    depth
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    followed
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:SENSATION:COLD                                           1
+    freeze
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+
+PRIMARY             : 50.819672 %
+SECONDARY           : 27.868852 %
+EMOTIONS            : 21.311475 %
+
+193 words total

@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:SOUND                                         19
+    music music music music music music music music music music music music music music music music music music music
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make make make burden tasks make make make make
+EMOTIONS:POSITIVE AFFECT                                         9
+    joy happiness joy happiness joy happiness joy happiness joy
+EMOTIONS:AFFECTION                                               8
+    love love love love love love love love
+EMOTIONS:AGGRESSION                                              7
+    war war war war war war war
+PRIMARY:SENSATION:HARD                                           4
+    hard stiff hard rock
+SECONDARY:ABSTRACTION                                            3
+    reason reason choose
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    pardon ask treat
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:NEED:ORALITY                                             2
+    eat eat
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    necks
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    roots
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+SECONDARY:ORDER                                                  1
+    universal
+
+PRIMARY             : 40.259740 %
+SECONDARY           : 25.974026 %
+EMOTIONS            : 33.766234 %
+
+282 words total

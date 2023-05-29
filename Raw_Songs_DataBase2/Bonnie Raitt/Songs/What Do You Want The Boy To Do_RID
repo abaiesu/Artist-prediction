@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         8
+    see see see watches watches see see see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    says say promise promises
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again today now then
+EMOTIONS:AGGRESSION                                              4
+    breaks breaking breaking breaking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    within within within out
+SECONDARY:ABSTRACTION                                            3
+    think knows know
+EMOTIONS:AFFECTION                                               3
+    like love friend
+PRIMARY:SENSATION:COLD                                           3
+    child child child
+PRIMARY:NEED:ORALITY                                             2
+    eats apple
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry game
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    eternally eternally
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    build found
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+
+PRIMARY             : 48.888889 %
+SECONDARY           : 28.888889 %
+EMOTIONS            : 22.222222 %
+
+262 words total

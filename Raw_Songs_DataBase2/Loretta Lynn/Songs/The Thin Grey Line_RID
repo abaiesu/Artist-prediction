@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            6
+    know guess choice choose know know
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say please say say
+PRIMARY:SENSATION:VISION                                         4
+    grey grey grey grey
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    line line line line
+SECONDARY:MORAL IMPERATIVE                                       3
+    right shouldn should
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where place away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make tried
+EMOTIONS:AGGRESSION                                              3
+    break break break
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 34.146341 %
+SECONDARY           : 43.902439 %
+EMOTIONS            : 21.951220 %
+
+173 words total

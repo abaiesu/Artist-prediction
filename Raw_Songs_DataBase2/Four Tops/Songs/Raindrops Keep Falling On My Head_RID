@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    head feet head head head eyes head eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    raindrops raindrops raindrops raindrops rain raindrops rain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  7
+    fallin fallin fallin fallin fallin fallin fallin
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talking said meet greet greet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    job won won won
+SECONDARY:ABSTRACTION                                            3
+    know cause cause
+EMOTIONS:AGGRESSION                                              3
+    defeat complainin complainin
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness happiness
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    steps steps
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon soon
+SECONDARY:RESTRAINT                                              2
+    stop stop
+EMOTIONS:ANXIETY                                                 2
+    worrying worrying
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+PRIMARY:SENSATION:VISION                                         1
+    blues
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 29.090909 %
+EMOTIONS            : 16.363636 %
+
+195 words total

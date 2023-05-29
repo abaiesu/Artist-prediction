@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           12
+    know true knows guessing guessing know know know know know know known
+SECONDARY:TEMPORAL REFERENCES                                    6
+    while times times times times times
+SECONDARY:MORAL IMPERATIVE                                       6
+    ought ought ought should should should
+EMOTIONS:AFFECTION                                               5
+    love darling darling darling loved
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along open open
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road linings road
+PRIMARY:SENSATION:VISION                                         2
+    gazed see
+EMOTIONS:GLORY                                                   2
+    wondered gold
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dream
+PRIMARY:NEED:ORALITY                                             1
+    bitten
+SECONDARY:ORDER                                                  1
+    listened
+PRIMARY:SENSATION:SOFT                                           1
+    mellow
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 56.818182 %
+EMOTIONS            : 15.909091 %
+
+159 words total

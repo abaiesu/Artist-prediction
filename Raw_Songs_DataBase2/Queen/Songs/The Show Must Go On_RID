@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    spaces places behind inside round outside inside inside overkill
+SECONDARY:ABSTRACTION                                            8
+    guess know know may know guess learning may
+SECONDARY:RESTRAINT                                              8
+    must must must must must must must must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make find carry
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now soon now yesterday
+PRIMARY:SENSATION:SOUND                                          3
+    heart heartache heart
+EMOTIONS:AGGRESSION                                              3
+    breaking breaking breaking
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile smile grin
+EMOTIONS:AFFECTION                                               3
+    romance like friends
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    dawn wings fly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow top
+PRIMARY:SENSATION:VISION                                         1
+    looking
+EMOTIONS:GLORY                                                   1
+    hero
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    curtain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmer
+PRIMARY:NEED:ORALITY                                             1
+    corner
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 42.622951 %
+SECONDARY           : 39.344262 %
+EMOTIONS            : 18.032787 %
+
+232 words total

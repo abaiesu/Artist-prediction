@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at distance space space space space space space
+PRIMARY:SENSATION:VISION                                         4
+    look seen seen seen
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when times older older
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:ABSTRACTION                                            3
+    reality reconsider real
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard heard
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:ORDER                                                  1
+    order
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 16.666667 %
+
+205 words total

@@ -1,0 +1,64 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time ancient now everything then again time time
+PRIMARY:SENSATION:VISION                                         6
+    blue looks looking see glancing see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long long tipped out inside
+SECONDARY:ABSTRACTION                                            4
+    history theory history known
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say ask communication
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    plays screams dancer
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    fever dream dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    trees high top
+PRIMARY:NEED:ORALITY                                             2
+    salty lips
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door edged
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes hands
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:AGGRESSION                                              1
+    kills
+EMOTIONS:SADNESS                                                 1
+    painted
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    claims
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    seas
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trippin
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    lit
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrills
+EMOTIONS:GLORY                                                   1
+    famous
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 57.627119 %
+SECONDARY           : 28.813559 %
+EMOTIONS            : 13.559322 %
+
+189 words total

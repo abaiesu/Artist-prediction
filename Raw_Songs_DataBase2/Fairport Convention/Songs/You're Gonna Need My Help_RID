@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       20
+    help say help say asked say help say say treat help say help say help say asked say help say
+SECONDARY:ABSTRACTION                                            9
+    know know cause know cause know cause know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won won won won won won won
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everything everything tonight everything everything everything
+EMOTIONS:ANXIETY                                                 5
+    worry worry worry worry worry
+EMOTIONS:SADNESS                                                 4
+    frowns sorry frowns sorry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+PRIMARY:NEED:ORALITY                                             1
+    food
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 10.344828 %
+SECONDARY           : 74.137931 %
+EMOTIONS            : 15.517241 %
+
+247 words total

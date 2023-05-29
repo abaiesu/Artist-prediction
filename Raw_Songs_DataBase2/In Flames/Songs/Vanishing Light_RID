@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         7
+    light picture picture picture picture picture picture
+SECONDARY:ABSTRACTION                                            7
+    learn learn knows learn knows learn knows
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    behind place away front away away
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    jump jump jump jump jump jump
+EMOTIONS:AGGRESSION                                              4
+    fury rage enemy doubt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find make money pay
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    slide slide slide
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire fire fire
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lines route
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+EMOTIONS:SADNESS                                                 1
+    sad
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 30.612245 %
+EMOTIONS            : 12.244898 %
+
+169 words total

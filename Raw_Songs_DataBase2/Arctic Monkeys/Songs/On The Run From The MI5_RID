@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out at
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flights flights
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    selling
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:RESTRAINT                                              1
+    catch
+
+PRIMARY             : 64.285714 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 0.000000 %
+
+168 words total

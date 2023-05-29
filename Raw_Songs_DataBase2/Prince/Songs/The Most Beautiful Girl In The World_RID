@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              8
+    beautiful beautiful beautiful beauty beauty beautiful beautiful beautiful
+PRIMARY:SENSATION:VISION                                         8
+    see see see light see stars see see
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when time when when hours when ever ever
+SECONDARY:ABSTRACTION                                            7
+    reason reason reason know reason reason reason
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say allow allow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    far behind inside
+EMOTIONS:AFFECTION                                               3
+    kind kind kind
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms face
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falls fell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:NEED:ORALITY                                             2
+    devoured honey
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:ANXIETY                                                 1
+    shy
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 14.285714 %
+
+301 words total

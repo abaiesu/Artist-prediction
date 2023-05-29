@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            8
+    cause meant know something something know think choose
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    cured won won used cured
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when when when now
+PRIMARY:SENSATION:VISION                                         5
+    see look blues look blues
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    skin brain head skin
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell call share tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at nearly somewhere
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    water water swim
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+PRIMARY:SENSATION:SOUND                                          1
+    rhythm
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:NEED:SEX                                                 1
+    fucking
+
+PRIMARY             : 48.936170 %
+SECONDARY           : 46.808511 %
+EMOTIONS            : 4.255319 %
+
+292 words total

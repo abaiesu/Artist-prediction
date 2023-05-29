@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    tell say protect protect tells say protect protect protect
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make found won won won won won
+SECONDARY:ABSTRACTION                                            6
+    cause reason real real something real
+EMOTIONS:POSITIVE AFFECT                                         4
+    relief relief relief relief
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here behind back
+EMOTIONS:AFFECTION                                               3
+    favors kind goodbye
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time when today
+PRIMARY:SENSATION:VISION                                         3
+    brighter looking brighter
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play game
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:COLD                                           1
+    chill
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+
+PRIMARY             : 23.913043 %
+SECONDARY           : 56.521739 %
+EMOTIONS            : 19.565217 %
+
+342 words total

@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              25
+    love love love love love love love love love love love love love love love love love love love love love love love love love
+EMOTIONS:POSITIVE AFFECT                                        23
+    funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny funny
+SECONDARY:TEMPORAL REFERENCES                                   15
+    everywhere every every time when suddenly time time everywhere everywhere every every when time everywhere
+PRIMARY:SENSATION:VISION                                         4
+    look see look see
+PRIMARY:NEED:ORALITY                                             3
+    tea tea tea
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    far at at
+SECONDARY:RESTRAINT                                              2
+    bound bound
+SECONDARY:ABSTRACTION                                            2
+    truth cause
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heavens above
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumbling
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+
+PRIMARY             : 19.540230 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 56.321839 %
+
+238 words total

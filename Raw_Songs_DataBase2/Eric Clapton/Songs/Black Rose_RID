@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at where away where here at where at where
+PRIMARY:SENSATION:VISION                                         9
+    sunshine see colors see colors sunshine sunshine see colors
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    high grows high grows high grows
+EMOTIONS:AFFECTION                                               5
+    love love like love love
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    mountain throw mountain mountain
+PRIMARY:SENSATION:COLD                                           4
+    cold cold cold cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    shadows shadows shadows
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:HARD                                           1
+    stones
+EMOTIONS:AGGRESSION                                              1
+    steal
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 83.673469 %
+SECONDARY           : 4.081633 %
+EMOTIONS            : 12.244898 %
+
+189 words total

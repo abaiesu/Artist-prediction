@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    closer closer closer closer where where closer closer closer closer where where where where
+SECONDARY:TEMPORAL REFERENCES                                   14
+    everything ever now now everything ever now everything ever now now everything ever now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    won won find find won won find find find find
+PRIMARY:SENSATION:SOUND                                         10
+    heart heart heart heart heart heart heart heart heart heart
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    6
+    under under under under under under
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    tree tree tree tree tree tree
+SECONDARY:ABSTRACTION                                            4
+    know cause think cause
+EMOTIONS:AFFECTION                                               3
+    love love like
+EMOTIONS:AGGRESSION                                              3
+    cutting cutting cutting
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 50.684932 %
+SECONDARY           : 38.356164 %
+EMOTIONS            : 10.958904 %
+
+301 words total

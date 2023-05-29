@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    here back at away here here here here away here back here here
+SECONDARY:ABSTRACTION                                           12
+    them believe cause know know know know know know know know know
+EMOTIONS:SADNESS                                                 9
+    sorry sorry sorry lonely sorry sorry sorry sorry sorry
+EMOTIONS:AGGRESSION                                              6
+    hurt hurt hurt hurt hurt hurt
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when now now again now
+PRIMARY:SENSATION:COLD                                           3
+    snow snow cold
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:VISION                                         2
+    watching looking
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    gifts
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 36.206897 %
+SECONDARY           : 36.206897 %
+EMOTIONS            : 27.586207 %
+
+389 words total

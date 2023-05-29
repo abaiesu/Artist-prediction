@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    flat flat nearly away out beside somewhere near away close
+SECONDARY:TEMPORAL REFERENCES                                    9
+    while time every when every every then yesterday when
+PRIMARY:SENSATION:VISION                                         5
+    rouge rouge blues blues blues
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    harpoon sang sung sang sang
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    headin thumbed hands body
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    coalmines sun searchin
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rained
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:AGGRESSION                                              1
+    slappin
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driver
+SECONDARY:ABSTRACTION                                            1
+    knew
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shared
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 59.183673 %
+SECONDARY           : 26.530612 %
+EMOTIONS            : 14.285714 %
+
+231 words total

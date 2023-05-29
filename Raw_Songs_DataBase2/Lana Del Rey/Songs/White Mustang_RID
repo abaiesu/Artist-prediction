@@ -1,0 +1,38 @@
+SECONDARY:RESTRAINT                                             15
+    stop mustang mustang mustang mustang caught stop mustang mustang mustang mustang mustang mustang mustang mustang
+PRIMARY:SENSATION:VISION                                         8
+    saw saw saw saw lightning saw lightning lightning
+EMOTIONS:AFFECTION                                               6
+    liked like loving like like like
+SECONDARY:ABSTRACTION                                            5
+    cause cause thought meant believing
+EMOTIONS:AGGRESSION                                              4
+    killer hit hit hit
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call said said
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when everybody
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipping
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    record
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+EMOTIONS:ANXIETY                                                 1
+    frightening
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+
+PRIMARY             : 28.846154 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 21.153846 %
+
+222 words total

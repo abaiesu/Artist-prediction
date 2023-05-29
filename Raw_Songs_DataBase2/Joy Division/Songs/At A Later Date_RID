@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    away here at place at out at at at here at at at somewhere at at
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when when everything when date date everything time date soon date date date date date
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    try buy buy use find working make effort make
+SECONDARY:ABSTRACTION                                            6
+    why why true thinking why think
+SECONDARY:RESTRAINT                                              3
+    must must must
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:NEED:ORALITY                                             2
+    drinking beer
+EMOTIONS:ANXIETY                                                 2
+    fright dangerous
+EMOTIONS:AGGRESSION                                              2
+    hit bothered
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:NEED:ANALITY                                             1
+    rotten
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shady
+EMOTIONS:POSITIVE AFFECT                                         1
+    grin
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 33.846154 %
+SECONDARY           : 52.307692 %
+EMOTIONS            : 13.846154 %
+
+240 words total

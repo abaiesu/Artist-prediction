@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                          9
+    heartburn heart heart heart heart heart heart heart heart
+EMOTIONS:AFFECTION                                               6
+    love love love like love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    situation long back situation situation situation
+PRIMARY:NEED:ORALITY                                             4
+    bite honey fast honey
+SECONDARY:ABSTRACTION                                            4
+    think know know think
+EMOTIONS:ANXIETY                                                 4
+    desperate desperate desperate desperate
+PRIMARY:SENSATION:COLD                                           2
+    cold chills
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything everything
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    depends depends
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms bones
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning fire
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+EMOTIONS:AGGRESSION                                              1
+    affliction
+
+PRIMARY             : 57.777778 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 24.444444 %
+
+180 words total

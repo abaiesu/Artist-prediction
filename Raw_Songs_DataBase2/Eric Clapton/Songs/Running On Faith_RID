@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              19
+    love love like love love like love love love love love love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    over back over over over over over over over over over over over over over
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when when every now when every now then when when when when when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            8
+    sleep dreams dreams dreams dreams dreams dreams dreams
+SECONDARY:ABSTRACTION                                            7
+    except true true true true true true
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talking say said said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:SENSATION:VISION                                         1
+    imagine
+EMOTIONS:ANXIETY                                                 1
+    cares
+
+PRIMARY             : 32.432432 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 27.027027 %
+
+242 words total

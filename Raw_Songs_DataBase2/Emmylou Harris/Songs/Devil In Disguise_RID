@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tellin talk speak tellin tellin call tellin
+PRIMARY:SENSATION:VISION                                         6
+    see see see see looking see
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now time everyone whenever time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes eyes eyes
+PRIMARY:NEED:ANALITY                                             4
+    dirty dirty dirty dirty
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lies lies lies lies
+EMOTIONS:AGGRESSION                                              3
+    hate jealousy doubt
+EMOTIONS:AFFECTION                                               2
+    like kind
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    close off
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+EMOTIONS:SADNESS                                                 1
+    unhappiness
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 15.000000 %
+
+223 words total

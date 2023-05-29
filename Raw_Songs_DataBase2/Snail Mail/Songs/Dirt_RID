@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    once when when then when when now when when
+EMOTIONS:POSITIVE AFFECT                                         6
+    laugh laugh funny funny funny laugh
+PRIMARY:SENSATION:VISION                                         4
+    seen seen seen see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    open side out out
+PRIMARY:NEED:ANALITY                                             4
+    dirt dirt dirt dirt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    countless won won
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    help tell tell
+SECONDARY:ABSTRACTION                                            3
+    guesses guesses know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    halls doors
+SECONDARY:RESTRAINT                                              2
+    caught caught
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burns burns
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 18.181818 %
+
+222 words total

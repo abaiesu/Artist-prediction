@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                          8
+    heart heart heart heart heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    hand hand hand hand hand hand hand hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    side side far side side between
+EMOTIONS:AFFECTION                                               3
+    loving love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    till time years
+SECONDARY:ABSTRACTION                                            2
+    may true
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    spoken promise
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:RESTRAINT                                              1
+    bind
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:ORDER                                                  1
+    measure
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AGGRESSION                                              1
+    broken
+
+PRIMARY             : 64.102564 %
+SECONDARY           : 25.641026 %
+EMOTIONS            : 10.256410 %
+
+133 words total

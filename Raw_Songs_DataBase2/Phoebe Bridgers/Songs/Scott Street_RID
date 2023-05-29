@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every when when when when old when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    spending money earned makes make carry
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    asked said said asked said said
+PRIMARY:SENSATION:SOUND                                          5
+    heart hear heard drums hear
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    stranger stranger stranger stranger
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    open open over
+EMOTIONS:AFFECTION                                               2
+    like married
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tall
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shower
+PRIMARY:NEED:ORALITY                                             1
+    beer
+SECONDARY:ABSTRACTION                                            1
+    plan
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:NEED:ANALITY                                             1
+    shit
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 9.090909 %
+
+155 words total

@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              18
+    love loving darling loving kinda dear darling love love darling darling darling darling darling darling darling darling darling
+SECONDARY:TEMPORAL REFERENCES                                   16
+    now then time time while time time while time when time while while while time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    at away long away away side away away away away away away away
+SECONDARY:ABSTRACTION                                            9
+    something think why cause believe know cause know true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    used make make make make make
+SECONDARY:MORAL IMPERATIVE                                       5
+    should should should should should
+PRIMARY:SENSATION:VISION                                         4
+    look saw see see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry cry cry cry
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said explain tell say
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chance chance chance
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 26.436782 %
+SECONDARY           : 45.977011 %
+EMOTIONS            : 27.586207 %
+
+351 words total

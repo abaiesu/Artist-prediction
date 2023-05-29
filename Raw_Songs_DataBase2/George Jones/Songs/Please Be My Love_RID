@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                              12
+    love love love love like loving love love love love love love
+SECONDARY:ABSTRACTION                                            9
+    true believe think believe believe think believe think believe
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please please please please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place place
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spent
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+
+PRIMARY             : 9.375000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 40.625000 %
+
+155 words total

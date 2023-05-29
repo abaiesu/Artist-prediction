@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    across back across across across
+SECONDARY:TEMPORAL REFERENCES                                    4
+    times when past time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find machines won
+SECONDARY:ABSTRACTION                                            2
+    knew believe
+PRIMARY:SENSATION:VISION                                         1
+    shiny
+PRIMARY:NEED:ORALITY                                             1
+    fruit
+SECONDARY:RESTRAINT                                              1
+    caught
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 47.619048 %
+EMOTIONS            : 9.523810 %
+
+154 words total

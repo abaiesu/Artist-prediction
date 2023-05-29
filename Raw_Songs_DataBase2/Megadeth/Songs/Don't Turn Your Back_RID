@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    far between here back back here back here back back
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when ever when ever then times times ever ever
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    advice lend help advice lend advice lend
+SECONDARY:ABSTRACTION                                            5
+    know true may something think
+EMOTIONS:AFFECTION                                               5
+    friends like friend friend friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try pay try try
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:AGGRESSION                                              1
+    steal
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 13.333333 %
+
+202 words total

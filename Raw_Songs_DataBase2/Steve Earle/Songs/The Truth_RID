@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    across here at off back here
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    remind admittin remindin forgive admit
+SECONDARY:RESTRAINT                                              4
+    block guard prisoner forbid
+SECONDARY:ABSTRACTION                                            4
+    cause cause truth true
+PRIMARY:SENSATION:VISION                                         3
+    blue see gaze
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time every
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor wall
+EMOTIONS:AFFECTION                                               2
+    like dear
+EMOTIONS:ANXIETY                                                 2
+    fear scares
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+PRIMARY:NEED:ORALITY                                             1
+    fed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+
+PRIMARY             : 43.243243 %
+SECONDARY           : 45.945946 %
+EMOTIONS            : 10.810811 %
+
+186 words total

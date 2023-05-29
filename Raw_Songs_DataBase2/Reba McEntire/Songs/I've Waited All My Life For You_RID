@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               5
+    like love love love love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once time time time ever
+SECONDARY:ABSTRACTION                                            4
+    know true think true
+PRIMARY:SENSATION:VISION                                         3
+    see imagine imagine
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used find
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+EMOTIONS:AGGRESSION                                              1
+    crushed
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 23.076923 %
+
+157 words total

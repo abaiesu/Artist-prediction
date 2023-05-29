@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell treating say say pleasure pleasure preach
+SECONDARY:ABSTRACTION                                            5
+    think know true know know
+EMOTIONS:SADNESS                                                 3
+    suffer pain pain
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then times
+EMOTIONS:AFFECTION                                               2
+    love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay practice
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out round
+SECONDARY:MORAL IMPERATIVE                                       1
+    oughta
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+SECONDARY:RESTRAINT                                              1
+    leash
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 17.241379 %
+SECONDARY           : 62.068966 %
+EMOTIONS            : 20.689655 %
+
+150 words total

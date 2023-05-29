@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    wherever away wherever wherever wherever off wherever somewhere where wherever
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    follows sworn follows follows follows follow follows follows
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now hour when when
+SECONDARY:ABSTRACTION                                            4
+    cause know cause cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won found won carry
+PRIMARY:NEED:ORALITY                                             3
+    drink corn whisky
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low deep
+PRIMARY:SENSATION:COLD                                           2
+    cold chillin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bones brain
+PRIMARY:SENSATION:VISION                                         2
+    shines blues
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainy
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+EMOTIONS:AGGRESSION                                              1
+    hurtin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+
+PRIMARY             : 58.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 2.000000 %
+
+180 words total

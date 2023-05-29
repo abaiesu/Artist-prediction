@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    back long back back out away here back long back back round round longs back back back long back back back
+SECONDARY:ABSTRACTION                                           13
+    cause knew knew knew thinkin cause knew knew know knew knew knew knew
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when when when when when today when when when when when when
+PRIMARY:SENSATION:SOUND                                          8
+    heart hear hear hear hear heard hear hear
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say say say say say said
+PRIMARY:SENSATION:VISION                                         6
+    lookin see lookin see see see
+EMOTIONS:AFFECTION                                               4
+    love goodbye love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used used used
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    nightmare dream
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnin
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:NEED:ORALITY                                             1
+    fast
+
+PRIMARY             : 51.764706 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 7.058824 %
+
+345 words total

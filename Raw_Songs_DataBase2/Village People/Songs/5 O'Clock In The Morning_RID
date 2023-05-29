@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    clock clock now when clock again clock again when clock clock then clock clock clock clock
+EMOTIONS:AFFECTION                                              11
+    like loves loved love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    awaking sleep awaking sleep awaking sleep
+SECONDARY:ABSTRACTION                                            6
+    except cause guess thought choose know
+EMOTIONS:AGGRESSION                                              5
+    broken hurt beat beat broken
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    streets street streets streets
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say helpless forgive
+EMOTIONS:SADNESS                                                 4
+    lonely sorry lonely lonely
+PRIMARY:SENSATION:SOUND                                          4
+    hear heart heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    wander wander wander
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away back back
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    weary silent
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 31.506849 %
+SECONDARY           : 39.726027 %
+EMOTIONS            : 28.767123 %
+
+393 words total

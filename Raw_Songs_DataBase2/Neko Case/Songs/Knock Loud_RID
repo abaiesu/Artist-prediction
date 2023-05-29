@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out front away closed behind
+PRIMARY:SENSATION:SOUND                                          4
+    loud loud heart loud
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time years while
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    visit said forgive
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line door door
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping wake
+EMOTIONS:AGGRESSION                                              2
+    attack kills
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:ABSTRACTION                                            1
+    sure
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    plunge
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:NEED:ORALITY                                             1
+    drink
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 13.333333 %
+
+124 words total

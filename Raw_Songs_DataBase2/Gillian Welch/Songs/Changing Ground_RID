@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    off out at side place off out off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried make found tried make
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    step step step
+EMOTIONS:GLORY                                                   3
+    glory glory glory
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell said tell
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:ANXIETY                                                 2
+    trouble trouble
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet hand
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:ABSTRACTION                                            2
+    real truth
+PRIMARY:SENSATION:SOUND                                          1
+    rumbling
+EMOTIONS:AGGRESSION                                              1
+    broke
+SECONDARY:ORDER                                                  1
+    arranged
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 32.500000 %
+EMOTIONS            : 27.500000 %
+
+202 words total

@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                           10
+    believe knows cause know know reason knows cause know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every ever time time now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long round round round round
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pay used found
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    played games
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    roam roam
+
+PRIMARY             : 29.729730 %
+SECONDARY           : 54.054054 %
+EMOTIONS            : 16.216216 %
+
+222 words total

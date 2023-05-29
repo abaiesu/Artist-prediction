@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      19
+    road road road road road road road road road road road road road road road door road road door
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    away behind apart somewhere somewhere at longer somewhere somewhere out somewhere somewhere out out
+SECONDARY:TEMPORAL REFERENCES                                   10
+    every now time times every every years every time again
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tellin said said pleadin talkin said said
+SECONDARY:ABSTRACTION                                            4
+    surely thinkin cause knew
+PRIMARY:NEED:ORALITY                                             3
+    fast honey honey
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    lowdown lowdown
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    clown cry
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+
+PRIMARY             : 60.294118 %
+SECONDARY           : 30.882353 %
+EMOTIONS            : 8.823529 %
+
+341 words total

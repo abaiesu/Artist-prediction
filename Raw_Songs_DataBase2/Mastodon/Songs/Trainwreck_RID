@@ -1,0 +1,28 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screaming chanting
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    basking
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+EMOTIONS:SADNESS                                                 1
+    hopeless
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:SENSATION:VISION                                         1
+    seen
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    helping
+SECONDARY:TEMPORAL REFERENCES                                    1
+    times
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 33.333333 %
+
+53 words total

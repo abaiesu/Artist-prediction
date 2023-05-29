@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now then then when
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call told please tell
+EMOTIONS:SADNESS                                                 4
+    pain sad sad sad
+EMOTIONS:AFFECTION                                               3
+    love love romance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    growing growing growing
+SECONDARY:ABSTRACTION                                            2
+    believe know
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 28.125000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 21.875000 %
+
+242 words total

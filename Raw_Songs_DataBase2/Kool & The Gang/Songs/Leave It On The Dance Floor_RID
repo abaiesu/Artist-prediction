@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       18
+    tell said asked said said asked said said tell said asked said say asked said say tell treats
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    play dance play dance dance dance dance dance dance dance
+EMOTIONS:AFFECTION                                              10
+    like like like like like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everybody now everybody everybody everybody now
+PRIMARY:SENSATION:VISION                                         6
+    see looking stars see looking stars
+SECONDARY:ABSTRACTION                                            6
+    cause know know cause know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hand feet hand feet hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over out over out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    floor floor floor floor
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buying buying
+SECONDARY:RESTRAINT                                              2
+    bar bar
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+PRIMARY:SENSATION:SOFT                                           2
+    whispered whispered
+PRIMARY:SENSATION:SOUND                                          2
+    ear ear
+PRIMARY:NEED:ORALITY                                             1
+    drink
+
+PRIMARY             : 29.268293 %
+SECONDARY           : 43.902439 %
+EMOTIONS            : 26.829268 %
+
+549 words total

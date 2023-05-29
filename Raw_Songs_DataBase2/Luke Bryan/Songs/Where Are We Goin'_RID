@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    where here over out out at where back closed out where out long where between where
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say call talk forgive borrow remind following
+SECONDARY:ABSTRACTION                                            7
+    know true them something something know know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when old past old tonight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find buy count make
+PRIMARY:SENSATION:VISION                                         4
+    look shine stars blue
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes arms
+PRIMARY:SENSATION:TASTE                                          3
+    sweetest sweetest sweetest
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dream dream
+PRIMARY:SENSATION:SOUND                                          2
+    music hearts
+SECONDARY:RESTRAINT                                              2
+    bar shutdown
+PRIMARY:NEED:ORALITY                                             1
+    beer
+EMOTIONS:AGGRESSION                                              1
+    kick
+PRIMARY:SENSATION:COLD                                           1
+    cool
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 53.030303 %
+SECONDARY           : 40.909091 %
+EMOTIONS            : 6.060606 %
+
+274 words total

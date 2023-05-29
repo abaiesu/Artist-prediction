@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    said said said say ask tell say excuses please say
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when ever when everyday when when ever again
+SECONDARY:ABSTRACTION                                            8
+    why cause believe cause believe them believe cause
+EMOTIONS:AFFECTION                                               5
+    like love love like love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at nearly away away
+SECONDARY:RESTRAINT                                              4
+    stop shuttle shut shut
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won make
+PRIMARY:SENSATION:VISION                                         2
+    saw see
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:NEED:SEX                                                 2
+    fuck fuck
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lulu
+EMOTIONS:AGGRESSION                                              1
+    complain
+
+PRIMARY             : 20.754717 %
+SECONDARY           : 64.150943 %
+EMOTIONS            : 15.094340 %
+
+201 words total

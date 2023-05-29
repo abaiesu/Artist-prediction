@@ -1,0 +1,66 @@
+EMOTIONS:AFFECTION                                              16
+    like like like like like like like like like like favorite like like like like like
+SECONDARY:ABSTRACTION                                           11
+    real them choice may may may may reasons real thought know
+PRIMARY:NEED:ORALITY                                            10
+    dishes dinner dinner juice candy pearls dishes drink fast fast
+PRIMARY:SENSATION:VISION                                        10
+    seen look look look pictures saw color blue see gray
+SECONDARY:TEMPORAL REFERENCES                                    9
+    once when during weeks weekends weekends month months when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    off off off open open at out overcast
+EMOTIONS:POSITIVE AFFECT                                         8
+    fun happy happy happy smiley laugh hilarious enjoying
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    bought used bought used work bought bought
+EMOTIONS:AGGRESSION                                              5
+    knife stolen kick fights broken
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    speak said ask meet thank
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    walls hall street
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    baskets beautiful fair
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    fading fading mist
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sink sink
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+EMOTIONS:SADNESS                                                 2
+    lonely depressed
+PRIMARY:SENSATION:SOUND                                          2
+    rhythm sound
+PRIMARY:SENSATION:COLD                                           2
+    winterdom chilly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    trips trips
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea ocean
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tall high
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreaming sleeping
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging floating
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    faces bloody
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:SENSATION:TOUCH                                          1
+    massage
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulda
+
+PRIMARY             : 48.412698 %
+SECONDARY           : 26.190476 %
+EMOTIONS            : 25.396825 %
+
+449 words total

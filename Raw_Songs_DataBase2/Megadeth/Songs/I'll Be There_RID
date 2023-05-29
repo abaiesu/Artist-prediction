@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    time time when when when till when when when when till hour now time
+PRIMARY:SENSATION:SOUND                                          6
+    heard voice heard voice heard bells
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    fire flames sun fire flames
+PRIMARY:SENSATION:VISION                                         5
+    saw saw shines see light
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    higher higher
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slide fall
+SECONDARY:ABSTRACTION                                            2
+    know believing
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfaction
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    pleading
+EMOTIONS:GLORY                                                   1
+    pride
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 43.478261 %
+EMOTIONS            : 6.521739 %
+
+213 words total

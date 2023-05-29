@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    within straight ahead within within point point at within point point at within within within
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    forgive forgive follow follow
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when time
+SECONDARY:MORAL IMPERATIVE                                       3
+    should right right
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    secret secret secrets
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+SECONDARY:ABSTRACTION                                            2
+    know true
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows shadows
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:AGGRESSION                                              1
+    blame
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 39.473684 %
+EMOTIONS            : 2.631579 %
+
+183 words total

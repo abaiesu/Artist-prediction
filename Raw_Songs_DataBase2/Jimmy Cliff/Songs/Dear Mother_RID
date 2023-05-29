@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              16
+    dear kind devoted dear love dear kind devoted dear dear love dear devoted dear love love
+SECONDARY:ABSTRACTION                                            8
+    true may true true may true may true
+SECONDARY:TEMPORAL REFERENCES                                    4
+    year year while year
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    cloudless cloudless
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness happiness
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    side
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+
+PRIMARY             : 13.513514 %
+SECONDARY           : 37.837838 %
+EMOTIONS            : 48.648649 %
+
+213 words total

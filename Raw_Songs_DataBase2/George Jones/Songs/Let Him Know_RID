@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           12
+    thinkin reason think why know know think reason why think reason know
+SECONDARY:TEMPORAL REFERENCES                                   10
+    soon then tonight while when time now again then tonight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    trying found won gain try won
+PRIMARY:SENSATION:VISION                                         5
+    blue see see see see
+SECONDARY:RESTRAINT                                              4
+    stop stop stop stop
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out longer
+EMOTIONS:SADNESS                                                 2
+    sobbin sobbin
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    throbbin throbbin
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistaken mistaken
+PRIMARY:NEED:ORALITY                                             1
+    drinkin
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 29.824561 %
+SECONDARY           : 63.157895 %
+EMOTIONS            : 7.017544 %
+
+198 words total

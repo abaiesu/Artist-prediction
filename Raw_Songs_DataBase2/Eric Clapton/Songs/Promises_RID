@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              15
+    love love lovers friends like like love love love friends love love love love friends
+SECONDARY:ABSTRACTION                                            7
+    cause cause problem know real problem know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when years years time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    calling promises calling promises
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away distant at
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile delights
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+PRIMARY:SENSATION:VISION                                         2
+    saw see
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    commotion
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+SECONDARY:RESTRAINT                                              1
+    refuse
+
+PRIMARY             : 18.181818 %
+SECONDARY           : 38.636364 %
+EMOTIONS            : 43.181818 %
+
+230 words total

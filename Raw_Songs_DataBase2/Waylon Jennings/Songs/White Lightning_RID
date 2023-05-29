@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                        13
+    lightning lightning lookin lightning lightning blue lightnin flashin lightning lookin lightning lightning lookin
+PRIMARY:NEED:ORALITY                                            10
+    brewed corn brew brew brew cookin drink corn brew cookin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back place where away out place where place where
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    pleasin asked called said pleasin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun searchin searchin searchin
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old then old
+SECONDARY:ABSTRACTION                                            3
+    why knew think
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+PRIMARY:SENSATION:COLD                                           1
+    north
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    carolina
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    dew
+PRIMARY:SENSATION:TOUCH                                          1
+    slicker
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:SADNESS                                                 1
+    moanin
+EMOTIONS:AGGRESSION                                              1
+    hit
+
+PRIMARY             : 73.770492 %
+SECONDARY           : 21.311475 %
+EMOTIONS            : 4.918033 %
+
+236 words total

@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now now everybody everybody then when when while now now everybody
+PRIMARY:SENSATION:VISION                                         8
+    star star star star look look flash look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at off straight out straight over straight
+SECONDARY:ABSTRACTION                                            7
+    rationalization rationalization why cause know cause rationalization
+EMOTIONS:ANXIETY                                                 6
+    worried worried worried worried worried worried
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    belong pay copyrighted claim
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    borrowed talking say
+PRIMARY:NEED:ANALITY                                             3
+    dirt pissed shit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heads hand
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    poems
+EMOTIONS:AGGRESSION                                              1
+    severed
+PRIMARY:NEED:ORALITY                                             1
+    eat
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    enjoy
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 44.642857 %
+EMOTIONS            : 17.857143 %
+
+256 words total

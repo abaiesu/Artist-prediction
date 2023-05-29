@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    out back over where out over where apartment at out over over where out over far over where out over back
+SECONDARY:TEMPORAL REFERENCES                                   16
+    again again again when while years again when again years old again when again when again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    sold money find
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say talkin talk
+SECONDARY:ABSTRACTION                                            2
+    cause schemin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:NEED:ANALITY                                             2
+    shattered shattered
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grown grown
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cries cries
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:AFFECTION                                               1
+    friends
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    odd
+EMOTIONS:AGGRESSION                                              1
+    wrecking
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+
+PRIMARY             : 49.152542 %
+SECONDARY           : 42.372881 %
+EMOTIONS            : 8.474576 %
+
+230 words total

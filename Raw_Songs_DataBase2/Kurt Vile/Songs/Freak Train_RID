@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    ahead where off out off out where off
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell introduction tell say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    tonight everywhere now every
+EMOTIONS:AGGRESSION                                              3
+    fight break insulted
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make sellin claimin
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calm lies
+EMOTIONS:AFFECTION                                               2
+    friend like
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfortably
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:NEED:ORALITY                                             1
+    bite
+PRIMARY:SENSATION:HARD                                           1
+    nails
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 51.351351 %
+SECONDARY           : 32.432432 %
+EMOTIONS            : 16.216216 %
+
+200 words total

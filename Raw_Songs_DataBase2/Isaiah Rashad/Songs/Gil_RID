@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here over here over here over forward far
+PRIMARY:SENSATION:VISION                                         5
+    bright lights looking bright lights
+EMOTIONS:AGGRESSION                                              5
+    beat kill gun blame hurts
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    slow die die die die
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    help talk talking meet talking
+PRIMARY:NEED:ANALITY                                             3
+    shit shit shit
+EMOTIONS:AFFECTION                                               3
+    love like like
+SECONDARY:ABSTRACTION                                            3
+    something cause something
+PRIMARY:NEED:SEX                                                 2
+    sex bitch
+EMOTIONS:SADNESS                                                 2
+    lonely pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    tripping ride
+PRIMARY:NEED:ORALITY                                             2
+    liquor fast
+PRIMARY:SENSATION:COLD                                           2
+    chilling cool
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    wrists
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pool
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+
+PRIMARY             : 61.403509 %
+SECONDARY           : 17.543860 %
+EMOTIONS            : 21.052632 %
+
+218 words total

@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         8
+    see light gleaming bright stars watched glare star
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at over
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+SECONDARY:TEMPORAL REFERENCES                                    1
+    early
+EMOTIONS:GLORY                                                   1
+    proudly
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    twilight
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ramparts
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    streaming
+PRIMARY:SENSATION:HARD                                           1
+    rockets
+SECONDARY:ABSTRACTION                                            1
+    proof
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+
+PRIMARY             : 72.727273 %
+SECONDARY           : 18.181818 %
+EMOTIONS            : 9.090909 %
+
+84 words total

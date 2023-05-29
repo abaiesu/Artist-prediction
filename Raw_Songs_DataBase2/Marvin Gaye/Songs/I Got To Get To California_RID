@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    away away west inside away side away away inside away
+SECONDARY:ABSTRACTION                                            9
+    true tenderness knows reason reason true may reason true
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    reminds reminding says tell tell says
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now now now now
+EMOTIONS:AFFECTION                                               4
+    love love love love
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:SADNESS                                                 2
+    loneliness loneliness
+EMOTIONS:GLORY                                                   2
+    pride pride
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:AGGRESSION                                              1
+    breaks
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunset
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+SECONDARY:ORDER                                                  1
+    listened
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 46.031746 %
+EMOTIONS            : 20.634921 %
+
+313 words total

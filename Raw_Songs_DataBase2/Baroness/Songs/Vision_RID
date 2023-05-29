@@ -1,0 +1,16 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+PRIMARY:SENSATION:VISION                                         2
+    vision vision
+EMOTIONS:AGGRESSION                                              1
+    traitor
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rests
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rides
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 11.111111 %
+
+20 words total

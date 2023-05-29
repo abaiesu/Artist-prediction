@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    already again then now time when then when when then now again then now
+EMOTIONS:AFFECTION                                               6
+    loved love loved love loved love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    admitting please please
+EMOTIONS:AGGRESSION                                              2
+    blame wounded
+PRIMARY:SENSATION:VISION                                         2
+    saw light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stepped
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    aside
+
+PRIMARY             : 12.903226 %
+SECONDARY           : 58.064516 %
+EMOTIONS            : 29.032258 %
+
+117 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    head blood head blood faces faces head blood
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    longer where where out out out
+SECONDARY:TEMPORAL REFERENCES                                    6
+    while when time occasions ever ever
+PRIMARY:NEED:ORALITY                                             6
+    eat eats swallow lime eats eats
+SECONDARY:ABSTRACTION                                            6
+    history history history history history history
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    streets streets lines lines streets
+EMOTIONS:GLORY                                                   3
+    wonder wonder wonder
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    playing playing playing
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    help say say
+EMOTIONS:AFFECTION                                               2
+    loving love
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    chase chasing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 15.789474 %
+
+332 words total

@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                         3
+    picture look see
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    frontier
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    information
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ships
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+SECONDARY:ABSTRACTION                                            1
+    thought
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 16.666667 %
+
+49 words total

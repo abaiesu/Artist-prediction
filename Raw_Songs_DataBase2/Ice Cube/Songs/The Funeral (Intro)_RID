@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    side where side where open open over
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    death death death
+PRIMARY:SENSATION:VISION                                         2
+    image vision
+PRIMARY:NEED:SEX                                                 2
+    fuck fuck
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+SECONDARY:ABSTRACTION                                            1
+    believe
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:SADNESS                                                 1
+    mourning
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 15.000000 %
+EMOTIONS            : 10.000000 %
+
+135 words total

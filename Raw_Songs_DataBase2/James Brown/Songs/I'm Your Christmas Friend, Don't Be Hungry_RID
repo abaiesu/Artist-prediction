@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              12
+    friend friend friend friend friend friend friend friend friend friend friend friend
+SECONDARY:ABSTRACTION                                            9
+    believe know know cause cause cause cause know cause
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old time whenever when now now whenever when
+EMOTIONS:ANXIETY                                                 7
+    worried worry worry worry worry worry worry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    lessons make makes makes makes makes makes
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dance cry dance cry
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    soaking wet soaking wet
+PRIMARY:SENSATION:COLD                                           4
+    cold cold cold cold
+PRIMARY:SENSATION:VISION                                         3
+    brown blue blue
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hungry hungry hungry
+SECONDARY:ORDER                                                  2
+    simple listen
+PRIMARY:NEED:ORALITY                                             2
+    potatoes potatoes
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    dig dig
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood blood
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:NEED:ANALITY                                             2
+    sweat sweat
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+
+PRIMARY             : 35.802469 %
+SECONDARY           : 34.567901 %
+EMOTIONS            : 29.629630 %
+
+351 words total

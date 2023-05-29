@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    remind told remind answer remind tell remind invitations remind remind
+PRIMARY:SENSATION:SOUND                                          7
+    heart tinkling heart heart rings heart whistling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    places apartment at closes near aside
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    wings swings wings spring springs thrown
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancer sigh dance
+SECONDARY:ABSTRACTION                                            2
+    meant knew
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fairground beauty
+PRIMARY:SENSATION:VISION                                         2
+    saw scented
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make find
+EMOTIONS:SADNESS                                                 1
+    painted
+EMOTIONS:GLORY                                                   1
+    conquered
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:POSITIVE AFFECT                                         1
+    excited
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candlelights
+PRIMARY:NEED:ORALITY                                             1
+    corner
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AFFECTION                                               1
+    dear
+PRIMARY:SENSATION:SOFT                                           1
+    silk
+
+PRIMARY             : 54.901961 %
+SECONDARY           : 31.372549 %
+EMOTIONS            : 13.725490 %
+
+217 words total

@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             17
+    break break break break fight break break break break break fight break break break break fight break
+PRIMARY:SENSATION:SOUND                                         14
+    heart heart heart heart heart heart heart heart heart heart heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time when every time every when every time every time when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at where back at where back at where back
+SECONDARY:ABSTRACTION                                            9
+    know cause why know cause why know cause why
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell saying help saying help saying help
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    makes tried makes tried makes tried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes body body body
+PRIMARY:SENSATION:VISION                                         3
+    look look look
+SECONDARY:RESTRAINT                                              3
+    control control control
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    game game game
+PRIMARY:NEED:ANALITY                                             3
+    shatters shatters shatters
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    mistake mistake mistake
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 41.836735 %
+SECONDARY           : 36.734694 %
+EMOTIONS            : 21.428571 %
+
+402 words total

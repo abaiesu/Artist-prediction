@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at opened out over
+SECONDARY:ABSTRACTION                                            2
+    thought guess
+PRIMARY:SENSATION:SOUND                                          2
+    heard music
+EMOTIONS:AFFECTION                                               2
+    kind favorite
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:ODOR                                           1
+    incense
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:SENSATION:VISION                                         1
+    lights
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 18.750000 %
+EMOTIONS            : 12.500000 %
+
+76 words total

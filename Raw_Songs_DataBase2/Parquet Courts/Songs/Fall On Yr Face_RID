@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    headphones arms face face
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when old now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over back place
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reach make sell
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleasure says
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floated
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    caverns
+EMOTIONS:AGGRESSION                                              1
+    crushing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    decay
+SECONDARY:MORAL IMPERATIVE                                       1
+    honor
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:SENSATION:VISION                                         1
+    saw
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 3.846154 %
+
+117 words total

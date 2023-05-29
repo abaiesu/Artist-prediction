@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:SOUND                                          5
+    hum heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    4
+    year now when now
+SECONDARY:ABSTRACTION                                            3
+    truly understand tend
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    southern south beside
+EMOTIONS:AFFECTION                                               3
+    kindly lovely kindly
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safety
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endure
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mysteries
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sigh
+
+PRIMARY             : 53.125000 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 15.625000 %
+
+140 words total

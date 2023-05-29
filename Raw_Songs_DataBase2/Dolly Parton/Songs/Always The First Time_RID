@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now time then time now time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    stepped doors
+PRIMARY:SENSATION:TASTE                                          2
+    tasted flavor
+SECONDARY:ORDER                                                  2
+    arranged arranged
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes footprints
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    backroad behind
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    danced
+SECONDARY:ABSTRACTION                                            1
+    guess
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sow
+PRIMARY:NEED:SEX                                                 1
+    lust
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 4.545455 %
+
+102 words total

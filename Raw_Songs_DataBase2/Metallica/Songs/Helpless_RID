@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                        20
+    see see see see lights see flashing lights see flashing lights see flashing lights see stars see see stars see
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    helpless helpless helpless helpless treat helpless helpless helpless helpless tell tell
+SECONDARY:TEMPORAL REFERENCES                                    8
+    tonight tonight tonight tonight every time every time
+PRIMARY:SENSATION:SOUND                                          6
+    loud hear hear hear music music
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make make make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    roar roar roar sing sing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    afire afire lit
+SECONDARY:ABSTRACTION                                            3
+    choice know choice
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above above
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    hall hall
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 50.684932 %
+SECONDARY           : 38.356164 %
+EMOTIONS            : 10.958904 %
+
+241 words total

@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    confess share share confess confess
+EMOTIONS:AGGRESSION                                              5
+    blame blame blame blame blame
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+EMOTIONS:SADNESS                                                 3
+    pain pain lonely
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+EMOTIONS:AFFECTION                                               2
+    lovers friends
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:SENSATION:SOUND                                          1
+    tuned
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drivetime
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruins
+PRIMARY:SENSATION:COLD                                           1
+    childhood
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulders
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 42.857143 %
+
+97 words total

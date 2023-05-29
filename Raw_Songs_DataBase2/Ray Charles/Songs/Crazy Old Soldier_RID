@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    old times old when once once old times old when
+EMOTIONS:AGGRESSION                                              7
+    fighting war hit gun fighting war hit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    soldier soldier tried soldier soldier
+SECONDARY:ABSTRACTION                                            5
+    think know knows think know
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    crazy crazy crazy crazy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out places long
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say pleasure
+SECONDARY:RESTRAINT                                              2
+    limit control
+PRIMARY:NEED:ORALITY                                             2
+    whiskey whiskey
+EMOTIONS:GLORY                                                   1
+    fame
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:ANXIETY                                                 1
+    troubled
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 23.076923 %
+SECONDARY           : 48.076923 %
+EMOTIONS            : 28.846154 %
+
+209 words total

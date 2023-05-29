@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    out at where where long at close at where far out at where
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    tell say participation please say talk talking committed say
+PRIMARY:SENSATION:VISION                                         8
+    light see see stars see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    work work aimed record work win make work
+SECONDARY:ABSTRACTION                                            7
+    why supposed almost supposed know know supposed
+EMOTIONS:AFFECTION                                               7
+    love like love love love love like
+PRIMARY:SENSATION:SOUND                                          6
+    hear hear banged hear tone hear
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when time already when
+EMOTIONS:SADNESS                                                 4
+    misery pain misery misery
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face hair face
+PRIMARY:SENSATION:TASTE                                          2
+    tangled taste
+PRIMARY:NEED:ANALITY                                             2
+    dirt shit
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+
+PRIMARY             : 45.679012 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 17.283951 %
+
+480 words total

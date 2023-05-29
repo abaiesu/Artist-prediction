@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                       20
+    help help say say say say say say say say say say help help say say say help help help
+EMOTIONS:AGGRESSION                                             17
+    kill killing kill killing kill killing kill killing hit hit hit kill killing kill killing kill killing
+EMOTIONS:AFFECTION                                              13
+    love love love like love love love love love love love love love
+SECONDARY:ABSTRACTION                                           13
+    cause cause think something think cause cause cause cause cause thinkin thinkin thinkin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    heaven heaven heaven heaven heaven heaven heaven
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    dead dead dead dead dead dead dead
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever time ever then ever
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    fantasy fantasy fantasy crazy
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make try
+SECONDARY:ORDER                                                  1
+    classic
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:HARD                                           1
+    rocked
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:NEED:ORALITY                                             1
+    sucker
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 26.470588 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 32.352941 %
+
+413 words total

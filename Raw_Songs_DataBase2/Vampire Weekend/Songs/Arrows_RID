@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at at along out out at along along at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    found spend found found use
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall fall fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    knees knees knees
+EMOTIONS:AGGRESSION                                              3
+    arrows arrows arrows
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    halls halls halls
+PRIMARY:SENSATION:VISION                                         2
+    saw seen
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now ever
+SECONDARY:ABSTRACTION                                            2
+    problem problem
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    fountain
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 8.823529 %
+
+124 words total

@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    away out out out out out out out side out out out out out out out out out out out
+PRIMARY:ICARIAN IMAGERY:FIRE                                    18
+    fire fire fire fire fire fire fire fire fire fire fire fire fire fire fire fire fire fire
+EMOTIONS:AGGRESSION                                             15
+    gun retribution blame weapon gun killed shot guns gun gun shoot shoot shoot shoot shoot
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    called say said told ask tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hand hand head head head
+EMOTIONS:AFFECTION                                               5
+    like lover lover like like
+SECONDARY:ABSTRACTION                                            4
+    reason believe cause know
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    died bed beds dead
+SECONDARY:TEMPORAL REFERENCES                                    3
+    season again old
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    hole hole hole
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make pay
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad sleep
+SECONDARY:MORAL IMPERATIVE                                       2
+    right law
+EMOTIONS:GLORY                                                   1
+    hero
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+EMOTIONS:SADNESS                                                 1
+    disappointed
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+
+PRIMARY             : 57.731959 %
+SECONDARY           : 18.556701 %
+EMOTIONS            : 23.711340 %
+
+295 words total

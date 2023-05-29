@@ -1,0 +1,52 @@
+SECONDARY:ABSTRACTION                                            6
+    know know know know know know
+SECONDARY:RESTRAINT                                              3
+    block catch bound
+PRIMARY:SENSATION:COLD                                           3
+    cold child frozen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here side across
+PRIMARY:SENSATION:VISION                                         2
+    looking view
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying makes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    quiet slowly
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfied funny
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand bodies
+EMOTIONS:GLORY                                                   2
+    gold great
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    meditation
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slide
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stepping
+SECONDARY:ORDER                                                  1
+    divide
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    vibrate
+
+PRIMARY             : 60.975610 %
+SECONDARY           : 29.268293 %
+EMOTIONS            : 9.756098 %
+
+140 words total

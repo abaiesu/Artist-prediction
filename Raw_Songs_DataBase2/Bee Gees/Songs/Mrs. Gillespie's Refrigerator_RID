@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         3
+    look look scene
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    screen screen fading
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talks tell
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back away
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sell
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:AGGRESSION                                              1
+    stealing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 15.000000 %
+
+91 words total

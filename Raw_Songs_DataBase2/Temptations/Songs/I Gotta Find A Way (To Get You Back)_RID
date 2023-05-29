@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    close away away back out back back back back back out here longer back back back back back back here back back back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 16
+    find find seldom find find find carry find find find find find find find find find
+EMOTIONS:SADNESS                                                 9
+    lonely lonely lonely lonely lonely lonely lonely lonely lonely
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when once again now when
+SECONDARY:ABSTRACTION                                            6
+    know cause know think thinking know
+PRIMARY:SENSATION:VISION                                         4
+    visualize see look look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes head
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said tell
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:AGGRESSION                                              2
+    hurt broken
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep wake
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:SENSATION:SOUND                                          2
+    hearted heart
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+
+PRIMARY             : 45.348837 %
+SECONDARY           : 37.209302 %
+EMOTIONS            : 17.441860 %
+
+462 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back where over here back here back
+SECONDARY:ABSTRACTION                                            7
+    know almost thought know know cause know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when ever when now
+PRIMARY:NEED:ORALITY                                             3
+    corner corner corner
+PRIMARY:SENSATION:HARD                                           3
+    hardly hardly hardly
+PRIMARY:SENSATION:VISION                                         2
+    lights see
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:MORAL IMPERATIVE                                       1
+    proper
+
+PRIMARY             : 60.606061 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 3.030303 %
+
+121 words total

@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    longer back behind front at out close where back centre place at
+SECONDARY:ABSTRACTION                                           11
+    except know problem important reason think something thinking definitely themselves thoughts
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    ridgely above trellis taller above heaven heaven
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said asked said said told told
+PRIMARY:SENSATION:VISION                                         6
+    picture seen blue lights halo looked
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever when date when ever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    feet body eyes eyes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street floor frame
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed died
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make find
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+EMOTIONS:AGGRESSION                                              1
+    kill
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:SADNESS                                                 1
+    sobbing
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    intuition
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 57.746479 %
+SECONDARY           : 36.619718 %
+EMOTIONS            : 5.633803 %
+
+288 words total

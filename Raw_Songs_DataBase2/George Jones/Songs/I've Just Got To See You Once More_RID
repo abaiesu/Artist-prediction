@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    once when once again once then when once
+PRIMARY:SENSATION:VISION                                         7
+    picture see look see see see see
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:AGGRESSION                                              4
+    hurt break broken break
+EMOTIONS:AFFECTION                                               3
+    like lovely love
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling funny
+PRIMARY:NEED:SEX                                                 2
+    kisses kisses
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won mend
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cried
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 31.428571 %
+
+159 words total

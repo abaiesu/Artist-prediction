@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when when when when when when when when when when when when when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    long far at middle away long out at long far at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find counting build find
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+EMOTIONS:AFFECTION                                               2
+    loves friends
+PRIMARY:NEED:ORALITY                                             2
+    feeds fast
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sinking fall
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street wall
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    thrown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:VISION                                         1
+    watch
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 46.000000 %
+EMOTIONS            : 4.000000 %
+
+295 words total

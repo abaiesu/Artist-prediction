@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:SOFT                                          20
+    soft soft soft soft soft soft soft soft soft soft soft soft soft soft soft soft soft soft soft soft
+SECONDARY:TEMPORAL REFERENCES                                   14
+    now tonight now now tonight every now ever tonight every when now now now
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    speakers call call call call help message help message help message
+SECONDARY:ABSTRACTION                                            6
+    them think them them cause cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    over round at at here
+PRIMARY:SENSATION:SOUND                                          5
+    voices sounds hear voices voices
+EMOTIONS:AGGRESSION                                              4
+    cut cut cut cut
+PRIMARY:SENSATION:VISION                                         4
+    look lights see look
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    underground underworld underworld
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    brains brains brains
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets streets streets
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire spark
+PRIMARY:NEED:ANALITY                                             1
+    shit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 53.488372 %
+SECONDARY           : 38.372093 %
+EMOTIONS            : 8.139535 %
+
+332 words total

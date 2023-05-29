@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    over across at across wide across side across over across wide across side across across
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    water river river water water river water
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    dreams crazy dream dreams crazy dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    find work reach make reach make
+PRIMARY:SENSATION:VISION                                         4
+    lights shine lights shine
+SECONDARY:ABSTRACTION                                            4
+    understand knows true true
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hands eyes
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard heard
+PRIMARY:NEED:ORALITY                                             3
+    eat meals feed
+SECONDARY:TEMPORAL REFERENCES                                    3
+    today sometimes sometimes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    border border
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    promised promised
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throw throw
+PRIMARY:SENSATION:HARD                                           2
+    stone stone
+PRIMARY:NEED:ANALITY                                             2
+    muddy muddy
+EMOTIONS:AGGRESSION                                              2
+    cutting cutting
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 69.736842 %
+SECONDARY           : 22.368421 %
+EMOTIONS            : 7.894737 %
+
+269 words total

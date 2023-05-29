@@ -1,0 +1,28 @@
+PRIMARY:NEED:ORALITY                                             6
+    grapes corner drinker corner drinker drinker
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at behind back here behind back
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    ask say ask say say
+PRIMARY:SENSATION:SOUND                                          4
+    heart music heart music
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when week when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make job
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+SECONDARY:RESTRAINT                                              2
+    bar bar
+SECONDARY:ABSTRACTION                                            2
+    cause thought
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 52.941176 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 5.882353 %
+
+162 words total

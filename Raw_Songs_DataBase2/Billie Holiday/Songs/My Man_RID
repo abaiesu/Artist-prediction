@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            6
+    know why true know difference know
+EMOTIONS:AFFECTION                                               5
+    love love likes love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    soon when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out away back
+PRIMARY:SENSATION:VISION                                         2
+    looks bright
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms knees
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    cost
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+EMOTIONS:GLORY                                                   1
+    hero
+EMOTIONS:AGGRESSION                                              1
+    beats
+EMOTIONS:SADNESS                                                 1
+    despair
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forevermore
+
+PRIMARY             : 32.258065 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 25.806452 %
+
+161 words total

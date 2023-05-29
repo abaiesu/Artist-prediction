@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when till when when when when when when when
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    call tell saying called said call pardon
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won make
+EMOTIONS:POSITIVE AFFECT                                         3
+    laughing smiling laugh
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back out at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hands
+PRIMARY:SENSATION:VISION                                         2
+    look bright
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+SECONDARY:ABSTRACTION                                            2
+    sure think
+EMOTIONS:AGGRESSION                                              2
+    hate fight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    arise
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+
+PRIMARY             : 34.042553 %
+SECONDARY           : 48.936170 %
+EMOTIONS            : 17.021277 %
+
+184 words total

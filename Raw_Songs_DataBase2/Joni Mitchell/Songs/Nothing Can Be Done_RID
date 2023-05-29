@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    forgive say told told told
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time old old when old
+PRIMARY:SENSATION:SOUND                                          5
+    heart heard heard heart heart
+EMOTIONS:AFFECTION                                               4
+    love like loved embrace
+SECONDARY:RESTRAINT                                              3
+    must must must
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out here here
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    smoking smoking smoking
+EMOTIONS:AGGRESSION                                              3
+    gun gun gun
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:VISION                                         2
+    lights lights
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruins
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hunger
+
+PRIMARY             : 45.238095 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 19.047619 %
+
+207 words total

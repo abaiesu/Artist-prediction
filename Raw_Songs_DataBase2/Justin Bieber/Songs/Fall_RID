@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                           12
+    believe know know cause think know know cause know figured know know
+EMOTIONS:AFFECTION                                              11
+    love friend love loved love love friendship love love love love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                 10
+    fell fall fall fall fall fall fall fall fall fall
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when already ever while while every time every time time
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  10
+    fly fly fly fly fly wings fly fly fly fly
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here here long at out at away at
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell treat tell tell
+EMOTIONS:POSITIVE AFFECT                                         4
+    joy smile happy smile
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:ANXIETY                                                 4
+    scared afraid scared scared
+EMOTIONS:AGGRESSION                                              3
+    broken hurting breaks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wall wall wall
+SECONDARY:RESTRAINT                                              3
+    catch catch catch
+SECONDARY:MORAL IMPERATIVE                                       2
+    right shoulder
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hand
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    aware
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+
+PRIMARY             : 41.836735 %
+SECONDARY           : 34.693878 %
+EMOTIONS            : 23.469388 %
+
+420 words total

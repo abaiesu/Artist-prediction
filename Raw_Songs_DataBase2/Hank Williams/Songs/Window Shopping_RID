@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window window window
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buyin find
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:ABSTRACTION                                            1
+    real
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 15.384615 %
+
+64 words total

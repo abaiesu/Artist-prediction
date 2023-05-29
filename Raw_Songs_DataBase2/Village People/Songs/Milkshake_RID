@@ -1,0 +1,34 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                 28
+    shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake shake
+PRIMARY:NEED:ORALITY                                            25
+    milkshake milkshake milkshake milkshake drink milk cream cream milkshake eat milksha milkshake milkshake milkshake milkshake coffee coffee eat lunch milkshake feast feast milkshake milkshake milkshake
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when old when when today time when time when
+PRIMARY:SENSATION:COLD                                           6
+    cold ice ice frosty frosty icecream
+SECONDARY:ABSTRACTION                                            5
+    something something why why why
+PRIMARY:SENSATION:HARD                                           3
+    glass hard hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make work
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+EMOTIONS:AGGRESSION                                              2
+    break break
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+
+PRIMARY             : 75.824176 %
+SECONDARY           : 20.879121 %
+EMOTIONS            : 3.296703 %
+
+350 words total

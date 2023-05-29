@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               7
+    loving love loving like loving loving loving
+PRIMARY:SENSATION:GENERAL-SENSATION                              5
+    luxury luxury luxury luxury luxury
+PRIMARY:NEED:ORALITY                                             3
+    bread bread feast
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:HARD                                           2
+    rocks rocks
+PRIMARY:SENSATION:VISION                                         2
+    look see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 25.000000 %
+
+139 words total

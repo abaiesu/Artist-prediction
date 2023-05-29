@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    at over here out out out out out centered background out front off where long
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when when sometimes sometimes sometimes sometime then sometimes sometimes then when then then every then
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    bargains tell help helpless please help sayin helpless saying said tell tell
+EMOTIONS:AFFECTION                                              12
+    friend friend friends love friend love love love friend like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    pick make pick make make make make counts try try try try
+PRIMARY:SENSATION:VISION                                        11
+    look see see see see imagine looks imagine looks imagine looks
+SECONDARY:ABSTRACTION                                            8
+    know think surely surely why think think know
+PRIMARY:NEED:SEX                                                 7
+    undress orgasm undress naked naked naked kiss
+PRIMARY:NEED:ORALITY                                             6
+    sugar sugar sugar sugar sugar drink
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy laugh laugh
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silence silence silence
+EMOTIONS:AGGRESSION                                              2
+    hurt breakfast
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wash bath
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair body
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry dance
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:SENSATION:COLD                                           2
+    children cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+SECONDARY:RESTRAINT                                              1
+    necessary
+PRIMARY:SENSATION:TOUCH                                          1
+    tickle
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 42.975207 %
+SECONDARY           : 41.322314 %
+EMOTIONS            : 15.702479 %
+
+551 words total

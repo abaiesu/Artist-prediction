@@ -1,0 +1,18 @@
+PRIMARY:SENSATION:COLD                                           5
+    child child child child child
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:NEED:SEX                                                 1
+    naked
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    helpless
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burns
+EMOTIONS:AGGRESSION                                              1
+    cuts
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 7.692308 %
+EMOTIONS            : 38.461538 %
+
+62 words total

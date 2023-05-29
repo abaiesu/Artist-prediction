@@ -1,0 +1,38 @@
+SECONDARY:ORDER                                                 14
+    simply simply simply simply simply simply simply simply simply simply simply simply simply simply
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    used find used find money used find money used find
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when now now every now now
+EMOTIONS:GLORY                                                   5
+    principle awe applause awe applause
+EMOTIONS:AFFECTION                                               4
+    kind love loving like
+PRIMARY:SENSATION:VISION                                         4
+    look look look look
+SECONDARY:RESTRAINT                                              3
+    permissible obliged conform
+SECONDARY:MORAL IMPERATIVE                                       3
+    law law law
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tellin promises tellin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where backed where
+EMOTIONS:AGGRESSION                                              2
+    breaking breaking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    craze
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    inscrutable
+SECONDARY:ABSTRACTION                                            1
+    proof
+PRIMARY:NEED:SEX                                                 1
+    kissable
+
+PRIMARY             : 17.741935 %
+SECONDARY           : 64.516129 %
+EMOTIONS            : 17.741935 %
+
+262 words total

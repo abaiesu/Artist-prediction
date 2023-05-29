@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again ever again ever again
+SECONDARY:ABSTRACTION                                            4
+    know know know why
+PRIMARY:SENSATION:TASTE                                          3
+    sweethearts sweetheart sweetheart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treat treat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over over
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 61.904762 %
+EMOTIONS            : 9.523810 %
+
+62 words total

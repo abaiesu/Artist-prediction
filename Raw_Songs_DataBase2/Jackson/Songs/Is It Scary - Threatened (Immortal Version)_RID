@@ -1,0 +1,54 @@
+PRIMARY:SENSATION:VISION                                        11
+    seen see see see watching watching watching see watching watching witnessed
+SECONDARY:TEMPORAL REFERENCES                                    9
+    older time now now everywhere every time every time
+EMOTIONS:AGGRESSION                                              9
+    beating threatened threatened threatened threatened threatened threatened threatened threatened
+SECONDARY:MORAL IMPERATIVE                                       8
+    should should should should should should should should
+SECONDARY:ABSTRACTION                                            7
+    cause know truth why why why why
+EMOTIONS:ANXIETY                                                 7
+    scary scary scary scary scary fear terrifying
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    behind nearly open where here inside place
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    climbing risen risen risen risen risen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    hall walls stairs floor door
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    fantasies nightmare sleep sleep nightmare
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    treat speaks speaks speaks speaks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    crafted found perform performance
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    magical mystery stranger
+PRIMARY:SENSATION:SOUND                                          3
+    hear heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed restless
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    spirit spirits
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:SENSATION:HARD                                           1
+    rocking
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 49.019608 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 18.627451 %
+
+481 words total

@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now time time hours moments now
+SECONDARY:ABSTRACTION                                            5
+    know meant understanding know meant
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside inside inside
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said tell said
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:SENSATION:VISION                                         2
+    shine shine
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleeping
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              2
+    beating beating
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried tried
+SECONDARY:MORAL IMPERATIVE                                       2
+    shouldn shouldn
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 39.393939 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 6.060606 %
+
+84 words total

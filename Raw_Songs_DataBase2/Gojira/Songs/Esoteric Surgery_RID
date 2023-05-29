@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    situation out situation spaces overcoming
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    flesh bodies chest body
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    secret esoteric secret
+SECONDARY:ORDER                                                  2
+    form precise
+PRIMARY:SENSATION:VISION                                         2
+    beam light
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertain
+EMOTIONS:AGGRESSION                                              1
+    wounded
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floating
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    descending
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:RESTRAINT                                              1
+    obstruction
+SECONDARY:ABSTRACTION                                            1
+    circumstances
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 73.076923 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 11.538462 %
+
+126 words total

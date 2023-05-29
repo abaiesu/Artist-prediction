@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    somewhere somewhere somewhere somewhere somewhere
+SECONDARY:ABSTRACTION                                            4
+    know cause know know
+EMOTIONS:GLORY                                                   3
+    wonderful wonderful wonderful
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    admit say say
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:SENSATION:VISION                                         1
+    notice
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 38.095238 %
+
+106 words total

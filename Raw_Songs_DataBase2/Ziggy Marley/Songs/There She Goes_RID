@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           19
+    truth truth true true think true true think truth truth true true think know true true think why think
+EMOTIONS:AGGRESSION                                             17
+    hurts blamed blame angry taunt taunts blame angry taunts taunts hurts blamed blame angry taunts taunts blame
+SECONDARY:TEMPORAL REFERENCES                                   16
+    now now again while again while now now now again while now again while again again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    won spent count won work spent count won count won work
+EMOTIONS:AFFECTION                                              10
+    loveliness love love love love loveliness love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell say say tell said
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lie lie lie
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along out out
+PRIMARY:SENSATION:COLD                                           3
+    child child child
+EMOTIONS:SADNESS                                                 3
+    grief grief grief
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+PRIMARY:SENSATION:HARD                                           1
+    rocky
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:SEX                                                 1
+    caress
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 12.500000 %
+SECONDARY           : 54.166667 %
+EMOTIONS            : 33.333333 %
+
+439 words total

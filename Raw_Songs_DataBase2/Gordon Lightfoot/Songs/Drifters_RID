@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    where out where back here place somewhere out among out among places out where out among out where places out where
+SECONDARY:TEMPORAL REFERENCES                                   12
+    every yesterday now ever now every now ever now ever now ever
+SECONDARY:ABSTRACTION                                           10
+    believe true knew may may know real may may may
+PRIMARY:SENSATION:VISION                                         9
+    watch look see look stars watch stars watch watch
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say remind meet meet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    drifters drifters drifters drifters
+SECONDARY:MORAL IMPERATIVE                                       3
+    right should should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    hang hang hang
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    tide tide
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travel travel
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:RESTRAINT                                              1
+    bars
+EMOTIONS:AGGRESSION                                              1
+    complain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 40.259740 %
+EMOTIONS            : 5.194805 %
+
+248 words total

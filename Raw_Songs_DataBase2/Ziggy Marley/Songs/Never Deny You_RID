@@ -1,0 +1,16 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    share said say share
+EMOTIONS:AFFECTION                                               3
+    love friends love
+SECONDARY:ABSTRACTION                                            3
+    believe true believe
+EMOTIONS:AGGRESSION                                              2
+    betray doubt
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 61.538462 %
+EMOTIONS            : 38.461538 %
+
+109 words total

@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everybodys everybodys everybody everybody time
+SECONDARY:ABSTRACTION                                            3
+    knowing sure know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+
+PRIMARY             : 17.647059 %
+SECONDARY           : 70.588235 %
+EMOTIONS            : 11.764706 %
+
+106 words total

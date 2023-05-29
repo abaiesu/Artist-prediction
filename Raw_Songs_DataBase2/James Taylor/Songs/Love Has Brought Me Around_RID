@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              13
+    love love love love goodbye love love love love love love love love
+SECONDARY:ABSTRACTION                                            5
+    know true know know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today time when now old
+PRIMARY:SENSATION:VISION                                         5
+    shine gray blue see blue
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    declare share say say
+EMOTIONS:SADNESS                                                 3
+    sorrows lonely frown
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away out close
+PRIMARY:SENSATION:SOUND                                          2
+    heard heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain sea
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head eyes
+EMOTIONS:AGGRESSION                                              1
+    stealing
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springtime
+
+PRIMARY             : 38.000000 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 34.000000 %
+
+213 words total

@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              13
+    loving like like love love like like loving like like like loving loving
+SECONDARY:ABSTRACTION                                           11
+    know sure know true true know sure know sure sure why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make make make find cure cure found
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time again again time time
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where where out at
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    describe saying tell tell
+EMOTIONS:SADNESS                                                 3
+    sorry sorry pain
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfaction
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+EMOTIONS:AGGRESSION                                              1
+    quarrels
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 18.965517 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 31.034483 %
+
+279 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long where long out long where out
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time tonight everybody every time
+SECONDARY:ABSTRACTION                                            4
+    know them cause them
+EMOTIONS:AFFECTION                                               4
+    love love like love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    belong belong
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    message message
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+EMOTIONS:GLORY                                                   1
+    throne
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+
+PRIMARY             : 32.258065 %
+SECONDARY           : 45.161290 %
+EMOTIONS            : 22.580645 %
+
+160 words total

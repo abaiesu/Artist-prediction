@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    every time every time time now when every time every time
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say say talk speak tell say say say say explain
+EMOTIONS:AFFECTION                                              10
+    love mercy love love love love love love love love
+SECONDARY:ABSTRACTION                                            7
+    thoughts know cause cause thoughts know cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head eyes eyes head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away inside far near
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find cure cure found
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfied satisfied
+PRIMARY:SENSATION:VISION                                         2
+    look see
+PRIMARY:NEED:ORALITY                                             2
+    sugar sugar
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searched
+
+PRIMARY             : 24.590164 %
+SECONDARY           : 55.737705 %
+EMOTIONS            : 19.672131 %
+
+334 words total

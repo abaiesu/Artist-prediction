@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            5
+    know true true know know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow tell tell
+EMOTIONS:AFFECTION                                               3
+    dear dear dear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die death die
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+PRIMARY:SENSATION:VISION                                         2
+    light see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds tall
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    wave staggering
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow shadow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything everything
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wanderers
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    premonitions
+
+PRIMARY             : 61.764706 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 8.823529 %
+
+135 words total

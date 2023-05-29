@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                            9
+    choice choice know cause choice choice choice know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight past now time now
+PRIMARY:SENSATION:HARD                                           5
+    glass hard glass hard hard
+EMOTIONS:AGGRESSION                                              5
+    revenge revenge revenge revenge revenge
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at long long long
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said thank
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 51.515152 %
+EMOTIONS            : 15.151515 %
+
+157 words total

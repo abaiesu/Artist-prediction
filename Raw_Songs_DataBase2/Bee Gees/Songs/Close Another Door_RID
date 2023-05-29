@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    far away close close away out close close away outside inside close close away at at out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    work won used won work won work won paid working
+SECONDARY:TEMPORAL REFERENCES                                    9
+    years now old when old now old now time
+EMOTIONS:SADNESS                                                 7
+    sad sad sad sad sad sad sad
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    door door door door door door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes hair eyes
+SECONDARY:ORDER                                                  3
+    listen listen listen
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say told said
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea rain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    obscure
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+EMOTIONS:AGGRESSION                                              1
+    bother
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:ABSTRACTION                                            1
+    plane
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 52.112676 %
+SECONDARY           : 36.619718 %
+EMOTIONS            : 11.267606 %
+
+232 words total

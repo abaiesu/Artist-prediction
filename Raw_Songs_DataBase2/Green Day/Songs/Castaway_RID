@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    back back where at at out back where at at back back where at at
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now now now now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    journey riding driving journey
+EMOTIONS:AGGRESSION                                              3
+    war stolen war
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    lurch lurch lurch
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    unknown unknown unknown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found found
+EMOTIONS:ANXIETY                                                 3
+    trouble trouble trouble
+SECONDARY:RESTRAINT                                              3
+    bound bound bound
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:SENSATION:SOUND                                          2
+    sound sound
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+SECONDARY:MORAL IMPERATIVE                                       2
+    conscientious conscientious
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    combustion
+PRIMARY:NEED:ORALITY                                             1
+    corners
+
+PRIMARY             : 60.714286 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 14.285714 %
+
+275 words total

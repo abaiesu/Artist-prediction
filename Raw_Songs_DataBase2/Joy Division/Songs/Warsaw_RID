@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                         6
+    light see see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    win pick tests find tried make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back side at
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time past
+PRIMARY:SENSATION:SOUND                                          3
+    soundtrack hear hearing
+SECONDARY:ABSTRACTION                                            3
+    reason facts believe
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grew hung
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AGGRESSION                                              2
+    kill fight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes footsteps
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:ORALITY                                             1
+    throats
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:SENSATION:TOUCH                                          1
+    contact
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slid
+
+PRIMARY             : 56.097561 %
+SECONDARY           : 36.585366 %
+EMOTIONS            : 7.317073 %
+
+156 words total

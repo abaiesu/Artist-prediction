@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when soon now when sometimes
+EMOTIONS:AFFECTION                                               4
+    lover like love like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back between over inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    dim shadow shadow
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    pleasures rescue said
+SECONDARY:ABSTRACTION                                            3
+    fact knew thoughts
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lie die lie
+PRIMARY:SENSATION:VISION                                         3
+    saw glows brightest
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body head head
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    lit warm
+SECONDARY:RESTRAINT                                              2
+    bar reigns
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy smile
+EMOTIONS:GLORY                                                   1
+    rich
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:SENSATION:ODOR                                           1
+    breathed
+PRIMARY:SENSATION:SOUND                                          1
+    hearin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:SENSATION:COLD                                           1
+    chilling
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hovers
+
+PRIMARY             : 54.166667 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 14.583333 %
+
+201 words total

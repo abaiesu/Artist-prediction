@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away away side away side away
+PRIMARY:SENSATION:SOUND                                          2
+    heartaches heart
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ABSTRACTION                                            2
+    guess guess
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 64.285714 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 14.285714 %
+
+103 words total

@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    old tonight week old old time tonight while then soon old
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk say say says talk talk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    spend find find trying trying
+PRIMARY:SENSATION:VISION                                         3
+    see rosy saw
+EMOTIONS:AFFECTION                                               3
+    friends like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    cheeks feet head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    behind out place
+EMOTIONS:AGGRESSION                                              2
+    crush kicking
+PRIMARY:NEED:ORALITY                                             2
+    grapes drink
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy joy
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    burrowing
+PRIMARY:SENSATION:SOUND                                          1
+    heartbroken
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bathroom
+PRIMARY:NEED:ANALITY                                             1
+    stall
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+
+PRIMARY             : 37.254902 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 15.686275 %
+
+268 words total

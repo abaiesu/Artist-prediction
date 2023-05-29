@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               9
+    love like love love like love love like love
+SECONDARY:ABSTRACTION                                            6
+    know know understanding something know understanding
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every time every time every
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart sound sound
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell tell tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used makin won
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 51.428571 %
+EMOTIONS            : 28.571429 %
+
+221 words total

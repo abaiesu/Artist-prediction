@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again when once now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away along
+SECONDARY:ABSTRACTION                                            3
+    except believed real
+PRIMARY:SENSATION:VISION                                         2
+    see light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find make
+EMOTIONS:AGGRESSION                                              1
+    crushed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tourists
+PRIMARY:NEED:ORALITY                                             1
+    sucking
+EMOTIONS:GLORY                                                   1
+    gold
+SECONDARY:ORDER                                                  1
+    normalize
+
+PRIMARY             : 35.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 15.000000 %
+
+97 words total

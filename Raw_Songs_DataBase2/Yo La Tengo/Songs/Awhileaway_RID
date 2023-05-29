@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when times once every time when when once sometimes when when times once
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said please say agree please say say
+SECONDARY:ABSTRACTION                                            6
+    thoughts true sure true true believe
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    peacefully peacefully quiet
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+EMOTIONS:POSITIVE AFFECT                                         3
+    grin laugh laugh
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes brain
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    closed
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 30.434783 %
+SECONDARY           : 60.869565 %
+EMOTIONS            : 8.695652 %
+
+180 words total

@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when time now ever once now
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    low under low low
+PRIMARY:SENSATION:VISION                                         4
+    looks stars watch looking
+EMOTIONS:AFFECTION                                               4
+    like like love kind
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear voice
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    insane ecstacy sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    quiet silent
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood veins
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at long
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    curb
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:ABSTRACTION                                            1
+    learn
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 22.500000 %
+EMOTIONS            : 17.500000 %
+
+147 words total

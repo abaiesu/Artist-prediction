@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    visit say tells say told told visit say
+PRIMARY:SENSATION:VISION                                         4
+    saw moonlight saw moonlight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away away
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    hazel hazel
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sparkling sparkling
+EMOTIONS:AFFECTION                                               2
+    friend love
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:ABSTRACTION                                            1
+    why
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everybody
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 10.714286 %
+
+118 words total

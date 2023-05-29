@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    seasons seasons seasons while season
+SECONDARY:ABSTRACTION                                            5
+    planned cause plan fact know
+EMOTIONS:AFFECTION                                               4
+    like darlin like darlin
+EMOTIONS:POSITIVE AFFECT                                         4
+    glad happy glad happy
+PRIMARY:SENSATION:COLD                                           3
+    snow cold winters
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    spring spring spring
+PRIMARY:SENSATION:VISION                                         2
+    sunshine see
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain wet
+EMOTIONS:SADNESS                                                 2
+    sorrow sorrow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    close behind
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternally
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    upper
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 43.902439 %
+SECONDARY           : 29.268293 %
+EMOTIONS            : 26.829268 %
+
+148 words total

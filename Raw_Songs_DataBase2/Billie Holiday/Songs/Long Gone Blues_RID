@@ -1,0 +1,16 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now ever ever
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk tell tell
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:ABSTRACTION                                            2
+    know real
+PRIMARY:SENSATION:VISION                                         2
+    see see
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 64.285714 %
+EMOTIONS            : 21.428571 %
+
+101 words total

@@ -1,0 +1,62 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    inside out long between circle away across across opens behind
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyes neck head skin eyes face eyes
+SECONDARY:ABSTRACTION                                            6
+    figurehead thought think true know truth
+PRIMARY:SENSATION:VISION                                         4
+    looking green see look
+EMOTIONS:AGGRESSION                                              4
+    revenge crushed stolen destroyer
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    pilgrimage journey oscillation traveler
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once time now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    windows bridge walls
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found make reaching
+EMOTIONS:GLORY                                                   2
+    great castle
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    veiled veil
+EMOTIONS:SADNESS                                                 2
+    lone repentance
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    inferno search
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    swelling twist
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    unending forever
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    reminding gift
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death weary
+SECONDARY:RESTRAINT                                              1
+    controller
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    demented
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:TOUCH                                          1
+    brushed
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:NEED:ORALITY                                             1
+    meal
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+
+PRIMARY             : 64.788732 %
+SECONDARY           : 21.126761 %
+EMOTIONS            : 14.084507 %
+
+234 words total

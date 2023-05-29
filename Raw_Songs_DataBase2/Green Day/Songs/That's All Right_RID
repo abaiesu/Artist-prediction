@@ -1,0 +1,18 @@
+SECONDARY:MORAL IMPERATIVE                                      13
+    right right right right right right right right right right right right right
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now then now when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told told
+PRIMARY:SENSATION:VISION                                         2
+    lights flash
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:AFFECTION                                               1
+    lovin
+
+PRIMARY             : 8.695652 %
+SECONDARY           : 86.956522 %
+EMOTIONS            : 4.347826 %
+
+121 words total

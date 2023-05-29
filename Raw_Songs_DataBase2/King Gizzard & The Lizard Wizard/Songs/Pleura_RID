@@ -1,0 +1,42 @@
+PRIMARY:NEED:ORALITY                                             5
+    brewed drink drink suck drink
+EMOTIONS:AGGRESSION                                              5
+    shoot slaughter whippoorwill whippoorwill whippoorwill
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    bone blood blood blood
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    thank thank answer thank
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    underneath underneath underneath
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then then then
+SECONDARY:ABSTRACTION                                            3
+    choose learnt choose
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    thrown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fading
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    test
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 18.421053 %
+
+182 words total

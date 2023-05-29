@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where back at away
+SECONDARY:ABSTRACTION                                            4
+    themselves believe think them
+PRIMARY:SENSATION:ODOR                                           3
+    breath smell smell
+PRIMARY:SENSATION:VISION                                         3
+    watch see stars
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above spirits
+SECONDARY:RESTRAINT                                              2
+    lock shut
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driving ship
+EMOTIONS:AFFECTION                                               2
+    love friends
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hover
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    swoop
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 6.060606 %
+
+173 words total

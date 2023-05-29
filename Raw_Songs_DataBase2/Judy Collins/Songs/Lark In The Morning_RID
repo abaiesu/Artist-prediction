@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyed handsome hair eyed handsome
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off off long far
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    met declare met declare
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    plough ploughboy bought
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rises wings
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    dew dew
+PRIMARY:SENSATION:SOUND                                          2
+    whistles whistlin
+PRIMARY:NEED:ORALITY                                             1
+    breast
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    jolly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+EMOTIONS:AGGRESSION                                              1
+    blade
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    yonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+
+PRIMARY             : 64.516129 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 12.903226 %
+
+108 words total

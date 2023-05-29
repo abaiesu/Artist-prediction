@@ -1,0 +1,28 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    used success spend success find used success
+SECONDARY:TEMPORAL REFERENCES                                    7
+    till time now now then again time
+SECONDARY:ABSTRACTION                                            4
+    planned true perhaps true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out long place
+EMOTIONS:AFFECTION                                               3
+    love like love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told share
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness funny
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:GLORY                                                   1
+    fame
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 21.212121 %
+SECONDARY           : 60.606061 %
+EMOTIONS            : 18.181818 %
+
+110 words total

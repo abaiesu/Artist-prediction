@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away away off inside away ahead at round apart
+EMOTIONS:AGGRESSION                                              8
+    wreck hurt wreck broke broken wreck harmless fights
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when again then when
+EMOTIONS:AFFECTION                                               3
+    love like love
+PRIMARY:SENSATION:VISION                                         3
+    see saw see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    scream playing
+SECONDARY:ABSTRACTION                                            1
+    knew
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    paid
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+
+PRIMARY             : 45.945946 %
+SECONDARY           : 16.216216 %
+EMOTIONS            : 37.837838 %
+
+126 words total

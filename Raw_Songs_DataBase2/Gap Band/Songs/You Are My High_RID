@@ -1,0 +1,22 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  10
+    high high high high high high high high high high
+SECONDARY:TEMPORAL REFERENCES                                    8
+    till time till time till time till time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    side side side side side side side
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    spend spend spend spend
+EMOTIONS:SADNESS                                                 4
+    lonely lonely lonely lonely
+EMOTIONS:GLORY                                                   3
+    conquer conquer conquer
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    guiding guiding guiding
+PRIMARY:SENSATION:VISION                                         3
+    light light light
+
+PRIMARY             : 47.619048 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 16.666667 %
+
+197 words total

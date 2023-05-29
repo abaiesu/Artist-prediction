@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            4
+    think know think know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find claim find
+SECONDARY:RESTRAINT                                              2
+    cage prisoner
+PRIMARY:SENSATION:VISION                                         2
+    blue peers
+EMOTIONS:AGGRESSION                                              2
+    harm harm
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:NEED:ORALITY                                             1
+    liquor
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    overcome
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    gift
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 59.090909 %
+EMOTIONS            : 13.636364 %
+
+138 words total

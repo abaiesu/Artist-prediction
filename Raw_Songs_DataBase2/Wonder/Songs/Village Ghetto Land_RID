@@ -1,0 +1,42 @@
+PRIMARY:NEED:ORALITY                                             6
+    eat meal drink drunk food starvation
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while everywhere now now
+EMOTIONS:AGGRESSION                                              4
+    robbers steal broken killing
+EMOTIONS:POSITIVE AFFECT                                         4
+    laugh laugh glad happy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street doors streets
+PRIMARY:SENSATION:VISION                                         3
+    see watch scene
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead die
+SECONDARY:RESTRAINT                                              2
+    lock police
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bloody hands
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tell
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    buying
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roams
+EMOTIONS:SADNESS                                                 1
+    grief
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 46.341463 %
+SECONDARY           : 24.390244 %
+EMOTIONS            : 29.268293 %
+
+122 words total

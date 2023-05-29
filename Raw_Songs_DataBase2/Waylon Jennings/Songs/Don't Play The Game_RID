@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              10
+    love love like love like love love love like like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    play game play game play game play game
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever everytime now again ever
+SECONDARY:ABSTRACTION                                            3
+    cause think know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    sided inside sided
+PRIMARY:SENSATION:HARD                                           2
+    hardest hardest
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              2
+    blame blame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    win won
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepless
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 29.545455 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 47.727273 %
+
+164 words total

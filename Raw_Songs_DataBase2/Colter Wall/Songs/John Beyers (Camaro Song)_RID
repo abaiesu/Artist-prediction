@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    side side southside out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find pick bought pay
+SECONDARY:RESTRAINT                                              2
+    must bound
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    heat lit
+SECONDARY:ABSTRACTION                                            2
+    thinks cause
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again soon
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:SENSATION:COLD                                           1
+    northside
+PRIMARY:NEED:ANALITY                                             1
+    mess
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 47.619048 %
+SECONDARY           : 47.619048 %
+EMOTIONS            : 4.761905 %
+
+118 words total

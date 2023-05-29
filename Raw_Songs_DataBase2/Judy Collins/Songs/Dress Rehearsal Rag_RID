@@ -1,0 +1,66 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    where where where at where long places along at long where along out along long out back back along forward where
+SECONDARY:TEMPORAL REFERENCES                                   11
+    sometime now now now once times times everywhere every now then
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    body face face chestnut hair veins wrist arm
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    try spent picking makes find job find used
+EMOTIONS:AFFECTION                                               7
+    like kind friend love like friend love
+EMOTIONS:GLORY                                                   7
+    golden famous golden crown prince prince applause
+SECONDARY:ABSTRACTION                                            7
+    thought knew thought why thought why except
+PRIMARY:SENSATION:VISION                                         5
+    look light vision view brown
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said say says talk
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    grew grow highest highways
+PRIMARY:SENSATION:HARD                                           3
+    steel hard glasses
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    strange strange strange
+PRIMARY:SENSATION:SOUND                                          2
+    voice raspberries
+SECONDARY:RESTRAINT                                              2
+    manage stopping
+EMOTIONS:AGGRESSION                                              2
+    blade hit
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:COLD                                           2
+    cold child
+PRIMARY:NEED:ORALITY                                             2
+    drink berries
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    rim path
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    dim shadows
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climbed mountains
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+EMOTIONS:ANXIETY                                                 1
+    trembling
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sang
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 54.782609 %
+SECONDARY           : 29.565217 %
+EMOTIONS            : 15.652174 %
+
+505 words total

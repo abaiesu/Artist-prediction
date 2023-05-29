@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         6
+    light shining shine bright stars shining
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at where
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    guide tell told
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above heavens
+EMOTIONS:GLORY                                                   2
+    wonderful wonderful
+PRIMARY:SENSATION:COLD                                           1
+    cool
+SECONDARY:ABSTRACTION                                            1
+    understand
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    exotic
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeper
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+EMOTIONS:ANXIETY                                                 1
+    cares
+
+PRIMARY             : 65.217391 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 13.043478 %
+
+104 words total

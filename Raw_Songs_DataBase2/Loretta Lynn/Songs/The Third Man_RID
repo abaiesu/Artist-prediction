@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    eyes eyes head feet hands eyes blood cheek eyes
+PRIMARY:SENSATION:VISION                                         7
+    saw saw looked see saw lightning saw
+PRIMARY:SENSATION:SOUND                                          7
+    heart hear heard heard heard heard hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    cried cry cried art cry cried
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out at out side within where
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when hast then suddenly then
+EMOTIONS:AGGRESSION                                              4
+    hurt broke mocked breaking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreamed dreamed dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hill tree sky
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+EMOTIONS:SADNESS                                                 2
+    lonely pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slowly died
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reached found
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touched
+SECONDARY:ABSTRACTION                                            1
+    real
+EMOTIONS:AFFECTION                                               1
+    mercy
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+EMOTIONS:GLORY                                                   1
+    crown
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+
+PRIMARY             : 64.285714 %
+SECONDARY           : 15.714286 %
+EMOTIONS            : 20.000000 %
+
+261 words total

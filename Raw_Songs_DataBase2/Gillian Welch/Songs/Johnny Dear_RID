@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    years soon old time now time times time
+SECONDARY:ABSTRACTION                                            3
+    sure know true
+EMOTIONS:AFFECTION                                               2
+    dear love
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:SENSATION:COLD                                           2
+    snow cold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+EMOTIONS:AGGRESSION                                              1
+    killed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sow
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endure
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 15.384615 %
+
+101 words total

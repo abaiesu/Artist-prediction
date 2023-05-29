@@ -1,0 +1,32 @@
+PRIMARY:NEED:ORALITY                                            27
+    honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey
+EMOTIONS:AFFECTION                                              17
+    love love love love love love love love loving loving love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    tell tell tell tell tell tell tell tell tell tell tell tell tell tell declare declare declare
+SECONDARY:ABSTRACTION                                           10
+    know know plan true real real know know know know
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now now now now now now now now now
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+PRIMARY:SENSATION:SOUND                                          2
+    heart heartbreak
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy joy
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertain
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+EMOTIONS:GLORY                                                   1
+    splendid
+PRIMARY:SENSATION:VISION                                         1
+    saw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    gain
+
+PRIMARY             : 34.408602 %
+SECONDARY           : 44.086022 %
+EMOTIONS            : 21.505376 %
+
+313 words total

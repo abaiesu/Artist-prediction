@@ -1,0 +1,24 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    cried cry cried cried cry
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now every now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used found found
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over over
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:ABSTRACTION                                            1
+    learning
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:VISION                                         1
+    bluer
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 31.578947 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 26.315789 %
+
+70 words total

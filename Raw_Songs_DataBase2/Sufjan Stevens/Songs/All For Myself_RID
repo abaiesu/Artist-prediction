@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    close close out between at close close out out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hairy chest eyes hairy chests
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then once time once
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    improving improving won
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flight flight
+EMOTIONS:ANXIETY                                                 2
+    worries trouble
+PRIMARY:SENSATION:SOUND                                          2
+    ear ear
+SECONDARY:MORAL IMPERATIVE                                       2
+    right shoulder
+EMOTIONS:AGGRESSION                                              2
+    blades knife
+PRIMARY:SENSATION:HARD                                           1
+    stone
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promise
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impressions
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bathing
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 25.641026 %
+EMOTIONS            : 12.820513 %
+
+189 words total

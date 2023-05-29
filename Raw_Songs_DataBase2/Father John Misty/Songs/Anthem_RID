@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                         18
+    heard ring bells ring loud hear ring bells ring drum heart heart ring bells ring ring bells ring
+SECONDARY:TEMPORAL REFERENCES                                   12
+    again again again again everything every while everything every every everything everything
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say offering asked say offering offering offering
+PRIMARY:SENSATION:VISION                                         7
+    light see light light light light light
+EMOTIONS:AGGRESSION                                              6
+    break wars fought betrayed killers strike
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    bought sold bought spent won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at away places out
+SECONDARY:RESTRAINT                                              3
+    caught summoned summoned
+EMOTIONS:AFFECTION                                               3
+    marriage love like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds high
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    lawless crowd
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sang
+SECONDARY:ABSTRACTION                                            1
+    them
+
+PRIMARY             : 46.478873 %
+SECONDARY           : 39.436620 %
+EMOTIONS            : 14.084507 %
+
+271 words total

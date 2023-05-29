@@ -1,0 +1,30 @@
+EMOTIONS:SADNESS                                                 9
+    sorry sad sad sad sad sad sad sorry sorry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make find make make
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over situation over
+PRIMARY:SENSATION:HARD                                           3
+    hardest hardest hardest
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:VISION                                         2
+    lightning lightning
+EMOTIONS:AGGRESSION                                              2
+    strikes strikes
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say talk
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:ABSTRACTION                                            1
+    why
+
+PRIMARY             : 30.555556 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 36.111111 %
+
+164 words total

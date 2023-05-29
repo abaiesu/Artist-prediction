@@ -1,0 +1,40 @@
+EMOTIONS:POSITIVE AFFECT                                         7
+    satisfied satisfied satisfied satisfied satisfied satisfied satisfied
+SECONDARY:ABSTRACTION                                            6
+    reason why believe true sure cause
+PRIMARY:SENSATION:VISION                                         3
+    look star see
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreaming wake
+PRIMARY:SENSATION:SOFT                                           1
+    satin
+PRIMARY:SENSATION:SOUND                                          1
+    rings
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reached
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:NEED:ORALITY                                             1
+    candy
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AGGRESSION                                              1
+    bother
+SECONDARY:TEMPORAL REFERENCES                                    1
+    often
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 41.935484 %
+SECONDARY           : 25.806452 %
+EMOTIONS            : 32.258065 %
+
+153 words total

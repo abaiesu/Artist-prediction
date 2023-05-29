@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            6
+    except think know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make machine make make found make
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell say please talked thanks
+EMOTIONS:AFFECTION                                               4
+    friend kind kind like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    road routine road road
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place away close
+SECONDARY:TEMPORAL REFERENCES                                    2
+    brief till
+PRIMARY:SENSATION:SOUND                                          2
+    music ear
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:SOFT                                           1
+    gentleman
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    poet
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:ANXIETY                                                 1
+    anxious
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheer
+
+PRIMARY             : 27.500000 %
+SECONDARY           : 52.500000 %
+EMOTIONS            : 20.000000 %
+
+203 words total

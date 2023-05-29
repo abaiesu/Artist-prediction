@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tell talkin calls call tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    makes make money built makes
+EMOTIONS:AFFECTION                                               3
+    love love like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when now everthing
+PRIMARY:NEED:ORALITY                                             3
+    dinner supper honey
+EMOTIONS:AGGRESSION                                              2
+    breakfast fought
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistreats
+PRIMARY:SENSATION:VISION                                         1
+    blue
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:SOUND                                          1
+    snappy
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 51.724138 %
+EMOTIONS            : 20.689655 %
+
+118 words total

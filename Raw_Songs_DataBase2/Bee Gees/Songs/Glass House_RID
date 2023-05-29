@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once yesterday then
+EMOTIONS:AFFECTION                                               3
+    kind like love
+PRIMARY:SENSATION:HARD                                           2
+    glass glass
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees hill
+PRIMARY:SENSATION:SOFT                                           2
+    softly softly
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    saying say
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:VISION                                         1
+    shine
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugher
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    stray
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    palm
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swaying
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shady
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 17.391304 %
+
+87 words total

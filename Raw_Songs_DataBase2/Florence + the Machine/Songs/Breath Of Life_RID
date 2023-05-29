@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                         8
+    looking light vision looking light vision looking light
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            8
+    dream fever fever fever dream fever dream sleep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    head head legs head head head
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    sang sang sang sang dance sang
+SECONDARY:ABSTRACTION                                            6
+    believe believe believe believe cause something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    side side side side here here
+PRIMARY:SENSATION:TOUCH                                          5
+    touch touch touch touch touch
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again again again time again
+PRIMARY:SENSATION:SOUND                                          5
+    heart chorus chorus hear heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    quiet quiet quiet quiet quiet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    claim belong belong belong belong
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    heavenly heavenly heavenly heavenly
+PRIMARY:SENSATION:ODOR                                           3
+    breath breath breath
+PRIMARY:SENSATION:TASTE                                          2
+    taste taste
+EMOTIONS:GLORY                                                   2
+    sublime sublime
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+PRIMARY:SENSATION:HARD                                           1
+    harder
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 67.500000 %
+SECONDARY           : 22.500000 %
+EMOTIONS            : 10.000000 %
+
+318 words total

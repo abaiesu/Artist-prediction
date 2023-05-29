@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                              10
+    like like like love love like like like love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    east west east west east west east west
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk tell said talk tell said
+EMOTIONS:ANXIETY                                                 4
+    troubles afraid troubles afraid
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+SECONDARY:ABSTRACTION                                            2
+    understand understand
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 38.888889 %
+
+170 words total

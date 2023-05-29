@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here here here at here here here
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when when when when
+PRIMARY:SENSATION:VISION                                         3
+    light bright bright
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet heading
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    traveling travel
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    gates road
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:NEED:ORALITY                                             1
+    pearly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+EMOTIONS:AFFECTION                                               1
+    loved
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+
+PRIMARY             : 63.888889 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 11.111111 %
+
+164 words total

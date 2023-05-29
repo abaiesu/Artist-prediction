@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    situation away away away away away away back at away away away away away out away away away away
+SECONDARY:ABSTRACTION                                           12
+    thought knows why something think thoughts true true knowing why know thought
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time now when time everyday every time times then
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said say saying told said said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    try make make tried try
+EMOTIONS:AFFECTION                                               5
+    love goodbye goodbye friends like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry play played play
+EMOTIONS:AGGRESSION                                              2
+    break hurt
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees head
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mysteries
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:NEED:SEX                                                 1
+    fucked
+
+PRIMARY             : 38.157895 %
+SECONDARY           : 44.736842 %
+EMOTIONS            : 17.105263 %
+
+416 words total

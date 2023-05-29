@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               4
+    like like love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    wide longer wide
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever once
+PRIMARY:SENSATION:SOUND                                          2
+    heart heard
+EMOTIONS:GLORY                                                   1
+    wealthy
+SECONDARY:ABSTRACTION                                            1
+    almost
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arm
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:RESTRAINT                                              1
+    prison
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 28.571429 %
+
+94 words total

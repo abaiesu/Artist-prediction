@@ -1,0 +1,20 @@
+SECONDARY:SOCIAL BEHAVIOR                                       22
+    talk say say promise talk talk tell tell say say talk tell forgive talk talk thank help talk thank forgive talk talk
+SECONDARY:TEMPORAL REFERENCES                                   12
+    every when when when when when time years when time when when
+SECONDARY:ABSTRACTION                                            6
+    why cause why fact know fact
+PRIMARY:NEED:ORALITY                                             5
+    drunk drunk drunk drunk drunk
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees knees
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 14.000000 %
+SECONDARY           : 80.000000 %
+EMOTIONS            : 6.000000 %
+
+249 words total

@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now clock time now clock again tonight
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tell tell please please tell
+PRIMARY:SENSATION:VISION                                         5
+    blue shining bright shining bright
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ABSTRACTION                                            2
+    know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here where
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    prisoner
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 30.555556 %
+SECONDARY           : 55.555556 %
+EMOTIONS            : 13.888889 %
+
+169 words total

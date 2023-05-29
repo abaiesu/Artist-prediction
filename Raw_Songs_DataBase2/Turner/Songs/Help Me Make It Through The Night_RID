@@ -1,0 +1,40 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make won try make make make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    early time tonight yesterday yesterday
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    help help help help
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lay dead dead
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    side out out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair skin
+EMOTIONS:AFFECTION                                               2
+    like friend
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:ABSTRACTION                                            1
+    understand
+
+PRIMARY             : 37.837838 %
+SECONDARY           : 45.945946 %
+EMOTIONS            : 16.216216 %
+
+140 words total

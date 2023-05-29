@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    off place here over here over here back over over over over over over here out here out
+SECONDARY:ABSTRACTION                                           12
+    think think know cause qualified know think think think think think them
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now time time time when then then then
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    asked talk asked told say told say say
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream wake wake wake
+EMOTIONS:AGGRESSION                                              4
+    slap beat beat kick
+EMOTIONS:ANXIETY                                                 3
+    afraid afraid afraid
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    jerk shake jerk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find money trying
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    horns dance dance
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face bone
+SECONDARY:RESTRAINT                                              2
+    catch scold
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+PRIMARY:NEED:ANALITY                                             1
+    asses
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:SEX                                                 1
+    fuck
+EMOTIONS:GLORY                                                   1
+    adventure
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rover
+EMOTIONS:SADNESS                                                 1
+    groan
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+PRIMARY:SENSATION:SOUND                                          1
+    drums
+
+PRIMARY             : 40.963855 %
+SECONDARY           : 42.168675 %
+EMOTIONS            : 16.867470 %
+
+513 words total

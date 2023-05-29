@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                        32
+    look look look look look look look look look look stars see see see see see see see look look look look look look look look look look look look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    out out out out out out away out out out out out out out
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say helping promises speaking message say
+SECONDARY:ABSTRACTION                                            5
+    causing reality history why thinking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find money collective find
+EMOTIONS:AGGRESSION                                              3
+    rebel destroying rebel
+SECONDARY:TEMPORAL REFERENCES                                    3
+    past today when
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+EMOTIONS:AFFECTION                                               1
+    favour
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+EMOTIONS:SADNESS                                                 1
+    grief
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    secure
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 25.641026 %
+EMOTIONS            : 7.692308 %
+
+446 words total

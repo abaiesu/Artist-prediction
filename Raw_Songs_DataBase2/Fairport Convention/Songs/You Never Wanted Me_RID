@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back between at at out
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when ever time when now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wall window hall
+SECONDARY:ABSTRACTION                                            3
+    knew think know
+PRIMARY:SENSATION:VISION                                         3
+    picture blues see
+EMOTIONS:AGGRESSION                                              3
+    blame broken hurt
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said please answers
+EMOTIONS:AFFECTION                                               2
+    goodbye love
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+
+PRIMARY             : 45.945946 %
+SECONDARY           : 32.432432 %
+EMOTIONS            : 21.621622 %
+
+185 words total

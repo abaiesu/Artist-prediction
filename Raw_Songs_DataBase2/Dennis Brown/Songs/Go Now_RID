@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   21
+    now now now now now now now now now everything now now now now now now now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow agreed agreed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try make make
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing cry
+EMOTIONS:SADNESS                                                 2
+    sorrow sorrow
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:ORDER                                                  1
+    system
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbow
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 16.666667 %
+SECONDARY           : 71.428571 %
+EMOTIONS            : 11.904762 %
+
+216 words total

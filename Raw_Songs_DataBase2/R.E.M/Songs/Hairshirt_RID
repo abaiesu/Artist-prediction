@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long away at here here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    arm chest hairshirt hairshirt chest
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    swing hang hang
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    test find
+PRIMARY:NEED:ORALITY                                             2
+    jaw feed
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said conversation
+SECONDARY:ABSTRACTION                                            1
+    reason
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lowest
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searched
+
+PRIMARY             : 81.250000 %
+SECONDARY           : 15.625000 %
+EMOTIONS            : 3.125000 %
+
+158 words total

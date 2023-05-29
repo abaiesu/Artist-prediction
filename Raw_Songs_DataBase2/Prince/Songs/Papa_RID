@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    out at at opened closet closet here closes outside pointed out middle at
+SECONDARY:TEMPORAL REFERENCES                                    9
+    every then then year old again then every every
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    worked priceless work won aim won
+PRIMARY:SENSATION:SOUND                                          6
+    boom boom boom boom boom boom
+EMOTIONS:AFFECTION                                               5
+    like love like kind love
+SECONDARY:ABSTRACTION                                            5
+    know reason why knows fact
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    screamed art cried cry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door floor door
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said please said
+PRIMARY:SENSATION:HARD                                           2
+    hard rocks
+EMOTIONS:SADNESS                                                 2
+    sorry pain
+EMOTIONS:AGGRESSION                                              2
+    shotgun abuse
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rainbow rain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throwin
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 47.222222 %
+SECONDARY           : 34.722222 %
+EMOTIONS            : 18.055556 %
+
+225 words total

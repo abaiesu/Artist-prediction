@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            5
+    learn believe learn learn believe
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old old old
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    clown clown clown
+PRIMARY:NEED:ORALITY                                             3
+    drink drink drink
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    lake lake lake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    awake awake
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistake mistake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    goalie count
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off far
+EMOTIONS:SADNESS                                                 1
+    painter
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mount
+SECONDARY:RESTRAINT                                              1
+    catcher
+
+PRIMARY             : 51.612903 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 12.903226 %
+
+204 words total

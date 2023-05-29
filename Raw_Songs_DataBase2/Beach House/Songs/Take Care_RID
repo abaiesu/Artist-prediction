@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    beside inside sides across far
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burning burning heat
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever year then
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell ask say
+SECONDARY:ABSTRACTION                                            3
+    real real true
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grows hill
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swimming lake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:SENSATION:VISION                                         1
+    glow
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyed
+PRIMARY:SENSATION:SOUND                                          1
+    heartbeat
+PRIMARY:NEED:ORALITY                                             1
+    fast
+
+PRIMARY             : 63.333333 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 3.333333 %
+
+120 words total

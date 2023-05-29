@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    place here over here here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    knees body body body body
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    build make found found
+SECONDARY:ABSTRACTION                                            4
+    cause cause solution solution
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    already old old
+PRIMARY:SENSATION:VISION                                         3
+    blue looking looking
+PRIMARY:NEED:ORALITY                                             2
+    milk drinking
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:NEED:ANALITY                                             1
+    sweating
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    confessions
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    submission
+
+PRIMARY             : 54.054054 %
+SECONDARY           : 35.135135 %
+EMOTIONS            : 10.810811 %
+
+211 words total

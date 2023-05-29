@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:SOUND                                         10
+    sound sound drums drums hear sound drums music music loud
+PRIMARY:SENSATION:HARD                                           7
+    rock rock rock rockin rock rockin rock
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    guitar guitar guitar play guitar
+PRIMARY:SENSATION:VISION                                         4
+    blues light light light
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said say called said
+SECONDARY:ABSTRACTION                                            3
+    know knew learning
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roll roll shaking
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every every year
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back across
+EMOTIONS:GLORY                                                   2
+    famous rich
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    businessmen pickin
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:SENSATION:TOUCH                                          1
+    itch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+
+PRIMARY             : 59.183673 %
+SECONDARY           : 26.530612 %
+EMOTIONS            : 14.285714 %
+
+204 words total

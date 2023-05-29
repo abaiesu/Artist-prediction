@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:TEMPORAL REFERENCES                                    2
+    whenever while
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    students makes
+EMOTIONS:AGGRESSION                                              2
+    break cruel
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+SECONDARY:ABSTRACTION                                            2
+    thinks thinks
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny jokes
+SECONDARY:RESTRAINT                                              2
+    punishment punishment
+SECONDARY:MORAL IMPERATIVE                                       2
+    should ought
+EMOTIONS:GLORY                                                   1
+    principal
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:HARD                                           1
+    hardwood
+
+PRIMARY             : 18.181818 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 36.363636 %
+
+84 words total

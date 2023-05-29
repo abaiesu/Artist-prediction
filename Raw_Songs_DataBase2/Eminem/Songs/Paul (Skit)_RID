@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everybody everybody everybody previous
+EMOTIONS:AFFECTION                                               4
+    like like like like
+SECONDARY:ABSTRACTION                                            4
+    know idea know idea
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    reply say reply
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where back
+SECONDARY:ORDER                                                  1
+    listened
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    working
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippery
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    slope
+EMOTIONS:AGGRESSION                                              1
+    hit
+
+PRIMARY             : 17.391304 %
+SECONDARY           : 56.521739 %
+EMOTIONS            : 26.086957 %
+
+111 words total

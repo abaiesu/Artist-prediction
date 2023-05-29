@@ -1,0 +1,50 @@
+SECONDARY:SOCIAL BEHAVIOR                                       18
+    tell tell call tell tell help call call call tell tell call tell tell call tell tell asking
+EMOTIONS:AFFECTION                                              15
+    love like loving like love love love love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    side back over long side out side where side back over at
+PRIMARY:NEED:ORALITY                                            12
+    fast sugar sugar sugar sugar sugar candy candy candy candy candy candy
+SECONDARY:TEMPORAL REFERENCES                                   10
+    clock whenever when when when when when when when again
+SECONDARY:ABSTRACTION                                            9
+    know know know know know know know know know
+PRIMARY:SENSATION:HARD                                           8
+    hard hard hard hard hard hard hard hard
+PRIMARY:SENSATION:VISION                                         7
+    lookin watch blink see watchin watchin look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    legs legs body legs body body
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    drop fall fall fall fall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    spendin spendin make spendin spendin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    asleep asleep insane asleep asleep
+EMOTIONS:AGGRESSION                                              4
+    hurting hate doubt doubt
+PRIMARY:SENSATION:SOUND                                          3
+    heart hear heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pour pour
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+SECONDARY:RESTRAINT                                              1
+    control
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 49.612403 %
+SECONDARY           : 34.108527 %
+EMOTIONS            : 16.279070 %
+
+589 words total

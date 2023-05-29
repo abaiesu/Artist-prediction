@@ -1,0 +1,50 @@
+SECONDARY:RESTRAINT                                              4
+    obey control obey control
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    behind out wide inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    darkened shadows shadows
+PRIMARY:SENSATION:VISION                                         3
+    visions vision light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try grasp carry
+EMOTIONS:ANXIETY                                                 3
+    avoid horror fear
+EMOTIONS:AGGRESSION                                              3
+    broken kill conflict
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands blood
+PRIMARY:SENSATION:SOUND                                          2
+    sounds sound
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under underground
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    secret secret
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    insane insane
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    shelter shelter
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:NEED:ORALITY                                             1
+    poison
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 63.043478 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 15.217391 %
+
+158 words total

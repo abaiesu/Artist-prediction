@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ever old time time time time
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    reminding say meet meet reminding
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at somewhere middle somewhere middle
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    slowly slow slow slowly
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+PRIMARY:SENSATION:VISION                                         3
+    film seen scenes
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughing jokes
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+EMOTIONS:AFFECTION                                               2
+    familiar like
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 39.473684 %
+SECONDARY           : 44.736842 %
+EMOTIONS            : 15.789474 %
+
+170 words total

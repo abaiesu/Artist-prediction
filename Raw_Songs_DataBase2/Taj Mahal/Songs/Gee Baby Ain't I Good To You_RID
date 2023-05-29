@@ -1,0 +1,20 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    makes bought makes bought makes
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    treat treat treat
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:SOUND                                          2
+    ring ring
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything everything
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:ABSTRACTION                                            1
+    true
+
+PRIMARY             : 18.750000 %
+SECONDARY           : 68.750000 %
+EMOTIONS            : 12.500000 %
+
+129 words total

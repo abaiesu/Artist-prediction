@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    situation wide open off away back round round round away back round
+SECONDARY:ABSTRACTION                                           10
+    cause cause known fact cause cause known fact cause cause
+SECONDARY:TEMPORAL REFERENCES                                    9
+    while every while time while while time while while
+EMOTIONS:AGGRESSION                                              8
+    hate hate hate hate hate hate hate hate
+PRIMARY:NEED:ORALITY                                             6
+    food eat corner corner corner corner
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    trying trying find makes trying trying
+EMOTIONS:SADNESS                                                 4
+    sad sad sad sad
+EMOTIONS:POSITIVE AFFECT                                         4
+    glad glad glad glad
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    answer following answer
+EMOTIONS:AFFECTION                                               3
+    love like love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    ledge edge
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throwing throwing
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusin
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+
+PRIMARY             : 37.662338 %
+SECONDARY           : 37.662338 %
+EMOTIONS            : 24.675325 %
+
+526 words total

@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                               8
+    love love like like love love love like
+SECONDARY:ABSTRACTION                                            7
+    plans understand real sure thought sure cause
+PRIMARY:SENSATION:TASTE                                          7
+    sweet tasting sweet sweet taste sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes sometimes when when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand hand hand hand
+PRIMARY:SENSATION:VISION                                         4
+    bright saw saw looking
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    pleasurable said share
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    far here place
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reaching trying belongs
+EMOTIONS:ANXIETY                                                 3
+    scared scared scared
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drift lie
+PRIMARY:SENSATION:HARD                                           2
+    stoney stoney
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    sensations
+EMOTIONS:POSITIVE AFFECT                                         1
+    gladness
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:SADNESS                                                 1
+    sadness
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 44.067797 %
+SECONDARY           : 32.203390 %
+EMOTIONS            : 23.728814 %
+
+235 words total

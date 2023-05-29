@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:TASTE                                         20
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+SECONDARY:ABSTRACTION                                            6
+    believe believe understand believe believe understand
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+
+PRIMARY             : 67.500000 %
+SECONDARY           : 27.500000 %
+EMOTIONS            : 5.000000 %
+
+184 words total

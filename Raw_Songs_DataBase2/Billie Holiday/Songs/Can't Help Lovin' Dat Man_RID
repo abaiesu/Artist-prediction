@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                               7
+    love love loves love lovin lovin lovin
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell help tell tell tell help help
+SECONDARY:ABSTRACTION                                            5
+    why reason why plan know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when till when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die lazy slow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smokin sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    roof birds
+PRIMARY:NEED:ORALITY                                             2
+    gin gin
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swim rainy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away back
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mister
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:VISION                                         1
+    shine
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 42.222222 %
+EMOTIONS            : 17.777778 %
+
+169 words total

@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               8
+    love love love love love like love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at away away back out away
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now sometimes when now ever now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell said tell said
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+EMOTIONS:ANXIETY                                                 2
+    scared scared
+SECONDARY:RESTRAINT                                              2
+    catch stop
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile laugh
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         1
+    pink
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 31.707317 %
+SECONDARY           : 36.585366 %
+EMOTIONS            : 31.707317 %
+
+246 words total

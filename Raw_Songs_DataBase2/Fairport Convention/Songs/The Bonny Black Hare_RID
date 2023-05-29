@@ -1,0 +1,48 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    met says tell answer answer say declare says please says answer answer
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at at where out round closer at back here
+SECONDARY:ABSTRACTION                                            5
+    may proved why knew why
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    game sang sporting sportsmen play
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face skin face legs heels
+EMOTIONS:AGGRESSION                                              4
+    gun shot deceive gun
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    fair fair fair fair
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    search fire
+EMOTIONS:AFFECTION                                               2
+    likewise like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds trees
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old often
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    stray
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    quiver
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 33.870968 %
+EMOTIONS            : 17.741935 %
+
+310 words total

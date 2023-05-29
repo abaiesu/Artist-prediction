@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:SOUND                                         11
+    bells bells bells bells pealin bells bells bells sound bells bells
+EMOTIONS:AFFECTION                                               7
+    love love love lover lovely love love
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell guide tell reminds tell tell
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rain sea moss sea
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets road coast
+SECONDARY:ABSTRACTION                                            3
+    think know true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long here back
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing minstrel
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old again
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:NEED:ORALITY                                             1
+    whiskey
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:GLORY                                                   1
+    boast
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:ORDER                                                  1
+    listenin
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 22.222222 %
+
+222 words total

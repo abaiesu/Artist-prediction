@@ -1,0 +1,42 @@
+SECONDARY:RESTRAINT                                             26
+    stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 16
+    sellin won make make try make make make make make try make make make make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    12
+    scream scream scream scream scream scream scream scream scream scream scream scream
+SECONDARY:ABSTRACTION                                            7
+    schemes prove scheme cause believe scheme cause
+EMOTIONS:AGGRESSION                                              5
+    kicking fight abusin abusin blame
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then every every now
+PRIMARY:SENSATION:VISION                                         3
+    peek light saw
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell please please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out within within
+PRIMARY:NEED:ANALITY                                             2
+    disgustin disgusted
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+EMOTIONS:AFFECTION                                               2
+    mercy mercy
+PRIMARY:SENSATION:SOUND                                          1
+    sounds
+SECONDARY:ORDER                                                  1
+    system
+PRIMARY:NEED:ORALITY                                             1
+    sucks
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusions
+
+PRIMARY             : 15.384615 %
+SECONDARY           : 63.736264 %
+EMOTIONS            : 20.879121 %
+
+376 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              10
+    darlin darlin darlin darlin darlin love darlin darlin darlin darlin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    far behind further back far behind further back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    find spent try make find try try make make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old now now ever now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand eyes eyes eyes
+SECONDARY:ABSTRACTION                                            3
+    know thinking know
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+EMOTIONS:SADNESS                                                 2
+    lonesome lonesome
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 34.615385 %
+SECONDARY           : 42.307692 %
+EMOTIONS            : 23.076923 %
+
+168 words total

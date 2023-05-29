@@ -1,0 +1,34 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   9
+    heaven heaven heaven heaven heaven heaven heaven heaven heaven
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    find make find find make find find make find
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    called called answer said please promise said asked tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away away long away away back away away
+SECONDARY:ABSTRACTION                                            5
+    know know real know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    flesh blood hand eyes flesh
+PRIMARY:SENSATION:VISION                                         4
+    look picture look look
+SECONDARY:TEMPORAL REFERENCES                                    4
+    hour ago every time
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    frame
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    accused
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fired
+
+PRIMARY             : 48.333333 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 5.000000 %
+
+240 words total

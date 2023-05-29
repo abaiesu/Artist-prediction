@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    out between off off close here off over between off off close here off off off off off off
+SECONDARY:ABSTRACTION                                           13
+    sure real probably think cause real difference why truth cause difference why may
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    line step step step step step step step step step step step
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    climbing mountain climbing mountain climbing mountain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make find make build
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when everybody when when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    top high top top
+PRIMARY:SENSATION:HARD                                           3
+    glass hard stones
+EMOTIONS:AGGRESSION                                              3
+    knife wreck wreck
+PRIMARY:NEED:ANALITY                                             3
+    dirty dirty dirty
+SECONDARY:RESTRAINT                                              2
+    interfere interfere
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    telling
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+EMOTIONS:GLORY                                                   1
+    throne
+
+PRIMARY             : 64.197531 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 6.172840 %
+
+243 words total

@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where at where out at where where
+PRIMARY:SENSATION:VISION                                         7
+    see see look sunlight see see see
+SECONDARY:ABSTRACTION                                            5
+    know know think think think
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands head
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lined street
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 0.000000 %
+
+159 words total

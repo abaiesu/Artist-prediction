@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         6
+    watch see watch see watch see
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when then quick when then
+EMOTIONS:AGGRESSION                                              5
+    cut enemies cut cut cut
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    lift lift lift lift
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lie lie lie
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall fall fall
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 60.606061 %
+SECONDARY           : 24.242424 %
+EMOTIONS            : 15.151515 %
+
+131 words total

@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       26
+    here here over here here inside here here over here here back out back away here here over here here back out back back out back
+SECONDARY:TEMPORAL REFERENCES                                   25
+    when everything again again again again when when again again now again again now when when time again again ever now again again now now
+SECONDARY:ABSTRACTION                                            7
+    knows cause know thought decide thought know
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pays
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 43.076923 %
+SECONDARY           : 52.307692 %
+EMOTIONS            : 4.615385 %
+
+286 words total

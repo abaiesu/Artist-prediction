@@ -1,0 +1,14 @@
+SECONDARY:TEMPORAL REFERENCES                                    1
+    once
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:GLORY                                                   1
+    great
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 75.000000 %
+
+25 words total

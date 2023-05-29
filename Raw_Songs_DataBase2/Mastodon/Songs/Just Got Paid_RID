@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today today when when everything today
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    paid paid workin pay paid
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+SECONDARY:ABSTRACTION                                            2
+    believe know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    behind ahead
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+EMOTIONS:AGGRESSION                                              1
+    hit
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    barks
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    root
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 14.285714 %
+
+147 words total

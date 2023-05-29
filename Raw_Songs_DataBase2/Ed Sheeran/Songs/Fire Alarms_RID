@@ -1,0 +1,38 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                 12
+    waving waving waving waving waving waving waving waving waving waving waving waving
+SECONDARY:ABSTRACTION                                           10
+    know know know know know know know know know know
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when when when when when when when
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    call call call call call call call call
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    off away away away away
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:HARD                                           1
+    harder
+PRIMARY:NEED:ANALITY                                             1
+    stalling
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+SECONDARY:ORDER                                                  1
+    classes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:ANXIETY                                                 1
+    alarms
+
+PRIMARY             : 41.379310 %
+SECONDARY           : 48.275862 %
+EMOTIONS            : 10.344828 %
+
+227 words total

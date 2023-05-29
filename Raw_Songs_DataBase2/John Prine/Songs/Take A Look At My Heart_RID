@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            5
+    know think think exception know
+PRIMARY:SENSATION:VISION                                         4
+    seen look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart places at at
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old everything every
+EMOTIONS:AFFECTION                                               3
+    like kind lover
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking say ask
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:AGGRESSION                                              1
+    hate
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 14.285714 %
+
+135 words total

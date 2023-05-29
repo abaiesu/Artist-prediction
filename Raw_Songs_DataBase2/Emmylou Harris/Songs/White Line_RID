@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    away at place away away away where somewhere ahead point here beside
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    road line line road line line line line line bridges
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now quicker now every every till past
+PRIMARY:SENSATION:VISION                                         4
+    witness light shining watched
+PRIMARY:SENSATION:SOUND                                          4
+    heart hears heart sound
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    saying say follow guide
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    driving drive driving
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway highway
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    headlight headlight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll roll
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    worked spent
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flame burn
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:AGGRESSION                                              1
+    gun
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:TASTE                                          1
+    sweetness
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 72.727273 %
+SECONDARY           : 21.212121 %
+EMOTIONS            : 6.060606 %
+
+240 words total

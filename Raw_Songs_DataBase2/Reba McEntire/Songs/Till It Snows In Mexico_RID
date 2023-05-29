@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    old when till till till when till ever till till when till when till
+EMOTIONS:AFFECTION                                              13
+    love love love darling love love love darling love love darling love love
+SECONDARY:ABSTRACTION                                            9
+    cause believe knew something know cause know cause cause
+PRIMARY:SENSATION:COLD                                           9
+    snows snows freezes snows snow snows freezes snows snows
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    between over away where over away away
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right ought should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    threw threw threw
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    riding travelers
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call met
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line road
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+SECONDARY:RESTRAINT                                              1
+    forbid
+EMOTIONS:ANXIETY                                                 1
+    worry
+
+PRIMARY             : 34.782609 %
+SECONDARY           : 44.927536 %
+EMOTIONS            : 20.289855 %
+
+217 words total

@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heart ring heart heart
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when years when when
+SECONDARY:ABSTRACTION                                            4
+    know true think cause
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say met said
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie linger
+EMOTIONS:AFFECTION                                               2
+    goodbye darlin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+
+PRIMARY             : 42.307692 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 7.692308 %
+
+107 words total

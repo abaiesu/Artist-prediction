@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           14
+    understand cause know know know true think cause know true true true true true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    aim used aim aim aim aim aim
+PRIMARY:SENSATION:VISION                                         5
+    seeing look see light see
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now sometimes when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long off out
+EMOTIONS:AFFECTION                                               3
+    friend like loving
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    impressed pretty
+PRIMARY:SENSATION:SOUND                                          2
+    heard hear
+EMOTIONS:AGGRESSION                                              2
+    killing killing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talking say
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:NEED:ORALITY                                             1
+    cake
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 59.183673 %
+EMOTIONS            : 12.244898 %
+
+185 words total

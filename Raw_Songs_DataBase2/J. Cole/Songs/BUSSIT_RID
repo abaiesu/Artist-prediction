@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    off open out near away long where where where
+SECONDARY:ABSTRACTION                                            9
+    know know know know know know know know know
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when time then then time then then
+EMOTIONS:ANXIETY                                                 6
+    scared fear scared scared scared scared
+EMOTIONS:AFFECTION                                               6
+    love like like like like like
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should should should
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    ride ride ride ride
+EMOTIONS:AGGRESSION                                              4
+    killin killin killin killin
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    ocean water water
+PRIMARY:NEED:SEX                                                 2
+    seduce fuck
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work belong
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spine
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 40.298507 %
+SECONDARY           : 35.820896 %
+EMOTIONS            : 23.880597 %
+
+360 words total

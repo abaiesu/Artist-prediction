@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now when when when time everything
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:ABSTRACTION                                            3
+    know cause cause
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell talk
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand arms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drivin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+EMOTIONS:ANXIETY                                                 1
+    worry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 21.212121 %
+
+179 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    at square closet inside outside inside outside inside outside inside outside inside outside inside outside at square
+PRIMARY:SENSATION:VISION                                         7
+    look peek look see peek look look
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now then
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    attention attention
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talking says
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hover
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+
+PRIMARY             : 79.487179 %
+SECONDARY           : 17.948718 %
+EMOTIONS            : 2.564103 %
+
+285 words total

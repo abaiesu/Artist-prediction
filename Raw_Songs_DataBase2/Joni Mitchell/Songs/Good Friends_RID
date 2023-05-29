@@ -1,0 +1,54 @@
+EMOTIONS:AFFECTION                                              13
+    like friends like like friends like like friends like like friends friends friends
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once year now now every sometimes
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    magic magic magic magic
+PRIMARY:SENSATION:SOUND                                          4
+    hearts hearts hearts hearts
+EMOTIONS:GLORY                                                   4
+    gold gold gold gold
+PRIMARY:SENSATION:HARD                                           4
+    steel steel steel steel
+EMOTIONS:AGGRESSION                                              4
+    blame blame blame blame
+SECONDARY:ABSTRACTION                                            3
+    think analyze difference
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk say say
+SECONDARY:RESTRAINT                                              3
+    block prevent control
+PRIMARY:SENSATION:VISION                                         2
+    see watching
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    halls street
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rises mountains
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over at
+PRIMARY:NEED:ORALITY                                             2
+    eggshells corner
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chaos random
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    atmosphere
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:ORDER                                                  1
+    order
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 33.823529 %
+
+252 words total

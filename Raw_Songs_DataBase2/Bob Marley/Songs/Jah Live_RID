@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:COLD                                          17
+    children children children children children children children children children children children children children children children children children
+SECONDARY:ABSTRACTION                                            3
+    truth learn know
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flying rise rise
+EMOTIONS:ANXIETY                                                 3
+    dreaded dreaded dread
+EMOTIONS:AGGRESSION                                              3
+    enemies enemies enemies
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    bark
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sayin
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 20.000000 %
+
+152 words total

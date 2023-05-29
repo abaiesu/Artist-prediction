@@ -1,0 +1,32 @@
+SECONDARY:RESTRAINT                                             25
+    locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked locked
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    ahead inside inside ahead inside inside inside inside ahead inside inside inside inside inside inside
+EMOTIONS:AFFECTION                                              13
+    love love love love love love love love love love love darling love
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when then evermore when when then evermore then evermore
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make use use use
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    shake quake shake shake
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy frenzy
+EMOTIONS:ANXIETY                                                 2
+    tremble tremble
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+EMOTIONS:POSITIVE AFFECT                                         1
+    excited
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 34.523810 %
+SECONDARY           : 46.428571 %
+EMOTIONS            : 19.047619 %
+
+269 words total

@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            3
+    beliefs true true
+EMOTIONS:AFFECTION                                               3
+    like love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet hands
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swollen
+EMOTIONS:AGGRESSION                                              1
+    killing
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:HARD                                           1
+    crisps
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 33.333333 %
+
+72 words total

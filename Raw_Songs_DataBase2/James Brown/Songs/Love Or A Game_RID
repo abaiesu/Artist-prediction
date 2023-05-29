@@ -1,0 +1,16 @@
+EMOTIONS:AFFECTION                                              10
+    mercy love love mercy love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    explain tell told share explain
+SECONDARY:ABSTRACTION                                            4
+    know know compare know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game game
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 54.545455 %
+
+94 words total

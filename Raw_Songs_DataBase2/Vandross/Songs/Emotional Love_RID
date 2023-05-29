@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              22
+    love love love devotion love love love love friends love like love love love love love friends love loves love loves loves
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk explain tell explain tell say
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then sometimes then sometimes then now
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+SECONDARY:ABSTRACTION                                            4
+    think know cause think
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should shoulder
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    searched searched searched
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    confusion confusion
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 22.807018 %
+SECONDARY           : 35.087719 %
+EMOTIONS            : 42.105263 %
+
+321 words total

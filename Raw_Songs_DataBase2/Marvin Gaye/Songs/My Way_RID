@@ -1,0 +1,36 @@
+EMOTIONS:POSITIVE AFFECT                                         4
+    joy satisfied glad glad
+SECONDARY:ABSTRACTION                                            3
+    guess chose plan
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried win
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+EMOTIONS:ANXIETY                                                 1
+    shy
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertainty
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:SOUND                                          1
+    music
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 25.000000 %
+
+169 words total

@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    somewhere somewhere
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when sometime
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+SECONDARY:ABSTRACTION                                            2
+    think think
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fireside
+PRIMARY:SENSATION:VISION                                         1
+    imagine
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 0.000000 %
+
+30 words total

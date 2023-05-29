@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say speak tell tell tell tell tell say
+PRIMARY:SENSATION:VISION                                         6
+    see look look see see see
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever now ever ever everything
+SECONDARY:ABSTRACTION                                            4
+    thoughts know thinking believe
+EMOTIONS:AFFECTION                                               4
+    love like love love
+PRIMARY:SENSATION:SOUND                                          3
+    music heart heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slip fall
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:ANXIETY                                                 1
+    trembling
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakenly
+
+PRIMARY             : 39.024390 %
+SECONDARY           : 46.341463 %
+EMOTIONS            : 14.634146 %
+
+229 words total

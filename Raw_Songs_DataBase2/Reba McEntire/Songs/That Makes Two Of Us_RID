@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                               7
+    like kind like like love like love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes makes makes makes
+SECONDARY:ABSTRACTION                                            4
+    true believe sure true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at out
+PRIMARY:SENSATION:SOFT                                           3
+    feather gentle feather
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yelling game
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wading rain
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when while
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds birds
+PRIMARY:SENSATION:VISION                                         2
+    lightning watch
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candles
+PRIMARY:NEED:ORALITY                                             1
+    cake
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    agree
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 25.641026 %
+
+169 words total

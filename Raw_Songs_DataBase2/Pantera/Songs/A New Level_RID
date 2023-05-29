@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now past present old time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    pointed at place level between
+PRIMARY:NEED:ANALITY                                             2
+    shit pissed
+PRIMARY:NEED:SEX                                                 2
+    fucked fucking
+SECONDARY:ORDER                                                  2
+    divided order
+EMOTIONS:AGGRESSION                                              2
+    mock kills
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    works
+PRIMARY:NEED:ORALITY                                             1
+    spit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stepped
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    confidence
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 60.714286 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 7.142857 %
+
+83 words total

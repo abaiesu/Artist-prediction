@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              16
+    loved kind kind kind kind love kind kind kind kind love kind kind kind kind kind
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here out place out side back
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said say said say
+SECONDARY:ABSTRACTION                                            3
+    knew knew know
+EMOTIONS:AGGRESSION                                              2
+    breakneck break
+PRIMARY:SENSATION:VISION                                         2
+    scenes see
+PRIMARY:SENSATION:SOUND                                          2
+    loud hearts
+EMOTIONS:GLORY                                                   2
+    proud pride
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies restless
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reached
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+PRIMARY:NEED:ANALITY                                             1
+    shattered
+
+PRIMARY             : 34.042553 %
+SECONDARY           : 21.276596 %
+EMOTIONS            : 44.680851 %
+
+146 words total

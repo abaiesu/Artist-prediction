@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here at front at side here at front out at here here
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    asking told asking say promise promise told asking say told asking
+SECONDARY:ABSTRACTION                                           10
+    know know know know know know know know know know
+PRIMARY:SENSATION:VISION                                         4
+    saw saw saw saw
+SECONDARY:RESTRAINT                                              3
+    stop stop caught
+EMOTIONS:AFFECTION                                               3
+    like married friend
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    threw wings
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heels handing
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 43.859649 %
+SECONDARY           : 49.122807 %
+EMOTIONS            : 7.017544 %
+
+249 words total

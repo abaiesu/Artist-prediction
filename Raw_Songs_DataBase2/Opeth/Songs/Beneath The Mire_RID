@@ -1,0 +1,44 @@
+EMOTIONS:SADNESS                                                 4
+    grief despair wept woes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    surface whereas inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    death solace submit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body skin flesh
+PRIMARY:SENSATION:SOUND                                          2
+    voice heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    guided pleasant
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    beneath beneath
+EMOTIONS:AFFECTION                                               2
+    pity love
+PRIMARY:SENSATION:VISION                                         2
+    scene transparent
+PRIMARY:NEED:ORALITY                                             2
+    choking flourishing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:AGGRESSION                                              1
+    struck
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+SECONDARY:RESTRAINT                                              1
+    obstacles
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 14.705882 %
+EMOTIONS            : 20.588235 %
+
+137 words total

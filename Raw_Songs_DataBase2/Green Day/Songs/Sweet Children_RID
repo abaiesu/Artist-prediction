@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:TASTE                                         11
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+PRIMARY:SENSATION:COLD                                           9
+    children children children children children children children children children
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now when again again now when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    veins brain hands hand
+SECONDARY:ABSTRACTION                                            2
+    believing understand
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lie
+PRIMARY:SENSATION:VISION                                         2
+    ray light
+EMOTIONS:AGGRESSION                                              2
+    hits gun
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    plays
+PRIMARY:NEED:SEX                                                 1
+    thighs
+PRIMARY:NEED:ANALITY                                             1
+    impurity
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+
+PRIMARY             : 70.212766 %
+SECONDARY           : 21.276596 %
+EMOTIONS            : 8.510638 %
+
+121 words total

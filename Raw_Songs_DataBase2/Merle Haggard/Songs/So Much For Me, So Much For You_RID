@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today now now once now once
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    behind longer over out over
+EMOTIONS:AGGRESSION                                              3
+    fought fought fought
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    worked belong make
+SECONDARY:ABSTRACTION                                            3
+    judge reason prove
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door hall
+SECONDARY:ORDER                                                  2
+    divide divide
+PRIMARY:SENSATION:SOUND                                          2
+    heartaches heartaches
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+SECONDARY:RESTRAINT                                              1
+    bind
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    thanked
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 37.142857 %
+SECONDARY           : 51.428571 %
+EMOTIONS            : 11.428571 %
+
+168 words total

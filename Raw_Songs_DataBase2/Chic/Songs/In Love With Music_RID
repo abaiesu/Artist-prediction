@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:SOUND                                         12
+    music music melody sounds music music music melody music music music music
+EMOTIONS:AFFECTION                                               9
+    love love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    telling telling telling telling telling telling tellin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing dancin dancin
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every when
+SECONDARY:ABSTRACTION                                            2
+    fact true
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    sway
+EMOTIONS:AGGRESSION                                              1
+    attack
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 32.500000 %
+
+200 words total

@@ -1,0 +1,44 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    dancehall sight dancehall shout danced play dance dance dance
+PRIMARY:SENSATION:VISION                                         7
+    see see scene see see looking see
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when time when while everybody
+PRIMARY:SENSATION:SOUND                                          4
+    music loud voiceless music
+EMOTIONS:POSITIVE AFFECT                                         3
+    excitements laughing smiling
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+EMOTIONS:AFFECTION                                               3
+    loving kind darling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place out over
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+SECONDARY:RESTRAINT                                              1
+    confinements
+EMOTIONS:AGGRESSION                                              1
+    shoving
+SECONDARY:ABSTRACTION                                            1
+    knows
+PRIMARY:SENSATION:TOUCH                                          1
+    rubbing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    revival
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    refresher
+
+PRIMARY             : 40.816327 %
+SECONDARY           : 26.530612 %
+EMOTIONS            : 32.653061 %
+
+211 words total

@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    off back where where back somewhere place where where
+PRIMARY:SENSATION:VISION                                         8
+    sees looking see saw looking looking seen looking
+EMOTIONS:AGGRESSION                                              7
+    battle warrior warrior knife warrior warrior warrior
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    face knees bloody face leg bloody bloody
+SECONDARY:ABSTRACTION                                            6
+    sure think know think think think
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    trail path trail
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    protect calling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make found
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when once
+EMOTIONS:GLORY                                                   2
+    noble wondering
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    upwards
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:ANXIETY                                                 1
+    fearing
+PRIMARY:NEED:ORALITY                                             1
+    licking
+PRIMARY:SENSATION:TASTE                                          1
+    tasting
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endured
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 59.677419 %
+SECONDARY           : 20.967742 %
+EMOTIONS            : 19.354839 %
+
+303 words total

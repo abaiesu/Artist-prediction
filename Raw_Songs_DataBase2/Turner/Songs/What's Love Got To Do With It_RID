@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              17
+    love love love love love love love love love love love love love love love love love
+PRIMARY:SENSATION:SOUND                                         10
+    heart heart heart heart heart heart heart heart heart heart
+SECONDARY:ABSTRACTION                                            7
+    understand logical may tend cause reason thinking
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when when when old when when
+EMOTIONS:AGGRESSION                                              6
+    opposites broken broken broken broken broken
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hand hand hand hand hand
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meeting say protection
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes try
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pulse
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    physical
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    close
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:ANXIETY                                                 1
+    scares
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 32.352941 %
+SECONDARY           : 30.882353 %
+EMOTIONS            : 36.764706 %
+
+338 words total

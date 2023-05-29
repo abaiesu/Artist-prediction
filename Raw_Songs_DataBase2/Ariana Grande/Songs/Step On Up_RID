@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      30
+    step step step step step step step step step step step step step step step step step step step step step step step step step step step step step step
+EMOTIONS:AFFECTION                                              17
+    love like love love like love love love like love like like love like love love like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    crazy crazy crazy crazy crazy crazy crazy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at here place back place back place
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time time when time when time
+SECONDARY:MORAL IMPERATIVE                                       6
+    should should right right should right
+SECONDARY:ABSTRACTION                                            4
+    cause know know know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say treat treat
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work work work
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    art art art
+SECONDARY:RESTRAINT                                              2
+    arrest stop
+SECONDARY:ORDER                                                  1
+    classy
+PRIMARY:NEED:SEX                                                 1
+    sexy
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:SENSATION:SOUND                                          1
+    music
+
+PRIMARY             : 52.577320 %
+SECONDARY           : 26.804124 %
+EMOTIONS            : 20.618557 %
+
+462 words total

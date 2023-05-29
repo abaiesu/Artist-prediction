@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long place behind ahead at behind behind ahead behind ahead
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    met admit speak met said met speak speak
+SECONDARY:TEMPORAL REFERENCES                                    7
+    ever then moments moments when moment when
+SECONDARY:ABSTRACTION                                            6
+    know believe guess meant reasons why
+EMOTIONS:AFFECTION                                               5
+    favor love like love love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:ANXIETY                                                 1
+    coward
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+
+PRIMARY             : 42.000000 %
+SECONDARY           : 44.000000 %
+EMOTIONS            : 14.000000 %
+
+259 words total

@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    ask ask say ask say ask say ask ask
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now moment tonight now season
+PRIMARY:SENSATION:SOUND                                          4
+    bell ringin bell bell
+PRIMARY:SENSATION:VISION                                         4
+    lamp light watch looked
+SECONDARY:ABSTRACTION                                            4
+    learning knew know surely
+PRIMARY:NEED:SEX                                                 3
+    kissed fondly caressing
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    swinging springs spring
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    gate bridge
+PRIMARY:NEED:ORALITY                                             2
+    cooked salad
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    lesson
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+SECONDARY:MORAL IMPERATIVE                                       1
+    morale
+EMOTIONS:GLORY                                                   1
+    wonderful
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    splashing
+
+PRIMARY             : 51.162791 %
+SECONDARY           : 46.511628 %
+EMOTIONS            : 2.325581 %
+
+233 words total

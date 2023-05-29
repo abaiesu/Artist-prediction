@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    away away long apart inside long away back at back off over close far away away away
+PRIMARY:SENSATION:VISION                                         7
+    blue blue blue looked see lookin lookin
+SECONDARY:ABSTRACTION                                            6
+    thinkin thought learned know true may
+EMOTIONS:POSITIVE AFFECT                                         6
+    relief relief fun relief relief relief
+PRIMARY:NEED:ORALITY                                             6
+    swallow swallow swallow swallow swallow swallow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won won pay won won
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again when past time hours
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    teach admit tell tell said
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    foot face
+EMOTIONS:ANXIETY                                                 2
+    worries worried
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    swim
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:RESTRAINT                                              1
+    bar
+EMOTIONS:SADNESS                                                 1
+    sad
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 17.647059 %
+
+240 words total

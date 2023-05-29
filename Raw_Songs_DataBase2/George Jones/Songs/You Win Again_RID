@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then again everybody again now soon again again
+SECONDARY:ABSTRACTION                                            5
+    know knew cause true guess
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    win win win win
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out over round
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:AFFECTION                                               3
+    like love love
+PRIMARY:SENSATION:VISION                                         2
+    seen see
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:AGGRESSION                                              2
+    blame complain
+EMOTIONS:GLORY                                                   1
+    great
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 55.555556 %
+EMOTIONS            : 19.444444 %
+
+117 words total

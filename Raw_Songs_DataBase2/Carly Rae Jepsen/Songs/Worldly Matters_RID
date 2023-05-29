@@ -1,0 +1,42 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    16
+    cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry
+EMOTIONS:SADNESS                                                 8
+    sorry sorry sorry sorry sorry sorry sorry sorry
+SECONDARY:TEMPORAL REFERENCES                                    6
+    weeks time when time time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at at at at at
+SECONDARY:ABSTRACTION                                            3
+    think plans something
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street road
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    swept swept
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree higher
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:VISION                                         1
+    pink
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    twilight
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talked
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    ditching
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+
+PRIMARY             : 27.777778 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 46.296296 %
+
+258 words total

@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everybody when then everybody again again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    front front close front
+SECONDARY:ABSTRACTION                                            3
+    know know real
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    shake shake shake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won gain buy
+PRIMARY:SENSATION:VISION                                         2
+    see look
+PRIMARY:SENSATION:SOUND                                          2
+    music bangin
+EMOTIONS:AGGRESSION                                              2
+    hits angry
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    education tell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    guitar guitar
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:NEED:SEX                                                 1
+    fuckin
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:SENSATION:COLD                                           1
+    cool
+
+PRIMARY             : 44.117647 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 14.705882 %
+
+173 words total

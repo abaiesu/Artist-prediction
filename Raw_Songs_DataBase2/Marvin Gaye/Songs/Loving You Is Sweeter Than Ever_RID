@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when every when when ever ever ever ever ever ever ever ever
+EMOTIONS:AFFECTION                                              11
+    love loved loving loving love loving loving loving loving loving loving
+PRIMARY:SENSATION:TASTE                                          8
+    sweeter sweeter sweeter sweeter sweeter sweeter sweeter sweeter
+SECONDARY:ABSTRACTION                                            7
+    true truly know know know know know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    met meeting shared said said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    built found try try
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad satisfy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    within away
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 23.636364 %
+SECONDARY           : 50.909091 %
+EMOTIONS            : 25.454545 %
+
+221 words total

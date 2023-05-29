@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    front at front
+PRIMARY:NEED:ORALITY                                             2
+    consume feed
+EMOTIONS:ANXIETY                                                 2
+    avoid desperate
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fading
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wakes
+EMOTIONS:SADNESS                                                 1
+    tragedy
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hunger
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+EMOTIONS:GLORY                                                   1
+    triumph
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 12.500000 %
+EMOTIONS            : 25.000000 %
+
+75 words total

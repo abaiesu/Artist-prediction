@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    money price pay price paying
+SECONDARY:ABSTRACTION                                            4
+    know cause cause cause
+EMOTIONS:AFFECTION                                               4
+    married married married married
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said called say
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when time
+EMOTIONS:AGGRESSION                                              2
+    gun robbed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window gates
+SECONDARY:RESTRAINT                                              1
+    prison
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 11.538462 %
+SECONDARY           : 65.384615 %
+EMOTIONS            : 23.076923 %
+
+149 words total

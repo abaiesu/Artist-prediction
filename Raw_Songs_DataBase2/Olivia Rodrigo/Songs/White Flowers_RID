@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               3
+    love affection love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say call told
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything now now
+SECONDARY:ABSTRACTION                                            3
+    know cause know
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep crazy
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+EMOTIONS:SADNESS                                                 1
+    weep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    built
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 20.000000 %
+
+106 words total

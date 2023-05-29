@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               4
+    friends appreciate love favorite
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    finished making
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here here
+SECONDARY:ABSTRACTION                                            1
+    almost
+PRIMARY:NEED:ORALITY                                             1
+    cookies
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    gifts
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:ORDER                                                  1
+    classics
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 40.000000 %
+
+70 words total

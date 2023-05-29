@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    side beside out at at out at back back at at
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time when now ever ever ever then while when ever
+PRIMARY:SENSATION:VISION                                         7
+    shine look see tan picture glitter glitter
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    makin make won buy makin find
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell said meet sayin explain excuse
+PRIMARY:NEED:ORALITY                                             6
+    liquor ham tit eatin drinkin tea
+EMOTIONS:AFFECTION                                               5
+    favorite love like like pat
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    jumpin mountain flyin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door lane step
+EMOTIONS:GLORY                                                   3
+    prince gold gold
+SECONDARY:ABSTRACTION                                            3
+    think believe cause
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall recline
+PRIMARY:SENSATION:HARD                                           2
+    irony iron
+EMOTIONS:AGGRESSION                                              2
+    kill strike
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sparkle hot
+PRIMARY:SENSATION:SOFT                                           1
+    mild
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    pitter
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:NEED:SEX                                                 1
+    bitch
+
+PRIMARY             : 54.878049 %
+SECONDARY           : 32.926829 %
+EMOTIONS            : 12.195122 %
+
+443 words total

@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    inside inside inside inside along along long side out out inside inside inside inside along along long long
+SECONDARY:TEMPORAL REFERENCES                                    6
+    week when already while moment hourglass
+PRIMARY:SENSATION:HARD                                           5
+    stoned stoned stoned stoned stoned
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won claim won won
+PRIMARY:SENSATION:VISION                                         3
+    picture star see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    skinty heels body
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:GLORY                                                   2
+    genius brilliance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high hills
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk saying
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    suns
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrills
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chancing
+
+PRIMARY             : 65.517241 %
+SECONDARY           : 25.862069 %
+EMOTIONS            : 8.620690 %
+
+246 words total

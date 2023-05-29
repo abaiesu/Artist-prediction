@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    behind here place west place
+PRIMARY:SENSATION:SOUND                                          3
+    loud ringing bell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands hand hand
+PRIMARY:NEED:ORALITY                                             2
+    teeth feed
+SECONDARY:ABSTRACTION                                            2
+    why knows
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    cave holes
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shakes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+EMOTIONS:AFFECTION                                               1
+    dear
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+
+PRIMARY             : 79.166667 %
+SECONDARY           : 12.500000 %
+EMOTIONS            : 8.333333 %
+
+76 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    at away at away away here here away away away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    find won trying find won won
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell share tell tell tell
+EMOTIONS:AGGRESSION                                              4
+    hurt harm harm harm
+SECONDARY:ABSTRACTION                                            3
+    know know knew
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time sometimes
+PRIMARY:SENSATION:VISION                                         3
+    look see see
+EMOTIONS:ANXIETY                                                 3
+    scared cares fears
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms arms arms
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    safe safe safe
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 46.938776 %
+SECONDARY           : 36.734694 %
+EMOTIONS            : 16.326531 %
+
+277 words total

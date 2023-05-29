@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long south back back where
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    says aids told
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when times
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game games
+SECONDARY:ABSTRACTION                                            2
+    almost knows
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high heaven
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrated
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:AGGRESSION                                              1
+    gun
+PRIMARY:SENSATION:SOUND                                          1
+    music
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swing
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revelation
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 17.391304 %
+
+125 words total

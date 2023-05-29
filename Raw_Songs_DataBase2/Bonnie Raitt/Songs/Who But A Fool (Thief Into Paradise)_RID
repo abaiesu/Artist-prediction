@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everything ever now everybody old
+SECONDARY:ABSTRACTION                                            5
+    know knows knows thinkin them
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell tell tell tell
+EMOTIONS:AFFECTION                                               4
+    loves like love like
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+EMOTIONS:AGGRESSION                                              2
+    damage steal
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:GLORY                                                   1
+    wonderin
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    deadly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+
+PRIMARY             : 19.354839 %
+SECONDARY           : 54.838710 %
+EMOTIONS            : 25.806452 %
+
+167 words total

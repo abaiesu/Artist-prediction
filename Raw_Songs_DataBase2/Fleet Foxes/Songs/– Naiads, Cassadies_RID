@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    accepting offer said gift
+EMOTIONS:AGGRESSION                                              3
+    stole doubt doubt
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when older
+PRIMARY:SENSATION:SOUND                                          2
+    ring voice
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire heat
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+SECONDARY:MORAL IMPERATIVE                                       1
+    virtue
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 21.052632 %
+
+79 words total

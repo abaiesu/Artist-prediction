@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    place where place at close here open away inside far away far away
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now again then when once when now now again
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   7
+    wings rise wings wings wings wings rise
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find find won reaching
+PRIMARY:SENSATION:VISION                                         4
+    stars see shine light
+EMOTIONS:SADNESS                                                 3
+    sad sad sad
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    protect tell meet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes arms
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:SOFT                                           1
+    velvet
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washed
+
+PRIMARY             : 59.615385 %
+SECONDARY           : 32.692308 %
+EMOTIONS            : 7.692308 %
+
+178 words total

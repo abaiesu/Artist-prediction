@@ -1,0 +1,20 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    ask said speak speak ask said speak speak speak speak
+PRIMARY:SENSATION:SOUND                                          6
+    hear hear hear hear hear hear
+PRIMARY:SENSATION:VISION                                         6
+    see see see see see see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sold
+PRIMARY:NEED:ORALITY                                             1
+    thirst
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 48.148148 %
+EMOTIONS            : 3.703704 %
+
+82 words total

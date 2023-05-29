@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    aside far where at closet at closet
+PRIMARY:SENSATION:VISION                                         4
+    light shines light shines
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    sink fall fall
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meet say say
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once moment time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    poem yell yell
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep depths
+SECONDARY:ABSTRACTION                                            2
+    somewhat reason
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shaking shaking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    finished
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    waters
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floating
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+EMOTIONS:AGGRESSION                                              1
+    hurts
+
+PRIMARY             : 64.864865 %
+SECONDARY           : 24.324324 %
+EMOTIONS            : 10.810811 %
+
+148 words total

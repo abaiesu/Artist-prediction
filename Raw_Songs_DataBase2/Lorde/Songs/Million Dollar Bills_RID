@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            7
+    know know cause know know know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time now now now now
+PRIMARY:SENSATION:VISION                                         4
+    colours watch colours watch
+EMOTIONS:AGGRESSION                                              2
+    cruel hurt
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unlimited
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spines
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 31.034483 %
+SECONDARY           : 48.275862 %
+EMOTIONS            : 20.689655 %
+
+175 words total

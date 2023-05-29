@@ -1,0 +1,26 @@
+PRIMARY:NEED:ORALITY                                            12
+    starving eat starving drink starving starving starving roasted peanuts starving starving starving
+PRIMARY:SENSATION:HARD                                           8
+    stoned stoned stoned stoned stoned stoned stoned stoned
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    ridgewood ridgewood ridgewood ridgewood
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asking
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:TOUCH                                          1
+    scratching
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    off
+SECONDARY:ABSTRACTION                                            1
+    deciding
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+EMOTIONS:AGGRESSION                                              1
+    kills
+
+PRIMARY             : 87.096774 %
+SECONDARY           : 9.677419 %
+EMOTIONS            : 3.225806 %
+
+135 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    overtake out over over between open out between out out
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say say speak speak say say say say
+SECONDARY:ORDER                                                  7
+    order order order order order order order
+SECONDARY:TEMPORAL REFERENCES                                    5
+    quickly today today time time
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    lifts fly fly fly fly
+PRIMARY:NEED:ORALITY                                             4
+    tongue mouths tongue tongue
+SECONDARY:RESTRAINT                                              3
+    shut control caught
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep sleep sleep
+EMOTIONS:AGGRESSION                                              3
+    cut cut cut
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead stagnant death
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+EMOTIONS:AFFECTION                                               1
+    loves
+EMOTIONS:SADNESS                                                 1
+    tragedy
+SECONDARY:ABSTRACTION                                            1
+    thought
+
+PRIMARY             : 47.272727 %
+SECONDARY           : 43.636364 %
+EMOTIONS            : 9.090909 %
+
+308 words total

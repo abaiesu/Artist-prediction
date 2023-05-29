@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:COLD                                          24
+    cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool cool
+SECONDARY:ABSTRACTION                                            5
+    knows something learn something know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    bought money buy money
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:NEED:ORALITY                                             4
+    honey dine honey honey
+PRIMARY:SENSATION:VISION                                         4
+    see see look see
+PRIMARY:SENSATION:ODOR                                           2
+    cologne smellin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance sing
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when already
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    toes
+EMOTIONS:GLORY                                                   1
+    wonderin
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 66.071429 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 12.500000 %
+
+261 words total

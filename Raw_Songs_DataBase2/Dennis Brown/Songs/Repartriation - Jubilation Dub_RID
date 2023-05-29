@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    back back back back back back back back back back back back back back
+SECONDARY:RESTRAINT                                             13
+    must must must must must must must must stop must must must must
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say say say say say say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everyone everyone when time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    china head head china
+PRIMARY:NEED:ORALITY                                             3
+    bread salt pot
+SECONDARY:MORAL IMPERATIVE                                       2
+    right righteous
+EMOTIONS:AFFECTION                                               1
+    pity
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    float
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+EMOTIONS:ANXIETY                                                 1
+    dread
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+
+PRIMARY             : 47.169811 %
+SECONDARY           : 49.056604 %
+EMOTIONS            : 3.773585 %
+
+324 words total

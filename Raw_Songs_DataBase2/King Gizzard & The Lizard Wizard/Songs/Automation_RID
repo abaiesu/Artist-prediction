@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            3
+    caused cause sure
+PRIMARY:NEED:SEX                                                 2
+    fuck kiss
+EMOTIONS:GLORY                                                   2
+    great glory
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell talkin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work prepare
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    migration
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:ORDER                                                  1
+    system
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rotation
+PRIMARY:SENSATION:VISION                                         1
+    light
+EMOTIONS:AFFECTION                                               1
+    friends
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everyone
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 16.666667 %
+
+107 words total

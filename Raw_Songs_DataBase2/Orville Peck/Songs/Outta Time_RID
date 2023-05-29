@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    time time time old now time time time time time time time
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    met tells say telling meet tells say conversation please
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    headed head headed headed headed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line line line
+SECONDARY:ABSTRACTION                                            3
+    something guess know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off back
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sunrise
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:SADNESS                                                 1
+    woe
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    shoot
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 34.883721 %
+SECONDARY           : 58.139535 %
+EMOTIONS            : 6.976744 %
+
+192 words total

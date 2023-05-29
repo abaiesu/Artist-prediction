@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:SOUND                                         11
+    heart heart heart heart heart heart heart heart heart heart heart
+SECONDARY:ABSTRACTION                                            9
+    cause cause think thinking cause know true may cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    belongs won find belongs belongs
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out straight
+PRIMARY:SENSATION:VISION                                         3
+    see light shining
+EMOTIONS:AFFECTION                                               2
+    love friends
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    telling say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+
+PRIMARY             : 48.780488 %
+SECONDARY           : 46.341463 %
+EMOTIONS            : 4.878049 %
+
+194 words total

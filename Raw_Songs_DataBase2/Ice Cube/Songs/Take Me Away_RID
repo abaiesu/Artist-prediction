@@ -1,0 +1,60 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       25
+    away away away away away where front back back back away away away away away west point at away away away away away away away
+SECONDARY:ABSTRACTION                                           12
+    know know plan learn may why know know cause cause know think
+PRIMARY:SENSATION:VISION                                         8
+    scene green see view blue blue glistenin vision
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today sometimes now now now when
+PRIMARY:NEED:ORALITY                                             6
+    thirsty feed vomit stomach eats spit
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    educate tell service please speak
+PRIMARY:NEED:SEX                                                 5
+    fucked fuck bitch fuck fuckin
+EMOTIONS:AFFECTION                                               4
+    mercy like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try money make money
+PRIMARY:SENSATION:COLD                                           4
+    ice ice ice ice
+SECONDARY:MORAL IMPERATIVE                                       3
+    right legal should
+EMOTIONS:AGGRESSION                                              3
+    beat kill murder
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dream mad
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    step step avenue
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees brain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    swoop swoop
+EMOTIONS:ANXIETY                                                 2
+    worry scared
+SECONDARY:ORDER                                                  2
+    system listenin
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journey
+PRIMARY:SENSATION:SOUND                                          1
+    bellevue
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rollin
+SECONDARY:RESTRAINT                                              1
+    prison
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+
+PRIMARY             : 59.259259 %
+SECONDARY           : 30.555556 %
+EMOTIONS            : 10.185185 %
+
+548 words total

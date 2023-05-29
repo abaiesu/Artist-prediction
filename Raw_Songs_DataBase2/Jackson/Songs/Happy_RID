@@ -1,0 +1,34 @@
+EMOTIONS:POSITIVE AFFECT                                        19
+    happy happy smiled happy happy happy happy smiled happy happy happy smiling happy happy happy happy happy happy happy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    close away here where here where where between space at where
+EMOTIONS:SADNESS                                                 9
+    sadness sadness sadness sadness sadness lonely sadness sadness sadness
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then when while when while now time now
+PRIMARY:SENSATION:VISION                                         4
+    blues see see see
+EMOTIONS:AFFECTION                                               4
+    like love like love
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:NEED:ORALITY                                             2
+    candy candy
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chased
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+SECONDARY:ABSTRACTION                                            1
+    choice
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silently
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 15.151515 %
+EMOTIONS            : 48.484848 %
+
+164 words total

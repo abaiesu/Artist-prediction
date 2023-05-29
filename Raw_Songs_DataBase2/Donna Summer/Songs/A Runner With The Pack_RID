@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            8
+    know know sure cause quality cause effective know
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    attentive perceptive fair stimulates attentive perceptive
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everything everything every time every
+EMOTIONS:AFFECTION                                               5
+    like like affective like like
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    protective confidence social protective
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes selective selective
+EMOTIONS:GLORY                                                   3
+    gold magnificent great
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    side square
+EMOTIONS:AGGRESSION                                              1
+    steals
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    stir
+
+PRIMARY             : 30.232558 %
+SECONDARY           : 46.511628 %
+EMOTIONS            : 23.255814 %
+
+230 words total

@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    distant off round back away distant
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    wanderer wandering travel wanderer wandering
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    feet head neck feet head
+PRIMARY:SENSATION:VISION                                         3
+    star see star
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever again ever
+PRIMARY:NEED:ORALITY                                             3
+    corner corner swallow
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds clouds
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above above
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    shore shore
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    labourer work
+SECONDARY:RESTRAINT                                              2
+    prisoner lock
+EMOTIONS:AGGRESSION                                              1
+    torn
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+SECONDARY:ABSTRACTION                                            1
+    them
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    steps
+
+PRIMARY             : 74.418605 %
+SECONDARY           : 20.930233 %
+EMOTIONS            : 4.651163 %
+
+150 words total

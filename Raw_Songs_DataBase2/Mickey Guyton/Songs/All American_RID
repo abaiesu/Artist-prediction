@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         6
+    lighters stars lights brown stars stars
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    lines road windows floors
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back at between at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    football hand
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game dance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high sky
+PRIMARY:NEED:ORALITY                                             2
+    beer champagne
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+SECONDARY:ABSTRACTION                                            1
+    different
+
+PRIMARY             : 83.333333 %
+SECONDARY           : 6.666667 %
+EMOTIONS            : 10.000000 %
+
+261 words total

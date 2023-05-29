@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    open out out at back open over open
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now every time now now now when now
+EMOTIONS:AGGRESSION                                              4
+    cut cut stole cut
+EMOTIONS:AFFECTION                                               4
+    like like love love
+PRIMARY:SENSATION:VISION                                         4
+    watching sunlight shining see
+SECONDARY:ABSTRACTION                                            3
+    thinking know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    corpse face
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dream
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speaking
+PRIMARY:NEED:ORALITY                                             1
+    spitting
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+EMOTIONS:ANXIETY                                                 1
+    cowards
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wildest
+PRIMARY:NEED:SEX                                                 1
+    sexual
+
+PRIMARY             : 51.111111 %
+SECONDARY           : 28.888889 %
+EMOTIONS            : 20.000000 %
+
+222 words total

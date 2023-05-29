@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    long here beside behind here where open where where
+SECONDARY:ABSTRACTION                                            8
+    knowin them them cause knowin something know why
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    6
+    low bottom low bottom low bottom
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everything ever everything ever everything ever
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    top highway top top
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    haired body arms
+EMOTIONS:AFFECTION                                               3
+    like like love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    cost cost cost
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rivers sea
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rollin
+EMOTIONS:SADNESS                                                 1
+    lonesome
+
+PRIMARY             : 54.901961 %
+SECONDARY           : 37.254902 %
+EMOTIONS            : 7.843137 %
+
+201 words total

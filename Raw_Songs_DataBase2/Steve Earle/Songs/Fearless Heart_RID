@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               6
+    kinda love darlin love kind like
+EMOTIONS:ANXIETY                                                 5
+    worry fearless scary fearless fearless
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    close back back out nearly
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told tell promise admit
+SECONDARY:TEMPORAL REFERENCES                                    4
+    soon again sometimes times
+EMOTIONS:AGGRESSION                                              4
+    broken hurt kill shot
+SECONDARY:ABSTRACTION                                            3
+    cause know think
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work try
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 31.818182 %
+SECONDARY           : 34.090909 %
+EMOTIONS            : 34.090909 %
+
+151 words total

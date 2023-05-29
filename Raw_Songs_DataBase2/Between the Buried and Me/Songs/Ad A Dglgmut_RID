@@ -1,0 +1,54 @@
+PRIMARY:SENSATION:SOUND                                         10
+    noise noise loud loud loud loud noise sounds hear noise
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    scream sing violin scream scream scream cries scream scream sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    makes making record makes capable make make make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when hours now time while
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    relaxing static silent death silent
+SECONDARY:ABSTRACTION                                            3
+    thought think thinking
+EMOTIONS:AGGRESSION                                              3
+    shot beat shoot
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    follow follow
+SECONDARY:RESTRAINT                                              2
+    enclosed shut
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    space along
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes skin
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+EMOTIONS:AFFECTION                                               1
+    lovely
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:SENSATION:SOFT                                           1
+    tingling
+PRIMARY:SENSATION:COLD                                           1
+    freeze
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pour
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:NEED:SEX                                                 1
+    rape
+PRIMARY:SENSATION:VISION                                         1
+    scene
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 31.818182 %
+EMOTIONS            : 22.727273 %
+
+160 words total

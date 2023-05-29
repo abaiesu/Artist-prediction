@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here round at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used used pay
+SECONDARY:TEMPORAL REFERENCES                                    3
+    week every every
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call speak call
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor door wall
+PRIMARY:NEED:ORALITY                                             2
+    corner coffee
+SECONDARY:ABSTRACTION                                            2
+    cause probably
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 0.000000 %
+
+93 words total

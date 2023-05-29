@@ -1,0 +1,44 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       11
+    dead dead die dead dead die dead dead die dead dead
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell sale tell tell sale tell tell sale tell tell
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today while once while then when times now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where at long long long where where
+EMOTIONS:AGGRESSION                                              4
+    killer murder murder murder
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face face bones
+SECONDARY:RESTRAINT                                              3
+    jail jail jail
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    birds birds birds
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile glad
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+SECONDARY:ABSTRACTION                                            1
+    may
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:NEED:SEX                                                 1
+    leers
+EMOTIONS:ANXIETY                                                 1
+    tremble
+PRIMARY:SENSATION:TASTE                                          1
+    tasted
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 49.180328 %
+SECONDARY           : 36.065574 %
+EMOTIONS            : 14.754098 %
+
+195 words total

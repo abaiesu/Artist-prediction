@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now ever
+SECONDARY:ABSTRACTION                                            2
+    them know
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:SADNESS                                                 1
+    alas
+SECONDARY:ORDER                                                  1
+    class
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:RESTRAINT                                              1
+    guarded
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forevermore
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+EMOTIONS:GLORY                                                   1
+    majestic
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 15.384615 %
+
+65 words total

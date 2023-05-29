@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:SOUND                                         38
+    music music music music music music music music music music music music music music music music music music music heart music music music music music music hear music music music music music music music music music music music
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    make make won make make make make make reach make make make make makes
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time time time now time sometimes sometimes everybody now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    dance cry dance shout dance play
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    off here out off here
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say tell tell
+PRIMARY:NEED:ORALITY                                             2
+    lips eat
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms feet
+SECONDARY:ABSTRACTION                                            2
+    understand think
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall wall
+SECONDARY:ORDER                                                  2
+    listen neat
+PRIMARY:NEED:SEX                                                 1
+    kissed
+EMOTIONS:GLORY                                                   1
+    proud
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 55.319149 %
+SECONDARY           : 34.042553 %
+EMOTIONS            : 10.638298 %
+
+281 words total

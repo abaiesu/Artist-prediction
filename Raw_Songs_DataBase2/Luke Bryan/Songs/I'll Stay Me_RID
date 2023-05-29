@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    southern long out far where over
+EMOTIONS:AFFECTION                                               5
+    like like love love loving
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    makes make make make make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old when tonight sometimes old
+PRIMARY:SENSATION:VISION                                         3
+    blue see see
+PRIMARY:NEED:ORALITY                                             3
+    caviar biscuit potato
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+SECONDARY:ABSTRACTION                                            2
+    knows believe
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play guitar
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    conversation
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:TOUCH                                          1
+    touching
+PRIMARY:SENSATION:HARD                                           1
+    hardworking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+
+PRIMARY             : 54.347826 %
+SECONDARY           : 28.260870 %
+EMOTIONS            : 17.391304 %
+
+241 words total

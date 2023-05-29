@@ -1,0 +1,50 @@
+SECONDARY:ABSTRACTION                                           30
+    believe believe cause believe believe qualify believe believe believe believe believe them believe cause believe believe qualify believe believe believe believe believe believe qualify believe believe believe believe believe believe
+PRIMARY:SENSATION:VISION                                         9
+    look lights looks look lights looks look lights looks
+SECONDARY:MORAL IMPERATIVE                                       7
+    oughta oughta should oughta should oughta should
+EMOTIONS:AFFECTION                                               7
+    friends love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old ever ever years every ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make working work spent
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under under under
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long off
+PRIMARY:NEED:ANALITY                                             2
+    dirt dirt
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    forgive gift
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 30.588235 %
+SECONDARY           : 58.823529 %
+EMOTIONS            : 10.588235 %
+
+346 words total

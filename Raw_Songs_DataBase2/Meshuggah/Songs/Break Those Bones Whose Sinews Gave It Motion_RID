@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                             12
+    violent vengeance hate hostility grudge harm rage loathing resentment revenge hateful murderous
+PRIMARY:SENSATION:SOUND                                          8
+    echo soundtrack sounds chords deafening resound chords deafening
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    callow declaration request
+EMOTIONS:ANXIETY                                                 2
+    shudder shudder
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    vibrate twisted
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    oscillation oscillation
+SECONDARY:ABSTRACTION                                            1
+    thoughts
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    pointless
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:SADNESS                                                 1
+    dismal
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:NEED:ORALITY                                             1
+    spite
+EMOTIONS:POSITIVE AFFECT                                         1
+    grinding
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+
+PRIMARY             : 44.736842 %
+SECONDARY           : 13.157895 %
+EMOTIONS            : 42.105263 %
+
+141 words total

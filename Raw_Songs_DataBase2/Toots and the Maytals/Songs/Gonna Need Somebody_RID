@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every every then while then time now
+EMOTIONS:AFFECTION                                               6
+    love loved loved loved loved loved
+SECONDARY:ABSTRACTION                                            3
+    know true true
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    told told called
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 11.538462 %
+SECONDARY           : 57.692308 %
+EMOTIONS            : 30.769231 %
+
+122 words total

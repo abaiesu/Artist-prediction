@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where long long long away where long
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now once old till now once old
+SECONDARY:ABSTRACTION                                            4
+    think think think think
+PRIMARY:SENSATION:VISION                                         3
+    shine see shine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    purchase purchase
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:AGGRESSION                                              1
+    destruction
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    float
+
+PRIMARY             : 46.428571 %
+SECONDARY           : 46.428571 %
+EMOTIONS            : 7.142857 %
+
+117 words total

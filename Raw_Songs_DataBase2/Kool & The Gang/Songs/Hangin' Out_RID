@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    where where over where out out out out out out out
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   7
+    hangin hangin hangin hangin hangin hangin hangin
+PRIMARY:SENSATION:SOUND                                          6
+    music loud hear music music music
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everybody everybody everybody time everybody time
+PRIMARY:SENSATION:VISION                                         5
+    light shine see see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    shake shake shake shake
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancin playing dancing
+PRIMARY:SENSATION:HARD                                           3
+    rock rock rock
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    bodies bodies bodies
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    build build build
+SECONDARY:ABSTRACTION                                            1
+    cause
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+
+PRIMARY             : 74.137931 %
+SECONDARY           : 18.965517 %
+EMOTIONS            : 6.896552 %
+
+236 words total

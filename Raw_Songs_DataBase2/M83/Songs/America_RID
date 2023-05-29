@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    while now months months when time
+SECONDARY:ABSTRACTION                                            4
+    know know know fact
+PRIMARY:SENSATION:VISION                                         4
+    watching see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at between between
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    told described say
+SECONDARY:ORDER                                                  3
+    listen listen listen
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy fainted
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:NEED:ORALITY                                             1
+    eating
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 36.666667 %
+SECONDARY           : 56.666667 %
+EMOTIONS            : 6.666667 %
+
+161 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    places out out front place where space over place where space over
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time now now now time when when time when when
+EMOTIONS:AFFECTION                                               8
+    darling love love love friend love loved friend
+SECONDARY:ABSTRACTION                                            6
+    know important cause truth cause cause
+PRIMARY:SENSATION:VISION                                         4
+    watching image see see
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    treated please taught
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sung
+EMOTIONS:AGGRESSION                                              1
+    unkindly
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    melody
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 20.833333 %
+
+280 words total

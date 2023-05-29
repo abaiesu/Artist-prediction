@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at near near where near near far away near behind away point
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    taught say called speak said admitting
+PRIMARY:SENSATION:VISION                                         5
+    light seen light emerald see
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now old now now
+PRIMARY:NEED:ORALITY                                             3
+    lemon lemon drunk
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    swim water sprinkler
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed death rest
+EMOTIONS:ANXIETY                                                 2
+    alarm afraid
+SECONDARY:ABSTRACTION                                            2
+    evidence known
+EMOTIONS:AGGRESSION                                              1
+    struck
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    hysterical
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+EMOTIONS:GLORY                                                   1
+    wonders
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    machines
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flew
+PRIMARY:SENSATION:TASTE                                          1
+    bittersweet
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 65.384615 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 9.615385 %
+
+209 words total

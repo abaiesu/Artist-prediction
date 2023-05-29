@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at out over somewhere over somewhere
+PRIMARY:SENSATION:VISION                                         5
+    look blue see blue see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes arms eyes arms
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everywhere when everywhere when
+SECONDARY:ABSTRACTION                                            3
+    cause them them
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild wild
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:TASTE                                          1
+    sweethearts
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    darkened
+PRIMARY:NEED:ORALITY                                             1
+    corner
+
+PRIMARY             : 60.526316 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 18.421053 %
+
+144 words total

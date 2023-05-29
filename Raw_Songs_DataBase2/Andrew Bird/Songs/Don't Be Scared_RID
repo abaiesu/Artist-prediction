@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when whenever when once
+SECONDARY:ABSTRACTION                                            3
+    thinks thinks believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    round at out
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    bird branches trees
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    wake wake wake
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall falling
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    wave rolling
+PRIMARY:SENSATION:SOFT                                           2
+    soft whisper
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:NEED:ORALITY                                             1
+    swallows
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:AGGRESSION                                              1
+    beaks
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:SENSATION:SOUND                                          1
+    rings
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 8.823529 %
+
+80 words total

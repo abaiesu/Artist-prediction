@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talk talk talk talk tell
+SECONDARY:TEMPORAL REFERENCES                                    5
+    early time everybody now now
+EMOTIONS:AFFECTION                                               4
+    lovin love like love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make makes trying won
+SECONDARY:ABSTRACTION                                            3
+    think think know
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+EMOTIONS:AGGRESSION                                              2
+    opposed war
+EMOTIONS:SADNESS                                                 2
+    lonesome lonesome
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    nightmare
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 12.903226 %
+SECONDARY           : 61.290323 %
+EMOTIONS            : 25.806452 %
+
+236 words total

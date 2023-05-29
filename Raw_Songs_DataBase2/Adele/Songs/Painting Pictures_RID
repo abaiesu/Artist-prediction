@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:SOUND                                         10
+    heart rhythm heartbeat heart drum heart heart drum heart heart
+PRIMARY:SENSATION:VISION                                         7
+    pictures see pictures pictures lighting pictures pictures
+EMOTIONS:GLORY                                                   6
+    golden glory golden golden golden golden
+EMOTIONS:SADNESS                                                 5
+    painting painting painting painting painting
+PRIMARY:SENSATION:TOUCH                                          4
+    scratch itch scratch itch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    making using finish
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire burning
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:TASTE                                          1
+    spice
+EMOTIONS:AFFECTION                                               1
+    welcome
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sunrise
+SECONDARY:ORDER                                                  1
+    simple
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+
+PRIMARY             : 58.695652 %
+SECONDARY           : 10.869565 %
+EMOTIONS            : 30.434783 %
+
+159 words total

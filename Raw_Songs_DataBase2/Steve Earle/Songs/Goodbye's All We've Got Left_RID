@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            8
+    cause cause think guess cause cause know cause
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell call talkin say say call say
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when years today
+EMOTIONS:AFFECTION                                               4
+    goodbye like goodbye goodbye
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    open longer out somewhere
+PRIMARY:SENSATION:SOUND                                          2
+    heartache rings
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won try
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+EMOTIONS:ANXIETY                                                 1
+    worry
+
+PRIMARY             : 22.857143 %
+SECONDARY           : 62.857143 %
+EMOTIONS            : 14.285714 %
+
+179 words total

@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    over here over out at at where where over here over out
+SECONDARY:ABSTRACTION                                            8
+    something know think cause cause know know cause
+EMOTIONS:AFFECTION                                               4
+    love like love like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell say say
+SECONDARY:MORAL IMPERATIVE                                       3
+    ought right right
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while sometimes while
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buy buy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+PRIMARY:SENSATION:VISION                                         2
+    lookin look
+
+PRIMARY             : 43.902439 %
+SECONDARY           : 46.341463 %
+EMOTIONS            : 9.756098 %
+
+228 words total

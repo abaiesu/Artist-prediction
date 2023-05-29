@@ -1,0 +1,28 @@
+SECONDARY:RESTRAINT                                              9
+    stop stop stop stop stop stop stop stop stop
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now now now now now now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    side out back
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    troubadours sing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sailor
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 63.333333 %
+EMOTIONS            : 10.000000 %
+
+138 words total

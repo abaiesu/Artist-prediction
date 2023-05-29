@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    long long back long away far long away long over over
+EMOTIONS:AFFECTION                                               5
+    love love darling like like
+SECONDARY:ABSTRACTION                                            5
+    sure sure cause know know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    declare allow said
+SECONDARY:TEMPORAL REFERENCES                                    3
+    years when when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    harps harps harps
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair hair
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shakes shakes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree tree
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistreating
+
+PRIMARY             : 53.658537 %
+SECONDARY           : 26.829268 %
+EMOTIONS            : 19.512195 %
+
+158 words total

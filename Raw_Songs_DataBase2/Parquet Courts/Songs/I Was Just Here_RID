@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    straight here here out place closed here here here here here
+SECONDARY:ABSTRACTION                                            4
+    plan understand thought know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes hair
+EMOTIONS:AGGRESSION                                              2
+    cut doubt
+PRIMARY:NEED:ORALITY                                             2
+    teeth rice
+SECONDARY:TEMPORAL REFERENCES                                    2
+    weeks time
+SECONDARY:RESTRAINT                                              2
+    stopping must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnt
+PRIMARY:SENSATION:TOUCH                                          1
+    brush
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comforts
+PRIMARY:SENSATION:TASTE                                          1
+    source
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 61.764706 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 8.823529 %
+
+124 words total

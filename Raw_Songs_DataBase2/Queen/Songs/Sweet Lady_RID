@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:TASTE                                         20
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    call treat call say call call say
+EMOTIONS:AFFECTION                                               5
+    like like like kind like
+SECONDARY:ABSTRACTION                                            3
+    believe believe believe
+PRIMARY:NEED:ORALITY                                             3
+    feed cheese eat
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything everything
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 57.777778 %
+SECONDARY           : 28.888889 %
+EMOTIONS            : 13.333333 %
+
+177 words total

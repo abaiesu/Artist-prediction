@@ -1,0 +1,32 @@
+PRIMARY:NEED:ORALITY                                            13
+    bite fast bite bite fast bite bite poison fast bite bite bite bite
+SECONDARY:TEMPORAL REFERENCES                                   12
+    clock when till when till clock when time every till clock when
+EMOTIONS:AGGRESSION                                              8
+    gunning strike kill gunning strike cutting gunning strike
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    aiming won won maker won won won
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    nearer place nearer
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    vein body brain
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet say
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+EMOTIONS:AFFECTION                                               1
+    goodbye
+
+PRIMARY             : 48.275862 %
+SECONDARY           : 36.206897 %
+EMOTIONS            : 15.517241 %
+
+232 words total

@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at at farther back at out at at at
+PRIMARY:SENSATION:VISION                                         3
+    pink blue picture
+EMOTIONS:AFFECTION                                               3
+    kind like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hung highway
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    cured won
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    mystics secrets
+SECONDARY:TEMPORAL REFERENCES                                    2
+    sometimes sometimes
+PRIMARY:SENSATION:TOUCH                                          1
+    rubbing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screens
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searchers
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    fringes
+SECONDARY:ABSTRACTION                                            1
+    guess
+SECONDARY:RESTRAINT                                              1
+    halt
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+EMOTIONS:AGGRESSION                                              1
+    shoved
+
+PRIMARY             : 67.567568 %
+SECONDARY           : 18.918919 %
+EMOTIONS            : 13.513514 %
+
+208 words total

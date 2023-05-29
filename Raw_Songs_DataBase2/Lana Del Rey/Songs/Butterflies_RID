@@ -1,0 +1,46 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 19
+    makes makes used make try used try reach try makes makes used make try makes makes used make try
+SECONDARY:TEMPORAL REFERENCES                                   18
+    tonight then everything everything already then every time time then everything everything already then everything everything already then
+SECONDARY:ABSTRACTION                                           17
+    know truth think know believe know thinking believe know thinking know know know sure think know thinking
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell say please say calling please say calling say calling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    outside out back outside at at out out
+PRIMARY:SENSATION:VISION                                         7
+    looking look see see see look see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door window door door
+EMOTIONS:AFFECTION                                               3
+    love like love
+PRIMARY:NEED:SEX                                                 3
+    kiss kiss kiss
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+EMOTIONS:AGGRESSION                                              2
+    deceive fight
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high above
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:ORDER                                                  1
+    constant
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 30.476190 %
+SECONDARY           : 62.857143 %
+EMOTIONS            : 6.666667 %
+
+560 words total

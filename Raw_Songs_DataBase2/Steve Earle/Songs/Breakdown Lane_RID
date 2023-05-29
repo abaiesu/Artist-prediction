@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now early now when now when now when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    cry cry cry sung cry cry cry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    trail lane lane road lane lane
+SECONDARY:ABSTRACTION                                            6
+    why why why why why why
+EMOTIONS:AGGRESSION                                              6
+    shotgun breakdown breakdown shotgun breakdown breakdown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    headlights headed headed headed headed
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say treat say treat say
+PRIMARY:SENSATION:VISION                                         4
+    watchin flashin see see
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spinnin spinnin
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow shadow
+SECONDARY:RESTRAINT                                              1
+    guard
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+
+PRIMARY             : 37.704918 %
+SECONDARY           : 36.065574 %
+EMOTIONS            : 26.229508 %
+
+190 words total

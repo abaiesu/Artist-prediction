@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    organic muscle bone hands feet eyes
+SECONDARY:ABSTRACTION                                            4
+    known known known known
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    succeed sweep
+EMOTIONS:AGGRESSION                                              2
+    exterminated cut
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:SENSATION:HARD                                           1
+    steel
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:NEED:ORALITY                                             1
+    meat
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+SECONDARY:RESTRAINT                                              1
+    bind
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 18.181818 %
+
+80 words total

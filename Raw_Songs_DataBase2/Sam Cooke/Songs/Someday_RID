@@ -1,0 +1,20 @@
+SECONDARY:ABSTRACTION                                            3
+    know true think
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+EMOTIONS:AFFECTION                                               2
+    love loving
+PRIMARY:SENSATION:VISION                                         1
+    blue
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 18.181818 %
+SECONDARY           : 63.636364 %
+EMOTIONS            : 18.181818 %
+
+60 words total

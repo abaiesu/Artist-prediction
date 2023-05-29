@@ -1,0 +1,62 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when when now tonight every now tonight
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    dancing horns clowns horns dancers dancing dancing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    position out out middle where outside
+PRIMARY:SENSATION:SOUND                                          5
+    music musician loud music music
+PRIMARY:SENSATION:VISION                                         4
+    bright star saw bright
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    street streets sidewalk sidewalk
+SECONDARY:ABSTRACTION                                            3
+    know them history
+SECONDARY:RESTRAINT                                              3
+    refusing bar bar
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arm arm handed
+EMOTIONS:AFFECTION                                               3
+    love love embracing
+EMOTIONS:POSITIVE AFFECT                                         3
+    happiness happy fun
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speaks says
+EMOTIONS:GLORY                                                   2
+    great wonderful
+PRIMARY:SENSATION:TASTE                                          2
+    sweetest sweet
+PRIMARY:NEED:ORALITY                                             2
+    porkie pork
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    cellars under
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed serenade
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hung tree
+EMOTIONS:ANXIETY                                                 2
+    dangerous dreadful
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swinging
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    lunatic
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driven
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowds
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:ORDER                                                  1
+    balancing
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    perceptions
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+
+PRIMARY             : 51.351351 %
+SECONDARY           : 25.675676 %
+EMOTIONS            : 22.972973 %
+
+276 words total

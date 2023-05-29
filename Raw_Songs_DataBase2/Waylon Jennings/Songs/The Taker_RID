@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    open across off long places off places
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    helper help talker talk talk granted
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    money won won make make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever time when ever time
+EMOTIONS:AFFECTION                                               4
+    kind lover love loved
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    attention charmer charm pretty
+SECONDARY:ABSTRACTION                                            4
+    known learned plannin cause
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hungerin higher higher
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doors bridges
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet body
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow slow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 46.938776 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 10.204082 %
+
+248 words total

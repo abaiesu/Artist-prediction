@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today every today today today every today every
+PRIMARY:SENSATION:VISION                                         7
+    look sunshine blue look shinin look sunshine
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at close close at
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met met met
+SECONDARY:ABSTRACTION                                            3
+    knowin may may
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 57.575758 %
+SECONDARY           : 42.424242 %
+EMOTIONS            : 0.000000 %
+
+96 words total

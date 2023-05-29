@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time now time everywhere when date then
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said say say says say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes try use pay
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:HARD                                           3
+    hard glass hard
+EMOTIONS:AGGRESSION                                              3
+    breakdown hurt broken
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body head body
+PRIMARY:SENSATION:SOFT                                           3
+    soft whispery delicate
+PRIMARY:NEED:ORALITY                                             3
+    food cake gut
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    bubble bath
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    bounce
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfaction
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    overtake
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 17.391304 %
+
+246 words total

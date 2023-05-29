@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      14
+    floor line line line door line line line floor line line line line line
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    over closet out out over closet out out
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now again every old again now again
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell say asking tell say say
+PRIMARY:NEED:ORALITY                                             6
+    drink beer whiskey drink corner corner
+SECONDARY:MORAL IMPERATIVE                                       6
+    shoulda shoulda shoulda shoulda shoulda shoulda
+EMOTIONS:AFFECTION                                               4
+    like goodbye goodbye goodbye
+PRIMARY:NEED:ANALITY                                             4
+    dirty mud dirty dirty
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found won found
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    hang hang hang
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    secrets secrets secrets
+EMOTIONS:SADNESS                                                 3
+    sorry sorry sorry
+PRIMARY:SENSATION:ODOR                                           2
+    smell perfume
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burned burned
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+PRIMARY:SENSATION:VISION                                         1
+    pink
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slide
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 30.666667 %
+EMOTIONS            : 9.333333 %
+
+354 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor wall hall
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything sometimes
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playin cry
+PRIMARY:SENSATION:VISION                                         2
+    blues look
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said help
+PRIMARY:SENSATION:SOUND                                          1
+    noisy
+EMOTIONS:AGGRESSION                                              1
+    bother
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blastin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 55.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 15.000000 %
+
+164 words total

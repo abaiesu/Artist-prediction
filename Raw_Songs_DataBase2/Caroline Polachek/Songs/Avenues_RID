@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         4
+    beams green star green
+EMOTIONS:AFFECTION                                               4
+    goodbye dearly dearly lover
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    between nearly nearly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreaming dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fading shadows
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    heat ashes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    avenues avenues
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above sky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    leaning
+EMOTIONS:ANXIETY                                                 1
+    trembling
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+EMOTIONS:SADNESS                                                 1
+    loner
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+
+PRIMARY             : 68.965517 %
+SECONDARY           : 10.344828 %
+EMOTIONS            : 20.689655 %
+
+100 words total

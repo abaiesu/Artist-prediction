@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        4
+    forever forever forever forever
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    grasp make grasp
+PRIMARY:SENSATION:HARD                                           3
+    rock steel rock
+EMOTIONS:AGGRESSION                                              2
+    fury battle
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head body
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    apart back
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    deadly deadly
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:SENSATION:SOUND                                          1
+    loud
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    comatose
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 59.259259 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 11.111111 %
+
+148 words total

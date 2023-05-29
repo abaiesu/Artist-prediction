@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    over at across apart back apart back straight apart back
+SECONDARY:ABSTRACTION                                            9
+    cause may why cause guessin cause may cause may
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    found work make work work work work work
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    bed slow slow slow slow slow slow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    hot burning fire ignites burn
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    pleasure confess pleasure say pleasure
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again when again when again
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    line door line bridge line
+PRIMARY:SENSATION:SOUND                                          4
+    heard snapped snapped snapped
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    spreading vibrate vibrate vibrate
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    steeped steeped heaven steeped
+EMOTIONS:AGGRESSION                                              2
+    whip broken
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head feet
+SECONDARY:MORAL IMPERATIVE                                       2
+    right morality
+PRIMARY:NEED:ANALITY                                             2
+    mess dirty
+PRIMARY:SENSATION:TASTE                                          2
+    tastin delicious
+PRIMARY:SENSATION:COLD                                           1
+    cool
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    madness
+PRIMARY:NEED:ORALITY                                             1
+    dishes
+SECONDARY:RESTRAINT                                              1
+    bound
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    watered
+PRIMARY:SENSATION:VISION                                         1
+    scenes
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 5.882353 %
+
+305 words total

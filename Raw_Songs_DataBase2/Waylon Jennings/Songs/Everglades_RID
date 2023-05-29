@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everglades everglades everglades everglades now years now then everglades everglades
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    gatersville gatersville gatersville gatersville gatersville gatersville
+EMOTIONS:AGGRESSION                                              5
+    kill jealous fight blades doubt
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where back out long where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    found paid won found found
+EMOTIONS:AFFECTION                                               3
+    kind like like
+EMOTIONS:ANXIETY                                                 3
+    fear fear fear
+PRIMARY:SENSATION:VISION                                         2
+    flashing seen
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die dead
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eye
+SECONDARY:ABSTRACTION                                            1
+    thought
+
+PRIMARY             : 36.956522 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 23.913043 %
+
+259 words total

@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                              6
+    stability struggle destroy kills destroy destroy
+PRIMARY:SENSATION:ODOR                                           6
+    breathing breathing breathing breathe breathe breathe
+EMOTIONS:AFFECTION                                               6
+    like embrace like embrace like embrace
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time every time time then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out inside inside
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hands arms arms arms
+SECONDARY:ABSTRACTION                                            3
+    surely surely surely
+EMOTIONS:ANXIETY                                                 3
+    panic panic frantic
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes making making
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    shore shore
+PRIMARY:NEED:ORALITY                                             2
+    starves starves
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    shipwrecked shipwrecked
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    relax relax
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    uphill
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+
+PRIMARY             : 45.283019 %
+SECONDARY           : 24.528302 %
+EMOTIONS            : 30.188679 %
+
+178 words total

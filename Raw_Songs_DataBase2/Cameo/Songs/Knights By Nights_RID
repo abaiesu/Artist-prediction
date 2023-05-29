@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               7
+    love friends friends love friends friends love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please talk say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+SECONDARY:ABSTRACTION                                            3
+    think know understand
+SECONDARY:TEMPORAL REFERENCES                                    3
+    till every till
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    dig dig
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tall tall
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    rhythm
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spreadin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    across
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 55.555556 %
+EMOTIONS            : 19.444444 %
+
+261 words total

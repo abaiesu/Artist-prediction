@@ -1,0 +1,40 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                   10
+    valley low valley low valley low valley low valley low
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    wide where far wide wide apart wide where far wide
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    river river river river rain river
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    call call told helping call call
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    mountain mountain mountain mountain mountain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    high high high high high
+SECONDARY:ABSTRACTION                                            5
+    cause cause know cause cause
+EMOTIONS:ANXIETY                                                 3
+    worry trouble worry
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when ever ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    count goal
+PRIMARY:SENSATION:COLD                                           2
+    winters cold
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 65.079365 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 6.349206 %
+
+306 words total

@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now older now now now then time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over over back out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    lessons make try
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry game game
+EMOTIONS:AGGRESSION                                              2
+    rage tore
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallin
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:ABSTRACTION                                            1
+    learnin
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 32.142857 %
+SECONDARY           : 46.428571 %
+EMOTIONS            : 21.428571 %
+
+126 words total

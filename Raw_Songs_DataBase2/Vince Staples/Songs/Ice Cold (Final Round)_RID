@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where here at out here out here
+SECONDARY:ABSTRACTION                                            7
+    know believe believe believe believe basic know
+EMOTIONS:AGGRESSION                                              6
+    broke feuds shoot feuds shoot broke
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    maker pay maker pay count count
+PRIMARY:SENSATION:VISION                                         5
+    seen see view see view
+PRIMARY:SENSATION:COLD                                           4
+    ice cold ice cold
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    meet meet meet meet
+EMOTIONS:GLORY                                                   4
+    greatness greatness rich famous
+EMOTIONS:ANXIETY                                                 2
+    dangerous dangerous
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    downhill
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+
+PRIMARY             : 39.215686 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 25.490196 %
+
+188 words total

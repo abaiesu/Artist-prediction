@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away near near out
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms legs body
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    guitar guitar
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tall tall
+PRIMARY:SENSATION:SOFT                                           2
+    gentle gentle
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:COLD                                           1
+    cools
+PRIMARY:SENSATION:ODOR                                           1
+    breathin
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chases
+PRIMARY:SENSATION:SOUND                                          1
+    rattle
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 21.428571 %
+
+178 words total

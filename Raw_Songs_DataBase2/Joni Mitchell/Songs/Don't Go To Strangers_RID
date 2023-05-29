@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               6
+    love lover lover friends lover lover
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when old when
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    strangers strangers strangers strangers
+SECONDARY:ABSTRACTION                                            3
+    true know understand
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call follow follow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    build make
+PRIMARY:SENSATION:VISION                                         2
+    stars see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire burned
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 42.424242 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 21.212121 %
+
+115 words total

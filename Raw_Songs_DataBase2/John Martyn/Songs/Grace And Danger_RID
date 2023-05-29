@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               5
+    darling goodbye darling goodbye goodbye
+SECONDARY:ABSTRACTION                                            4
+    know know think knew
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes found carried
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long out along
+EMOTIONS:ANXIETY                                                 2
+    desperately desperately
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road sidewalk
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:TOUCH                                          1
+    strokes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+EMOTIONS:AGGRESSION                                              1
+    strife
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 26.470588 %
+
+168 words total

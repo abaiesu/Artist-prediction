@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when then when then
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talk say say say say
+EMOTIONS:POSITIVE AFFECT                                         5
+    joke laugh laugh laugh laugh
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    front out at out at
+PRIMARY:SENSATION:VISION                                         4
+    film saw appear appear
+EMOTIONS:AFFECTION                                               3
+    like love love
+PRIMARY:SENSATION:SOUND                                          3
+    hears hears heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying find find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands brow
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 37.142857 %
+EMOTIONS            : 22.857143 %
+
+151 words total

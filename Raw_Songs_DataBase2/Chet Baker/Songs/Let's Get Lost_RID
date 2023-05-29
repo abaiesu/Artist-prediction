@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out off off
+SECONDARY:ABSTRACTION                                            2
+    them think
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mist mist
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everybody everybody
+SECONDARY:ORDER                                                  2
+    list list
+EMOTIONS:POSITIVE AFFECT                                         2
+    celebrate celebrate
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found found
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+EMOTIONS:ANXIETY                                                 1
+    alarms
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 47.368421 %
+EMOTIONS            : 15.789474 %
+
+94 words total

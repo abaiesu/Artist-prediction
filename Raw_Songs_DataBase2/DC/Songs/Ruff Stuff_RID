@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out here out out here round here round here backyard
+EMOTIONS:AFFECTION                                               8
+    like like love like like like like like
+SECONDARY:ABSTRACTION                                            5
+    them know them why them
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    play play game play game
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face face face face face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make make make make
+PRIMARY:SENSATION:VISION                                         4
+    rough grey grey grey
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    shake quake quiver
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:SENSATION:COLD                                           1
+    shiver
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:RESTRAINT                                              1
+    lock
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asked
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 24.074074 %
+
+326 words total

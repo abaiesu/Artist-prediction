@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                          9
+    hearing hear hearing hear hum hear hear loud hum
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say telling telling say telling say say say
+SECONDARY:ABSTRACTION                                            7
+    cause truth cause real knows why cause
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:VISION                                         3
+    views views views
+PRIMARY:SENSATION:COLD                                           3
+    cool cold ice
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along along
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake nightmare
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when again
+EMOTIONS:POSITIVE AFFECT                                         1
+    amused
+EMOTIONS:AGGRESSION                                              1
+    ridiculed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+
+PRIMARY             : 42.222222 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 11.111111 %
+
+303 words total

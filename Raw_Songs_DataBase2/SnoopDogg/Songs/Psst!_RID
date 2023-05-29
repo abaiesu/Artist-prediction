@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out at at at at at at at at close
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell treat treated tell tell tell tell tell
+SECONDARY:ABSTRACTION                                            8
+    know real think why know real somethin know
+EMOTIONS:AFFECTION                                               7
+    like love like like like lovin like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while now every then when
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    throw throw fly throw throw
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hair head body eyes
+EMOTIONS:AGGRESSION                                              3
+    kick beat beat
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    relax slow slow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work workin make
+PRIMARY:NEED:ORALITY                                             2
+    fat drink
+PRIMARY:SENSATION:SOUND                                          2
+    heard tone
+PRIMARY:SENSATION:VISION                                         2
+    see lookin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    elevator trees
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    dippin diggin
+SECONDARY:RESTRAINT                                              2
+    stoppin stoppin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:NEED:SEX                                                 1
+    bitch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:HARD                                           1
+    rockin
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+
+PRIMARY             : 50.649351 %
+SECONDARY           : 33.766234 %
+EMOTIONS            : 15.584416 %
+
+518 words total

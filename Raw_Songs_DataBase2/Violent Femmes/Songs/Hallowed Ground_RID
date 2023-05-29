@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where place out where
+SECONDARY:RESTRAINT                                              3
+    must block catch
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    hallowed hallowed hallowed
+EMOTIONS:AGGRESSION                                              2
+    hatred enemy
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everyone when
+SECONDARY:ABSTRACTION                                            2
+    decide decide
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn sun
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    bury bury
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spiritual
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 13.333333 %
+
+135 words total

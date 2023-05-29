@@ -1,0 +1,48 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   28
+    rain rain rain rain rain rain rain rain rain rain rain rain rain raindrops rain rain rain rain rain rain rain rain rain rain rain rain rain rain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away away outside inside out outside outside inside
+SECONDARY:ABSTRACTION                                            7
+    know cause knows suppose cause cause know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please explain explain
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everyone ever when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyes eyes
+PRIMARY:SENSATION:VISION                                         2
+    sunshine blue
+SECONDARY:RESTRAINT                                              2
+    locked refuse
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+SECONDARY:ORDER                                                  2
+    listen listen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:AFFECTION                                               1
+    lovely
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    eases
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+EMOTIONS:ANXIETY                                                 1
+    desperately
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 64.788732 %
+SECONDARY           : 25.352113 %
+EMOTIONS            : 9.859155 %
+
+272 words total

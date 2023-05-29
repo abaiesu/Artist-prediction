@@ -1,0 +1,22 @@
+EMOTIONS:AGGRESSION                                             12
+    robbing stabbing shooting robbing stabbing shooting robbing stabbing shooting robbing stabbing shooting
+PRIMARY:SENSATION:HARD                                          10
+    rock rock rock rock rock rock rock rock rock rock
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say say rescue rescue say say rescue rescue rescue
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now when when now now when when
+PRIMARY:SENSATION:SOUND                                          8
+    hear voice hear voice hear voice hear voice
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    road road road road
+PRIMARY:NEED:SEX                                                 4
+    waist waist waist waist
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where where where where
+
+PRIMARY             : 50.847458 %
+SECONDARY           : 28.813559 %
+EMOTIONS            : 20.338983 %
+
+278 words total

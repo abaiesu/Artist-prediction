@@ -1,0 +1,34 @@
+EMOTIONS:SADNESS                                                 6
+    sad lonely lonely sad lonely lonely
+EMOTIONS:GLORY                                                   5
+    pride pride pride pride pride
+PRIMARY:SENSATION:VISION                                         4
+    look blue looking blue
+SECONDARY:ABSTRACTION                                            4
+    cause know why cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+EMOTIONS:AFFECTION                                               4
+    lovin love love lovin
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when everything
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    mad mad mad
+SECONDARY:MORAL IMPERATIVE                                       2
+    respect should
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    helplessly tell
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfaction satisfaction
+PRIMARY:SENSATION:ODOR                                           1
+    breathless
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 25.581395 %
+SECONDARY           : 34.883721 %
+EMOTIONS            : 39.534884 %
+
+161 words total

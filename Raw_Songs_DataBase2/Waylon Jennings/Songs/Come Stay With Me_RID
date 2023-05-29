@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                            4
+    true true decide known
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away behind
+SECONDARY:TEMPORAL REFERENCES                                    2
+    past ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make try
+EMOTIONS:GLORY                                                   1
+    pride
+EMOTIONS:AFFECTION                                               1
+    lovers
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promises
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 29.411765 %
+SECONDARY           : 58.823529 %
+EMOTIONS            : 11.764706 %
+
+151 words total

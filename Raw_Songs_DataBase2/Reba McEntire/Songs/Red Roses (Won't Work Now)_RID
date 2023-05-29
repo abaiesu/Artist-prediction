@@ -1,0 +1,28 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    won work won work won work won work won work
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here here back open along out back long out
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now again now now times already now now
+SECONDARY:ABSTRACTION                                            7
+    why cause why know know why cause
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk tell talk tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand arms
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:AGGRESSION                                              2
+    doubt doubt
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    path
+
+PRIMARY             : 27.659574 %
+SECONDARY           : 61.702128 %
+EMOTIONS            : 10.638298 %
+
+185 words total

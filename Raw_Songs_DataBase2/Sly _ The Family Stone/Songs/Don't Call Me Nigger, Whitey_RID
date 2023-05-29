@@ -1,0 +1,14 @@
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call call talkin
+PRIMARY:SENSATION:SOUND                                          3
+    heard voices ring
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    across
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 0.000000 %
+
+38 words total

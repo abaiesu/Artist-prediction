@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                               9
+    like like devotion like like like like love love
+PRIMARY:SENSATION:VISION                                         8
+    glanced imagined look look look look look look
+SECONDARY:TEMPORAL REFERENCES                                    7
+    sudden again now again now now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    wandering yonder wandering wandering yonder wandering
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    over over over over over
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chaos chaos chaos
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falling falling falling
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    accepted forgive forgive
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    blur blur
+EMOTIONS:GLORY                                                   2
+    royal royal
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    flooded flooded
+EMOTIONS:ANXIETY                                                 2
+    trembling trembling
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    stirred
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+SECONDARY:RESTRAINT                                              1
+    prison
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hovered
+
+PRIMARY             : 57.377049 %
+SECONDARY           : 18.032787 %
+EMOTIONS            : 24.590164 %
+
+148 words total

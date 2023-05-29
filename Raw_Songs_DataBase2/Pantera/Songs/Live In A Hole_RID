@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at somewhere close far between
+SECONDARY:ABSTRACTION                                            5
+    thought tend understand cause understand
+EMOTIONS:AFFECTION                                               3
+    like kind friends
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell promised
+EMOTIONS:ANXIETY                                                 2
+    fear fears
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die submit
+EMOTIONS:SADNESS                                                 1
+    grief
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:RESTRAINT                                              1
+    imprison
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:AGGRESSION                                              1
+    hate
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burns
+
+PRIMARY             : 37.931034 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 27.586207 %
+
+110 words total

@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         9
+    shine blues blues blues blue blue blue hue blues
+EMOTIONS:ANXIETY                                                 6
+    worry worry worry worry worry worry
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell call call call
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon everybody
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+EMOTIONS:AGGRESSION                                              1
+    shoot
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    idlewild
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 30.000000 %
+
+247 words total

@@ -1,0 +1,32 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 24
+    find find find find find find find find find find find find find find find find find find find find find find find find
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time time every when
+SECONDARY:ABSTRACTION                                            5
+    something think reason why idea
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    straight situation away
+SECONDARY:MORAL IMPERATIVE                                       2
+    shouldn right
+EMOTIONS:AGGRESSION                                              2
+    jealous hate
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes head
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 16.326531 %
+SECONDARY           : 75.510204 %
+EMOTIONS            : 8.163265 %
+
+270 words total

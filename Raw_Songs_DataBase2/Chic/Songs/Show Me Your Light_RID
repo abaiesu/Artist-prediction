@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                        16
+    light light light light light shine light light light light light shine light light light light
+EMOTIONS:AFFECTION                                               9
+    love love love love love love love loving love
+EMOTIONS:AGGRESSION                                              7
+    torn broken broken torn broken torn broken
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart open apart apart
+PRIMARY:SENSATION:SOUND                                          3
+    heart tune heart
+SECONDARY:ABSTRACTION                                            3
+    know cause cause
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burnin burnin
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tellin say
+PRIMARY:SENSATION:COLD                                           1
+    cool
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clown
+
+PRIMARY             : 49.056604 %
+SECONDARY           : 18.867925 %
+EMOTIONS            : 32.075472 %
+
+128 words total

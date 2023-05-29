@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out across where at where out away where away away where
+EMOTIONS:AFFECTION                                               6
+    love like loves like love like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    till then then time then
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    feet hand hand hands hand
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    floor line floor door
+PRIMARY:NEED:ORALITY                                             4
+    grain honey honey honey
+PRIMARY:SENSATION:VISION                                         4
+    see looks blues blues
+SECONDARY:ABSTRACTION                                            4
+    knows knows truth knows
+EMOTIONS:AGGRESSION                                              2
+    whippoorwill hits
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dances dances
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pourin rain
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calls speak
+EMOTIONS:SADNESS                                                 2
+    loneliness loneliness
+SECONDARY:RESTRAINT                                              2
+    shuts locks
+PRIMARY:SENSATION:SOUND                                          1
+    bellows
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+SECONDARY:MORAL IMPERATIVE                                       1
+    proper
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+
+PRIMARY             : 55.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 20.000000 %
+
+220 words total

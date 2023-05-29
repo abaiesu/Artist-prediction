@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out back back at
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    trees birds trees birds
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falling fallin fallin
+SECONDARY:ABSTRACTION                                            2
+    figure know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    week when
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flyin flyin
+PRIMARY:SENSATION:VISION                                         1
+    star
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystery
+
+PRIMARY             : 69.565217 %
+SECONDARY           : 17.391304 %
+EMOTIONS            : 13.043478 %
+
+158 words total

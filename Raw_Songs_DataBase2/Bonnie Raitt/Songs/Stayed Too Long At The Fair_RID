@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long long long at out long at at long at
+SECONDARY:ABSTRACTION                                            4
+    guess knew know guess
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make won won won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    feet bones feet hands
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    fair fair fair
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven highway
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    chason ride
+EMOTIONS:AGGRESSION                                              2
+    hurt blade
+EMOTIONS:GLORY                                                   2
+    pride prince
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+EMOTIONS:SADNESS                                                 1
+    wept
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:SENSATION:VISION                                         1
+    gleamin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallin
+
+PRIMARY             : 61.904762 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 16.666667 %
+
+205 words total

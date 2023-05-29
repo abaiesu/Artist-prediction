@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              13
+    like like like like like like love like like like like love like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at away far away away away far away away
+EMOTIONS:SADNESS                                                 8
+    pain lonely lonely lonely pain lonely lonely lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    cheek face cheek face
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    spirits spirits spirits spirits
+EMOTIONS:POSITIVE AFFECT                                         4
+    happy happy happy happy
+SECONDARY:ABSTRACTION                                            3
+    why knew knew
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:SENSATION:TOUCH                                          2
+    brushing brushing
+EMOTIONS:AGGRESSION                                              2
+    break break
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:SENSATION:SOFT                                           2
+    whispering whispering
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used used
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 42.622951 %
+SECONDARY           : 9.836066 %
+EMOTIONS            : 47.540984 %
+
+182 words total

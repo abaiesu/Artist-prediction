@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at at close close space where close close close close close close
+EMOTIONS:AFFECTION                                               4
+    friends like like friends
+PRIMARY:SENSATION:VISION                                         3
+    look look watch
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please invited ask
+SECONDARY:ABSTRACTION                                            3
+    compare supposed supposed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body head
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when today
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+EMOTIONS:AGGRESSION                                              1
+    kicks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 14.705882 %
+
+211 words total

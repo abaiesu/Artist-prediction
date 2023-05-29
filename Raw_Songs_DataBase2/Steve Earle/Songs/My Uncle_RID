@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today old once now year today
+SECONDARY:ABSTRACTION                                            6
+    cause tends guess knows know guess
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    asked call told said asking
+SECONDARY:MORAL IMPERATIVE                                       3
+    law should right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands headed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    nearest out
+EMOTIONS:AFFECTION                                               2
+    kind kind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    soldier pay
+EMOTIONS:AGGRESSION                                              2
+    battlefield fight
+EMOTIONS:ANXIETY                                                 1
+    trembling
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    border
+SECONDARY:ORDER                                                  1
+    order
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:GLORY                                                   1
+    glory
+SECONDARY:RESTRAINT                                              1
+    catch
+
+PRIMARY             : 18.421053 %
+SECONDARY           : 63.157895 %
+EMOTIONS            : 18.421053 %
+
+147 words total

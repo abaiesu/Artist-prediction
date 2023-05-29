@@ -1,0 +1,50 @@
+SECONDARY:SOCIAL BEHAVIOR                                       20
+    said able able able able able able able say say say say say able able able able able able say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    place back far long place long here place back far long back far long here off back back
+SECONDARY:ABSTRACTION                                           11
+    fact truly know believers truly truly know know thinkin somethin fact
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now till time now now now now tonight while clockin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    shout shout scream scream dance sing dance sing dance sing
+EMOTIONS:AFFECTION                                               6
+    like kinda kinda love like like
+PRIMARY:SENSATION:VISION                                         6
+    vision watch watch watch see light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reach won
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest lay
+EMOTIONS:AGGRESSION                                              2
+    stable hits
+PRIMARY:SENSATION:SOFT                                           2
+    whisper whisper
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highest top
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountain swing
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wilderness
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:NEED:ORALITY                                             1
+    bite
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:SENSATION:SOUND                                          1
+    tempo
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+
+PRIMARY             : 38.235294 %
+SECONDARY           : 43.137255 %
+EMOTIONS            : 18.627451 %
+
+406 words total

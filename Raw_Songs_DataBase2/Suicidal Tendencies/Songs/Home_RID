@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    long far where where at inside at off far far back back where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    make find won find won find find won find find find
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    says explain explain tell please help please help please
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    guitar guitar guitar guitar guitar
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when when when
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun search search searching
+SECONDARY:ABSTRACTION                                            3
+    know thoughts know
+PRIMARY:SENSATION:SOUND                                          3
+    hear voice sound
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain water
+EMOTIONS:ANXIETY                                                 2
+    scared scared
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mist
+EMOTIONS:GLORY                                                   1
+    wondered
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    void
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    calming
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+
+PRIMARY             : 45.070423 %
+SECONDARY           : 39.436620 %
+EMOTIONS            : 15.492958 %
+
+338 words total

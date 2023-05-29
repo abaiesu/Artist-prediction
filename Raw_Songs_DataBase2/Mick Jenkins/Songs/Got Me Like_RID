@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              19
+    love like like like love love like like like like like like like like like like like like like
+SECONDARY:ABSTRACTION                                           10
+    analyzing know know knows knows knows supposed different thought know
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell please call say speak spoke explain explain
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every every when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away away
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling slipping
+EMOTIONS:AGGRESSION                                              2
+    whip break
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+SECONDARY:MORAL IMPERATIVE                                       1
+    honestly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tripping
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:NEED:ORALITY                                             1
+    appetite
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    sway
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+
+PRIMARY             : 22.033898 %
+SECONDARY           : 40.677966 %
+EMOTIONS            : 37.288136 %
+
+337 words total

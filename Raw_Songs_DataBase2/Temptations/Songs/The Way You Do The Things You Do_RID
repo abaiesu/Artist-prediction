@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           10
+    know know know know know know know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    swept money swept make
+PRIMARY:SENSATION:VISION                                         3
+    bright looks bright
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    handle feet feet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off off
+PRIMARY:SENSATION:ODOR                                           2
+    smell perfume
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    2
+    minute hour
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candle
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:AGGRESSION                                              1
+    stole
+PRIMARY:SENSATION:COLD                                           1
+    cool
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 44.736842 %
+EMOTIONS            : 7.894737 %
+
+188 words total

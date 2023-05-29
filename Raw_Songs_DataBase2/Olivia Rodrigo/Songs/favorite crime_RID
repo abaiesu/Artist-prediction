@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                               8
+    loved like favorite friends favorite favorite favorite favorite
+SECONDARY:ABSTRACTION                                            6
+    know cause know think cause cause
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    treat call call say call
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now every time again everything
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyed hands bloody face
+EMOTIONS:AGGRESSION                                              4
+    broke damage broke hate
+PRIMARY:SENSATION:VISION                                         3
+    watched scene look
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart sounds
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fled
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:TASTE                                          1
+    bittersweet
+EMOTIONS:ANXIETY                                                 1
+    trouble
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 31.914894 %
+SECONDARY           : 36.170213 %
+EMOTIONS            : 31.914894 %
+
+222 words total

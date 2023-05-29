@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            7
+    know know truth guess truth guess know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then then year seasons while
+PRIMARY:SENSATION:SOUND                                          3
+    heard voice echo
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    telling telling
+EMOTIONS:AGGRESSION                                              2
+    fight fight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 32.000000 %
+SECONDARY           : 56.000000 %
+EMOTIONS            : 12.000000 %
+
+153 words total

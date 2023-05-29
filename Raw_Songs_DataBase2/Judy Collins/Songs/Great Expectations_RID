@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    ever tonight again again again again every again again again again
+EMOTIONS:AFFECTION                                               8
+    goodbye love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say taught say meet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    place long somewhere somewhere
+EMOTIONS:GLORY                                                   4
+    great great great great
+SECONDARY:ABSTRACTION                                            3
+    believe may believe
+EMOTIONS:POSITIVE AFFECT                                         2
+    celebrations celebrations
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    winning winning
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strangers strangers
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:SENSATION:VISION                                         1
+    glances
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+
+PRIMARY             : 26.086957 %
+SECONDARY           : 43.478261 %
+EMOTIONS            : 30.434783 %
+
+184 words total

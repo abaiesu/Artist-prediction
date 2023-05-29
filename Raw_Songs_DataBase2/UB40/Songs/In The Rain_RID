@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    outside outside outside outside outside outside out away outside outside outside outside
+PRIMARY:ICARIAN IMAGERY:WATER                                   12
+    rain rain rain rain rain rain rain rain rain rain rain rain
+SECONDARY:ABSTRACTION                                            8
+    may cause think may may know think may
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+PRIMARY:SENSATION:SOUND                                          4
+    sound sound sound sound
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    crazy crazy crazy crazy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry cry cry cry
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once once now
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 70.175439 %
+SECONDARY           : 22.807018 %
+EMOTIONS            : 7.017544 %
+
+208 words total

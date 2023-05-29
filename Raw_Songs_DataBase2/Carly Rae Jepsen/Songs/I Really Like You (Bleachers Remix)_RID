@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              16
+    like like like love like like like like love like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    tell say say tell say said tell tell tell tell tell tell say
+SECONDARY:ABSTRACTION                                           12
+    know something know something them know something something something something something something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    position out position out out out out out
+SECONDARY:TEMPORAL REFERENCES                                    7
+    soon when everything soon when time when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    hand head head head eyes head
+PRIMARY:SENSATION:TOUCH                                          4
+    touch touch touch touch
+PRIMARY:SENSATION:TASTE                                          2
+    taste sweet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly hanging
+PRIMARY:NEED:ORALITY                                             2
+    honey lips
+PRIMARY:SENSATION:VISION                                         2
+    watching watching
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revelation
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 35.443038 %
+SECONDARY           : 44.303797 %
+EMOTIONS            : 20.253165 %
+
+480 words total

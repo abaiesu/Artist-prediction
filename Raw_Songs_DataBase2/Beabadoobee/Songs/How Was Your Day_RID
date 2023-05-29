@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                           19
+    cause cause something cause cause cause guess believe cause something cause cause cause know know cause guess believe know
+SECONDARY:TEMPORAL REFERENCES                                    8
+    while when then while then when while when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at at away at at away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used used used used used
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talked call say talked
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile smile smile
+EMOTIONS:AGGRESSION                                              3
+    fight angry angry
+PRIMARY:NEED:SEX                                                 3
+    fuck kiss fuck
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 64.285714 %
+EMOTIONS            : 14.285714 %
+
+221 words total

@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    over here out over over here out over here back over here over here over here
+SECONDARY:TEMPORAL REFERENCES                                   13
+    every when when when when when when when when when when when when
+EMOTIONS:AFFECTION                                              13
+    like like like like like like like like love like like like like
+SECONDARY:ABSTRACTION                                            7
+    think cause think think cause think think
+SECONDARY:MORAL IMPERATIVE                                       7
+    honour right ought right right right right
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talk talk say talk talk
+PRIMARY:NEED:SEX                                                 3
+    sexy sexy sexy
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile smile smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hips eyes hips
+EMOTIONS:AGGRESSION                                              2
+    shot break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    tripping drives
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shake shake
+PRIMARY:SENSATION:VISION                                         2
+    look looking
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+PRIMARY:SENSATION:SOUND                                          1
+    bang
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 41.758242 %
+SECONDARY           : 37.362637 %
+EMOTIONS            : 20.879121 %
+
+663 words total

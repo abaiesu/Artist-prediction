@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here distant back where over
+EMOTIONS:AGGRESSION                                              4
+    deceived deceived abused hatred
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won try find make
+PRIMARY:SENSATION:VISION                                         2
+    seen color
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line border
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please excuse
+PRIMARY:NEED:ORALITY                                             2
+    tea poisoned
+EMOTIONS:AFFECTION                                               1
+    kind
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 22.222222 %
+
+183 words total

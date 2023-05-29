@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here out east point here out over far wide here
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everywhere now now now everybody when old now when everyday
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    players players players dancing players players player
+SECONDARY:ABSTRACTION                                            6
+    something know them know cause them
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talking saying told tell
+PRIMARY:SENSATION:VISION                                         2
+    scene see
+PRIMARY:NEED:ORALITY                                             2
+    liquor sauce
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lowriders
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+PRIMARY:SENSATION:COLD                                           1
+    ice
+EMOTIONS:AGGRESSION                                              1
+    kicking
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rides
+
+PRIMARY             : 43.396226 %
+SECONDARY           : 39.622642 %
+EMOTIONS            : 16.981132 %
+
+190 words total

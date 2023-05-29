@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at at long at at
+SECONDARY:ABSTRACTION                                            4
+    believe may cause reason
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    speaking call say
+EMOTIONS:AFFECTION                                               2
+    loved love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won tried
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    restless
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 44.000000 %
+EMOTIONS            : 8.000000 %
+
+143 words total

@@ -1,0 +1,38 @@
+EMOTIONS:SADNESS                                                12
+    sad sad sad sad sad sad sad sad sad sad sad sad
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    round round round round round round
+PRIMARY:SENSATION:SOUND                                          4
+    heart ring hear heart
+EMOTIONS:AFFECTION                                               4
+    friends love friends friends
+SECONDARY:ABSTRACTION                                            4
+    cause thinking cause cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hands hand
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile delight smile
+PRIMARY:SENSATION:VISION                                         2
+    bright see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when every
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clown
+EMOTIONS:AGGRESSION                                              1
+    knife
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 40.425532 %
+SECONDARY           : 14.893617 %
+EMOTIONS            : 44.680851 %
+
+212 words total

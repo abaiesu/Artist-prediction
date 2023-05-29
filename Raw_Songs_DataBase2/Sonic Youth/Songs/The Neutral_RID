@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away close close close close inside away
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    weary rest rest bed bed weary weary
+SECONDARY:ABSTRACTION                                            5
+    schemer cause why why schemer
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    mystic secret secret mystic
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes headache eyes head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    cure won won won
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow tell follow
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreamer dreamer
+EMOTIONS:POSITIVE AFFECT                                         2
+    entertainer entertainer
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    poet poet
+EMOTIONS:SADNESS                                                 2
+    pain loner
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everyone
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    blur
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    gray
+PRIMARY:NEED:SEX                                                 1
+    seduce
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    stray
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 13.461538 %
+
+233 words total

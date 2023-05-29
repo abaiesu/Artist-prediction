@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    sea sea foam
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lines lines
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    open away
+PRIMARY:SENSATION:SOUND                                          2
+    deaf ring
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slack
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 72.222222 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 11.111111 %
+
+68 words total

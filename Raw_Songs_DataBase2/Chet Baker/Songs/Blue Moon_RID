@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                        12
+    blue saw blue appeared looked blue blue saw blue appeared looked blue
+SECONDARY:TEMPORAL REFERENCES                                    9
+    suddenly ever when now then suddenly ever when now
+PRIMARY:SENSATION:SOUND                                          8
+    heart heard heard heart heart heard heard heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream dream dream dream
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    saying please saying please
+SECONDARY:ABSTRACTION                                            2
+    knew knew
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms arms
+PRIMARY:SENSATION:SOFT                                           2
+    whisper whisper
+EMOTIONS:GLORY                                                   2
+    gold gold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    longer longer
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 11.764706 %
+
+185 words total

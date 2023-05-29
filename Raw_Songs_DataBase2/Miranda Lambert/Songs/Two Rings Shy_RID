@@ -1,0 +1,40 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    clown clown clown clown sing dance clown clown clown clown
+EMOTIONS:SADNESS                                                 6
+    paint paint paint paint paint paint
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face hair face face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    spend make buy pay
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+PRIMARY:SENSATION:VISION                                         3
+    watch watch watch
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    dangle swinging swing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tall top
+PRIMARY:NEED:ORALITY                                             2
+    drink honey
+PRIMARY:SENSATION:SOUND                                          2
+    hear rings
+EMOTIONS:AGGRESSION                                              2
+    cut hit
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hour
+PRIMARY:SENSATION:SOFT                                           1
+    lacy
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+EMOTIONS:ANXIETY                                                 1
+    shy
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 11.764706 %
+EMOTIONS            : 47.058824 %
+
+286 words total

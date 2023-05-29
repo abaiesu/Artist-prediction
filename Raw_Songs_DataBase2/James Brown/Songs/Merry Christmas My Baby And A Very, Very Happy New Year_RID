@@ -1,0 +1,40 @@
+EMOTIONS:POSITIVE AFFECT                                        14
+    cheerful merry merry happy merry merry happy happy cheerful merry merry happy happy happy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make test make make make test makes
+SECONDARY:TEMPORAL REFERENCES                                    6
+    year year year year year year
+EMOTIONS:AFFECTION                                               6
+    like love love love kind like
+PRIMARY:SENSATION:SOUND                                          4
+    bell ring bell ring
+PRIMARY:SENSATION:SOFT                                           4
+    gentle gentle gentle gentle
+PRIMARY:SENSATION:VISION                                         4
+    star gleam star gleam
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    rest rest rest
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+PRIMARY:SENSATION:HARD                                           2
+    rocks rocks
+EMOTIONS:GLORY                                                   2
+    gold gold
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    excuse excuse
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood hips
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 34.920635 %
+SECONDARY           : 26.984127 %
+EMOTIONS            : 38.095238 %
+
+221 words total

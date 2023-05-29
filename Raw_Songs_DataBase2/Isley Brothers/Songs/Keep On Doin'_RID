@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:COLD                                           7
+    children children children children children children children
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once now again now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    straight ahead out over over long
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said say say say said
+EMOTIONS:AFFECTION                                               3
+    like like love
+PRIMARY:SENSATION:VISION                                         2
+    look sunshine
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 46.875000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 9.375000 %
+
+409 words total

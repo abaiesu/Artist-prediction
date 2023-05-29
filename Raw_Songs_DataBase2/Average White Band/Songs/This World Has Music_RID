@@ -1,0 +1,24 @@
+SECONDARY:ORDER                                                 36
+    listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen listen
+PRIMARY:SENSATION:SOUND                                         21
+    melody rhythm music music music symphony music music music hear music music music music music music music music music music music
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when everybody everybody everybody everybody everybody everybody once everybody everybody everybody
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    called talking talking said message said said said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing sing sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make making
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:ABSTRACTION                                            1
+    understand
+
+PRIMARY             : 25.287356 %
+SECONDARY           : 67.816092 %
+EMOTIONS            : 6.896552 %
+
+334 words total

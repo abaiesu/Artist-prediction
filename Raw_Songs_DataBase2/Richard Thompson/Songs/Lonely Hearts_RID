@@ -1,0 +1,42 @@
+EMOTIONS:SADNESS                                                16
+    lonely loneliness lonely pain lonely loneliness lonely pain lonely loneliness lonely pain lonely lonely lonely lonely
+PRIMARY:SENSATION:SOUND                                         11
+    hearts hearts heart hearts hearts hearts hearts hearts hearts hearts hearts
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    meet meet call say call call talk call call
+EMOTIONS:AFFECTION                                               8
+    love love lovers love friend love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    gain sell gain won work gain gain gain
+SECONDARY:ABSTRACTION                                            6
+    may know why why why why
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where apart at off at
+PRIMARY:SENSATION:VISION                                         4
+    light look seen look
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    ocean ocean ocean
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    shipwreck shipwreck shipwreck
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street door
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    conscience
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+
+PRIMARY             : 39.024390 %
+SECONDARY           : 30.487805 %
+EMOTIONS            : 30.487805 %
+
+310 words total

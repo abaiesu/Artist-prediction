@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long within here opened within at here
+PRIMARY:SENSATION:VISION                                         5
+    see star saw see star
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    knees hand eyes hand
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    dawn wings dawn wings
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now past
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fallen fallen
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    path path
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spreading spreading
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:ABSTRACTION                                            1
+    real
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 82.926829 %
+SECONDARY           : 7.317073 %
+EMOTIONS            : 9.756098 %
+
+168 words total

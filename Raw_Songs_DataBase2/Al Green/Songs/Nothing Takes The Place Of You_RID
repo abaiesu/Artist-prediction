@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                         4
+    picture blue blue blue
+EMOTIONS:AFFECTION                                               4
+    love darling love darling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place place place
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    walls window
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when again
+SECONDARY:ABSTRACTION                                            1
+    them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    finds
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    raining
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 21.052632 %
+
+126 words total

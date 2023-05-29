@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    place where here longer at where apart longer at
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    climb mountain climb mountain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    top top top top
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams dreams dreams
+EMOTIONS:POSITIVE AFFECT                                         3
+    joy smile joy
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    telling depends reminding
+SECONDARY:ABSTRACTION                                            2
+    know choose
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest silent
+SECONDARY:ORDER                                                  2
+    simple simple
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    chasing chasing
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rainbows rainbows
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    build gain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    games
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 69.387755 %
+SECONDARY           : 20.408163 %
+EMOTIONS            : 10.204082 %
+
+213 words total

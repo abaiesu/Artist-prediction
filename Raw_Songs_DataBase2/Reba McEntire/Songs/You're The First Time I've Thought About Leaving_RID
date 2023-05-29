@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                           15
+    thought thinking think thought know thought known knows think thinking thought know thought known known
+SECONDARY:TEMPORAL REFERENCES                                    8
+    while time time sometimes when when time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back at close
+SECONDARY:MORAL IMPERATIVE                                       3
+    should shouldn should
+EMOTIONS:AFFECTION                                               3
+    like like like
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smiled
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 15.789474 %
+SECONDARY           : 71.052632 %
+EMOTIONS            : 13.157895 %
+
+159 words total

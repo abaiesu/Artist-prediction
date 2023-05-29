@@ -1,0 +1,44 @@
+EMOTIONS:AGGRESSION                                             11
+    break betray cut break betray cut relentlessly fight betray cut cut
+SECONDARY:RESTRAINT                                             10
+    obey confinement conform obey cage controls stops prison obey suppress
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    dead die dead dead dead dead
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won make make claim finished
+PRIMARY:NEED:ORALITY                                             5
+    meat meat meat meat meat
+PRIMARY:SENSATION:VISION                                         4
+    watch watch watch watch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at long along
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while while while
+SECONDARY:ABSTRACTION                                            3
+    them cause them
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hangman sprung
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line wall
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    confess
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:GLORY                                                   1
+    victory
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driven
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistaken
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+
+PRIMARY             : 40.322581 %
+SECONDARY           : 37.096774 %
+EMOTIONS            : 22.580645 %
+
+277 words total

@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ago now years then now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back backwards out at away
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say said share said
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flying throw throw
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    tide shore tide
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door stairs
+SECONDARY:ABSTRACTION                                            2
+    know why
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolling rolling
+EMOTIONS:AFFECTION                                               2
+    like friend
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+EMOTIONS:AGGRESSION                                              1
+    guns
+EMOTIONS:SADNESS                                                 1
+    paint
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    working
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lowlands
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+EMOTIONS:GLORY                                                   1
+    glory
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:SENSATION:TASTE                                          1
+    tasted
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drifting
+
+PRIMARY             : 57.500000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 12.500000 %
+
+209 words total

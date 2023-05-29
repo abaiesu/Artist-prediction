@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:TOUCH                                         11
+    contact contact contact touch contact contact contact contact contact contact contact
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         10
+    body body body body body body body body body body
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    line line line line line line line line line line
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    propose agree promise
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun fun satisfy
+PRIMARY:SENSATION:SOUND                                          2
+    heart tune
+EMOTIONS:ANXIETY                                                 2
+    afraid worry
+SECONDARY:ABSTRACTION                                            2
+    problem understood
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    whereas
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    claim
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:RESTRAINT                                              1
+    require
+
+PRIMARY             : 69.387755 %
+SECONDARY           : 18.367347 %
+EMOTIONS            : 12.244898 %
+
+248 words total

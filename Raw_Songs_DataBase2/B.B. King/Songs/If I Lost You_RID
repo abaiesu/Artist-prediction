@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            8
+    know true believe guess true believe know true
+EMOTIONS:AFFECTION                                               4
+    love loving dear like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    years years year year
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk told thank
+EMOTIONS:GLORY                                                   2
+    greatest greatest
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh cheer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buying money
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    between
+
+PRIMARY             : 10.714286 %
+SECONDARY           : 60.714286 %
+EMOTIONS            : 28.571429 %
+
+164 words total

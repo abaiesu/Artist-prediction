@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    here out back here here at back outside along along here here at back back
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when everything when everybody everyone again everybody everyone again again
+SECONDARY:ABSTRACTION                                            9
+    something something cause know cause think think think think
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    wet beach beach shore wet beach
+PRIMARY:SENSATION:VISION                                         3
+    grey watch grey
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call agree tells
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile fun fun
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    foggy foggy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+EMOTIONS:AGGRESSION                                              2
+    enemy enemy
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    waves roll
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    workin workin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+EMOTIONS:AFFECTION                                               1
+    friends
+
+PRIMARY             : 50.819672 %
+SECONDARY           : 39.344262 %
+EMOTIONS            : 9.836066 %
+
+186 words total

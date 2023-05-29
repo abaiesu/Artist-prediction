@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where where where near at where where along
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    picked belong working belong
+EMOTIONS:SADNESS                                                 4
+    lonely lonely lonely lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hands
+PRIMARY:NEED:ORALITY                                             1
+    rice
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+
+PRIMARY             : 65.384615 %
+SECONDARY           : 19.230769 %
+EMOTIONS            : 15.384615 %
+
+141 words total

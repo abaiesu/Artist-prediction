@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    long out at at at long out at at
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+SECONDARY:ABSTRACTION                                            5
+    true true true true true
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:TEMPORAL REFERENCES                                    1
+    tonight
+
+PRIMARY             : 45.833333 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 25.000000 %
+
+97 words total

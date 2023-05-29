@@ -1,0 +1,56 @@
+PRIMARY:SENSATION:VISION                                        26
+    colors see lights lighthouse peering light light see light light see picture light light see light light see picture look see see looked see lights illuminate
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when when moment every every every every when then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    reach find reach found carried find try try
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long out along off at distant
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    guide guide talk talk speak
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    candle burned fire flame
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    path edge ledge road
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    river rain water washed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes eyes blood
+EMOTIONS:AGGRESSION                                              4
+    blame wounds resentment anger
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    driven shipwreck traveled
+SECONDARY:ABSTRACTION                                            3
+    believe real know
+SECONDARY:RESTRAINT                                              2
+    must caught
+PRIMARY:SENSATION:HARD                                           2
+    steel stone
+EMOTIONS:SADNESS                                                 1
+    painting
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    haze
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:ORDER                                                  1
+    listened
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 61.855670 %
+SECONDARY           : 28.865979 %
+EMOTIONS            : 9.278351 %
+
+326 words total

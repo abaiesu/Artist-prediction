@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                            22
+    strange strange strange strange strange strange strange strange strange strange strange strange strange strange strange strange strange strange strange strange strange strange
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said said saying promises call call
+SECONDARY:ABSTRACTION                                            5
+    plan almost why plan truth
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at over at
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    random random
+EMOTIONS:AGGRESSION                                              2
+    severity war
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    atmosphere
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+SECONDARY:ORDER                                                  1
+    listening
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 65.909091 %
+SECONDARY           : 29.545455 %
+EMOTIONS            : 4.545455 %
+
+161 words total

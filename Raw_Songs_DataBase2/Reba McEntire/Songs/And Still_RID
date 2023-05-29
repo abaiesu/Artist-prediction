@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when again again old times when when now then
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    saying said said talked said saying said said saying
+PRIMARY:SENSATION:VISION                                         4
+    saw looked see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back inside away
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:AFFECTION                                               3
+    loved loved loved
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughed smile
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:GLORY                                                   1
+    great
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+EMOTIONS:AGGRESSION                                              1
+    complain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+
+PRIMARY             : 35.000000 %
+SECONDARY           : 45.000000 %
+EMOTIONS            : 20.000000 %
+
+230 words total

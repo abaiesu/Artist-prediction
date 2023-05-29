@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where where at out at at out at
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    game play game cry game play game
+SECONDARY:ABSTRACTION                                            6
+    sure know know believe understand know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old old when when old old
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say please teach say teach
+EMOTIONS:AFFECTION                                               3
+    darlin kind love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make find find
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamer
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    coal
+
+PRIMARY             : 26.829268 %
+SECONDARY           : 48.780488 %
+EMOTIONS            : 24.390244 %
+
+190 words total

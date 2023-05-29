@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            5
+    know know know know know
+EMOTIONS:GLORY                                                   2
+    pride glory
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time when
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AGGRESSION                                              1
+    shot
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    afford
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    untold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blaze
+
+PRIMARY             : 26.315789 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 31.578947 %
+
+105 words total

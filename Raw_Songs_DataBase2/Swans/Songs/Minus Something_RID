@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               6
+    like affect like like kind kind
+SECONDARY:ABSTRACTION                                            6
+    cause something know think know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away here back back back
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now everything then
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    allow allowed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    soldier build
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    faded faded
+PRIMARY:SENSATION:SOFT                                           1
+    delicate
+PRIMARY:SENSATION:VISION                                         1
+    color
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:SOUND                                          1
+    temporarily
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+
+PRIMARY             : 38.709677 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 19.354839 %
+
+168 words total

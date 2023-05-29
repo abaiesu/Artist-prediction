@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               6
+    love love lover love love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow forgive said
+EMOTIONS:SADNESS                                                 2
+    suffer lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body arms
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky above
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    perceive
+EMOTIONS:AGGRESSION                                              1
+    deceive
+PRIMARY:SENSATION:SOUND                                          1
+    heartbeat
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:TEMPORAL REFERENCES                                    1
+    moment
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 16.000000 %
+EMOTIONS            : 36.000000 %
+
+139 words total

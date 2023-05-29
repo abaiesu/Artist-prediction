@@ -1,0 +1,36 @@
+EMOTIONS:SADNESS                                                 8
+    repent repent repent repent repent repent repent repent
+SECONDARY:MORAL IMPERATIVE                                       8
+    should upright right right rights rights right rights
+EMOTIONS:AGGRESSION                                              7
+    fighting fighting fight fight fighting fighting fighting
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every every every now time now
+SECONDARY:RESTRAINT                                              6
+    must must must must must must
+EMOTIONS:GLORY                                                   5
+    victory victory victory kingdom victory
+SECONDARY:ABSTRACTION                                            5
+    them believe truth truth truth
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell tell tell visitation
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death death
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belongs
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:SENSATION:TOUCH                                          1
+    sting
+
+PRIMARY             : 13.333333 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 36.666667 %
+
+401 words total

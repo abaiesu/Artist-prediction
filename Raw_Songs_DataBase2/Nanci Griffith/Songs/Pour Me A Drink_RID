@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    9
+    pour pour pour pour pour pour pour pour pour
+PRIMARY:NEED:ORALITY                                             7
+    drink drink drink drink drink drink drink
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out at here at out out
+PRIMARY:SENSATION:VISION                                         5
+    light look look light light
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    help tell help promises help
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then time when then then
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    faces hands
+SECONDARY:ABSTRACTION                                            2
+    knew plans
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+
+PRIMARY             : 72.340426 %
+SECONDARY           : 25.531915 %
+EMOTIONS            : 2.127660 %
+
+166 words total

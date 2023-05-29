@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    where at within back over here at out where out over here at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    reach aimed won found used reach aimed won
+PRIMARY:SENSATION:VISION                                         7
+    lights see see scene light see see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    tall tall high tall high
+EMOTIONS:AFFECTION                                               4
+    friend friend friend friend
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under below below
+EMOTIONS:AGGRESSION                                              3
+    shootout gun gun
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say talking talking
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again everywhere again
+SECONDARY:ABSTRACTION                                            3
+    cause cause cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spread spread
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow slow
+SECONDARY:RESTRAINT                                              2
+    lock cage
+PRIMARY:SENSATION:TOUCH                                          1
+    touches
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparks
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 32.307692 %
+EMOTIONS            : 13.846154 %
+
+252 words total

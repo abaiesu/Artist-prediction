@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             5
+    unknown unknown unknown unknown unknown
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    screaming screaming screaming screaming screaming
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head heads
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:ABSTRACTION                                            1
+    thoughts
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairytales
+EMOTIONS:AGGRESSION                                              1
+    rage
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 12.000000 %
+EMOTIONS            : 28.000000 %
+
+167 words total

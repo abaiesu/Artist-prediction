@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    found make make try found make make try
+PRIMARY:SENSATION:VISION                                         5
+    blue seen blue seen look
+SECONDARY:ABSTRACTION                                            4
+    true thinking true thinking
+EMOTIONS:POSITIVE AFFECT                                         4
+    glad thrill glad thrill
+PRIMARY:NEED:ORALITY                                             2
+    corners corners
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wandered wandered
+EMOTIONS:SADNESS                                                 2
+    sad sad
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 29.032258 %
+SECONDARY           : 45.161290 %
+EMOTIONS            : 25.806452 %
+
+245 words total

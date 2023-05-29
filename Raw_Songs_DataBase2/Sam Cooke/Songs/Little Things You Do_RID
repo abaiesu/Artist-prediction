@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               7
+    love devotion kindly affection love love love
+SECONDARY:ABSTRACTION                                            6
+    true true tender tender true true
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    spoken say assurance assurance
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:SOFT                                           1
+    tings
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 28.571429 %
+
+103 words total

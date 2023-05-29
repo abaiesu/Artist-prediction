@@ -1,0 +1,52 @@
+PRIMARY:SENSATION:VISION                                        19
+    looking seen seen seen seen seen lights seen seen seen seen seen seen seen seen seen seen seen seen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    won won use use use use pay use use use use use use use
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         12
+    hands head head head hands hand hand hands hand hand hand hand
+SECONDARY:ABSTRACTION                                           10
+    plans them understand why why choose them understand them understand
+EMOTIONS:AGGRESSION                                              9
+    fight war shot shoots shot fight war fight war
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out back at inside inside
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies lies lies
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+EMOTIONS:AFFECTION                                               2
+    goodbyes goodbye
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sung cry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hung hung
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    gutter
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:SADNESS                                                 1
+    mourn
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    dim
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangs
+EMOTIONS:GLORY                                                   1
+    wonders
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    cryptic
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+
+PRIMARY             : 54.736842 %
+SECONDARY           : 29.473684 %
+EMOTIONS            : 15.789474 %
+
+320 words total

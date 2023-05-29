@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back at where back opened closer back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    count try try try found
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+PRIMARY:SENSATION:VISION                                         4
+    look brightest see saw
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head eyes head head
+SECONDARY:ABSTRACTION                                            4
+    know know know why
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road gate road
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    ruin wild ruin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high high high
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    lift lift lift
+SECONDARY:RESTRAINT                                              3
+    control control control
+EMOTIONS:AGGRESSION                                              3
+    hate gun kill
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:MORAL IMPERATIVE                                       2
+    shoulder right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:SENSATION:SOUND                                          1
+    banging
+
+PRIMARY             : 54.716981 %
+SECONDARY           : 35.849057 %
+EMOTIONS            : 9.433962 %
+
+233 words total

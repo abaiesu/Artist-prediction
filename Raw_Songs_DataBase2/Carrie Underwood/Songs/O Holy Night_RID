@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                         4
+    stars brightly shining appeared
+EMOTIONS:AFFECTION                                               4
+    dear love love grateful
+EMOTIONS:POSITIVE AFFECT                                         3
+    thrill rejoices joy
+PRIMARY:SENSATION:SOUND                                          3
+    hear voices chorus
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long within
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay weary
+EMOTIONS:AGGRESSION                                              2
+    breaks break
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    yonder
+EMOTIONS:GLORY                                                   1
+    glorious
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:ABSTRACTION                                            1
+    truly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    taught
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 54.838710 %
+SECONDARY           : 12.903226 %
+EMOTIONS            : 32.258065 %
+
+153 words total

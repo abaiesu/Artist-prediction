@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    round middle round round where out round round
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    told said meet said teacher told
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old old old old time
+PRIMARY:SENSATION:VISION                                         5
+    saw see stars see stars
+PRIMARY:NEED:ORALITY                                             4
+    meat honey honey honey
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild wild
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flew flew
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    pit pit
+PRIMARY:NEED:SEX                                                 2
+    waist waist
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    wrists wrists
+EMOTIONS:GLORY                                                   2
+    crowns crowns
+SECONDARY:ABSTRACTION                                            2
+    know cause
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revelations
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    horns
+
+PRIMARY             : 63.829787 %
+SECONDARY           : 29.787234 %
+EMOTIONS            : 6.382979 %
+
+234 words total

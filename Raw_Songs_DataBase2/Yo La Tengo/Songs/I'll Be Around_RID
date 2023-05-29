@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:VISION                                         5
+    looking see see looking looking
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when times times times
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    space at at at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pick pick pick
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doorway
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washing
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 65.000000 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 0.000000 %
+
+88 words total

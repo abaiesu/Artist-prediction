@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell said promised met said tell said ask please forgive
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    job job money won job
+SECONDARY:ABSTRACTION                                            4
+    know know know meant
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    nearly far away
+SECONDARY:ORDER                                                  3
+    simple simple simple
+PRIMARY:SENSATION:VISION                                         2
+    saw light
+EMOTIONS:AFFECTION                                               1
+    dear
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:AGGRESSION                                              1
+    breakin
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    border
+PRIMARY:NEED:ORALITY                                             1
+    corner
+SECONDARY:TEMPORAL REFERENCES                                    1
+    week
+SECONDARY:RESTRAINT                                              1
+    police
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candle
+
+PRIMARY             : 27.027027 %
+SECONDARY           : 64.864865 %
+EMOTIONS            : 8.108108 %
+
+188 words total

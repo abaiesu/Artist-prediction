@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    once time once time once time once time once everything
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    within side place surrounds surrounds
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreams fantasies dream awake
+EMOTIONS:AFFECTION                                               2
+    like loves
+PRIMARY:SENSATION:TASTE                                          2
+    bitterness bitterness
+SECONDARY:ABSTRACTION                                            1
+    reality
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treated
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 12.500000 %
+
+119 words total

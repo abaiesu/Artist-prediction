@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            8
+    cause think knows knows know may think knows
+EMOTIONS:AFFECTION                                               7
+    friends loves loving love loves friends loves
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won spend try find won
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say promise advice
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy satisfied
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    side
+EMOTIONS:SADNESS                                                 1
+    saddened
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    security
+EMOTIONS:AGGRESSION                                              1
+    fight
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 54.285714 %
+EMOTIONS            : 31.428571 %
+
+185 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    middle middle out back out at here places
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when times now now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk said said said
+PRIMARY:SENSATION:VISION                                         3
+    moonlight blue see
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+EMOTIONS:ANXIETY                                                 2
+    fear dangerous
+EMOTIONS:AGGRESSION                                              2
+    blame gun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway sky
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screams
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    paid
+SECONDARY:RESTRAINT                                              1
+    determined
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pitchfork
+
+PRIMARY             : 45.945946 %
+SECONDARY           : 37.837838 %
+EMOTIONS            : 16.216216 %
+
+206 words total

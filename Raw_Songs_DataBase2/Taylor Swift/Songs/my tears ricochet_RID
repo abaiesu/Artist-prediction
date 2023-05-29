@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here at at at at at at out out at
+SECONDARY:ABSTRACTION                                            6
+    cause why knowing know cause why
+EMOTIONS:AGGRESSION                                              6
+    fight stolen battleships kill killed blame
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    dying dead dead lullabies
+PRIMARY:SENSATION:VISION                                         4
+    look scene look look
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when years
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flying throw tossing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face blood bones
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    wake wake sleep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make used aim
+PRIMARY:SENSATION:SOUND                                          3
+    ring heart hear
+EMOTIONS:SADNESS                                                 2
+    weeping pain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire ashes
+EMOTIONS:AFFECTION                                               2
+    loved loved
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    bury sink
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell talk
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:GLORY                                                   1
+    hero
+PRIMARY:SENSATION:HARD                                           1
+    stones
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:NEED:ORALITY                                             1
+    drunk
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 22.058824 %
+EMOTIONS            : 19.117647 %
+
+325 words total

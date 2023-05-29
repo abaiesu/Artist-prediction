@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         30
+    head head head head head head head head toe head head head head head head head head toe head head head head head head head head head head head head
+SECONDARY:SOCIAL BEHAVIOR                                       29
+    say say say say say say say say say say say say say say say say say say say say say say say say say say say say say
+SECONDARY:ABSTRACTION                                           10
+    believe believe believe believe believe believe believe think believe believe
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    dance dance dance dance dance dance dance sing dance dance
+EMOTIONS:AFFECTION                                               6
+    love love like lovely lovely lovely
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay pay
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    attention attention
+PRIMARY:SENSATION:SOUND                                          2
+    snappers snappers
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 37.113402 %
+SECONDARY           : 46.391753 %
+EMOTIONS            : 16.494845 %
+
+351 words total

@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                         5
+    blue blue look blue blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away space here inside
+SECONDARY:ABSTRACTION                                            3
+    know thinking think
+EMOTIONS:AFFECTION                                               2
+    like love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now everybody
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughs laughs
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+EMOTIONS:GLORY                                                   1
+    crown
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sail
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+EMOTIONS:AGGRESSION                                              1
+    guns
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    saying
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sigh
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    foggy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lullaby
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 21.875000 %
+EMOTIONS            : 21.875000 %
+
+130 words total

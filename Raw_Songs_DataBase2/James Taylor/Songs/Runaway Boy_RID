@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back away back places here back away
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again ever ever today again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make won won used
+EMOTIONS:AFFECTION                                               3
+    like like like
+EMOTIONS:AGGRESSION                                              3
+    raging shot gun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyed eyes
+SECONDARY:ABSTRACTION                                            2
+    something believing
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river soak
+PRIMARY:SENSATION:VISION                                         2
+    seen see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:NEED:ORALITY                                             1
+    fat
+PRIMARY:NEED:ANALITY                                             1
+    muddy
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    float
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    roots
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 46.341463 %
+SECONDARY           : 34.146341 %
+EMOTIONS            : 19.512195 %
+
+252 words total

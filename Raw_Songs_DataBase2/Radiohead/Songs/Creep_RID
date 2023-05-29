@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here here here here here out out here here here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    makes belong belong makes belong belong
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when again
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye skin body
+PRIMARY:NEED:SEX                                                 3
+    fucking fucking fucking
+PRIMARY:SENSATION:VISION                                         2
+    look notice
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    float
+PRIMARY:SENSATION:SOFT                                           1
+    feather
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+EMOTIONS:AGGRESSION                                              1
+    hurts
+SECONDARY:RESTRAINT                                              1
+    control
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 13.888889 %
+
+186 words total

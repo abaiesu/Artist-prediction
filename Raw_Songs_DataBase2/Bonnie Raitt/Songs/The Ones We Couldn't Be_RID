@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away here open here far apart along apart here
+EMOTIONS:SADNESS                                                 7
+    sorry sorry sorry sorry sorry sorry sorry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used tried forge try tried
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now tonight now tonight
+PRIMARY:SENSATION:HARD                                           3
+    hard glass glass
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say forgiveness
+SECONDARY:ABSTRACTION                                            3
+    suppose truth may
+PRIMARY:SENSATION:TASTE                                          2
+    tangled tangled
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    solace solace
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AFFECTION                                               2
+    kinder like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tides
+EMOTIONS:AGGRESSION                                              1
+    tore
+
+PRIMARY             : 44.897959 %
+SECONDARY           : 34.693878 %
+EMOTIONS            : 20.408163 %
+
+289 words total

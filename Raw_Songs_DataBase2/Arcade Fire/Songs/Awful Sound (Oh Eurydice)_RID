@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           13
+    knew know know them think know think know them think know think know
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now when ever when again today again when when again today now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    beside away over back over back inside away over back over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make pay won make pay price pay
+PRIMARY:SENSATION:SOUND                                          6
+    sound sound sound sound sound sound
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please say say say say met
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+EMOTIONS:AFFECTION                                               3
+    love love love
+EMOTIONS:AGGRESSION                                              3
+    hit hit hit
+EMOTIONS:SADNESS                                                 2
+    disappointed pain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 35.616438 %
+SECONDARY           : 53.424658 %
+EMOTIONS            : 10.958904 %
+
+293 words total

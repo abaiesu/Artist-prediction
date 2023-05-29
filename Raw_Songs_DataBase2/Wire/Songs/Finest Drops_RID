@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               4
+    love kindness love love
+PRIMARY:SENSATION:VISION                                         3
+    hue light blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over at back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skinned leg
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk talk
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    frenzy sleepless
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drops
+EMOTIONS:AGGRESSION                                              1
+    attacks
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    finish
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:SENSATION:SOUND                                          1
+    timbre
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sail
+SECONDARY:RESTRAINT                                              1
+    caught
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 23.076923 %
+
+164 words total

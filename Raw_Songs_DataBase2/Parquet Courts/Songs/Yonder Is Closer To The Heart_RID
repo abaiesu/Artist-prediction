@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    across away closer across away closer
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time when time when
+SECONDARY:ORDER                                                  4
+    measured former measured former
+PRIMARY:SENSATION:TOUCH                                          3
+    thickness thickness thickness
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    wade wade wade
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    pile pile
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    lent lent
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    claim claim
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    brain brain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+PRIMARY:NEED:ORALITY                                             2
+    coffee coffee
+EMOTIONS:AGGRESSION                                              2
+    breaks breaks
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shakes shakes
+PRIMARY:NEED:SEX                                                 2
+    sex sex
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fade fade
+SECONDARY:ABSTRACTION                                            2
+    thoughts thoughts
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    yonder yonder
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+
+PRIMARY             : 65.217391 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 4.347826 %
+
+202 words total

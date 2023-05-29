@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                              20
+    like love like love like like like love like love like like love like love like like love love love
+SECONDARY:ABSTRACTION                                           10
+    thought know know know thought know thought know believe know
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now again now old when now again again again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    forward here forward forward here forward closets
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    asked said telling meet telling meet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    pay pay pay pay
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance dancin game
+SECONDARY:RESTRAINT                                              2
+    bar locked
+EMOTIONS:GLORY                                                   2
+    rich rich
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:SENSATION:VISION                                         2
+    stars stars
+PRIMARY:NEED:ORALITY                                             2
+    lunching lips
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+
+PRIMARY             : 27.848101 %
+SECONDARY           : 39.240506 %
+EMOTIONS            : 32.911392 %
+
+361 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    straights out away away out here closes at opening longer
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say speak speak speak speak speak speak
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    business won won won
+EMOTIONS:AFFECTION                                               3
+    friend favorite favorite
+SECONDARY:RESTRAINT                                              3
+    blocks stop bar
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything everything now
+SECONDARY:MORAL IMPERATIVE                                       2
+    customer customer
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyed
+PRIMARY:NEED:ORALITY                                             1
+    corner
+SECONDARY:ABSTRACTION                                            1
+    something
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 12.500000 %
+
+165 words total

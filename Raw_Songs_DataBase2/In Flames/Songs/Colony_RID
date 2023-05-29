@@ -1,0 +1,42 @@
+EMOTIONS:AGGRESSION                                              4
+    threat rage torn threat
+PRIMARY:SENSATION:VISION                                         2
+    light vision
+EMOTIONS:GLORY                                                   2
+    superior superior
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find machine
+SECONDARY:ABSTRACTION                                            2
+    effective reality
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when then
+SECONDARY:RESTRAINT                                              1
+    controlled
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangling
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pulse
+SECONDARY:MORAL IMPERATIVE                                       1
+    virtual
+PRIMARY:NEED:ORALITY                                             1
+    meat
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+EMOTIONS:AFFECTION                                               1
+    intimate
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    longer
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    responsibility
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 30.769231 %
+
+128 words total

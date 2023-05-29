@@ -1,0 +1,18 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    time time time time when years time time years time time time time
+EMOTIONS:AFFECTION                                               7
+    loving loving love loving love loving loving
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say tell say say say
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear hear hear
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 14.705882 %
+SECONDARY           : 64.705882 %
+EMOTIONS            : 20.588235 %
+
+147 words total

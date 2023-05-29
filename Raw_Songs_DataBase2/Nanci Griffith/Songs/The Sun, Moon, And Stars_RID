@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    years now then now then now then years now then
+PRIMARY:SENSATION:VISION                                         7
+    stars colour colour see colour stars colour
+EMOTIONS:AFFECTION                                               7
+    friends like like dear friends friends like
+SECONDARY:ABSTRACTION                                            4
+    understand guess cause understand
+PRIMARY:NEED:ORALITY                                             4
+    drunken drunken drunken drunken
+EMOTIONS:AGGRESSION                                              3
+    harm harm harm
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place back here
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    cloudy shadow
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breath
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rains
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    followed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    deadly
+PRIMARY:NEED:ANALITY                                             1
+    stale
+
+PRIMARY             : 46.000000 %
+SECONDARY           : 34.000000 %
+EMOTIONS            : 20.000000 %
+
+317 words total

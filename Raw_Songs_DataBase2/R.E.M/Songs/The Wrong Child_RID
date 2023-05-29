@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    long outside outside at at over here over here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    try try make found try find try find
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    sing game play play game play game play
+EMOTIONS:AFFECTION                                               8
+    friend like like like like friend like like
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    spokes tell tell told say say said
+EMOTIONS:POSITIVE AFFECT                                         6
+    happy happy laughing laughing happy happy
+PRIMARY:SENSATION:VISION                                         4
+    watched watch looking looking
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    spring jump leap swingset
+SECONDARY:ABSTRACTION                                            4
+    supposed supposed supposed supposed
+PRIMARY:SENSATION:COLD                                           2
+    children children
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tall
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sprinkler
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 37.313433 %
+SECONDARY           : 29.850746 %
+EMOTIONS            : 32.835821 %
+
+222 words total

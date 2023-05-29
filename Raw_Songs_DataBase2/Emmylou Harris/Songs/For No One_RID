@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time years when ago now years time when
+EMOTIONS:AFFECTION                                               6
+    kindness love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    longer longer behind out long behind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find makes won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes head
+SECONDARY:ABSTRACTION                                            3
+    believe think knew
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said says said
+EMOTIONS:AGGRESSION                                              2
+    breaks breaks
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    linger dead
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cried
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wakes
+
+PRIMARY             : 32.558140 %
+SECONDARY           : 44.186047 %
+EMOTIONS            : 23.255814 %
+
+168 words total

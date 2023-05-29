@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at out back out out back out
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            5
+    chance chance chance chance chance
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now while now while now
+SECONDARY:ABSTRACTION                                            4
+    prove learned know know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say grant said said
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    enchant
+EMOTIONS:SADNESS                                                 1
+    repentance
+
+PRIMARY             : 45.945946 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 13.513514 %
+
+159 words total

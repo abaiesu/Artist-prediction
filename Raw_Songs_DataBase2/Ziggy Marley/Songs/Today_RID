@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    today today today everyone today now today today today today today today today today everyone today
+EMOTIONS:AFFECTION                                               6
+    love love pat love love love
+SECONDARY:ABSTRACTION                                            5
+    them cause something why them
+EMOTIONS:AGGRESSION                                              4
+    weapons war weapons war
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here off behind
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    appear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spiritually
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+
+PRIMARY             : 16.666667 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 26.190476 %
+
+156 words total

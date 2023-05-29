@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   18
+    week now then time ago time time now now now when then then time ago time time time
+EMOTIONS:AFFECTION                                              18
+    like friend friend sympathy friend friend like friends love love love friend like friend friend friend friend like
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    tell call say telling say tell say say say call tell tell says says says says says
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    at back far back back long at long long long long round round round
+SECONDARY:ABSTRACTION                                            9
+    figure know cause know real real cause know know
+EMOTIONS:AGGRESSION                                              6
+    disagree arguing breaking broke hit doubt
+PRIMARY:SENSATION:VISION                                         4
+    see look see see
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    lean lean lean lean
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    making use try
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands eyes eyes
+SECONDARY:MORAL IMPERATIVE                                       3
+    right law right
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    sway
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:ORDER                                                  1
+    listening
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 49.523810 %
+EMOTIONS            : 23.809524 %
+
+484 words total

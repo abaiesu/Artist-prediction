@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    off where back at long off back where long long
+SECONDARY:TEMPORAL REFERENCES                                    9
+    then ago when when once time now ago ago
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said said said
+EMOTIONS:AFFECTION                                               4
+    love like love married
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window avenue avenue
+PRIMARY:SENSATION:VISION                                         2
+    rouge saw
+SECONDARY:RESTRAINT                                              2
+    catch bar
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    waving roll
+SECONDARY:ABSTRACTION                                            2
+    true choose
+EMOTIONS:AGGRESSION                                              2
+    fight war
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rode
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    traded
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springtime
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamed
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowded
+EMOTIONS:ANXIETY                                                 1
+    frightened
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 32.727273 %
+EMOTIONS            : 12.727273 %
+
+208 words total

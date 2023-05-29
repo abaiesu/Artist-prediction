@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    long long long long long long long long long long long long long long
+EMOTIONS:AFFECTION                                              12
+    goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye goodbye
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now till when ever when today till
+PRIMARY:SENSATION:VISION                                         6
+    watching watching watching watching watching watching
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+
+PRIMARY             : 47.619048 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 28.571429 %
+
+154 words total

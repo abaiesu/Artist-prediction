@@ -1,0 +1,58 @@
+EMOTIONS:AFFECTION                                              26
+    like kind love love lovely lovely lovely lovely lovely lovely lovely lovely lovely love love lovely lovely lovely lovely lovely lovely lovely love lovely lovely love
+SECONDARY:TEMPORAL REFERENCES                                   18
+    today today when then when when then today today when today today today today today today while everything
+SECONDARY:ABSTRACTION                                           11
+    know know know know something know know know know think think
+PRIMARY:SENSATION:VISION                                        10
+    looks sunlight look look look look lamp watching watching look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at at ahead at at situation at back long
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lay lies relax lay
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk say say suggestions
+SECONDARY:MORAL IMPERATIVE                                       2
+    honest right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    beach
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+EMOTIONS:AGGRESSION                                              1
+    hurts
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    recline
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:HARD                                           1
+    rockin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:NEED:SEX                                                 1
+    sexy
+
+PRIMARY             : 36.893204 %
+SECONDARY           : 35.922330 %
+EMOTIONS            : 27.184466 %
+
+431 words total

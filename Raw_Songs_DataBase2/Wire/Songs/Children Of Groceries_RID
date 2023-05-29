@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out place off off off
+PRIMARY:NEED:ORALITY                                             4
+    bite tongue swallow drink
+PRIMARY:SENSATION:VISION                                         2
+    beam colours
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highways
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    buying
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+EMOTIONS:AGGRESSION                                              1
+    betrays
+PRIMARY:SENSATION:TASTE                                          1
+    sour
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:COLD                                           1
+    children
+
+PRIMARY             : 85.714286 %
+SECONDARY           : 4.761905 %
+EMOTIONS            : 9.523810 %
+
+56 words total

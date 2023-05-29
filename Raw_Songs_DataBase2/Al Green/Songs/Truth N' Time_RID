@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   32
+    time time time time time time time time time time time time time time time time time time time time time old time time time time time time time time time time
+SECONDARY:ABSTRACTION                                           11
+    truth truth truth truth truth truth know truth truth truth truth
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say say tell say say tellin said say said
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 7.812500 %
+SECONDARY           : 84.375000 %
+EMOTIONS            : 7.812500 %
+
+177 words total

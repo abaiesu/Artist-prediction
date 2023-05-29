@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              20
+    loved love love love love like friend love love love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                   11
+    times now time now when present everything when now sometimes today
+SECONDARY:ABSTRACTION                                            6
+    why knows know know know know
+EMOTIONS:AGGRESSION                                              3
+    brokenhearted hurting hurt
+EMOTIONS:SADNESS                                                 3
+    lonesome sorrow sadness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long here
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm warm
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring toss
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy gladness
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carryin
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:VISION                                         1
+    rough
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 22.580645 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 45.161290 %
+
+294 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    space place place side between south where place side place side
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    share share say share share
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    melt ashes ashes ashes
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time when when
+EMOTIONS:AFFECTION                                               3
+    kinds embrace friend
+PRIMARY:SENSATION:TASTE                                          2
+    taste source
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    stream
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:SENSATION:COLD                                           1
+    north
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 7.894737 %
+
+159 words total

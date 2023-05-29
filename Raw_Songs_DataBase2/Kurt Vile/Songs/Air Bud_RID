@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    strange strange strange strange
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside where inside out
+SECONDARY:TEMPORAL REFERENCES                                    4
+    daily time daily now
+PRIMARY:SENSATION:SOUND                                          1
+    tones
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flyin
+EMOTIONS:GLORY                                                   1
+    wondering
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    result
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:SENSATION:VISION                                         1
+    watchin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizon
+
+PRIMARY             : 68.421053 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 5.263158 %
+
+69 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               9
+    love love love love love love love love love
+EMOTIONS:GLORY                                                   6
+    wonder wonder wonder wonder wonder wonder
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+SECONDARY:ABSTRACTION                                            2
+    why why
+PRIMARY:SENSATION:COLD                                           2
+    frost frost
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    cost cost
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then then
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 50.000000 %
+
+128 words total

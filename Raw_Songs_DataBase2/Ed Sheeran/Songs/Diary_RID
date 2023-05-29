@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    inside inside out open inside open inside between away inside out open inside open inside ahead ahead open inside open inside
+EMOTIONS:AFFECTION                                              15
+    love love love love friend love love love love like love love love love love
+SECONDARY:ABSTRACTION                                           13
+    know know why different know know why cause something true truly know truth
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    trying found used found work finished win tried make
+PRIMARY:NEED:ORALITY                                             8
+    eating raw eggs spite eat cream dishes tea
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say promise told say says excuse
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight again once
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    safe bed bed
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep wake
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing games
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+EMOTIONS:AGGRESSION                                              1
+    enemy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:SENSATION:SOUND                                          1
+    melody
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:COLD                                           1
+    ice
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 46.875000 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 18.750000 %
+
+542 words total

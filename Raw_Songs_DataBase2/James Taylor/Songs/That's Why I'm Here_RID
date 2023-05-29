@@ -1,0 +1,58 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    back long back out out here here here back here middle here
+SECONDARY:ABSTRACTION                                           12
+    reason understand think thinking why reason why why learn why why why
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when time now again again again every year suddenly everything
+EMOTIONS:AFFECTION                                               7
+    friend love like like like loved loved
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said borrow said said call tell said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    found try working pay money
+SECONDARY:ORDER                                                  3
+    listen listen listen
+EMOTIONS:AGGRESSION                                              3
+    struck hits break
+EMOTIONS:GLORY                                                   3
+    wondering gloria fame
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead dies bed
+PRIMARY:SENSATION:SOUND                                          3
+    hear ear ear
+PRIMARY:SENSATION:VISION                                         2
+    lightning brown
+PRIMARY:NEED:ORALITY                                             2
+    bread beer
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughter grin
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    wave shake
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn fire
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    uphill climb
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain bucket
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:ANXIETY                                                 1
+    dread
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 42.222222 %
+EMOTIONS            : 18.888889 %
+
+318 words total

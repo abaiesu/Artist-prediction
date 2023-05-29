@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    away here here here here out here here here here here here
+SECONDARY:MORAL IMPERATIVE                                       9
+    right right right right right right right right right
+SECONDARY:ABSTRACTION                                            5
+    know cause figure know know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    message depend depend
+PRIMARY:SENSATION:HARD                                           3
+    rocket rocket rocket
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step step
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time whenever
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouded
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clown
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    swim
+
+PRIMARY             : 48.780488 %
+SECONDARY           : 46.341463 %
+EMOTIONS            : 4.878049 %
+
+217 words total

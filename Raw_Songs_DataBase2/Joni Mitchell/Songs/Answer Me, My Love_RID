@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    answer tell please answer tell please answer please say please answer please say please answer answer
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:ABSTRACTION                                            7
+    believed think know true think know true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won try won try won
+SECONDARY:TEMPORAL REFERENCES                                    3
+    yesterday now now
+SECONDARY:ORDER                                                  2
+    listen listen
+SECONDARY:RESTRAINT                                              2
+    must must
+EMOTIONS:SADNESS                                                 2
+    sorrow sorrow
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+
+PRIMARY             : 4.347826 %
+SECONDARY           : 76.086957 %
+EMOTIONS            : 19.565217 %
+
+165 words total

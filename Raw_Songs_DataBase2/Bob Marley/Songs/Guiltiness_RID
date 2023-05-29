@@ -1,0 +1,18 @@
+PRIMARY:NEED:ORALITY                                            16
+    eat eat bread eat bread eat bread eat eat bread eat bread eat bread eat bread
+EMOTIONS:SADNESS                                                13
+    woe sorrow woe sad woe sorrow woe sorrow woe sad woe sorrow sorrow
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every every again every every every
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talking tell talk tell
+SECONDARY:MORAL IMPERATIVE                                       2
+    conscience conscience
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+
+PRIMARY             : 37.209302 %
+SECONDARY           : 32.558140 %
+EMOTIONS            : 30.232558 %
+
+187 words total

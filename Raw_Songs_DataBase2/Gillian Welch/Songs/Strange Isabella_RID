@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             9
+    strange strange strange strange strange strange strange strange strange
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    rain rains rain rains wash rain rains
+PRIMARY:SENSATION:COLD                                           6
+    cold freeze cold freeze cold freeze
+PRIMARY:NEED:ORALITY                                             3
+    tongue tongue tongue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where where where
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    says says
+PRIMARY:SENSATION:ODOR                                           1
+    perfume
+SECONDARY:ABSTRACTION                                            1
+    learned
+PRIMARY:SENSATION:VISION                                         1
+    blues
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+EMOTIONS:AFFECTION                                               1
+    pity
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    workin
+
+PRIMARY             : 86.111111 %
+SECONDARY           : 11.111111 %
+EMOTIONS            : 2.777778 %
+
+139 words total

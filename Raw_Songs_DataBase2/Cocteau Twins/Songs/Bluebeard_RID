@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               8
+    friend friend friend friend love friend friend friend
+SECONDARY:MORAL IMPERATIVE                                       7
+    right right right right right right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    safe safe safe safe safe safe safe
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    confidence confidence dependence assurances confidence confidence confidence
+EMOTIONS:AGGRESSION                                              5
+    betray betray betray betray betray
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    mistreat mistreat mistreat
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    exploration exploration
+SECONDARY:ABSTRACTION                                            1
+    may
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    diverting
+SECONDARY:ORDER                                                  1
+    balance
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    nameless
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:RESTRAINT                                              1
+    boundaries
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+
+PRIMARY             : 34.782609 %
+SECONDARY           : 36.956522 %
+EMOTIONS            : 28.260870 %
+
+219 words total

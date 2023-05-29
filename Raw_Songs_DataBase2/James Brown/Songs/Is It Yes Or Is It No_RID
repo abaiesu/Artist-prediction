@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    ever ever now when now when now when now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    making making making making won
+EMOTIONS:POSITIVE AFFECT                                         4
+    fun fun fun fun
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    answer said answer tell
+EMOTIONS:SADNESS                                                 2
+    suffer suffer
+SECONDARY:ABSTRACTION                                            2
+    cause know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back out
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:AFFECTION                                               1
+    darling
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    thrown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 62.857143 %
+EMOTIONS            : 22.857143 %
+
+166 words total

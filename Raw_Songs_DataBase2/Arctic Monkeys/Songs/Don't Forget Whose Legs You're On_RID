@@ -1,0 +1,40 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    yellow yellow dancer yellow
+PRIMARY:SENSATION:VISION                                         4
+    light light brown light
+PRIMARY:SENSATION:HARD                                           4
+    stone stone rock glass
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    faces handsome legs
+EMOTIONS:AFFECTION                                               3
+    mating like affect
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    picks picks picks
+EMOTIONS:AGGRESSION                                              3
+    cuts cuts cuts
+SECONDARY:TEMPORAL REFERENCES                                    2
+    season moment
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    fountain fountain
+SECONDARY:ABSTRACTION                                            2
+    important proof
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor step
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    sharpened answers
+EMOTIONS:SADNESS                                                 1
+    painted
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:NEED:ORALITY                                             1
+    lap
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 25.641026 %
+EMOTIONS            : 28.205128 %
+
+170 words total

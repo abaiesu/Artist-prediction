@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               4
+    love goodbye love goodbye
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    saying share talk saying
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try tried tried
+SECONDARY:ABSTRACTION                                            3
+    why choose why
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here aside within
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cried
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:AGGRESSION                                              1
+    break
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gate
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 28.571429 %
+
+140 words total

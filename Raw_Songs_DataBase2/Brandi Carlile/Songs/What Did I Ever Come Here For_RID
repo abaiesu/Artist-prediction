@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    long somewhere far where away here here at here here long at at away closed here here here here
+SECONDARY:TEMPORAL REFERENCES                                   11
+    then then ever ever ever ever ever ever ever ever ever
+SECONDARY:ABSTRACTION                                            5
+    knew thought know thought thought
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call said ask
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    doorway door door
+PRIMARY:SENSATION:VISION                                         3
+    light look looked
+EMOTIONS:AFFECTION                                               3
+    love like like
+PRIMARY:SENSATION:SOUND                                          2
+    heart heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing games
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes arms
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamt
+EMOTIONS:AGGRESSION                                              1
+    war
+
+PRIMARY             : 53.448276 %
+SECONDARY           : 36.206897 %
+EMOTIONS            : 10.344828 %
+
+294 words total

@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            9
+    cause know cause choose know cause cause probably know
+PRIMARY:SENSATION:VISION                                         9
+    see see see see see see see see see
+EMOTIONS:AFFECTION                                               8
+    like love love lovin like love love love
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    allowed tell promise tell tell tell
+EMOTIONS:AGGRESSION                                              5
+    wreck fight shove shove wreck
+PRIMARY:SENSATION:TOUCH                                          5
+    touch touch touch touch touch
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when time sometimes when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    surface where open open
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make try try
+PRIMARY:NEED:SEX                                                 2
+    fuck kiss
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile fun
+SECONDARY:MORAL IMPERATIVE                                       1
+    honestly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 36.923077 %
+EMOTIONS            : 23.076923 %
+
+565 words total

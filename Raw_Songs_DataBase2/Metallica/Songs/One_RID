@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell please please help please help speech
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    silence death death death die
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now time when now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream waking wake wake
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside back forward off
+PRIMARY:SENSATION:VISION                                         4
+    see look look see
+SECONDARY:ABSTRACTION                                            3
+    true real real
+SECONDARY:RESTRAINT                                              3
+    stops must imprisoning
+PRIMARY:SENSATION:ODOR                                           3
+    breath breath breath
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body arms legs
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    scream sight
+EMOTIONS:AGGRESSION                                              2
+    war cut
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    machines make
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:NEED:SEX                                                 1
+    womb
+PRIMARY:NEED:ORALITY                                             1
+    fed
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:ANXIETY                                                 1
+    horror
+PRIMARY:SENSATION:SOUND                                          1
+    hearing
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 12.962963 %
+
+212 words total

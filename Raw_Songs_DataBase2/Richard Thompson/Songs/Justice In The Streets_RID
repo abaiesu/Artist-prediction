@@ -1,0 +1,40 @@
+SECONDARY:MORAL IMPERATIVE                                       5
+    justice right justice justice justice
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    streets streets streets streets
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rain river river wash
+EMOTIONS:AGGRESSION                                              3
+    crushed fight fight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand head face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long away away
+SECONDARY:ABSTRACTION                                            3
+    them know real
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:SENSATION:VISION                                         2
+    seen see
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:SENSATION:HARD                                           1
+    iron
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sometimes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    valley
+
+PRIMARY             : 59.459459 %
+SECONDARY           : 29.729730 %
+EMOTIONS            : 10.810811 %
+
+172 words total

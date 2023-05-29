@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           11
+    know surely cause know something plan know why know something know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make test tried makes sweep tried makes
+PRIMARY:SENSATION:SOUND                                          7
+    bells ring voice heart hear heart hear
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    help say said help say
+PRIMARY:SENSATION:VISION                                         5
+    looked picture saw watched light
+EMOTIONS:GLORY                                                   5
+    proudly pride great proudly pride
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at away long open
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed slowly
+SECONDARY:ORDER                                                  2
+    listened listened
+PRIMARY:SENSATION:COLD                                           2
+    children children
+EMOTIONS:AFFECTION                                               2
+    dear dear
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candles
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doors
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 39.344262 %
+SECONDARY           : 47.540984 %
+EMOTIONS            : 13.114754 %
+
+254 words total

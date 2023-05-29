@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when everything when when when while then now
+EMOTIONS:AFFECTION                                               7
+    love like like love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away away away closer away long
+SECONDARY:RESTRAINT                                              5
+    captivated captivated captivated stop captivated
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make make make make
+PRIMARY:SENSATION:VISION                                         3
+    look glance light
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance dance dance
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes skin
+PRIMARY:SENSATION:TASTE                                          2
+    taste sweeter
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warmth sun
+PRIMARY:NEED:ORALITY                                             2
+    lips sugar
+SECONDARY:ABSTRACTION                                            2
+    cause believing
+PRIMARY:SENSATION:SOUND                                          2
+    sound voice
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile laugh
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+
+PRIMARY             : 41.071429 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 21.428571 %
+
+198 words total

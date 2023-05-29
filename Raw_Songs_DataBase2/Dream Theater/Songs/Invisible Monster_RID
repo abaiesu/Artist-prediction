@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                        12
+    look invisible seen invisible invisible seen invisible invisible seen invisible invisible invisible
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away toward inside at inside back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face eyes neck face
+SECONDARY:ABSTRACTION                                            4
+    choice thoughts ideas may
+SECONDARY:RESTRAINT                                              4
+    refusing refusing refusing control
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed dying
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire flame
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    irrational feverish
+EMOTIONS:ANXIETY                                                 2
+    fear worries
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    soaring flight
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:SENSATION:SOFT                                           1
+    whispering
+PRIMARY:SENSATION:SOUND                                          1
+    ear
+
+PRIMARY             : 72.916667 %
+SECONDARY           : 22.916667 %
+EMOTIONS            : 4.166667 %
+
+158 words total

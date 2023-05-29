@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               9
+    like goodbye like like lovin goodbye friend like like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every time again again now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say said persuade tell say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make try make
+SECONDARY:ABSTRACTION                                            4
+    know cause why know
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+SECONDARY:MORAL IMPERATIVE                                       1
+    honestly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+
+PRIMARY             : 14.705882 %
+SECONDARY           : 55.882353 %
+EMOTIONS            : 29.411765 %
+
+172 words total

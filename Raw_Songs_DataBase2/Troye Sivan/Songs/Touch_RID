@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    hands eye eyes hands hands eye eyes eye eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    closer closer center out out center out center out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    reach build reach reach reach reach
+SECONDARY:ABSTRACTION                                            4
+    almost almost them choose
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silence rest slower
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time ever past
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    roam roam roam
+PRIMARY:NEED:ORALITY                                             3
+    lips lips lips
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touch
+EMOTIONS:AGGRESSION                                              2
+    broken cut
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:VISION                                         1
+    glow
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    dimming
+PRIMARY:SENSATION:SOUND                                          1
+    ringing
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    swim
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answers
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 3.571429 %
+
+243 words total

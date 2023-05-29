@@ -1,0 +1,24 @@
+EMOTIONS:POSITIVE AFFECT                                         6
+    glad glad glad glad glad glad
+SECONDARY:ABSTRACTION                                            4
+    know choose sure learn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make test work make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out where
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knee
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:ORDER                                                  1
+    arrangement
+
+PRIMARY             : 21.739130 %
+SECONDARY           : 52.173913 %
+EMOTIONS            : 26.086957 %
+
+159 words total

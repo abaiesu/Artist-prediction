@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    arms arms head arms arms arms arms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long where long
+SECONDARY:TEMPORAL REFERENCES                                    3
+    till when when
+SECONDARY:ABSTRACTION                                            2
+    them cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed lay
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+EMOTIONS:AFFECTION                                               1
+    dear
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 9.090909 %
+
+94 words total

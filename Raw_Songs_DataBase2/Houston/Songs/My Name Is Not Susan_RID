@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    ago past now time then then now time then then when then
+SECONDARY:MORAL IMPERATIVE                                      11
+    oughta right respect right oughta right respect respect should respect right
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    said say call say say say call call say
+SECONDARY:ABSTRACTION                                            9
+    know believe know think know knew know think know
+PRIMARY:SENSATION:SOUND                                          7
+    hear heard heart hear hear hear hear
+EMOTIONS:AFFECTION                                               6
+    love embrace love love kind love
+PRIMARY:SENSATION:VISION                                         4
+    watch watch watch watch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long place
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell slip
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep dream
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:COLD                                           1
+    froze
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 29.411765 %
+SECONDARY           : 60.294118 %
+EMOTIONS            : 10.294118 %
+
+383 words total

@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              26
+    like like lova lova lova lova love love love love love love love loving love love love love love love love love love love love loving
+EMOTIONS:AGGRESSION                                              9
+    fighting fight fight fight fight fight fight fight fight
+SECONDARY:ABSTRACTION                                            6
+    know solution chosen chosen chosen chosen
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    called called called sharing say sharing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make soldiers soldiers paid work
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        4
+    forever forever forever forever
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+EMOTIONS:SADNESS                                                 1
+    depression
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:SENSATION:VISION                                         1
+    peers
+
+PRIMARY             : 9.230769 %
+SECONDARY           : 35.384615 %
+EMOTIONS            : 55.384615 %
+
+262 words total

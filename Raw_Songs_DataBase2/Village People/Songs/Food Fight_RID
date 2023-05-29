@@ -1,0 +1,36 @@
+PRIMARY:NEED:ORALITY                                            35
+    food food food food food food banana apple food food food food food food food food food food food food food banana apple food food food food food food food food food food food food
+EMOTIONS:AGGRESSION                                             35
+    fight fight weapon attack fight fight fight fight hit hit fight fight fight fight fight fight weapon attack fight fight fight fight fight hit hit fight fight fight fight fight fight fight fight fight fight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here front at back at front at back at
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old time everywhere everywhere now everywhere everywhere now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    teacher teacher teacher teacher
+SECONDARY:ABSTRACTION                                            3
+    something something something
+EMOTIONS:ANXIETY                                                 2
+    avoiding avoiding
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+PRIMARY:SENSATION:TOUCH                                          2
+    rub rub
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flying flying
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 48.181818 %
+SECONDARY           : 16.363636 %
+EMOTIONS            : 35.454545 %
+
+251 words total

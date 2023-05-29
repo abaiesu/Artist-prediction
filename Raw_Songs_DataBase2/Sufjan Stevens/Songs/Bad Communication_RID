@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talk say speaking told follow
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:SENSATION:VISION                                         3
+    look notice see
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny laughing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sunrise
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistaken
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 25.000000 %
+
+109 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               8
+    love kindness love loves love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back away far away here back away
+SECONDARY:ABSTRACTION                                            7
+    thought knew cause tenderness thought knew why
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now past yesterday now now
+SECONDARY:RESTRAINT                                              3
+    stop stop stop
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    answer call callin
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 19.047619 %
+
+172 words total

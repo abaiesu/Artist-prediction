@@ -1,0 +1,34 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    ladder ladder ladder ladder ladder
+SECONDARY:TEMPORAL REFERENCES                                    2
+    minute time
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    places out
+PRIMARY:SENSATION:VISION                                         2
+    watch see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answer call
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charming
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+SECONDARY:ABSTRACTION                                            1
+    almost
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climbing
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:NEED:SEX                                                 1
+    fucking
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 4.347826 %
+
+101 words total

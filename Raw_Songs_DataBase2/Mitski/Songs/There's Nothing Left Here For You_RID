@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try find counting
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    outside long
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once then
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 7.142857 %
+
+93 words total

@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    till till every every now when every every now when when every every till now when when
+PRIMARY:SENSATION:SOUND                                          7
+    heart hear hears hear hears hear hear
+SECONDARY:ABSTRACTION                                            7
+    know why know knows cause know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back back here back back
+PRIMARY:SENSATION:VISION                                         5
+    shined see lights lights lights
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    pretty fair pretty fair
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high top rafters sky
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    magic secrets magic magic
+SECONDARY:RESTRAINT                                              3
+    must must must
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging fly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    foot chest
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell buried
+PRIMARY:SENSATION:SOFT                                           1
+    feathers
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    earned
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:NEED:ORALITY                                             1
+    candy
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+
+PRIMARY             : 55.072464 %
+SECONDARY           : 40.579710 %
+EMOTIONS            : 4.347826 %
+
+273 words total

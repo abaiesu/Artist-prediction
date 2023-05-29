@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       30
+    out out out at out out out out out out out out at out out out out out out out off somewhere where side somewhere somewhere somewhere somewhere off off
+SECONDARY:ABSTRACTION                                           10
+    thought figure thoughts learned think think think think think think
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    edge edge edge edge edge edge edge edge line line
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now ever now now now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    scream play guitar cries
+PRIMARY:SENSATION:VISION                                         4
+    looking lights looking lights
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call call promises bargain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    die die silence die
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    labor work used
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+PRIMARY:SENSATION:COLD                                           2
+    chills chills
+PRIMARY:SENSATION:TASTE                                          2
+    tango tango
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning burning
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:HARD                                           2
+    rocker hard
+EMOTIONS:AGGRESSION                                              1
+    hurts
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+
+PRIMARY             : 67.415730 %
+SECONDARY           : 24.719101 %
+EMOTIONS            : 7.865169 %
+
+438 words total

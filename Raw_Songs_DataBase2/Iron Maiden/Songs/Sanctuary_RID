@@ -1,0 +1,38 @@
+SECONDARY:MORAL IMPERATIVE                                      16
+    sanctuary law sanctuary law sanctuary law sanctuary law sanctuary law sanctuary law sanctuary law sanctuary law
+PRIMARY:SENSATION:VISION                                        12
+    saw saw look saw saw look saw saw look saw saw look
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now now tonight tonight now now tonight tonight tonight
+SECONDARY:ABSTRACTION                                            5
+    know know know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out at at out
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    insane insane insane insane
+EMOTIONS:AFFECTION                                               3
+    love love love
+EMOTIONS:AGGRESSION                                              2
+    killed guns
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spends money
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:SENSATION:HARD                                           1
+    steel
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    canyon
+
+PRIMARY             : 39.062500 %
+SECONDARY           : 51.562500 %
+EMOTIONS            : 9.375000 %
+
+221 words total

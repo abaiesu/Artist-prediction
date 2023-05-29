@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place nearly far where out here
+SECONDARY:ABSTRACTION                                            4
+    thinkin may thinkin know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    burden try burden
+PRIMARY:SENSATION:VISION                                         2
+    blues look
+PRIMARY:SENSATION:SOUND                                          2
+    sound heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    early
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 34.615385 %
+EMOTIONS            : 3.846154 %
+
+183 words total

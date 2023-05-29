@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:SOUND                                          5
+    hear voices chorus hear voices
+PRIMARY:SENSATION:VISION                                         4
+    stars brightly shining appear
+EMOTIONS:AFFECTION                                               4
+    dear love love grateful
+SECONDARY:TEMPORAL REFERENCES                                    3
+    till when when
+EMOTIONS:POSITIVE AFFECT                                         3
+    thrill rejoices joy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long within
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay weary
+EMOTIONS:AGGRESSION                                              2
+    breaks break
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees knees
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    yonder
+EMOTIONS:GLORY                                                   1
+    glorious
+SECONDARY:ABSTRACTION                                            1
+    truly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    taught
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 54.285714 %
+SECONDARY           : 17.142857 %
+EMOTIONS            : 28.571429 %
+
+153 words total

@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now when then till soon now again now then till soon
+SECONDARY:ABSTRACTION                                           10
+    believe choose cause guess figure them sure sure believe choose
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make use work pick work pick
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long far back between long far
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please said tell said tell
+EMOTIONS:AGGRESSION                                              3
+    fight blame ripples
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+PRIMARY:SENSATION:VISION                                         2
+    glistens see
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:SENSATION:SOUND                                          1
+    loud
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+
+PRIMARY             : 29.090909 %
+SECONDARY           : 61.818182 %
+EMOTIONS            : 9.090909 %
+
+229 words total

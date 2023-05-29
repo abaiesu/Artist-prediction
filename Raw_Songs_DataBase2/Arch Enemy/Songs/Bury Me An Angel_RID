@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    between distant surface
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    voyage ride traveller
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    mystical mystical
+EMOTIONS:AGGRESSION                                              2
+    torn struggle
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell represent
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+SECONDARY:ORDER                                                  1
+    constant
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ABSTRACTION                                            1
+    certain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spent
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruined
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 13.043478 %
+
+80 words total

@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                        10
+    look look see sunshine look look saw look look saw
+SECONDARY:ABSTRACTION                                            7
+    know know something know know know know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when yesterday when yesterday
+PRIMARY:NEED:ANALITY                                             6
+    dirty dirty shit dirty dirty dirty
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    over place over backseat backseat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+PRIMARY:SENSATION:HARD                                           1
+    rocket
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 35.555556 %
+EMOTIONS            : 11.111111 %
+
+212 words total

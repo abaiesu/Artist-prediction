@@ -1,0 +1,28 @@
+EMOTIONS:AGGRESSION                                              4
+    broke broke kill kill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out round out
+EMOTIONS:AFFECTION                                               3
+    flirt love flirt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    earnest won earnest
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now once
+SECONDARY:ABSTRACTION                                            2
+    judged judged
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:NEED:ORALITY                                             1
+    salt
+SECONDARY:RESTRAINT                                              1
+    obligations
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    routines
+
+PRIMARY             : 29.166667 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 29.166667 %
+
+159 words total

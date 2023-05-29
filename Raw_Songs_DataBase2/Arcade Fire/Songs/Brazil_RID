@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    soon then now old soon then now when old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where away where away
+EMOTIONS:POSITIVE AFFECT                                         4
+    entertaining thrills entertaining thrills
+PRIMARY:SENSATION:SOFT                                           4
+    softly whispered softly whispered
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hearts
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    beneath beneath
+PRIMARY:SENSATION:VISION                                         2
+    amber amber
+PRIMARY:NEED:SEX                                                 2
+    kissed kissed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found found
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    twilight twilight
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above above
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ABSTRACTION                                            2
+    certain certain
+
+PRIMARY             : 48.780488 %
+SECONDARY           : 36.585366 %
+EMOTIONS            : 14.634146 %
+
+134 words total

@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    rescued aided allow say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    past past while time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    play play play play
+SECONDARY:ABSTRACTION                                            3
+    perhaps choice surely
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    horizons path
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    point out
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertain
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:SENSATION:SOUND                                          1
+    echoes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:SENSATION:VISION                                         1
+    shining
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    result
+
+PRIMARY             : 41.379310 %
+SECONDARY           : 44.827586 %
+EMOTIONS            : 13.793103 %
+
+91 words total

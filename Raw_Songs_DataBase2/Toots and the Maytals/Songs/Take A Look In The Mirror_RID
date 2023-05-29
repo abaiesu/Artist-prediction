@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        17
+    saw saw look see saw looking saw scene blue saw blue look looking look see saw looking
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time months time while while time time now while while while
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    met told told met help help met help help help
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at at at at at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:SENSATION:SOFT                                           2
+    whispered softly
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:ABSTRACTION                                            1
+    believe
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+SECONDARY:RESTRAINT                                              1
+    caught
+
+PRIMARY             : 49.090909 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 5.454545 %
+
+224 words total

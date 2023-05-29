@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    again now again again again again again now again now again now again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long at back where long at
+SECONDARY:ABSTRACTION                                            4
+    cause knew cause knew
+SECONDARY:RESTRAINT                                              2
+    stopped stopped
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling falling
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand arms
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    grey
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+
+PRIMARY             : 32.432432 %
+SECONDARY           : 56.756757 %
+EMOTIONS            : 10.810811 %
+
+111 words total

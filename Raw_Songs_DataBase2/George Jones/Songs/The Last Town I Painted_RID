@@ -1,0 +1,30 @@
+EMOTIONS:SADNESS                                                 9
+    painted painted painted painted painted painted sad painted painted
+PRIMARY:SENSATION:VISION                                         8
+    blue see blue blue blue color blues blue
+SECONDARY:ABSTRACTION                                            6
+    know true cause cause why cause
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now time again now when
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk asked tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found pay makes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out back
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searched search
+EMOTIONS:AFFECTION                                               2
+    goodbye favorite
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:ANXIETY                                                 1
+    troubles
+
+PRIMARY             : 27.906977 %
+SECONDARY           : 41.860465 %
+EMOTIONS            : 30.232558 %
+
+192 words total

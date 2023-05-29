@@ -1,0 +1,24 @@
+EMOTIONS:AGGRESSION                                              4
+    combat combat combat combat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    jobs jobs
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+SECONDARY:RESTRAINT                                              1
+    guard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slides
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roles
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 35.714286 %
+
+98 words total

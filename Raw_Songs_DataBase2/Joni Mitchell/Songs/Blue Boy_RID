@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         5
+    blue look looked looked glance
+SECONDARY:TEMPORAL REFERENCES                                    4
+    sometimes again times till
+EMOTIONS:AFFECTION                                               3
+    love like love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place out here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face face arms
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window door door
+PRIMARY:SENSATION:HARD                                           2
+    stone granite
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    pilgrim travelled
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    waken wake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find finds
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    called
+PRIMARY:SENSATION:SOUND                                          1
+    aloud
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+EMOTIONS:ANXIETY                                                 1
+    shyly
+PRIMARY:SENSATION:SOFT                                           1
+    feather
+
+PRIMARY             : 63.888889 %
+SECONDARY           : 19.444444 %
+EMOTIONS            : 16.666667 %
+
+154 words total

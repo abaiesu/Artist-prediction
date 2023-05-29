@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           11
+    guess cause think why thinking something think know think guess know
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time today today time old sometimes when till time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say told tell said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long where long long
+PRIMARY:SENSATION:VISION                                         4
+    seen see see blue
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes head
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flown
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 31.818182 %
+SECONDARY           : 61.363636 %
+EMOTIONS            : 6.818182 %
+
+248 words total

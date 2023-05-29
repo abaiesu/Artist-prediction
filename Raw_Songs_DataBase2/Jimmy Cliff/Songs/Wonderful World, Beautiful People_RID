@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             10
+    beautiful pretty beautiful pretty beautiful pretty beautiful pretty beautiful beautiful
+EMOTIONS:GLORY                                                   6
+    wonderful wonderful wonderful wonderful wonderful wonderful
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    agree helping talking talking talking talking
+SECONDARY:ABSTRACTION                                            5
+    sure learn know sure understand
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    underneath underneath underneath
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    secret secret secret
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at backbiting backbiting
+SECONDARY:TEMPORAL REFERENCES                                    3
+    today everybody everybody
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:SENSATION:VISION                                         2
+    look see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make try
+EMOTIONS:AGGRESSION                                              2
+    fighting fighting
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 44.897959 %
+SECONDARY           : 32.653061 %
+EMOTIONS            : 22.448980 %
+
+219 words total

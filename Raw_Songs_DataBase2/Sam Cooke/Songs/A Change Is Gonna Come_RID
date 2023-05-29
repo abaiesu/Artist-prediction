@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long long long long long long back long long long
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever time time time then times now time
+SECONDARY:ABSTRACTION                                            8
+    know cause know know know thought think know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    telling say help please able
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river river
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+
+PRIMARY             : 41.463415 %
+SECONDARY           : 53.658537 %
+EMOTIONS            : 4.878049 %
+
+190 words total

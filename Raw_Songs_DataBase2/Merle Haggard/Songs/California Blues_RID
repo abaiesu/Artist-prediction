@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                           12
+    cause know something know something know sure sure may sure sure may
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where out where out here here long here here
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every every everywhere while now
+PRIMARY:SENSATION:VISION                                         4
+    blues blues blues blues
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    treat tell tell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    railroad railroad
+SECONDARY:ORDER                                                  2
+    listen listen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+EMOTIONS:ANXIETY                                                 2
+    worried worried
+EMOTIONS:SADNESS                                                 1
+    lonesome
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 38.775510 %
+SECONDARY           : 51.020408 %
+EMOTIONS            : 10.204082 %
+
+187 words total

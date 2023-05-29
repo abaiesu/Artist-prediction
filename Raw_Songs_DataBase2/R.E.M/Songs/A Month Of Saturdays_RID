@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    clock month month weekend weekend weekend weekend weekend weekend month weekend weekend weekend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work make
+PRIMARY:SENSATION:TASTE                                          2
+    taste sweet
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talkin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+
+PRIMARY             : 18.181818 %
+SECONDARY           : 72.727273 %
+EMOTIONS            : 9.090909 %
+
+122 words total

@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everyone when now when ever now yesterday now now now
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    please help please please please borrow please please please
+EMOTIONS:AFFECTION                                               8
+    love love darling love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out out out out out
+SECONDARY:ABSTRACTION                                            3
+    know know something
+PRIMARY:SENSATION:VISION                                         2
+    see look
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    ecstasy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:AGGRESSION                                              1
+    blame
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 23.913043 %
+SECONDARY           : 52.173913 %
+EMOTIONS            : 23.913043 %
+
+200 words total

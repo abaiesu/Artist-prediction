@@ -1,0 +1,48 @@
+EMOTIONS:AGGRESSION                                             23
+    hurtin hurtin hurtin hurtin hurtin hurtin hurtin hurtin hit hurtin hurtin hurtin hurtin hurtin hurtin hurtin hurtin hurtin hurtin hurtin hurtin hurtin hurtin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won machinery crafted use used delivered
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time years old time time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand arms legs hand
+SECONDARY:ABSTRACTION                                            4
+    thinkin think think thinkin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street steps street
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at back where
+PRIMARY:NEED:ORALITY                                             3
+    eggs eating corn
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die laying
+SECONDARY:ORDER                                                  2
+    listen order
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    beach
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:GLORY                                                   1
+    richard
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    grinning
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+
+PRIMARY             : 32.835821 %
+SECONDARY           : 26.865672 %
+EMOTIONS            : 40.298507 %
+
+324 words total

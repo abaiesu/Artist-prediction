@@ -1,0 +1,56 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today years today years everything time during again
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    travelled wanderer wanderer
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful perceptible
+EMOTIONS:POSITIVE AFFECT                                         3
+    celebrate celebrate satisfy
+SECONDARY:ABSTRACTION                                            3
+    perhaps real thoughts
+EMOTIONS:GLORY                                                   2
+    triumphant crown
+EMOTIONS:AGGRESSION                                              2
+    whip stab
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    perpetual perpetual
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    restless restless
+EMOTIONS:AFFECTION                                               2
+    loved welcome
+SECONDARY:ORDER                                                  2
+    simple simple
+PRIMARY:SENSATION:VISION                                         2
+    imaginary vision
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    avail
+PRIMARY:NEED:ANALITY                                             1
+    dungeons
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    obscure
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    threshold
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    void
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bodies
+SECONDARY:MORAL IMPERATIVE                                       1
+    honoured
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chaotic
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 46.808511 %
+SECONDARY           : 31.914894 %
+EMOTIONS            : 21.276596 %
+
+172 words total

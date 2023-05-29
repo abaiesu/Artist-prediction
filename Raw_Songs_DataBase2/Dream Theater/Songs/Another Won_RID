@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    help grant request please promise asked spoken request
+EMOTIONS:AGGRESSION                                              6
+    cruelty broken vengeful jealous hatred killed
+SECONDARY:ABSTRACTION                                            6
+    plan contrived sure choice truth subject
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    flame lit fire
+EMOTIONS:AFFECTION                                               3
+    lover love love
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beauty perception
+PRIMARY:SENSATION:VISION                                         2
+    starlight see
+SECONDARY:RESTRAINT                                              2
+    hindered stop
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above sky
+SECONDARY:TEMPORAL REFERENCES                                    2
+    quickly now
+EMOTIONS:GLORY                                                   2
+    splendors brilliant
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:NEED:SEX                                                 1
+    lust
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    immortality
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    roared
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 34.042553 %
+SECONDARY           : 38.297872 %
+EMOTIONS            : 27.659574 %
+
+166 words total

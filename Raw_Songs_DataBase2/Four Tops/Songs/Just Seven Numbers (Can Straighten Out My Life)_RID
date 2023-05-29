@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    straighten out at back where straighten out where straight straighten out straight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won make make trying won make
+SECONDARY:ABSTRACTION                                            5
+    know know knew knew knew
+PRIMARY:SENSATION:VISION                                         3
+    see seen blue
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say call said
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then soon
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fair fair
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+EMOTIONS:GLORY                                                   1
+    pride
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 48.717949 %
+SECONDARY           : 41.025641 %
+EMOTIONS            : 10.256410 %
+
+188 words total

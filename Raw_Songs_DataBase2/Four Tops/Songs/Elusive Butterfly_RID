@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out distant open across distance long behind close across across
+SECONDARY:ABSTRACTION                                            9
+    something may somethin sure something believe something somethin sure
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    wake sleep dreams dreams dreams dreams
+PRIMARY:SENSATION:VISION                                         6
+    glimpse see bright seen bright bright
+PRIMARY:SENSATION:SOUND                                          5
+    sound ears hear heard echo
+SECONDARY:TEMPORAL REFERENCES                                    3
+    past quick past
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rise floating wings
+EMOTIONS:GLORY                                                   3
+    wonder wonder wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    chase chase chase
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window horizon
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fading shadow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    footsteps footsteps
+EMOTIONS:AGGRESSION                                              2
+    harm harm
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pursuing pursuing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    called followed
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    canyons
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruins
+PRIMARY:SENSATION:ODOR                                           1
+    breathin
+
+PRIMARY             : 63.768116 %
+SECONDARY           : 24.637681 %
+EMOTIONS            : 11.594203 %
+
+220 words total

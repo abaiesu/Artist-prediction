@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away back back back back apart back back
+SECONDARY:TEMPORAL REFERENCES                                    7
+    then today now now when today now
+EMOTIONS:AFFECTION                                               4
+    darling love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told saying please saying
+EMOTIONS:SADNESS                                                 3
+    sad sad lone
+EMOTIONS:AGGRESSION                                              3
+    hate broken hate
+SECONDARY:ABSTRACTION                                            2
+    true cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying mend
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+
+PRIMARY             : 32.432432 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 27.027027 %
+
+119 words total

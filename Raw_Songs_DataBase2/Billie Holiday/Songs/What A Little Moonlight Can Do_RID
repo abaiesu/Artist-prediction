@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         5
+    moonlight moonlight moonlight moonbeam moonlight
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while till when
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:RESTRAINT                                              2
+    shutter resist
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    utter say
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flutter
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:NEED:SEX                                                 1
+    kissed
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 10.000000 %
+
+97 words total

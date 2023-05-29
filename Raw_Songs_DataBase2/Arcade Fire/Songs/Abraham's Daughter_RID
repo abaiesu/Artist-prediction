@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while then then
+EMOTIONS:AGGRESSION                                              3
+    slaughter sword slaughter
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    asked said asked
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:SADNESS                                                 1
+    lonesome
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:SENSATION:VISION                                         1
+    watched
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 29.411765 %
+
+95 words total

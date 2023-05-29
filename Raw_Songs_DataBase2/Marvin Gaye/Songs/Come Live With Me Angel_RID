@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                               8
+    lover lover lover lover lover darling like darling
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    comfort comfort comfort comfort beautiful comfort
+SECONDARY:ABSTRACTION                                            5
+    understand sure true decide knows
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please pleasures please
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    2
+    times times
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at where
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fantasies
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    explore
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:NEED:ORALITY                                             1
+    eat
+EMOTIONS:AGGRESSION                                              1
+    breakfast
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:SENSATION:SOUND                                          1
+    music
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystery
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:NEED:SEX                                                 1
+    sexy
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 27.500000 %
+EMOTIONS            : 22.500000 %
+
+282 words total

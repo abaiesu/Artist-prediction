@@ -1,0 +1,42 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    ride ride ride ride ride ride
+EMOTIONS:AFFECTION                                               6
+    lovers like like like love love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    slipstream slipstream slipstream slipstream slipstream
+PRIMARY:SENSATION:SOUND                                          4
+    echo heartbeat ring hear
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say confession
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    behind behind behind
+SECONDARY:ABSTRACTION                                            2
+    think know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 61.363636 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 15.909091 %
+
+153 words total

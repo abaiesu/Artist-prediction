@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when now daily today now every every daily today
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    used sell make cost pay pay make
+SECONDARY:ABSTRACTION                                            6
+    think sure cause real thoughts real
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    street street streets street streets
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out out out
+EMOTIONS:AGGRESSION                                              4
+    beat steal kicks steal
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    depend say say
+EMOTIONS:AFFECTION                                               3
+    friend dear friends
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bones feet
+PRIMARY:NEED:ORALITY                                             2
+    meat eat
+SECONDARY:ORDER                                                  1
+    neat
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 34.545455 %
+SECONDARY           : 47.272727 %
+EMOTIONS            : 18.181818 %
+
+202 words total

@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            5
+    define history chosen reason believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far distant across among
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time while time when
+EMOTIONS:AGGRESSION                                              3
+    tyrants threaten struggle
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    share answer gift
+PRIMARY:SENSATION:VISION                                         3
+    seen seen shining
+PRIMARY:SENSATION:COLD                                           2
+    cold north
+PRIMARY:SENSATION:SOUND                                          2
+    music music
+EMOTIONS:AFFECTION                                               2
+    friends like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blooded
+PRIMARY:NEED:SEX                                                 1
+    lust
+EMOTIONS:GLORY                                                   1
+    empire
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:RESTRAINT                                              1
+    stops
+SECONDARY:ORDER                                                  1
+    listens
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 20.000000 %
+
+167 words total

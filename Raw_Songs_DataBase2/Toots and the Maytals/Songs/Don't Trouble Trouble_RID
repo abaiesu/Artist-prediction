@@ -1,0 +1,32 @@
+EMOTIONS:ANXIETY                                                 6
+    trouble trouble trouble trouble trouble trouble
+SECONDARY:ABSTRACTION                                            3
+    know supposed know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    helping help say
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find trying
+EMOTIONS:AGGRESSION                                              1
+    fight
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+SECONDARY:TEMPORAL REFERENCES                                    1
+    soon
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:NEED:ORALITY                                             1
+    nourish
+EMOTIONS:AFFECTION                                               1
+    friend
+
+PRIMARY             : 28.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 32.000000 %
+
+181 words total

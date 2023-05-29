@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            8
+    know know know know know something know something
+EMOTIONS:AFFECTION                                               8
+    love love like love love love love like
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time ago ever then ever years old
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    told say told
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long round where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes makes used
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cry
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:SENSATION:SOUND                                          1
+    loud
+PRIMARY:SENSATION:VISION                                         1
+    blues
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 26.190476 %
+
+200 words total

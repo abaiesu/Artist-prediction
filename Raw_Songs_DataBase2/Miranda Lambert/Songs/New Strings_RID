@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out here far away places out point west far inside
+SECONDARY:TEMPORAL REFERENCES                                    8
+    past past everything ever old ever when time
+SECONDARY:ABSTRACTION                                            4
+    real knew guess know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said said said
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should right
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+PRIMARY:SENSATION:VISION                                         2
+    seen notice
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad dreams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jump fly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+EMOTIONS:GLORY                                                   1
+    pride
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:ANXIETY                                                 1
+    worried
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 42.000000 %
+EMOTIONS            : 10.000000 %
+
+237 words total

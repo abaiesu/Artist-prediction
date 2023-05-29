@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                         9
+    look look see green look look lamp blue see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    walless street street stairs
+PRIMARY:SENSATION:SOUND                                          4
+    hear noise hear hear
+PRIMARY:NEED:ORALITY                                             3
+    mint swallows swallows
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    bathroom ocean sea
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place place
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:AFFECTION                                               1
+    welcome
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+EMOTIONS:GLORY                                                   1
+    crowns
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+
+PRIMARY             : 81.081081 %
+SECONDARY           : 10.810811 %
+EMOTIONS            : 8.108108 %
+
+136 words total

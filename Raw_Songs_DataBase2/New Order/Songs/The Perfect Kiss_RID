@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                           16
+    thinking knew know know believe know know believe thought thought know know believe know know believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    beside out apart out here out at out
+EMOTIONS:AFFECTION                                               6
+    friend friend love love love love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then then tonight often
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    suggested said pleasure said
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:AGGRESSION                                              2
+    gun gun
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 26.530612 %
+SECONDARY           : 51.020408 %
+EMOTIONS            : 22.448980 %
+
+147 words total

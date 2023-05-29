@@ -1,0 +1,32 @@
+PRIMARY:NEED:ORALITY                                             6
+    drunk drink drink drink drink drink
+SECONDARY:ABSTRACTION                                            6
+    guess guess guess meant guess guess
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every sometimes old date when
+SECONDARY:MORAL IMPERATIVE                                       4
+    oughta oughta oughta oughta
+EMOTIONS:AFFECTION                                               3
+    like like like
+EMOTIONS:AGGRESSION                                              2
+    fight shot
+PRIMARY:SENSATION:VISION                                         2
+    blue looks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spendin pay
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out round
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 52.777778 %
+EMOTIONS            : 13.888889 %
+
+159 words total

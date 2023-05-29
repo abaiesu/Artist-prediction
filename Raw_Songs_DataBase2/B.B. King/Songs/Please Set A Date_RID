@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    date date now when date now when now date now when date
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    please please say please say please say met please say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    far away far away far away far away
+SECONDARY:ABSTRACTION                                            4
+    cause cause cause cause
+EMOTIONS:AFFECTION                                               2
+    lovin lovin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:SADNESS                                                 1
+    frowns
+EMOTIONS:AGGRESSION                                              1
+    breakin
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 26.190476 %
+SECONDARY           : 64.285714 %
+EMOTIONS            : 9.523810 %
+
+155 words total

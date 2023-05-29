@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    out out across back out out out out out side out out out out out
+SECONDARY:TEMPORAL REFERENCES                                   13
+    everything everything every when while everything everything old everything everything everything everything everything
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    11
+    sight sight sight sight sight cry sight sight sight sight sight
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+SECONDARY:ABSTRACTION                                            5
+    true guess guess know true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money money buy make
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    says say says says
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    railroad stepping
+PRIMARY:NEED:ORALITY                                             2
+    apple pearl
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye football
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:GLORY                                                   2
+    great hero
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 38.028169 %
+SECONDARY           : 43.661972 %
+EMOTIONS            : 18.309859 %
+
+284 words total

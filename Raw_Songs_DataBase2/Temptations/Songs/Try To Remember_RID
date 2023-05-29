@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when when when then when when when then brief interlude then
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    callow follow follow follow follow follow follow follow follow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    try try try try try try try try
+SECONDARY:ABSTRACTION                                            5
+    tender except tender tender know
+EMOTIONS:AFFECTION                                               4
+    kind kind kind love
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    deep deep deep deep
+PRIMARY:SENSATION:SOFT                                           2
+    mellow mellow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    ember fire
+PRIMARY:SENSATION:SOUND                                          2
+    heart hearts
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:VISION                                         1
+    green
+PRIMARY:NEED:ORALITY                                             1
+    grain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellow
+EMOTIONS:SADNESS                                                 1
+    wept
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    beside
+PRIMARY:SENSATION:COLD                                           1
+    snow
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 29.310345 %
+SECONDARY           : 58.620690 %
+EMOTIONS            : 12.068966 %
+
+180 words total

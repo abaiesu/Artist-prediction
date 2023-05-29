@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    time when time when soon today when now when soon when now when now
+SECONDARY:ABSTRACTION                                            4
+    thought probably know know
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+EMOTIONS:AGGRESSION                                              3
+    violence violence violence
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    discuss speak
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flames fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+SECONDARY:RESTRAINT                                              1
+    police
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    extent
+
+PRIMARY             : 28.947368 %
+SECONDARY           : 57.894737 %
+EMOTIONS            : 13.157895 %
+
+152 words total

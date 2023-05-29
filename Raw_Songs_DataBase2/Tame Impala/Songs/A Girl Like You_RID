@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               8
+    like like like like like like like like
+SECONDARY:ABSTRACTION                                            7
+    known cause cause known know known known
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now now old now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    met talking talking talking met
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here along along
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door floor
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands knees
+EMOTIONS:AGGRESSION                                              2
+    protest protest
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:NEED:ORALITY                                             1
+    raw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+
+PRIMARY             : 24.324324 %
+SECONDARY           : 48.648649 %
+EMOTIONS            : 27.027027 %
+
+173 words total

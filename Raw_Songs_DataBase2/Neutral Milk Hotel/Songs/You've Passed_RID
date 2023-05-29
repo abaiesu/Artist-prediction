@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back away away away away
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when everything when
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    told please please
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    mistake fade mistake
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying lie
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climbing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AGGRESSION                                              1
+    angry
+
+PRIMARY             : 48.571429 %
+SECONDARY           : 37.142857 %
+EMOTIONS            : 14.285714 %
+
+149 words total

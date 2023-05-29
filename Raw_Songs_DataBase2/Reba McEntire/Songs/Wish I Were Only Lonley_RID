@@ -1,0 +1,32 @@
+EMOTIONS:SADNESS                                                 9
+    lonely lonely lonely lonely lonely lonely lonely lonely lonely
+SECONDARY:ABSTRACTION                                            7
+    know cause may know cause know cause
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when then ever then then then
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    says helpless helpless said helpless
+EMOTIONS:AFFECTION                                               5
+    goodbye kind kind love kind
+PRIMARY:SENSATION:VISION                                         3
+    blue blue blue
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh thrill
+SECONDARY:MORAL IMPERATIVE                                       2
+    ought right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+
+PRIMARY             : 13.333333 %
+SECONDARY           : 48.888889 %
+EMOTIONS            : 37.777778 %
+
+177 words total

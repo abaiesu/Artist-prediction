@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                        22
+    grey light colour blue colour vision colour blue colour colour colour light colour blue colour colour colour colour blue colour colour colour
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say said speak say speak say say
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes then when now time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back open back place behind
+SECONDARY:ABSTRACTION                                            5
+    different learn different something know
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        5
+    shades shadows mistaken mistaken mistaken
+EMOTIONS:ANXIETY                                                 4
+    afraid afraid afraid afraid
+SECONDARY:MORAL IMPERATIVE                                       3
+    right should right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    step street step
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    lifetime lifetime lifetime
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard heard
+SECONDARY:ORDER                                                  2
+    classified listen
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fires burning
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:RESTRAINT                                              1
+    resistance
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 60.810811 %
+SECONDARY           : 32.432432 %
+EMOTIONS            : 6.756757 %
+
+355 words total

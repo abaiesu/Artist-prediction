@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time time time
+EMOTIONS:AGGRESSION                                              3
+    kicked fighting fighting
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    committed share
+EMOTIONS:AFFECTION                                               2
+    friends friends
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    paid
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 12.500000 %
+SECONDARY           : 56.250000 %
+EMOTIONS            : 31.250000 %
+
+108 words total

@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         7
+    see amber see amber see amber amber
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place circles away close distance where
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when sometime years when
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy happy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor line
+PRIMARY:SENSATION:SOUND                                          2
+    hear voice
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:ABSTRACTION                                            1
+    believe
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 61.290323 %
+SECONDARY           : 25.806452 %
+EMOTIONS            : 12.903226 %
+
+150 words total

@@ -1,0 +1,48 @@
+EMOTIONS:AGGRESSION                                             13
+    hate bother hate hate steal hate hate robbed stole fight fight hate hate
+EMOTIONS:AFFECTION                                              12
+    like mate like friend like mate kind friends loved like like friends
+SECONDARY:TEMPORAL REFERENCES                                    9
+    ever when ever already ever ever then ever ever
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    said greets said helps greets greets said talk say
+SECONDARY:ABSTRACTION                                            8
+    thought plan caused believe reason why know plan
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    bed bed dead bed dead bed dead
+PRIMARY:SENSATION:VISION                                         6
+    lights see seen see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back where where off where where
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    roads roads roads roads
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used used pays
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    spark fire smoking
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    charm charm
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hands
+SECONDARY:MORAL IMPERATIVE                                       2
+    law correction
+PRIMARY:SENSATION:SOUND                                          2
+    music heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+EMOTIONS:POSITIVE AFFECT                                         1
+    joyriding
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:ANXIETY                                                 1
+    panic
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 37.234043 %
+SECONDARY           : 32.978723 %
+EMOTIONS            : 29.787234 %
+
+408 words total

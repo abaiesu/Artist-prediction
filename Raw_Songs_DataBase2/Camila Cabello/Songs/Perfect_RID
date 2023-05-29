@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               7
+    love darling love darling favorite darling favorite
+PRIMARY:SENSATION:VISION                                         7
+    see saw looking look see look look
+SECONDARY:ABSTRACTION                                            5
+    knew cause may know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time when now tonight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand eyes arms arms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found found
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    follow met
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing dancing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    between between
+SECONDARY:ORDER                                                  2
+    listening listening
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dive
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AGGRESSION                                              1
+    fighting
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    odds
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 22.727273 %
+
+175 words total

@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        20
+    looks bluer blue light bluer blue bluer blue light bluer blue bluer blue light bluer blue bluer blue bluer blue
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time when ever when ever ever ever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    closet out long over
+SECONDARY:ABSTRACTION                                            3
+    know sure cause
+EMOTIONS:SADNESS                                                 3
+    sad sad sad
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:COLD                                           1
+    colder
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 27.083333 %
+EMOTIONS            : 16.666667 %
+
+223 words total

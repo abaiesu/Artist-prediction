@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                           14
+    know true know believe believe causes believe know know them know true believe believe
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say please please said said please please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won make find won
+PRIMARY:SENSATION:SOUND                                          3
+    sound heart sound
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now ever now
+EMOTIONS:AFFECTION                                               2
+    goodbye goodbye
+EMOTIONS:AGGRESSION                                              2
+    broken breakin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 15.384615 %
+SECONDARY           : 71.794872 %
+EMOTIONS            : 12.820513 %
+
+159 words total

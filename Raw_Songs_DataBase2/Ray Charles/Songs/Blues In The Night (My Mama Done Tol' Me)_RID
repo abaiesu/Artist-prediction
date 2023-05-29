@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    told told said talk talking calling please talk told talk talk talk tell
+PRIMARY:SENSATION:VISION                                        11
+    blues blues light blues blues blues see look see blues blues
+SECONDARY:ABSTRACTION                                            9
+    knows know truth know cause know truth something know
+PRIMARY:SENSATION:SOUND                                          7
+    hear hear whistle clack echoing heard heard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    across back wherever here out here here
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when now old when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    knee eye face face eye
+EMOTIONS:ANXIETY                                                 5
+    worrisome worrisome worrisome tremble tremble
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing sing sing
+EMOTIONS:AGGRESSION                                              2
+    mockingbird harm
+EMOTIONS:AFFECTION                                               2
+    kind like
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:SADNESS                                                 1
+    lonesome
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 44.047619 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 16.666667 %
+
+366 words total

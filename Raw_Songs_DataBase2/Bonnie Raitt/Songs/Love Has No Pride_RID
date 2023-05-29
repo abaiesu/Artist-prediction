@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    times times once when when again again when when again when when again again
+EMOTIONS:AFFECTION                                              10
+    friends love love love love love love friend love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out out back out back back back out
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    call talk say call asking pleading call
+EMOTIONS:GLORY                                                   6
+    pride pride pride pride pride pride
+EMOTIONS:AGGRESSION                                              4
+    blame hurts blame blame
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:ABSTRACTION                                            3
+    think think truly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams crazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buy try
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+
+PRIMARY             : 27.692308 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 32.307692 %
+
+233 words total

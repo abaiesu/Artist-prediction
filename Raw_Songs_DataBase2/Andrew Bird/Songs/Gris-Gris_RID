@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    south southern where long at
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell advice talk talk
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything till till
+SECONDARY:ABSTRACTION                                            3
+    think why why
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    trip ship wandering
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:VISION                                         2
+    greener greener
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+PRIMARY:SENSATION:COLD                                           2
+    cold ice
+PRIMARY:NEED:ORALITY                                             2
+    drink drink
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:SENSATION:SOUND                                          1
+    sounds
+PRIMARY:SENSATION:TASTE                                          1
+    spicy
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 31.428571 %
+EMOTIONS            : 11.428571 %
+
+151 words total

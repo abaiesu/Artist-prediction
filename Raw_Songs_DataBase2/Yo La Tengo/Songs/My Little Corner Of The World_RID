@@ -1,0 +1,24 @@
+PRIMARY:NEED:ORALITY                                             8
+    corner corner corner corner corner corner corner corner
+EMOTIONS:AFFECTION                                               6
+    love embrace like welcome like welcome
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    along place away away
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon tonight
+SECONDARY:ABSTRACTION                                            2
+    knew knew
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 21.428571 %
+
+127 words total

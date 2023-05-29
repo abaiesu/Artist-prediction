@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              12
+    darlin like love like love like like love like love like like
+SECONDARY:ABSTRACTION                                            9
+    something know something something know something know something know
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell call calls tell tell tell
+SECONDARY:RESTRAINT                                              3
+    stopped locked stopped
+SECONDARY:TEMPORAL REFERENCES                                    3
+    already already already
+PRIMARY:NEED:SEX                                                 3
+    kisses kisses kisses
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              2
+    breaking breaking
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over separated
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    horns
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:COLD                                           1
+    snow
+
+PRIMARY             : 24.000000 %
+SECONDARY           : 42.000000 %
+EMOTIONS            : 34.000000 %
+
+171 words total

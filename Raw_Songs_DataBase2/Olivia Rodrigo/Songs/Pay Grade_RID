@@ -1,0 +1,42 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    call tell say help help talk
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    point here at away here
+SECONDARY:ORDER                                                  3
+    listen simply grade
+SECONDARY:ABSTRACTION                                            3
+    understand problems cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won make pay
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every years
+EMOTIONS:AFFECTION                                               2
+    like darlin
+PRIMARY:NEED:ANALITY                                             1
+    shit
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+EMOTIONS:AGGRESSION                                              1
+    enemy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+SECONDARY:RESTRAINT                                              1
+    taxes
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:VISION                                         1
+    glimpse
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pour
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 54.285714 %
+EMOTIONS            : 17.142857 %
+
+157 words total

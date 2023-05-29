@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   33
+    hour time time time when when hour time time time time time time time time time time time time time hour time time time time time time time time time time time time
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    ask follow ask
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    tower tower tower
+PRIMARY:SENSATION:VISION                                         3
+    watch watch lights
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try tried find
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water water
+EMOTIONS:AFFECTION                                               2
+    friends friends
+SECONDARY:RESTRAINT                                              2
+    obligated refuse
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:ABSTRACTION                                            1
+    judge
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 18.181818 %
+SECONDARY           : 76.363636 %
+EMOTIONS            : 5.454545 %
+
+149 words total

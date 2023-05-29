@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            8
+    decide know choices think know decide think plans
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    far at side back off out
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    forgive say said telling forgive forgive
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time already when sometime
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won won won spending make
+EMOTIONS:AFFECTION                                               3
+    love friends friends
+EMOTIONS:POSITIVE AFFECT                                         3
+    glad happy happy
+PRIMARY:SENSATION:SOUND                                          2
+    heard hear
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 28.888889 %
+SECONDARY           : 53.333333 %
+EMOTIONS            : 17.777778 %
+
+266 words total

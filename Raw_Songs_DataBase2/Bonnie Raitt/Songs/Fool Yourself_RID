@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    sayin say talk say help say say say say calls call
+SECONDARY:TEMPORAL REFERENCES                                    9
+    ever time now time every time old once again
+PRIMARY:SENSATION:VISION                                         4
+    lookout look watchout see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find try try try
+SECONDARY:ABSTRACTION                                            3
+    cause knows believe
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies rest lay
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play game cry
+EMOTIONS:AFFECTION                                               2
+    friend friend
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 22.727273 %
+SECONDARY           : 63.636364 %
+EMOTIONS            : 13.636364 %
+
+182 words total

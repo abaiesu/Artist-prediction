@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              21
+    loving loving loving friend friend loving loving loving love like friend loving loving loving loving loving loving friend loving loving loving
+SECONDARY:TEMPORAL REFERENCES                                   19
+    now then everything now everything when whenever then everything everything ever whenever then everything then everything whenever then everything
+SECONDARY:SOCIAL BEHAVIOR                                       18
+    share share share tell tell call share share call share share share share share call share share share
+SECONDARY:ABSTRACTION                                           13
+    know think cause cause cause cause know cause cause cause know think think
+SECONDARY:MORAL IMPERATIVE                                      10
+    should right should right should right should right should right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make make won make make make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here here long here here here
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams fantasy
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:ANXIETY                                                 1
+    fears
+
+PRIMARY             : 11.214953 %
+SECONDARY           : 62.616822 %
+EMOTIONS            : 26.168224 %
+
+591 words total

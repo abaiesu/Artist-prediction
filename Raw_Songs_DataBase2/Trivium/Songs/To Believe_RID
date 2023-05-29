@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:ODOR                                          20
+    breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe breathe
+SECONDARY:ABSTRACTION                                           15
+    meant defines believe something thoughts believe truth something thoughts believe something thoughts believe thoughts believe
+SECONDARY:RESTRAINT                                              5
+    punishment stop stop stop stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    claim won won won won
+EMOTIONS:AGGRESSION                                              4
+    weapons anger anger anger
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    within inside inside inside
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    speak assists speak speak
+EMOTIONS:ANXIETY                                                 4
+    anguish terrorist anguish anguish
+PRIMARY:SENSATION:HARD                                           4
+    hardest hardest hardest hardest
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    died lie dead
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    growing growing growing
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every now
+EMOTIONS:SADNESS                                                 2
+    misery grieve
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    bark cry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    madness paranoid
+PRIMARY:SENSATION:VISION                                         2
+    see view
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:NEED:ANALITY                                             1
+    reeks
+EMOTIONS:POSITIVE AFFECT                                         1
+    amuses
+EMOTIONS:AFFECTION                                               1
+    kind
+
+PRIMARY             : 47.126437 %
+SECONDARY           : 36.781609 %
+EMOTIONS            : 16.091954 %
+
+292 words total

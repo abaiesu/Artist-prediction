@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now time everything moment time time sometimes everyone
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside away place here
+SECONDARY:ABSTRACTION                                            2
+    something defined
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams awake
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fade shadow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searching sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    reminding
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    footsteps
+
+PRIMARY             : 51.724138 %
+SECONDARY           : 41.379310 %
+EMOTIONS            : 6.896552 %
+
+129 words total

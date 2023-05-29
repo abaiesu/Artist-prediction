@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                        10
+    see see see see flashes see see see see see
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    says said say says helps said say said
+SECONDARY:ABSTRACTION                                            7
+    think know thought know think know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    count test test won test test
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    chest eyes chest eyes chest chest
+EMOTIONS:AGGRESSION                                              5
+    gun beating beating beating beating
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now time sometimes then ever
+EMOTIONS:ANXIETY                                                 5
+    terrified scary terrified terrified terrified
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+SECONDARY:RESTRAINT                                              4
+    must must must must
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calm slow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    close here
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:NEED:ANALITY                                             1
+    sweating
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sunrise
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:AFFECTION                                               1
+    goodbye
+
+PRIMARY             : 39.726027 %
+SECONDARY           : 41.095890 %
+EMOTIONS            : 19.178082 %
+
+255 words total

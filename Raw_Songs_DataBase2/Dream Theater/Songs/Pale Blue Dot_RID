@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    far away distant point out out away place space out
+EMOTIONS:AGGRESSION                                              6
+    destroyers warriors hate despise hurtling destroyers
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    faint dream dream
+PRIMARY:SENSATION:VISION                                         2
+    light glance
+EMOTIONS:ANXIETY                                                 2
+    cowards fearless
+PRIMARY:SENSATION:COLD                                           2
+    children children
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rivers washed
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+SECONDARY:ABSTRACTION                                            2
+    know knowledge
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:RESTRAINT                                              1
+    captured
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spineless
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+EMOTIONS:GLORY                                                   1
+    heroes
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    explorers
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+
+PRIMARY             : 58.139535 %
+SECONDARY           : 16.279070 %
+EMOTIONS            : 25.581395 %
+
+151 words total

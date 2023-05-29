@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when now now now everything now ever now now now now
+EMOTIONS:AFFECTION                                               8
+    like love love love like like love love
+SECONDARY:ABSTRACTION                                            7
+    reason know know believe know know true
+PRIMARY:SENSATION:VISION                                         4
+    see blue see blue
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dreams dreamed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    longer where longer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:ANXIETY                                                 1
+    fears
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 32.608696 %
+SECONDARY           : 43.478261 %
+EMOTIONS            : 23.913043 %
+
+233 words total

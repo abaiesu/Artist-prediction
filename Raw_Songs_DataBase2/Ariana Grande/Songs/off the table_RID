@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           16
+    thought know know cause think know prove cause know know know know believe think cause know
+EMOTIONS:AFFECTION                                              15
+    love love like love love love love like love love love love like love love
+SECONDARY:TEMPORAL REFERENCES                                   11
+    ever again ever already already then then already again already whenever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    off out off off place back off off out here off
+SECONDARY:MORAL IMPERATIVE                                       5
+    should should right should should
+PRIMARY:SENSATION:HARD                                           3
+    hard harder hard
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help thankfully
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying trying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms head
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calm bed
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    void
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 31.578947 %
+SECONDARY           : 47.368421 %
+EMOTIONS            : 21.052632 %
+
+465 words total

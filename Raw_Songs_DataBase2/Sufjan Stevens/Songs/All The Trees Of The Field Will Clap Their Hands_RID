@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time year time every every every
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    applied preparing preparing
+SECONDARY:ABSTRACTION                                            3
+    thoughts thoughts thoughts
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard sound
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share invited
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far away
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees hills
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throwing
+EMOTIONS:AGGRESSION                                              1
+    destroying
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 58.333333 %
+EMOTIONS            : 8.333333 %
+
+122 words total

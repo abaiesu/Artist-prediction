@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back back back back back back
+EMOTIONS:ANXIETY                                                 1
+    terrifies
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headmaster
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    taught
+EMOTIONS:AGGRESSION                                              1
+    kill
+SECONDARY:ABSTRACTION                                            1
+    themselves
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 23.076923 %
+
+61 words total

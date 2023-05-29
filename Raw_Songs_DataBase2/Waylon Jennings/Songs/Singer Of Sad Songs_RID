@@ -1,0 +1,40 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make mend pay harvest pay used pay
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today early today early till today
+EMOTIONS:SADNESS                                                 5
+    misery sad sad sad sad
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    cried sights cried yellow cried
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    services called services services
+EMOTIONS:AFFECTION                                               3
+    sympathized lovely lovely
+EMOTIONS:AGGRESSION                                              3
+    broken broken broken
+PRIMARY:SENSATION:SOUND                                          3
+    hearts hearts hearts
+PRIMARY:SENSATION:VISION                                         3
+    brown lights brown
+PRIMARY:NEED:ORALITY                                             2
+    corn corn
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at somewhere
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamed
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spine
+
+PRIMARY             : 32.653061 %
+SECONDARY           : 34.693878 %
+EMOTIONS            : 32.653061 %
+
+196 words total

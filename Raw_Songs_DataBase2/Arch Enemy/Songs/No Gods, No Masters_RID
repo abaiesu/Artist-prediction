@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here back at at place at at
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time till time time time time time
+EMOTIONS:AGGRESSION                                              6
+    fight rebel rebel kill strike rebel
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart loud heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    picked make make
+SECONDARY:RESTRAINT                                              2
+    resist locked
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:GLORY                                                   1
+    proud
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 36.111111 %
+EMOTIONS            : 19.444444 %
+
+169 words total

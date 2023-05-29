@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               3
+    friends dear love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    apart away
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiles gayer
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+SECONDARY:ORDER                                                  1
+    simply
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 42.857143 %
+
+76 words total

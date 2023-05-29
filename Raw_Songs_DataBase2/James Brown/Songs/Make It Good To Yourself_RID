@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       26
+    call say please said said tell please said said said tell tell tell tell said tell tell tell tell tell tell tell tell tell tell tell
+EMOTIONS:AFFECTION                                              11
+    lover love love love like love lovin love love like like
+SECONDARY:ABSTRACTION                                           11
+    cause cause know know know know know cause know cause cause
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when when now when now now when now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make make make make make make make make make
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn warm
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+
+PRIMARY             : 9.459459 %
+SECONDARY           : 75.675676 %
+EMOTIONS            : 14.864865 %
+
+397 words total

@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    today everyones today tonight everyone today tonight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won won
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleeping sleeping sleeping sleeping
+PRIMARY:NEED:ORALITY                                             3
+    beans eatin beans
+PRIMARY:SENSATION:VISION                                         3
+    picture see picture
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    magic magic
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away away
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playful dancing
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    felling felling
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smoke fire
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+
+PRIMARY             : 59.459459 %
+SECONDARY           : 29.729730 %
+EMOTIONS            : 10.810811 %
+
+157 words total

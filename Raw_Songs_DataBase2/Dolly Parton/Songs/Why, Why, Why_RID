@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 16
+    make make try try try make try make make make try try try make try make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out out back back back out back back back
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say please tell say please tell
+SECONDARY:ABSTRACTION                                            5
+    why why why why why
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    cry cry cry cry cry
+EMOTIONS:POSITIVE AFFECT                                         4
+    glad happy glad happy
+EMOTIONS:AFFECTION                                               2
+    goodbye like
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every every
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 19.230769 %
+SECONDARY           : 57.692308 %
+EMOTIONS            : 23.076923 %
+
+197 words total

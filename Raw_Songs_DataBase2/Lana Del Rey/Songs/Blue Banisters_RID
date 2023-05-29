@@ -1,0 +1,52 @@
+PRIMARY:SENSATION:VISION                                        13
+    picture blue blue blue blue lightning shinin green blue grey blue green grey
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    said asked said said said met said help said convincin said said
+SECONDARY:ABSTRACTION                                           11
+    cause may real cause real except cause may knows knows may
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every past now when now every time
+EMOTIONS:SADNESS                                                 7
+    paint pain paint pain paint paint paint
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where place back away here away
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    pool swimmin pool rain rain washes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    jumped spring spring fly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wall lane lane
+PRIMARY:SENSATION:COLD                                           3
+    children winter winter
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try job makin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    heat smokin fires
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    handed feet
+PRIMARY:NEED:ORALITY                                             2
+    beer cake
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+EMOTIONS:ANXIETY                                                 2
+    scared scared
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    poetry
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 50.537634 %
+SECONDARY           : 36.559140 %
+EMOTIONS            : 12.903226 %
+
+382 words total

@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  10
+    high high high high high high high high high high
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place place round where round round
+EMOTIONS:POSITIVE AFFECT                                         5
+    fun fun excite fun fun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    low low valley low
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell ask guide says
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    sunset sunset sunset
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    hangin hangin hangin
+SECONDARY:ABSTRACTION                                            3
+    calculation why know
+PRIMARY:SENSATION:VISION                                         2
+    look lookin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sell
+PRIMARY:NEED:SEX                                                 1
+    obscene
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    paths
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+
+PRIMARY             : 70.454545 %
+SECONDARY           : 18.181818 %
+EMOTIONS            : 11.363636 %
+
+189 words total

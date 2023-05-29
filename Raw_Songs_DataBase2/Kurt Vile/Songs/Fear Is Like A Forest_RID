@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here where off back back space back back back back
+EMOTIONS:AFFECTION                                               7
+    like love like like love loved love
+SECONDARY:ABSTRACTION                                            6
+    know know cause true cause cause
+EMOTIONS:ANXIETY                                                 3
+    fear cares cares
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when ever
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promise
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tourist
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sung
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    works
+PRIMARY:SENSATION:VISION                                         1
+    seen
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 30.555556 %
+
+149 words total

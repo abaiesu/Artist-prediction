@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    again again everybody then everybody again everybody everybody everybody
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    face face face face face face
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where where behind behind
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won test
+SECONDARY:RESTRAINT                                              1
+    jail
+SECONDARY:ABSTRACTION                                            1
+    cause
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+PRIMARY:SENSATION:SOUND                                          1
+    boom
+
+PRIMARY             : 39.393939 %
+SECONDARY           : 51.515152 %
+EMOTIONS            : 9.090909 %
+
+434 words total

@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    front backyard front backyard long front backyard
+EMOTIONS:AFFECTION                                               6
+    love like like love love like
+SECONDARY:ABSTRACTION                                            6
+    guess know guess know guess know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    ride ride chasing ride ride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    step step road step
+PRIMARY:SENSATION:HARD                                           3
+    glasses stone glasses
+EMOTIONS:AGGRESSION                                              3
+    broken broken broken
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:NEED:ORALITY                                             3
+    jaws jaws jaws
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said help
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sowing trying
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play guitar
+SECONDARY:ORDER                                                  1
+    classic
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wildflower
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumble
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:NEED:ANALITY                                             1
+    shit
+
+PRIMARY             : 55.357143 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 19.642857 %
+
+296 words total

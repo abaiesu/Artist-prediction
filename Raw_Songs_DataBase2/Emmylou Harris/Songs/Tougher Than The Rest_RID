@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         8
+    blue watchin watchin lookin lookin rough rough rough
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out round here
+EMOTIONS:AFFECTION                                               4
+    love love love love
+PRIMARY:NEED:ORALITY                                             4
+    honey honey honey honey
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    rest rest rest rest
+SECONDARY:ABSTRACTION                                            3
+    learned know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    handsome arms
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talkin say
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road line
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    test
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+
+PRIMARY             : 70.000000 %
+SECONDARY           : 17.500000 %
+EMOTIONS            : 12.500000 %
+
+207 words total

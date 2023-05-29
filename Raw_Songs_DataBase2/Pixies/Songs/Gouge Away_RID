@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away away away away away away away away
+EMOTIONS:AGGRESSION                                              3
+    break break kill
+PRIMARY:SENSATION:TOUCH                                          2
+    stroke rubbing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms eyes
+SECONDARY:RESTRAINT                                              1
+    locks
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+PRIMARY:SENSATION:SOUND                                          1
+    belly
+PRIMARY:NEED:ORALITY                                             1
+    spoon
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 80.952381 %
+SECONDARY           : 4.761905 %
+EMOTIONS            : 14.285714 %
+
+105 words total

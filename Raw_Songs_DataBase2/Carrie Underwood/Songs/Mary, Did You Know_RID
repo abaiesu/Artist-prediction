@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           14
+    know know know know know know know know know know know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make delivered deliver
+SECONDARY:TEMPORAL REFERENCES                                    3
+    soon when again
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calm dead
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand face
+PRIMARY:NEED:SEX                                                 2
+    kiss kissed
+PRIMARY:SENSATION:SOUND                                          2
+    deaf hear
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    leap
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 41.025641 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 5.128205 %
+
+211 words total

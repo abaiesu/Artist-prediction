@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes hand eyes hand hand
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    allows call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+EMOTIONS:SADNESS                                                 2
+    wept weep
+PRIMARY:SENSATION:HARD                                           2
+    glassy stone
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deepest
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:GLORY                                                   1
+    hero
+PRIMARY:SENSATION:VISION                                         1
+    saw
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmth
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    seas
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ABSTRACTION                                            1
+    weighed
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 19.230769 %
+EMOTIONS            : 19.230769 %
+
+85 words total

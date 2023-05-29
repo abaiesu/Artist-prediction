@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    out out out front off out out front out out out out front out out
+SECONDARY:ABSTRACTION                                           13
+    think analysis define figure figure figure figure figure figure figure figure figure figure
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  10
+    throw throw throw throw throw throw throw throw throw throw
+PRIMARY:SENSATION:VISION                                         8
+    see see see see see see see see
+PRIMARY:NEED:ORALITY                                             4
+    mouth eaten lips mouth
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes skin bone
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talking say
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    harvest
+EMOTIONS:AGGRESSION                                              1
+    rage
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:ORDER                                                  1
+    precision
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+
+PRIMARY             : 63.768116 %
+SECONDARY           : 31.884058 %
+EMOTIONS            : 4.347826 %
+
+299 words total

@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out where long where long
+SECONDARY:ABSTRACTION                                            5
+    cause themselves cause themselves themselves
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body head head
+SECONDARY:RESTRAINT                                              3
+    conforms necessary necessary
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    lends speech speech
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fallen fallen fallen
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+PRIMARY:NEED:ORALITY                                             2
+    starvation starvation
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring spring
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quieted
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everydayness
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 2.777778 %
+
+121 words total

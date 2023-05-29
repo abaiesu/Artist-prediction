@@ -1,0 +1,48 @@
+PRIMARY:NEED:ORALITY                                            13
+    drinking whiskey drinking whiskey drinking whiskey drinking drinking whiskey drinking whiskey drinking whiskey
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now older old now ever now now now
+PRIMARY:SENSATION:VISION                                         7
+    see lights see looking see see see
+EMOTIONS:AFFECTION                                               7
+    like like like like like like like
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    water water water water water water
+PRIMARY:SENSATION:TOUCH                                          6
+    touch touch touch touch touch touch
+EMOTIONS:SADNESS                                                 6
+    pain pain pain pain pain pain
+EMOTIONS:AGGRESSION                                              5
+    hurtin hurtin hurtin hurtin hurtin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out here inside outside
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line wall door
+SECONDARY:ABSTRACTION                                            3
+    know learn know
+PRIMARY:SENSATION:SOUND                                          3
+    loud hear ears
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    peak high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    valley low
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    thumb
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 62.195122 %
+SECONDARY           : 15.853659 %
+EMOTIONS            : 21.951220 %
+
+299 words total

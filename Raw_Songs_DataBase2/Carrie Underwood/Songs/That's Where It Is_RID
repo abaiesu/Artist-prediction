@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    circles here close where where where back here where where places where where where where where
+SECONDARY:TEMPORAL REFERENCES                                   16
+    when when when when when when when now when when when when when when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyes hands eyes arms hand arms arms
+SECONDARY:ABSTRACTION                                            5
+    thought planned sure supposed tender
+PRIMARY:SENSATION:TASTE                                          5
+    tangled tangled tangled sweetest tangled
+SECONDARY:RESTRAINT                                              5
+    resist caught resist resist resist
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:AFFECTION                                               3
+    like embraces like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk talk talk
+PRIMARY:NEED:SEX                                                 3
+    kiss kiss kiss
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever lifetime
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    madness
+PRIMARY:SENSATION:HARD                                           1
+    solid
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 51.898734 %
+SECONDARY           : 43.037975 %
+EMOTIONS            : 5.063291 %
+
+289 words total

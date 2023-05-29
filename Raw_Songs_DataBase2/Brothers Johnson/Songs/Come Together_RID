@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyeball hair knee toe football feet knees
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here flattop over over over
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old now now early now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please say tell say
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roller spinal roller
+SECONDARY:ABSTRACTION                                            3
+    know know cause
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:VISION                                         2
+    looking see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+EMOTIONS:POSITIVE AFFECT                                         1
+    joker
+EMOTIONS:AGGRESSION                                              1
+    shoots
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    production
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    coaster
+PRIMARY:NEED:ANALITY                                             1
+    muddy
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 56.097561 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 4.878049 %
+
+159 words total

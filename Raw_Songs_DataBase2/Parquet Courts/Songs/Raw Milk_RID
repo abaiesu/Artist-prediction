@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    times time old time when
+PRIMARY:SENSATION:SOUND                                          3
+    heard sound whirling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at back at
+PRIMARY:NEED:ORALITY                                             3
+    feeds drinking brewing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used won
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eye
+SECONDARY:ABSTRACTION                                            2
+    thinking something
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+EMOTIONS:ANXIETY                                                 1
+    terrifies
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comforts
+PRIMARY:SENSATION:TOUCH                                          1
+    scratching
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:RESTRAINT                                              1
+    summons
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dances
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spin
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:NEED:SEX                                                 1
+    bitchin
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 30.555556 %
+EMOTIONS            : 13.888889 %
+
+121 words total

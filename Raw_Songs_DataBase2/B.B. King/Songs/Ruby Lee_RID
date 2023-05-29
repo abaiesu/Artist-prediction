@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                           11
+    cause true know true cause true know reason why cause true
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tellin tellin please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money try
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:VISION                                         1
+    ruby
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+EMOTIONS:AGGRESSION                                              1
+    bother
+
+PRIMARY             : 17.391304 %
+SECONDARY           : 73.913043 %
+EMOTIONS            : 8.695652 %
+
+184 words total

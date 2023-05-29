@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now moment
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy glad
+EMOTIONS:AFFECTION                                               2
+    dear like
+SECONDARY:RESTRAINT                                              1
+    resist
+SECONDARY:ABSTRACTION                                            1
+    resolve
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 28.571429 %
+
+81 words total

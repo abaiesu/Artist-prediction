@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    along off off along along along
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    body body blood body
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    edge edge street
+SECONDARY:ABSTRACTION                                            2
+    know thinking
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+SECONDARY:MORAL IMPERATIVE                                       1
+    property
+EMOTIONS:AGGRESSION                                              1
+    breakfast
+PRIMARY:NEED:ORALITY                                             1
+    tea
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pouring
+
+PRIMARY             : 76.923077 %
+SECONDARY           : 19.230769 %
+EMOTIONS            : 3.846154 %
+
+92 words total

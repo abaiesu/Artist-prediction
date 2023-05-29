@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    windows doors streets
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain washing
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling tumbling
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shake shaking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over behind
+SECONDARY:MORAL IMPERATIVE                                       2
+    shoulder right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds above
+EMOTIONS:GLORY                                                   2
+    great renown
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    roars
+PRIMARY:SENSATION:SOUND                                          1
+    rattle
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 76.000000 %
+SECONDARY           : 8.000000 %
+EMOTIONS            : 16.000000 %
+
+187 words total

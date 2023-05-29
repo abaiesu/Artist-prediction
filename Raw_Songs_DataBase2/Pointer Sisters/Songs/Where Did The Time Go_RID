@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time time moment ever ever time time till
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where where where where away
+SECONDARY:ABSTRACTION                                            4
+    knew knowing sure knew
+EMOTIONS:AFFECTION                                               4
+    darlin loved like loves
+PRIMARY:SENSATION:VISION                                         2
+    saw see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tellin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    occupy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    linger
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searchin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 51.724138 %
+EMOTIONS            : 13.793103 %
+
+105 words total

@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              24
+    kind kind kind kind kind kind kind kind kind kind kind kind kind kind kind kind kind kind like kind kind kind kind kind
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    say speaking speaking met say say say say say say say say say say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    pick won won won make make won
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now now once now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out here longer longer close
+PRIMARY:SENSATION:HARD                                           4
+    hard hard hard hard
+SECONDARY:ABSTRACTION                                            3
+    cause cause understand
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:RESTRAINT                                              1
+    stops
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+
+PRIMARY             : 16.417910 %
+SECONDARY           : 47.761194 %
+EMOTIONS            : 35.820896 %
+
+330 words total

@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            6
+    knew something know something know why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make making sell trying making
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back far far
+EMOTIONS:AGGRESSION                                              2
+    stole cutting
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow slow
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:AFFECTION                                               1
+    loving
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:SENSATION:HARD                                           1
+    solid
+SECONDARY:RESTRAINT                                              1
+    limits
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 51.724138 %
+EMOTIONS            : 13.793103 %
+
+363 words total

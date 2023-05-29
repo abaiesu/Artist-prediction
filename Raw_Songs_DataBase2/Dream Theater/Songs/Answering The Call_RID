@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:VISION                                        14
+    glisten crimson views bright radiant shine illuminating look radiant shine illuminating radiant shine illuminating
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    accepted answering call call answering call answering call answering call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    within long long aside longer back long aside longer
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when when time when when when past
+SECONDARY:ABSTRACTION                                            7
+    truth truth know truth thoughts knowing choose
+EMOTIONS:AFFECTION                                               4
+    love embrace love embrace
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart deafening heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    price pay found found
+EMOTIONS:AGGRESSION                                              3
+    raging fight threatening
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire burns flame
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    walls wall
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fellow fellow
+EMOTIONS:SADNESS                                                 2
+    weeping tearful
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye face
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    higher higher
+EMOTIONS:GLORY                                                   1
+    empires
+SECONDARY:MORAL IMPERATIVE                                       1
+    conscience
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+
+PRIMARY             : 50.602410 %
+SECONDARY           : 36.144578 %
+EMOTIONS            : 13.253012 %
+
+251 words total

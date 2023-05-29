@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                             14
+    cruelty cruelty cruelty blame cruelty cruelty cruelty cruelty blamed cruelty cruelty cruelty cruelty cruelty
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say sharing say granted say
+SECONDARY:ABSTRACTION                                            5
+    judge judge different reason judge
+SECONDARY:ORDER                                                  4
+    listened listened listened listened
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard heard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silence silence silence
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun excitement merry
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used claim
+SECONDARY:MORAL IMPERATIVE                                       1
+    honor
+EMOTIONS:AFFECTION                                               1
+    marriage
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 15.555556 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 40.000000 %
+
+207 words total

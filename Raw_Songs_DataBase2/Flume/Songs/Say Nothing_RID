@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       43
+    talk say say say say say say say say say say say say talk say say say say say say say say say say say say say say say say say say say say say say say say say say say say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    far close far inside at back back back back far inside at back back back back back back back back back
+EMOTIONS:AFFECTION                                              16
+    like goodbye goodbye goodbye love love goodbye goodbye goodbye like goodbye goodbye goodbye goodbye goodbye goodbye
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when now everywhere now time now when when now time now when ever
+PRIMARY:SENSATION:VISION                                         5
+    see see saw see bright
+SECONDARY:ABSTRACTION                                            5
+    know know know think know
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+EMOTIONS:AGGRESSION                                              1
+    hurts
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:SENSATION:HARD                                           1
+    harder
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 29.565217 %
+SECONDARY           : 55.652174 %
+EMOTIONS            : 14.782609 %
+
+350 words total

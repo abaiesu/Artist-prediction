@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    open far wide where where
+EMOTIONS:GLORY                                                   4
+    golden wonder golden wonder
+PRIMARY:SENSATION:SOFT                                           2
+    lace lace
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    magic magic
+SECONDARY:ORDER                                                  2
+    list list
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blast
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 19.047619 %
+EMOTIONS            : 23.809524 %
+
+56 words total

@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                         15
+    heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    call meeting call call sharin sharin
+SECONDARY:ABSTRACTION                                            6
+    know knew know cause know know
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside out
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows mistake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 38.636364 %
+EMOTIONS            : 6.818182 %
+
+212 words total

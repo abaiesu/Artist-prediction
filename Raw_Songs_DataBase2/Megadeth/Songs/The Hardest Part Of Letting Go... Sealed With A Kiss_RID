@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                              10
+    love goodbye goodbye goodbye love love love goodbye goodbye goodbye
+SECONDARY:ABSTRACTION                                            6
+    knew knew learned plan figure learned
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    across long away long long
+PRIMARY:SENSATION:VISION                                         4
+    radiant saw moonlight watch
+PRIMARY:SENSATION:HARD                                           4
+    hardest stone stone hardest
+PRIMARY:SENSATION:TASTE                                          4
+    taste sweet taste sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make makeshift
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ago ago
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    saying saying
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+EMOTIONS:AGGRESSION                                              2
+    revenge revenge
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:SADNESS                                                 1
+    weeping
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 55.357143 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 23.214286 %
+
+177 words total

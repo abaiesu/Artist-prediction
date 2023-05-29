@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    away across away away across away back ahead away away across away
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           9
+    sail sail sail sail sail sail sail sail sail
+EMOTIONS:AFFECTION                                               7
+    like loves love loves friend love love
+PRIMARY:SENSATION:TASTE                                          6
+    sweet sweet sweet sweet sweet sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    use find makes find find
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when again soon soon
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say forgive told
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    sea sea sea
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:ABSTRACTION                                            3
+    know know know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+
+PRIMARY             : 61.666667 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 13.333333 %
+
+241 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               9
+    like likes likes likes like likes likes likes like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make won try make pay found make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out out situation out out
+PRIMARY:SENSATION:VISION                                         4
+    watch watch see watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chance chance chance
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance dance dance
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell ask said
+PRIMARY:SENSATION:HARD                                           3
+    rock rock rocking
+PRIMARY:SENSATION:SOUND                                          3
+    swishing swishing swishing
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    swaying swaying swaying
+SECONDARY:ABSTRACTION                                            3
+    different think learn
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+PRIMARY:SENSATION:TASTE                                          1
+    sweettalk
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    relax
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 47.058824 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 23.529412 %
+
+288 words total

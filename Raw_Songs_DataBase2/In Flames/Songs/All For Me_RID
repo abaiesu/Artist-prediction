@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    while when now when now till when now
+SECONDARY:ABSTRACTION                                            6
+    real sure thought reason sure sure
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    burning burn burn burn
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    told say answer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    burden won build
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands head
+EMOTIONS:AGGRESSION                                              2
+    fight breaking
+PRIMARY:SENSATION:SOUND                                          1
+    bang
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 51.282051 %
+EMOTIONS            : 10.256410 %
+
+223 words total

@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now now time yesterday when now now now now
+EMOTIONS:AFFECTION                                               5
+    devotion like friend lovin like
+EMOTIONS:AGGRESSION                                              4
+    gun hurts hurts hurts
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    hot flame sun hot
+PRIMARY:SENSATION:VISION                                         4
+    lights look looking light
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    behind inside inside inside
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    telling telling talk telling
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain rainbow rain
+SECONDARY:ABSTRACTION                                            3
+    know know know
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:ANXIETY                                                 2
+    uneasy uneasy
+EMOTIONS:GLORY                                                   2
+    pride pride
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes make
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrills
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 34.545455 %
+SECONDARY           : 38.181818 %
+EMOTIONS            : 27.272727 %
+
+302 words total

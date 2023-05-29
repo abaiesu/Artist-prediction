@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell conducting assistance tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    producer using succession
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time during during
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:MORAL IMPERATIVE                                       1
+    virtually
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:AGGRESSION                                              1
+    war
+PRIMARY:SENSATION:SOUND                                          1
+    music
+
+PRIMARY             : 17.647059 %
+SECONDARY           : 64.705882 %
+EMOTIONS            : 17.647059 %
+
+98 words total

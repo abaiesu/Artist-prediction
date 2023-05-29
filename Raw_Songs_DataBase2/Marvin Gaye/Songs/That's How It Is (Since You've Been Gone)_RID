@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now old every every every
+SECONDARY:ABSTRACTION                                            4
+    cause knew why understand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where away away here
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    sayin say helpless
+EMOTIONS:SADNESS                                                 3
+    weep lonely despair
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hands
+EMOTIONS:AFFECTION                                               2
+    goodbye dear
+PRIMARY:NEED:ORALITY                                             2
+    food eat
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    curtains mistake
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washed
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:ANXIETY                                                 1
+    afraid
+
+PRIMARY             : 45.714286 %
+SECONDARY           : 37.142857 %
+EMOTIONS            : 17.142857 %
+
+241 words total

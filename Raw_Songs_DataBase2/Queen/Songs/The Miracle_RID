@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    every today every every every every today time when time when time when time when time
+EMOTIONS:GLORY                                                   5
+    great golden wonders wonders wonders
+EMOTIONS:AGGRESSION                                              5
+    war fighting war war war
+PRIMARY:NEED:ORALITY                                             4
+    cook food eat tea
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+EMOTIONS:AFFECTION                                               4
+    friends friends friends friends
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drop falls
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    says tell
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    gate street
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tower tree
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    test
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    open
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+
+PRIMARY             : 38.181818 %
+SECONDARY           : 34.545455 %
+EMOTIONS            : 27.272727 %
+
+380 words total

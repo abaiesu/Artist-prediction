@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    yesterday now now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find find found find
+SECONDARY:RESTRAINT                                              3
+    bound bound bound
+PRIMARY:SENSATION:VISION                                         2
+    see saw
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+EMOTIONS:GLORY                                                   1
+    prince
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+
+PRIMARY             : 23.809524 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 9.523810 %
+
+137 words total

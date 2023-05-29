@@ -1,0 +1,16 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when everything
+SECONDARY:ABSTRACTION                                            1
+    definition
+PRIMARY:SENSATION:COLD                                           1
+    ice
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 0.000000 %
+
+50 words total

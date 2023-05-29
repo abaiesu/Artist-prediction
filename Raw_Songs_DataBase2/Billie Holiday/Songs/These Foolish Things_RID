@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:SOUND                                          5
+    heart tinkling heart heart rings
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    remind told remind answer remind
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    places apartment
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    wings swings
+SECONDARY:ABSTRACTION                                            2
+    meant knew
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:SENSATION:VISION                                         1
+    saw
+EMOTIONS:GLORY                                                   1
+    conquered
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancer
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 13.636364 %
+
+108 words total

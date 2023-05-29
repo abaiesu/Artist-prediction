@@ -1,0 +1,38 @@
+SECONDARY:RESTRAINT                                             21
+    control control control control control control control control control control control control control control control control control control control control control
+SECONDARY:TEMPORAL REFERENCES                                   18
+    past again when again again again again again again again again again again again when when when when
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    says said told said said said said said say said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    nearest away where out side wider here
+SECONDARY:ABSTRACTION                                            5
+    know why understand thought different
+EMOTIONS:AGGRESSION                                              4
+    kicking seized broke broke
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor edge line
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes hand
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screamed cried
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die lies
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+
+PRIMARY             : 22.500000 %
+SECONDARY           : 67.500000 %
+EMOTIONS            : 10.000000 %
+
+272 words total

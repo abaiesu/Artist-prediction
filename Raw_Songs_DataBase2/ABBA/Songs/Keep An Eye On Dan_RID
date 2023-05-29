@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    over out back at out over off far out back at back back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         11
+    eye hand eye eye eye hand eye eye eye eye eye
+SECONDARY:ABSTRACTION                                            4
+    know certain believe think
+EMOTIONS:AFFECTION                                               3
+    loves loved loving
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    promise said promise
+PRIMARY:SENSATION:VISION                                         2
+    looks seeing
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy funny
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight cry
+PRIMARY:SENSATION:SOUND                                          2
+    bang heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make effort
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+EMOTIONS:ANXIETY                                                 1
+    traumatic
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throws
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:TEMPORAL REFERENCES                                    1
+    date
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 24.000000 %
+EMOTIONS            : 16.000000 %
+
+251 words total

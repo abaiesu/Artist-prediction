@@ -1,0 +1,42 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                  168
+    low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low low
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  96
+    high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high high
+EMOTIONS:AGGRESSION                                             28
+    shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot shoot
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    try make make work try make make find aim
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    off out backed out outside
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time when time when time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall step
+SECONDARY:RESTRAINT                                              2
+    stop stop
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:SADNESS                                                 1
+    suffer
+EMOTIONS:AFFECTION                                               1
+    lover
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+
+PRIMARY             : 84.662577 %
+SECONDARY           : 6.134969 %
+EMOTIONS            : 9.202454 %
+
+454 words total

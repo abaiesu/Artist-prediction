@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    over out out over out over out over out
+PRIMARY:SENSATION:VISION                                         9
+    blue blue blue see blue blue blue blue blue
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please talk tell tell please
+SECONDARY:RESTRAINT                                              5
+    stop block stop stop stop
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+SECONDARY:ABSTRACTION                                            4
+    something figured figured figured
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfortable
+EMOTIONS:AFFECTION                                               1
+    familiar
+EMOTIONS:AGGRESSION                                              1
+    cut
+
+PRIMARY             : 48.717949 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 5.128205 %
+
+119 words total

@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    time now time now now present now now till clock clock clock clock
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here here at away far away where longer longer here here here
+PRIMARY:NEED:ORALITY                                             8
+    poisoned honey honey honey honey honey honey honey
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+PRIMARY:SENSATION:VISION                                         3
+    green gray seen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    lesson money
+EMOTIONS:AFFECTION                                               2
+    marry love
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    tunnel
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    thanks
+EMOTIONS:SADNESS                                                 1
+    loneliness
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 32.000000 %
+EMOTIONS            : 8.000000 %
+
+160 words total

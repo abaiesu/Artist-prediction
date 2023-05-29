@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            9
+    knows believe reality cause know them thought consequence them
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    far away back place behind away far away
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    greets tell tell said
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    curtain curtain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    caves
+EMOTIONS:AGGRESSION                                              1
+    blame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:ANXIETY                                                 1
+    worries
+
+PRIMARY             : 42.424242 %
+SECONDARY           : 48.484848 %
+EMOTIONS            : 9.090909 %
+
+109 words total

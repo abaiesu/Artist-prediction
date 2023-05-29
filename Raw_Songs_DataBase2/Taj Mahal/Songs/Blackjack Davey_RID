@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    along along long distant long distant long distant long distant long distant long distant nearly
+SECONDARY:TEMPORAL REFERENCES                                   10
+    tonight now when when when now when when when tonight
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    charmed charmed charmed pretty pretty pretty
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart music
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    feet head feet head
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    played sang sung
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep crazy sleep
+PRIMARY:SENSATION:VISION                                         2
+    green ruby
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:TOUCH                                          2
+    rub rub
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    soothed soothed
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+EMOTIONS:POSITIVE AFFECT                                         1
+    gayly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:COLD                                           1
+    chile
+
+PRIMARY             : 64.179104 %
+SECONDARY           : 29.850746 %
+EMOTIONS            : 5.970149 %
+
+258 words total

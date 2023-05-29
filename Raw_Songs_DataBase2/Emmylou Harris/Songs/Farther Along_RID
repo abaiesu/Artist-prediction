@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            6
+    why why know understand why understand
+SECONDARY:TEMPORAL REFERENCES                                    6
+    while when then year year then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long farther along farther along
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    tried labor toils sweep
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death death
+EMOTIONS:AFFECTION                                               2
+    loved loving
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road gates
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheer
+PRIMARY:SENSATION:VISION                                         1
+    sunshine
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+
+PRIMARY             : 31.428571 %
+SECONDARY           : 51.428571 %
+EMOTIONS            : 17.142857 %
+
+121 words total

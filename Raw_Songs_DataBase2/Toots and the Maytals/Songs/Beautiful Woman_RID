@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             29
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when when every then then every then every time when then then every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    place at along here here along here here off along
+EMOTIONS:AFFECTION                                               9
+    like like friends friend like love like like like
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    ask conversation says tell said said tell met ask
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    crazy crazy crazy crazy crazy crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    drive drive driving drive drive
+SECONDARY:ABSTRACTION                                            4
+    why believe why know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry sing sing sing
+PRIMARY:SENSATION:VISION                                         3
+    look seen look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    market
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+
+PRIMARY             : 59.183673 %
+SECONDARY           : 27.551020 %
+EMOTIONS            : 13.265306 %
+
+288 words total

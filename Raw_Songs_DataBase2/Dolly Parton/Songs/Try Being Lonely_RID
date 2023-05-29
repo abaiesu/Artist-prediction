@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         6
+    imagine saw see looked see imagine
+SECONDARY:ABSTRACTION                                            5
+    suppose know suppose know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then everywhere then then
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body face body
+EMOTIONS:AGGRESSION                                              3
+    breaking hurt breaking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try try try
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+EMOTIONS:POSITIVE AFFECT                                         3
+    funny smiled happy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor floor
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:NEED:ORALITY                                             1
+    corner
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 34.285714 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 31.428571 %
+
+141 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    away at closer out away away away away away away
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    death death death death death death
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every everything now everything now
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+PRIMARY:NEED:ORALITY                                             2
+    eats teeth
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    faces head
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swell
+SECONDARY:ABSTRACTION                                            1
+    circumstance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+EMOTIONS:AGGRESSION                                              1
+    ripping
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    cave
+
+PRIMARY             : 78.378378 %
+SECONDARY           : 18.918919 %
+EMOTIONS            : 2.702703 %
+
+114 words total

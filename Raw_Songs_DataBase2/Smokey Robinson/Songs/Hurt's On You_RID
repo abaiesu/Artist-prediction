@@ -1,0 +1,34 @@
+EMOTIONS:AGGRESSION                                             28
+    hurt hurts hurt hurts hurts hurt blade cuts hurt hurts hurts hurt hurt hurt hurts hurt hurts hurts hurt hurts hurt hurts hurts hurt hurts hurt hurts hurt
+EMOTIONS:AFFECTION                                              17
+    love love love love love love love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again sometimes time now now now
+SECONDARY:ABSTRACTION                                            5
+    knowing know know know cause
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say said help told
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    prepare makes
+PRIMARY:SENSATION:VISION                                         2
+    notice blue
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    rearranges back
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    perplexed
+
+PRIMARY             : 9.459459 %
+SECONDARY           : 25.675676 %
+EMOTIONS            : 64.864865 %
+
+324 words total

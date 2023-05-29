@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                          6
+    hear buzz echoing hear buzz echoing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    wall wall door wall
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then when everyone
+PRIMARY:SENSATION:VISION                                         2
+    sunlight watching
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out side
+SECONDARY:ABSTRACTION                                            2
+    know thinks
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask ask
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    static static
+SECONDARY:RESTRAINT                                              1
+    shutters
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:AGGRESSION                                              1
+    breaking
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+
+PRIMARY             : 58.620690 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 6.896552 %
+
+140 words total

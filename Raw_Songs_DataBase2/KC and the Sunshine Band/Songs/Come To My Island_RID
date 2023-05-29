@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    where where place where where where where here where where where where where where where
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everywhere soon past now ever
+EMOTIONS:AFFECTION                                               4
+    love love kind love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    playing dance sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found make
+PRIMARY:SENSATION:SOUND                                          2
+    sound heart
+SECONDARY:ABSTRACTION                                            1
+    real
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swing
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:VISION                                         1
+    moonlight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+EMOTIONS:ANXIETY                                                 1
+    troubles
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 21.052632 %
+
+459 words total

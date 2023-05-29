@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    open center opens away place away at away away out back out back
+EMOTIONS:AFFECTION                                              10
+    kinda like kinda like like kinda like kinda like like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    lift climb climb
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time then now
+SECONDARY:ABSTRACTION                                            3
+    reason sure know
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:ODOR                                           2
+    breathing breathing
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slide
+EMOTIONS:ANXIETY                                                 1
+    shyness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    influence
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    forehead
+PRIMARY:NEED:SEX                                                 1
+    fuckin
+
+PRIMARY             : 55.319149 %
+SECONDARY           : 21.276596 %
+EMOTIONS            : 23.404255 %
+
+161 words total

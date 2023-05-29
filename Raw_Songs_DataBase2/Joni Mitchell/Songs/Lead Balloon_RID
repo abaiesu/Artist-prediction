@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said said ask helping said said
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+EMOTIONS:AGGRESSION                                              4
+    fight angry angry angry
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    rover rover rover
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over over over
+PRIMARY:NEED:SEX                                                 2
+    kiss bitch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood hand
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    trickling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    business
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:ABSTRACTION                                            1
+    think
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 28.571429 %
+
+213 words total

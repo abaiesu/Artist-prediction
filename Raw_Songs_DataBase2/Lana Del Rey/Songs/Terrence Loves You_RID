@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    old when when when when when when when when when when when
+PRIMARY:SENSATION:SOUND                                          8
+    hear tunes hear tunes hear hear hear tunes
+PRIMARY:SENSATION:VISION                                         4
+    blues blues lights blues
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won trying
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here long
+SECONDARY:RESTRAINT                                              2
+    control control
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AFFECTION                                               1
+    darling
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 54.054054 %
+SECONDARY           : 43.243243 %
+EMOTIONS            : 2.702703 %
+
+234 words total

@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              12
+    kind marry like kind marry sympathy kind marry love like kind marry
+SECONDARY:ABSTRACTION                                            7
+    sure different sure may believe believe sure
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    carrie carrie won carrie find carrie
+PRIMARY:SENSATION:SOUND                                          5
+    hear loud hear ear hear
+PRIMARY:SENSATION:VISION                                         5
+    lookin look light see see
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while tonight then
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+EMOTIONS:AGGRESSION                                              2
+    jealous hurt
+EMOTIONS:GLORY                                                   2
+    proud eagle
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:SENSATION:SOFT                                           1
+    mild
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairy
+PRIMARY:NEED:ORALITY                                             1
+    drink
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searchin
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 30.909091 %
+EMOTIONS            : 32.727273 %
+
+248 words total

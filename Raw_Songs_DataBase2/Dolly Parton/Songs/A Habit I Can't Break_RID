@@ -1,0 +1,20 @@
+EMOTIONS:AFFECTION                                               7
+    loving loving loving loving loving loving loving
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    use found trying use used
+EMOTIONS:AGGRESSION                                              4
+    break break break break
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:SOUND                                          1
+    heartaches
+
+PRIMARY             : 10.000000 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 55.000000 %
+
+116 words total

@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              21
+    love love lover friend lover friend favorite friend friend friend lover friend lover friend love lover friend love lover friend love
+SECONDARY:TEMPORAL REFERENCES                                    8
+    every when time when today when moment when
+SECONDARY:ABSTRACTION                                            5
+    understands true know cause something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back open straight straight straight
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    helping say say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand arms
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad happy
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water bath
+SECONDARY:MORAL IMPERATIVE                                       1
+    honest
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolled
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:NEED:ORALITY                                             1
+    dinner
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lingerie
+
+PRIMARY             : 26.315789 %
+SECONDARY           : 29.824561 %
+EMOTIONS            : 43.859649 %
+
+262 words total

@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    inside away inside away out long long long out long long out at
+SECONDARY:ABSTRACTION                                           12
+    know something believe true know know true know learn know know know
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say say help say tell tell tell tell say saying reply
+EMOTIONS:AFFECTION                                               8
+    love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when now time now tonight time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    trying try work work making make
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    candle fire
+PRIMARY:SENSATION:VISION                                         2
+    light lights
+EMOTIONS:AGGRESSION                                              2
+    blame steal
+EMOTIONS:GLORY                                                   2
+    pride wonder
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye bodies
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game playing
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    waters tide
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 35.443038 %
+SECONDARY           : 46.835443 %
+EMOTIONS            : 17.721519 %
+
+446 words total

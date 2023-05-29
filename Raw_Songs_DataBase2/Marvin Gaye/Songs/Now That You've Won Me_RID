@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   21
+    now now old every now now now ever now now while ago now then when now now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    saying say admit admit admit saying said met
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won won won win won won won
+SECONDARY:ABSTRACTION                                            4
+    know guess truth them
+EMOTIONS:AFFECTION                                               2
+    love kind
+PRIMARY:SENSATION:SOUND                                          2
+    heartaches heart
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:SEX                                                 1
+    kissing
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 12.244898 %
+SECONDARY           : 83.673469 %
+EMOTIONS            : 4.081633 %
+
+249 words total

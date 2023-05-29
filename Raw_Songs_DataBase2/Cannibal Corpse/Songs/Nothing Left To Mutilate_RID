@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    behind neared among aside at behind within
+SECONDARY:TEMPORAL REFERENCES                                    7
+    once now now now now now now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    flesh body skin organs body brain
+EMOTIONS:AGGRESSION                                              5
+    blade loathes scourge wound blade
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pay prepare achieve gained pay
+PRIMARY:SENSATION:VISION                                         3
+    scent gleam gleam
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    searching searching searching
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    trails hallowed
+SECONDARY:ORDER                                                  2
+    normal gradually
+PRIMARY:NEED:ORALITY                                             2
+    consumed chew
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    immortal
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    strayed
+SECONDARY:ABSTRACTION                                            1
+    knows
+SECONDARY:RESTRAINT                                              1
+    captured
+EMOTIONS:ANXIETY                                                 1
+    terrified
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    plead
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfying
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:NEED:ANALITY                                             1
+    defile
+
+PRIMARY             : 52.941176 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 13.725490 %
+
+236 words total

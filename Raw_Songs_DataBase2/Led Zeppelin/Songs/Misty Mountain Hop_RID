@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           11
+    think know know them know why know decided know know know
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said asked asked said please asked said describe
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time while then today now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out at open where over where
+PRIMARY:SENSATION:VISION                                         4
+    saw notice look see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    stepped line line streets
+EMOTIONS:AFFECTION                                               3
+    friends like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    spirits hills spirits
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair eyes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountains fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowds
+SECONDARY:RESTRAINT                                              1
+    policeman
+PRIMARY:NEED:ORALITY                                             1
+    tea
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    misty
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 46.551724 %
+EMOTIONS            : 8.620690 %
+
+304 words total

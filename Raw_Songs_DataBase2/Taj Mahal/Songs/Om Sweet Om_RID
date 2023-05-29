@@ -1,0 +1,40 @@
+SECONDARY:MORAL IMPERATIVE                                      17
+    right right right right right right right right right right right right right right right right right
+PRIMARY:SENSATION:TASTE                                         11
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    circle circle round between out middle outside open
+PRIMARY:SENSATION:SOUND                                          5
+    sound sound heart hear sound
+SECONDARY:ABSTRACTION                                            5
+    something analyze something analyze know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old everyone minute while when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky trees sky
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep under
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea rain
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jungle
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:SENSATION:VISION                                         1
+    shines
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    saying
+
+PRIMARY             : 55.223881 %
+SECONDARY           : 43.283582 %
+EMOTIONS            : 1.492537 %
+
+220 words total

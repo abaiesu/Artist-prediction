@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                             29
+    hurting blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame blame
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time time time time time time time time time
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    talk promise promise say promise promise promise
+EMOTIONS:SADNESS                                                 3
+    sorry sorry sorry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping waking
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    manipulated
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:ABSTRACTION                                            1
+    choice
+EMOTIONS:AFFECTION                                               1
+    friend
+
+PRIMARY             : 10.526316 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 57.894737 %
+
+316 words total

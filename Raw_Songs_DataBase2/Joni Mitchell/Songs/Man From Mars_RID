@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at away far apart center far far
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time everytime now time time
+PRIMARY:SENSATION:SOUND                                          3
+    heart sounds hear
+SECONDARY:ABSTRACTION                                            2
+    think them
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:NEED:ORALITY                                             1
+    swallowed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 3.846154 %
+
+109 words total

@@ -1,0 +1,38 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   11
+    water water water water water water water water water water water
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time time time time time time time time time years
+PRIMARY:NEED:ORALITY                                             8
+    thirsty drink drink drink thirsty drink drink drink
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    heat heat heat heat sun
+SECONDARY:ABSTRACTION                                            4
+    plan them planted them
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over hither here hither
+PRIMARY:SENSATION:VISION                                         4
+    see look see look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    flesh eyes eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    weary die weary
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    lowered under
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    yonder yonder
+EMOTIONS:AGGRESSION                                              1
+    destruction
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spent
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    protect
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ORDER                                                  1
+    form
+
+PRIMARY             : 68.852459 %
+SECONDARY           : 27.868852 %
+EMOTIONS            : 3.278689 %
+
+241 words total

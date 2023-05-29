@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    times past when times ago again when now every time
+PRIMARY:SENSATION:VISION                                         5
+    shone see brown watch see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long close away off where
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    shaking shook shaking shaking shaking
+SECONDARY:ABSTRACTION                                            3
+    knowing believe different
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy happiness
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    woke sleeping waking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair brow hands
+EMOTIONS:SADNESS                                                 2
+    pain tearful
+EMOTIONS:AFFECTION                                               2
+    loving love
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:SENSATION:SOFT                                           1
+    gently
+PRIMARY:SENSATION:TOUCH                                          1
+    brushed
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawning
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+
+PRIMARY             : 56.862745 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 13.725490 %
+
+240 words total

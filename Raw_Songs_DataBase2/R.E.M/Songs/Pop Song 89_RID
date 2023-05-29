@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                           14
+    know knew think think thought know knew think think thought know knew think thought
+SECONDARY:MORAL IMPERATIVE                                       6
+    should should should should should should
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk talk talk talk talk talk
+EMOTIONS:SADNESS                                                 3
+    sorry sorry sorry
+PRIMARY:SENSATION:VISION                                         2
+    saw visible
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+
+PRIMARY             : 11.428571 %
+SECONDARY           : 77.142857 %
+EMOTIONS            : 11.428571 %
+
+172 words total

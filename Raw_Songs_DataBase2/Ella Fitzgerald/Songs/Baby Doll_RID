@@ -1,0 +1,20 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              5
+    beautiful beautiful beautiful beautiful beautiful
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell talkin tell talkin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found use found use
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off off off off
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 43.478261 %
+EMOTIONS            : 0.000000 %
+
+130 words total

@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say talkin said talkin say called call ask
+SECONDARY:ABSTRACTION                                            4
+    believe know thought know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out at close
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    hiring makes pickin
+PRIMARY:NEED:ORALITY                                             2
+    grapes drinkin
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today sometimes
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heading
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ladder
+PRIMARY:SENSATION:COLD                                           1
+    froze
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+
+PRIMARY             : 38.709677 %
+SECONDARY           : 54.838710 %
+EMOTIONS            : 6.451613 %
+
+186 words total

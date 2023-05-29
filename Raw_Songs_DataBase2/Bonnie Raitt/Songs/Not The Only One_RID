@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    then when then when when now till time when
+PRIMARY:SENSATION:VISION                                         6
+    saw see saw light shinin saw
+EMOTIONS:AFFECTION                                               5
+    love love love like love
+EMOTIONS:SADNESS                                                 4
+    lonely lonely lonely lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face body face
+PRIMARY:SENSATION:SOUND                                          3
+    heard voice heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out overdue close
+SECONDARY:ABSTRACTION                                            3
+    true thought different
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    edge horizon
+PRIMARY:SENSATION:SOFT                                           2
+    whisperin whisperin
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance confusion
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    callin
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    churnin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamin
+
+PRIMARY             : 51.063830 %
+SECONDARY           : 29.787234 %
+EMOTIONS            : 19.148936 %
+
+182 words total

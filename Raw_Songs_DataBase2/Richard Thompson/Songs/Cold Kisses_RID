@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here here away at back here place here behind over away back
+SECONDARY:TEMPORAL REFERENCES                                   12
+    minutes time old old old old old past time past everything when
+PRIMARY:SENSATION:VISION                                         7
+    looking see looking looking see bright see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    arm arm handsome hands footstep head
+EMOTIONS:AFFECTION                                               6
+    love fond embrace love fond embrace
+PRIMARY:SENSATION:SOUND                                          5
+    bangles rings heart hearts hear
+PRIMARY:SENSATION:COLD                                           5
+    cold frozen cold cold cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    warmth warmth warmth warmth
+PRIMARY:NEED:SEX                                                 4
+    kisses kisses kisses kisses
+SECONDARY:ABSTRACTION                                            3
+    think them them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found found
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door lines street
+EMOTIONS:AGGRESSION                                              3
+    enemy fight threat
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said say
+SECONDARY:ORDER                                                  2
+    measure measure
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    secrets mystery
+PRIMARY:SENSATION:SOFT                                           1
+    lacy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    poet
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+
+PRIMARY             : 59.302326 %
+SECONDARY           : 27.906977 %
+EMOTIONS            : 12.790698 %
+
+314 words total

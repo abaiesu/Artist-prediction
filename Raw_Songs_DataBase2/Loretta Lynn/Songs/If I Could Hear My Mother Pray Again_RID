@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when now then again again then again
+PRIMARY:SENSATION:SOUND                                          7
+    heart hear hear hear voice hear hear
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy glad glad
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream rapture
+SECONDARY:ABSTRACTION                                            2
+    them tender
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    weary
+EMOTIONS:AGGRESSION                                              1
+    beat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:SENSATION:VISION                                         1
+    shining
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 16.666667 %
+
+116 words total

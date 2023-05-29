@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             19
+    breaking breaking breaking break break break break breaking break break break break breaking breaking break break break break breaking
+EMOTIONS:AFFECTION                                               8
+    love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here inside over over over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    work try try make making
+PRIMARY:SENSATION:VISION                                         4
+    glows see look see
+SECONDARY:ABSTRACTION                                            3
+    real know cause
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touched
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever time time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand eyes
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high sky
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    agree tell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 42.857143 %
+
+262 words total

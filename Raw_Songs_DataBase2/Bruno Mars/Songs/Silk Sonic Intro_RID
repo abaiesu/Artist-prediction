@@ -1,0 +1,28 @@
+SECONDARY:RESTRAINT                                              4
+    lock lock lock lock
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight then time
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:ABSTRACTION                                            2
+    somethin somethin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    blaster blaster
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:SENSATION:SOUND                                          1
+    noise
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellas
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:SENSATION:SOFT                                           1
+    silk
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 55.000000 %
+EMOTIONS            : 5.000000 %
+
+129 words total

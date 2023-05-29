@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    off place inside out where off where where off where
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    faces eyed eyed heads heads
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    path trails path trails
+PRIMARY:SENSATION:VISION                                         3
+    grey light light
+EMOTIONS:ANXIETY                                                 2
+    frightening panic
+EMOTIONS:GLORY                                                   2
+    wondering great
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:SENSATION:HARD                                           2
+    glassy glassy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountain mountain
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    buy
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    message
+
+PRIMARY             : 71.794872 %
+SECONDARY           : 12.820513 %
+EMOTIONS            : 15.384615 %
+
+129 words total

@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    off off near open westbound where out out west near open far away westbound away where out out west
+SECONDARY:ABSTRACTION                                            7
+    know sure sure reconsider guessed reconsider guessed
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   7
+    jump climb jump jump jump climb jump
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old then sooner old then old
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    fire flame burning fire fire flame
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    spoken said says spoken said says
+PRIMARY:NEED:ORALITY                                             4
+    tongue tongue corner corner
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead linger linger
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyes eyes
+PRIMARY:SENSATION:SOUND                                          2
+    sounds sounds
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolling rolling
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    higher higher
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    washed washed
+EMOTIONS:SADNESS                                                 2
+    forlorn forlorn
+SECONDARY:MORAL IMPERATIVE                                       2
+    shoulder shoulder
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    valley valley
+PRIMARY:SENSATION:VISION                                         1
+    green
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 7.142857 %
+
+314 words total

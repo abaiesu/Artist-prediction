@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    southern where where away far away long
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everyman now when ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work delivered carry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    rest drift rests
+SECONDARY:ABSTRACTION                                            3
+    understand why believe
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hands
+PRIMARY:SENSATION:SOUND                                          2
+    heart sound
+PRIMARY:NEED:ORALITY                                             2
+    liquor tongue
+EMOTIONS:AGGRESSION                                              1
+    fighter
+PRIMARY:SENSATION:COLD                                           1
+    north
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+SECONDARY:RESTRAINT                                              1
+    bars
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+
+PRIMARY             : 56.756757 %
+SECONDARY           : 29.729730 %
+EMOTIONS            : 13.513514 %
+
+141 words total

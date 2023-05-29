@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back back long back back where back back back back
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everyone everyone everyone everyone everyone everyone everyone everyone
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell teach say explain
+SECONDARY:ABSTRACTION                                            3
+    thought know history
+PRIMARY:SENSATION:SOUND                                          2
+    temporarily temporarily
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    framing framing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:SENSATION:COLD                                           1
+    numb
+
+PRIMARY             : 46.875000 %
+SECONDARY           : 53.125000 %
+EMOTIONS            : 0.000000 %
+
+153 words total

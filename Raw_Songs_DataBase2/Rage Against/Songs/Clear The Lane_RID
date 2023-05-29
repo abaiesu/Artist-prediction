@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      15
+    lane lane lane lane lane lane lane lane lane lane lane lane lane lane lane
+EMOTIONS:AGGRESSION                                             14
+    shovel shot hit hit rebellion rebel hittin hit threat war fighting beat rippin threat
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time now till now when ever once then every time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    front central at out where places
+SECONDARY:ABSTRACTION                                            6
+    real topics thoughts know true think
+SECONDARY:RESTRAINT                                              5
+    stop shut stop confine resist
+PRIMARY:SENSATION:SOUND                                          5
+    vocal drum sound sound sound
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    teach said say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    safe slow calm
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying make
+PRIMARY:NEED:ANALITY                                             2
+    shit sweat
+PRIMARY:SENSATION:COLD                                           2
+    cold cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waving
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+PRIMARY:SENSATION:HARD                                           1
+    rock
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    fluid
+PRIMARY:NEED:ORALITY                                             1
+    suckers
+
+PRIMARY             : 47.619048 %
+SECONDARY           : 30.952381 %
+EMOTIONS            : 21.428571 %
+
+431 words total

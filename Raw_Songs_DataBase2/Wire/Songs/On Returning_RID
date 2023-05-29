@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         7
+    green brown observateur scanning regard regard tan
+EMOTIONS:POSITIVE AFFECT                                         5
+    fun fun fun fun fun
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    dream dream dream dream dream
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when briefcase while
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head feet body head
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said describe service
+PRIMARY:NEED:ORALITY                                             2
+    roasted toothbrush
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    copy gained
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+SECONDARY:ORDER                                                  1
+    divide
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+SECONDARY:ABSTRACTION                                            1
+    planned
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 17.948718 %
+
+158 words total

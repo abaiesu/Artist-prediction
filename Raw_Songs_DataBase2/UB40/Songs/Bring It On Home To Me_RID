@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ever when now now till ever
+PRIMARY:SENSATION:TASTE                                          5
+    sweet sweet sweet sweet sweet
+EMOTIONS:AFFECTION                                               5
+    lovin lovin lovin lovin lovin
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    behind behind
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh laugh
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 29.629630 %
+
+194 words total

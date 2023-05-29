@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away away where out wide out where out
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    pouring rain pouring rain pouring rain
+PRIMARY:SENSATION:VISION                                         4
+    look shine lights look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face eyed face face
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire fire fire
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    danced danced danced
+EMOTIONS:POSITIVE AFFECT                                         3
+    laughing laughing laughing
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when everyone
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 65.909091 %
+SECONDARY           : 9.090909 %
+EMOTIONS            : 25.000000 %
+
+238 words total

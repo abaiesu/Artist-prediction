@@ -1,0 +1,44 @@
+EMOTIONS:AGGRESSION                                              4
+    wounds strike severed broken
+SECONDARY:RESTRAINT                                              2
+    forbidden block
+PRIMARY:SENSATION:VISION                                         2
+    colors crimson
+SECONDARY:ABSTRACTION                                            2
+    deemer known
+PRIMARY:NEED:ORALITY                                             2
+    grainy feed
+EMOTIONS:POSITIVE AFFECT                                         1
+    grinning
+PRIMARY:SENSATION:COLD                                           1
+    childhood
+PRIMARY:NEED:SEX                                                 1
+    ejaculated
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    seer
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    dripping
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    games
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pick
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ash
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    swoop
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    nomad
+SECONDARY:TEMPORAL REFERENCES                                    1
+    years
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 23.076923 %
+
+110 words total

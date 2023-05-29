@@ -1,0 +1,36 @@
+SECONDARY:RESTRAINT                                             14
+    stop stop stop stop stop stop stop stop stop stop stop stop stop stop
+SECONDARY:ABSTRACTION                                           10
+    understand true cause know why understand true cause know why
+EMOTIONS:AFFECTION                                              10
+    love like like kind like love like like kind like
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when then when every when then when every
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    please please say please please say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    behind ahead behind ahead
+EMOTIONS:POSITIVE AFFECT                                         3
+    glad glad glad
+EMOTIONS:SADNESS                                                 3
+    sorry sorry sorry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    driftin driftin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:VISION                                         2
+    see see
+
+PRIMARY             : 16.438356 %
+SECONDARY           : 56.164384 %
+EMOTIONS            : 27.397260 %
+
+246 words total

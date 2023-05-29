@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    ever every time every time when every time every time
+EMOTIONS:AFFECTION                                               6
+    love goodbye goodbye love goodbye goodbye
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    ask say say allow say say
+SECONDARY:ABSTRACTION                                            6
+    why why why why know think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near somewhere
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeply
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:AGGRESSION                                              1
+    quarrel
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 21.428571 %
+
+116 words total

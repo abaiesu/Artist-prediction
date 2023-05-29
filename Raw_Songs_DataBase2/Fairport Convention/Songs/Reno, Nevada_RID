@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long long long long at long long long long at
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when time time time time time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    game game playing screaming
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    hunger sky above grown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street window wall
+SECONDARY:ABSTRACTION                                            3
+    something choose know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sown work
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face feet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    hole underneath
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    able say
+PRIMARY:NEED:ORALITY                                             2
+    feed tongue
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    odds
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+EMOTIONS:SADNESS                                                 1
+    grieving
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 27.083333 %
+EMOTIONS            : 16.666667 %
+
+238 words total

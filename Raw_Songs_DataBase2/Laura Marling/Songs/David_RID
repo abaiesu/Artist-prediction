@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         6
+    look look looks see stars blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    west west east open close
+SECONDARY:ABSTRACTION                                            5
+    believe believe thinks know think
+PRIMARY:SENSATION:ODOR                                           2
+    breathes breathes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    gates doors
+PRIMARY:NEED:ORALITY                                             2
+    swallowed throat
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once everything
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+EMOTIONS:AFFECTION                                               1
+    goodbye
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 6.250000 %
+
+121 words total

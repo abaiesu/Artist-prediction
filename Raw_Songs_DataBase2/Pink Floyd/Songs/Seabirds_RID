@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:SOUND                                          6
+    hear sound ear hear sound ear
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    surf sea sea surf beach bubbles
+PRIMARY:SENSATION:VISION                                         6
+    glitter watched emerald green see flashing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+EMOTIONS:GLORY                                                   2
+    eagle castle
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun hot
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+EMOTIONS:ANXIETY                                                 1
+    shrieking
+EMOTIONS:AGGRESSION                                              1
+    cuts
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calling
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sailors
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    haze
+PRIMARY:NEED:ORALITY                                             1
+    candy
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 80.487805 %
+SECONDARY           : 7.317073 %
+EMOTIONS            : 12.195122 %
+
+120 words total

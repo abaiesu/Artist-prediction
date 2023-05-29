@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    somewhere far far long far far far long far
+EMOTIONS:AFFECTION                                               8
+    love love loved love love loving loving love
+SECONDARY:ABSTRACTION                                            3
+    know know cause
+EMOTIONS:AGGRESSION                                              3
+    hate hurt hurt
+SECONDARY:MORAL IMPERATIVE                                       3
+    right should should
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 33.333333 %
+
+125 words total

@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              12
+    kind like liked liked love like friend kind darling love kind like
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when time times when then now years now when early
+SECONDARY:ABSTRACTION                                            6
+    something prove true something think something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    straight where eastern here far away
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say answer call said said follow
+PRIMARY:SENSATION:VISION                                         4
+    see appear crimson see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make use find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie bed
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:SOFT                                           1
+    mild
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lanes
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candlelight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+
+PRIMARY             : 31.666667 %
+SECONDARY           : 45.000000 %
+EMOTIONS            : 23.333333 %
+
+265 words total

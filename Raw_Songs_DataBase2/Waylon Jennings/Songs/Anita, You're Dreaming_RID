@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    dream dreaming dreaming dreams dreaming awake dreaming
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    closer over closer close over
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now time when now
+SECONDARY:ABSTRACTION                                            4
+    guess thought know know
+SECONDARY:RESTRAINT                                              3
+    stop must must
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say reminds say
+PRIMARY:SENSATION:VISION                                         2
+    see blue
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:MORAL IMPERATIVE                                       1
+    conscience
+
+PRIMARY             : 45.714286 %
+SECONDARY           : 51.428571 %
+EMOTIONS            : 2.857143 %
+
+155 words total

@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                           23
+    real real real know real real real real real real why real real real real real real real real real real real real
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here side back here
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    thank thank say
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile joyful
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:GLORY                                                   1
+    wonderful
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:RESTRAINT                                              1
+    reigns
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 16.666667 %
+SECONDARY           : 71.428571 %
+EMOTIONS            : 11.904762 %
+
+226 words total

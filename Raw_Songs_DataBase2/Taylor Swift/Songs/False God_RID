@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              14
+    like like favorite like love love love like like love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when times when when when when times when
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said talk say confessions forgiveness talk say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    separating out away away west away away
+SECONDARY:ABSTRACTION                                            3
+    think think know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work make try
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window road road
+PRIMARY:NEED:ORALITY                                             3
+    lips honey lips
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jump fly
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hips hips
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:AGGRESSION                                              1
+    fight
+EMOTIONS:ANXIETY                                                 1
+    scare
+
+PRIMARY             : 40.322581 %
+SECONDARY           : 33.870968 %
+EMOTIONS            : 25.806452 %
+
+350 words total

@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    east away outside inside at space east far away
+PRIMARY:ICARIAN IMAGERY:WATER                                    8
+    rain water dripping raindrops rain rain rain rain
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    ask please say speak telling reply lend
+SECONDARY:TEMPORAL REFERENCES                                    5
+    till till now now when
+PRIMARY:SENSATION:VISION                                         3
+    watch watch watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    curtains shadows fade
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun fire search
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hang climb
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slowly lies
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+EMOTIONS:SADNESS                                                 1
+    sadly
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolls
+EMOTIONS:AGGRESSION                                              1
+    angry
+PRIMARY:SENSATION:SOUND                                          1
+    drum
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 23.214286 %
+EMOTIONS            : 8.928571 %
+
+151 words total

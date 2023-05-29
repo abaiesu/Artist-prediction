@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  16
+    sky sky sky sky towered sky sky sky sky above sky sky sky sky sky sky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                 10
+    fall fall fall fall fall fall fall fall fall fall
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long over over at long over over long over over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    buildings buy sell found building buy sell buy sell
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    bargain tell tell talk tell promise ask ask
+SECONDARY:ABSTRACTION                                            2
+    problem problem
+PRIMARY:SENSATION:SOFT                                           2
+    feathers feathers
+PRIMARY:SENSATION:HARD                                           1
+    iron
+EMOTIONS:AGGRESSION                                              1
+    hit
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 66.129032 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 1.612903 %
+
+229 words total

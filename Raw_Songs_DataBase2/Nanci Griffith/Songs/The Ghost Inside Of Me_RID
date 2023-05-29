@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                   23
+    every every every every every every every time every time every every every every every every every time every time every every every
+EMOTIONS:AFFECTION                                              12
+    like like friend flirting like love like like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    inside out inside inside inside inside inside inside inside inside
+PRIMARY:SENSATION:VISION                                         6
+    look look look look look look
+EMOTIONS:AGGRESSION                                              3
+    betraying breaking hurting
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart hearing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    price paying
+SECONDARY:MORAL IMPERATIVE                                       2
+    ought ought
+SECONDARY:ABSTRACTION                                            2
+    something something
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promise
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    deserting
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheering
+EMOTIONS:ANXIETY                                                 1
+    fearing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 31.944444 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 26.388889 %
+
+219 words total

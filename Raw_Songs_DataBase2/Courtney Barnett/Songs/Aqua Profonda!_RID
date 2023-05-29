@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         4
+    saw see appeared colored
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    swimming swimming wet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair hair muscles
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    backstroke longer
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    tumble sunk
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    foggy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impress
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:ORDER                                                  1
+    normally
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 7.142857 %
+
+130 words total

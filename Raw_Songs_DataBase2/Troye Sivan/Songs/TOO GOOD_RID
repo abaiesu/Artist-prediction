@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+EMOTIONS:ANXIETY                                                 4
+    scared scared scared scared
+EMOTIONS:AGGRESSION                                              3
+    broke hits hits
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    liquid liquid
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spend
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:NEED:SEX                                                 1
+    thigh
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:TEMPORAL REFERENCES                                    1
+    tonight
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 9.090909 %
+EMOTIONS            : 54.545455 %
+
+222 words total

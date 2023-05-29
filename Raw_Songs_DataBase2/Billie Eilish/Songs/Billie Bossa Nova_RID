@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            9
+    cause different somethin know know somethin know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    makes use makes make won make makes make won
+PRIMARY:SENSATION:VISION                                         8
+    look picture look saw saw look look look
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when once tonight when tonight when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at at at
+SECONDARY:RESTRAINT                                              4
+    stop lock lock lock
+EMOTIONS:AFFECTION                                               3
+    love love like
+EMOTIONS:AGGRESSION                                              3
+    torture jealous torture
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    information sharing
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door floor
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impression
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+
+PRIMARY             : 31.578947 %
+SECONDARY           : 54.385965 %
+EMOTIONS            : 14.035088 %
+
+262 words total

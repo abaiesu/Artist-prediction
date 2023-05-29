@@ -1,0 +1,44 @@
+PRIMARY:NEED:ORALITY                                             5
+    swallow devouring teeth swallow meat
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once once once once once
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    inside across out out over
+SECONDARY:ABSTRACTION                                            4
+    ideas chosen chosen thoughts
+PRIMARY:NEED:ANALITY                                             3
+    sweaty dirt rotten
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    palmed flesh bone
+PRIMARY:SENSATION:TASTE                                          2
+    taste sweet
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    dripping bubble
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mist fog
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+EMOTIONS:POSITIVE AFFECT                                         1
+    grind
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sharpened
+SECONDARY:ORDER                                                  1
+    constant
+PRIMARY:SENSATION:VISION                                         1
+    blinking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    paranoid
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    markets
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 4.761905 %
+
+148 words total

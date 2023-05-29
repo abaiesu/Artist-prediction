@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           12
+    think know know know know know know think know think know know
+EMOTIONS:AGGRESSION                                              8
+    conflict rebelling hurts hurts hurting hurts hurts hurting
+PRIMARY:SENSATION:VISION                                         6
+    look see look see look see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    dying dying dying dying dying
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    work trying try make
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    ask says ask ask
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside away away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:MORAL IMPERATIVE                                       2
+    right respect
+EMOTIONS:GLORY                                                   2
+    proud wonder
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever when
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfy
+EMOTIONS:ANXIETY                                                 1
+    horrifying
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 41.379310 %
+EMOTIONS            : 24.137931 %
+
+304 words total

@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell say say lending
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream dream dream dreaming
+PRIMARY:SENSATION:VISION                                         4
+    moonlight stars moonlight moonlight
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when tonight tonight
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+SECONDARY:ABSTRACTION                                            1
+    almost
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 7.692308 %
+
+87 words total

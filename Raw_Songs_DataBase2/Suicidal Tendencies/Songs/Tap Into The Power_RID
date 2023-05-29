@@ -1,0 +1,42 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say tell ask say told say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    further at at here away longer
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ever hour hour now time hour
+EMOTIONS:ANXIETY                                                 5
+    scared fear afraid afraid fear
+EMOTIONS:SADNESS                                                 4
+    pain pain pain pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes try won work
+PRIMARY:SENSATION:VISION                                         3
+    seen see look
+SECONDARY:RESTRAINT                                              3
+    must refuse refuse
+SECONDARY:ABSTRACTION                                            3
+    think prove cause
+EMOTIONS:AFFECTION                                               3
+    welcome welcome welcome
+EMOTIONS:GLORY                                                   3
+    glorious glorious glorious
+EMOTIONS:AGGRESSION                                              3
+    hate hate hate
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive explore
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road wall
+PRIMARY:SENSATION:HARD                                           1
+    harder
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+
+PRIMARY             : 29.310345 %
+SECONDARY           : 39.655172 %
+EMOTIONS            : 31.034483 %
+
+217 words total

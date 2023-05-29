@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here inside across back space open open open
+PRIMARY:ICARIAN IMAGERY:WATER                                    8
+    waters shore stream water stream water stream water
+SECONDARY:ABSTRACTION                                            8
+    truth known know truth known known know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when time time moments
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face eyes face eyes eyes
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try find find find
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    guide say say say
+PRIMARY:SENSATION:VISION                                         3
+    watch watch watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lay lay lay
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:ANXIETY                                                 1
+    afraid
+
+PRIMARY             : 52.727273 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 1.818182 %
+
+175 words total

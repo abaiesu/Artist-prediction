@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                    20
+    hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot
+SECONDARY:RESTRAINT                                              9
+    stop stop stop stop stop stop stop stop stop
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now now now now now now now
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+PRIMARY:SENSATION:TASTE                                          7
+    sweet sweet sweet sweet sweet sweet sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangest
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinnin
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 32.758621 %
+EMOTIONS            : 12.068966 %
+
+260 words total

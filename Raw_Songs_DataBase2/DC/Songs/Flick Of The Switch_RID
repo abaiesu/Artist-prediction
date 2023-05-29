@@ -1,0 +1,38 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   8
+    sky high sky high sky high sky high
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eye brain brain brain
+EMOTIONS:POSITIVE AFFECT                                         3
+    satisfy satisfy satisfy
+PRIMARY:SENSATION:VISION                                         3
+    flash lightnin light
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    machine machine
+EMOTIONS:SADNESS                                                 2
+    pain pain
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    signals
+EMOTIONS:ANXIETY                                                 1
+    distress
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    reelin
+PRIMARY:SENSATION:HARD                                           1
+    rockin
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screamin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 12.121212 %
+EMOTIONS            : 24.242424 %
+
+224 words total

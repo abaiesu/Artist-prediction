@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                             15
+    blame blame blame blame blame blame blame blame blame stealing break break blame blame blame
+EMOTIONS:AFFECTION                                               5
+    love love like like like
+PRIMARY:SENSATION:VISION                                         4
+    see stars shining stars
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here away ahead open
+PRIMARY:SENSATION:SOUND                                          4
+    heartlessly melody heart heart
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time when
+SECONDARY:ABSTRACTION                                            2
+    truth supposed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    headlights hands
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    vagabond
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    poured
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:SENSATION:TOUCH                                          1
+    sting
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:SADNESS                                                 1
+    sad
+
+PRIMARY             : 38.297872 %
+SECONDARY           : 17.021277 %
+EMOTIONS            : 44.680851 %
+
+178 words total

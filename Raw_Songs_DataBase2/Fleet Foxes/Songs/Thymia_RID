@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    backseat long over
+EMOTIONS:AFFECTION                                               3
+    like love like
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain water rain
+SECONDARY:ABSTRACTION                                            2
+    true known
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:SENSATION:SOUND                                          1
+    rustle
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:HARD                                           1
+    solid
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    explain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 16.666667 %
+
+76 words total

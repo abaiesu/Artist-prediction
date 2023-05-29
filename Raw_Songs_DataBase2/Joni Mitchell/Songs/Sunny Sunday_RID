@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sunny sunny burning sunny
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door streetlight floor streetlight
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    shade fade shade
+PRIMARY:SENSATION:VISION                                         3
+    light bright colors
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away points at
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall falls fall
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then while
+EMOTIONS:AGGRESSION                                              2
+    gun hits
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    aims
+PRIMARY:SENSATION:SOUND                                          1
+    hisses
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    bark
+EMOTIONS:GLORY                                                   1
+    victory
+
+PRIMARY             : 72.413793 %
+SECONDARY           : 10.344828 %
+EMOTIONS            : 17.241379 %
+
+106 words total

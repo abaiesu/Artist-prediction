@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away out away overpaid oversexed over here at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    money pay use won count make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    street hall wall gates
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when every now time
+PRIMARY:NEED:ORALITY                                             4
+    chewing gum vodka teeth
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk met saying
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun burning
+SECONDARY:ABSTRACTION                                            2
+    why why
+PRIMARY:SENSATION:SOUND                                          2
+    sound banged
+PRIMARY:NEED:SEX                                                 2
+    kiss whore
+EMOTIONS:AGGRESSION                                              1
+    gun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:SENSATION:SOFT                                           1
+    silk
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sailor
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handle
+PRIMARY:NEED:ANALITY                                             1
+    stall
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:POSITIVE AFFECT                                         1
+    gringo
+
+PRIMARY             : 59.574468 %
+SECONDARY           : 31.914894 %
+EMOTIONS            : 8.510638 %
+
+207 words total

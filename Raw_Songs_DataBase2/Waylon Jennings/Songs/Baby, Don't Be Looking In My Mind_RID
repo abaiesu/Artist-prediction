@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:VISION                                         6
+    looking looking looking looking looking looking
+EMOTIONS:AFFECTION                                               5
+    like love love love love
+SECONDARY:ABSTRACTION                                            4
+    know think thought thought
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every every
+EMOTIONS:GLORY                                                   2
+    proud proud
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 31.818182 %
+EMOTIONS            : 31.818182 %
+
+175 words total

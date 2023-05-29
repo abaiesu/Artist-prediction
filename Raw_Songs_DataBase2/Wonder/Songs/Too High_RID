@@ -1,0 +1,40 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  17
+    high high sky high high sky high high high high high high high sky high high high
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever once ever past today
+PRIMARY:SENSATION:TOUCH                                          3
+    touched touched touch
+PRIMARY:SENSATION:VISION                                         3
+    sees scene green
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    says say said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream crazy
+EMOTIONS:AFFECTION                                               2
+    like friend
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyed
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:SENSATION:TASTE                                          1
+    tangerine
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:ABSTRACTION                                            1
+    guess
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+
+PRIMARY             : 73.913043 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 4.347826 %
+
+290 words total

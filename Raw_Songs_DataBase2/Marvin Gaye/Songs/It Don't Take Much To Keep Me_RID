@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                            7
+    tenderness know know know know know tenderness
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    pleasure call talk say saying saying
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when everything everything
+EMOTIONS:AFFECTION                                               4
+    darling love like loving
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out long side
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:NEED:SEX                                                 1
+    caress
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    complain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 42.222222 %
+EMOTIONS            : 17.777778 %
+
+317 words total

@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    here away where out out at at away at over where
+SECONDARY:ABSTRACTION                                           10
+    cause surely possibly know fact knowing cause why cause know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say excuse say introduce
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won tried find found
+PRIMARY:SENSATION:SOUND                                          3
+    heart heard heard
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight tonight then
+SECONDARY:RESTRAINT                                              2
+    caught must
+PRIMARY:SENSATION:VISION                                         2
+    seen notice
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty beautiful
+EMOTIONS:AFFECTION                                               2
+    romance love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 44.897959 %
+SECONDARY           : 48.979592 %
+EMOTIONS            : 6.122449 %
+
+201 words total

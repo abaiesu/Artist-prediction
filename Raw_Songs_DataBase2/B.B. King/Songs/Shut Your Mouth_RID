@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at along at along out along
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    treating tell tell tell
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everyday when till
+SECONDARY:RESTRAINT                                              3
+    shut shut shut
+PRIMARY:NEED:ORALITY                                             3
+    mouth mouth mouth
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:AGGRESSION                                              1
+    jealous
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 48.000000 %
+EMOTIONS            : 4.000000 %
+
+128 words total

@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            5
+    think think think think think
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell talk talk talk
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everybody everybody everybody
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    yellow yellow yellow
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used money
+PRIMARY:NEED:ORALITY                                             2
+    eat whiskey
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+EMOTIONS:GLORY                                                   1
+    rich
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 13.333333 %
+
+173 words total

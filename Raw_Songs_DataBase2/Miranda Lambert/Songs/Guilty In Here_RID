@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    inside here point here here here here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    hands eye eye knees thumb thumb
+SECONDARY:ABSTRACTION                                            5
+    knows cause think cause think
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything tonight
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:NEED:ORALITY                                             2
+    mouth bite
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shakin roll
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleasure tell
+PRIMARY:SENSATION:SOUND                                          2
+    rings rings
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    underneath underneath
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 5.882353 %
+
+222 words total

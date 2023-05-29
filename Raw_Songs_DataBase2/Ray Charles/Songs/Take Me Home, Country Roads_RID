@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    here west place west far away round place west place west place west place west
+SECONDARY:TEMPORAL REFERENCES                                   11
+    old older now minute hour yesterday yesterday now again now again
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      11
+    roads roads road roads roads roads roads roads roads roads roads
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   7
+    mountains mountains mountain mountain mountain mountain mountain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    heaven ridge trees growing sky
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    belong belong belong belong belong
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    calls calls reminds please
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eye hands
+SECONDARY:ABSTRACTION                                            3
+    almost know why
+PRIMARY:SENSATION:SOUND                                          3
+    hear voice hear
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river water
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:TASTE                                          2
+    sweet taste
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    misty
+
+PRIMARY             : 64.634146 %
+SECONDARY           : 31.707317 %
+EMOTIONS            : 3.658537 %
+
+256 words total

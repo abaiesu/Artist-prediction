@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                        12
+    blues blues blues blues blues blues blues blues blues blues blues blues
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out place back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    route steppin
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumpin
+SECONDARY:RESTRAINT                                              1
+    stopped
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+EMOTIONS:ANXIETY                                                 1
+    worries
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arm
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 75.862069 %
+SECONDARY           : 17.241379 %
+EMOTIONS            : 6.896552 %
+
+167 words total

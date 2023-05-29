@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              30
+    love love love affection love love love love love love love love love love love love love love love love love love love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                       22
+    say say tell tell saying say say say say please say say say say say say say say say say say say
+PRIMARY:SENSATION:SOUND                                         19
+    hear hear hear hear sounds hear hear hear hear hear hear hear hear hear hear hear hear hear hear
+SECONDARY:ABSTRACTION                                            9
+    know cause tender truth cause cause cause think cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    outside inside here out outside inside outside inside
+PRIMARY:NEED:ORALITY                                             6
+    honey honey honey honey honey honey
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying trying try trying
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impression
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:SENSATION:TASTE                                          1
+    sweetness
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laying
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 36.283186 %
+SECONDARY           : 35.398230 %
+EMOTIONS            : 28.318584 %
+
+418 words total

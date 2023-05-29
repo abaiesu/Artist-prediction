@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    now once now today today today today today today when today today today today today today when
+SECONDARY:ABSTRACTION                                            5
+    something knows knew know know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    answer propose answer propose
+PRIMARY:SENSATION:VISION                                         2
+    glimpse looked
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad mad
+EMOTIONS:GLORY                                                   2
+    great great
+EMOTIONS:AFFECTION                                               2
+    romancer romancers
+SECONDARY:RESTRAINT                                              2
+    bound bound
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+
+PRIMARY             : 13.157895 %
+SECONDARY           : 76.315789 %
+EMOTIONS            : 10.526316 %
+
+151 words total

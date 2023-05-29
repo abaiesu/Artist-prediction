@@ -1,0 +1,40 @@
+EMOTIONS:GLORY                                                   4
+    castle emperor castle pride
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    pointed narrow at
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sowing using
+SECONDARY:ABSTRACTION                                            2
+    purpose them
+EMOTIONS:AGGRESSION                                              1
+    kicks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:SENSATION:SOUND                                          1
+    whirlwind
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruins
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+EMOTIONS:SADNESS                                                 1
+    tragic
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:NEED:ORALITY                                             1
+    poison
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    security
+PRIMARY:SENSATION:TASTE                                          1
+    tangle
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 37.037037 %
+
+142 words total

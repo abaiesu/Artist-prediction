@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now now then now now again time while now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    side inside inside side inside long close here side inside side
+SECONDARY:ABSTRACTION                                           11
+    something understand something guess know guess them know know something decide
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hands eyes hands head eyes
+EMOTIONS:POSITIVE AFFECT                                         5
+    celebration celebration smile celebration celebration
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find work find find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    died died died
+EMOTIONS:AFFECTION                                               3
+    friend goodbye goodbye
+EMOTIONS:AGGRESSION                                              2
+    crushed destroy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 39.682540 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 15.873016 %
+
+262 words total

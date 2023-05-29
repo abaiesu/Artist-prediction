@@ -1,0 +1,46 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    safe dying dies dying
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    surrounding inside within at
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    void unknown
+EMOTIONS:SADNESS                                                 2
+    despair misery
+EMOTIONS:ANXIETY                                                 2
+    distress traumatic
+EMOTIONS:AGGRESSION                                              2
+    defeat cut
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time years
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    neck eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+SECONDARY:RESTRAINT                                              1
+    imprisoned
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+SECONDARY:ABSTRACTION                                            1
+    truth
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:NEED:ORALITY                                             1
+    salt
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    ecstasy
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisting
+
+PRIMARY             : 69.696970 %
+SECONDARY           : 12.121212 %
+EMOTIONS            : 18.181818 %
+
+106 words total

@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    call said said talk talk call call call ask talk
+EMOTIONS:AFFECTION                                               8
+    like like like liked liked friends friends like
+PRIMARY:NEED:ORALITY                                             7
+    apple cider fruit drink apple cider fruit
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at ahead at at at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hair hair hand hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try try try
+PRIMARY:SENSATION:ODOR                                           1
+    smelling
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumper
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepover
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 30.952381 %
+EMOTIONS            : 19.047619 %
+
+181 words total

@@ -1,0 +1,64 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back towards over wide backyard back side back out
+SECONDARY:TEMPORAL REFERENCES                                    9
+    while every when when then clock suddenly every every
+SECONDARY:ABSTRACTION                                            8
+    think knew something learn understand meant thought thought
+EMOTIONS:AGGRESSION                                              7
+    war cut break break anger breaking fought
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    following allowed call follow asking advice pleasantries
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    reeled shake shake shake shake
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    edge path fence door fence
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    body eyes head brain hands
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    lit firework warm
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    hole underneath bottom
+PRIMARY:SENSATION:SOUND                                          3
+    hear ring symphony
+EMOTIONS:SADNESS                                                 3
+    pain sorrow sorry
+EMOTIONS:AFFECTION                                               2
+    loving like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall falling
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds blurred
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfortingly
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+EMOTIONS:GLORY                                                   1
+    proud
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trippin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:SENSATION:VISION                                         1
+    seen
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+
+PRIMARY             : 52.873563 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 16.091954 %
+
+324 words total

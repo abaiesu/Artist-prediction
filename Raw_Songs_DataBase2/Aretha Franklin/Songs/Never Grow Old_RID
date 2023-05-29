@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    far away where where where where where where here
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   8
+    high grow grow grow grow grow grow grow
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old old old old old old old when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    built work won
+PRIMARY:SENSATION:SOUND                                          2
+    heard voices
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+EMOTIONS:GLORY                                                   1
+    crown
+EMOTIONS:ANXIETY                                                 1
+    troubles
+EMOTIONS:SADNESS                                                 1
+    sorrow
+EMOTIONS:AFFECTION                                               1
+    loved
+
+PRIMARY             : 60.465116 %
+SECONDARY           : 25.581395 %
+EMOTIONS            : 13.953488 %
+
+140 words total

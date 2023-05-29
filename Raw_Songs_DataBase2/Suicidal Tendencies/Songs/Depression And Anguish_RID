@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    away at at here at at inside away off here here here here inside
+EMOTIONS:AGGRESSION                                             13
+    hate anger hate hurt fought break battle damage hate fight battle damage fight
+EMOTIONS:SADNESS                                                10
+    depression depression depression depression depression depression depression depression depression depression
+SECONDARY:ABSTRACTION                                            8
+    why why why why plants thoughts choice why
+PRIMARY:NEED:ORALITY                                             6
+    poisoning eats poison poison poison poison
+SECONDARY:RESTRAINT                                              6
+    stop stop stop stop shuts locks
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again again again again again
+EMOTIONS:ANXIETY                                                 4
+    anguish anguish anguish anguish
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes makes make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    veins brain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    scream cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travels
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:COLD                                           1
+    numb
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    digs
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    roots
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:ORDER                                                  1
+    systems
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    haze
+
+PRIMARY             : 37.349398 %
+SECONDARY           : 27.710843 %
+EMOTIONS            : 34.939759 %
+
+326 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    space back back out back back
+SECONDARY:RESTRAINT                                              4
+    boundary boundaries boundary guards
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    border road road road
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:VISION                                         2
+    scented imagined
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spreading spread
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laying
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    atmospheric
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+PRIMARY:SENSATION:SOFT                                           1
+    mildew
+
+PRIMARY             : 73.076923 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 11.538462 %
+
+91 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out inside apart off inside out back place long inside back back
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when minute years years years
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying spent spent spent
+EMOTIONS:AGGRESSION                                              4
+    cruel unkind break break
+EMOTIONS:SADNESS                                                 4
+    moan weep moan weep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    foot face face
+PRIMARY:SENSATION:TASTE                                          3
+    bitter bitter bitter
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    hole hole hole
+PRIMARY:NEED:ORALITY                                             3
+    salt salt salt
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+PRIMARY:SENSATION:TOUCH                                          2
+    scratch itching
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    bang
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rivers
+
+PRIMARY             : 63.461538 %
+SECONDARY           : 19.230769 %
+EMOTIONS            : 17.307692 %
+
+213 words total

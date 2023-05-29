@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here level over
+SECONDARY:ABSTRACTION                                            2
+    think plane
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    secure dead
+EMOTIONS:AFFECTION                                               1
+    welcome
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    pleasant
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    passage
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:NEED:ORALITY                                             1
+    lips
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chaos
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 11.764706 %
+
+77 words total

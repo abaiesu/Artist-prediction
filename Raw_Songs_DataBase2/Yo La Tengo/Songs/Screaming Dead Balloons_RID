@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now when when now when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside long away long
+EMOTIONS:ANXIETY                                                 4
+    afraid afraid afraid afraid
+SECONDARY:ABSTRACTION                                            4
+    decided facts decided facts
+EMOTIONS:AFFECTION                                               3
+    like goodbye goodbye
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    eternal eternal
+EMOTIONS:AGGRESSION                                              2
+    fight fight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep awake
+PRIMARY:SENSATION:VISION                                         1
+    watching
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    curtain
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 32.258065 %
+
+136 words total

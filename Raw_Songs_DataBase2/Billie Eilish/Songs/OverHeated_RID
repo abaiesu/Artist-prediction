@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    overheated overheated overheated overheated overheated overheated overheated out overheated overheated overheated
+SECONDARY:ABSTRACTION                                           10
+    know know them believe know why think believe cause believe
+EMOTIONS:AGGRESSION                                              8
+    defeated defeated kill hurt defeated defeated defeated defeated
+EMOTIONS:AFFECTION                                               5
+    kinda flirty kinda like like
+PRIMARY:SENSATION:VISION                                         4
+    watching flashing look pictures
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everybody everybody now now
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking said help
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    workin built business
+SECONDARY:RESTRAINT                                              2
+    stopping stop
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:NEED:SEX                                                 1
+    bitches
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+
+PRIMARY             : 32.727273 %
+SECONDARY           : 41.818182 %
+EMOTIONS            : 25.454545 %
+
+292 words total

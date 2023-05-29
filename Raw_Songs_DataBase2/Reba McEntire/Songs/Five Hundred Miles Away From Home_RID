@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    back away away away away where where long away away away away away away away away away away
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when now everyone when tonight
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said tell following forgive
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+SECONDARY:ABSTRACTION                                            3
+    knew them them
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drops fell
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    thumb
+
+PRIMARY             : 63.414634 %
+SECONDARY           : 34.146341 %
+EMOTIONS            : 2.439024 %
+
+223 words total

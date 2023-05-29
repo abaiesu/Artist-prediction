@@ -1,0 +1,40 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        8
+    lay lay lay lazy lay lay lay lazy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    head head head head head head
+SECONDARY:ABSTRACTION                                            4
+    cause know cause know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every time every time
+PRIMARY:SENSATION:VISION                                         3
+    see light light
+SECONDARY:RESTRAINT                                              2
+    block stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shake shake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work work
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+PRIMARY:NEED:ANALITY                                             1
+    rot
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:AFFECTION                                               1
+    kind
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    poetry
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 7.500000 %
+
+166 words total

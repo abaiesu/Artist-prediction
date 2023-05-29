@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out inside outside at at back back away inside
+PRIMARY:SENSATION:SOUND                                          3
+    hear ears hear
+SECONDARY:ABSTRACTION                                            3
+    them analyze knows
+PRIMARY:SENSATION:SOFT                                           2
+    whispering whispering
+PRIMARY:SENSATION:VISION                                         2
+    view peer
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+SECONDARY:RESTRAINT                                              1
+    caught
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sometimes
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    message
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipping
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 78.571429 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 0.000000 %
+
+117 words total

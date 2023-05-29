@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    place somewhere out at over somewhere long
+SECONDARY:ABSTRACTION                                            4
+    know something know something
+EMOTIONS:AFFECTION                                               4
+    love love love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find try try
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight sometimes moment
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    helps sayin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:SENSATION:VISION                                         1
+    view
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 15.384615 %
+
+116 words total

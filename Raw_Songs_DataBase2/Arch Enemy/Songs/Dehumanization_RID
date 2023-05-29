@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:COLD                                           4
+    children children children children
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            4
+    chance chance chance chance
+EMOTIONS:AGGRESSION                                              3
+    kill slaughtered kill
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sowing manipulation
+PRIMARY:NEED:SEX                                                 1
+    perverted
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:SADNESS                                                 1
+    suffering
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+SECONDARY:ABSTRACTION                                            1
+    chosen
+
+PRIMARY             : 61.111111 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 22.222222 %
+
+105 words total

@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when soon then again soon then again
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+SECONDARY:ABSTRACTION                                            4
+    choose choose choose choose
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms arms
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    thank thank
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 10.714286 %
+SECONDARY           : 67.857143 %
+EMOTIONS            : 21.428571 %
+
+145 words total

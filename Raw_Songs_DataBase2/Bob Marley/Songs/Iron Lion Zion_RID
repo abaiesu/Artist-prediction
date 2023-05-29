@@ -1,0 +1,18 @@
+PRIMARY:SENSATION:HARD                                          16
+    rock iron iron iron iron iron iron rock iron iron iron iron iron iron iron iron
+EMOTIONS:AFFECTION                                              12
+    like like like like like like like like like like like like
+EMOTIONS:AGGRESSION                                              3
+    gun fighting war
+PRIMARY:SENSATION:VISION                                         2
+    see star
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    saying
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 5.714286 %
+EMOTIONS            : 42.857143 %
+
+167 words total

@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       25
+    front away back back back back place between back back back back middle away back back back back back back back back back back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 13
+    count make won won won won won won won won won won won
+PRIMARY:SENSATION:HARD                                          10
+    stone stone stone stone stone stone glass stone stone stone
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    9
+    under under under under under under under under under
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    introduce talk introduce talk say introduce talk ask discuss
+SECONDARY:ABSTRACTION                                            7
+    think think know think think guessed think
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hand thumbs face bloody knees
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time old then
+SECONDARY:MORAL IMPERATIVE                                       4
+    right ought should right
+SECONDARY:RESTRAINT                                              2
+    forbid shut
+SECONDARY:ORDER                                                  2
+    class rank
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floors line
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game play
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+EMOTIONS:AFFECTION                                               1
+    likes
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quietly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ceilings
+
+PRIMARY             : 54.901961 %
+SECONDARY           : 40.196078 %
+EMOTIONS            : 4.901961 %
+
+388 words total

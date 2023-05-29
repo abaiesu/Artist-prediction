@@ -1,0 +1,30 @@
+SECONDARY:ORDER                                                  6
+    listen listen listen listen listen listen
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    calling calling calling calling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    nearly away
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+SECONDARY:TEMPORAL REFERENCES                                    1
+    early
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    buy
+SECONDARY:ABSTRACTION                                            1
+    reason
+EMOTIONS:SADNESS                                                 1
+    sob
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+SECONDARY:RESTRAINT                                              1
+    interfere
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 4.761905 %
+
+84 words total

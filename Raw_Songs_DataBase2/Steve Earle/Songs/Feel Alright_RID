@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now tonight ancient times every now again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away place away away distant back
+EMOTIONS:AGGRESSION                                              3
+    gun betrayal criticize
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask tell
+EMOTIONS:AFFECTION                                               2
+    sympathize friend
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wanderin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smokin
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:GLORY                                                   1
+    conquerors
+PRIMARY:NEED:SEX                                                 1
+    concubines
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 41.935484 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 22.580645 %
+
+122 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    off over here out at
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    sayin sayin sayin say
+EMOTIONS:AFFECTION                                               3
+    like like marry
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot hot
+PRIMARY:NEED:ORALITY                                             2
+    juicy corner
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+PRIMARY:NEED:SEX                                                 1
+    kissin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 11.538462 %
+
+204 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long back curve long long at long
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now when now everybody now
+PRIMARY:SENSATION:VISION                                         5
+    see seen see watching watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    riding riding ride ride
+SECONDARY:ABSTRACTION                                            3
+    knew guess them
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line street
+EMOTIONS:AFFECTION                                               2
+    friends love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told told
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dreams
+EMOTIONS:SADNESS                                                 1
+    mourners
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 13.157895 %
+
+163 words total

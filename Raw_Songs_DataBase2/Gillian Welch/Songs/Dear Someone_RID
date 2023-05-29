@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over along where afar over straight
+SECONDARY:ABSTRACTION                                            3
+    know true knows
+SECONDARY:TEMPORAL REFERENCES                                    3
+    soon tonight now
+EMOTIONS:AFFECTION                                               3
+    dear dear dear
+PRIMARY:SENSATION:VISION                                         3
+    star star bright
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms arms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sail
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    guide
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 15.384615 %
+
+103 words total

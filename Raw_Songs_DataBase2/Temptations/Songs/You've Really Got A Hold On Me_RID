@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                               6
+    like love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here here
+SECONDARY:ABSTRACTION                                            1
+    thinking
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    madly
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spend
+
+PRIMARY             : 23.529412 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 35.294118 %
+
+188 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away longer longer near inside overcome here overcome
+PRIMARY:SENSATION:VISION                                         4
+    bright light see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    death dead dead dying
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now again now
+SECONDARY:ABSTRACTION                                            3
+    reality something know
+EMOTIONS:AFFECTION                                               3
+    goodbye like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find try
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands face
+SECONDARY:RESTRAINT                                              2
+    must must
+EMOTIONS:GLORY                                                   1
+    eagle
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    confidence
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 55.263158 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 15.789474 %
+
+182 words total

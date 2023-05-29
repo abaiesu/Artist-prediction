@@ -1,0 +1,26 @@
+PRIMARY:NEED:ORALITY                                            11
+    milkcow milkcow milk suck suck milk milkin milk milkcow milkcow milkcow
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now old now
+SECONDARY:ABSTRACTION                                            3
+    believe believe believe
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hungry hungry
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+EMOTIONS:ANXIETY                                                 1
+    troublin
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 10.344828 %
+
+148 words total

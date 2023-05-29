@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                        14
+    saw saw saw saw saw saw saw saw saw saw saw saw saw saw
+SECONDARY:ABSTRACTION                                            8
+    guess idea believe opinion guess know know knows
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    buildings make winning
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when everybody everybody
+EMOTIONS:AFFECTION                                               3
+    kind kind love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out at surround
+EMOTIONS:AGGRESSION                                              2
+    stealing break
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:NEED:SEX                                                 1
+    fuck
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 10.416667 %
+
+285 words total

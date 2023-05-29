@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    far away far away far away beside at beside far away
+SECONDARY:TEMPORAL REFERENCES                                    8
+    tonight tonight tonight tonight tonight tonight tonight tonight
+PRIMARY:SENSATION:COLD                                           6
+    child child child child child child
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleep sleep sleep sleep
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:SENSATION:VISION                                         4
+    stars stars see stars
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes feet
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ships ships
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window window
+EMOTIONS:POSITIVE AFFECT                                         1
+    merry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparkling
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 70.212766 %
+SECONDARY           : 25.531915 %
+EMOTIONS            : 4.255319 %
+
+87 words total

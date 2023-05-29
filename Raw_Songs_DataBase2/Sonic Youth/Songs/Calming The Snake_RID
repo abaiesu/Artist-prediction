@@ -1,0 +1,38 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    river river river
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    sliding sliding sliding
+PRIMARY:SENSATION:COLD                                           2
+    shiver shiver
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edges
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floatin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+SECONDARY:ABSTRACTION                                            1
+    sure
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    deliver
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    quiver
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    corpses
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+
+PRIMARY             : 80.952381 %
+SECONDARY           : 9.523810 %
+EMOTIONS            : 9.523810 %
+
+79 words total

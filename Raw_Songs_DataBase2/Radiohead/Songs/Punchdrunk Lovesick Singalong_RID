@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when now when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside front
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sell sell
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    firebomb
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:AGGRESSION                                              1
+    shot
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 10.526316 %
+
+103 words total

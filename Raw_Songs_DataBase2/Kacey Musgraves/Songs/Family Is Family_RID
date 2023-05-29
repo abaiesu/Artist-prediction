@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              12
+    like like love like friends married like like friends like like love
+SECONDARY:TEMPORAL REFERENCES                                    9
+    year when year when then time ever then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at far out back out at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    hands blood kidneys handy kidneys handy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pick pick money money business
+PRIMARY:NEED:ORALITY                                             4
+    beer apple drink liquor
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall fall buried
+SECONDARY:ABSTRACTION                                            3
+    them cause know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk said ask
+PRIMARY:SENSATION:TOUCH                                          2
+    thicker touch
+PRIMARY:SENSATION:VISION                                         2
+    look look
+SECONDARY:RESTRAINT                                              2
+    prison prison
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smoke smoke
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+
+PRIMARY             : 42.187500 %
+SECONDARY           : 35.937500 %
+EMOTIONS            : 21.875000 %
+
+292 words total

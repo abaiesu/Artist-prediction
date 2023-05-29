@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              16
+    love love love love love love like friend friend darlin love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    9
+    times now time now now sometimes times now today
+SECONDARY:ABSTRACTION                                            5
+    why knows know know know
+PRIMARY:NEED:ORALITY                                             5
+    sugar sugar sugar sugar sugar
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long away here
+EMOTIONS:SADNESS                                                 3
+    lonesome sorrow sadness
+EMOTIONS:AGGRESSION                                              2
+    broken hurt
+PRIMARY:SENSATION:SOUND                                          2
+    hearted heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+EMOTIONS:POSITIVE AFFECT                                         2
+    joys gladness
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carryin
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:VISION                                         1
+    rough
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 30.909091 %
+EMOTIONS            : 41.818182 %
+
+261 words total

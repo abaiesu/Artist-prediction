@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    now when now when when then now now now now now now now now
+SECONDARY:RESTRAINT                                              6
+    jail catch jail catch caught catch
+EMOTIONS:AGGRESSION                                              6
+    hatred violent rage hatred violent rage
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here side here between here off
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    slipped fall slipped fall fall
+EMOTIONS:SADNESS                                                 4
+    pain pain pain pain
+PRIMARY:SENSATION:VISION                                         4
+    seen colour seen colour
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes face
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wall wall wall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried tried
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+SECONDARY:ORDER                                                  1
+    system
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 39.285714 %
+SECONDARY           : 41.071429 %
+EMOTIONS            : 19.642857 %
+
+342 words total

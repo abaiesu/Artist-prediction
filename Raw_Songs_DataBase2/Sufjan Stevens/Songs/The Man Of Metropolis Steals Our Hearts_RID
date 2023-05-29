@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:HARD                                           6
+    stone steel steel steel steel steel
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    face eyes hair hands hands hands
+EMOTIONS:ANXIETY                                                 5
+    trouble troubled troubled tremble tremble
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    over over away over over
+SECONDARY:ABSTRACTION                                            4
+    something something knew real
+EMOTIONS:POSITIVE AFFECT                                         4
+    celebrate celebrate celebrate celebrate
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart ear
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    lake tides lake
+EMOTIONS:AFFECTION                                               3
+    lover lover lover
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    lend said say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies dead
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    recover carry
+EMOTIONS:GLORY                                                   2
+    gold golden
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:SENSATION:VISION                                         1
+    saw
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamt
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 27.777778 %
+
+249 words total

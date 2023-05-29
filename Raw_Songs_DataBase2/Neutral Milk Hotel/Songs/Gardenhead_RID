@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees head
+SECONDARY:ABSTRACTION                                            2
+    guess knows
+PRIMARY:SENSATION:SOUND                                          1
+    crackle
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roller
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    coasters
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spiral
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    explain
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 14.285714 %
+
+86 words total

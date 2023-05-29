@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         7
+    look see see see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    find making making making making making making
+SECONDARY:ORDER                                                  6
+    listen listen listen listen listen listen
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time now everything everything
+SECONDARY:RESTRAINT                                              5
+    stop stop stop stop stop
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off at
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:AGGRESSION                                              1
+    blame
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:SENSATION:SOUND                                          1
+    loud
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tall
+
+PRIMARY             : 29.268293 %
+SECONDARY           : 58.536585 %
+EMOTIONS            : 12.195122 %
+
+180 words total

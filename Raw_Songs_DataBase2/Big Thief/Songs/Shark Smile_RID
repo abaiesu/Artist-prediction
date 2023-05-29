@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    over at over at out over over south over at over
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said said said said said said said said
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    line road line road edge line
+PRIMARY:SENSATION:VISION                                         5
+    glance moonlight gleam looked twinkle
+SECONDARY:RESTRAINT                                              4
+    caught guardrail guardrail guardrail
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    quiet dead dead
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+EMOTIONS:AGGRESSION                                              2
+    stole gunning
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride riding
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money reached
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:SENSATION:TOUCH                                          1
+    sting
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    pile
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fluttering
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    leaned
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 29.310345 %
+EMOTIONS            : 8.620690 %
+
+223 words total

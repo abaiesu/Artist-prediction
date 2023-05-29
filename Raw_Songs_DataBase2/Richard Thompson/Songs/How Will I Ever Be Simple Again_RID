@@ -1,0 +1,56 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    ever again ever again ever again ever again ever again ever again
+EMOTIONS:AFFECTION                                               6
+    like like love friend like love
+SECONDARY:ORDER                                                  6
+    simple simple simple simple simple simple
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    danced sang dances games
+EMOTIONS:AGGRESSION                                              3
+    guns torn war
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain river water
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair eyes eyes
+PRIMARY:SENSATION:VISION                                         2
+    grey see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried trying
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile happy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:ANXIETY                                                 1
+    troubled
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:NEED:ORALITY                                             1
+    cornfields
+SECONDARY:ABSTRACTION                                            1
+    may
+EMOTIONS:SADNESS                                                 1
+    weep
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    teach
+
+PRIMARY             : 33.898305 %
+SECONDARY           : 37.288136 %
+EMOTIONS            : 28.813559 %
+
+203 words total

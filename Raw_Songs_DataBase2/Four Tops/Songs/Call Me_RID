@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       26
+    service tell call call call tell call call call tell call call call call tell call call call tell call call call call tell call call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long at side long at side
+EMOTIONS:AFFECTION                                               5
+    loves friends love love love
+EMOTIONS:ANXIETY                                                 5
+    afraid afraid afraid afraid afraid
+SECONDARY:ABSTRACTION                                            4
+    tender thinking cause cause
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now now now
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should right should
+EMOTIONS:SADNESS                                                 2
+    sad lonely
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 15.873016 %
+SECONDARY           : 63.492063 %
+EMOTIONS            : 20.634921 %
+
+317 words total

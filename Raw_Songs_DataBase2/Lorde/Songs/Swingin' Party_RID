@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    somewhere here here side side at here side side at at somewhere here here side side at at
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   8
+    hang swingin hang swingin swingin hang swingin swingin
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when then now then when then
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    line line line line line
+PRIMARY:SENSATION:VISION                                         4
+    lampshade lampshade lampshade lampshade
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    help proposition help help
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+PRIMARY:SENSATION:SOFT                                           3
+    feather feather feather
+EMOTIONS:ANXIETY                                                 3
+    afraid afraid afraid
+SECONDARY:RESTRAINT                                              2
+    jail jail
+EMOTIONS:AFFECTION                                               2
+    kind kind
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water swim
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+SECONDARY:ABSTRACTION                                            1
+    learned
+
+PRIMARY             : 69.354839 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 8.064516 %
+
+231 words total

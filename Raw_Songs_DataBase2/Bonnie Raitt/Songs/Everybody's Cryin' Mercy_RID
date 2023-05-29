@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            9
+    believe know sure know know choose something know knows
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everybody when everybody soon everybody soon everybody when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    situation round circles straight ahead off
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    toe toe headed
+EMOTIONS:AFFECTION                                               2
+    mercy mercy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    business win
+EMOTIONS:GLORY                                                   1
+    wonderin
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:MORAL IMPERATIVE                                       1
+    justice
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheer
+EMOTIONS:AGGRESSION                                              1
+    war
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 34.210526 %
+SECONDARY           : 52.631579 %
+EMOTIONS            : 13.157895 %
+
+148 words total

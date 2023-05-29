@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    met said allow met asked say
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    walls fences walls gate walls walls
+PRIMARY:SENSATION:GENERAL-SENSATION                              5
+    pretty beauty beauty beauty beauty
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at at away
+PRIMARY:SENSATION:VISION                                         4
+    see star seen gaze
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lulu lulu lulu lulu
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above tall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    build make
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    fountain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lifted
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:AGGRESSION                                              1
+    jealously
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 70.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 5.000000 %
+
+162 words total

@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:SOUND                                         11
+    music music music music music music music music music music music
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    play play playing play play play
+EMOTIONS:AFFECTION                                               6
+    love loving love love love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mister mister
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+SECONDARY:RESTRAINT                                              2
+    stop refuse
+EMOTIONS:AGGRESSION                                              2
+    brutalise hit
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 39.473684 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 39.473684 %
+
+163 words total

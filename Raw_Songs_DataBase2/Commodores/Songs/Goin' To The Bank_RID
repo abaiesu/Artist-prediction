@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           15
+    knows knows knows decidin know why know knows knows knows understand thinks believes quantity cause
+SECONDARY:TEMPORAL REFERENCES                                   12
+    while now today again again now early soon everything now now when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    buy trying make afford money buyin won
+EMOTIONS:AFFECTION                                               6
+    love loves love like love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    help taught sale
+PRIMARY:NEED:ORALITY                                             2
+    bread lunch
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+PRIMARY:SENSATION:VISION                                         2
+    see look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    open far
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drives
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:RESTRAINT                                              1
+    penalty
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+
+PRIMARY             : 17.241379 %
+SECONDARY           : 68.965517 %
+EMOTIONS            : 13.793103 %
+
+382 words total

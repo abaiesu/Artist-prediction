@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              13
+    like like love love like love like love love like love like like
+SECONDARY:ABSTRACTION                                            9
+    almost almost almost almost believe true almost almost almost
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when when when old every time when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    level level level level out level level level
+EMOTIONS:AGGRESSION                                              7
+    tore tore tore tore tore tore tore
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    found found found found found
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said tell
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 23.333333 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 35.000000 %
+
+232 words total

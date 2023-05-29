@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         6
+    saw saw saw saw saw saw
+SECONDARY:ABSTRACTION                                            6
+    something real think them probably something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out out inside along inside
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    meet meet message meet meet
+PRIMARY:SENSATION:SOUND                                          4
+    loud loud hear heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    playing screams sing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyes hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reach grasp bid
+EMOTIONS:AFFECTION                                               3
+    like friends like
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swaying
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    beach
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 17.391304 %
+
+190 words total

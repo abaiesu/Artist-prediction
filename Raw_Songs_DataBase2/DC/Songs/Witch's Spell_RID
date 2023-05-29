@@ -1,0 +1,36 @@
+SECONDARY:RESTRAINT                                              9
+    caught caught caught caught caught caught caught caught caught
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell tell tell tell tell tell tell
+PRIMARY:SENSATION:VISION                                         7
+    beam starlight see moonbeam starlight see light
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    ride sail ride sail
+EMOTIONS:AFFECTION                                               3
+    like likes like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    blaze hot blaze
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flight flight
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    maker
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bathed
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+
+PRIMARY             : 47.727273 %
+SECONDARY           : 43.181818 %
+EMOTIONS            : 9.090909 %
+
+214 words total

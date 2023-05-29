@@ -1,0 +1,36 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    reach find find prepare pay cost
+SECONDARY:RESTRAINT                                              5
+    must stop catch stop catch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    front close behind behind
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old time hours minutes
+SECONDARY:ABSTRACTION                                            3
+    believe know know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    chase chase
+PRIMARY:SENSATION:VISION                                         2
+    light grey
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizon
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    following
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+SECONDARY:MORAL IMPERATIVE                                       1
+    virtue
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 58.823529 %
+EMOTIONS            : 0.000000 %
+
+116 words total

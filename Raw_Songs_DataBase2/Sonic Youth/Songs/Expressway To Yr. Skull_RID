@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head skull skull skull
+SECONDARY:ABSTRACTION                                            4
+    think plane plane plane
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    mystery mystery mystery
+EMOTIONS:AGGRESSION                                              1
+    kill
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:NEED:ORALITY                                             1
+    milkmaid
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 5.882353 %
+
+68 words total

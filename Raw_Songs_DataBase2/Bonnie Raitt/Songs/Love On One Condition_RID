@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    forgive tell say explain grant explain grant tell say explain grant
+EMOTIONS:AFFECTION                                               7
+    friends love love love friends love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back position position back position
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won try carryin try
+SECONDARY:ABSTRACTION                                            2
+    believe proved
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad mad
+EMOTIONS:SADNESS                                                 2
+    pain pain
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+
+PRIMARY             : 18.918919 %
+SECONDARY           : 56.756757 %
+EMOTIONS            : 24.324324 %
+
+147 words total

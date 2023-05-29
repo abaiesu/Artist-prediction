@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out off place over over forward
+SECONDARY:ABSTRACTION                                            5
+    them thought know guess know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say asked say ask say
+PRIMARY:SENSATION:COLD                                           4
+    snow snow children children
+PRIMARY:NEED:ORALITY                                             4
+    corner drunk whiskey gin
+PRIMARY:SENSATION:VISION                                         4
+    saw seen see see
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then ever every when
+EMOTIONS:AFFECTION                                               4
+    loved loved like favor
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    dead death die death
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    footprints feet hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    tried money used
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mounted
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:GLORY                                                   1
+    wondered
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+SECONDARY:ORDER                                                  1
+    constant
+
+PRIMARY             : 57.407407 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 9.259259 %
+
+281 words total

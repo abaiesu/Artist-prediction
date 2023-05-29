@@ -1,0 +1,62 @@
+EMOTIONS:AFFECTION                                              18
+    like love love like like like married marriage like like like like like like like like like like
+SECONDARY:ABSTRACTION                                           11
+    know real cause guess guess guess guess possible choice example something
+EMOTIONS:AGGRESSION                                             11
+    army shot harm damage hit hit wars knife sword hit hit
+PRIMARY:SENSATION:VISION                                         6
+    tinted look seen seen seen seen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    used try sell used make soldier
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    line line trailer streets line line
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    straight separate overboard out here
+SECONDARY:RESTRAINT                                              4
+    catch catch catch catch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    handrub hand hip
+EMOTIONS:ANXIETY                                                 3
+    panic frantic scary
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+EMOTIONS:GLORY                                                   2
+    pride glory
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now old
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    moist beach
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birdman
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    boiler
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sharin
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairy
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolls
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+PRIMARY:SENSATION:SOUND                                          1
+    rings
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 35.789474 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 37.894737 %
+
+507 words total

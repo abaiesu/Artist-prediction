@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now when when while years when now when when
+PRIMARY:NEED:ORALITY                                             7
+    sugar rum juice sugar drinks rum swallow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back back out away back back
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    shores sea ocean shores sea
+EMOTIONS:AGGRESSION                                              4
+    stealing cut blame steal
+SECONDARY:ABSTRACTION                                            3
+    knows thinks them
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trade building
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+EMOTIONS:GLORY                                                   1
+    crown
+PRIMARY:SENSATION:ODOR                                           1
+    musket
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 52.272727 %
+SECONDARY           : 34.090909 %
+EMOTIONS            : 13.636364 %
+
+219 words total

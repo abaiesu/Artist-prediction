@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    used find find find find find trying find find trying find find find find
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    ask tell ask tell say ask said said said help telling said
+SECONDARY:ABSTRACTION                                           11
+    true true true true know true know know cause cause know
+SECONDARY:TEMPORAL REFERENCES                                    7
+    ever everyone years past sometimes then now
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    longer place back somewhere somewhere
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:RESTRAINT                                              2
+    stop must
+EMOTIONS:SADNESS                                                 2
+    lonely groan
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    traveled
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:VISION                                         1
+    looking
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    corner
+
+PRIMARY             : 15.151515 %
+SECONDARY           : 71.212121 %
+EMOTIONS            : 13.636364 %
+
+263 words total

@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    task collect make claims test
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    taught promise forgiven promise
+EMOTIONS:AFFECTION                                               4
+    like loved like loved
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out place place
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today today
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sings sings
+EMOTIONS:AGGRESSION                                              1
+    kill
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:ABSTRACTION                                            1
+    belief
+
+PRIMARY             : 36.666667 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 23.333333 %
+
+155 words total

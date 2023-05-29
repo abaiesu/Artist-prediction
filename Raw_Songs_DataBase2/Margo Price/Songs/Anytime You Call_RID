@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                               6
+    like like friend like like friend
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when times every every
+EMOTIONS:AGGRESSION                                              5
+    shot angry steals stable torn
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out back inside out
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun heat boil searchlights
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head skin bodies eyes
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call answer call answer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    making find find
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    holes under
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    madness dream
+PRIMARY:SENSATION:VISION                                         2
+    peering looking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+SECONDARY:RESTRAINT                                              1
+    cage
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+EMOTIONS:POSITIVE AFFECT                                         1
+    grin
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 46.000000 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 26.000000 %
+
+188 words total

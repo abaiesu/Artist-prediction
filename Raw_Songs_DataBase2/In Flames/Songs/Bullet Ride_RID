@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at where close
+SECONDARY:RESTRAINT                                              3
+    binds binds binds
+EMOTIONS:ANXIETY                                                 3
+    frightened frantic cowardice
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    steps door
+PRIMARY:SENSATION:ODOR                                           2
+    smell smell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screaming poem
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used aim
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:TASTE                                          1
+    bitterness
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisting
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answer
+PRIMARY:SENSATION:HARD                                           1
+    splinters
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:VISION                                         1
+    witness
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everybody
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 14.285714 %
+
+159 words total

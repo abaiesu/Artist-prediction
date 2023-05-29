@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    closer here at far away
+EMOTIONS:SADNESS                                                 3
+    sadness lonely lonesome
+EMOTIONS:AFFECTION                                               3
+    like love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every present
+PRIMARY:SENSATION:COLD                                           2
+    chill chill
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    asked asked
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 31.818182 %
+
+146 words total

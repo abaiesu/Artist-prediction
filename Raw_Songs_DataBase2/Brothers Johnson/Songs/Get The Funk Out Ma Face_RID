@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    out out out out out out out out out out out out out out out out out out out out out out out out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         24
+    face face face face face face face face face face face face face face face face face face face face face face face face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    use use try use use
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:SOUND                                          4
+    music music music music
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then then then
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play sing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tell
+
+PRIMARY             : 74.285714 %
+SECONDARY           : 17.142857 %
+EMOTIONS            : 8.571429 %
+
+320 words total

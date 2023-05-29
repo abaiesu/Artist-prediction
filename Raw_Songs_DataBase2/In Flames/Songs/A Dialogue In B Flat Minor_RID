@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time everyday sometimes everyday sometimes ever everyday sometimes everyday sometimes
+SECONDARY:ABSTRACTION                                           10
+    think know real believe know real know real know real
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    ask tell speak explain explain speak speak speak
+PRIMARY:SENSATION:VISION                                         7
+    see see see look see see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head head head head
+EMOTIONS:AGGRESSION                                              4
+    fight fight fight fight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying trying trying trying
+PRIMARY:SENSATION:SOUND                                          4
+    hearing hearing hearing hearing
+PRIMARY:SENSATION:ODOR                                           3
+    breathing breathing breathing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire fire fire
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    madness insane insane
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away place
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:RESTRAINT                                              1
+    control
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clowns
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+
+PRIMARY             : 41.428571 %
+SECONDARY           : 48.571429 %
+EMOTIONS            : 10.000000 %
+
+297 words total

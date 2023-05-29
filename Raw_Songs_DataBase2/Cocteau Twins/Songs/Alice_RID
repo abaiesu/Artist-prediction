@@ -1,0 +1,34 @@
+EMOTIONS:AGGRESSION                                              4
+    gun deceived deceive gun
+PRIMARY:SENSATION:VISION                                         4
+    see halo see look
+SECONDARY:ABSTRACTION                                            3
+    true know true
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    plead excuse share
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:ANXIETY                                                 2
+    shudder shudder
+PRIMARY:NEED:ANALITY                                             2
+    shatter shatter
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smoking smoking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    finishing finishing
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 38.709677 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 25.806452 %
+
+141 words total

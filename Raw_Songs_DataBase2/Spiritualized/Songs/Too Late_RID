@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              16
+    loves love love like friend love love love love love love love dear love love love
+SECONDARY:ABSTRACTION                                           10
+    something learned cause know may cause know learned something learned
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when when when today when when when
+PRIMARY:ICARIAN IMAGERY:FIRE                                     8
+    fire burned flame flame flame burned flame burned
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said said say
+PRIMARY:SENSATION:SOUND                                          4
+    heart hearts hearts hearts
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out close away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:SENSATION:VISION                                         2
+    lights lights
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+EMOTIONS:AGGRESSION                                              1
+    break
+
+PRIMARY             : 34.848485 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 28.787879 %
+
+239 words total

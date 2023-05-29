@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back back back at at at at at at at
+PRIMARY:SENSATION:VISION                                        10
+    see saw look look look see saw look look look
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said callin say callin say
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    shake quake shake quake
+SECONDARY:TEMPORAL REFERENCES                                    3
+    clock again again
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:NEED:SEX                                                 2
+    kissin kissin
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+SECONDARY:RESTRAINT                                              1
+    block
+EMOTIONS:AFFECTION                                               1
+    lover
+
+PRIMARY             : 68.181818 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 6.818182 %
+
+223 words total

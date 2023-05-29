@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       20
+    say forgiven tells please share tell talking talking promised talking please please tell tell tell talking talking tell talking talking
+SECONDARY:TEMPORAL REFERENCES                                   13
+    time time again again now time when now when again again again again
+EMOTIONS:SADNESS                                                 8
+    lonely lonely lonely misery lonely lonely lonely lonely
+EMOTIONS:AFFECTION                                               7
+    darling love love love love love love
+SECONDARY:ABSTRACTION                                            5
+    believe something different true know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make won
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusing
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headed
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreak
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:VISION                                         1
+    visualize
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+
+PRIMARY             : 11.111111 %
+SECONDARY           : 63.492063 %
+EMOTIONS            : 25.396825 %
+
+223 words total

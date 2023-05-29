@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when now minute today now minute when now now now now minute now
+EMOTIONS:AFFECTION                                               9
+    love love love love love love love love love
+PRIMARY:SENSATION:SOUND                                          8
+    heartaches heartaches heartaches heartaches loud heart heartaches heartaches
+SECONDARY:ABSTRACTION                                            6
+    cause know cause reasons fact cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    shadow shadow shadows shadows shadows shadows
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    follow teach help say treat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where away aside out
+EMOTIONS:SADNESS                                                 4
+    misery sorrow sorrow grief
+PRIMARY:SENSATION:VISION                                         3
+    see watch see
+SECONDARY:MORAL IMPERATIVE                                       2
+    right conscience
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried make
+EMOTIONS:ANXIETY                                                 1
+    desperately
+EMOTIONS:AGGRESSION                                              1
+    bother
+
+PRIMARY             : 31.818182 %
+SECONDARY           : 42.424242 %
+EMOTIONS            : 25.757576 %
+
+310 words total

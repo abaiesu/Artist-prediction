@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           10
+    reason think guess judge thinks judge suppose judge think think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    makin make makin makin makin make money pay makin makin
+SECONDARY:TEMPORAL REFERENCES                                    8
+    season now year year every now now then
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    answers says says says says say
+EMOTIONS:AFFECTION                                               3
+    bride love love
+PRIMARY:NEED:ORALITY                                             3
+    honeymoon rice dishes
+PRIMARY:SENSATION:VISION                                         2
+    picture picture
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+EMOTIONS:ANXIETY                                                 1
+    nervous
+EMOTIONS:AGGRESSION                                              1
+    killin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washin
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    jail
+
+PRIMARY             : 19.230769 %
+SECONDARY           : 69.230769 %
+EMOTIONS            : 11.538462 %
+
+210 words total

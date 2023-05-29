@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    round close close long away long close close
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    sing sing sing sing sing sing
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old when time time when
+EMOTIONS:AFFECTION                                               4
+    love love like love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes eyes eyes
+SECONDARY:ABSTRACTION                                            3
+    surely know know
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         2
+    blues blues
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 46.341463 %
+SECONDARY           : 29.268293 %
+EMOTIONS            : 24.390244 %
+
+146 words total

@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                               9
+    friend love loved friend love loves love love love
+SECONDARY:ABSTRACTION                                            6
+    something certainly possibility idea may something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    beside long apart out longer
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    told conversation talking announced met
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time when then now
+EMOTIONS:GLORY                                                   2
+    awe great
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisting
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    slumbering
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:SADNESS                                                 1
+    melancholy
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:NEED:ORALITY                                             1
+    consummated
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+
+PRIMARY             : 30.952381 %
+SECONDARY           : 38.095238 %
+EMOTIONS            : 30.952381 %
+
+161 words total

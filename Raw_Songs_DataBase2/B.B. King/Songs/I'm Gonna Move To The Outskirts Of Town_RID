@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out out away here out away out out
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    hanging hanging hanging hanging
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when everyday when when
+PRIMARY:SENSATION:COLD                                           3
+    ice frigidaire children
+SECONDARY:ABSTRACTION                                            3
+    them may them
+EMOTIONS:POSITIVE AFFECT                                         3
+    funny funny funny
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 13.333333 %
+
+162 words total

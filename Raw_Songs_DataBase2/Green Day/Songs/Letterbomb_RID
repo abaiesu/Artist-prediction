@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    out where along where over over over where where back over over over place behind
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everyone now when when when tonight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    test collecting burden cures burden
+EMOTIONS:AFFECTION                                               3
+    likes love love
+EMOTIONS:AGGRESSION                                              2
+    strike rage
+PRIMARY:NEED:SEX                                                 2
+    fucking fucking
+PRIMARY:SENSATION:VISION                                         2
+    light look
+SECONDARY:ABSTRACTION                                            2
+    know analyze
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    underground underground
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burnin burnin
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 55.319149 %
+SECONDARY           : 31.914894 %
+EMOTIONS            : 12.765957 %
+
+265 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                             11
+    break wounded hurts angry wounded hurts angry break break wounded hurts
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every time every time when every time
+EMOTIONS:AFFECTION                                               6
+    like like love like like like
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    reminded please reminded please reminded
+PRIMARY:SENSATION:SOUND                                          3
+    tune drum tune
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+EMOTIONS:GLORY                                                   1
+    pride
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamer
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 32.500000 %
+EMOTIONS            : 47.500000 %
+
+163 words total

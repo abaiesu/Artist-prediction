@@ -1,0 +1,24 @@
+EMOTIONS:AGGRESSION                                              2
+    torture struggle
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    immobile
+PRIMARY:SENSATION:TASTE                                          1
+    tangled
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hastily
+PRIMARY:SENSATION:VISION                                         1
+    scenes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 9.090909 %
+EMOTIONS            : 27.272727 %
+
+55 words total

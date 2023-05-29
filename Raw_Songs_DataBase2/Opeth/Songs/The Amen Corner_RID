@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    far at within away overture long circles within
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    face palm hands eyes face hands
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again every once now now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    helpless spoke said shared
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    finding task harvest
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    solace death slowly
+SECONDARY:ABSTRACTION                                            3
+    believe something know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    smoldering ashes spark
+PRIMARY:SENSATION:VISION                                         2
+    see grey
+EMOTIONS:AFFECTION                                               2
+    like embrace
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    void secrets
+EMOTIONS:AGGRESSION                                              1
+    despise
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sprung
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:RESTRAINT                                              1
+    enclosing
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endure
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    waters
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    mound
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 64.150943 %
+SECONDARY           : 30.188679 %
+EMOTIONS            : 5.660377 %
+
+192 words total

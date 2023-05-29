@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               7
+    darling love like darling love like darling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    try make try make try make
+EMOTIONS:POSITIVE AFFECT                                         6
+    satisfied gladly satisfied relieve happiness satisfied
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back back back
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+SECONDARY:TEMPORAL REFERENCES                                    2
+    yearning year
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+
+PRIMARY             : 21.212121 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 45.454545 %
+
+97 words total

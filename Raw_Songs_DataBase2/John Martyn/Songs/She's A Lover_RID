@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              30
+    lover lover lover lover lover lover lover lover lover lover dear kind lover lover lover lover loved lover lover lover lover lover lover lover lover lover lover lover lover lover
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    tell tell says told said told tell talk talking
+SECONDARY:ABSTRACTION                                            8
+    known cause understand certain why why why why
+EMOTIONS:AGGRESSION                                              4
+    break beat shoot break
+EMOTIONS:GLORY                                                   4
+    wondering wondering wondering wondering
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away out
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried tried
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street road
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lazy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 15.068493 %
+SECONDARY           : 28.767123 %
+EMOTIONS            : 56.164384 %
+
+289 words total

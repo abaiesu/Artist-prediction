@@ -1,0 +1,42 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    says says says says says said said said
+EMOTIONS:AFFECTION                                               7
+    like like like like like like like
+SECONDARY:ABSTRACTION                                            6
+    know know know know know know
+PRIMARY:SENSATION:VISION                                         6
+    ray ray ray ray ray ray
+SECONDARY:MORAL IMPERATIVE                                       6
+    right shouldn shouldn shouldn right shouldn
+EMOTIONS:AGGRESSION                                              5
+    hit shot hit hit shot
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    earn count earn
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    searching searching searching
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out front
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    carolina carolina
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor floor
+PRIMARY:NEED:ORALITY                                             2
+    sucking sucking
+EMOTIONS:SADNESS                                                 1
+    suffering
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hour
+PRIMARY:SENSATION:SOUND                                          1
+    hearted
+
+PRIMARY             : 36.065574 %
+SECONDARY           : 39.344262 %
+EMOTIONS            : 24.590164 %
+
+245 words total

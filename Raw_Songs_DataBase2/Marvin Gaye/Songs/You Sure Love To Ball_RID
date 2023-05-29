@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              15
+    love like love love love love love love love love love love love love love
+SECONDARY:ABSTRACTION                                           11
+    sure sure sure sure sure sure sure know surely sure sure
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ever ever ever ever ever ever
+EMOTIONS:AGGRESSION                                              2
+    doubts break
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:COLD                                           1
+    freeze
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 7.500000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 42.500000 %
+
+203 words total

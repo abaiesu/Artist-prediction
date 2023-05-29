@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    years when when when past time time when then
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    tide sea
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make use
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drift lie
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away at
+EMOTIONS:AFFECTION                                               2
+    love goodbye
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+SECONDARY:ABSTRACTION                                            2
+    know cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sailed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    port
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waved
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 48.484848 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 6.060606 %
+
+152 words total

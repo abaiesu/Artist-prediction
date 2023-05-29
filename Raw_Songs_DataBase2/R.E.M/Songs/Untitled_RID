@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    here here here here away here away here here here away here away here away here
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            8
+    awake awake awake awake awake awake awake awake
+PRIMARY:SENSATION:SOUND                                          8
+    hear voice hear voice hear hear hear hear
+PRIMARY:SENSATION:VISION                                         7
+    light light light seen seen seen seen
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say say say
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while while while while while
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing sing sing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    warm warm warm
+SECONDARY:ORDER                                                  3
+    list list list
+
+PRIMARY             : 71.186441 %
+SECONDARY           : 22.033898 %
+EMOTIONS            : 6.779661 %
+
+271 words total

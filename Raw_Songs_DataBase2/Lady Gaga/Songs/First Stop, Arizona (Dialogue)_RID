@@ -1,0 +1,14 @@
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everybody
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 25.000000 %
+
+27 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              12
+    love sympathy lover kinda lover lover lover lover lover lover lover lover
+EMOTIONS:SADNESS                                                12
+    sad misery sad sad misery sad sad misery sad sad misery sad
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back out over back
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now time years when
+PRIMARY:SENSATION:SOUND                                          4
+    hearts hearts hearts hearts
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry guitar
+SECONDARY:ABSTRACTION                                            2
+    truth something
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 15.555556 %
+EMOTIONS            : 57.777778 %
+
+168 words total

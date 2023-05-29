@@ -1,0 +1,52 @@
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heard heart heart heart
+EMOTIONS:AFFECTION                                               5
+    love love mercy like mercy
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time now when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    aimlessly found
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searching sun
+PRIMARY:SENSATION:VISION                                         2
+    gazed see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing cry
+EMOTIONS:AGGRESSION                                              2
+    broken hate
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comfort comfort
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long close
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandered
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+EMOTIONS:SADNESS                                                 1
+    weeping
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wing
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:SENSATION:TASTE                                          1
+    bitterness
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 53.488372 %
+SECONDARY           : 20.930233 %
+EMOTIONS            : 25.581395 %
+
+125 words total

@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here here here here outside here here
+PRIMARY:SENSATION:VISION                                         7
+    see light see light blue blue blues
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:ABSTRACTION                                            1
+    them
+
+PRIMARY             : 82.608696 %
+SECONDARY           : 4.347826 %
+EMOTIONS            : 13.043478 %
+
+115 words total

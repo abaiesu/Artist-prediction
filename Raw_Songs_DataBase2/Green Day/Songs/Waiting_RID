@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    long at out back at closer at close tip closer closer at where at
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time moment hour now ever ever ever moment
+PRIMARY:SENSATION:VISION                                         6
+    lights shining stars stars color stars
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    calling thank say thank say thank
+SECONDARY:ABSTRACTION                                            4
+    known almost known known
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake wake wake wake
+EMOTIONS:AFFECTION                                               2
+    like embrace
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawning
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+
+PRIMARY             : 60.377358 %
+SECONDARY           : 35.849057 %
+EMOTIONS            : 3.773585 %
+
+201 words total

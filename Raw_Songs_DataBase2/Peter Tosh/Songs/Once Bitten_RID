@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       18
+    say please ask please ask say told tell please ask please ask tell say please ask please ask
+PRIMARY:NEED:ORALITY                                            15
+    bite bite bitten bitten bitten bitten bite bite bitten bitten bite bite bite bite bitten
+SECONDARY:TEMPORAL REFERENCES                                    9
+    once once now once once now once once once
+SECONDARY:ABSTRACTION                                            8
+    why why cause cause why why why why
+EMOTIONS:ANXIETY                                                 6
+    shy shy shy shy shy shy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long out back out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work found
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+EMOTIONS:AGGRESSION                                              1
+    doubt
+
+PRIMARY             : 34.328358 %
+SECONDARY           : 55.223881 %
+EMOTIONS            : 10.447761 %
+
+265 words total

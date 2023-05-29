@@ -1,0 +1,38 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    machine find making used find
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while when times when time
+EMOTIONS:AFFECTION                                               3
+    goodbye love love
+PRIMARY:SENSATION:VISION                                         2
+    scene see
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    wave vibration
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    preachers preach
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    art play
+PRIMARY:SENSATION:SOUND                                          2
+    music melody
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+SECONDARY:ABSTRACTION                                            1
+    choose
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:NEED:ORALITY                                             1
+    milky
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AGGRESSION                                              1
+    wars
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 22.580645 %
+
+206 words total

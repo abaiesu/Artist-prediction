@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said told share share talk
+SECONDARY:ABSTRACTION                                            4
+    cause why why cause
+EMOTIONS:AGGRESSION                                              4
+    destruction steal steal destruction
+EMOTIONS:SADNESS                                                 4
+    weeping wailing weeping wailing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    prepare cost prepare
+PRIMARY:NEED:ORALITY                                             2
+    starvation starvation
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:HARD                                           1
+    rocking
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 25.000000 %
+
+178 words total

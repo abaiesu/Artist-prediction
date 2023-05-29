@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   18
+    when then present past present past present past present past present past present past present past present past
+PRIMARY:SENSATION:VISION                                         5
+    sees looks seeing sees sees
+SECONDARY:ABSTRACTION                                            3
+    theme know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes head head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make using
+EMOTIONS:AFFECTION                                               2
+    lover like
+EMOTIONS:AGGRESSION                                              2
+    beats broke
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+PRIMARY:NEED:SEX                                                 1
+    sexual
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fantasies
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:SENSATION:COLD                                           1
+    north
+SECONDARY:ORDER                                                  1
+    listening
+
+PRIMARY             : 30.232558 %
+SECONDARY           : 58.139535 %
+EMOTIONS            : 11.627907 %
+
+268 words total

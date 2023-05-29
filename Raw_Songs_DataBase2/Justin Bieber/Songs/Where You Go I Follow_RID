@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              19
+    love like like like like like like like like love like like like like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                   12
+    every once once once once sometimes times once once once once again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where where here here away at apart middle east between
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    follow follow confide met convinced teacher explainer
+SECONDARY:ABSTRACTION                                            7
+    reason why why planet why why history
+EMOTIONS:AGGRESSION                                              6
+    struggle struggle beat damage beat defeated
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    death safety death die death
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    tried won find claims
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    hazy
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:GLORY                                                   1
+    wondering
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+
+PRIMARY             : 28.048780 %
+SECONDARY           : 37.804878 %
+EMOTIONS            : 34.146341 %
+
+421 words total

@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:COLD                                          15
+    cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try find find find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    middle middle
+PRIMARY:SENSATION:SOUND                                          2
+    music whistling
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+SECONDARY:ABSTRACTION                                            2
+    something something
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:SENSATION:HARD                                           1
+    stone
+SECONDARY:ORDER                                                  1
+    listening
+
+PRIMARY             : 63.888889 %
+SECONDARY           : 36.111111 %
+EMOTIONS            : 0.000000 %
+
+118 words total

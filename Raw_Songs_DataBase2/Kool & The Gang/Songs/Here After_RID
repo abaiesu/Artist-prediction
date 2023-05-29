@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here here long here here here here here here
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+PRIMARY:SENSATION:SOUND                                          2
+    ring hearts
+SECONDARY:ABSTRACTION                                            2
+    knowledge understanding
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+SECONDARY:MORAL IMPERATIVE                                       1
+    justice
+PRIMARY:NEED:ORALITY                                             1
+    consumed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 26.923077 %
+EMOTIONS            : 26.923077 %
+
+77 words total

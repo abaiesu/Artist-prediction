@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where over over where close far
+PRIMARY:SENSATION:VISION                                         6
+    appeared shining light shining light light
+SECONDARY:TEMPORAL REFERENCES                                    5
+    timing every now then brief
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    trying collected trying finds trying
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    asleep dreamed fever wake
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silent inertia slow
+SECONDARY:RESTRAINT                                              3
+    catch catch catch
+SECONDARY:ABSTRACTION                                            2
+    tender something
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky heaven
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ashes
+EMOTIONS:AFFECTION                                               1
+    goodbye
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+
+PRIMARY             : 61.363636 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 2.272727 %
+
+192 words total

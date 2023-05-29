@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heart heart heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell call tell tell call tell
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make try won
+EMOTIONS:AFFECTION                                               3
+    like love like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    toss threw toss
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fallin fallin
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor floor
+EMOTIONS:SADNESS                                                 1
+    weep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:SENSATION:VISION                                         1
+    blue
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 34.210526 %
+EMOTIONS            : 15.789474 %
+
+124 words total

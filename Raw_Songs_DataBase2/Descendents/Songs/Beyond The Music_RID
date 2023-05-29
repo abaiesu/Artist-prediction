@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out along out places along here between here
+PRIMARY:SENSATION:SOUND                                          5
+    music music music music music
+SECONDARY:ABSTRACTION                                            4
+    learn know known real
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    play played play play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found belong finding found
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say talk share
+EMOTIONS:AFFECTION                                               2
+    favorite friends
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today today
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    cave
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:HARD                                           1
+    rock
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 30.952381 %
+EMOTIONS            : 16.666667 %
+
+184 words total

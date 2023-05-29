@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         5
+    see behold see seen see
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight again again again every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    open where where closed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    laid rest die silent
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes eyes eyelids
+EMOTIONS:AGGRESSION                                              3
+    cut wrath spear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    dawn climbs fled
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doors walls
+PRIMARY:SENSATION:SOUND                                          2
+    heart ears
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    twilight shadows
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screaming sights
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speech ask
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:GLORY                                                   1
+    throne
+
+PRIMARY             : 65.116279 %
+SECONDARY           : 20.930233 %
+EMOTIONS            : 13.953488 %
+
+142 words total

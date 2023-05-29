@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    long here here here inside here here here here here here
+PRIMARY:SENSATION:VISION                                         5
+    light shines light brighter illuminate
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everlastin times times
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+SECONDARY:ABSTRACTION                                            2
+    truth cause
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revelation
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+EMOTIONS:AGGRESSION                                              1
+    break
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sharin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+
+PRIMARY             : 74.193548 %
+SECONDARY           : 19.354839 %
+EMOTIONS            : 6.451613 %
+
+186 words total

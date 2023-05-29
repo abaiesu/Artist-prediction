@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         5
+    shines brighter shines shines shines
+SECONDARY:TEMPORAL REFERENCES                                    5
+    year now everything everything everything
+SECONDARY:ABSTRACTION                                            5
+    different them thought them them
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face eye eye face eye
+EMOTIONS:AFFECTION                                               4
+    love dear love love
+EMOTIONS:SADNESS                                                 4
+    sadness pain sadness sadness
+PRIMARY:SENSATION:COLD                                           3
+    children children children
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    wings wings wings
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile smile smile
+PRIMARY:NEED:ORALITY                                             2
+    thirst lips
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burns
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 40.425532 %
+SECONDARY           : 29.787234 %
+EMOTIONS            : 29.787234 %
+
+205 words total

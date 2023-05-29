@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away at toward closing
+EMOTIONS:POSITIVE AFFECT                                         3
+    laugh smile smile
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+EMOTIONS:SADNESS                                                 2
+    lone lonely
+EMOTIONS:GLORY                                                   2
+    golden golden
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    introduced introduced
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:TEMPORAL REFERENCES                                    1
+    brief
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 47.619048 %
+
+104 words total

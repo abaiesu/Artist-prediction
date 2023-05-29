@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say say tell say say say say say say say
+SECONDARY:ABSTRACTION                                            3
+    sure know sure
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    open away
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:ANXIETY                                                 1
+    afraid
+
+PRIMARY             : 28.000000 %
+SECONDARY           : 52.000000 %
+EMOTIONS            : 20.000000 %
+
+179 words total

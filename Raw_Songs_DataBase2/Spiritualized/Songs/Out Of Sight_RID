@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out out out further place where space space space
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fallen fallen falling
+SECONDARY:ABSTRACTION                                            3
+    think sure know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find make make
+SECONDARY:TEMPORAL REFERENCES                                    3
+    years years today
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:VISION                                         1
+    looking
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 51.724138 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 10.344828 %
+
+140 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here here long away back over apart
+PRIMARY:SENSATION:VISION                                         6
+    see visions light see light shines
+SECONDARY:ABSTRACTION                                            5
+    thinking thoughts cause knew cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    dreaming dreaming dreaming dreaming wake
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry play
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    communicate answers
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comforted
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 61.111111 %
+SECONDARY           : 30.555556 %
+EMOTIONS            : 8.333333 %
+
+161 words total

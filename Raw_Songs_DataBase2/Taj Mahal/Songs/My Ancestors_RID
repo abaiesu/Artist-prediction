@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                        11
+    look look look look look look look watch look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    at at at at at at at at at at
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old then
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow tall
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help say
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+SECONDARY:ABSTRACTION                                            1
+    them
+
+PRIMARY             : 78.125000 %
+SECONDARY           : 15.625000 %
+EMOTIONS            : 6.250000 %
+
+178 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out out back out back out back inside out back out back
+SECONDARY:ABSTRACTION                                            7
+    may may choice choose known fact problem
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    win build find win try won tried
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell excuses admit
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    game play game
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die lie
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    damper
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallin
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 9.090909 %
+
+228 words total

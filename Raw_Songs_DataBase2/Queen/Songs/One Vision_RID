@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                        14
+    flash light vision vision vision glimpse visions look vision vision vision vision vision vision
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    flesh bone blood flesh bone hands flesh bone
+SECONDARY:ABSTRACTION                                            7
+    solution true real true real true real
+PRIMARY:SENSATION:SOUND                                          5
+    heart voice heart hearts voice
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    works goal works
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    mysterious mysterious mysterious
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dream dream
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+EMOTIONS:AGGRESSION                                              2
+    hate fight
+EMOTIONS:POSITIVE AFFECT                                         2
+    excitation celebration
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+SECONDARY:RESTRAINT                                              1
+    bar
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 7.142857 %
+
+271 words total

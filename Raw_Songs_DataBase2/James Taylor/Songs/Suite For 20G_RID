@@ -1,0 +1,54 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    month time time when when times old now now when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away inside away inside round where at here here
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say saying tell say say say say said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won trying find make used make
+SECONDARY:ABSTRACTION                                            5
+    may know knows sure sure
+PRIMARY:SENSATION:VISION                                         5
+    sunshine shine shine looky looky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    slipping slipping slide slide
+PRIMARY:SENSATION:HARD                                           4
+    hard rock rocking rock
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wall hall street
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain wash rain
+EMOTIONS:AFFECTION                                               3
+    love fond fond
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roll roll roll
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    footsteps
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:NEED:ORALITY                                             1
+    eat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+
+PRIMARY             : 51.948052 %
+SECONDARY           : 41.558442 %
+EMOTIONS            : 6.493506 %
+
+263 words total

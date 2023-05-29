@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       40
+    back back long long back back away away away away here back away back back away away away back back away away back back back back away away back back away back back away back back back back away away
+SECONDARY:ABSTRACTION                                            4
+    know cause why why
+EMOTIONS:AFFECTION                                               3
+    sympathy darling love
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calling
+SECONDARY:MORAL IMPERATIVE                                       1
+    honest
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:VISION                                         1
+    blue
+
+PRIMARY             : 80.701754 %
+SECONDARY           : 10.526316 %
+EMOTIONS            : 8.771930 %
+
+340 words total

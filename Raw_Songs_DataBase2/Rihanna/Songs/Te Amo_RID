@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       23
+    says said told told asking said tell said asking said told told asking said tell said said told told asking said tell said
+EMOTIONS:AFFECTION                                              14
+    love love love love love love love love love love love love love love
+SECONDARY:ABSTRACTION                                           10
+    why think choice why why think understand why think think
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then when then then then then then then
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    danced cried danced cried dance cried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes hand hand hand hands hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over away out over away away
+PRIMARY:SENSATION:VISION                                         4
+    saw watch watch light
+PRIMARY:NEED:SEX                                                 3
+    waist waist waist
+PRIMARY:SENSATION:SOUND                                          2
+    hear voice
+EMOTIONS:ANXIETY                                                 2
+    scared afraid
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    beach water
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 27.777778 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 25.555556 %
+
+362 words total

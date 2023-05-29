@@ -1,0 +1,36 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    attempts pay seldom
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly jump climbs
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off off over
+EMOTIONS:AFFECTION                                               2
+    welcome pitiful
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    roof trees
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    bargain able
+EMOTIONS:POSITIVE AFFECT                                         2
+    enjoy joyride
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fairly fairly
+EMOTIONS:AGGRESSION                                              2
+    critical stable
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:HARD                                           1
+    stiff
+SECONDARY:RESTRAINT                                              1
+    deterministic
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    static
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sometimes
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 22.222222 %
+
+98 words total

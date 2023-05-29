@@ -1,0 +1,52 @@
+EMOTIONS:AFFECTION                                               9
+    welcome welcome welcome love goodbye friend love love love
+SECONDARY:TEMPORAL REFERENCES                                    8
+    year now once till when now time now
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    treat say meet confess say describe forgiveness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    test find work make make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long long where open away
+EMOTIONS:AGGRESSION                                              4
+    revenge knife revenge destruction
+EMOTIONS:SADNESS                                                 3
+    misery pain repentance
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death death
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+SECONDARY:ORDER                                                  1
+    order
+EMOTIONS:ANXIETY                                                 1
+    terror
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insanity
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screams
+EMOTIONS:GLORY                                                   1
+    pride
+SECONDARY:ABSTRACTION                                            1
+    true
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    root
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+
+PRIMARY             : 26.229508 %
+SECONDARY           : 42.622951 %
+EMOTIONS            : 31.147541 %
+
+207 words total

@@ -1,0 +1,16 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    buy buy try try buy buy try try
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say say tell tell say say
+SECONDARY:ABSTRACTION                                            2
+    why why
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+EMOTIONS:AFFECTION                                               2
+    love love
+
+PRIMARY             : 10.000000 %
+SECONDARY           : 80.000000 %
+EMOTIONS            : 10.000000 %
+
+169 words total

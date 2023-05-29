@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    behind near behind near behind near behind near behind near behind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    find try find find find find find
+PRIMARY:SENSATION:VISION                                         7
+    look glowing lights look see glowing lights
+EMOTIONS:ANXIETY                                                 5
+    fear fear fear fear fear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    scream yellow yellow yellow yellow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    nightmare dream dream
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:NEED:ORALITY                                             2
+    corner eat
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jungle
+SECONDARY:ABSTRACTION                                            1
+    believe
+SECONDARY:RESTRAINT                                              1
+    prison
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+
+PRIMARY             : 58.490566 %
+SECONDARY           : 18.867925 %
+EMOTIONS            : 22.641509 %
+
+263 words total

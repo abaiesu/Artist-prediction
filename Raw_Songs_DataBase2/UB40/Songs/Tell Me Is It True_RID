@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    forgiving explain tell tell say tell agree forgiving forgiving explain tell tell say tell agree forgiving
+EMOTIONS:AFFECTION                                              16
+    love love kind love like love love love love love kind love like love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    place inside places place inside place inside places place inside
+SECONDARY:ABSTRACTION                                            8
+    tenderly know true tenderly tenderly know true tenderly
+SECONDARY:TEMPORAL REFERENCES                                    8
+    every everything everything every every everything everything every
+EMOTIONS:AGGRESSION                                              6
+    break struggle break break struggle break
+EMOTIONS:POSITIVE AFFECT                                         4
+    smiles smiles smiles smiles
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    mistakes mistakes mistakes mistakes
+PRIMARY:SENSATION:VISION                                         4
+    shines see shines see
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    pours rain pours rain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:SENSATION:TOUCH                                          2
+    touches touches
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    aiming aiming
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    eternity eternity
+
+PRIMARY             : 31.818182 %
+SECONDARY           : 38.636364 %
+EMOTIONS            : 29.545455 %
+
+326 words total

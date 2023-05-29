@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at point at here at here here at here
+SECONDARY:ABSTRACTION                                            6
+    sure true believe sure true believe
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    speaking meeting say meeting say
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every every
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:SENSATION:VISION                                         1
+    view
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 19.444444 %
+
+92 words total

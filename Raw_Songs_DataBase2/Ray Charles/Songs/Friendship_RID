@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   21
+    ever ever ever when soon ever ever when when soon ever ever then ever when soon ever ever ever ever when
+EMOTIONS:AFFECTION                                              13
+    friendship friendship friendships friendship friendship friendships friendship friendship friendships kind friendship friendship friendships
+PRIMARY:NEED:ORALITY                                             3
+    teeth dine cook
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here out
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy laugh
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes brain
+EMOTIONS:AGGRESSION                                              2
+    complain hurt
+PRIMARY:SENSATION:SOUND                                          2
+    ring bell
+PRIMARY:NEED:ANALITY                                             1
+    mess
+SECONDARY:RESTRAINT                                              1
+    jail
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    borrow
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:TOUCH                                          1
+    slick
+
+PRIMARY             : 23.636364 %
+SECONDARY           : 43.636364 %
+EMOTIONS            : 32.727273 %
+
+220 words total

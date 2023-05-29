@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    inside long long long long long outside middle long long long long
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    died bed dead dead dead dead dead
+EMOTIONS:AGGRESSION                                              5
+    attack fight war murdered gunned
+EMOTIONS:AFFECTION                                               4
+    loved loved like love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sang sing sang
+PRIMARY:SENSATION:VISION                                         2
+    blue saw
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said speaking
+SECONDARY:ABSTRACTION                                            2
+    cause truth
+PRIMARY:SENSATION:COLD                                           2
+    cold winter
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:NEED:ANALITY                                             1
+    asshole
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    risked
+
+PRIMARY             : 61.224490 %
+SECONDARY           : 12.244898 %
+EMOTIONS            : 26.530612 %
+
+206 words total

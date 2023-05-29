@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    ever ever everyone everyone ever now now
+PRIMARY:SENSATION:SOUND                                          7
+    hear bell hear ringing hear ringing bells
+SECONDARY:ABSTRACTION                                            3
+    sure thought cause
+EMOTIONS:AFFECTION                                               3
+    like love love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revelation
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    cure
+EMOTIONS:SADNESS                                                 1
+    disappointment
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+PRIMARY:SENSATION:VISION                                         1
+    shining
+
+PRIMARY             : 37.037037 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 18.518519 %
+
+198 words total

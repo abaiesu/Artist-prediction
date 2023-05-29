@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    hours ago now when when when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    hill hill hill hill hill hill
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    climbin climbin climbin climbin climbin climbin
+PRIMARY:NEED:ORALITY                                             3
+    sugar fast fast
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over where at
+EMOTIONS:AFFECTION                                               3
+    friends like friend
+SECONDARY:ABSTRACTION                                            3
+    judgment real think
+SECONDARY:ORDER                                                  2
+    listening listening
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said talker
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screaming screaming
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:SENSATION:VISION                                         1
+    watch
+EMOTIONS:ANXIETY                                                 1
+    anxiously
+PRIMARY:SENSATION:SOUND                                          1
+    buzzer
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+SECONDARY:MORAL IMPERATIVE                                       1
+    righteous
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    spark
+PRIMARY:SENSATION:TASTE                                          1
+    sweetness
+
+PRIMARY             : 51.111111 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 15.555556 %
+
+176 words total

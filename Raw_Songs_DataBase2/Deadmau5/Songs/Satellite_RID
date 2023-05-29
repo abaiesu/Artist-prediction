@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away away space apart here place
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain wash washed
+SECONDARY:ABSTRACTION                                            1
+    cause
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trail
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+
+PRIMARY             : 78.947368 %
+SECONDARY           : 15.789474 %
+EMOTIONS            : 5.263158 %
+
+59 words total

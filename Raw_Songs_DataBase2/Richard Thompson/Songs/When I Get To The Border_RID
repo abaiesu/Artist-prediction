@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      13
+    line border door floor border border border border border road street border border
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when till when when when when when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    behind at closing away where closing away where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won find picks won picks
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand heading hair feet
+SECONDARY:ABSTRACTION                                            2
+    them chosen
+PRIMARY:SENSATION:VISION                                         2
+    see looks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow dancing
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+EMOTIONS:AGGRESSION                                              1
+    hit
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:ANXIETY                                                 1
+    troubles
+PRIMARY:NEED:ORALITY                                             1
+    salty
+PRIMARY:SENSATION:HARD                                           1
+    rocking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    weary
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+
+PRIMARY             : 59.649123 %
+SECONDARY           : 29.824561 %
+EMOTIONS            : 10.526316 %
+
+212 words total

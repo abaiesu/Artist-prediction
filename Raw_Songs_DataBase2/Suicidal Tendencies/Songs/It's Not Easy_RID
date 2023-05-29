@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say help please please please please
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out open apart
+EMOTIONS:AFFECTION                                               2
+    friend love
+EMOTIONS:AGGRESSION                                              2
+    fight torn
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head knees
+SECONDARY:ABSTRACTION                                            1
+    real
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 21.428571 %
+
+140 words total

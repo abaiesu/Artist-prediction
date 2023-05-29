@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                            7
+    believe think learn know something cause know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at over far round circles ahead at
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now time yesterday time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell calling talk said
+PRIMARY:SENSATION:VISION                                         4
+    look see look see
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chance confusion confusion
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying working work
+EMOTIONS:AFFECTION                                               3
+    like like love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line street
+EMOTIONS:AGGRESSION                                              2
+    break shots
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance play
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    jerk
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+SECONDARY:RESTRAINT                                              1
+    control
+
+PRIMARY             : 46.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 14.000000 %
+
+195 words total

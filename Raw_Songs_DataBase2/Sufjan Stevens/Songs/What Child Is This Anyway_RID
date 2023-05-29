@@ -1,0 +1,46 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lays rest lies silent
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while haste haste
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    greet pleading
+EMOTIONS:AFFECTION                                               2
+    love loving
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where here
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:NEED:ORALITY                                             1
+    lap
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:VISION                                         1
+    watch
+SECONDARY:RESTRAINT                                              1
+    guard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:ABSTRACTION                                            1
+    why
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:HARD                                           1
+    nails
+EMOTIONS:AGGRESSION                                              1
+    spear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    flesh
+PRIMARY:SENSATION:ODOR                                           1
+    incense
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 21.428571 %
+
+123 words total

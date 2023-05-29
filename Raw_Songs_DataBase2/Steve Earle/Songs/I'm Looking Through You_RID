@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           10
+    thought knew know different different learned why why thinking difference
+PRIMARY:SENSATION:VISION                                         5
+    lookin look looking looking looking
+PRIMARY:SENSATION:SOUND                                          3
+    hear voice sound
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where over
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell treat
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old today
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    soothing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+
+PRIMARY             : 43.333333 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 6.666667 %
+
+126 words total

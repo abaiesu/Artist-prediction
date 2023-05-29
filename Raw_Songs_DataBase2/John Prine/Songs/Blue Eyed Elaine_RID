@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    side side along where here where here
+PRIMARY:SENSATION:VISION                                         7
+    blue blue grey gaze blue blue blue
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyed eyed heads eyes eyed eyed eyed
+PRIMARY:SENSATION:TASTE                                          6
+    sweetheart sweeter sweetest sweetheart sweetest sweetheart
+SECONDARY:ABSTRACTION                                            5
+    may may know reason why
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    travel travel traveling travel travel
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing guitar sigh
+SECONDARY:TEMPORAL REFERENCES                                    3
+    years when when
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+EMOTIONS:SADNESS                                                 1
+    frown
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searched
+EMOTIONS:ANXIETY                                                 1
+    fret
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 67.924528 %
+SECONDARY           : 16.981132 %
+EMOTIONS            : 15.094340 %
+
+211 words total

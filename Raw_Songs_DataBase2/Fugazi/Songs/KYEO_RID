@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            4
+    know planning something know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight once now
+SECONDARY:RESTRAINT                                              3
+    must must must
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    quiet silence
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    open off
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promised
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 4.545455 %
+
+63 words total

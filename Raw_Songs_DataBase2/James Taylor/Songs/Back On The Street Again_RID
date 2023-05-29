@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time again again again again again now time again again now
+SECONDARY:ABSTRACTION                                            7
+    cause knows cause know know know cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back back back back back back back
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please tell help please tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    feet hand feet feet feet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money try money
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street street street
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+EMOTIONS:GLORY                                                   1
+    fame
+
+PRIMARY             : 36.956522 %
+SECONDARY           : 56.521739 %
+EMOTIONS            : 6.521739 %
+
+270 words total

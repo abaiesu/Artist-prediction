@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    outside somewhere away away back where away
+SECONDARY:ABSTRACTION                                            5
+    know cause plan cause thinking
+PRIMARY:SENSATION:HARD                                           5
+    hardly stones hardly hardly hardly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake woke sleep wake
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time sooner early
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won used
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said talk
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    fence
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 60.606061 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 3.030303 %
+
+191 words total

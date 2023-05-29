@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then then once then then once
+EMOTIONS:AFFECTION                                               4
+    like kind like kind
+PRIMARY:SENSATION:COLD                                           4
+    snow cool snow cool
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away away
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die die die
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    melt melt
+SECONDARY:ABSTRACTION                                            2
+    may may
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+
+PRIMARY             : 51.515152 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 12.121212 %
+
+199 words total

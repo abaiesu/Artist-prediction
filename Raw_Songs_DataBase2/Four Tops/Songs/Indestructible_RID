@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               7
+    friends love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out where apart overcome inside overcome overcome
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart hearts hearts heart heart hearts
+EMOTIONS:AGGRESSION                                              6
+    broken beat defeat beat beat beat
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wall wall wall
+PRIMARY:SENSATION:HARD                                           3
+    solid solid solid
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when ever
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:ORDER                                                  1
+    divide
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 62.222222 %
+SECONDARY           : 8.888889 %
+EMOTIONS            : 28.888889 %
+
+263 words total

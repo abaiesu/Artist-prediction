@@ -1,0 +1,18 @@
+PRIMARY:SENSATION:VISION                                         3
+    look looks see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old when
+EMOTIONS:AFFECTION                                               2
+    favors like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    psychic
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 20.000000 %
+
+37 words total

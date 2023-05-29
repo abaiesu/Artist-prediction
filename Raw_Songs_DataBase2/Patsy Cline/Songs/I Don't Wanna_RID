@@ -1,0 +1,26 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    play cry sigh sighin play cry sigh sighin
+EMOTIONS:AFFECTION                                               7
+    love love darlin love darlin love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    built found found built found found
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk talkin
+EMOTIONS:SADNESS                                                 2
+    lonesome lonesome
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+
+PRIMARY             : 11.428571 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 60.000000 %
+
+223 words total

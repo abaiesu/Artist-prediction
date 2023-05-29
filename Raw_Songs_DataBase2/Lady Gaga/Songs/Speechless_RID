@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                       27
+    said talk speechless speechless speechless speechless speechless speechless talk speechless speechless speechless speechless speechless speechless promise talk speechless speechless speechless talk speechless speechless speechless speechless follow speechless
+SECONDARY:ABSTRACTION                                            9
+    believe believe believe believe know why may choose why
+SECONDARY:TEMPORAL REFERENCES                                    9
+    again again again again again again again ever again
+EMOTIONS:AFFECTION                                               8
+    love love love friends love friend love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at long at at along
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hands eyes hair eyes
+EMOTIONS:AGGRESSION                                              4
+    broke broken broken wrecked
+PRIMARY:SENSATION:VISION                                         3
+    looked glossy looked
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies death
+PRIMARY:NEED:ORALITY                                             2
+    jaw drinks
+PRIMARY:SENSATION:SOUND                                          2
+    heart hearts
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    bubble bubble
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    mend won
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+PRIMARY:SENSATION:HARD                                           1
+    glass
+SECONDARY:RESTRAINT                                              1
+    bars
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 28.735632 %
+SECONDARY           : 55.172414 %
+EMOTIONS            : 16.091954 %
+
+383 words total

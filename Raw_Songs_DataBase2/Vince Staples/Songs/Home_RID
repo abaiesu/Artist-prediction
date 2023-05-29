@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at at where at where where where where out out where where
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now now now now now now now
+EMOTIONS:AGGRESSION                                              7
+    war war fight weapon break fight war
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    win pay belong belong belong belong
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    protection plead say say say
+PRIMARY:SENSATION:VISION                                         4
+    blink looking looking picture
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head knees feet
+EMOTIONS:SADNESS                                                 3
+    lonely paint paint
+SECONDARY:ABSTRACTION                                            2
+    think believe
+PRIMARY:SENSATION:SOUND                                          2
+    loud loud
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    swimmin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinkin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safety
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 40.625000 %
+SECONDARY           : 42.187500 %
+EMOTIONS            : 17.187500 %
+
+263 words total

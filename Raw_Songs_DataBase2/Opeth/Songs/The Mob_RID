@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away where away here far away
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now every past
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please please please
+EMOTIONS:AGGRESSION                                              3
+    destruction mock enemy
+SECONDARY:ORDER                                                  2
+    divide neath
+PRIMARY:SENSATION:VISION                                         2
+    rough watch
+SECONDARY:ABSTRACTION                                            2
+    facts true
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    mob
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lake
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mist
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+SECONDARY:MORAL IMPERATIVE                                       1
+    duty
+PRIMARY:SENSATION:SOUND                                          1
+    heartstrings
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    century
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waving
+SECONDARY:RESTRAINT                                              1
+    decrees
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 9.090909 %
+
+126 words total

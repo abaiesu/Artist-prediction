@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    square square side here square square square square square square
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try used
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playin game
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:RESTRAINT                                              1
+    conformity
+SECONDARY:ABSTRACTION                                            1
+    different
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 9.090909 %
+
+111 words total

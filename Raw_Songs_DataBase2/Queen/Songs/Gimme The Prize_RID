@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at here out away over over
+EMOTIONS:GLORY                                                   5
+    kingdom princes kingdom kingdom kingdom
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    body head head hands
+SECONDARY:ABSTRACTION                                            4
+    know them them something
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    called say said tell
+EMOTIONS:AGGRESSION                                              3
+    severed battle fought
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    watered sprinklers
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:NEED:ORALITY                                             1
+    eat
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+
+PRIMARY             : 45.945946 %
+SECONDARY           : 29.729730 %
+EMOTIONS            : 24.324324 %
+
+227 words total

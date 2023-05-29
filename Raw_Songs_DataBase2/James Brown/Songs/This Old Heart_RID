@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:SOUND                                         13
+    heart heart heard heart heart heart heart heart heart heart heart heard heard
+SECONDARY:TEMPORAL REFERENCES                                   10
+    old old old old now old old now old old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won won won won won won won
+EMOTIONS:SADNESS                                                 4
+    pain pain pain pain
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:ABSTRACTION                                            4
+    know true know true
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+
+PRIMARY             : 32.608696 %
+SECONDARY           : 45.652174 %
+EMOTIONS            : 21.739130 %
+
+185 words total

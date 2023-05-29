@@ -1,0 +1,34 @@
+PRIMARY:NEED:ORALITY                                             8
+    cakes eatin eatin fruit eatin fruit eatin fruit
+SECONDARY:ABSTRACTION                                            7
+    them thought thought thought why something why
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call call say call
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+SECONDARY:RESTRAINT                                              3
+    forbidden forbidden forbidden
+EMOTIONS:AFFECTION                                               2
+    kind friends
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+PRIMARY:SENSATION:TOUCH                                          1
+    slick
+PRIMARY:SENSATION:COLD                                           1
+    cool
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 11.111111 %
+
+296 words total

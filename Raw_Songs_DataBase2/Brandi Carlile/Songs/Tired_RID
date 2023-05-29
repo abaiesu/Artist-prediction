@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    away out out behind closing back where away out out behind closing back where away out out
+SECONDARY:ABSTRACTION                                           14
+    think figure know know think figure know know believe believe know think figure know
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when again when times when when again times when when again everything
+PRIMARY:SENSATION:VISION                                         5
+    blue watch blue watch blue
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying trying trying
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told told
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 42.622951 %
+SECONDARY           : 50.819672 %
+EMOTIONS            : 6.557377 %
+
+291 words total

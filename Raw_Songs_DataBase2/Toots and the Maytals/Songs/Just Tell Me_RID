@@ -1,0 +1,18 @@
+SECONDARY:ABSTRACTION                                            7
+    true know true know know true know
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell tell tell tell
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then then again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 69.565217 %
+EMOTIONS            : 30.434783 %
+
+127 words total

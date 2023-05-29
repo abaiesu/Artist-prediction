@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    off away far away away point away
+PRIMARY:SENSATION:VISION                                         4
+    seen seen seen grey
+SECONDARY:TEMPORAL REFERENCES                                    3
+    year while when
+SECONDARY:RESTRAINT                                              3
+    stop stop stop
+EMOTIONS:ANXIETY                                                 3
+    fear fear fear
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    beach surf
+EMOTIONS:AGGRESSION                                              2
+    invasion cutter
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dozing
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:SENSATION:SOUND                                          1
+    ears
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    counting
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellowy
+EMOTIONS:AFFECTION                                               1
+    lovely
+SECONDARY:ABSTRACTION                                            1
+    history
+
+PRIMARY             : 53.125000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 21.875000 %
+
+194 words total

@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:TASTE                                         14
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where where where wherever out where wherever out wherever out
+SECONDARY:ABSTRACTION                                            7
+    know know know think know know know
+EMOTIONS:AGGRESSION                                              7
+    argue stubborn bothered argue stubborn argue stubborn
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when when when when
+PRIMARY:SENSATION:SOUND                                          3
+    hearts hearts hearts
+PRIMARY:SENSATION:HARD                                           3
+    hard hard harder
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk speak
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+
+PRIMARY             : 58.928571 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 12.500000 %
+
+209 words total

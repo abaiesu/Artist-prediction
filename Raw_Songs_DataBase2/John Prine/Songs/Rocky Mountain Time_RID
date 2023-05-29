@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at far out long off where back
+SECONDARY:TEMPORAL REFERENCES                                    6
+    clock time when then old again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    reached build make reached
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    dawn mountain dawn
+PRIMARY:SENSATION:SOUND                                          3
+    drums hummed whistled
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    played yelled
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    railroad street
+PRIMARY:NEED:ORALITY                                             2
+    food thirsty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arm brain
+PRIMARY:SENSATION:HARD                                           1
+    rocky
+SECONDARY:ABSTRACTION                                            1
+    something
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hunger
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+EMOTIONS:GLORY                                                   1
+    castle
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twist
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:AFFECTION                                               1
+    friends
+
+PRIMARY             : 59.523810 %
+SECONDARY           : 26.190476 %
+EMOTIONS            : 14.285714 %
+
+189 words total

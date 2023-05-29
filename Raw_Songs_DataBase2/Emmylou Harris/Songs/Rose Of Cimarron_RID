@@ -1,0 +1,36 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  8
+    roll roll roll roll roll roll roll roll
+PRIMARY:SENSATION:VISION                                         8
+    look see watchin see bright look see watchin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    along at along along at along
+SECONDARY:ABSTRACTION                                            5
+    them know them known knew
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window trails window
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever when ever
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows shadows
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:SENSATION:SOUND                                          2
+    hear echo
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    spark burn
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calling
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 78.260870 %
+SECONDARY           : 19.565217 %
+EMOTIONS            : 2.173913 %
+
+164 words total

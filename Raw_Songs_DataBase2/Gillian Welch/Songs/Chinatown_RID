@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again today hour yesterday everywhere
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    chinatown chinatown chinatown chinatown
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    called say speak
+SECONDARY:ABSTRACTION                                            2
+    knows understand
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sunny
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    side here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried used
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    haze haze
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hangs hangs
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sundown
+PRIMARY:SENSATION:SOUND                                          1
+    bells
+EMOTIONS:AGGRESSION                                              1
+    beating
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+SECONDARY:RESTRAINT                                              1
+    manage
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:NEED:ORALITY                                             1
+    poison
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 39.393939 %
+EMOTIONS            : 6.060606 %
+
+117 words total

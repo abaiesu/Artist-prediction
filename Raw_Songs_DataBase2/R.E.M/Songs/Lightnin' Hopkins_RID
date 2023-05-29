@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         8
+    lightnin lightnin lightnin lightnin lightnin lightnin lightnin lightnin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    won won won won won won won won
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep low low
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    flat close
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    bark
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+
+PRIMARY             : 63.333333 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 6.666667 %
+
+86 words total

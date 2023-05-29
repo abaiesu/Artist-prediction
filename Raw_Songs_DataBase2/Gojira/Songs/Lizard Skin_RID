@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    faces skin skin skin head skin skin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    under underworld deep under
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long inside overcome
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    protect meet
+EMOTIONS:SADNESS                                                 2
+    pain misery
+PRIMARY:SENSATION:HARD                                           2
+    stone hardened
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon now
+EMOTIONS:AGGRESSION                                              2
+    raging betrayed
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    attempted
+SECONDARY:ABSTRACTION                                            1
+    research
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 21.212121 %
+EMOTIONS            : 15.151515 %
+
+132 words total

@@ -1,0 +1,26 @@
+EMOTIONS:AGGRESSION                                              8
+    weapons argument strikes striking argue argument argument argument
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    sides here here here here here here
+SECONDARY:ABSTRACTION                                            5
+    difference sure reasons rational thinking
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now now when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help agree
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bloody
+SECONDARY:MORAL IMPERATIVE                                       1
+    moral
+SECONDARY:RESTRAINT                                              1
+    catching
+
+PRIMARY             : 29.032258 %
+SECONDARY           : 45.161290 %
+EMOTIONS            : 25.806452 %
+
+104 words total

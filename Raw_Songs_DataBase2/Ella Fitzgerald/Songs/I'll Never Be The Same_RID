@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    once when once again when once again again again again
+SECONDARY:ABSTRACTION                                            6
+    believe may know believe may know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart inside apart inside
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring spring
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:SENSATION:VISION                                         1
+    stars
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+
+PRIMARY             : 32.432432 %
+SECONDARY           : 51.351351 %
+EMOTIONS            : 16.216216 %
+
+185 words total

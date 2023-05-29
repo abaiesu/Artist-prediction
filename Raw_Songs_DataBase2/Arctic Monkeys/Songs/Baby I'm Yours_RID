@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    longer out here side away longer out
+PRIMARY:SENSATION:VISION                                         4
+    stars shines stars shines
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rivers sea rivers
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    poets poets
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time every
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+
+PRIMARY             : 75.757576 %
+SECONDARY           : 15.151515 %
+EMOTIONS            : 9.090909 %
+
+174 words total

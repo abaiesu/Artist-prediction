@@ -1,0 +1,24 @@
+EMOTIONS:SADNESS                                                30
+    pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow pain sorrow
+EMOTIONS:AGGRESSION                                             14
+    shot arrow shot arrow shot arrow shot arrow shot arrow shot arrow shot arrow
+EMOTIONS:AFFECTION                                              10
+    love loving love friends lovers mercy kind love love mercy
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now now now now now now now now now now
+PRIMARY:NEED:SEX                                                 8
+    cupid cupid cupid cupid cupid cupid cupid cupid
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    makes make try cure used make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    round round long overdue at
+SECONDARY:ABSTRACTION                                            4
+    knew sure tenderness know
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+
+PRIMARY             : 15.909091 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 61.363636 %
+
+248 words total

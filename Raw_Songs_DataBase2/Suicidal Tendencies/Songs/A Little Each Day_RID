@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    meet say say say said said help
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    tried tried tried tried find win find
+SECONDARY:ABSTRACTION                                            5
+    thought knew thought thought knew
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away inside away over
+PRIMARY:SENSATION:VISION                                         3
+    see saw saw
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head brain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    died lies die
+PRIMARY:SENSATION:SOUND                                          2
+    ear hear
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journey
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:AGGRESSION                                              1
+    battle
+
+PRIMARY             : 46.511628 %
+SECONDARY           : 46.511628 %
+EMOTIONS            : 6.976744 %
+
+188 words total

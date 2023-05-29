@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           10
+    tendin tendin know tendin tendin know tendin tendin know tendin
+PRIMARY:SENSATION:SOUND                                          8
+    heart heart heart hearts heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when now when then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at at further along back at
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    use aimless aimless aimless
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    wild wild wild
+EMOTIONS:ANXIETY                                                 3
+    scared scared scared
+PRIMARY:SENSATION:COLD                                           3
+    child child child
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    excuse help
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:AGGRESSION                                              1
+    beatin
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 43.103448 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 18.965517 %
+
+372 words total

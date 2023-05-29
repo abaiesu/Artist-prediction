@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long long long long long long long
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    feet feet feet feet face bone
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    beneath beneath beneath
+PRIMARY:SENSATION:VISION                                         2
+    gray gray
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    heat heat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    waking
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    couch
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fog
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    barking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+SECONDARY:ABSTRACTION                                            1
+    think
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+
+PRIMARY             : 90.000000 %
+SECONDARY           : 3.333333 %
+EMOTIONS            : 6.666667 %
+
+84 words total

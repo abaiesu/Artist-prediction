@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time instant ever ever ever now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away somewhere open place space
+SECONDARY:ABSTRACTION                                            4
+    knew cause know know
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+SECONDARY:ORDER                                                  2
+    form form
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line door
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answer
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+
+PRIMARY             : 45.714286 %
+SECONDARY           : 48.571429 %
+EMOTIONS            : 5.714286 %
+
+263 words total

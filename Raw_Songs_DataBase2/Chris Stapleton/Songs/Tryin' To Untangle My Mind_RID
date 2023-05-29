@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            5
+    choices know why know guess
+PRIMARY:SENSATION:VISION                                         4
+    see looking see looking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money spend pay
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out far far
+PRIMARY:NEED:ORALITY                                             2
+    drank whiskey
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time every
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    edge line
+EMOTIONS:SADNESS                                                 2
+    lonesome lonesome
+PRIMARY:SENSATION:HARD                                           2
+    stoned stoned
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 10.000000 %
+
+181 words total

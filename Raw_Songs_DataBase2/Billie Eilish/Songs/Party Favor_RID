@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    message call talk call call call call
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when minute time now when
+SECONDARY:ABSTRACTION                                            6
+    know cause know know them know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back backwards out
+SECONDARY:RESTRAINT                                              3
+    blocked stop stop
+EMOTIONS:AFFECTION                                               3
+    favor like favor
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 65.714286 %
+EMOTIONS            : 20.000000 %
+
+239 words total

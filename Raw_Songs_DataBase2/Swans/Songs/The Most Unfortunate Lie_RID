@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here away where where where where
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    laid slowly lies lie lie lie
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now ancient moment now ever now
+SECONDARY:ABSTRACTION                                            5
+    possibility ideas except believing evidence
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face hand blood hands
+PRIMARY:NEED:ORALITY                                             2
+    devoured consuming
+PRIMARY:SENSATION:VISION                                         2
+    light saw
+PRIMARY:SENSATION:TOUCH                                          2
+    touch thick
+SECONDARY:RESTRAINT                                              1
+    control
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reaches
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:GLORY                                                   1
+    gold
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+
+PRIMARY             : 61.904762 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 4.761905 %
+
+148 words total

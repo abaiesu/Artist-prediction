@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:SOUND                                         10
+    ear hear sound voice hear heard ear hear sound sound
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time now again years
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say calling calling say
+EMOTIONS:POSITIVE AFFECT                                         4
+    joyful funny joyful joyful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    building won won won
+EMOTIONS:AGGRESSION                                              3
+    fought fought destroy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    side long side
+EMOTIONS:GLORY                                                   3
+    crowned crowned crowned
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:ABSTRACTION                                            1
+    understand
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 31.111111 %
+EMOTIONS            : 28.888889 %
+
+272 words total

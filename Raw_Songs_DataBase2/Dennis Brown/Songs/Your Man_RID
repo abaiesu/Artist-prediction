@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               9
+    love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever now now now now
+SECONDARY:RESTRAINT                                              3
+    captured captured captured
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:POSITIVE AFFECT                                         3
+    gladly gladly gladly
+PRIMARY:SENSATION:VISION                                         3
+    seeing seeing seeing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    ahead
+SECONDARY:MORAL IMPERATIVE                                       1
+    unjust
+SECONDARY:ABSTRACTION                                            1
+    sure
+
+PRIMARY             : 23.333333 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 40.000000 %
+
+260 words total

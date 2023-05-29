@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    month week year month month month week month month
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    spend make find found spend make find
+PRIMARY:NEED:ORALITY                                             2
+    drunk drunk
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees knees
+SECONDARY:RESTRAINT                                              2
+    stop stop
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help help
+EMOTIONS:POSITIVE AFFECT                                         2
+    relief relief
+EMOTIONS:GLORY                                                   1
+    conquered
+EMOTIONS:ANXIETY                                                 1
+    fears
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 13.793103 %
+SECONDARY           : 72.413793 %
+EMOTIONS            : 13.793103 %
+
+148 words total

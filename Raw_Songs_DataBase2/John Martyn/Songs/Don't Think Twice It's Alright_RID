@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           14
+    why know why reason think something think knew cause think thinking think think think
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    calling calling say talking saying treated tell say told
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    use use use use make use use
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at out out out side long where
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when time once
+PRIMARY:SENSATION:VISION                                         4
+    look light light light
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    window road road road
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:AFFECTION                                               4
+    like kind goodbye loved
+EMOTIONS:GLORY                                                   3
+    wonder wonder wondering
+EMOTIONS:AGGRESSION                                              2
+    break unkind
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travelling
+EMOTIONS:SADNESS                                                 1
+    lonesome
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 28.985507 %
+SECONDARY           : 56.521739 %
+EMOTIONS            : 14.492754 %
+
+294 words total

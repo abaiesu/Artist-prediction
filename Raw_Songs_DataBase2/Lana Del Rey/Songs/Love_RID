@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           16
+    crazy crazy crazy crazy crazy crazy crazy crazy crazy crazy crazy crazy crazy crazy crazy crazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    make make work make make work make make
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+PRIMARY:SENSATION:VISION                                         4
+    look look seen blues
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at back at back
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while past now sometimes
+SECONDARY:ABSTRACTION                                            4
+    cause know know cause
+EMOTIONS:ANXIETY                                                 4
+    worry worry worry worry
+PRIMARY:NEED:ORALITY                                             2
+    coffee coffee
+PRIMARY:SENSATION:SOUND                                          1
+    music
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    cruising
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    signals
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusing
+PRIMARY:SENSATION:COLD                                           1
+    coolest
+SECONDARY:RESTRAINT                                              1
+    refuse
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:AGGRESSION                                              1
+    abuse
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 31.666667 %
+EMOTIONS            : 18.333333 %
+
+326 words total

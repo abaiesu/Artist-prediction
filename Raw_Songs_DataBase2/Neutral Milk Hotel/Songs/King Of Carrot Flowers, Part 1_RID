@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    across place where longer
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    tower trees above
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    tumbling fell sank
+SECONDARY:ABSTRACTION                                            3
+    learn knew different
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    built try
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet bodies
+PRIMARY:NEED:ORALITY                                             2
+    fork drink
+SECONDARY:MORAL IMPERATIVE                                       2
+    right shoulder
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay die
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:SOUND                                          1
+    rattlesnakes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speaking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 67.741935 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 3.225806 %
+
+131 words total

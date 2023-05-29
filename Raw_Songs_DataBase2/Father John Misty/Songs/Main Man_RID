@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   24
+    now now now now now now now now now now ever ever now now now now now now now now now now now now
+PRIMARY:SENSATION:VISION                                         6
+    watch glow watch glow watch glow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot hot
+EMOTIONS:AFFECTION                                               2
+    likes likes
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:ABSTRACTION                                            1
+    true
+
+PRIMARY             : 31.818182 %
+SECONDARY           : 59.090909 %
+EMOTIONS            : 9.090909 %
+
+207 words total

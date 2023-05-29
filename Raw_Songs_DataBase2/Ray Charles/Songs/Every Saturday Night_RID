@@ -1,0 +1,36 @@
+PRIMARY:NEED:ORALITY                                            21
+    drinking corn liquor fruit brew butter beans butter beans brew butter beans butter beans milk brew butter beans butter beans meal
+SECONDARY:TEMPORAL REFERENCES                                   14
+    every old every every again every minute then then now week when every every
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    feet feet head feet feet feet feet
+SECONDARY:ABSTRACTION                                            6
+    know know know know cause know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    plow work
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sundown
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    able
+EMOTIONS:AGGRESSION                                              1
+    tore
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    slop
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ORDER                                                  1
+    standard
+SECONDARY:RESTRAINT                                              1
+    lock
+
+PRIMARY             : 54.098361 %
+SECONDARY           : 40.983607 %
+EMOTIONS            : 4.918033 %
+
+361 words total

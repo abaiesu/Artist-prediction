@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    place away place place away away close away place overnight away away place where away away away away away away away away away away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 15
+    job make money find find prepared pay make find find find find find find find
+EMOTIONS:AFFECTION                                              15
+    love love love love love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                   12
+    till clock sooner till till till till till till till till till
+SECONDARY:ABSTRACTION                                            8
+    cause plant reason sure sure cause real plant
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    share share share share share
+EMOTIONS:POSITIVE AFFECT                                         2
+    humor funny
+SECONDARY:MORAL IMPERATIVE                                       2
+    right duty
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:NEED:ORALITY                                             1
+    eat
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumper
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+EMOTIONS:AGGRESSION                                              1
+    gun
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 34.408602 %
+SECONDARY           : 46.236559 %
+EMOTIONS            : 19.354839 %
+
+411 words total

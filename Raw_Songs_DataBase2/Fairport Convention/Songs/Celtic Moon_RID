@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at out away out away out away
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    heavens above above heavens above heavens above
+PRIMARY:SENSATION:VISION                                         6
+    stars see stars see stars see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face face face skin face
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell helped sharing helped helped
+SECONDARY:TEMPORAL REFERENCES                                    5
+    soon once once soon soon
+EMOTIONS:SADNESS                                                 4
+    sad grieving weep mourn
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    clouds clouds faded clouds
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    lines hall roadside
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    lit lit lit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carries burden
+PRIMARY:SENSATION:SOUND                                          2
+    hearing rings
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dances
+EMOTIONS:AFFECTION                                               1
+    loved
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rested
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+
+PRIMARY             : 70.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 10.000000 %
+
+206 words total

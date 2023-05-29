@@ -1,0 +1,44 @@
+PRIMARY:NEED:ORALITY                                             4
+    fast fast fast fast
+PRIMARY:SENSATION:ODOR                                           3
+    breath breath breath
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away away
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once once
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lane line
+EMOTIONS:AGGRESSION                                              2
+    kicks shooting
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chances chance
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:COLD                                           1
+    shivers
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spine
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 16.666667 %
+
+205 words total

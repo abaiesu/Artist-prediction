@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now when
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    shelter promise protect say
+EMOTIONS:AFFECTION                                               4
+    darlin love love darlin
+EMOTIONS:GLORY                                                   4
+    great greatest wealth proudly
+SECONDARY:ABSTRACTION                                            3
+    cause cause know
+EMOTIONS:ANXIETY                                                 3
+    trouble worry worry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won trying make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes hand
+PRIMARY:SENSATION:VISION                                         2
+    see look
+SECONDARY:MORAL IMPERATIVE                                       2
+    right respect
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    side where
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:SENSATION:COLD                                           1
+    childish
+
+PRIMARY             : 21.621622 %
+SECONDARY           : 45.945946 %
+EMOTIONS            : 32.432432 %
+
+256 words total

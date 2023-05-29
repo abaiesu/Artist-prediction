@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    outside long inside out outside place away over here out away away here long out long
+PRIMARY:SENSATION:COLD                                          14
+    snowing snow snow snow snow snow snow snow snow snow snow snow snow snow
+SECONDARY:ABSTRACTION                                            9
+    true true true true true believe know know cause
+EMOTIONS:AFFECTION                                               7
+    likes dear goodbye love dear goodbye love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    warm fire warm fire warm fire
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell help call thank
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    slowly dying slowly dying
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when again when
+PRIMARY:SENSATION:VISION                                         2
+    seen lights
+SECONDARY:RESTRAINT                                              2
+    stop stopping
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+PRIMARY:NEED:ORALITY                                             2
+    corn mouth
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pick carry
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:ANXIETY                                                 1
+    frightful
+EMOTIONS:POSITIVE AFFECT                                         1
+    delightful
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handyman
+
+PRIMARY             : 57.303371 %
+SECONDARY           : 26.966292 %
+EMOTIONS            : 15.730337 %
+
+483 words total

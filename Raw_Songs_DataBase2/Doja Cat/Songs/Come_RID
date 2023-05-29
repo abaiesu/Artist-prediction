@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    away over close close close close here away over away over place where where away over away over
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when again when again when again again again again again when when again when again
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    say follow follow speaking follow follow say say follow follow say say
+SECONDARY:ABSTRACTION                                            9
+    know different cause know know something know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    won won make aim won won pick won won
+PRIMARY:SENSATION:TASTE                                          7
+    taste taste taste taste tasted taste taste
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  7
+    drop drop drop drop slippery drop drop
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    river rain washing washing washing wet
+PRIMARY:NEED:ANALITY                                             5
+    shit shit shit shit shit
+EMOTIONS:AFFECTION                                               4
+    love like love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roll roll roll
+PRIMARY:NEED:SEX                                                 3
+    fucking fucking fucking
+PRIMARY:SENSATION:COLD                                           2
+    winter snow
+SECONDARY:RESTRAINT                                              2
+    stop control
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    float
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:AGGRESSION                                              1
+    gun
+PRIMARY:SENSATION:VISION                                         1
+    rouge
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+
+PRIMARY             : 51.401869 %
+SECONDARY           : 43.925234 %
+EMOTIONS            : 4.672897 %
+
+537 words total

@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    communication share share share communicate share
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here here here off off off
+EMOTIONS:AFFECTION                                               5
+    loved love love love love
+SECONDARY:ABSTRACTION                                            5
+    tenderness reason know know understanding
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time everything everything
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    wall wall wall wall
+PRIMARY:SENSATION:VISION                                         3
+    looking see look
+SECONDARY:MORAL IMPERATIVE                                       2
+    right honesty
+PRIMARY:SENSATION:COLD                                           2
+    winter winters
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring springs
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+EMOTIONS:GLORY                                                   1
+    wonderful
+PRIMARY:SENSATION:SOFT                                           1
+    gentleness
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:ORDER                                                  1
+    consistency
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 12.000000 %
+
+273 words total

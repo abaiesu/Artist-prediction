@@ -1,0 +1,54 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             14
+    charming fairytale fairytale fairytale fairytale fairytale fairytale fair fairytale fairytale fairytale fairytale fairytale fairytale
+SECONDARY:ABSTRACTION                                           13
+    know cause cause know true real cause cause know them knew knew cause
+EMOTIONS:AFFECTION                                               7
+    dear dear darling love like like like
+EMOTIONS:ANXIETY                                                 7
+    scared scared scared scared scared scared scared
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where across away curves where across
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when hour when moment
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    promise tell call please tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes hand cheek hair
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly fly fly
+EMOTIONS:AGGRESSION                                              3
+    hit hit hit
+EMOTIONS:GLORY                                                   2
+    princess prince
+PRIMARY:SENSATION:VISION                                         2
+    look stars
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money making
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow lay
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:NEED:ORALITY                                             1
+    spit
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    solar
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+PRIMARY:SENSATION:HARD                                           1
+    rocking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+SECONDARY:RESTRAINT                                              1
+    capture
+
+PRIMARY             : 45.348837 %
+SECONDARY           : 31.395349 %
+EMOTIONS            : 23.255814 %
+
+438 words total

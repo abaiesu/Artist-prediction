@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:COLD                                           7
+    children children children children children children children
+PRIMARY:SENSATION:SOUND                                          3
+    hear melodies whistling
+SECONDARY:TEMPORAL REFERENCES                                    2
+    quickly when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying dying
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    throbbing
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    machine
+PRIMARY:NEED:ORALITY                                             1
+    tea
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    trance
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+EMOTIONS:SADNESS                                                 1
+    weeping
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+SECONDARY:ORDER                                                  1
+    listening
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:ODOR                                           1
+    perfumed
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 16.666667 %
+
+126 words total

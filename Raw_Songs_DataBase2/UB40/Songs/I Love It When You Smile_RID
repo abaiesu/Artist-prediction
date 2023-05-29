@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when when while when everyday ever when now when
+SECONDARY:ABSTRACTION                                            7
+    know something probably known know may believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at here side side out side
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    promise say say
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:AGGRESSION                                              2
+    kills doubt
+PRIMARY:SENSATION:SOUND                                          2
+    heart heard
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+SECONDARY:MORAL IMPERATIVE                                       1
+    honestly
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:GLORY                                                   1
+    greatest
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 34.883721 %
+SECONDARY           : 48.837209 %
+EMOTIONS            : 16.279070 %
+
+146 words total

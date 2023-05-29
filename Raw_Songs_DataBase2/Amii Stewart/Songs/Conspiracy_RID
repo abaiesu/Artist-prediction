@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              20
+    love love love love love love love love love love like like like like love love love love love love
+PRIMARY:SENSATION:VISION                                         8
+    see see see see see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make success use find work spend spend
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time then everybody now every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    beside out out
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said address asked
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game playin
+SECONDARY:ABSTRACTION                                            2
+    think tenderly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    physical
+PRIMARY:NEED:SEX                                                 1
+    seduction
+EMOTIONS:AGGRESSION                                              1
+    shoot
+
+PRIMARY             : 28.813559 %
+SECONDARY           : 32.203390 %
+EMOTIONS            : 38.983051 %
+
+309 words total

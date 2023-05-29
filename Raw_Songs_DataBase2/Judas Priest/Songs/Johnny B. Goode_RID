@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    evergreens old ever old old till tonight
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    play guitar guitar play play
+PRIMARY:SENSATION:SOUND                                          5
+    ringing bell rhythm hear music
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    close back amongst where
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say told saying
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep beneath
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used carry
+SECONDARY:ABSTRACTION                                            1
+    learned
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:AGGRESSION                                              1
+    gunny
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    railroad
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drivers
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:VISION                                         1
+    lights
+
+PRIMARY             : 44.736842 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 18.421053 %
+
+184 words total

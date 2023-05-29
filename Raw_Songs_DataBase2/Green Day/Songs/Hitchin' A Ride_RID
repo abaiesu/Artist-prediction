@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    where at off at off where where where where where where where
+SECONDARY:ABSTRACTION                                            9
+    know know know know know know know know know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           9
+    ride ride ride ride ride ride ride ride ride
+SECONDARY:TEMPORAL REFERENCES                                    4
+    hour tonight times times
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+PRIMARY:NEED:ORALITY                                             4
+    eating poison tongue tongue
+PRIMARY:NEED:ANALITY                                             2
+    stale shit
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    fountain fountain
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    swelling swelling
+EMOTIONS:ANXIETY                                                 2
+    troubled troubled
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mister
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headed
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirits
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 64.406780 %
+SECONDARY           : 28.813559 %
+EMOTIONS            : 6.779661 %
+
+208 words total

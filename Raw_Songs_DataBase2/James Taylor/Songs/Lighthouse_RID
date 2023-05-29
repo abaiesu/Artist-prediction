@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    off south away here out round away at away where along here away off south away here
+PRIMARY:SENSATION:VISION                                        16
+    lighthouse watching see light shine shine shine lighthouse flashing flashing shine shine shine lighthouse flashing flashing
+EMOTIONS:AFFECTION                                              11
+    like like like like like like like like like like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    ship sails ship shipwreck ship sails
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    sea sea sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    rolling rolling rolling
+SECONDARY:TEMPORAL REFERENCES                                    3
+    moments time moments
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    coast coast
+SECONDARY:RESTRAINT                                              2
+    bound bound
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:GLORY                                                   2
+    golden golden
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fading fading
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    weary
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+
+PRIMARY             : 70.000000 %
+SECONDARY           : 10.000000 %
+EMOTIONS            : 20.000000 %
+
+273 words total

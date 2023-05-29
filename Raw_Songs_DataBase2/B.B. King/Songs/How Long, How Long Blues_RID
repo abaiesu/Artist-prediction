@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    long long long long long long long long back far over
+PRIMARY:SENSATION:VISION                                        10
+    see looked see blues see green seen green look see
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    brook river river sea
+PRIMARY:SENSATION:SOUND                                          3
+    heard whistle heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    mountain mountain mountain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    growin hill
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+
+PRIMARY             : 91.666667 %
+SECONDARY           : 2.777778 %
+EMOTIONS            : 5.555556 %
+
+156 words total

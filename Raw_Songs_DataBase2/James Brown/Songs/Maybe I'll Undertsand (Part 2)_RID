@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    says said said said say told said help help help
+SECONDARY:ABSTRACTION                                            9
+    reason understand understand know know know know guess guess
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time now now time now time when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won won trying won make win
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play play game
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+PRIMARY:SENSATION:VISION                                         2
+    blues blues
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:AGGRESSION                                              2
+    hit hit
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 17.391304 %
+SECONDARY           : 69.565217 %
+EMOTIONS            : 13.043478 %
+
+199 words total

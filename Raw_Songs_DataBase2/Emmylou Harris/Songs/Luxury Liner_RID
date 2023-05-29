@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long long long round wide long long long
+SECONDARY:ABSTRACTION                                            7
+    guess know think know think know think
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now time everybody time everybody
+EMOTIONS:SADNESS                                                 3
+    lonesome lonesome lonesome
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    luxury luxury
+PRIMARY:SENSATION:HARD                                           2
+    steel steel
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find make
+SECONDARY:MORAL IMPERATIVE                                       2
+    ought ought
+EMOTIONS:AFFECTION                                               2
+    kind likes
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+
+PRIMARY             : 38.235294 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 14.705882 %
+
+153 words total

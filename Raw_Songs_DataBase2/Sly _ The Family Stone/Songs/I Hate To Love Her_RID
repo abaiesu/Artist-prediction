@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               5
+    kind love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    spent won won won
+EMOTIONS:AGGRESSION                                              4
+    hate hate hate hate
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside behind over
+SECONDARY:TEMPORAL REFERENCES                                    2
+    past times
+SECONDARY:MORAL IMPERATIVE                                       2
+    respect honest
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaky
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:ABSTRACTION                                            1
+    why
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 40.000000 %
+
+136 words total

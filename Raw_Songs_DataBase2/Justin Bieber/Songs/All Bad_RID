@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    at at behind back back back back between at at at behind back back back back
+EMOTIONS:AFFECTION                                              10
+    like like like like like like loves like friend like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    try try make try try try make
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk tell saying tell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    mad mad mad mad
+SECONDARY:ABSTRACTION                                            3
+    know proven proven
+EMOTIONS:AGGRESSION                                              3
+    enemy jealousy jealous
+EMOTIONS:SADNESS                                                 2
+    misery misery
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:ANXIETY                                                 1
+    worrying
+PRIMARY:NEED:ORALITY                                             1
+    mouths
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+SECONDARY:MORAL IMPERATIVE                                       1
+    oughta
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 29.629630 %
+
+268 words total
