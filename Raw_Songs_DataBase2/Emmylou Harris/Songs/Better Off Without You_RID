@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    behind off off off off at off off off here here back long out off off off off
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now old ever now time again
+PRIMARY:SENSATION:VISION                                         3
+    lookin see looks
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make won
+EMOTIONS:AGGRESSION                                              2
+    break kick
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cried
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rains
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    palms
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:ABSTRACTION                                            1
+    truth
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 64.444444 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 13.333333 %
+
+199 words total

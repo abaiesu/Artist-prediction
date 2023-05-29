@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    along across long long back at at long back at at long place
+SECONDARY:TEMPORAL REFERENCES                                    9
+    ever once time ever once time time when everything
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    calls please calls call please tell
+EMOTIONS:AFFECTION                                               5
+    mercy mercy like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    soldier make soldier
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:SOUND                                          2
+    hum loud
+PRIMARY:SENSATION:VISION                                         2
+    light light
+SECONDARY:ABSTRACTION                                            2
+    thoughtless know
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calm lie
+SECONDARY:RESTRAINT                                              1
+    lockstep
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:AGGRESSION                                              1
+    breaks
+EMOTIONS:ANXIETY                                                 1
+    scare
+
+PRIMARY             : 39.622642 %
+SECONDARY           : 45.283019 %
+EMOTIONS            : 15.094340 %
+
+197 words total

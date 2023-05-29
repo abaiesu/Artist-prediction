@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:SOUND                                          5
+    voice voice ring ring hearts
+EMOTIONS:AGGRESSION                                              4
+    broken broken broken kill
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    hill hill hill hills
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    speak speak spoken
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+SECONDARY:ABSTRACTION                                            2
+    true choice
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near here
+PRIMARY:SENSATION:VISION                                         2
+    light light
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rivers
+EMOTIONS:POSITIVE AFFECT                                         1
+    rejoice
+EMOTIONS:AFFECTION                                               1
+    mercy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:RESTRAINT                                              1
+    bind
+PRIMARY:SENSATION:COLD                                           1
+    children
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 21.875000 %
+EMOTIONS            : 28.125000 %
+
+167 words total

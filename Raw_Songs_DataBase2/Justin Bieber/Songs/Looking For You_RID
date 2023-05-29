@@ -1,0 +1,54 @@
+PRIMARY:SENSATION:VISION                                        23
+    looking looking lookin lookin looking looking looking looking lookin lookin looking looking seen watchin watch watchin picture looking looking lookin lookin looking looking
+SECONDARY:TEMPORAL REFERENCES                                   21
+    time time everywhere everybody tonight soon tonight then again everywhere when now tonight then again everywhere when tonight then again everywhere
+EMOTIONS:AFFECTION                                              16
+    love love love love loved like like like like like like like like like love love
+SECONDARY:ABSTRACTION                                           15
+    them know think fact know sure know problem why think know know know think know
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    follow tell tell sayin say tell asked said said tell call call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out where at here front front off out out round front
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make money spend winning make make pay money make
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  7
+    fall fall fall fall lean fall fall
+PRIMARY:NEED:ANALITY                                             6
+    mess stalker mess stalker mess stalker
+EMOTIONS:AGGRESSION                                              5
+    fight beat cut beat kill
+PRIMARY:NEED:SEX                                                 5
+    bitches bitch bitch bitch bitch
+EMOTIONS:POSITIVE AFFECT                                         4
+    happy grinning happy happy
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+EMOTIONS:GLORY                                                   3
+    gold majesty rich
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride travel
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll orbit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door steppin
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:ANXIETY                                                 1
+    afraid
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparklers
+PRIMARY:NEED:ORALITY                                             1
+    pot
+PRIMARY:SENSATION:SOUND                                          1
+    hummer
+EMOTIONS:SADNESS                                                 1
+    paint
+
+PRIMARY             : 40.522876 %
+SECONDARY           : 39.215686 %
+EMOTIONS            : 20.261438 %
+
+720 words total

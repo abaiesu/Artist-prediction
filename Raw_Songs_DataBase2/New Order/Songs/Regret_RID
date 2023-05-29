@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    everyone ever every time now occasion every time now every till
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    address call conversation call conversation call conversation say
+SECONDARY:ABSTRACTION                                            8
+    known almost know may think understand true guess
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away place out at place place apart
+EMOTIONS:AGGRESSION                                              6
+    complain wounded complain wounded complain wounded
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    wake wake wake
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:SENSATION:VISION                                         2
+    see look
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    stranger stranger
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+SECONDARY:RESTRAINT                                              1
+    limits
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 15.517241 %
+
+245 words total

@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:TASTE                                         22
+    tango tango tango tango tango tango tango tango tango tango tango tango tango tango tango tango tango tango tango tango tango tango
+SECONDARY:TEMPORAL REFERENCES                                   13
+    everybody everybody everybody now now now minute minute now when minute now everybody
+SECONDARY:ABSTRACTION                                            5
+    know know know them real
+PRIMARY:SENSATION:VISION                                         5
+    looking look look look look
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fellas fellas drop
+PRIMARY:SENSATION:COLD                                           2
+    children child
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shake shake
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driving driving
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at out
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:AGGRESSION                                              1
+    whip
+
+PRIMARY             : 64.516129 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 3.225806 %
+
+303 words total

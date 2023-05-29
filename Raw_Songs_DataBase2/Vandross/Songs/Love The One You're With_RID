@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              10
+    love love love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    ahead away far away
+EMOTIONS:GLORY                                                   2
+    eagle eagle
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talking advice
+SECONDARY:ABSTRACTION                                            2
+    concentration something
+SECONDARY:TEMPORAL REFERENCES                                    2
+    times tonight
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slips
+EMOTIONS:AGGRESSION                                              1
+    angry
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 20.689655 %
+SECONDARY           : 27.586207 %
+EMOTIONS            : 51.724138 %
+
+187 words total

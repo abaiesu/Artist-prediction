@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             15
+    beat breakout break breakout steal breakout break breakout steal breakout break breakout steal breakout steal
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time now then time now then now now now
+SECONDARY:ABSTRACTION                                            7
+    know may believe them believe believe believe
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    told follow calls told told told
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    railway line street line
+PRIMARY:SENSATION:VISION                                         3
+    star brighter lightning
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far out
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flight flight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream crazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make win
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:NEED:ORALITY                                             1
+    eat
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 34.426230 %
+SECONDARY           : 40.983607 %
+EMOTIONS            : 24.590164 %
+
+372 words total

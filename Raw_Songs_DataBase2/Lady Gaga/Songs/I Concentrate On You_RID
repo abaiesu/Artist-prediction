@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    whenever whenever when whenever when when once again when when when once again when
+SECONDARY:ABSTRACTION                                           10
+    concentrate concentrate tender true prove concentrate tender true prove concentrate
+PRIMARY:SENSATION:VISION                                         5
+    look gray blues light light
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes arms eyes arms
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    declare say say
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:NEED:ORALITY                                             1
+    brew
+PRIMARY:SENSATION:COLD                                           1
+    winter
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+
+PRIMARY             : 36.538462 %
+SECONDARY           : 51.923077 %
+EMOTIONS            : 11.538462 %
+
+164 words total

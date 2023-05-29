@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              16
+    like like like like like like like like like like like like like like like like
+SECONDARY:ABSTRACTION                                           11
+    decide know know know know know know know thought know know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    heat heat sun heat
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    slow slow slow slow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets streets streets
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell please depend
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:SENSATION:SOUND                                          2
+    sound sound
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    machines
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:AGGRESSION                                              1
+    kill
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    waking
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 29.090909 %
+EMOTIONS            : 34.545455 %
+
+270 words total

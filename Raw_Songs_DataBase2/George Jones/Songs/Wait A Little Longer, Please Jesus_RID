@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    longer out longer here where longer out longer
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please please please please please say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    labor workers find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    weary rest weary
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wandering wandering
+EMOTIONS:AFFECTION                                               2
+    loved loved
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hearts
+SECONDARY:TEMPORAL REFERENCES                                    2
+    yearning then
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happiness
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:ANXIETY                                                 1
+    anxious
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:COLD                                           1
+    children
+
+PRIMARY             : 55.263158 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 15.789474 %
+
+145 words total

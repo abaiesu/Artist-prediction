@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                               9
+    kind love love friend darling kind loved loving darling
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when time moment while when ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    possess find found belong belong find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long side long longing long place
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    speak persuade tell tell tell
+SECONDARY:ABSTRACTION                                            5
+    known themselves why plan meant
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    searching searching searching
+SECONDARY:RESTRAINT                                              3
+    control control control
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes arms
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy joy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high above
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    aware
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 35.593220 %
+SECONDARY           : 44.067797 %
+EMOTIONS            : 20.338983 %
+
+310 words total

@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   19
+    sometimes when again when times while while sometimes again every now then time times times sometimes when again when
+PRIMARY:SENSATION:HARD                                          13
+    hard hard hard hard hard hard hard hard hard hard hard hard hard
+SECONDARY:ABSTRACTION                                           11
+    know know known learn planet know known know known know known
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    count find sown try sown found sown count find sown
+PRIMARY:SENSATION:VISION                                         7
+    see looks see looks see looks looks
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    follow follow follow tell follow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back at back back back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    floor step line floor
+SECONDARY:MORAL IMPERATIVE                                       4
+    should right should should
+EMOTIONS:AFFECTION                                               4
+    like like like like
+EMOTIONS:AGGRESSION                                              3
+    steal wreck steal
+EMOTIONS:SADNESS                                                 3
+    wept wept wept
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driving driving
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie death
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 39.000000 %
+SECONDARY           : 49.000000 %
+EMOTIONS            : 12.000000 %
+
+437 words total

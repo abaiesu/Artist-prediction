@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   30
+    when again when again time when again when again when again when again when when when when again when again when again when again when when now time when when
+SECONDARY:SOCIAL BEHAVIOR                                       18
+    tell tell tell tell tell tell tell tell say tell tell tell tell tell tell say tell tell
+SECONDARY:ABSTRACTION                                            9
+    know why why why why why why why why
+EMOTIONS:POSITIVE AFFECT                                         6
+    satisfied satisfied satisfied satisfied satisfied satisfied
+PRIMARY:NEED:ORALITY                                             2
+    sugar sugar
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:AGGRESSION                                              1
+    complaining
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 6.756757 %
+SECONDARY           : 82.432432 %
+EMOTIONS            : 10.810811 %
+
+254 words total

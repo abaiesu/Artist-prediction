@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where back closed where place where
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    stairs road floor road road road
+PRIMARY:SENSATION:VISION                                         5
+    lights seen see lights seen
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again ever ever when
+PRIMARY:SENSATION:COLD                                           2
+    cold snow
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+SECONDARY:ABSTRACTION                                            2
+    thought cause
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:NEED:ORALITY                                             1
+    cafes
+SECONDARY:RESTRAINT                                              1
+    bars
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    veiled
+EMOTIONS:SADNESS                                                 1
+    lonelier
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazier
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+
+PRIMARY             : 65.789474 %
+SECONDARY           : 23.684211 %
+EMOTIONS            : 10.526316 %
+
+174 words total

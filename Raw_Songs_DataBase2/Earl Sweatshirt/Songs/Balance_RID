@@ -1,0 +1,42 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    tell tell call ask said asked said asked told tell tell call
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when time when old times again when time when
+SECONDARY:ABSTRACTION                                            8
+    different cause problems know know them different cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    tippin off point over tippin off point
+SECONDARY:MORAL IMPERATIVE                                       5
+    duty shoulders should duty shoulders
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find won find won
+SECONDARY:ORDER                                                  2
+    balance balance
+EMOTIONS:ANXIETY                                                 2
+    panic panic
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+PRIMARY:SENSATION:ODOR                                           2
+    sniffle sniffle
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall edge
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:SENSATION:SOUND                                          1
+    tone
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    cliff
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smokin
+
+PRIMARY             : 29.032258 %
+SECONDARY           : 64.516129 %
+EMOTIONS            : 6.451613 %
+
+221 words total

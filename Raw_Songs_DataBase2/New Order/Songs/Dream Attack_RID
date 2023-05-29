@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            5
+    supposed believe cause supposed believe
+EMOTIONS:AFFECTION                                               4
+    like love love love
+PRIMARY:SENSATION:VISION                                         4
+    see look light see
+PRIMARY:SENSATION:SOUND                                          3
+    music heard heartbeat
+EMOTIONS:AGGRESSION                                              3
+    cut knife steal
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when then
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    belong belong
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 24.137931 %
+
+187 words total

@@ -1,0 +1,40 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                    15
+    sunny sunny sunny sunny sunny sunny sunny sunny sunny sunny sunny sunny spark fire sunny
+SECONDARY:ABSTRACTION                                            6
+    true true truth facts true true
+EMOTIONS:AFFECTION                                               6
+    love love love like love love
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    thank thank thank thank thank thank
+PRIMARY:SENSATION:VISION                                         5
+    bright shines sunshine see gleam
+SECONDARY:TEMPORAL REFERENCES                                    4
+    yesterday now then when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet hands face
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiled smile
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at here
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    eased
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tall
+EMOTIONS:AGGRESSION                                              1
+    torn
+PRIMARY:SENSATION:HARD                                           1
+    rock
+SECONDARY:ORDER                                                  1
+    formed
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 29.824561 %
+EMOTIONS            : 17.543860 %
+
+169 words total

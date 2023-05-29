@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              10
+    dear dear like like dear like dear dear dear dear
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said promised said promised promise
+SECONDARY:ABSTRACTION                                            3
+    true truth know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    cost cost
+PRIMARY:SENSATION:SOUND                                          2
+    ring ring
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:VISION                                         1
+    shine
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:AGGRESSION                                              1
+    kill
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+
+PRIMARY             : 28.125000 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 37.500000 %
+
+154 words total

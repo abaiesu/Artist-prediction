@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                        26
+    lightin lightin lightin lightin lightin lightin lightin lightin lightin lightin lightin lightin shine shine light lightin lightin lightin shine light lightin lightin shine shine light light
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  18
+    hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    18
+    dancin dancin dancin dancing play dancin dancin dancing dancin dancing dancin dancin dancin dancing dancin dancing dancin dancing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    hand body brain hand hand hand hand hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where back out outside away inside
+SECONDARY:ABSTRACTION                                            6
+    believe basics cause cause cause cause
+EMOTIONS:AFFECTION                                               2
+    love like
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    drippin
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:NEED:ORALITY                                             1
+    poison
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+EMOTIONS:ANXIETY                                                 1
+    worries
+PRIMARY:SENSATION:SOUND                                          1
+    rhythm
+SECONDARY:RESTRAINT                                              1
+    prisoner
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 65.979381 %
+SECONDARY           : 10.309278 %
+EMOTIONS            : 23.711340 %
+
+570 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    long far away away back across away away where long far away away away
+SECONDARY:TEMPORAL REFERENCES                                    9
+    ago once time ago now then again yesterday every
+EMOTIONS:AFFECTION                                               6
+    love love love cherish love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    sail sail sail sail sail sail
+PRIMARY:SENSATION:VISION                                         4
+    stars stars shine ray
+SECONDARY:ABSTRACTION                                            2
+    believe true
+EMOTIONS:GLORY                                                   2
+    golden golden
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    taught
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 60.377358 %
+SECONDARY           : 24.528302 %
+EMOTIONS            : 15.094340 %
+
+118 words total

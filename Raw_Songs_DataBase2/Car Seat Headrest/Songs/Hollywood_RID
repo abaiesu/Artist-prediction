@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    at long over round inside inside inside back where back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    money makes makes makes makes make producers make make
+SECONDARY:ABSTRACTION                                            9
+    think decide think why logic something know know something
+SECONDARY:TEMPORAL REFERENCES                                    5
+    week everyone time everywhere year
+PRIMARY:SENSATION:VISION                                         5
+    see see see watching watch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face head faces faces
+EMOTIONS:AFFECTION                                               4
+    like love kinda like
+PRIMARY:NEED:ORALITY                                             3
+    drinking gum consumption
+PRIMARY:SENSATION:SOUND                                          3
+    hear music hiss
+EMOTIONS:GLORY                                                   3
+    palace famous famous
+EMOTIONS:AGGRESSION                                              2
+    violence gun
+EMOTIONS:SADNESS                                                 2
+    painted suffering
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    stepped lines
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    hypnosis waking
+PRIMARY:NEED:SEX                                                 1
+    fucking
+PRIMARY:NEED:ANALITY                                             1
+    stinks
+SECONDARY:ORDER                                                  1
+    form
+SECONDARY:RESTRAINT                                              1
+    catch
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    beds
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+
+PRIMARY             : 47.945205 %
+SECONDARY           : 35.616438 %
+EMOTIONS            : 16.438356 %
+
+324 words total

@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            9
+    true plans may know them truth may true may
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long here place where here out apart here
+EMOTIONS:AFFECTION                                               7
+    married love darling dear love darling love
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say tell say talk talkin say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    burden carried make find
+EMOTIONS:AGGRESSION                                              4
+    break deceivin harm break
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:SADNESS                                                 1
+    unhappy
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 23.255814 %
+SECONDARY           : 46.511628 %
+EMOTIONS            : 30.232558 %
+
+173 words total

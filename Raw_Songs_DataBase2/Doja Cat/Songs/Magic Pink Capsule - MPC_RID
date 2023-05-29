@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    open wide open open wide open open wide open open wide open open wide open open wide open open wide open open wide open
+PRIMARY:NEED:ORALITY                                             9
+    eat eat eat eat lick eat eat eat eat
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             8
+    magic magic magic magic magic magic magic magic
+PRIMARY:SENSATION:VISION                                         8
+    pink pink pink pink pink pink pink pink
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   8
+    heaven heaven heaven heaven heaven heaven heaven heaven
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   8
+    throw throw throw throw throw throw throw throw
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    eyes eyes eyes eyes eyes eyes eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            8
+    sleep sleep sleep sleep sleep sleep sleep sleep
+SECONDARY:ABSTRACTION                                            4
+    know tender tender tender
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+SECONDARY:TEMPORAL REFERENCES                                    2
+    frequent now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gateway
+PRIMARY:SENSATION:SOUND                                          1
+    temporary
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 90.322581 %
+SECONDARY           : 8.602151 %
+EMOTIONS            : 1.075269 %
+
+364 words total

@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    straight inside ahead side inside beside
+SECONDARY:TEMPORAL REFERENCES                                    4
+    hour when moment soon
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met reminds answers
+SECONDARY:ABSTRACTION                                            3
+    something knew problems
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    mysteries strangeness
+PRIMARY:SENSATION:VISION                                         2
+    vision looking
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    control
+EMOTIONS:AGGRESSION                                              1
+    conflict
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    arise
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 40.625000 %
+EMOTIONS            : 9.375000 %
+
+122 words total

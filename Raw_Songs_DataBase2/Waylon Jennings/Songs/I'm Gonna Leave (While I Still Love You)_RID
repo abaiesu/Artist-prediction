@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now time while now now while times while while
+SECONDARY:ABSTRACTION                                            4
+    cause know caused reasons
+EMOTIONS:AFFECTION                                               4
+    love love love love
+EMOTIONS:SADNESS                                                 3
+    frown pain sorrow
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    gifts gift
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy happiness
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grows higher
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make built
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long between
+EMOTIONS:ANXIETY                                                 1
+    afraid
+EMOTIONS:AGGRESSION                                              1
+    discontent
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:SENSATION:HARD                                           1
+    harder
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:TASTE                                          1
+    bitterness
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 42.500000 %
+EMOTIONS            : 27.500000 %
+
+203 words total

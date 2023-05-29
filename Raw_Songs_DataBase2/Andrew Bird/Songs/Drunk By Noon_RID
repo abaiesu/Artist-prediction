@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once sometimes sometimes when sometimes then
+PRIMARY:NEED:ORALITY                                             5
+    toothpicks drunk drunk drunk drunk
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long at away long
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    thumb arms arms
+EMOTIONS:AGGRESSION                                              3
+    hit jealous jealous
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burn sun sun
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flap fly
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    remind answers
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die deathbed
+SECONDARY:ABSTRACTION                                            1
+    thought
+SECONDARY:RESTRAINT                                              1
+    cage
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:SOUND                                          1
+    hummingbird
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+PRIMARY:SENSATION:VISION                                         1
+    watch
+
+PRIMARY             : 56.756757 %
+SECONDARY           : 29.729730 %
+EMOTIONS            : 13.513514 %
+
+188 words total

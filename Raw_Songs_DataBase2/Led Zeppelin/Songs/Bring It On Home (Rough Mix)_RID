@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out long long long
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell saying
+PRIMARY:NEED:ANALITY                                             2
+    messing messing
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:SEX                                                 1
+    seduce
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+EMOTIONS:AFFECTION                                               1
+    loving
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 18.750000 %
+EMOTIONS            : 12.500000 %
+
+122 words total

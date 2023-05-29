@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      20
+    lines stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway stairway
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at out over off long round away away at over away away
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  11
+    heaven heaven top birds birds heaven heaven top heaven heaven heaven
+SECONDARY:ABSTRACTION                                            9
+    guess cause cause them thought know cause why thoughts
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said ask ask say ask ask say say
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time minute time time sometimes today time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    tried use trade trade win trade trade
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    swing rising climb swing climb
+EMOTIONS:AFFECTION                                               5
+    love like like like like
+PRIMARY:SENSATION:COLD                                           5
+    children cool children children children
+EMOTIONS:GLORY                                                   5
+    crowns fame genius wondering fame
+PRIMARY:SENSATION:VISION                                         4
+    watching saw watching shine
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair heads knees
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    leaning leaning
+SECONDARY:MORAL IMPERATIVE                                       2
+    shoulder shoulder
+PRIMARY:SENSATION:SOUND                                          2
+    music voice
+EMOTIONS:AGGRESSION                                              2
+    critics breaking
+
+PRIMARY             : 58.715596 %
+SECONDARY           : 30.275229 %
+EMOTIONS            : 11.009174 %
+
+436 words total

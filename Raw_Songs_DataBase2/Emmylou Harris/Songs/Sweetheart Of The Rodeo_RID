@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out where out along where west far behind where longest
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every ever again now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    road walls stepped road
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won make find
+PRIMARY:SENSATION:TASTE                                          3
+    sweetheart sweetheart sweetheart
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    rides ride ride
+PRIMARY:SENSATION:VISION                                         3
+    light see shine
+PRIMARY:SENSATION:SOUND                                          2
+    hear sound
+EMOTIONS:SADNESS                                                 1
+    sorrow
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calling
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slidin
+
+PRIMARY             : 71.794872 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 5.128205 %
+
+154 words total

@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes sometimes sometimes everybody then sometimes
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    stream fountain tide shore
+SECONDARY:ABSTRACTION                                            3
+    cause them why
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride ships sail
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    curtains curtains
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out away
+PRIMARY:SENSATION:VISION                                         2
+    lighthouse watch
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:NEED:ORALITY                                             1
+    drank
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    fence
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safety
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 9.090909 %
+
+144 words total

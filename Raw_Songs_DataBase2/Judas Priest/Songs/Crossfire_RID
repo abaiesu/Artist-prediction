@@ -1,0 +1,34 @@
+SECONDARY:RESTRAINT                                              6
+    caught caught caught caught caught caught
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    between back out
+EMOTIONS:AGGRESSION                                              3
+    gun enemy breaking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    opium insanity
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smoking searing
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+SECONDARY:TEMPORAL REFERENCES                                    1
+    times
+PRIMARY:SENSATION:SOUND                                          1
+    deaf
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    information
+PRIMARY:NEED:ANALITY                                             1
+    messes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:ABSTRACTION                                            1
+    solution
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 12.000000 %
+
+130 words total

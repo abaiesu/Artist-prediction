@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    then time minute time when now now once now once now
+EMOTIONS:AFFECTION                                               9
+    marry love love love kind darlin dear love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    mend find try won try won try try try
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long open back
+SECONDARY:ABSTRACTION                                            3
+    something sure truth
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    offering told spoken
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:AGGRESSION                                              2
+    quarreled cut
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies die
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+
+PRIMARY             : 22.000000 %
+SECONDARY           : 56.000000 %
+EMOTIONS            : 22.000000 %
+
+183 words total

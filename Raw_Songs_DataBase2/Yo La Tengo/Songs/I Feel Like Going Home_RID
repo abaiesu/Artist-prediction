@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now sometimes while now
+EMOTIONS:AFFECTION                                               4
+    like like like like
+SECONDARY:ABSTRACTION                                            3
+    cause tend concentration
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calls appeal
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    restless drifting
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet brain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above ceiling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at off
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandering
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:VISION                                         1
+    imagination
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    float
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:SENSATION:SOUND                                          1
+    voices
+
+PRIMARY             : 51.612903 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 12.903226 %
+
+110 words total

@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    place where inside inside inside outside outside outside
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    skin skin skin skin skin
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when time when
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy happy
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    asks share say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    working money
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AGGRESSION                                              1
+    break
+EMOTIONS:GLORY                                                   1
+    wonders
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 16.666667 %
+
+117 words total

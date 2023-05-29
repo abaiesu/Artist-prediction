@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    away far away far away far away far away at
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old when old old old
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    protest
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:NEED:ORALITY                                             1
+    pearly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gates
+SECONDARY:RESTRAINT                                              1
+    stopped
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 8.695652 %
+
+80 words total

@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now when when now time old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where at long where long
+EMOTIONS:AGGRESSION                                              4
+    guns wounded warrior warrior
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    gates lines gates lines
+PRIMARY:SENSATION:SOUND                                          3
+    sound tune drum
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knee eyes
+SECONDARY:MORAL IMPERATIVE                                       2
+    duty duty
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    games cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    rode travel
+SECONDARY:RESTRAINT                                              1
+    bars
+EMOTIONS:AFFECTION                                               1
+    loves
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+PRIMARY:NEED:ANALITY                                             1
+    soil
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    soldiers
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flew
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+
+PRIMARY             : 57.500000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 17.500000 %
+
+211 words total

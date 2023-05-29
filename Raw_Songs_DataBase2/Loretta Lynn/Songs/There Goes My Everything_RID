@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:SOUND                                          3
+    hear voice heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    across back closing
+EMOTIONS:AFFECTION                                               3
+    darling goodbye love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything years old
+PRIMARY:SENSATION:SOFT                                           2
+    gently softly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor door
+SECONDARY:ABSTRACTION                                            2
+    reason reason
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    footsteps
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    saying
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    possesion
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:AGGRESSION                                              1
+    beating
+PRIMARY:NEED:ANALITY                                             1
+    shattered
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 20.689655 %
+
+88 words total

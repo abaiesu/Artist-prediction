@@ -1,0 +1,30 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        8
+    mister mister mister mister mister mister mister mister
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    inside here at where inside
+EMOTIONS:AFFECTION                                               5
+    like like like friendly like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+PRIMARY:SENSATION:VISION                                         4
+    see see look see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    cures try merchandise cures
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step step
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 58.974359 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 12.820513 %
+
+145 words total

@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    back back over over away back over back over back back over
+EMOTIONS:AFFECTION                                               5
+    darlin darling darling love darling
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talk talk talk talk talk
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time now time time
+EMOTIONS:AGGRESSION                                              3
+    break break hurts
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven above
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 36.111111 %
+EMOTIONS            : 22.222222 %
+
+141 words total

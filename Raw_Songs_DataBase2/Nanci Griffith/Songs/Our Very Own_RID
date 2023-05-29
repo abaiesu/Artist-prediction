@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out open where somewhere off place square square out open where
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    street road road road street road road
+SECONDARY:ABSTRACTION                                            6
+    cause think choose different may know
+SECONDARY:ORDER                                                  3
+    simple simple simple
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everybody time suddenly
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    wave wave
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grown grown
+EMOTIONS:AGGRESSION                                              1
+    beaten
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bone
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    cruise
+EMOTIONS:AFFECTION                                               1
+    goodbye
+
+PRIMARY             : 62.790698 %
+SECONDARY           : 30.232558 %
+EMOTIONS            : 6.976744 %
+
+215 words total

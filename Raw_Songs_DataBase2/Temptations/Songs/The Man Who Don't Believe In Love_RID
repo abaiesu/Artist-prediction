@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           13
+    believe know believe know believe know know know plan surely believe believe believe
+EMOTIONS:AFFECTION                                               7
+    love lovely love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make use work use
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking said tell
+EMOTIONS:POSITIVE AFFECT                                         3
+    happiness happiness happiness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over here
+PRIMARY:SENSATION:VISION                                         1
+    watching
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:NEED:SEX                                                 1
+    kissing
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+
+PRIMARY             : 11.904762 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 30.952381 %
+
+213 words total

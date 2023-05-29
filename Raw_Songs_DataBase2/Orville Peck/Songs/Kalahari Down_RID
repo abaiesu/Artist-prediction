@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    place away out out off far circling where places nearly
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said borrow follow ask say tell promises tell
+PRIMARY:SENSATION:SOUND                                          6
+    hear sound hear sound hear sound
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    riding travel roam wander
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spent find mendocino
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    guitar play dance
+PRIMARY:NEED:ORALITY                                             2
+    honey spitting
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountain hanging
+SECONDARY:ABSTRACTION                                            2
+    different know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now time
+EMOTIONS:AGGRESSION                                              2
+    whip hit
+EMOTIONS:SADNESS                                                 2
+    frown sorrow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky highway
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:SENSATION:COLD                                           1
+    north
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trail
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumbling
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+
+PRIMARY             : 58.928571 %
+SECONDARY           : 26.785714 %
+EMOTIONS            : 14.285714 %
+
+264 words total

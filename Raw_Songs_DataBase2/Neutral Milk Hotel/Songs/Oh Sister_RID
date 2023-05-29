@@ -1,0 +1,70 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    here front over out open over away out over over back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    won won makes making won won gain claim carry makes
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now time again ever now every now ever once ever
+SECONDARY:ABSTRACTION                                            7
+    them supposed believe important prove know know
+EMOTIONS:AFFECTION                                               5
+    like like friends like married
+PRIMARY:NEED:ORALITY                                             5
+    spit drunk milk mouth drunk
+PRIMARY:SENSATION:VISION                                         5
+    brown watching lights bright imagine
+EMOTIONS:ANXIETY                                                 3
+    afraid frantic worry
+EMOTIONS:GLORY                                                   3
+    glorious goldaline goldaline
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    calls speaking greeting
+PRIMARY:SENSATION:HARD                                           2
+    nailing hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest die
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    watery bubbly
+PRIMARY:NEED:SEX                                                 2
+    naked fuck
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wallace wallace
+PRIMARY:NEED:ANALITY                                             2
+    shit dirty
+EMOTIONS:AGGRESSION                                              2
+    kill angry
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandering
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    fleshy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    boiling
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twister
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:SADNESS                                                 1
+    grieving
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:SENSATION:SOUND                                          1
+    rings
+
+PRIMARY             : 49.450549 %
+SECONDARY           : 34.065934 %
+EMOTIONS            : 16.483516 %
+
+388 words total

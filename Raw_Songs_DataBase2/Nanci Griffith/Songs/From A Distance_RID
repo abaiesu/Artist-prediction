@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    distance distance distance distance distance distance distance at distance distance
+PRIMARY:SENSATION:VISION                                         7
+    looks blue green watching watching watching look
+PRIMARY:SENSATION:SOUND                                          6
+    echoes voice voice voice echoes heart
+EMOTIONS:AFFECTION                                               6
+    like friend love loves love loves
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every every every every
+EMOTIONS:AGGRESSION                                              3
+    guns war war
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountains flight
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean stream
+PRIMARY:NEED:ORALITY                                             2
+    mouths feed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing playing
+PRIMARY:SENSATION:COLD                                           1
+    snow
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meets
+EMOTIONS:GLORY                                                   1
+    eagle
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+SECONDARY:ABSTRACTION                                            1
+    comprehend
+
+PRIMARY             : 63.265306 %
+SECONDARY           : 12.244898 %
+EMOTIONS            : 24.489796 %
+
+204 words total

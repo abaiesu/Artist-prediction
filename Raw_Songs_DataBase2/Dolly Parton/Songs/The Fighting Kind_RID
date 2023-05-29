@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             17
+    fightin fights fightin fights fightin stubborn blame blame fightin blade blade blade stubborn blame blame fightin fightin
+EMOTIONS:AFFECTION                                              16
+    love kind like love kind love kind lovers love love kind lovers love kind love kind
+SECONDARY:ABSTRACTION                                           15
+    cause cause figured caused cause understanding known know supposed problem real think probably cause cause
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever ever again when now now now already
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find pickin using use used
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    agree agree agree agree
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line wall line
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    washin bathroom
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+PRIMARY:NEED:ORALITY                                             1
+    supper
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    delight
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    off
+
+PRIMARY             : 15.189873 %
+SECONDARY           : 40.506329 %
+EMOTIONS            : 44.303797 %
+
+341 words total

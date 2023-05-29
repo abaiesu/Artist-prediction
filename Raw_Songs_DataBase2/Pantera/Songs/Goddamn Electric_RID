@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time then then time then
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes hair eye hand eyes
+SECONDARY:ABSTRACTION                                            3
+    know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found money
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out outside
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    protected protected
+PRIMARY:NEED:ORALITY                                             2
+    whiskey whiskey
+EMOTIONS:AFFECTION                                               2
+    embrace embrace
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll shaking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sights sight
+PRIMARY:SENSATION:VISION                                         2
+    vision seen
+EMOTIONS:AGGRESSION                                              2
+    cut slayer
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lifted
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    tunnel
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    path
+PRIMARY:SENSATION:ODOR                                           1
+    inhale
+SECONDARY:ORDER                                                  1
+    system
+
+PRIMARY             : 52.500000 %
+SECONDARY           : 32.500000 %
+EMOTIONS            : 15.000000 %
+
+218 words total

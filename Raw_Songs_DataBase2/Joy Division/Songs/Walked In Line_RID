@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    steps line line line line line
+PRIMARY:SENSATION:VISION                                         3
+    pictures seen saw
+SECONDARY:ORDER                                                  2
+    uniforms measured
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carried machine
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    hypnotic trance
+PRIMARY:NEED:ORALITY                                             1
+    drank
+EMOTIONS:AGGRESSION                                              1
+    killed
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+SECONDARY:ABSTRACTION                                            1
+    prove
+EMOTIONS:GLORY                                                   1
+    glory
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 10.000000 %
+
+78 words total

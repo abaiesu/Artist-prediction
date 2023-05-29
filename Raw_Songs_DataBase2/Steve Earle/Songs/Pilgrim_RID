@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    road road road road
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    pilgrim travelin pilgrim
+SECONDARY:TEMPORAL REFERENCES                                    2
+    sometimes again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long somewhere
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet tell
+PRIMARY:SENSATION:VISION                                         2
+    bright see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing cry
+SECONDARY:ABSTRACTION                                            2
+    understand cause
+PRIMARY:SENSATION:HARD                                           1
+    rocky
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 65.217391 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 8.695652 %
+
+96 words total

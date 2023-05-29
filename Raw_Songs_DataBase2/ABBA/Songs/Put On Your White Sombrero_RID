@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               5
+    dear like goodbye friend like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old now while time time
+EMOTIONS:SADNESS                                                 3
+    sombrero sombrero sombrero
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off place here
+SECONDARY:ABSTRACTION                                            3
+    think real think
+EMOTIONS:GLORY                                                   2
+    hero proud
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunset
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+EMOTIONS:AGGRESSION                                              1
+    harshly
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 42.857143 %
+
+188 words total

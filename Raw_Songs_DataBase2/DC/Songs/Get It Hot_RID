@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                    20
+    hot hot hot hot hot fire hot hot hot hot hot hot hot hot hot hot hot hot hot hot
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out round place
+EMOTIONS:AFFECTION                                               3
+    like like like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    playing playing playing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used make
+PRIMARY:SENSATION:HARD                                           2
+    hard rock
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old now
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    conduct
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+
+PRIMARY             : 68.292683 %
+SECONDARY           : 17.073171 %
+EMOTIONS            : 14.634146 %
+
+179 words total

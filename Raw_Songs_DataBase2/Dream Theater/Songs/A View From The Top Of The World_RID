@@ -1,0 +1,66 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    within out between over over over over place open back where at out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    carry succeed carry reaching finds reach reach achieved build
+PRIMARY:SENSATION:VISION                                         9
+    see view see view see view see view seen
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   8
+    above top top top summit top sky top
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    trail threshold edge fringe door brink barriers
+EMOTIONS:GLORY                                                   6
+    conquer extreme adventure conquer elite greatness
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again again yearning moment when when
+SECONDARY:RESTRAINT                                              5
+    determined limits determination stop limits
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    chasing ride journey explore
+SECONDARY:ABSTRACTION                                            4
+    real understand may belief
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire burns blaze
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream insane madness
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    heading face feet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die lie death
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    digging descent
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rise hanging
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    physical beauty
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    helping beckons
+EMOTIONS:AGGRESSION                                              2
+    defeat broken
+EMOTIONS:AFFECTION                                               2
+    like welcome
+PRIMARY:SENSATION:HARD                                           1
+    steel
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeper
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:MORAL IMPERATIVE                                       1
+    rightfully
+SECONDARY:ORDER                                                  1
+    ranks
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:NEED:SEX                                                 1
+    womb
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+
+PRIMARY             : 61.904762 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 11.428571 %
+
+320 words total

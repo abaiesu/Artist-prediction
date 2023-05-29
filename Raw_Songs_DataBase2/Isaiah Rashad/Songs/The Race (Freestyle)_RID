@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    out fronto back out out out at off tip off out out out out out out
+PRIMARY:NEED:ORALITY                                            10
+    lunch eat starve starve teeth dinner suck thirsty raw nut
+PRIMARY:NEED:SEX                                                 7
+    bitch bitch bitch bitches bitch fuck bitch
+SECONDARY:TEMPORAL REFERENCES                                    7
+    then then when when soon then then
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    arm hands eyes face face headphone
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    sellin make picked
+EMOTIONS:AFFECTION                                               3
+    friends like like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    preacher talkin tell
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smokin smoke
+PRIMARY:SENSATION:VISION                                         2
+    lookin see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throw hang
+EMOTIONS:AGGRESSION                                              2
+    broke beat
+PRIMARY:SENSATION:SOUND                                          1
+    ear
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:ODOR                                           1
+    sniff
+PRIMARY:SENSATION:COLD                                           1
+    chill
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pour
+
+PRIMARY             : 71.232877 %
+SECONDARY           : 20.547945 %
+EMOTIONS            : 8.219178 %
+
+344 words total

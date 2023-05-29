@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               6
+    like like like like darling like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won won won won won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    outside far here wherever
+EMOTIONS:POSITIVE AFFECT                                         4
+    merry merry merry merry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging flyin
+SECONDARY:ABSTRACTION                                            2
+    may true
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everybody
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:SENSATION:COLD                                           1
+    snowlakes
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 27.586207 %
+EMOTIONS            : 37.931034 %
+
+116 words total

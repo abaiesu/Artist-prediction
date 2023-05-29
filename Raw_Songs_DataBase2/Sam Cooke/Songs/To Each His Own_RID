@@ -1,0 +1,36 @@
+SECONDARY:RESTRAINT                                              5
+    must must must must insist
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won belong found
+SECONDARY:ABSTRACTION                                            3
+    true know know
+PRIMARY:NEED:ORALITY                                             3
+    honey lips honey
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun flame
+EMOTIONS:AFFECTION                                               2
+    lovely love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    promise tell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:SENSATION:VISION                                         1
+    glow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    open
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:SEX                                                 1
+    kissed
+
+PRIMARY             : 48.275862 %
+SECONDARY           : 44.827586 %
+EMOTIONS            : 6.896552 %
+
+196 words total

@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old time now now old time
+PRIMARY:SENSATION:SOUND                                          4
+    tuned sound sounds tuned
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    side near place side
+SECONDARY:ABSTRACTION                                            4
+    know think something know
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:SENSATION:COLD                                           2
+    cool cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair foot
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:SENSATION:VISION                                         1
+    green
+
+PRIMARY             : 61.290323 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 6.451613 %
+
+121 words total

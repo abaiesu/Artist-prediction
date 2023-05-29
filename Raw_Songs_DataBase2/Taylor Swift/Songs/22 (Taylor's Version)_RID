@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              18
+    like like like love like like like like like like like like like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                   13
+    time tonight when time everything everything tonight when time everything everything everything everything
+SECONDARY:ABSTRACTION                                            9
+    know know know know know know know know know
+PRIMARY:SENSATION:VISION                                         5
+    scene scene look scene look
+EMOTIONS:SADNESS                                                 4
+    lonely miserable lonely miserable
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dancing dancing dancing dancing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreaming sleeping sleeping sleeping
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make won won
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun happy happy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at place
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    strangers magical magical
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    confused crowded confused
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    ditch ditch ditch
+EMOTIONS:AGGRESSION                                              1
+    breakfast
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    deadlines
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreaks
+
+PRIMARY             : 31.250000 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 37.500000 %
+
+400 words total

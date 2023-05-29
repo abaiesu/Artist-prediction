@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long surrounds away out straight away away
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    burn melt sun warm
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    gain gains foundation reaching
+EMOTIONS:AFFECTION                                               3
+    goodbye embrace love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    static safely
+EMOTIONS:AGGRESSION                                              2
+    break broken
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when again
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb rise
+PRIMARY:SENSATION:VISION                                         2
+    see look
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say rescue
+PRIMARY:SENSATION:SOUND                                          2
+    tuned hearts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    void
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:ABSTRACTION                                            1
+    plans
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+PRIMARY:SENSATION:TOUCH                                          1
+    rubble
+
+PRIMARY             : 63.414634 %
+SECONDARY           : 21.951220 %
+EMOTIONS            : 14.634146 %
+
+212 words total

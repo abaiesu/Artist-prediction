@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said met say say say
+EMOTIONS:AFFECTION                                               4
+    lovely marry love marryin
+SECONDARY:ABSTRACTION                                            4
+    purpose purpose purpose purpose
+PRIMARY:SENSATION:VISION                                         3
+    saw saw saw
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at out out
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sight clown clown
+PRIMARY:NEED:ORALITY                                             3
+    spite spite spite
+EMOTIONS:SADNESS                                                 2
+    painting painting
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistaken mistaken
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drifted
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+
+PRIMARY             : 44.117647 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 26.470588 %
+
+136 words total

@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               6
+    like like like love like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    reaching reaching reaching reaching reaching
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flying wings
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    far
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    soon
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 33.333333 %
+
+88 words total

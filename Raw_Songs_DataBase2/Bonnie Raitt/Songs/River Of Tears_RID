@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here close long here at
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    river oceans river river
+SECONDARY:ABSTRACTION                                            3
+    guess thinking know
+EMOTIONS:AFFECTION                                               2
+    love lovin
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreak
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AGGRESSION                                              1
+    hurt
+EMOTIONS:GLORY                                                   1
+    wonderin
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 17.391304 %
+EMOTIONS            : 21.739130 %
+
+104 words total

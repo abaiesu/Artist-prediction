@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       30
+    back east back east out east out east here back point close back east back back back back back back back back back back back back back back east back
+PRIMARY:SENSATION:SOUND                                         11
+    heart heart heart heart heart heart heart heart heart heart heart
+EMOTIONS:AFFECTION                                               8
+    like loved like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when minute when when then quick then
+SECONDARY:ABSTRACTION                                            4
+    somethin knew knew history
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said says met tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pay makin cost
+PRIMARY:NEED:ORALITY                                             2
+    eatin bacon
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:ORDER                                                  1
+    graduated
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 26.388889 %
+EMOTIONS            : 11.111111 %
+
+467 words total

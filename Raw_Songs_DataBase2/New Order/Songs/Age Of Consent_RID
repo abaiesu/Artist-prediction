@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              10
+    kind likes kind like kind likes kind kind likes kind
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    please tell tell message said tell tell tell tell
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ago every now time
+SECONDARY:ABSTRACTION                                            3
+    thought know understood
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside point
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+
+PRIMARY             : 17.142857 %
+SECONDARY           : 51.428571 %
+EMOTIONS            : 31.428571 %
+
+226 words total

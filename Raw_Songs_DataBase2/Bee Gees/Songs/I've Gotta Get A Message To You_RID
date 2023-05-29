@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now once time hour then once time hour now now hour hour
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    preacher talked said message told tell message message message message
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiled laughed
+EMOTIONS:AGGRESSION                                              2
+    broke hurt
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:SADNESS                                                 1
+    sorry
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 68.571429 %
+EMOTIONS            : 17.142857 %
+
+245 words total

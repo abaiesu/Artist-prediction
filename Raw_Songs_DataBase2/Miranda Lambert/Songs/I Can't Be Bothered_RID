@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    month hour now time month hour now when now month hour now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    used work used found find occupy spend used
+EMOTIONS:AGGRESSION                                              7
+    bothered bothered bothered bothered bothered bothered bothered
+SECONDARY:ABSTRACTION                                            7
+    think sure think sure something think sure
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back back back
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasin
+PRIMARY:SENSATION:TOUCH                                          1
+    cuddling
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 21.276596 %
+SECONDARY           : 59.574468 %
+EMOTIONS            : 19.148936 %
+
+212 words total

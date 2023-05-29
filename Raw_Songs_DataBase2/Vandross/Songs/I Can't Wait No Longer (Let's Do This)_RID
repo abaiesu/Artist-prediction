@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now sometime time now time now now minute
+EMOTIONS:AFFECTION                                               8
+    love love love lover friend love love love
+SECONDARY:ABSTRACTION                                            6
+    thinkin thought know cause know true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    longer longer back long long out
+EMOTIONS:POSITIVE AFFECT                                         2
+    excited fun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head toe
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinderella
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:SENSATION:SOFT                                           1
+    lace
+
+PRIMARY             : 32.500000 %
+SECONDARY           : 42.500000 %
+EMOTIONS            : 25.000000 %
+
+259 words total

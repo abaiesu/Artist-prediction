@@ -1,0 +1,40 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    make try make make make make make make make make make make
+SECONDARY:ABSTRACTION                                           11
+    solution purpose know know know know know think solution solution solution
+EMOTIONS:AFFECTION                                               9
+    like like like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say social talking able able able able able able
+PRIMARY:SENSATION:VISION                                         8
+    rough see look look look look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over back here middle over over
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+SECONDARY:RESTRAINT                                              3
+    jail catch catch
+SECONDARY:ORDER                                                  3
+    class class class
+PRIMARY:NEED:ORALITY                                             2
+    eats supper
+EMOTIONS:AGGRESSION                                              1
+    fight
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    upper
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lower
+EMOTIONS:SADNESS                                                 1
+    suffer
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 27.397260 %
+SECONDARY           : 57.534247 %
+EMOTIONS            : 15.068493 %
+
+452 words total

@@ -1,0 +1,34 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  10
+    treehome treehome treehome treehome treehouse treehome treehome treehouse treehouse treehouse
+SECONDARY:RESTRAINT                                              4
+    stop must must must
+PRIMARY:SENSATION:SOUND                                          2
+    hear heard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    finished won
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    bridge lines
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    outside here
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then ever
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:SENSATION:VISION                                         1
+    colorful
+EMOTIONS:AFFECTION                                               1
+    favorite
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headfirst
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lake
+PRIMARY:NEED:ORALITY                                             1
+    food
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 9.375000 %
+
+207 words total

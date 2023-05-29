@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when years year everything year
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart tune heart
+SECONDARY:ABSTRACTION                                            5
+    know know know sure know
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+PRIMARY:NEED:ORALITY                                             2
+    drunk beers
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try make
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    valley
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+
+PRIMARY             : 58.064516 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 0.000000 %
+
+93 words total

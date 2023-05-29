@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here at here back here behind
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    message called greeted forgiveness beckoning
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    grasped find forge
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body skin
+EMOTIONS:AGGRESSION                                              2
+    stole hate
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sighs sight
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:NEED:ANALITY                                             1
+    soil
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    damp
+PRIMARY:SENSATION:SOUND                                          1
+    hiss
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:TEMPORAL REFERENCES                                    1
+    once
+EMOTIONS:SADNESS                                                 1
+    repent
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangman
+PRIMARY:SENSATION:SOFT                                           1
+    murmur
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    plunging
+SECONDARY:RESTRAINT                                              1
+    captured
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 15.789474 %
+
+147 words total

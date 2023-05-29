@@ -1,0 +1,44 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    carrying business price workin won won hired won
+SECONDARY:TEMPORAL REFERENCES                                    8
+    week now when when time when when when
+PRIMARY:SENSATION:SOUND                                          4
+    heartsick ring whistles loud
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    sharin met meet call
+EMOTIONS:AFFECTION                                               3
+    devotion goodbye lover
+EMOTIONS:AGGRESSION                                              3
+    hurt hit hit
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    playin play guitar
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    headed hand
+PRIMARY:SENSATION:VISION                                         2
+    light imagination
+PRIMARY:NEED:ORALITY                                             2
+    swallow corner
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sinks sinks
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:SENSATION:HARD                                           1
+    nails
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+SECONDARY:ABSTRACTION                                            1
+    themes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+
+PRIMARY             : 36.734694 %
+SECONDARY           : 44.897959 %
+EMOTIONS            : 18.367347 %
+
+227 words total

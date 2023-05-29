@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away apart over out at at over over
+SECONDARY:TEMPORAL REFERENCES                                    8
+    while when old time while when while when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    dance dance dance dance dance dance dance
+PRIMARY:SENSATION:VISION                                         7
+    watch watch brighter look see brighter brighter
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    dream dreams dream dreams dream dreams
+SECONDARY:ABSTRACTION                                            5
+    know thinking them them them
+PRIMARY:SENSATION:SOUND                                          4
+    hearts heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hands eyes
+EMOTIONS:AGGRESSION                                              3
+    breaks breaks breaks
+EMOTIONS:SADNESS                                                 3
+    sorrow sorrow sorrow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reach makes
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    crowd wild
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+PRIMARY:NEED:SEX                                                 1
+    lust
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 54.838710 %
+SECONDARY           : 24.193548 %
+EMOTIONS            : 20.967742 %
+
+192 words total

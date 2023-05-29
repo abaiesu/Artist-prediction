@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            9
+    why why believe why why why why why why
+EMOTIONS:AFFECTION                                               8
+    love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say say say explain say say
+PRIMARY:SENSATION:TOUCH                                          5
+    touch touch touch touch touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    reach belong find make belong
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when everywhere ever when everywhere
+EMOTIONS:AGGRESSION                                              2
+    doubt doubt
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    close surrounding
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing games
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 21.568627 %
+SECONDARY           : 52.941176 %
+EMOTIONS            : 25.490196 %
+
+254 words total

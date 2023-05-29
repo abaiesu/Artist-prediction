@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               9
+    like like like like like like like love like
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart ring heart
+PRIMARY:SENSATION:HARD                                           4
+    rock rock rock rock
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    sea sea sea sea
+PRIMARY:SENSATION:VISION                                         4
+    see see blues blue
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:ABSTRACTION                                            2
+    cause know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today today
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make bought
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+
+PRIMARY             : 56.410256 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 28.205128 %
+
+215 words total

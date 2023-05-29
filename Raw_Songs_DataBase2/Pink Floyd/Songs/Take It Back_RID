@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    back back back back sides back back back back back back
+PRIMARY:SENSATION:SOUND                                          5
+    sounds hear ring ring hear
+SECONDARY:ABSTRACTION                                            5
+    thinking prove them knows know
+PRIMARY:SENSATION:VISION                                         4
+    spy see seen see
+EMOTIONS:AFFECTION                                               3
+    love like love
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rains sea tide
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make tried
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rising rising rising
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    waves spinning
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning fire
+EMOTIONS:AGGRESSION                                              2
+    rage break
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lies
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then now
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promises
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:RESTRAINT                                              1
+    limit
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 23.636364 %
+EMOTIONS            : 12.727273 %
+
+222 words total

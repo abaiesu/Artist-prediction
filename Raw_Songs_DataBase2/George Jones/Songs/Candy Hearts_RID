@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    shared said said please said said said said say said said please said said said said
+EMOTIONS:AFFECTION                                              14
+    lovely love love dear dear love love love love dear dear love love love
+PRIMARY:SENSATION:SOUND                                          9
+    hearts heart heart hearts hearts heart heart hearts hearts
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once time when now while when
+PRIMARY:NEED:ORALITY                                             5
+    candy candy candy candy candy
+SECONDARY:ABSTRACTION                                            4
+    plans true true true
+PRIMARY:NEED:SEX                                                 2
+    kisses kisses
+PRIMARY:SENSATION:TASTE                                          2
+    sweetest sweetest
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far away
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 32.812500 %
+SECONDARY           : 40.625000 %
+EMOTIONS            : 26.562500 %
+
+206 words total

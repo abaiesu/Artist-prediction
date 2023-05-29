@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    hallway floor door hallway floor door hallway floor door door
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    won won won won won won won won won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here here opened opened opened opened
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call tell call call call
+EMOTIONS:AFFECTION                                               4
+    dear darlin love like
+PRIMARY:NEED:ORALITY                                             4
+    spit drink spit spit
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep sleep sleep
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    submission
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+
+PRIMARY             : 54.166667 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 8.333333 %
+
+170 words total

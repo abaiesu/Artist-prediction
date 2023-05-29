@@ -1,0 +1,42 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    risk successfully succeeded
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at out out
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    excusing excuses committee
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance barking
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree above
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughter laughter
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:AFFECTION                                               1
+    romance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    frame
+EMOTIONS:AGGRESSION                                              1
+    slaughter
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangman
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bloody
+SECONDARY:ABSTRACTION                                            1
+    reason
+PRIMARY:SENSATION:VISION                                         1
+    looking
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 31.034483 %
+
+149 words total

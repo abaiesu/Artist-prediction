@@ -1,0 +1,24 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make count count count won count
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today now today now everybody
+SECONDARY:ABSTRACTION                                            2
+    knew reasons
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say invitation
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:ANXIETY                                                 1
+    worry
+
+PRIMARY             : 10.000000 %
+SECONDARY           : 75.000000 %
+EMOTIONS            : 15.000000 %
+
+140 words total

@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                            5
+    know belief believe truth truth
+EMOTIONS:AGGRESSION                                              5
+    knife cut cut cut break
+PRIMARY:SENSATION:VISION                                         3
+    light light light
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow gift speech
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    ocean sea sea
+SECONDARY:ORDER                                                  3
+    forms listen listen
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream waking dreams
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    firebird burn
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside behind
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    path door
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rising dawning
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silence death
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    lesson
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:SENSATION:SOUND                                          1
+    chord
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 60.465116 %
+SECONDARY           : 27.906977 %
+EMOTIONS            : 11.627907 %
+
+116 words total

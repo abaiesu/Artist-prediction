@@ -1,0 +1,58 @@
+PRIMARY:SENSATION:VISION                                        13
+    picture star watch watch watch scene look brown see see see watched watch
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    call talk talk talkin tellin talk talk talkin said follow talk
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now weekends then hourglass when when when then when week now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    use pick paid make wins bought cost sellin wins spend
+EMOTIONS:AGGRESSION                                              9
+    kilos robb fought assault kill kilos threat shoot homicide
+EMOTIONS:AFFECTION                                               8
+    like like like loving loving like like like
+EMOTIONS:GLORY                                                   7
+    rich wealthy rich empire rich heron rich
+PRIMARY:NEED:ORALITY                                             7
+    poison jawns lunch meat swallowing swallow bread
+SECONDARY:ABSTRACTION                                            7
+    think somethin them somethin weighing cause somethin
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    couch hush hush lie die dead
+PRIMARY:NEED:ANALITY                                             6
+    shit shit shit dirty dirt shit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    routine ferris steps street brinks
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    body body palms neck toes
+PRIMARY:NEED:SEX                                                 3
+    waist fuck bitches
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    ceiling ceiling ceiling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here front out
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slide drop
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    swim
+SECONDARY:ORDER                                                  1
+    simple
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+EMOTIONS:POSITIVE AFFECT                                         1
+    thriller
+PRIMARY:SENSATION:SOUND                                          1
+    hearse
+
+PRIMARY             : 46.031746 %
+SECONDARY           : 32.539683 %
+EMOTIONS            : 21.428571 %
+
+638 words total

@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            7
+    suppose known think know supposed suppose know
+SECONDARY:TEMPORAL REFERENCES                                    7
+    tonight while tonight soon tonight tonight while
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+PRIMARY:SENSATION:VISION                                         2
+    see blues
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 29.629630 %
+SECONDARY           : 55.555556 %
+EMOTIONS            : 14.814815 %
+
+127 words total

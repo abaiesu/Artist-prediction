@@ -1,0 +1,44 @@
+SECONDARY:RESTRAINT                                             38
+    stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stopping stop stop stop stop stop stop stop stop stop stop stop stop stop
+SECONDARY:TEMPORAL REFERENCES                                   12
+    time now while time time then now time time now now now
+SECONDARY:ABSTRACTION                                           11
+    thinking think guess cause believe cause may guess may know think
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    admit say accepted admit excuse admit
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake wake wake wake
+PRIMARY:SENSATION:VISION                                         4
+    looks lucid looks looks
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    ruined chance chance
+EMOTIONS:GLORY                                                   3
+    pride pride pride
+EMOTIONS:AFFECTION                                               3
+    like like like
+EMOTIONS:AGGRESSION                                              3
+    fight doubt fight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying use won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out long
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step road
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died died
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing play
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slipped drop
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 18.691589 %
+SECONDARY           : 71.028037 %
+EMOTIONS            : 10.280374 %
+
+403 words total

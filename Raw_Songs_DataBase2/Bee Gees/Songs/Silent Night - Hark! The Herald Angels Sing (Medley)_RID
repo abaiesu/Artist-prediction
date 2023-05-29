@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                          2
+    hark hark
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forevermore forevermore
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silent calm
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleeping
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heavenly heavenly
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+PRIMARY:SENSATION:VISION                                         1
+    bright
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:ABSTRACTION                                            1
+    tender
+PRIMARY:SENSATION:SOFT                                           1
+    mild
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 70.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 10.000000 %
+
+92 words total

@@ -1,0 +1,52 @@
+EMOTIONS:AFFECTION                                               8
+    love loves loves love like romance lover like
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    please say talkin say say call treat
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everybody now time ever tonight tonight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    open outside here away out
+PRIMARY:SENSATION:SOUND                                          5
+    heart whirl hear belly heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money money won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees body
+SECONDARY:ABSTRACTION                                            2
+    knows think
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shake spinnin
+PRIMARY:SENSATION:VISION                                         2
+    see blues
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street wall
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 43.103448 %
+SECONDARY           : 36.206897 %
+EMOTIONS            : 20.689655 %
+
+237 words total

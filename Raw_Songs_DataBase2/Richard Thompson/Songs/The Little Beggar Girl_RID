@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call call please please generosity
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at far wide off off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    work money money money money
+EMOTIONS:AFFECTION                                               5
+    love like love like like
+EMOTIONS:GLORY                                                   4
+    rich rich rich rich
+SECONDARY:ABSTRACTION                                            3
+    think think cause
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance play
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    leg knee
+SECONDARY:MORAL IMPERATIVE                                       2
+    law conscience
+EMOTIONS:AGGRESSION                                              2
+    harm harm
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:ANXIETY                                                 1
+    alarm
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+
+PRIMARY             : 21.951220 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 39.024390 %
+
+370 words total

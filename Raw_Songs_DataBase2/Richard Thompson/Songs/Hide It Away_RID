@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    away away inside at away away away away away wide inside at away away away inside at away away away away
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sigh game game game
+EMOTIONS:POSITIVE AFFECT                                         4
+    laugh smile laugh laugh
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye feet face
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flame flame
+EMOTIONS:AGGRESSION                                              2
+    break hurt
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 65.116279 %
+SECONDARY           : 9.302326 %
+EMOTIONS            : 25.581395 %
+
+165 words total

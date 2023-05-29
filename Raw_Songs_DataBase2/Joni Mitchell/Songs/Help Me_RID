@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              18
+    love love lovin like love love love lovin like love love flirting flirting flirting love lovin like love
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    help talking help talking talking help
+SECONDARY:ABSTRACTION                                            6
+    think know cause think cause think
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    hot hot blazes smoke ash
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again when again past
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falling falling falling
+EMOTIONS:ANXIETY                                                 3
+    trouble trouble worrying
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:AGGRESSION                                              1
+    hurting
+
+PRIMARY             : 24.528302 %
+SECONDARY           : 30.188679 %
+EMOTIONS            : 45.283019 %
+
+193 words total

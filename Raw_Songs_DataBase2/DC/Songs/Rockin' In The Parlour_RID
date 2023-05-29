@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:HARD                                           6
+    rock rocking rocking rock rocking rocking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    round along at place along
+SECONDARY:ABSTRACTION                                            4
+    cause knew cause knew
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met said said
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roll roll roll
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    caroline
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:SENSATION:VISION                                         1
+    saw
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 59.259259 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 11.111111 %
+
+126 words total

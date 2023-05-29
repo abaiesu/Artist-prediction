@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    while now while when soon soon soon soon soon while now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where far away long away close wide near
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    sleep dreaming sleep slumber sleep sleep sleep
+PRIMARY:SENSATION:COLD                                           6
+    children children children children children children
+PRIMARY:SENSATION:VISION                                         6
+    look see shine look see blue
+EMOTIONS:ANXIETY                                                 4
+    shy fears fear fears
+PRIMARY:SENSATION:SOUND                                          3
+    hears hears hears
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die lie drifting
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    reciter spoken
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly wings
+PRIMARY:SENSATION:SOFT                                           2
+    softly gently
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wash lake
+EMOTIONS:AGGRESSION                                              2
+    broken murdered
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+EMOTIONS:SADNESS                                                 1
+    suffering
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+
+PRIMARY             : 66.176471 %
+SECONDARY           : 20.588235 %
+EMOTIONS            : 13.235294 %
+
+169 words total

@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                          8
+    music hear drum drummer hear hearing music music
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everywhere everywhere soon everybody everybody ever everybody now
+SECONDARY:ABSTRACTION                                            4
+    known understood think know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    playing playing play sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found make make
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along close
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talking talking
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellas
+EMOTIONS:AFFECTION                                               1
+    friendly
+PRIMARY:SENSATION:VISION                                         1
+    blue
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+
+PRIMARY             : 34.210526 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 15.789474 %
+
+152 words total

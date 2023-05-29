@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell say say tell tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    close far away closer separate
+SECONDARY:ABSTRACTION                                            4
+    why know know know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when yesterday
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 59.090909 %
+EMOTIONS            : 0.000000 %
+
+159 words total

@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    out back back back back here away back back back back back back back back back back
+PRIMARY:ICARIAN IMAGERY:WATER                                    9
+    water water water water water pour water water water
+PRIMARY:NEED:ORALITY                                             9
+    lips lips lips drink poisons lips lips lips drink
+PRIMARY:SENSATION:VISION                                         7
+    lookout brighter see see watch look see
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talking talking share meet calls meet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    6
+    under under under under under under
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again again now everything again again
+PRIMARY:NEED:SEX                                                 5
+    kisses kisses kiss kisses kisses
+PRIMARY:SENSATION:SOUND                                          4
+    voice heart heart heart
+EMOTIONS:AGGRESSION                                              4
+    bother break bother break
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hand face
+SECONDARY:ABSTRACTION                                            2
+    think real
+EMOTIONS:AFFECTION                                               2
+    love loving
+SECONDARY:MORAL IMPERATIVE                                       2
+    shouldn shouldn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 71.264368 %
+SECONDARY           : 19.540230 %
+EMOTIONS            : 9.195402 %
+
+241 words total

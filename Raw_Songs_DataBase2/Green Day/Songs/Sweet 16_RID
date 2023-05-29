@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    hour ago time years old ever time now old ever old ever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    back back far behind out long long far behind far behind
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    street floor street street
+SECONDARY:ABSTRACTION                                            3
+    cause cause cause
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:SENSATION:VISION                                         2
+    brown brown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyed skinned
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep dream
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throwing
+EMOTIONS:AGGRESSION                                              1
+    stab
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    beach
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 35.555556 %
+EMOTIONS            : 4.444444 %
+
+193 words total

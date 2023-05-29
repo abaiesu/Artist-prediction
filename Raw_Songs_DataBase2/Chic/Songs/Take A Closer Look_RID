@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    closer at closer at closer at open away closer at closer at closer at here closer at closer at closer at
+EMOTIONS:AFFECTION                                              20
+    love love love love love love love love love love love love love love love lovin love love love love
+PRIMARY:SENSATION:VISION                                        12
+    look look see see look look see see glance look look see
+SECONDARY:ABSTRACTION                                            5
+    sure think sure cause sure
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when then time now
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    eternity eternity eternity
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    share tell please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make found
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness thrill
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:NEED:SEX                                                 1
+    caress
+
+PRIMARY             : 51.948052 %
+SECONDARY           : 19.480519 %
+EMOTIONS            : 28.571429 %
+
+227 words total

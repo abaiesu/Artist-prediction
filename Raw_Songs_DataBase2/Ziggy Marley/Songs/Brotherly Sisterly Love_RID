@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where straight where straight where where where straight where straight
+EMOTIONS:AFFECTION                                               8
+    friend love love love love friend love love
+EMOTIONS:AGGRESSION                                              4
+    battle fighting killing battle
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:SADNESS                                                 2
+    pain pain
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help help
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+SECONDARY:MORAL IMPERATIVE                                       2
+    correction correction
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 38.888889 %
+
+176 words total

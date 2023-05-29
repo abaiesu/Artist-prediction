@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           10
+    know know know true know know know true know true
+PRIMARY:SENSATION:VISION                                         8
+    lights lights lights lights lights lights lights lights
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    overflowing over over here over over here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    pick won won pick won won
+EMOTIONS:AGGRESSION                                              4
+    fightin fightin fightin fightin
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:AFFECTION                                               3
+    darlin darlin darlin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slide slide
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share share
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+EMOTIONS:GLORY                                                   1
+    sublime
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flyin
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 14.814815 %
+
+312 words total

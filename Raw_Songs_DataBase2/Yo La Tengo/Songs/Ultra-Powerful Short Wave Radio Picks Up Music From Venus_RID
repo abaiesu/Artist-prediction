@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:SOUND                                         11
+    music heard heard hissed crackled ears heard sounded music hear tuned
+SECONDARY:ORDER                                                  4
+    listen listened simple listened
+SECONDARY:ABSTRACTION                                            4
+    something figured think probably
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off across space between
+SECONDARY:TEMPORAL REFERENCES                                    3
+    minutes then when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eyes face
+EMOTIONS:AFFECTION                                               2
+    loved like
+PRIMARY:SENSATION:TOUCH                                          2
+    scratched rubbed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sports
+PRIMARY:SENSATION:COLD                                           1
+    alaska
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+SECONDARY:RESTRAINT                                              1
+    stopped
+EMOTIONS:POSITIVE AFFECT                                         1
+    grin
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+EMOTIONS:ANXIETY                                                 1
+    alarm
+PRIMARY:NEED:SEX                                                 1
+    venus
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    static
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 57.777778 %
+SECONDARY           : 31.111111 %
+EMOTIONS            : 11.111111 %
+
+164 words total

@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       34
+    back at away at away away away away away off at away away away back away over away away away away away off at away away away long away off at away away away
+SECONDARY:ABSTRACTION                                           14
+    them thinking them cause cause cause them them cause cause cause cause cause cause
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today old when old past when then soon
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used building make won
+PRIMARY:SENSATION:SOUND                                          4
+    bells ring ears tune
+PRIMARY:SENSATION:VISION                                         3
+    blue greyhound watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride drive ride
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing playing sing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad mad
+EMOTIONS:ANXIETY                                                 2
+    worried worried
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headed
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    upper
+SECONDARY:ORDER                                                  1
+    class
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    fed
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 59.302326 %
+SECONDARY           : 33.720930 %
+EMOTIONS            : 6.976744 %
+
+490 words total

@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long away long
+SECONDARY:ABSTRACTION                                            3
+    true know understand
+PRIMARY:SENSATION:SOUND                                          2
+    tune voice
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 72.727273 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 0.000000 %
+
+76 words total

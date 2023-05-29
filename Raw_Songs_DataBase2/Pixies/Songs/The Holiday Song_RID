@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out here out here out here out here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hand head hand hand hand
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then then till
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fell
+EMOTIONS:GLORY                                                   2
+    glory glory
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolled
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 65.517241 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 10.344828 %
+
+158 words total

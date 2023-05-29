@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                          6
+    heart bells ring heart bells ring
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out along open out
+PRIMARY:SENSATION:VISION                                         3
+    stars see stars
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time soon
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endlessly
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 81.481481 %
+SECONDARY           : 11.111111 %
+EMOTIONS            : 7.407407 %
+
+102 words total

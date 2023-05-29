@@ -1,0 +1,32 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    11
+    cry cry cry cry cry cry cry cry cry cry cry
+EMOTIONS:AFFECTION                                               9
+    like like like like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when time ever when
+EMOTIONS:SADNESS                                                 3
+    lonely loneliness loneliness
+PRIMARY:SENSATION:ODOR                                           2
+    smell perfume
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calls
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+
+PRIMARY             : 21.052632 %
+SECONDARY           : 18.421053 %
+EMOTIONS            : 60.526316 %
+
+187 words total

@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              16
+    welcome welcome like like welcome welcome welcome welcome welcome welcome welcome welcome welcome welcome welcome welcome
+SECONDARY:RESTRAINT                                              5
+    stop stop must inhibition limit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    afford won make find
+SECONDARY:TEMPORAL REFERENCES                                    4
+    till now time when
+SECONDARY:MORAL IMPERATIVE                                       2
+    shouldn right
+EMOTIONS:GLORY                                                   2
+    exhibition great
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    stimulation
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fantasy
+PRIMARY:SENSATION:VISION                                         1
+    imagine
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deepest
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 20.454545 %
+SECONDARY           : 38.636364 %
+EMOTIONS            : 40.909091 %
+
+203 words total

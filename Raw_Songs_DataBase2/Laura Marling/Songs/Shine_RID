@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        15
+    shine shine shine light shine shine shine shine light shine shine shine shine light shine
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    outside back away outside back away away
+SECONDARY:TEMPORAL REFERENCES                                    4
+    past times every now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    window step step step
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face cheeks eyes
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    asked forgiven
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travelled
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:ABSTRACTION                                            1
+    define
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:GLORY                                                   1
+    wondered
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:MORAL IMPERATIVE                                       1
+    honest
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shouter
+
+PRIMARY             : 72.727273 %
+SECONDARY           : 20.454545 %
+EMOTIONS            : 6.818182 %
+
+155 words total

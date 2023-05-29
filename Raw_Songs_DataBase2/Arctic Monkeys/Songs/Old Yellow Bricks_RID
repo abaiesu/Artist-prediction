@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           12
+    sleep wakes sleep wakes sleep wakes sleep wakes sleep wakes sleep wakes
+SECONDARY:ABSTRACTION                                            8
+    know know deemed know know thought know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    places away away at away
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    risk
+PRIMARY:SENSATION:VISION                                         1
+    looked
+EMOTIONS:AGGRESSION                                              1
+    enraged
+EMOTIONS:GLORY                                                   1
+    emperor
+SECONDARY:RESTRAINT                                              1
+    cage
+PRIMARY:NEED:ORALITY                                             1
+    beer
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revel
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 48.780488 %
+SECONDARY           : 36.585366 %
+EMOTIONS            : 14.634146 %
+
+243 words total

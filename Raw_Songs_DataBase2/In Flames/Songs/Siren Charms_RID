@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    far inside long somewhere behind out somewhere behind out somewhere behind out out out
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    explain follow promise follow follow follow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    reach reach reach reach reach
+PRIMARY:SENSATION:TOUCH                                          5
+    touch touch touch touch touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hand hand hand hand hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    clouds clouds clouds
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time every
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+EMOTIONS:AGGRESSION                                              1
+    killing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dies
+
+PRIMARY             : 69.565217 %
+SECONDARY           : 28.260870 %
+EMOTIONS            : 2.173913 %
+
+167 words total

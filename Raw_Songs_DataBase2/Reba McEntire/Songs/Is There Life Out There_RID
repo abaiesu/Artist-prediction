@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    out out away out out place where back out out out out out
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when now now now today time then again
+SECONDARY:ABSTRACTION                                            8
+    thought sure thought something learned something something something
+SECONDARY:MORAL IMPERATIVE                                       8
+    should should should should should should should should
+EMOTIONS:GLORY                                                   6
+    wonderin wonderin wonderin wonders wonderin wonderin
+EMOTIONS:AFFECTION                                               2
+    married friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:SENSATION:VISION                                         1
+    looks
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 49.019608 %
+EMOTIONS            : 15.686275 %
+
+307 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    out at at point outside point out out out point outside behind close outside
+PRIMARY:SENSATION:VISION                                        11
+    looking view looking view looking looking looking looking view looking looking
+SECONDARY:ABSTRACTION                                           11
+    understanding truth truth truth know interpretation know think think think think
+EMOTIONS:AFFECTION                                               9
+    like like loves like like loves like like loves
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when when when when when when
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    answers asked preacher inquiring
+PRIMARY:SENSATION:SOUND                                          4
+    hear heart heart heart
+EMOTIONS:AGGRESSION                                              4
+    break break wrecking break
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lay lay rest rest
+EMOTIONS:ANXIETY                                                 4
+    afraid afraid afraid afraid
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    belong belong belong
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    lines step walls
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    chest eyes
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 48.809524 %
+SECONDARY           : 30.952381 %
+EMOTIONS            : 20.238095 %
+
+317 words total

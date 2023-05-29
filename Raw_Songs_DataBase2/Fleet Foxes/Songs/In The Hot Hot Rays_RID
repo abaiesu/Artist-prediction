@@ -1,0 +1,38 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                    16
+    heat hot hot hot hot hot hot hot fire heat hot hot hot hot hot hot
+PRIMARY:SENSATION:VISION                                         8
+    rays rays rays rays sees rays rays rays
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    outside out where out back here at
+SECONDARY:ABSTRACTION                                            5
+    know know know know thought
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find make try make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead dead dead
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street sidewalk
+PRIMARY:SENSATION:COLD                                           2
+    children arctic
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old ever
+PRIMARY:SENSATION:SOUND                                          2
+    deaf hears
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+EMOTIONS:POSITIVE AFFECT                                         1
+    enjoying
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 73.684211 %
+SECONDARY           : 19.298246 %
+EMOTIONS            : 7.017544 %
+
+158 words total

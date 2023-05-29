@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    open wide open wide at situation open wide at out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    face face blood heads feet feet body
+EMOTIONS:AGGRESSION                                              5
+    strike wounds wounds cut fight
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    help help helpless help greet
+EMOTIONS:GLORY                                                   4
+    conquest pride pride pride
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart hearts
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    died died died death
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grown hungers
+EMOTIONS:AFFECTION                                               2
+    love friends
+EMOTIONS:ANXIETY                                                 2
+    frantic tremble
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    leap
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    liquidation
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endured
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    perplexion
+PRIMARY:SENSATION:VISION                                         1
+    flashing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ANALITY                                             1
+    soil
+EMOTIONS:SADNESS                                                 1
+    despair
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 58.620690 %
+SECONDARY           : 17.241379 %
+EMOTIONS            : 24.137931 %
+
+214 words total

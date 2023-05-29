@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                        15
+    light see light light light look see light light light light light light light light
+EMOTIONS:AFFECTION                                              13
+    love love kind love love lover love love love love love love love
+EMOTIONS:GLORY                                                  12
+    pride pride pride pride pride pride pride pride pride pride pride pride
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    talking say talking excuse said talking talking said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    claiming make use claiming aim use make
+SECONDARY:ABSTRACTION                                            6
+    sure cause know know think cause
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once time time when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body body head
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfy glad
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at inside
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    watered
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:AGGRESSION                                              1
+    hurting
+
+PRIMARY             : 29.629630 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 37.037037 %
+
+344 words total

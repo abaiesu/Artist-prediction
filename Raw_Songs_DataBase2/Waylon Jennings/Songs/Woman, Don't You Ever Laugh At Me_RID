@@ -1,0 +1,28 @@
+EMOTIONS:POSITIVE AFFECT                                        10
+    laugh laugh laugh laugh joke laugh laugh laugh laugh laugh
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    ask please ask please ask please ask please
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever ever when now past ever ever ever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at inside at at inside at at
+SECONDARY:MORAL IMPERATIVE                                       4
+    should respect right respect
+SECONDARY:ABSTRACTION                                            2
+    guess guess
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make find
+EMOTIONS:GLORY                                                   2
+    pride pride
+EMOTIONS:SADNESS                                                 1
+    misery
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    affects
+
+PRIMARY             : 17.391304 %
+SECONDARY           : 52.173913 %
+EMOTIONS            : 30.434783 %
+
+169 words total

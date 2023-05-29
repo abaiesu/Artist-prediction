@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    towards center away over long away away long
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    shore sea ocean
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    waves wave waves
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time when time
+SECONDARY:ABSTRACTION                                            2
+    know why
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slows slows
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:NEED:ORALITY                                             1
+    grain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+EMOTIONS:AFFECTION                                               1
+    goodbye
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 75.862069 %
+SECONDARY           : 17.241379 %
+EMOTIONS            : 6.896552 %
+
+91 words total

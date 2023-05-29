@@ -1,0 +1,44 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                          11
+    rove rove rove rove rove rove trip rove rove rove rove
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    over over within over far long over over
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    tree tree highland tree tree tree
+SECONDARY:ORDER                                                  6
+    listen constant listen listen listen listen
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    5
+    beneath beneath beneath beneath beneath
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old while time while
+PRIMARY:SENSATION:SOUND                                          4
+    rumbling heard voices hear
+PRIMARY:SENSATION:VISION                                         3
+    looks sunshine bright
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun burn
+EMOTIONS:GLORY                                                   1
+    wonders
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:ABSTRACTION                                            1
+    choose
+PRIMARY:SENSATION:TASTE                                          1
+    source
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    borders
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pitch
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calling
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    yield
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 72.881356 %
+SECONDARY           : 23.728814 %
+EMOTIONS            : 3.389831 %
+
+342 words total

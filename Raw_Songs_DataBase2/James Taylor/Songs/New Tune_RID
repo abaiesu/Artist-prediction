@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    surface away across away inside away behind away
+SECONDARY:ABSTRACTION                                            4
+    something something sure something
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    skin eyes brow
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drifting silence
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamed
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 64.285714 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 7.142857 %
+
+109 words total

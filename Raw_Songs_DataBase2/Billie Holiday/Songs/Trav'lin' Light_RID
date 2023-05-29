@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:VISION                                         5
+    light light light see light
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    travellin travellin travellin travellin
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now today again then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away back
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:AFFECTION                                               1
+    goodbye
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ABSTRACTION                                            1
+    may
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 5.263158 %
+
+64 words total

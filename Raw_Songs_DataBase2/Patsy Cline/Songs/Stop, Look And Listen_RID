@@ -1,0 +1,38 @@
+SECONDARY:RESTRAINT                                             10
+    stop stop stop stop stop stop stop stop stop stop
+PRIMARY:SENSATION:VISION                                        10
+    look look saw look look look look look look look
+SECONDARY:ABSTRACTION                                            9
+    know know cause learned know cause know know cause
+SECONDARY:ORDER                                                  9
+    listen listen listen listen listen listen listen listen listen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long long out long long long long
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now then now then
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    travelin travelin travelin
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell tell
+EMOTIONS:AFFECTION                                               3
+    friend friend friend
+PRIMARY:NEED:SEX                                                 3
+    kissin kissin kissin
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slow slow slow
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 41.428571 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 8.571429 %
+
+288 words total

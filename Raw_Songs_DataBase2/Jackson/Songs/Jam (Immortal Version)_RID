@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:HARD                                           8
+    hard hard hard hard hard hard hard hard
+SECONDARY:ABSTRACTION                                            6
+    problems cause possibilities problems plan cause
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then times then now
+EMOTIONS:AFFECTION                                               4
+    favor love like like
+SECONDARY:RESTRAINT                                              3
+    must must stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work find making
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    asked said told
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out here
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    upper
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    relaxed
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jungle
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:COLD                                           1
+    cooled
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 42.222222 %
+EMOTIONS            : 13.333333 %
+
+364 words total

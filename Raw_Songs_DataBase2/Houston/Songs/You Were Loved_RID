@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              16
+    loved loved loved loved love loved loved loved loved loved loved loved loved loved loved loved
+SECONDARY:ABSTRACTION                                           10
+    know meant something know know meant something know meant something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    place back along back back along back along back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make reach reach find found priceless priceless
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every when when when when when now
+PRIMARY:SENSATION:VISION                                         6
+    star look look look look look
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    gift say gift say say tell
+PRIMARY:SENSATION:TOUCH                                          6
+    touched touched touched touched touched touched
+PRIMARY:SENSATION:SOUND                                          5
+    voices heard heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dream
+EMOTIONS:GLORY                                                   2
+    greatest riches
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    roads road
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:TASTE                                          1
+    sweeter
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+EMOTIONS:ANXIETY                                                 1
+    cares
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 39.759036 %
+SECONDARY           : 37.349398 %
+EMOTIONS            : 22.891566 %
+
+317 words total

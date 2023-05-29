@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         4
+    glistened light bright glistening
+SECONDARY:ABSTRACTION                                            3
+    something reason reason
+SECONDARY:ORDER                                                  2
+    listening listening
+EMOTIONS:AFFECTION                                               2
+    friend friend
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    straight straight
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:SENSATION:SOUND                                          2
+    sound sound
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    diffuse
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reached
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lifting
+EMOTIONS:AGGRESSION                                              1
+    hateful
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 62.962963 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 11.111111 %
+
+126 words total

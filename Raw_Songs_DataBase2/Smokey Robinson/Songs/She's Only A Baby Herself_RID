@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    then now years ago now now now now now now
+SECONDARY:ABSTRACTION                                            6
+    think think cause thinking may knows
+PRIMARY:SENSATION:COLD                                           4
+    child child child child
+EMOTIONS:AFFECTION                                               3
+    love like love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+SECONDARY:RESTRAINT                                              2
+    caught caught
+EMOTIONS:AGGRESSION                                              1
+    stole
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 25.714286 %
+SECONDARY           : 54.285714 %
+EMOTIONS            : 20.000000 %
+
+239 words total

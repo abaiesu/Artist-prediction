@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         5
+    blue saw see peeked seen
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time old weeks
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falls falls
+SECONDARY:ABSTRACTION                                            2
+    knew know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out where
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    thumb
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:AGGRESSION                                              1
+    bother
+
+PRIMARY             : 68.421053 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 5.263158 %
+
+112 words total

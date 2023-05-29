@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    roads roads roads roads roads roads roads roads roads roads
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                          10
+    travelled travelled travelled travelled travelled travelled travelled travelled travelled travelled
+SECONDARY:ABSTRACTION                                            7
+    decide choices cause learn history cause choices
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again when then now again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    try make money sold make
+EMOTIONS:AGGRESSION                                              4
+    enemies jealousy hurt despising
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell said said
+EMOTIONS:AFFECTION                                               3
+    love like like
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chances chances
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    surrounded out
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sang
+EMOTIONS:SADNESS                                                 1
+    grief
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+
+PRIMARY             : 47.540984 %
+SECONDARY           : 36.065574 %
+EMOTIONS            : 16.393443 %
+
+281 words total

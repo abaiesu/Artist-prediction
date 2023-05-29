@@ -1,0 +1,62 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    further where where out out somewhere here south out back back where where away away back
+PRIMARY:SENSATION:VISION                                        14
+    see see seen seen seen seen witnesses shining look light seen seen seen seen
+SECONDARY:TEMPORAL REFERENCES                                   14
+    now then ever ever year when when now everything now ever ever today then
+EMOTIONS:AGGRESSION                                             10
+    whip hated kill murder kill enemy kill broke broke broke
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    find win pay used used buy pay counting won
+EMOTIONS:AFFECTION                                               7
+    like like like like like love like
+SECONDARY:ABSTRACTION                                            7
+    knew may know know cause know know
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please promise met say invite gift
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    game yellow playin game game
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes leg head skinned
+PRIMARY:NEED:ANALITY                                             3
+    shit shit sweat
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly climb mountain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lie died death
+SECONDARY:RESTRAINT                                              3
+    must penalty catch
+PRIMARY:NEED:SEX                                                 2
+    fuck fuck
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drop fellow
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low under
+PRIMARY:NEED:ORALITY                                             2
+    meals meal
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:TOUCH                                          1
+    touchin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    portobello
+EMOTIONS:POSITIVE AFFECT                                         1
+    grindin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pitch
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:GLORY                                                   1
+    rich
+
+PRIMARY             : 47.540984 %
+SECONDARY           : 32.786885 %
+EMOTIONS            : 19.672131 %
+
+565 words total

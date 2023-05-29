@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    tell tell call call call say say call call
+PRIMARY:SENSATION:SOUND                                          9
+    buzz buzz buzz buzz buzz buzz buzz buzz buzz
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away away here over at over at at
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when now when every ever till
+SECONDARY:ABSTRACTION                                            5
+    why why believe thought true
+EMOTIONS:AFFECTION                                               3
+    love love like
+PRIMARY:SENSATION:VISION                                         2
+    saw saw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 46.000000 %
+EMOTIONS            : 6.000000 %
+
+179 words total

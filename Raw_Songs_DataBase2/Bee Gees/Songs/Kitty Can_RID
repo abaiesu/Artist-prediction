@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    pleases pleases pleases pleases treats say pleases pleases pleases pleases
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when now now everyone now
+PRIMARY:SENSATION:VISION                                         4
+    see see see looking
+EMOTIONS:AFFECTION                                               4
+    loves like love love
+SECONDARY:ABSTRACTION                                            2
+    choose choosing
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+EMOTIONS:GLORY                                                   1
+    golden
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dies
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:AGGRESSION                                              1
+    cruel
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    between
+
+PRIMARY             : 21.621622 %
+SECONDARY           : 54.054054 %
+EMOTIONS            : 24.324324 %
+
+151 words total

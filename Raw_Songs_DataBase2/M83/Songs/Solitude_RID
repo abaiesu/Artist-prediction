@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    somewhere back back where where back
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time now
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try try try
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:NEED:ORALITY                                             1
+    drink
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:AFFECTION                                               1
+    friend
+EMOTIONS:AGGRESSION                                              1
+    beat
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 21.739130 %
+
+107 words total

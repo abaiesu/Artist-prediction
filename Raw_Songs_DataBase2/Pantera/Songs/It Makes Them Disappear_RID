@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                              5
+    kill hurt wrath hurts hurt
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time when
+EMOTIONS:SADNESS                                                 2
+    sad sad
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes makes
+SECONDARY:ABSTRACTION                                            2
+    them them
+EMOTIONS:ANXIETY                                                 2
+    fear coward
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step road
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    vein
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drives
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:SENSATION:VISION                                         1
+    view
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+PRIMARY:NEED:SEX                                                 1
+    fuck
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 40.740741 %
+
+129 words total

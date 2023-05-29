@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    close close circle close close circle close close circle
+SECONDARY:ABSTRACTION                                            7
+    theory guess effect effect effect theory guess
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk talk tell talk
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain rain rain
+EMOTIONS:ANXIETY                                                 3
+    worry worry worries
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touch
+EMOTIONS:GLORY                                                   3
+    greatness greatness greatness
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    fantasy fantasy fantasy
+PRIMARY:NEED:ORALITY                                             2
+    dinner dinner
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+
+PRIMARY             : 54.761905 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 16.666667 %
+
+222 words total

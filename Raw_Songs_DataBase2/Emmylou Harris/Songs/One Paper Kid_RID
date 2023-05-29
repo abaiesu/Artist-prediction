@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    again time again time once again past old times now again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    distance where place long where over place where
+PRIMARY:NEED:ORALITY                                             6
+    fast coffee drunk whiskey fast coffee
+PRIMARY:SENSATION:VISION                                         4
+    light green blue see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees growing
+PRIMARY:SENSATION:SOUND                                          2
+    heard hearts
+SECONDARY:MORAL IMPERATIVE                                       2
+    legal legal
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rollin rollin
+EMOTIONS:AFFECTION                                               2
+    loving like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driver
+EMOTIONS:AGGRESSION                                              1
+    broken
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+PRIMARY:SENSATION:TOUCH                                          1
+    itching
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 5.882353 %
+
+212 words total

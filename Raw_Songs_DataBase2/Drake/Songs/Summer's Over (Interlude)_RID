@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told help help help
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+SECONDARY:ORDER                                                  1
+    simple
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:TEMPORAL REFERENCES                                    1
+    already
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 64.285714 %
+EMOTIONS            : 14.285714 %
+
+82 words total

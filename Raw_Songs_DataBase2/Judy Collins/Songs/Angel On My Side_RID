@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    away somewhere where away back side where away back side at away back side side
+SECONDARY:ABSTRACTION                                           11
+    know know thinkin knows why knows know why learned somethin knows
+SECONDARY:RESTRAINT                                              7
+    stopped must must must must must must
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when clocks when past then
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    die driftin weary driftin die driftin
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    tide river sea tide tide
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found sold find reach
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    pleasure said tell sayin
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:COLD                                           3
+    child child child
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line road
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake woke
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    eternity forever
+PRIMARY:SENSATION:VISION                                         2
+    flash lightnin
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    breakin
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 8.333333 %
+
+315 words total

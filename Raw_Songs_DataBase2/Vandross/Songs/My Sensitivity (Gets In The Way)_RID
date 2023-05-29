@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                               7
+    lovin love love love love love lovers
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at out longer off
+SECONDARY:ABSTRACTION                                            4
+    believe sure sure know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    times when when
+SECONDARY:MORAL IMPERATIVE                                       3
+    should right should
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell say say
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make try
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play games
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    sensitivity
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 31.578947 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 26.315789 %
+
+149 words total

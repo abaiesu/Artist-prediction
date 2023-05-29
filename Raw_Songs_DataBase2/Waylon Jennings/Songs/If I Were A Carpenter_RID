@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               9
+    marry love love love love love love love marry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trade find carrying worked
+EMOTIONS:SADNESS                                                 4
+    sorrow lonely sorrow lonely
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    following answer say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    behind place
+SECONDARY:ABSTRACTION                                            1
+    thinker
+PRIMARY:NEED:ORALITY                                             1
+    pots
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:POSITIVE AFFECT                                         1
+    grinding
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:VISION                                         1
+    shining
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 46.666667 %
+
+143 words total

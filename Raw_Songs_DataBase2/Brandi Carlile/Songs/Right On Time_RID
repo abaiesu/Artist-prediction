@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back out out back point where long back
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now time again time when time time
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silent silent silent
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call help
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find carry
+EMOTIONS:AGGRESSION                                              1
+    angry
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 37.837838 %
+SECONDARY           : 56.756757 %
+EMOTIONS            : 5.405405 %
+
+186 words total

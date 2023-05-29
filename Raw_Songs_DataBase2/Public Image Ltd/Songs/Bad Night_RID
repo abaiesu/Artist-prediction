@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                            7
+    think think think think think think guess
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away out long opened out
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say said talk
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    games play
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    foot
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:SENSATION:TOUCH                                          1
+    rubbish
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sometimes
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 9.090909 %
+
+124 words total

@@ -1,0 +1,26 @@
+EMOTIONS:AGGRESSION                                             11
+    enemy broke fights broke enemy fight broke fights broke enemy enemy
+EMOTIONS:AFFECTION                                              10
+    friends married friendship married friendship married friendship married friendship married
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when now then then when when when now now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell influence call say
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    beautiful beautiful beautiful beautiful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    win make makeup
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:NEED:SEX                                                 2
+    kiss kissin
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+PRIMARY:NEED:ORALITY                                             2
+    salt pepper
+
+PRIMARY             : 16.000000 %
+SECONDARY           : 42.000000 %
+EMOTIONS            : 42.000000 %
+
+162 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       46
+    where where where where where where where where where where where where where near near where where where where where where where where at over over over near near where where where where where where where where where where where where where where where where where
+PRIMARY:SENSATION:TOUCH                                         12
+    contacts contacts contacts contacts contacts contacts contacts contacts contacts contacts contacts contacts
+PRIMARY:SENSATION:VISION                                         6
+    lights looking looking looking seen looked
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    feet feet hair hair feet feet
+SECONDARY:ABSTRACTION                                            4
+    real why cause know
+EMOTIONS:AGGRESSION                                              2
+    annoyed hit
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    bought
+PRIMARY:NEED:ORALITY                                             1
+    drink
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 88.888889 %
+SECONDARY           : 6.172840 %
+EMOTIONS            : 4.938272 %
+
+570 words total

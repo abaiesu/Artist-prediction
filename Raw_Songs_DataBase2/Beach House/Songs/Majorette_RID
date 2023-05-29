@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    imitation say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where tip
+SECONDARY:ABSTRACTION                                            2
+    something prove
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spin spin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 18.750000 %
+
+70 words total

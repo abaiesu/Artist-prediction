@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       9
+    line line line line line line line line line
+SECONDARY:ABSTRACTION                                            8
+    knows something think think think think think think
+EMOTIONS:AGGRESSION                                              8
+    murder hurt hurt hate beating hurt hate break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    find make make make make make make
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when time time time time
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    says says said told told
+PRIMARY:SENSATION:VISION                                         4
+    view see see see
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    odds odds secrets secrets
+EMOTIONS:POSITIVE AFFECT                                         3
+    funny entertainment happiness
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    desert desert desert
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    point away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes handsome
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+EMOTIONS:SADNESS                                                 1
+    mourners
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spine
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    chew
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 42.028986 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 18.840580 %
+
+377 words total

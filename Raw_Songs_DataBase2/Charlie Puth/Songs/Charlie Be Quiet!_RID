@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:SOUND                                         13
+    sound noise heart loud sound noise sound noise loud sound noise sound noise
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now now when now now every then now when now now
+EMOTIONS:AFFECTION                                              10
+    love friends love love like like friends love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make making won make make won found make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away out away away over out away away away
+SECONDARY:ABSTRACTION                                            8
+    knows cause knows knows cause knows knows knows
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    quiet quiet quiet quiet quiet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    5
+    lower lower lower lower lower
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    telling telling
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping waking
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+
+PRIMARY             : 50.617284 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 12.345679 %
+
+304 words total

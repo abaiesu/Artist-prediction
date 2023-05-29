@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                          4
+    noise loud music music
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    near where long
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    cozy cozy
+PRIMARY:SENSATION:VISION                                         2
+    lights see
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    records
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:SOFT                                           1
+    feather
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floating
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+
+PRIMARY             : 82.608696 %
+SECONDARY           : 13.043478 %
+EMOTIONS            : 4.347826 %
+
+140 words total

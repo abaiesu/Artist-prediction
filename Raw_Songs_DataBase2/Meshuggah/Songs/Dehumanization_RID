@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    level where at
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death stagnant
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever time
+PRIMARY:SENSATION:SOUND                                          2
+    noises soundtrack
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    communication greeting
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reached
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:SENSATION:VISION                                         1
+    glimpse
+SECONDARY:ABSTRACTION                                            1
+    logic
+EMOTIONS:POSITIVE AFFECT                                         1
+    grinding
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    churning
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unbound
+SECONDARY:ORDER                                                  1
+    form
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasm
+EMOTIONS:GLORY                                                   1
+    sublime
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 13.043478 %
+
+89 words total

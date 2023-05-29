@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say tell tell tell say treat
+PRIMARY:SENSATION:VISION                                         7
+    light green light see see see see
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old once old old now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    along place place long along
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+SECONDARY:ABSTRACTION                                            2
+    real something
+PRIMARY:NEED:ORALITY                                             2
+    eat eat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    business
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 51.428571 %
+EMOTIONS            : 5.714286 %
+
+228 words total

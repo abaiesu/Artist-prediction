@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    please saying please told tell talk talk talk tell
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when every now every when ever when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won won try won won won
+SECONDARY:ABSTRACTION                                            4
+    cause knew feature them
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy wake demented
+EMOTIONS:AFFECTION                                               3
+    friends like darling
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    played game
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    side
+
+PRIMARY             : 13.157895 %
+SECONDARY           : 73.684211 %
+EMOTIONS            : 13.157895 %
+
+278 words total

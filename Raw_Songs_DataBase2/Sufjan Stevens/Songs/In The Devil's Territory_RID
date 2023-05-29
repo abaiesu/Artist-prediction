@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    long long long long at long long at long long long long at
+PRIMARY:SENSATION:VISION                                         9
+    see see saw saw see see see see see
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time time time time time
+EMOTIONS:AGGRESSION                                              3
+    beat stole beat
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet meet
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:SADNESS                                                 1
+    whine
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 62.162162 %
+SECONDARY           : 24.324324 %
+EMOTIONS            : 13.513514 %
+
+109 words total

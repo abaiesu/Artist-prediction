@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               5
+    love love love love friends
+EMOTIONS:AGGRESSION                                              4
+    gun shoot hurt unkind
+SECONDARY:ABSTRACTION                                            3
+    know judge thinking
+SECONDARY:MORAL IMPERATIVE                                       2
+    justice justice
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow dead
+PRIMARY:SENSATION:VISION                                         2
+    blue look
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sometimes
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    ahead
+
+PRIMARY             : 31.818182 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 40.909091 %
+
+108 words total

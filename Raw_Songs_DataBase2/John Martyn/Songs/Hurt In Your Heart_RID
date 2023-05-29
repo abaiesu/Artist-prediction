@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when when when time when when when time every when when when when when when
+EMOTIONS:AGGRESSION                                             14
+    hurt hurt hurt breaking hurt hurt hurt hurt hurt hurt hurt hurt hurt hurt
+PRIMARY:SENSATION:SOUND                                         14
+    heart heart heart heart heart heart heart heart heart heart loud heart heart heart
+EMOTIONS:AFFECTION                                               5
+    darling friend love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call say say call
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+SECONDARY:ABSTRACTION                                            2
+    true know
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    further
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    mend
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sailing
+
+PRIMARY             : 31.147541 %
+SECONDARY           : 37.704918 %
+EMOTIONS            : 31.147541 %
+
+218 words total

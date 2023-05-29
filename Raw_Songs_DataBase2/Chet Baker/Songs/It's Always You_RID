@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    whenever early till whenever often time time
+PRIMARY:SENSATION:VISION                                         4
+    watch star star see
+EMOTIONS:POSITIVE AFFECT                                         4
+    funny funny funny funny
+PRIMARY:SENSATION:SOUND                                          4
+    hear melody hear melody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    wherever near wherever near
+PRIMARY:NEED:SEX                                                 2
+    caresses caresses
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sigh sigh
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    twilight
+EMOTIONS:AGGRESSION                                              1
+    breaks
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 54.285714 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 25.714286 %
+
+140 words total

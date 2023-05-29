@@ -1,0 +1,28 @@
+SECONDARY:RESTRAINT                                              8
+    control prisoner captivity control stop control control prisoner
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out place closing place closing
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now everywhere now now
+EMOTIONS:AGGRESSION                                              3
+    fighting breaking fighting
+SECONDARY:MORAL IMPERATIVE                                       3
+    rights law law
+SECONDARY:ORDER                                                  2
+    system system
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll roll
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 12.500000 %
+
+138 words total

@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:COLD                                           7
+    iced cold ice iced iced ice iced
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart heart heartbreaker heart heart heart
+PRIMARY:NEED:ORALITY                                             6
+    honey honey honey honey pot honey
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out where out long out where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    effort tried make make make
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    sun heat flames flaming melt
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now then hour past
+EMOTIONS:GLORY                                                   4
+    proud wonder wonder wonder
+EMOTIONS:AFFECTION                                               4
+    like love like affection
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:SENSATION:VISION                                         2
+    stars see
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    poured river
+SECONDARY:ABSTRACTION                                            2
+    them choice
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floats
+EMOTIONS:AGGRESSION                                              1
+    violence
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 58.730159 %
+SECONDARY           : 25.396825 %
+EMOTIONS            : 15.873016 %
+
+314 words total

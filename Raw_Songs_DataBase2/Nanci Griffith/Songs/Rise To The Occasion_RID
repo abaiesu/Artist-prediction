@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                               6
+    love love loved love love love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    fall fall fell fall fall
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again occasion now occasion occasion
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rise rise rise
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    higher sky above
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along at
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said invitation
+SECONDARY:ABSTRACTION                                            2
+    know almost
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    intuition
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    cost
+PRIMARY:SENSATION:VISION                                         1
+    view
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 35.897436 %
+EMOTIONS            : 17.948718 %
+
+123 words total

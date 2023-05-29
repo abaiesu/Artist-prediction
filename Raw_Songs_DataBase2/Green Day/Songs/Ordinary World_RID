@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where behind where afar where behind
+PRIMARY:SENSATION:VISION                                         6
+    shining light saw star shining light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    buried buried
+SECONDARY:TEMPORAL REFERENCES                                    1
+    years
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:AGGRESSION                                              1
+    shooting
+
+PRIMARY             : 80.000000 %
+SECONDARY           : 15.000000 %
+EMOTIONS            : 5.000000 %
+
+128 words total

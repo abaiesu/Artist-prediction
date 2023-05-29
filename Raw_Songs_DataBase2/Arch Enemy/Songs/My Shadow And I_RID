@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    off place off away at off off behind
+SECONDARY:ABSTRACTION                                            7
+    know think know know why know know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    drives traveled drives traveled drives traveled
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face face face face face
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    bed bed lay die lie
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile smile smile smile
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time every now while
+EMOTIONS:AGGRESSION                                              3
+    hate kill fighting
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall sink bury
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    shadow shadow shadow
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    bathe swim
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn fire
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         2
+    appear light
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven sky
+EMOTIONS:SADNESS                                                 1
+    sorrow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pick
+PRIMARY:NEED:ORALITY                                             1
+    entrails
+PRIMARY:SENSATION:HARD                                           1
+    nails
+EMOTIONS:AFFECTION                                               1
+    embrace
+PRIMARY:NEED:ANALITY                                             1
+    disgusts
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 20.588235 %
+EMOTIONS            : 14.705882 %
+
+229 words total

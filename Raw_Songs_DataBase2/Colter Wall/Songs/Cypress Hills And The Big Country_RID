@@ -1,0 +1,38 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    9
+    under below underneath underneath bottom below underneath underneath bottom
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back where at far south where where west
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    slopes hills trees hills hills hills
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old old time time when
+PRIMARY:SENSATION:VISION                                         4
+    see blue see blue
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:NEED:ORALITY                                             2
+    pears beer
+SECONDARY:ABSTRACTION                                            2
+    idea why
+EMOTIONS:ANXIETY                                                 2
+    troubles troubles
+PRIMARY:SENSATION:TOUCH                                          1
+    brush
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+
+PRIMARY             : 70.833333 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 12.500000 %
+
+188 words total

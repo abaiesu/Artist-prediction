@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    space close away back away long
+PRIMARY:SENSATION:VISION                                         3
+    light vision light
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once now time
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    drifted idle lies
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire burning flame
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:SENSATION:TOUCH                                          2
+    contact contact
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+EMOTIONS:AFFECTION                                               1
+    loved
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+SECONDARY:RESTRAINT                                              1
+    refusing
+PRIMARY:NEED:ORALITY                                             1
+    feed
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    void
+
+PRIMARY             : 67.647059 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 8.823529 %
+
+127 words total

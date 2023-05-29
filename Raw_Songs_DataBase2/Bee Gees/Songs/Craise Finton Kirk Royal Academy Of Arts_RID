@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                            8
+    sure planned know something know think know know
+PRIMARY:SENSATION:VISION                                         8
+    light see see see see looks see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    far where where place where where
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    chin hand hair
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find makes find
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    growing grow
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk talks
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+PRIMARY:SENSATION:TOUCH                                          1
+    rubbed
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    odd
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:ANXIETY                                                 1
+    worrying
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 60.465116 %
+SECONDARY           : 32.558140 %
+EMOTIONS            : 6.976744 %
+
+227 words total

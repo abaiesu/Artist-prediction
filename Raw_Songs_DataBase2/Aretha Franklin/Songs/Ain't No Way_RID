@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won won won trying paid won won
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    help say say please please please tell
+EMOTIONS:AFFECTION                                               5
+    love love love like love
+SECONDARY:ABSTRACTION                                            4
+    know planned know sure
+SECONDARY:MORAL IMPERATIVE                                       1
+    duty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AGGRESSION                                              1
+    cruel
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+
+PRIMARY             : 6.896552 %
+SECONDARY           : 72.413793 %
+EMOTIONS            : 20.689655 %
+
+254 words total

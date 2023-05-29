@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time when years now when now years
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    pay working money lesson use found
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said say pleading help helping
+SECONDARY:ABSTRACTION                                            4
+    know understand learned know
+SECONDARY:MORAL IMPERATIVE                                       2
+    morally moral
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heap
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:AGGRESSION                                              1
+    stealing
+
+PRIMARY             : 16.129032 %
+SECONDARY           : 80.645161 %
+EMOTIONS            : 3.225806 %
+
+154 words total

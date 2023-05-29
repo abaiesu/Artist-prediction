@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    extend east at
+PRIMARY:NEED:ORALITY                                             3
+    lips bread throat
+EMOTIONS:AFFECTION                                               3
+    loving love love
+EMOTIONS:AGGRESSION                                              2
+    violent fighting
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say gifting
+PRIMARY:SENSATION:VISION                                         2
+    glowing blue
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    soars
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hours
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:ANXIETY                                                 1
+    nervous
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 11.538462 %
+EMOTIONS            : 30.769231 %
+
+96 words total

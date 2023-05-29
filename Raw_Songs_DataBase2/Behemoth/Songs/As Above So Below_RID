@@ -1,0 +1,56 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when sometimes sometimes sometimes sometimes when seasons now time
+PRIMARY:SENSATION:VISION                                         4
+    seen look looking stars
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here among among rears
+SECONDARY:ABSTRACTION                                            3
+    why why thoughts
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange secret
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silent death
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows fading
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing art
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    root below
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees above
+EMOTIONS:SADNESS                                                 2
+    sadness sorrowful
+EMOTIONS:AGGRESSION                                              2
+    hatred rage
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    taught protect
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    eternal eternal
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:ORDER                                                  1
+    forms
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    rapture
+SECONDARY:RESTRAINT                                              1
+    limit
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:SENSATION:SOUND                                          1
+    hums
+EMOTIONS:POSITIVE AFFECT                                         1
+    joyful
+
+PRIMARY             : 50.980392 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 15.686275 %
+
+131 words total

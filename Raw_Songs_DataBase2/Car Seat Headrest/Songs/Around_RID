@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    told said said talk help
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    vein head blood blood
+SECONDARY:ABSTRACTION                                            4
+    know know why cause
+EMOTIONS:AFFECTION                                               4
+    love love like love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when old time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back straight open
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets floor
+EMOTIONS:AGGRESSION                                              2
+    hurt wound
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wakes sleep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+PRIMARY:NEED:SEX                                                 1
+    naked
+EMOTIONS:ANXIETY                                                 1
+    shy
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 42.424242 %
+EMOTIONS            : 21.212121 %
+
+147 words total

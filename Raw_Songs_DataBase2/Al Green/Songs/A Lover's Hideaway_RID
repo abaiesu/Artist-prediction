@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where where place where where where place back
+EMOTIONS:AFFECTION                                               5
+    lover lover lover love lover
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell share tell call say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now everybody now
+EMOTIONS:SADNESS                                                 2
+    pain pain
+EMOTIONS:AGGRESSION                                              2
+    hate blame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:SENSATION:COLD                                           2
+    children children
+SECONDARY:RESTRAINT                                              1
+    reigns
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 27.272727 %
+
+171 words total

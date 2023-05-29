@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where out back out where out
+EMOTIONS:AGGRESSION                                              6
+    break tore hate tore break tore
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time once everything everything once
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    mountain mountain mountain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find won
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+EMOTIONS:ANXIETY                                                 1
+    fearless
+SECONDARY:ABSTRACTION                                            1
+    truth
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 29.629630 %
+
+117 words total

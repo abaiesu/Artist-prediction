@@ -1,0 +1,36 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    16
+    play play dance sing dance sing play dance dance play play playing dance dance play play
+SECONDARY:TEMPORAL REFERENCES                                   10
+    every now now time everythings while now everythings everybodys now
+SECONDARY:ABSTRACTION                                            5
+    true know sure know real
+PRIMARY:SENSATION:VISION                                         5
+    blue bluesy bluesy bluesy bluesy
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    calling tell calling calling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long long behind
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    shore shore
+EMOTIONS:SADNESS                                                 2
+    wail wail
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 24.561404 %
+SECONDARY           : 38.596491 %
+EMOTIONS            : 36.842105 %
+
+238 words total

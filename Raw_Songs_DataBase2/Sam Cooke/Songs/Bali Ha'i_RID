@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away away here where here where here
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call call meets meets
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try find try find
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    sea sea sea
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hillside sky sky
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+SECONDARY:ABSTRACTION                                            1
+    may
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:VISION                                         1
+    shine
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 0.000000 %
+
+131 words total

@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here place space between behind here
+SECONDARY:TEMPORAL REFERENCES                                    3
+    already sometimes sometimes
+SECONDARY:ABSTRACTION                                            3
+    cause know think
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell call call
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sell buyin
+EMOTIONS:ANXIETY                                                 2
+    fear scared
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    gutter
+PRIMARY:NEED:ORALITY                                             1
+    corner
+
+PRIMARY             : 45.833333 %
+SECONDARY           : 45.833333 %
+EMOTIONS            : 8.333333 %
+
+191 words total

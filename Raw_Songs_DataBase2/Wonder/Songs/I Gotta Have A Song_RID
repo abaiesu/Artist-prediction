@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:SOUND                                          9
+    music music music music music music music music music
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    place here where where where where where where
+EMOTIONS:POSITIVE AFFECT                                         7
+    happy happy happy happy happy happy happy
+SECONDARY:TEMPORAL REFERENCES                                    3
+    yesterday today now
+PRIMARY:SENSATION:VISION                                         2
+    blue see
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:NEED:ORALITY                                             1
+    cook
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 62.857143 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 22.857143 %
+
+170 words total

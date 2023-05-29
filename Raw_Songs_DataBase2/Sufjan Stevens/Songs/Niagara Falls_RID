@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    farther far behind
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top top
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    lake fountain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falls fall
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asked
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 82.352941 %
+SECONDARY           : 11.764706 %
+EMOTIONS            : 5.882353 %
+
+75 words total

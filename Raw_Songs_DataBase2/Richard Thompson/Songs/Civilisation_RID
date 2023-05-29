@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where here here across long long out across off across
+PRIMARY:NEED:ORALITY                                             6
+    eat food milk eat drinking vegetable
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    belong sold sold working job
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    hypnotized dreams hypnotized sleeping
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    handful headful handful handshake
+SECONDARY:ABSTRACTION                                            3
+    know planet thinking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    tranquilized dying
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy laughing
+EMOTIONS:AGGRESSION                                              1
+    beat
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:TOUCH                                          1
+    rubber
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+EMOTIONS:SADNESS                                                 1
+    weeping
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 11.111111 %
+
+232 words total

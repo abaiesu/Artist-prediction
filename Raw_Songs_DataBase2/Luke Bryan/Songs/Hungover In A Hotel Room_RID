@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    out somewhere back back out off back back at back back out off back front out out off back
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    call say call call say call call call request
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   8
+    hungover hungover hungover balcony hungover hungover hungover hungover
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    pick spent making pick spent making spent making
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   8
+    hang hang throwing hang hang throwing hang throwing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    door floor door floor door floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    dead bed lay lay lay
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    dream wake waking waking waking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    bloody head body body body
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    burn sparks burn sparks sparks
+PRIMARY:SENSATION:VISION                                         5
+    lights light look lights lights
+EMOTIONS:AGGRESSION                                              4
+    breakfast killing killing killing
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when then when then
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    falling slide falling falling
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    low low low
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancing dancing dancing
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:SENSATION:SOUND                                          2
+    hear voice
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    curtains shadows
+PRIMARY:NEED:ORALITY                                             1
+    whiskey
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    stirring
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 71.052632 %
+SECONDARY           : 19.298246 %
+EMOTIONS            : 9.649123 %
+
+364 words total

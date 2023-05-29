@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        16
+    see see see see see see see see see see see see star star light light
+PRIMARY:SENSATION:SOUND                                          7
+    hear hear ringing hear hear voice voice
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said said said said say say
+PRIMARY:SENSATION:COLD                                           6
+    child child shivers cold child child
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    sky sky high above tree
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+EMOTIONS:GLORY                                                   3
+    palace gold gold
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everywhere everywhere now
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea sea
+SECONDARY:ORDER                                                  2
+    listen listen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 7.017544 %
+
+224 words total

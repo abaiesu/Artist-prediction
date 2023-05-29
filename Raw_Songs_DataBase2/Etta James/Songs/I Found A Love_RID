@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now now now now now now minute hours ever now now now
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    tell call help say talks tell help call help
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    found found found found found found found make
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:ABSTRACTION                                            2
+    believe believe
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:RESTRAINT                                              1
+    resist
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+
+PRIMARY             : 15.217391 %
+SECONDARY           : 76.086957 %
+EMOTIONS            : 8.695652 %
+
+190 words total

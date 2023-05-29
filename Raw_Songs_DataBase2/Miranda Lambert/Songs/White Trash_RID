@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    closet somewhere off closet somewhere off closet somewhere off off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    traded picket money money
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now every old old
+SECONDARY:ABSTRACTION                                            4
+    know real know know
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    buried buried buried
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    trailer gate
+PRIMARY:SENSATION:VISION                                         2
+    lights lights
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water water
+EMOTIONS:GLORY                                                   1
+    castle
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:ORDER                                                  1
+    class
+PRIMARY:NEED:ORALITY                                             1
+    whiskey
+SECONDARY:RESTRAINT                                              1
+    block
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:SENSATION:HARD                                           1
+    hardware
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    roots
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 56.818182 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 6.818182 %
+
+327 words total

@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    social call tell said tell said
+SECONDARY:MORAL IMPERATIVE                                       5
+    law law proper law law
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:AGGRESSION                                              1
+    broker
+SECONDARY:ORDER                                                  1
+    simply
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:NEED:ORALITY                                             1
+    tea
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+
+PRIMARY             : 16.666667 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 20.833333 %
+
+137 words total

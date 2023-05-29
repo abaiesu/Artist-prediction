@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    explain tell tell say tell say tell tell explain tell tell tell
+EMOTIONS:AFFECTION                                              10
+    friends dear friends dear dear dear friends dear friends dear
+SECONDARY:ABSTRACTION                                            7
+    reason know why may them reason know
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart ring heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    apart inside back back apart
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when then soon soon
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strangers stranger
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    played game
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+
+PRIMARY             : 28.301887 %
+SECONDARY           : 47.169811 %
+EMOTIONS            : 24.528302 %
+
+157 words total

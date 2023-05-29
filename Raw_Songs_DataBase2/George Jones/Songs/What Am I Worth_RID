@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            9
+    know thought learned know why sure feature know why
+EMOTIONS:GLORY                                                   6
+    golden great great fame great great
+EMOTIONS:AFFECTION                                               4
+    loved like darling darling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here over place here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find won find won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:AGGRESSION                                              1
+    blamed
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    hall
+
+PRIMARY             : 24.324324 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 35.135135 %
+
+262 words total

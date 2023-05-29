@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:HARD                                           7
+    rock rock rock rock rock rock rock
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time now time time times times now
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        5
+    mister mister mister mister mister
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hands hands hands hands
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell promised tell
+EMOTIONS:AGGRESSION                                              2
+    axe axe
+EMOTIONS:POSITIVE AFFECT                                         2
+    grind grind
+SECONDARY:RESTRAINT                                              2
+    bound bound
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    toil belong
+EMOTIONS:ANXIETY                                                 1
+    worries
+SECONDARY:ABSTRACTION                                            1
+    plans
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 14.285714 %
+
+205 words total

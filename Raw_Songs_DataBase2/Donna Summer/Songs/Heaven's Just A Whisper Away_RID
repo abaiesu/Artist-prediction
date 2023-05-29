@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:SOUND                                          6
+    heart sounds music hear melody heard
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    explain ask please calling please share
+SECONDARY:ABSTRACTION                                            5
+    sure tender almost cause true
+SECONDARY:TEMPORAL REFERENCES                                    4
+    tonight ever when time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away over closer out
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    wake dreaming dreams
+PRIMARY:SENSATION:VISION                                         2
+    watching pictures
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    raindrops rainbow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slowly silence
+PRIMARY:SENSATION:SOFT                                           2
+    whisper soft
+SECONDARY:RESTRAINT                                              2
+    stop control
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:SADNESS                                                 1
+    painting
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+
+PRIMARY             : 53.061224 %
+SECONDARY           : 36.734694 %
+EMOTIONS            : 10.204082 %
+
+165 words total

@@ -1,0 +1,44 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    cost paying makes makes makes find
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then now when when when
+SECONDARY:ABSTRACTION                                            5
+    know know belief know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away away place where
+EMOTIONS:AFFECTION                                               3
+    love appreciate appreciate
+EMOTIONS:AGGRESSION                                              3
+    hurt blame unkind
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    playing sing play
+SECONDARY:RESTRAINT                                              2
+    lock lock
+PRIMARY:SENSATION:VISION                                         2
+    grey grey
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolling twisted
+EMOTIONS:SADNESS                                                 2
+    pain grief
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:ANXIETY                                                 1
+    fears
+
+PRIMARY             : 28.888889 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 26.666667 %
+
+205 words total

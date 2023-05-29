@@ -1,0 +1,56 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when time time during hour when time every every again when hours time during hour
+PRIMARY:SENSATION:SOUND                                         11
+    noise louder louder sounded loud hear music noise louder louder sounded
+SECONDARY:ABSTRACTION                                            9
+    thought think think think think think think think think
+EMOTIONS:AFFECTION                                               8
+    love like like friends loved loved like like
+EMOTIONS:POSITIVE AFFECT                                         8
+    happy happy joyous happy happy happy joke happy
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    beach sea ocean beach river stream swimming
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    call visited says call remind call speaker
+EMOTIONS:GLORY                                                   5
+    rich rich gold rich rich
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    above sky taller trees
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under under underneath
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet arms head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back off here
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    vista avenue
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed safe
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive driving
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    bought
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ignition
+SECONDARY:RESTRAINT                                              1
+    blocks
+PRIMARY:NEED:ANALITY                                             1
+    sweater
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 34.343434 %
+EMOTIONS            : 21.212121 %
+
+369 words total

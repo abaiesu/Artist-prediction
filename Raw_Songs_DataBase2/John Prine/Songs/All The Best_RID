@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              16
+    love like love like like like love like love love love love love love love love
+SECONDARY:ABSTRACTION                                           12
+    guess cause probably know guess guess knew knew knew knew something guess
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever once when till then
+EMOTIONS:POSITIVE AFFECT                                         4
+    happiness happiness happiness happiness
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    drive drive drive
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    decays dies
+SECONDARY:RESTRAINT                                              1
+    block
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:SENSATION:COLD                                           1
+    snowmen
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+EMOTIONS:AGGRESSION                                              1
+    hate
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:NEED:ANALITY                                             1
+    mess
+
+PRIMARY             : 24.561404 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 38.596491 %
+
+220 words total

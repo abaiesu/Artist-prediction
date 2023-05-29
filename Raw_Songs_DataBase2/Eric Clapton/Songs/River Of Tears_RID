@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   10
+    river river river river river river river river river river
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away where long where out away back here long
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today hours years year now time time again
+SECONDARY:RESTRAINT                                              3
+    bar catch must
+SECONDARY:ABSTRACTION                                            3
+    know knows thinking
+EMOTIONS:AFFECTION                                               3
+    like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carry find
+EMOTIONS:SADNESS                                                 2
+    lonely pain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 35.555556 %
+EMOTIONS            : 11.111111 %
+
+224 words total

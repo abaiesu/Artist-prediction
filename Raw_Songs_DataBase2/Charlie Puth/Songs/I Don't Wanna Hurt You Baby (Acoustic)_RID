@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                             19
+    hurt broken hurt hurt hurt hurt broken hurt hurt hurt hurt hurt hurt hurt hurt hurt hurt hurt hurt
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said say explain please say told
+SECONDARY:ABSTRACTION                                            6
+    caused why believe cause cause caused
+SECONDARY:TEMPORAL REFERENCES                                    5
+    months now again again when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over off back at
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    playin games playin games
+EMOTIONS:AFFECTION                                               3
+    friends love like
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:SADNESS                                                 2
+    pain pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try makes
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyein
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 33.928571 %
+EMOTIONS            : 51.785714 %
+
+397 words total

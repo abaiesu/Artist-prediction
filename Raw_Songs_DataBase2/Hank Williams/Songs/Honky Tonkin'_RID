@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    place along round out out round round
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when then
+PRIMARY:NEED:ORALITY                                             3
+    honey honey honey
+EMOTIONS:SADNESS                                                 2
+    sad lonely
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    steppin
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 65.217391 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 8.695652 %
+
+125 words total

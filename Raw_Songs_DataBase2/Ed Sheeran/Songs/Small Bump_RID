@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         16
+    hair eyes body hands eyes thumb thumb skin chin eyelids eyes thumb thumb feet thumb thumb
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    open inside round round closed opened wide open inside round round front round round
+SECONDARY:TEMPORAL REFERENCES                                    9
+    months now months soon months when weeks months then
+SECONDARY:ABSTRACTION                                            6
+    plans truth truth cause cause why
+PRIMARY:NEED:ORALITY                                             2
+    grain rice
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie safe
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:SENSATION:VISION                                         1
+    scan
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    torn
+
+PRIMARY             : 67.796610 %
+SECONDARY           : 27.118644 %
+EMOTIONS            : 5.084746 %
+
+359 words total

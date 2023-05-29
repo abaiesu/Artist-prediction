@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    over overgrown long long overgrown long long overgrown long long
+PRIMARY:SENSATION:TASTE                                          8
+    bitter tangerine sweetest sweetest sweetest sweetest sweetest sweetest
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time time seasons seasons time
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hair
+SECONDARY:ABSTRACTION                                            2
+    thinking think
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:NEED:ORALITY                                             2
+    mouth pear
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speak shared
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring spring
+PRIMARY:SENSATION:VISION                                         1
+    watching
+PRIMARY:SENSATION:COLD                                           1
+    chill
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+EMOTIONS:AGGRESSION                                              1
+    jealous
+
+PRIMARY             : 69.767442 %
+SECONDARY           : 23.255814 %
+EMOTIONS            : 6.976744 %
+
+220 words total

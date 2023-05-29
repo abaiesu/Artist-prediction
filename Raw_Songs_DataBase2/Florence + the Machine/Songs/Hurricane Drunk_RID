@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    away out at away out at at over out out out out out out out out
+SECONDARY:ABSTRACTION                                           12
+    cause know think cause cause know think cause cause know cause know
+PRIMARY:SENSATION:VISION                                         7
+    see see see look look see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    death calm death dead death death
+PRIMARY:NEED:ORALITY                                             4
+    drink drink drink drink
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            4
+    crowd crowd crowd crowd
+EMOTIONS:AGGRESSION                                              4
+    hurt hurt hurt hurt
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when then
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    protected shelter
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 63.235294 %
+SECONDARY           : 27.941176 %
+EMOTIONS            : 8.823529 %
+
+306 words total

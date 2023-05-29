@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out back out back out back
+SECONDARY:ABSTRACTION                                            4
+    why know problems reason
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    wandering wandering wandering
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now everything now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    admit say
+PRIMARY:NEED:ORALITY                                             1
+    fed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:ANALITY                                             1
+    pissed
+EMOTIONS:AGGRESSION                                              1
+    hate
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+SECONDARY:MORAL IMPERATIVE                                       1
+    conscience
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 6.896552 %
+
+193 words total

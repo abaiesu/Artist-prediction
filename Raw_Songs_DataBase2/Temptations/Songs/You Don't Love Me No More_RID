@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              20
+    love love love love love love love farewell dear love love love love love love love love love love love
+PRIMARY:SENSATION:VISION                                        11
+    see look see see see see see see see see see
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once once now once once when
+SECONDARY:ABSTRACTION                                            5
+    tender compare truth think truth
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    shared said share say tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face eyes eye eye eye
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far away longer place
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+EMOTIONS:POSITIVE AFFECT                                         1
+    joyous
+PRIMARY:NEED:ANALITY                                             1
+    shattered
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    driftin
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 31.818182 %
+
+252 words total

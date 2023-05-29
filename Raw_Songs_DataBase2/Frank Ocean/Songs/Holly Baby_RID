@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    call call meet call met told talked said call call meet call
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when then when when then
+EMOTIONS:AFFECTION                                               5
+    love love love like love
+SECONDARY:ABSTRACTION                                            5
+    why why them why them
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    crazy crazy crazy crazy crazy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    far away southern far away
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    drive drive drive drive
+PRIMARY:SENSATION:SOUND                                          3
+    heard hearts hearts
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    brain
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rains
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 46.000000 %
+EMOTIONS            : 14.000000 %
+
+204 words total

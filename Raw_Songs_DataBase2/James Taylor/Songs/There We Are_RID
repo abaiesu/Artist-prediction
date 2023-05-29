@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where somewhere at space out middle here out here
+PRIMARY:SENSATION:VISION                                         7
+    shining blue twinkling lights shining stars shine
+EMOTIONS:AFFECTION                                               7
+    love love love darling love love like
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk tell tell speaking told say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time till time while
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand hand face hand
+SECONDARY:ABSTRACTION                                            3
+    know know something
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sparks burning
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:GLORY                                                   1
+    glory
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drifting
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:SENSATION:COLD                                           1
+    children
+
+PRIMARY             : 57.627119 %
+SECONDARY           : 25.423729 %
+EMOTIONS            : 16.949153 %
+
+215 words total

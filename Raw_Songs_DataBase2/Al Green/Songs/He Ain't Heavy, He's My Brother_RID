@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long where where at long long at
+SECONDARY:ABSTRACTION                                            5
+    knows knows know why weigh
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then everyone while
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carry burden
+EMOTIONS:SADNESS                                                 1
+    sadness
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    gladness
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 45.833333 %
+EMOTIONS            : 12.500000 %
+
+152 words total

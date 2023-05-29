@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when time everything every every
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes blood body blood
+EMOTIONS:AGGRESSION                                              4
+    destroys stole broken betray
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    follow promise spoken promise
+PRIMARY:SENSATION:VISION                                         2
+    light see
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    perception sensation
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+SECONDARY:ABSTRACTION                                            1
+    believe
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    unclear
+
+PRIMARY             : 53.125000 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 15.625000 %
+
+136 words total

@@ -1,0 +1,56 @@
+PRIMARY:SENSATION:SOUND                                          4
+    hearth heart sonorous heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out here among among
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    awake awaken dream sleeping
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    blood blood flesh
+EMOTIONS:SADNESS                                                 3
+    painfully mourning sorrows
+PRIMARY:SENSATION:TOUCH                                          3
+    touches touch touches
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time past
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    shadow curtains veil
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death death
+PRIMARY:SENSATION:VISION                                         2
+    saw see
+EMOTIONS:AGGRESSION                                              2
+    torn break
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    dawn rise
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    underworld depths
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find priceless
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    pyramids
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    descend
+SECONDARY:ABSTRACTION                                            1
+    thought
+EMOTIONS:GLORY                                                   1
+    kingdoms
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    labyrinth
+SECONDARY:ORDER                                                  1
+    form
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    called
+EMOTIONS:POSITIVE AFFECT                                         1
+    delight
+
+PRIMARY             : 68.000000 %
+SECONDARY           : 16.000000 %
+EMOTIONS            : 16.000000 %
+
+196 words total

@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    when then then then when when when when when once time when when when once when
+PRIMARY:SENSATION:ODOR                                           9
+    breathe breathes breathes breathes breathes breathe breathes breathes breathes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here place where
+SECONDARY:ABSTRACTION                                            3
+    know thinks thinks
+PRIMARY:SENSATION:VISION                                         2
+    see imagines
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow shadow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow heaven
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:SENSATION:HARD                                           1
+    steel
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:NEED:ORALITY                                             1
+    poison
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamed
+EMOTIONS:SADNESS                                                 1
+    sad
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 2.222222 %
+
+119 words total

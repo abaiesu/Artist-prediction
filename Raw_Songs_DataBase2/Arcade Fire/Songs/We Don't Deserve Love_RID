@@ -1,0 +1,50 @@
+EMOTIONS:AFFECTION                                              18
+    love love love love love love love love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                   15
+    tonight tonight hour hour every when tonight hour hour every when hour hour every when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    where at behind at at away away out out off away away
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    talk say please talk met said met say met say tell
+PRIMARY:SENSATION:VISION                                         8
+    watch see watch see looking see looking looking
+SECONDARY:ABSTRACTION                                            6
+    cause cause knows cause figure figured
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    trees trees tower trees tower tower
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    burn ashes burn ashes burn ashes
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    roll roll roll roll
+PRIMARY:SENSATION:HARD                                           4
+    stone stone stone stone
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+EMOTIONS:AGGRESSION                                              3
+    wreckage wreckage wreckage
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    screaming shouting screaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driving driving
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:RESTRAINT                                              1
+    bars
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 46.086957 %
+SECONDARY           : 29.565217 %
+EMOTIONS            : 24.347826 %
+
+484 words total

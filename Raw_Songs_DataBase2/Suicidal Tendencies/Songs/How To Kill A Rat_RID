@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             11
+    kill kill kill shoot kill kill exterminator ambush exterminator kill kill
+PRIMARY:NEED:ORALITY                                             7
+    poison cheese eat poison eat poison poison
+SECONDARY:ABSTRACTION                                            5
+    think may something something think
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever then quick till
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say please call call
+EMOTIONS:AFFECTION                                               3
+    likes likes like
+PRIMARY:SENSATION:ODOR                                           2
+    smell smell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here here
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:SENSATION:SOFT                                           1
+    fluffy
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:NEED:ANALITY                                             1
+    mess
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+
+PRIMARY             : 36.734694 %
+SECONDARY           : 32.653061 %
+EMOTIONS            : 30.612245 %
+
+289 words total

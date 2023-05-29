@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    here away here here away away away inside away here here away away over close away here here away away
+SECONDARY:ABSTRACTION                                           11
+    know know cause cause think know cause know sure know cause
+SECONDARY:TEMPORAL REFERENCES                                   10
+    once again tonight seasons every time tonight while time tonight
+EMOTIONS:AFFECTION                                              10
+    like like like like love like like like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    find find make find find make try find find make
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say talk say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    play cry play playing play
+SECONDARY:MORAL IMPERATIVE                                       4
+    should right right right
+EMOTIONS:AGGRESSION                                              3
+    cuts knife broke
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay silence
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road door
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rivers
+
+PRIMARY             : 31.395349 %
+SECONDARY           : 46.511628 %
+EMOTIONS            : 22.093023 %
+
+373 words total

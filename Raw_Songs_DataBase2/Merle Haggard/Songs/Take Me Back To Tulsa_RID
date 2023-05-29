@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    where away back back back back back back over back back back back
+EMOTIONS:AFFECTION                                              10
+    marry marry marry marry marry marry marry marry marry marry
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    called talk talk talk talk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes makes money
+PRIMARY:NEED:ORALITY                                             2
+    sucks honey
+EMOTIONS:GLORY                                                   2
+    rich great
+EMOTIONS:AGGRESSION                                              1
+    stole
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:TASTE                                          1
+    sour
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hour
+
+PRIMARY             : 44.186047 %
+SECONDARY           : 20.930233 %
+EMOTIONS            : 34.883721 %
+
+194 words total

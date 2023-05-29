@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:COLD                                          21
+    snow snow snow snow snow snow snow snow snow snow snow snow snow snow snow snow snow snow snow snow snow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    make make make make make won find make make make make
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    help gift gift said gift gift please please gift
+SECONDARY:ABSTRACTION                                            8
+    know cause somethin plan somethin know believe somethin
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while year year clock year
+EMOTIONS:AFFECTION                                               4
+    dear love kinda dear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away away away here
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rain rain rain rain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    fireplace sunny fireplace fireplace
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms arms arms
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flyin flight
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 51.282051 %
+SECONDARY           : 43.589744 %
+EMOTIONS            : 5.128205 %
+
+357 words total

@@ -1,0 +1,54 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    year time when when time time now tonight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes hands hands head hands
+PRIMARY:SENSATION:VISION                                         4
+    see saw flash saw
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    backseat long backseat long
+SECONDARY:ABSTRACTION                                            4
+    knew cause know cause
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    road road road road
+PRIMARY:SENSATION:HARD                                           3
+    hard glass rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chance chance chance
+PRIMARY:SENSATION:COLD                                           2
+    snow colder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cried
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drivin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinnin
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepin
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 60.377358 %
+SECONDARY           : 30.188679 %
+EMOTIONS            : 9.433962 %
+
+307 words total

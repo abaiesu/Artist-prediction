@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    while months when time months when
+PRIMARY:SENSATION:VISION                                         6
+    looked see looked see see looked
+EMOTIONS:AFFECTION                                               4
+    love sympathy loved love
+PRIMARY:NEED:ORALITY                                             3
+    breast stomach drunk
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand chest eyes
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    rescued called said
+SECONDARY:ABSTRACTION                                            3
+    know truth truth
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at back
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow yellow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparks
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 48.648649 %
+SECONDARY           : 32.432432 %
+EMOTIONS            : 18.918919 %
+
+172 words total

@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              12
+    like like like like like like like like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    side within side
+SECONDARY:ABSTRACTION                                            2
+    true know
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share protect
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    winning
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamed
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ago
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 37.931034 %
+SECONDARY           : 20.689655 %
+EMOTIONS            : 41.379310 %
+
+173 words total

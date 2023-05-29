@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                               7
+    love like love love like like love
+SECONDARY:ABSTRACTION                                            7
+    reasons why real know real reasons why
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ancient once again soon now when
+PRIMARY:SENSATION:VISION                                         5
+    looking stars blues shiny light
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    says said says tell
+PRIMARY:SENSATION:SOUND                                          4
+    heart hear pealing bells
+PRIMARY:SENSATION:COLD                                           2
+    child child
+EMOTIONS:AGGRESSION                                              2
+    injury breaking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at away
+PRIMARY:SENSATION:SOFT                                           1
+    lace
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:GLORY                                                   1
+    conquered
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    counting
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:RESTRAINT                                              1
+    bound
+EMOTIONS:ANXIETY                                                 1
+    scared
+
+PRIMARY             : 36.000000 %
+SECONDARY           : 38.000000 %
+EMOTIONS            : 26.000000 %
+
+189 words total

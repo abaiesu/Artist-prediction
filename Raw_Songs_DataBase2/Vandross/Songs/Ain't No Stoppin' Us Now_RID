@@ -1,0 +1,32 @@
+SECONDARY:RESTRAINT                                             30
+    stoppin stoppin refuse stoppin stoppin stoppin stoppin shut refuse stoppin stop stop stoppin stoppin stoppin stop stop stop stop stop stop stop stop stoppin stop stop stoppin stop stop stoppin
+SECONDARY:TEMPORAL REFERENCES                                   26
+    now now now now now ever ago every every now now now now ever every every now now now now now now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    say say said tell ask say say please please please please please please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    won won won make make make make make make
+SECONDARY:ABSTRACTION                                            8
+    know know know know know them know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here out long long back back out
+SECONDARY:ORDER                                                  4
+    listen listen listen listen
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:SENSATION:VISION                                         3
+    looks look see
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+PRIMARY:SENSATION:TASTE                                          1
+    spice
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 12.037037 %
+SECONDARY           : 87.037037 %
+EMOTIONS            : 0.925926 %
+
+665 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back place place back place place
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever every then years years
+SECONDARY:ABSTRACTION                                            4
+    think true proves know
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 43.333333 %
+EMOTIONS            : 10.000000 %
+
+123 words total

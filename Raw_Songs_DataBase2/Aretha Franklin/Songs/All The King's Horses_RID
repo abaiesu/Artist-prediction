@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:SOUND                                          6
+    heart sound heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back back back out back back
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again again again when again again
+EMOTIONS:AGGRESSION                                              5
+    broken broken broken broken broken
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    found find money find won
+EMOTIONS:AFFECTION                                               3
+    farewell friends love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    asked said share
+SECONDARY:ABSTRACTION                                            2
+    know true
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+
+PRIMARY             : 35.135135 %
+SECONDARY           : 43.243243 %
+EMOTIONS            : 21.621622 %
+
+183 words total

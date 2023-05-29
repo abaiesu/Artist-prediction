@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back out out out
+SECONDARY:TEMPORAL REFERENCES                                    4
+    yesterday when when quick
+SECONDARY:ABSTRACTION                                            2
+    cause sure
+EMOTIONS:AFFECTION                                               2
+    like lovey
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slip drop
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hands
+SECONDARY:RESTRAINT                                              2
+    decree stop
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:NEED:ORALITY                                             2
+    bite mouth
+EMOTIONS:AGGRESSION                                              2
+    rip hate
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+
+PRIMARY             : 58.620690 %
+SECONDARY           : 27.586207 %
+EMOTIONS            : 13.793103 %
+
+240 words total

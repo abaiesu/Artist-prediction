@@ -1,0 +1,58 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    open at at out back far off side
+SECONDARY:ABSTRACTION                                            7
+    know opinion fact truly choice certain know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    arms bodies muscle bone brain hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    job record working making paying
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    education say helping
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today time
+EMOTIONS:AGGRESSION                                              2
+    broke broken
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    gutter deep
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+SECONDARY:MORAL IMPERATIVE                                       2
+    legalize legalize
+EMOTIONS:SADNESS                                                 2
+    sad lament
+PRIMARY:SENSATION:HARD                                           2
+    hard rock
+SECONDARY:RESTRAINT                                              2
+    shut lock
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:SENSATION:TASTE                                          1
+    gall
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    mob
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+EMOTIONS:GLORY                                                   1
+    arrogant
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    submission
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smokes
+PRIMARY:NEED:ORALITY                                             1
+    sucks
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 51.724138 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 10.344828 %
+
+253 words total

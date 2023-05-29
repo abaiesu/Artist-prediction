@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                          9
+    heart hear melody heart heart heart heart heart melody
+PRIMARY:SENSATION:VISION                                         7
+    brighter star light see star light see
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ago yesterday ago
+SECONDARY:ABSTRACTION                                            3
+    understanding know understanding
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    informed informed
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fell
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparkle
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebrate
+
+PRIMARY             : 52.272727 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 22.727273 %
+
+209 words total

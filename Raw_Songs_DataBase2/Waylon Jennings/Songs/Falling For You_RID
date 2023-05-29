@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               6
+    darling dear love darling dear love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then when when when when
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    falling falling falling falling falling
+SECONDARY:ABSTRACTION                                            5
+    know why know why why
+EMOTIONS:POSITIVE AFFECT                                         3
+    happiness happy happy
+EMOTIONS:SADNESS                                                 3
+    loneliness misery misery
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    mystery mystery mystery
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near near
+EMOTIONS:ANXIETY                                                 1
+    distress
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreak
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 33.333333 %
+
+139 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand eyes head hand
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything everything everything
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money making money
+EMOTIONS:AFFECTION                                               2
+    lovely lovely
+EMOTIONS:GLORY                                                   2
+    castles castles
+PRIMARY:SENSATION:VISION                                         2
+    pink lavender
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    waking
+SECONDARY:ABSTRACTION                                            1
+    believe
+PRIMARY:NEED:ORALITY                                             1
+    dinner
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 38.095238 %
+EMOTIONS            : 19.047619 %
+
+92 words total

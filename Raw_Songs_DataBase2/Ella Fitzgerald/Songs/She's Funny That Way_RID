@@ -1,0 +1,30 @@
+EMOTIONS:POSITIVE AFFECT                                         7
+    glad happy funny funny funny smile funny
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    crazy crazy crazy crazy
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every when once while
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at off away
+SECONDARY:ABSTRACTION                                            3
+    why why know
+PRIMARY:SENSATION:VISION                                         2
+    look see
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+EMOTIONS:SADNESS                                                 1
+    unhappy
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answer
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 33.333333 %
+
+146 words total

@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                           11
+    knew knew guess guess think true true cause know know thinking
+SECONDARY:TEMPORAL REFERENCES                                    7
+    sometimes when now times times times times
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make find paid pay win
+EMOTIONS:SADNESS                                                 6
+    sorry sorry sorry sorry sad sad
+EMOTIONS:AFFECTION                                               5
+    love love like love like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry cry played game
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told told told told
+PRIMARY:SENSATION:SOUND                                          3
+    hearts heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+EMOTIONS:AGGRESSION                                              2
+    breaking kick
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 16.363636 %
+SECONDARY           : 50.909091 %
+EMOTIONS            : 32.727273 %
+
+322 words total

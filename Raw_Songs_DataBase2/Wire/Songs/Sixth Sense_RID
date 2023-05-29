@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where where where where where where
+PRIMARY:NEED:ORALITY                                             3
+    fast meal corner
+PRIMARY:SENSATION:VISION                                         1
+    flash
+SECONDARY:TEMPORAL REFERENCES                                    1
+    past
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ashes
+EMOTIONS:AGGRESSION                                              1
+    traitor
+PRIMARY:NEED:SEX                                                 1
+    womb
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+
+PRIMARY             : 82.352941 %
+SECONDARY           : 5.882353 %
+EMOTIONS            : 11.764706 %
+
+93 words total

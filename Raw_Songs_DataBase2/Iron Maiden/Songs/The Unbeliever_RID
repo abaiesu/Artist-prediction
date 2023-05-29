@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    within at away away at away away away away away away inside at within away away away away away away
+SECONDARY:ABSTRACTION                                            8
+    think belief think think something thought truth think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    tried tried tried find try tried
+PRIMARY:SENSATION:VISION                                         4
+    look see see look
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    ease drift drift drift
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    allowed forgive allowed allowed
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    slip slip slip
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin face
+EMOTIONS:ANXIETY                                                 2
+    scared worried
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    paranoia
+PRIMARY:NEED:ORALITY                                             1
+    eating
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+EMOTIONS:AGGRESSION                                              1
+    anger
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    immortal
+
+PRIMARY             : 57.812500 %
+SECONDARY           : 32.812500 %
+EMOTIONS            : 9.375000 %
+
+298 words total

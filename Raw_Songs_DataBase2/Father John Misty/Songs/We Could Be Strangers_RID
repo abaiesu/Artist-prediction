@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    at longer off off point back place at longer at longer longer off off
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             5
+    odds strangers strangers strangers strangers
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    says says conversation says
+SECONDARY:ABSTRACTION                                            4
+    cause plans knows cause
+PRIMARY:SENSATION:VISION                                         2
+    look brighter
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sooner
+PRIMARY:NEED:SEX                                                 1
+    undressed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:SADNESS                                                 1
+    disappoint
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highs
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lows
+
+PRIMARY             : 71.428571 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 4.761905 %
+
+178 words total

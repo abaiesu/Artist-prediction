@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    tonight tonight tonight tonight tonight tonight tonight tonight tonight tonight tonight tonight tonight
+SECONDARY:ABSTRACTION                                            9
+    cause know tenderly real cause real know cause cause
+EMOTIONS:AFFECTION                                               8
+    love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say tell commitment asking
+PRIMARY:SENSATION:VISION                                         3
+    see look rosy
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where surface
+PRIMARY:NEED:ORALITY                                             2
+    sugar sugar
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 27.450980 %
+SECONDARY           : 56.862745 %
+EMOTIONS            : 15.686275 %
+
+504 words total

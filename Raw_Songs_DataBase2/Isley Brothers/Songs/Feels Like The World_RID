@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    closing closing away away closing closing closing out long long closing closing closing closing closing
+EMOTIONS:AFFECTION                                               7
+    like like love like like like like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    helplessly say say
+PRIMARY:SENSATION:VISION                                         1
+    watching
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 58.620690 %
+SECONDARY           : 13.793103 %
+EMOTIONS            : 27.586207 %
+
+114 words total

@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            7
+    know why know know know know know
+EMOTIONS:AFFECTION                                               6
+    loves friends loves love loves loves
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at over place
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fall
+EMOTIONS:AGGRESSION                                              2
+    hurt broken
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flown
+EMOTIONS:GLORY                                                   1
+    wonderin
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    forgive
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 22.580645 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 35.483871 %
+
+149 words total

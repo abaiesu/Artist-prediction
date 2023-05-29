@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out where outside long at at out at close
+SECONDARY:TEMPORAL REFERENCES                                    8
+    once now while every time when when when
+EMOTIONS:AFFECTION                                               5
+    kind like like like love
+PRIMARY:NEED:ORALITY                                             4
+    corner gum chew dishes
+PRIMARY:SENSATION:VISION                                         4
+    lookin lookin lookin stars
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    airplane bird above
+EMOTIONS:SADNESS                                                 3
+    painted lonely lonesome
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window wallet
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wash wash
+SECONDARY:ABSTRACTION                                            2
+    know thought
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flew
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    visit
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dug
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 27.083333 %
+EMOTIONS            : 16.666667 %
+
+266 words total

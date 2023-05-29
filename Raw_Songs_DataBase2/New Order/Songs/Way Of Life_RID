@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    told talking say told talking say talking say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    inside at apart here at apart at apart
+SECONDARY:ABSTRACTION                                            8
+    think know thought reason think know think know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once when today every when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried find find find find
+EMOTIONS:AGGRESSION                                              5
+    hurt doubt doubt doubt doubt
+PRIMARY:SENSATION:VISION                                         4
+    look seen look look
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall fall fall
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+SECONDARY:MORAL IMPERATIVE                                       1
+    moral
+EMOTIONS:AFFECTION                                               1
+    kind
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 54.901961 %
+EMOTIONS            : 11.764706 %
+
+227 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out across space tip back between here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make build
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        4
+    forever forever forever forever
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every time when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    brain body
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flaming sparkles
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance play
+PRIMARY:NEED:ORALITY                                             2
+    tongue lips
+EMOTIONS:AGGRESSION                                              1
+    stealing
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    trance
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:VISION                                         1
+    lightning
+PRIMARY:SENSATION:COLD                                           1
+    shiver
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 20.588235 %
+EMOTIONS            : 14.705882 %
+
+201 words total

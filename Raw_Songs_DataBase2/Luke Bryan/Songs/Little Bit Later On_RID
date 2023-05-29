@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       23
+    out out long here out out where out back off back out long here out out back out long long out out back
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say said said say said said said said call meet call
+SECONDARY:ABSTRACTION                                           11
+    something them them know plans cause know plans know plans think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    find find find make work find make make find find
+PRIMARY:SENSATION:VISION                                         6
+    looks see stars see stars stars
+PRIMARY:NEED:ORALITY                                             6
+    drink beer drink beer drink beer
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    hanging swing throw dawn
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when now when
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+PRIMARY:SENSATION:HARD                                           3
+    rockin rockin rockin
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roll roll roll
+EMOTIONS:AFFECTION                                               2
+    like friends
+EMOTIONS:ANXIETY                                                 2
+    trouble worry
+EMOTIONS:AGGRESSION                                              2
+    break break
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:RESTRAINT                                              1
+    bar
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:SENSATION:TOUCH                                          1
+    rubber
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    creek
+
+PRIMARY             : 54.901961 %
+SECONDARY           : 38.235294 %
+EMOTIONS            : 6.862745 %
+
+484 words total

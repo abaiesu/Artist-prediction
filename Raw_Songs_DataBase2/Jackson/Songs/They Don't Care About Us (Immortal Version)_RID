@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say say say say say say say say remind say
+EMOTIONS:AGGRESSION                                              6
+    shot beat hate break kill kick
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everybody everybody everybody everybody everybody
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skinhead head
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    situation back
+PRIMARY:SENSATION:SOUND                                          2
+    bang bang
+PRIMARY:SENSATION:VISION                                         2
+    see watch
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+PRIMARY:NEED:ORALITY                                             1
+    food
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 39.473684 %
+EMOTIONS            : 18.421053 %
+
+361 words total

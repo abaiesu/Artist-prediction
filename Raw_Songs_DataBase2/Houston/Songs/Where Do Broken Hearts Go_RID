@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    space place here where back open away here where back open here where back open
+SECONDARY:ABSTRACTION                                            9
+    know something learned know know know know know know
+EMOTIONS:AFFECTION                                               9
+    love loves love love loves love love loves love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    found find won try find won find won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    arms eyes arms eyes eyes arms eyes
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time ever now now now
+PRIMARY:SENSATION:VISION                                         5
+    see look look look look
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said please tell please tell
+EMOTIONS:AGGRESSION                                              3
+    broken broken broken
+PRIMARY:SENSATION:SOUND                                          3
+    hearts hearts hearts
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:ANXIETY                                                 1
+    desperately
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:GLORY                                                   1
+    gold
+
+PRIMARY             : 43.835616 %
+SECONDARY           : 36.986301 %
+EMOTIONS            : 19.178082 %
+
+297 words total

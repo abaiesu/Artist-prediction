@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            6
+    cause something know cause idea guess
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tell say tell tell tell
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ever today now everybody now past
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used used used used won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long long outside
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:ANXIETY                                                 1
+    worried
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 15.151515 %
+SECONDARY           : 72.727273 %
+EMOTIONS            : 12.121212 %
+
+151 words total

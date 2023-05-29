@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    place close out out out out out out at at out out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    used used make make used used used make make used make make
+PRIMARY:SENSATION:VISION                                         7
+    saw see seeing seen pictures seeing seeing
+SECONDARY:TEMPORAL REFERENCES                                    7
+    everywhere now minute now minute minute now
+SECONDARY:ABSTRACTION                                            6
+    guess guess learn them guess learn
+PRIMARY:SENSATION:SOUND                                          5
+    heard heart heard heart heart
+EMOTIONS:AFFECTION                                               5
+    love friends love love love
+EMOTIONS:AGGRESSION                                              3
+    hate hate hurt
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy happy
+EMOTIONS:SADNESS                                                 3
+    sad sad sad
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+PRIMARY:NEED:SEX                                                 2
+    fuck fuck
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told talked
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 42.666667 %
+SECONDARY           : 37.333333 %
+EMOTIONS            : 20.000000 %
+
+347 words total

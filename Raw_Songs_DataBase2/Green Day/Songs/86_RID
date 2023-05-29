@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here aside out back out aside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find try purchase try try
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time now again quickly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+EMOTIONS:AGGRESSION                                              2
+    kick kick
+SECONDARY:ABSTRACTION                                            1
+    something
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 43.478261 %
+EMOTIONS            : 8.695652 %
+
+160 words total

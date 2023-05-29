@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            4
+    cause cause thought thought
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart away back here
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear heart
+EMOTIONS:AFFECTION                                               3
+    love love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money tried work
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+EMOTIONS:AGGRESSION                                              2
+    anger hate
+SECONDARY:RESTRAINT                                              1
+    manage
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 34.375000 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 31.250000 %
+
+161 words total

@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    ever ever till ever ever ever ever
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:SENSATION:COLD                                           3
+    cool cool cool
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:ABSTRACTION                                            2
+    known know
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:SENSATION:VISION                                         1
+    star
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 18.181818 %
+
+145 words total

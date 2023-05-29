@@ -1,0 +1,44 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    rest beds dead dead dead safe rest
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    call call talk talking call say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    money sell buying selling sell sell
+EMOTIONS:AGGRESSION                                              5
+    slaughter arguing kick kick hit
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now again while everybody quick
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    stepped ledge stepped streets
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    straight off at off
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    blood heads heads
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty comforter pretty
+EMOTIONS:GLORY                                                   2
+    royalness royalties
+PRIMARY:NEED:ORALITY                                             2
+    bread beef
+PRIMARY:SENSATION:VISION                                         2
+    looks looking
+SECONDARY:RESTRAINT                                              2
+    punished block
+SECONDARY:ABSTRACTION                                            2
+    probably them
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+SECONDARY:ORDER                                                  1
+    order
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rollies
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ANALITY                                             1
+    shit
+
+PRIMARY             : 46.551724 %
+SECONDARY           : 39.655172 %
+EMOTIONS            : 13.793103 %
+
+271 words total

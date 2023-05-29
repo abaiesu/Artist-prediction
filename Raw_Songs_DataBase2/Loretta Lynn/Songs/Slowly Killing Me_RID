@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               5
+    love love like love like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    slowly slowly die slowly slowly
+EMOTIONS:AGGRESSION                                              4
+    killing killing killing killing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off at closing
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when ever ever
+PRIMARY:SENSATION:VISION                                         3
+    look look see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tells
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+SECONDARY:ABSTRACTION                                            1
+    why
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 39.285714 %
+
+143 words total

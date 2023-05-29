@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when till then then when
+EMOTIONS:AFFECTION                                               6
+    dear goodbye kind darling goodbye kind
+SECONDARY:ABSTRACTION                                            5
+    understand why may know may
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    saying discussed saying discussed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far away long over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find use use
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 14.705882 %
+SECONDARY           : 52.941176 %
+EMOTIONS            : 32.352941 %
+
+194 words total

@@ -1,0 +1,38 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       13
+    lay lay lay lay lay lay calm lay lay lay lay lay lay
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when now now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won won won won won won
+EMOTIONS:AGGRESSION                                              6
+    steal steal steal steal steal steal
+SECONDARY:ABSTRACTION                                            3
+    knows knows knows
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    spirit spirit
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+EMOTIONS:ANXIETY                                                 1
+    alarm
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 32.653061 %
+EMOTIONS            : 24.489796 %
+
+284 words total

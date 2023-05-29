@@ -1,0 +1,38 @@
+EMOTIONS:POSITIVE AFFECT                                         8
+    happiness smile happiness smile happiness smile happiness smile
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out out out back out out
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when ever when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reaches study
+EMOTIONS:GLORY                                                   2
+    conquer pride
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    instruction instruction
+SECONDARY:ABSTRACTION                                            2
+    learn learn
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    bridge
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumblin
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:AGGRESSION                                              1
+    doubt
+
+PRIMARY             : 38.235294 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 35.294118 %
+
+168 words total

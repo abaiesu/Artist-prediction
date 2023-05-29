@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    back where where where longed where place where back where long where away long where where back where where where longed
+SECONDARY:TEMPORAL REFERENCES                                   12
+    old time old old old till old old soon old time old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    carry labored carry carry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    grow birds grow birds
+PRIMARY:NEED:ORALITY                                             3
+    corn corn corn
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    warble yellow warble
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring spring
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:SADNESS                                                 2
+    dismal sorrow
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    decay
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandered
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:SENSATION:VISION                                         1
+    bright
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 60.937500 %
+SECONDARY           : 26.562500 %
+EMOTIONS            : 12.500000 %
+
+191 words total

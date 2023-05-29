@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place back at
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meet meet meet
+PRIMARY:SENSATION:VISION                                         2
+    light light
+SECONDARY:TEMPORAL REFERENCES                                    1
+    minute
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+SECONDARY:RESTRAINT                                              1
+    refuse
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:AFFECTION                                               1
+    sympatric
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 7.692308 %
+
+61 words total

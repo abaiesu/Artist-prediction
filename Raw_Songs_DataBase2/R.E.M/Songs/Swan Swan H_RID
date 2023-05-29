@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now now time ago times time ago now time ago
+PRIMARY:SENSATION:SOUND                                          5
+    hummingbird noisy hummingbird hummingbird noisy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    price buy sweep price buy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    bone hair feet bone hair
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    hurrah hurrah sing hurrah
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long here long long
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk talk tell talk
+PRIMARY:NEED:ORALITY                                             4
+    toothpicks whiskey toothpicks whiskey
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    water water water water
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    low low low
+PRIMARY:SENSATION:VISION                                         3
+    greenback beams picture
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    wings wings
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot hot
+EMOTIONS:AGGRESSION                                              1
+    struck
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    path
+EMOTIONS:GLORY                                                   1
+    heroes
+
+PRIMARY             : 56.896552 %
+SECONDARY           : 32.758621 %
+EMOTIONS            : 10.344828 %
+
+196 words total

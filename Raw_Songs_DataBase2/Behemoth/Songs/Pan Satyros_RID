@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where across open across
+PRIMARY:SENSATION:VISION                                         3
+    light shine illuminates
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    spiral heaven
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye body
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    madness madness
+PRIMARY:NEED:SEX                                                 1
+    satyros
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    path
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rests
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    sensations
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+SECONDARY:TEMPORAL REFERENCES                                    1
+    years
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:SADNESS                                                 1
+    mourning
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ashes
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+
+PRIMARY             : 82.758621 %
+SECONDARY           : 6.896552 %
+EMOTIONS            : 10.344828 %
+
+130 words total

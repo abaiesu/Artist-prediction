@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       32
+    over long over place over long over over back back apart over long over out over over over over over over over over over long over over long over long over over
+SECONDARY:TEMPORAL REFERENCES                                   19
+    now when then now when when when already when now when when when now when now when when when
+PRIMARY:SENSATION:VISION                                        14
+    see looking flash light see looking see look see looking see looking see looking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         11
+    eyes eyes feet feet knees knees eyes head eyes eyes body
+SECONDARY:ABSTRACTION                                           10
+    different thought different different think different meant different different different
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    won won won find find won won won
+PRIMARY:NEED:ORALITY                                             5
+    honey honey honey honey honey
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say callin ask tell
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flying flying
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfaction satisfaction
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fallin
+EMOTIONS:AGGRESSION                                              1
+    shot
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 61.061947 %
+SECONDARY           : 36.283186 %
+EMOTIONS            : 2.654867 %
+
+399 words total

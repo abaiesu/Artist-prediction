@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    apart between inside inside outside long
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    spirit spirit spirit spirit spirit
+SECONDARY:ABSTRACTION                                            4
+    thought reason cause thought
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found find carry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands veins arm
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall slip
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    mutual
+
+PRIMARY             : 64.516129 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 6.451613 %
+
+121 words total

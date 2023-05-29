@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    away close close opened space away away far close close opened space away away close close opened space away away
+SECONDARY:SOCIAL BEHAVIOR                                       20
+    told told told told told able told told told told talk talk talk talk talk talk told told told told
+EMOTIONS:AFFECTION                                              17
+    like liked liked liked liked like liked liked liked liked like like like liked liked liked liked
+SECONDARY:TEMPORAL REFERENCES                                   16
+    then then then while while when once now sometime then again time time when year when
+SECONDARY:ABSTRACTION                                           13
+    understand cause cause them them guess knew cause cause cause knew cause knew
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    tried won tried tried find find industry try
+PRIMARY:NEED:SEX                                                 6
+    kiss kiss kiss kiss kiss kiss
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes face eyes face eyes face
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:RESTRAINT                                              3
+    capture must must
+EMOTIONS:POSITIVE AFFECT                                         3
+    smiled smiled smiled
+SECONDARY:MORAL IMPERATIVE                                       3
+    should right right
+PRIMARY:SENSATION:SOUND                                          3
+    music sounding sounding
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    poetry poetry
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+EMOTIONS:SADNESS                                                 2
+    sadness sadness
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    decay decay
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+EMOTIONS:GLORY                                                   1
+    golden
+
+PRIMARY             : 31.111111 %
+SECONDARY           : 47.407407 %
+EMOTIONS            : 21.481481 %
+
+604 words total

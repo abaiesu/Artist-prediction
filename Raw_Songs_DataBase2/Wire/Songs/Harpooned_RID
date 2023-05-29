@@ -1,0 +1,38 @@
+EMOTIONS:ANXIETY                                                10
+    worried worried worried worried worried worried frightened worried worried frightened
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    fire lit burn ignited
+SECONDARY:ABSTRACTION                                            3
+    cause cause reality
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off curves closing
+PRIMARY:SENSATION:SOUND                                          3
+    heard voices echo
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    messages meet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died quietly
+PRIMARY:NEED:ORALITY                                             2
+    cornered swallowed
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:AGGRESSION                                              1
+    damage
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    fountain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 48.648649 %
+SECONDARY           : 18.918919 %
+EMOTIONS            : 32.432432 %
+
+190 words total

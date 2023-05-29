@@ -1,0 +1,28 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                    31
+    hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot
+EMOTIONS:POSITIVE AFFECT                                         7
+    fun smile smile smile smiles smiles fun
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell call tell tell tell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    play dance poetry play
+SECONDARY:ABSTRACTION                                            4
+    knew them them them
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when then
+PRIMARY:SENSATION:VISION                                         3
+    looking see looking
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fantasy fantasy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found make
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 58.461538 %
+SECONDARY           : 24.615385 %
+EMOTIONS            : 16.923077 %
+
+193 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long here here over place over here
+PRIMARY:SENSATION:VISION                                         6
+    blue blues blues see see blues
+SECONDARY:ABSTRACTION                                            5
+    cause guess know guess guess
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call call telling tellin call
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything when then
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes face face
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:SADNESS                                                 1
+    weep
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 54.285714 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 5.714286 %
+
+173 words total

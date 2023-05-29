@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    till every now today present when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    outside opens away closes away
+PRIMARY:SENSATION:VISION                                         5
+    saw blue green crimson light
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    woke woke woke wake
+EMOTIONS:AFFECTION                                               4
+    like like welcome like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won won
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun sun sun candlelight
+PRIMARY:SENSATION:SOUND                                          3
+    heard bells drums
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window wall streets
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    curtains curtain curtain
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rainbow poured rainbow
+PRIMARY:NEED:ORALITY                                             3
+    milk honey butterscotch
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    beckon talk
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    reeling
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+SECONDARY:ABSTRACTION                                            1
+    knew
+PRIMARY:SENSATION:ODOR                                           1
+    incense
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 22.807018 %
+EMOTIONS            : 10.526316 %
+
+241 words total

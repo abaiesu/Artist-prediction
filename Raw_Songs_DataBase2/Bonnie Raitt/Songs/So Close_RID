@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    far close off close nearly away distance far out close away distance far close
+SECONDARY:TEMPORAL REFERENCES                                   12
+    ever moment now now now ever every ever now now ever every
+SECONDARY:ABSTRACTION                                            3
+    thought suppose knows
+SECONDARY:RESTRAINT                                              3
+    caught resistance resistance
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slip slip
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    spark fire
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    watching
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promised
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 45.238095 %
+EMOTIONS            : 2.380952 %
+
+126 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              15
+    like like like love like love like love like like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever again now early hour
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile glad smile smile
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back here place
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    signal explain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms face
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:HARD                                           1
+    glass
+
+PRIMARY             : 31.707317 %
+SECONDARY           : 19.512195 %
+EMOTIONS            : 48.780488 %
+
+268 words total

@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    close far opened open close far opened open close far
+SECONDARY:ABSTRACTION                                           10
+    something different know know know know something different know know
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every every
+PRIMARY:SENSATION:VISION                                         2
+    view view
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    games play
+
+PRIMARY             : 48.648649 %
+SECONDARY           : 45.945946 %
+EMOTIONS            : 5.405405 %
+
+226 words total

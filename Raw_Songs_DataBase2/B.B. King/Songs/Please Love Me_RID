@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    call call treatin tell tell say say tell
+PRIMARY:NEED:ORALITY                                             7
+    honey honey honey honey honey honey honey
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:ABSTRACTION                                            4
+    learned learned know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old everything everything ever
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    buy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+
+PRIMARY             : 34.285714 %
+SECONDARY           : 48.571429 %
+EMOTIONS            : 17.142857 %
+
+177 words total

@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again time once again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found biding task
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away far
+SECONDARY:ABSTRACTION                                            2
+    knows sure
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say speak
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:AFFECTION                                               1
+    goodbye
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+
+PRIMARY             : 35.000000 %
+SECONDARY           : 55.000000 %
+EMOTIONS            : 10.000000 %
+
+79 words total

@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       33
+    help call call call call call call call call call said call call meet meet tell tell call call call call call call call call call call call call call call call call
+SECONDARY:ABSTRACTION                                           11
+    somethin somethin true true true somethin somethin somethin somethin somethin somethin
+PRIMARY:SENSATION:TOUCH                                         11
+    touch touch touch touch touch touch touch touch touch touch touch
+SECONDARY:TEMPORAL REFERENCES                                    7
+    again now now then now when now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at out back
+EMOTIONS:AFFECTION                                               3
+    like kind friend
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell tumbled
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:GLORY                                                   1
+    throne
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 25.974026 %
+SECONDARY           : 67.532468 %
+EMOTIONS            : 6.493506 %
+
+411 words total

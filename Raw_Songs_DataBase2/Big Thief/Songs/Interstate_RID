@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    far here back close at back
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time when now now time
+EMOTIONS:ANXIETY                                                 2
+    scary worry
+PRIMARY:SENSATION:VISION                                         2
+    see gray
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand eyes
+SECONDARY:ABSTRACTION                                            2
+    know guest
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell say
+PRIMARY:NEED:ORALITY                                             2
+    poison poison
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    slumber dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    blurry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:AFFECTION                                               1
+    loved
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+
+PRIMARY             : 57.575758 %
+SECONDARY           : 30.303030 %
+EMOTIONS            : 12.121212 %
+
+133 words total

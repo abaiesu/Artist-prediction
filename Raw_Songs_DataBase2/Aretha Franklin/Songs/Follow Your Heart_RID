@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    follow follow follow follow follow follow
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where where aside back back
+EMOTIONS:AFFECTION                                               3
+    love darling love
+SECONDARY:ABSTRACTION                                            3
+    understand know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won try find
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever ever ever
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfied satisfied
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+EMOTIONS:SADNESS                                                 1
+    unhappy
+
+PRIMARY             : 32.352941 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 17.647059 %
+
+113 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    away out away away away round away away far away round away away away away away away away away away
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  17
+    fly fly fly fly fly fly fly fly fly fly fly fly fly fly fly fly fly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  10
+    bird bird bird bird bird bird bird bird bird bird
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    found tried find find find tried find find find
+PRIMARY:SENSATION:HARD                                           8
+    hard hard hard hard hard hard hard hard
+SECONDARY:ABSTRACTION                                            6
+    know choose why understand why know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever now sometimes yesterday yesterday
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask calling
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny funny
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizon
+
+PRIMARY             : 67.469880 %
+SECONDARY           : 26.506024 %
+EMOTIONS            : 6.024096 %
+
+213 words total

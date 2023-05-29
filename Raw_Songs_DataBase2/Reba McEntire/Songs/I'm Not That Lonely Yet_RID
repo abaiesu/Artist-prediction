@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    while when time now time when again
+EMOTIONS:SADNESS                                                 6
+    sorry lonely lonely lonely lonely lonely
+SECONDARY:ABSTRACTION                                            6
+    know cause weigh may think cause
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    request ask say helps
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance dancing dancing
+PRIMARY:SENSATION:VISION                                         3
+    see blue look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at opened
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes head
+EMOTIONS:AFFECTION                                               2
+    favors like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    incredibly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 29.268293 %
+SECONDARY           : 43.902439 %
+EMOTIONS            : 26.829268 %
+
+152 words total

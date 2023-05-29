@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    over over where place where out round opens here where place where
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    bridge street fences doors street door bridge street
+EMOTIONS:AFFECTION                                               8
+    like like friend like like friend like friend
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    knees hands heads knees knees hands
+SECONDARY:TEMPORAL REFERENCES                                    5
+    year time now ever when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    branches piled high piled high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    tunnel under tunnel under
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    bubble bath bubble bath
+PRIMARY:SENSATION:VISION                                         3
+    flashlights look look
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk please please
+EMOTIONS:AGGRESSION                                              2
+    cuts war
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb jumpin
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    sway
+PRIMARY:NEED:ORALITY                                             1
+    tongues
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+
+PRIMARY             : 68.571429 %
+SECONDARY           : 17.142857 %
+EMOTIONS            : 14.285714 %
+
+286 words total

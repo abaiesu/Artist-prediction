@@ -1,0 +1,36 @@
+SECONDARY:RESTRAINT                                              8
+    stop stop stop stop stop stop stop stop
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever when while while now again time again
+PRIMARY:SENSATION:VISION                                         5
+    seeing see see see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lie lay safe safe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away places back where
+EMOTIONS:AFFECTION                                               4
+    love like love love
+SECONDARY:ABSTRACTION                                            4
+    know know real different
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said tell tell
+PRIMARY:NEED:ANALITY                                             3
+    shit shit shit
+PRIMARY:SENSATION:HARD                                           2
+    harder hard
+PRIMARY:NEED:SEX                                                 2
+    kiss bitch
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 47.058824 %
+SECONDARY           : 45.098039 %
+EMOTIONS            : 7.843137 %
+
+345 words total

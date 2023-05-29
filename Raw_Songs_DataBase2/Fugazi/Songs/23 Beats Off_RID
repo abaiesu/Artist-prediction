@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at center at center somewhere point
+EMOTIONS:AGGRESSION                                              4
+    fighting war fighting war
+SECONDARY:ABSTRACTION                                            3
+    example example thought
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now everything
+PRIMARY:SENSATION:HARD                                           1
+    glass
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    depends
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 21.052632 %
+
+96 words total

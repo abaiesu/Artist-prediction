@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:SOUND                                         12
+    hear voice hear voice hear voice hear voice hear voice hear voice
+EMOTIONS:AGGRESSION                                             10
+    steal steal murder steal murder steal steal murder steal murder
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       10
+    lie silence silence lie lie silence silence lie silence silence
+SECONDARY:ORDER                                                  8
+    system listen listen system listen listen listen listen
+EMOTIONS:AFFECTION                                               7
+    loved friends love love sympathy love love
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    speak visit tell call speaking ask ask
+SECONDARY:TEMPORAL REFERENCES                                    6
+    yesterday time then ancient tonights tonights
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    burden make make make make
+PRIMARY:NEED:SEX                                                 4
+    rape rape rape rape
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile smile smile smile
+EMOTIONS:GLORY                                                   4
+    applaud applaud applaud applaud
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far front far far
+SECONDARY:ABSTRACTION                                            2
+    understanding understanding
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    headlines headlines
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:NEED:ORALITY                                             1
+    tongues
+
+PRIMARY             : 39.080460 %
+SECONDARY           : 32.183908 %
+EMOTIONS            : 28.735632 %
+
+238 words total

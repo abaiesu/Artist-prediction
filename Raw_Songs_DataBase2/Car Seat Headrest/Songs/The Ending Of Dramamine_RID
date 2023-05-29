@@ -1,0 +1,58 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    then then moment earlier now sometimes now again soon then again soon now now when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    money work find find efforts occupying money work belong found
+SECONDARY:ABSTRACTION                                            9
+    think think know opinion figured problem thinking know guess
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back out out space space space space here away
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    mention mention speaking speak say thanks speaking thanks
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    face headlights body head head eyes
+EMOTIONS:AGGRESSION                                              5
+    breaks hate hate hate ripped
+PRIMARY:SENSATION:SOUND                                          4
+    hear voiced hear hear
+EMOTIONS:AFFECTION                                               3
+    friend loved love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falls fall fell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silent bed rest
+EMOTIONS:ANXIETY                                                 2
+    fears scared
+PRIMARY:SENSATION:VISION                                         2
+    see watch
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+PRIMARY:NEED:SEX                                                 2
+    fucking fucking
+PRIMARY:NEED:ORALITY                                             1
+    drunk
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowded
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    deserted
+
+PRIMARY             : 41.489362 %
+SECONDARY           : 45.744681 %
+EMOTIONS            : 12.765957 %
+
+425 words total

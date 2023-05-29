@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    front between open between between between back out here open back at off
+EMOTIONS:AFFECTION                                              11
+    love loves marriage marriage loved friend like friend love like friend
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every when old when then time time
+PRIMARY:SENSATION:VISION                                         7
+    star view light scene looked see grey
+SECONDARY:ABSTRACTION                                            5
+    concept why cause different cause
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high sky
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    coast coast
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot hot
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flew jump
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die died
+EMOTIONS:AGGRESSION                                              2
+    kick broken
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes building
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall buried
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream woke
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:NEED:ORALITY                                             1
+    spoon
+EMOTIONS:SADNESS                                                 1
+    tragedy
+EMOTIONS:GLORY                                                   1
+    admired
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    brain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+
+PRIMARY             : 54.929577 %
+SECONDARY           : 21.126761 %
+EMOTIONS            : 23.943662 %
+
+250 words total

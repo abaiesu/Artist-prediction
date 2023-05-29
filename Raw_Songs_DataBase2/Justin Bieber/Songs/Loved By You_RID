@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              18
+    loved loved loved loved loved loved kinda lovin lovin like loved loved love loved loved loved loved loved
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when every time when every when every
+EMOTIONS:AGGRESSION                                              8
+    hate hate hate hate hate hate hate hate
+SECONDARY:ABSTRACTION                                            5
+    thought know know different know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out off places opened
+PRIMARY:SENSATION:VISION                                         3
+    picture see looking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    bought built
+PRIMARY:SENSATION:SOFT                                           2
+    ting ting
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    messagin talkin
+EMOTIONS:GLORY                                                   1
+    castle
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 22.580645 %
+SECONDARY           : 30.645161 %
+EMOTIONS            : 46.774194 %
+
+423 words total

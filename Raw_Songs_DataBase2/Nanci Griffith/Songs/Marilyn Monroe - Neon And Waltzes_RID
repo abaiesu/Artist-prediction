@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    tonight time old time old time old time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out at long behind at at
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        5
+    screen fading shadow fading fading
+PRIMARY:SENSATION:VISION                                         4
+    shinin light light light
+PRIMARY:SENSATION:SOUND                                          4
+    hearts hearts hearts hearts
+EMOTIONS:SADNESS                                                 4
+    lonely loneliness loneliness loneliness
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    died rest rest rest
+EMOTIONS:AFFECTION                                               3
+    farewell farewell farewell
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    bathed bathed bathed
+PRIMARY:NEED:ORALITY                                             3
+    drank drank drank
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    felled felled felled
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun hot
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    immortal forever
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sayin
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 67.796610 %
+SECONDARY           : 18.644068 %
+EMOTIONS            : 13.559322 %
+
+204 words total

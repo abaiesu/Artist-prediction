@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    conversation mentioned talk said talk say talk
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again every when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    overheard away here round
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hung high high
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard ears
+EMOTIONS:AFFECTION                                               3
+    love love loves
+SECONDARY:ABSTRACTION                                            3
+    true believed true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    price price
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 51.428571 %
+EMOTIONS            : 8.571429 %
+
+158 words total

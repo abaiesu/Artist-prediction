@@ -1,0 +1,60 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now now then often ever now past time pastures ever every when
+SECONDARY:ABSTRACTION                                           11
+    know learnin somethin probably guess know know know know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out off off far where off back back tip round
+PRIMARY:SENSATION:VISION                                        10
+    look star see lampin look lookin see greener see see
+EMOTIONS:AFFECTION                                               6
+    like like like favorite like like
+EMOTIONS:AGGRESSION                                              6
+    struggle struggle cut gun hit whip
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used pay try apply found
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell say spoke say tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    muscle eyes body body
+PRIMARY:NEED:SEX                                                 4
+    sex bitch fuck fuck
+PRIMARY:NEED:ORALITY                                             3
+    butters tea lip
+PRIMARY:NEED:ANALITY                                             3
+    shit shit shit
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    spin spin spin
+PRIMARY:SENSATION:COLD                                           3
+    cool cooler cool
+SECONDARY:ORDER                                                  2
+    simple list
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:SENSATION:HARD                                           2
+    hard glasses
+EMOTIONS:ANXIETY                                                 1
+    dreads
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travels
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climbed
+SECONDARY:RESTRAINT                                              1
+    limit
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    foggin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dip
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+
+PRIMARY             : 50.495050 %
+SECONDARY           : 35.643564 %
+EMOTIONS            : 13.861386 %
+
+588 words total

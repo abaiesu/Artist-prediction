@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now every every every every
+SECONDARY:ABSTRACTION                                            5
+    thinking something something know guess
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry art
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knee
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:SENSATION:VISION                                         1
+    looks
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    remind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 14.285714 %
+
+72 words total

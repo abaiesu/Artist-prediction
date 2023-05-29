@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                         7
+    light look light flash light invisible invisible
+SECONDARY:ABSTRACTION                                            6
+    choose otherwise choose choose otherwise choose
+EMOTIONS:AGGRESSION                                              4
+    crushes fight fighting fighting
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+SECONDARY:RESTRAINT                                              3
+    catch catch catch
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    side along side
+PRIMARY:SENSATION:SOUND                                          3
+    sounds sounds melodious
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild wild
+PRIMARY:SENSATION:ODOR                                           2
+    odorless odorless
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hands
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:HARD                                           1
+    stone
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    preachers
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    flood
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    darkens
+EMOTIONS:SADNESS                                                 1
+    loneliest
+PRIMARY:NEED:ORALITY                                             1
+    poison
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 17.391304 %
+
+168 words total

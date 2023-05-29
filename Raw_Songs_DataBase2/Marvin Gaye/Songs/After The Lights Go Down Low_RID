@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           12
+    know reason understand real know reason cause somethin understand know reason cause
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when time when when time now when
+PRIMARY:SENSATION:VISION                                         7
+    lights lights lights lights lights lights lights
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    7
+    low low low low low low low
+EMOTIONS:AFFECTION                                               4
+    like love like love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please please talk
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill thrill
+PRIMARY:SENSATION:TOUCH                                          2
+    cuddle cuddle
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near near
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swingin
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 43.333333 %
+EMOTIONS            : 15.000000 %
+
+233 words total

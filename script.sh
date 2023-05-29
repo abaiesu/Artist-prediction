@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for dir in Raw_Songs_DataBase/*; do 
+for dir in Raw_Songs_DataBase2/*; do 
     # Check if "Songs" subdirectory exists
     if [ -d "$dir/Songs" ]; then
         echo "$dir"

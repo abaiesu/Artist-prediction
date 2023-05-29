@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              10
+    bride like like like like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    says say says say says say say say say say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes skin face eyes eyes
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time when old
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street street stairs
+SECONDARY:RESTRAINT                                              3
+    must must locked
+SECONDARY:ABSTRACTION                                            3
+    somethin somethin somethin
+PRIMARY:SENSATION:VISION                                         2
+    sunlight sunlight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:NEED:SEX                                                 1
+    fuck
+EMOTIONS:POSITIVE AFFECT                                         1
+    grin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+
+PRIMARY             : 32.608696 %
+SECONDARY           : 41.304348 %
+EMOTIONS            : 26.086957 %
+
+259 words total

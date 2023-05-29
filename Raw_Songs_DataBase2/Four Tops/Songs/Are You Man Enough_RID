@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         7
+    watch rough see light lookin watch rough
+EMOTIONS:AGGRESSION                                              7
+    shoot struggle steal shoot knife shoot shoot
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when every when when when when
+SECONDARY:ABSTRACTION                                            6
+    know think choose cause know think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out back away outside where
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    street step door step
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cries cries cries cries
+EMOTIONS:AFFECTION                                               3
+    friend like friend
+SECONDARY:MORAL IMPERATIVE                                       3
+    should right should
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talkin teach
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face eye
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    win pay
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    jungle confused
+EMOTIONS:POSITIVE AFFECT                                         1
+    smilin
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:COLD                                           1
+    cool
+
+PRIMARY             : 38.983051 %
+SECONDARY           : 35.593220 %
+EMOTIONS            : 25.423729 %
+
+354 words total

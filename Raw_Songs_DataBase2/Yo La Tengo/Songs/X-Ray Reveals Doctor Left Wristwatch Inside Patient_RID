@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now years clock
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside out inside tip
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    tried tried tried tried
+PRIMARY:SENSATION:VISION                                         3
+    watch watch watch
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help said
+EMOTIONS:POSITIVE AFFECT                                         2
+    relieve glad
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippery
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drives
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:SOUND                                          1
+    ear
+
+PRIMARY             : 45.833333 %
+SECONDARY           : 45.833333 %
+EMOTIONS            : 8.333333 %
+
+89 words total

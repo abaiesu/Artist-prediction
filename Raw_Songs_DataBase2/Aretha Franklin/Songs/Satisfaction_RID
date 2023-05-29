@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    tell tellin information say say say tell say said say social social
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    try try try try try try try try try
+SECONDARY:ABSTRACTION                                            8
+    believe sure supposed sure believe sure know different
+EMOTIONS:POSITIVE AFFECT                                         6
+    satisfaction satisfaction satisfaction satisfaction satisfaction satisfaction
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drivin
+PRIMARY:SENSATION:VISION                                         1
+    imagination
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:NEED:ORALITY                                             1
+    fed
+
+PRIMARY             : 9.756098 %
+SECONDARY           : 75.609756 %
+EMOTIONS            : 14.634146 %
+
+253 words total

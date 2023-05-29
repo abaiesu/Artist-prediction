@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    back back where back back where side back back where back back where place back back where back back where back back back where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    belong belong belong belong find belong belong make make belong find
+SECONDARY:ABSTRACTION                                            4
+    thought thought problems caused
+PRIMARY:SENSATION:VISION                                         4
+    green shone brighter saw
+EMOTIONS:AFFECTION                                               4
+    goodbye like love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    saying forgive forgive
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again every everything
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun search
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand face
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 6.666667 %
+
+248 words total

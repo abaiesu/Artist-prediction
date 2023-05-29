@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    back back at across across across across across across across across across
+PRIMARY:ICARIAN IMAGERY:WATER                                   12
+    river swim river swim river river swim river river river river river
+EMOTIONS:GLORY                                                  10
+    gold gold gold gold gold gold gold gold gold gold
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    veins feet hands hand hand face head hair arms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    tried work earn work earn work earn
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    says please pleased saying saying saying
+EMOTIONS:POSITIVE AFFECT                                         6
+    grin fun fun fun fun fun
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again when now then
+SECONDARY:RESTRAINT                                              4
+    refuses refuses refuses refusing
+EMOTIONS:SADNESS                                                 4
+    alas alas alas misery
+EMOTIONS:AGGRESSION                                              3
+    broken broken gun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street wall
+PRIMARY:SENSATION:VISION                                         2
+    peer see
+SECONDARY:ABSTRACTION                                            2
+    meant why
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:NEED:ORALITY                                             1
+    poison
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screams
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:NEED:SEX                                                 1
+    sexual
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumped
+EMOTIONS:AFFECTION                                               1
+    lover
+SECONDARY:ORDER                                                  1
+    constant
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 46.808511 %
+SECONDARY           : 26.595745 %
+EMOTIONS            : 26.595745 %
+
+379 words total

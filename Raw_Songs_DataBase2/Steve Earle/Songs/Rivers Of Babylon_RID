@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where away
+SECONDARY:RESTRAINT                                              2
+    captivity require
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rivers
+EMOTIONS:SADNESS                                                 1
+    wept
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 20.000000 %
+
+42 words total

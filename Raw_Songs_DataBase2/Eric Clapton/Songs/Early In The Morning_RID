@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         9
+    see see see see look see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    reach find used used used reach find used
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at where where middle where at where
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when early early early when early
+EMOTIONS:AGGRESSION                                              4
+    break break break break
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lay lay lay lay
+PRIMARY:NEED:ORALITY                                             3
+    drink drinks gin
+SECONDARY:ABSTRACTION                                            2
+    think think
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grown grown
+EMOTIONS:AFFECTION                                               2
+    kind kind
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door floor
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 56.000000 %
+SECONDARY           : 32.000000 %
+EMOTIONS            : 12.000000 %
+
+204 words total

@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       23
+    long long long long long where where back back long long long long long long back long long long long long long long
+EMOTIONS:AGGRESSION                                             17
+    knives knives knives knife fighting attack knives knives knives knife knife stab knives knives knives knife knife
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when once
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 53.191489 %
+SECONDARY           : 8.510638 %
+EMOTIONS            : 38.297872 %
+
+160 words total

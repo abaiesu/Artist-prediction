@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when when when when when when when when when
+PRIMARY:NEED:ORALITY                                             5
+    soup soup soup soup soup
+EMOTIONS:AFFECTION                                               4
+    like love darlin love
+SECONDARY:ABSTRACTION                                            2
+    why cause
+PRIMARY:SENSATION:VISION                                         2
+    look moonlight
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:SADNESS                                                 1
+    depress
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bath
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 48.275862 %
+EMOTIONS            : 17.241379 %
+
+137 words total

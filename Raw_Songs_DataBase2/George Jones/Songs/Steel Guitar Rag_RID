@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                               5
+    kind like kind kind like
+PRIMARY:SENSATION:SOUND                                          5
+    melody hear heart rhythm hear
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old when when old old
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    guitar sing cry guitar
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find makes make
+PRIMARY:SENSATION:HARD                                           3
+    steel steel steel
+SECONDARY:ABSTRACTION                                            3
+    may choosy them
+PRIMARY:SENSATION:VISION                                         2
+    seen see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along away
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    agree
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolls
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slide
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heavenly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+EMOTIONS:AGGRESSION                                              1
+    beat
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    beer
+SECONDARY:RESTRAINT                                              1
+    bound
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 39.534884 %
+SECONDARY           : 34.883721 %
+EMOTIONS            : 25.581395 %
+
+126 words total

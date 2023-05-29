@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               4
+    kind kind kind kind
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling fallen
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed bed
+PRIMARY:SENSATION:VISION                                         2
+    blue stars
+PRIMARY:SENSATION:TOUCH                                          2
+    touching touching
+SECONDARY:ORDER                                                  2
+    listening listening
+SECONDARY:ABSTRACTION                                            1
+    real
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sung
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 18.181818 %
+EMOTIONS            : 27.272727 %
+
+85 words total

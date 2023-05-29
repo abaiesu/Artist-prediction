@@ -1,0 +1,52 @@
+PRIMARY:NEED:ORALITY                                            12
+    whiskey drunk drunk drunk sugar gin drunk drunk drunk drunk drunk drunk
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when tonight weekend time tonight tonight weekend time tonight weekend time tonight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    off at out off out out off out off
+SECONDARY:ABSTRACTION                                            7
+    guess know cause cause know know cause
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talking met talking talking talking talking
+EMOTIONS:ANXIETY                                                 4
+    trouble worry worry worry
+EMOTIONS:AFFECTION                                               3
+    friends like like
+EMOTIONS:AGGRESSION                                              3
+    fight fight fight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    jumping jumping jumping
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heading handsy
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line hall
+PRIMARY:SENSATION:TASTE                                          2
+    taste sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dives
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bathroom
+PRIMARY:NEED:ANALITY                                             1
+    stall
+PRIMARY:NEED:SEX                                                 1
+    kisses
+
+PRIMARY             : 53.164557 %
+SECONDARY           : 34.177215 %
+EMOTIONS            : 12.658228 %
+
+500 words total

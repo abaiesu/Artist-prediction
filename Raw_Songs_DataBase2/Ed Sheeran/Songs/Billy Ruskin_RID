@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    week now when time when time quick when
+PRIMARY:SENSATION:VISION                                         5
+    picture see see see see
+EMOTIONS:AFFECTION                                               3
+    friend friend friend
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    introduce please please
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye hand eye
+SECONDARY:ABSTRACTION                                            3
+    know understand know
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep paranoia
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place out
+EMOTIONS:SADNESS                                                 1
+    paint
+EMOTIONS:AGGRESSION                                              1
+    steal
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+
+PRIMARY             : 37.142857 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 20.000000 %
+
+194 words total

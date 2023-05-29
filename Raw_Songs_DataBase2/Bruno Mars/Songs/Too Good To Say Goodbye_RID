@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              28
+    friend love like love like goodbye goodbye love darlin friend love like love like goodbye goodbye love like love like goodbye goodbye love like love like goodbye goodbye
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    treated tell tell tell say tell tell tell say tell say tell say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    try find make try find make won make find make find make
+SECONDARY:ABSTRACTION                                           10
+    why why cause know why why cause know cause cause
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever again when again when
+EMOTIONS:AGGRESSION                                              3
+    brokenhearted fight fight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away point
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 6.493506 %
+SECONDARY           : 53.246753 %
+EMOTIONS            : 40.259740 %
+
+423 words total

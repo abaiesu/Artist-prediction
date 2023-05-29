@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    sometimes sometimes sometimes sometimes sometimes sometimes sometimes everything sometimes sometimes sometimes sometimes sometimes sometimes sometimes
+SECONDARY:ABSTRACTION                                            7
+    knows meant cause reason guess reason guess
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    off off back off back back
+PRIMARY:SENSATION:VISION                                         5
+    seen blue see blue see
+EMOTIONS:AGGRESSION                                              4
+    enemy harm hurt attack
+PRIMARY:NEED:ORALITY                                             4
+    drink drink gin whiskey
+EMOTIONS:AFFECTION                                               2
+    friend like
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    cure cure
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shades
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+SECONDARY:RESTRAINT                                              1
+    prison
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 37.735849 %
+SECONDARY           : 50.943396 %
+EMOTIONS            : 11.320755 %
+
+249 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    point front longer point round round round
+SECONDARY:ABSTRACTION                                            5
+    know cause real why know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    offer say offer offer offer
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today today
+PRIMARY:NEED:ORALITY                                             2
+    drink throat
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    hearty
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 10.000000 %
+
+210 words total

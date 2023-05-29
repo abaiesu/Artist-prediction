@@ -1,0 +1,44 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   10
+    stream damp dew rain damp dew rain damp dew rain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where where where away where where where where where where
+PRIMARY:NEED:ANALITY                                             6
+    dungeon dungeon dungeon dungeon dungeon dungeon
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    fellers falls falls digging falls
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    coal sun sun coal sun
+PRIMARY:SENSATION:VISION                                         5
+    shines seen shines look shines
+SECONDARY:TEMPORAL REFERENCES                                    3
+    till when then
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    blood body bones
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    pleasures pleasures pleasures
+EMOTIONS:AFFECTION                                               2
+    like pity
+EMOTIONS:SADNESS                                                 1
+    dreary
+SECONDARY:ORDER                                                  1
+    form
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    labor
+PRIMARY:NEED:ORALITY                                             1
+    drunkard
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:NEED:SEX                                                 1
+    lust
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heavenly
+
+PRIMARY             : 80.327869 %
+SECONDARY           : 14.754098 %
+EMOTIONS            : 4.918033 %
+
+262 words total

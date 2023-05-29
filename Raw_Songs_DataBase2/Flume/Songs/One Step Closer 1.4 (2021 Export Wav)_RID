@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    closer closer closer center back out closer closer closer closer inside close distance closer closer closer closer closer
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    step step step step step step step step step step step step
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    screen shadow
+PRIMARY:SENSATION:TOUCH                                          2
+    touch rubbed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    neck skin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smoke smoke
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:RESTRAINT                                              1
+    shutter
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+
+PRIMARY             : 87.234043 %
+SECONDARY           : 10.638298 %
+EMOTIONS            : 2.127660 %
+
+157 words total

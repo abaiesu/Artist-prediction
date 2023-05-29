@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    now when when when once once once once now once once once once once when
+SECONDARY:ABSTRACTION                                           10
+    know think think think know true figured truth think know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    near behind out out out
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    bed laid laying laid laying
+PRIMARY:SENSATION:SOUND                                          3
+    heart sound sound
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    saying said
+EMOTIONS:AGGRESSION                                              2
+    break break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 35.849057 %
+SECONDARY           : 54.716981 %
+EMOTIONS            : 9.433962 %
+
+179 words total

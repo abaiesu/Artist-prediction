@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:COLD                                           6
+    cold cold child cold child cold
+SECONDARY:ABSTRACTION                                            4
+    why why why why
+PRIMARY:SENSATION:VISION                                         3
+    shine look look
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    tides wash
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    bridge bridge
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sighs sighs
+EMOTIONS:AGGRESSION                                              2
+    anger anger
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 15.384615 %
+
+75 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at long back behind at at
+SECONDARY:ABSTRACTION                                            4
+    know know them them
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call asks say
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used used
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wakes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 44.000000 %
+EMOTIONS            : 8.000000 %
+
+133 words total

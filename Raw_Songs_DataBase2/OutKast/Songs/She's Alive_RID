@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at long at at at at at at at
+SECONDARY:ABSTRACTION                                            9
+    knew thinks know truly believe why sure them knew
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    help said help tell tell help help help
+SECONDARY:RESTRAINT                                              5
+    must must must must must
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+SECONDARY:TEMPORAL REFERENCES                                    3
+    year time now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    working money
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+EMOTIONS:AGGRESSION                                              1
+    deprived
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 26.530612 %
+SECONDARY           : 59.183673 %
+EMOTIONS            : 14.285714 %
+
+332 words total

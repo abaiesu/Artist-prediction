@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:SOUND                                          7
+    music music music hear music music music
+SECONDARY:ABSTRACTION                                            6
+    know know knew something knew knew
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said gift say say says gift
+SECONDARY:TEMPORAL REFERENCES                                    5
+    week year once again again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    place where outside place where
+EMOTIONS:AFFECTION                                               4
+    love farewell loving love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    died death death
+PRIMARY:SENSATION:VISION                                         3
+    witness gray shining
+EMOTIONS:GLORY                                                   3
+    rich hero hero
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky grows grows
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sang played played
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rained rain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets streets
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beauty beauty
+EMOTIONS:AGGRESSION                                              1
+    fighting
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    soared
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandered
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waved
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+
+PRIMARY             : 53.225806 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 17.741935 %
+
+262 words total

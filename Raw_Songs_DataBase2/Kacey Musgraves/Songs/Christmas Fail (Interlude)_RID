@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    gifts gifts said gifts promise help
+SECONDARY:ABSTRACTION                                            6
+    truth know know themselves figure know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    closer closer out front out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    buy buy make paid
+SECONDARY:TEMPORAL REFERENCES                                    3
+    hour year year
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    relaxed
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:SOUND                                          1
+    loud
+EMOTIONS:ANXIETY                                                 1
+    worry
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 65.517241 %
+EMOTIONS            : 6.896552 %
+
+150 words total

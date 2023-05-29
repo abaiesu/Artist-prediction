@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    side away back over long away over long away
+SECONDARY:ABSTRACTION                                            7
+    thought know truth thought true knew true
+EMOTIONS:AFFECTION                                               3
+    love love love
+EMOTIONS:POSITIVE AFFECT                                         3
+    glad glad glad
+EMOTIONS:AGGRESSION                                              2
+    hurt stole
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    thank thank
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleepless sleepless
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died died
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ago ago
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 36.111111 %
+EMOTIONS            : 25.000000 %
+
+180 words total

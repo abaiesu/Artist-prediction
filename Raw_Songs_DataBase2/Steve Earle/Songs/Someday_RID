@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    back away at out far where nearest here over out here round back
+SECONDARY:ABSTRACTION                                            7
+    learn know cause know know cause cause
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    lake rainbow
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work countin
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+PRIMARY:NEED:ORALITY                                             1
+    beer
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    football
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 61.764706 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 2.941176 %
+
+170 words total

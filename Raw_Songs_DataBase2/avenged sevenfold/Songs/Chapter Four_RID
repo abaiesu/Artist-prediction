@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    here closed here closed side far away out out away where out far away out out away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         12
+    hand blood head eyes hand blood head eyes hands hands blood hands
+EMOTIONS:AGGRESSION                                              9
+    kill murder vengeance kill murder vengeance murder vengeance deceit
+SECONDARY:RESTRAINT                                              8
+    punishment punishment must punishment must must punishment must
+PRIMARY:SENSATION:VISION                                         5
+    light light light light grey
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight tonight tonight now now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    sight sight cries sight sight
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow follow gift
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall fall fallen
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:SENSATION:TASTE                                          2
+    taste taste
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died died
+PRIMARY:SENSATION:HARD                                           2
+    hardship hardship
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high above
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:NEED:ANALITY                                             1
+    soil
+
+PRIMARY             : 57.303371 %
+SECONDARY           : 24.719101 %
+EMOTIONS            : 17.977528 %
+
+297 words total

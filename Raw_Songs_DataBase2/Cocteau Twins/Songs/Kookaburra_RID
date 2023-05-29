@@ -1,0 +1,26 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    spark candle spark candle spark
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far away away away
+SECONDARY:ABSTRACTION                                            4
+    know know know decide
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call call forgive call
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when past
+EMOTIONS:AGGRESSION                                              2
+    spurns doubt
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing dancing
+EMOTIONS:AFFECTION                                               2
+    love marry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:VISION                                         1
+    rouge
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 22.222222 %
+
+126 words total

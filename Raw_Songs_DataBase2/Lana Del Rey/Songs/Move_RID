@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    again when again now when when when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make find find find find find find
+SECONDARY:ABSTRACTION                                            5
+    think learn learn think think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at back back back
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say tell tell tell
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+EMOTIONS:ANXIETY                                                 2
+    shy worrying
+PRIMARY:SENSATION:COLD                                           1
+    snow
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AGGRESSION                                              1
+    abused
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+
+PRIMARY             : 34.883721 %
+SECONDARY           : 55.813953 %
+EMOTIONS            : 9.302326 %
+
+257 words total

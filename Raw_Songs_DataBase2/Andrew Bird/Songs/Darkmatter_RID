@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    away out where between sides back out where between sides
+SECONDARY:ABSTRACTION                                           10
+    certain learn real decide true thought thought something decide true
+EMOTIONS:AGGRESSION                                              6
+    tore gun shoots shoots shoot kick
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand head necks head
+PRIMARY:SENSATION:VISION                                         4
+    looks rays rays rays
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when while every
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help say
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+PRIMARY:NEED:ORALITY                                             2
+    tongues naus
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    growing ladder
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spines
+PRIMARY:SENSATION:HARD                                           1
+    steel
+PRIMARY:NEED:ANALITY                                             1
+    bile
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:POSITIVE AFFECT                                         1
+    elation
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:RESTRAINT                                              1
+    catching
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+
+PRIMARY             : 51.785714 %
+SECONDARY           : 30.357143 %
+EMOTIONS            : 17.857143 %
+
+212 words total

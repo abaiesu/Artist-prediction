@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    far close close open front close close close close off here
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say say said said meetin said say mention
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             5
+    fantastically fantastically fantastically fantastically fantastically
+SECONDARY:TEMPORAL REFERENCES                                    4
+    minute ago minute now
+PRIMARY:SENSATION:VISION                                         2
+    look behold
+SECONDARY:ABSTRACTION                                            2
+    certainly certainly
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:NEED:SEX                                                 1
+    fuckin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    roof
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:AGGRESSION                                              1
+    doubt
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:NEED:ANALITY                                             1
+    pissed
+PRIMARY:SENSATION:SOFT                                           1
+    gentlemen
+
+PRIMARY             : 56.818182 %
+SECONDARY           : 40.909091 %
+EMOTIONS            : 2.272727 %
+
+171 words total

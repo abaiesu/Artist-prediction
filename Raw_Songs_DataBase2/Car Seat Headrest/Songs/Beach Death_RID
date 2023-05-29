@@ -1,0 +1,52 @@
+PRIMARY:SENSATION:VISION                                         7
+    looked watched see watch pictures see watch
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    called asking told explain told explain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at at out off at
+EMOTIONS:AGGRESSION                                              4
+    threatening shoot break beat
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    thumb body feet
+EMOTIONS:AFFECTION                                               3
+    goodbye liked love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry play sing
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    dawn jumped
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds cliff
+PRIMARY:SENSATION:SOUND                                          2
+    hum heard
+SECONDARY:ABSTRACTION                                            2
+    thought something
+SECONDARY:TEMPORAL REFERENCES                                    2
+    season season
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    finish finish
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:SENSATION:COLD                                           1
+    ice
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    raining
+EMOTIONS:SADNESS                                                 1
+    painting
+PRIMARY:NEED:ORALITY                                             1
+    sucking
+PRIMARY:NEED:ANALITY                                             1
+    messing
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:SENSATION:HARD                                           1
+    stiff
+
+PRIMARY             : 54.716981 %
+SECONDARY           : 22.641509 %
+EMOTIONS            : 22.641509 %
+
+260 words total

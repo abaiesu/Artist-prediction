@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please please say
+PRIMARY:SENSATION:VISION                                         3
+    see rays see
+SECONDARY:ABSTRACTION                                            3
+    tender why why
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    seas rain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    path path
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    valleys below
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun warm
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:AGGRESSION                                              1
+    deceive
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 10.714286 %
+
+109 words total

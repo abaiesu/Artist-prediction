@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         15
+    corpse flesh flesh face face flesh face flesh flesh face flesh flesh flesh face flesh
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when then
+EMOTIONS:AGGRESSION                                              2
+    kill kill
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 13.793103 %
+EMOTIONS            : 31.034483 %
+
+89 words total

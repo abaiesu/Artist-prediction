@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    off off off off off off off off southern off off off off
+SECONDARY:MORAL IMPERATIVE                                      12
+    right right right right right right right right right right right right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    fantasy ecstasy fantasy ecstasy fantasy ecstasy fantasy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    hot hot hot hot hot
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    shake shake shake shake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pick make make
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:NEED:ORALITY                                             2
+    ale ale
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old old
+EMOTIONS:AGGRESSION                                              2
+    rebel rebel
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    revelry revelry
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    belle
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 61.016949 %
+SECONDARY           : 33.898305 %
+EMOTIONS            : 5.084746 %
+
+265 words total

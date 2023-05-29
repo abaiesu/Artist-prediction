@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                        13
+    look rough look look blue look rough look look look rough look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    apart wide far across wide wide
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when while sometimes when when
+SECONDARY:ABSTRACTION                                            4
+    almost thinking think caused
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    sea sea sea sea
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    deep deep deep deep
+EMOTIONS:AFFECTION                                               3
+    darlin darlin darlin
+PRIMARY:SENSATION:SOUND                                          3
+    heart hear heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+PRIMARY:SENSATION:HARD                                           3
+    rocky rocky rocky
+PRIMARY:SENSATION:TASTE                                          3
+    sweetest sweetest sweetest
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms arms arms
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    asleep asleep asleep
+EMOTIONS:AGGRESSION                                              2
+    breaks broke
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 73.437500 %
+SECONDARY           : 17.187500 %
+EMOTIONS            : 9.375000 %
+
+166 words total

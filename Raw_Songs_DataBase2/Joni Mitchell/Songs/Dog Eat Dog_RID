@@ -1,0 +1,56 @@
+PRIMARY:NEED:ORALITY                                            14
+    eat eat eat eat eat eat eat eat eat eat eat eat eat eat
+PRIMARY:SENSATION:SOUND                                          5
+    racketeers racketeers racketeers snap hearing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where where long among away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money buy sell burdened
+EMOTIONS:AGGRESSION                                              3
+    hate breaking beat
+EMOTIONS:AFFECTION                                               3
+    love like loving
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands legs hands
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time every
+SECONDARY:ABSTRACTION                                            3
+    understand know knowing
+PRIMARY:SENSATION:VISION                                         3
+    watchful looking seeing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call treated
+EMOTIONS:GLORY                                                   2
+    wealth scorned
+PRIMARY:SENSATION:TOUCH                                          2
+    stroking touching
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    waking
+PRIMARY:NEED:ANALITY                                             1
+    dungeon
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:MORAL IMPERATIVE                                       1
+    justice
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    games
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flam
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:SENSATION:TASTE                                          1
+    savored
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:NEED:SEX                                                 1
+    lusting
+
+PRIMARY             : 64.062500 %
+SECONDARY           : 21.875000 %
+EMOTIONS            : 14.062500 %
+
+257 words total

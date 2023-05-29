@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    tell say say say say promise say say tell met met say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out places where where away at places where where back where where
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                            12
+    stranger stranger stranger stranger stranger stranger stranger stranger stranger stranger stranger stranger
+SECONDARY:ABSTRACTION                                           10
+    different think consequences know different think consequences know know know
+EMOTIONS:AFFECTION                                               6
+    loved like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now time time now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    use use buy use
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:NEED:ORALITY                                             1
+    dinner
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+EMOTIONS:AGGRESSION                                              1
+    gun
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+
+PRIMARY             : 42.647059 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 10.294118 %
+
+420 words total

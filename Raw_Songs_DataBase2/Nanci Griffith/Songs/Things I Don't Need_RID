@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out over over ahead behind behind at behind behind
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time today now today now today now now
+SECONDARY:ABSTRACTION                                            6
+    thought weigh true weigh why weigh
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    woke woke woke
+EMOTIONS:AFFECTION                                               2
+    love like
+EMOTIONS:GLORY                                                   2
+    wonder wondering
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    picking
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+
+PRIMARY             : 45.714286 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 11.428571 %
+
+249 words total

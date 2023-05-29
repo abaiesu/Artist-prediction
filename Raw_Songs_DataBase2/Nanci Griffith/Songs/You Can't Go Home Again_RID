@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where off back east here here back away here here
+PRIMARY:ICARIAN IMAGERY:WATER                                    8
+    river sea river sea river sea river sea
+PRIMARY:SENSATION:VISION                                         6
+    watch colorado colorado blue colorado colorado
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    sleep dreams dreams dreams dreams sleep
+SECONDARY:ABSTRACTION                                            6
+    know why know why know why
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    streets window line line
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    roll roll roll roll
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall slip fall
+SECONDARY:TEMPORAL REFERENCES                                    3
+    past today old
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    cheek headin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees hill
+PRIMARY:SENSATION:COLD                                           2
+    north cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:SENSATION:HARD                                           1
+    hardest
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 82.812500 %
+SECONDARY           : 15.625000 %
+EMOTIONS            : 1.562500 %
+
+275 words total

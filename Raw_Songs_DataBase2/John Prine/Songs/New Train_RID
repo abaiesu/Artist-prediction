@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    round square far away out round away far away out far away
+SECONDARY:TEMPORAL REFERENCES                                    9
+    everywhere when when everyday when yesterdays when when when
+SECONDARY:ORDER                                                  5
+    former former simple simple simple
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    window step window step step
+EMOTIONS:AFFECTION                                               4
+    bride friends friends friends
+PRIMARY:SENSATION:VISION                                         4
+    look see look see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    greet say greet greet
+PRIMARY:SENSATION:COLD                                           3
+    cool ice ice
+SECONDARY:ABSTRACTION                                            3
+    plane history cause
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand feet
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    melted melted
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shook shook
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    collected makes
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistakes faded
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 49.275362 %
+SECONDARY           : 36.231884 %
+EMOTIONS            : 14.492754 %
+
+292 words total

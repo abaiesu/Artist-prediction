@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    everybody everybody everyone everybody everybody everybody everybody everybody everybody
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    sing sing sing sing sight sing sing sing sing
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    telling say share call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    record goal won
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds high
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    close here
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun delights
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:SENSATION:SOFT                                           1
+    feather
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:SADNESS                                                 1
+    depressed
+EMOTIONS:GLORY                                                   1
+    golden
+
+PRIMARY             : 20.512821 %
+SECONDARY           : 41.025641 %
+EMOTIONS            : 38.461538 %
+
+266 words total

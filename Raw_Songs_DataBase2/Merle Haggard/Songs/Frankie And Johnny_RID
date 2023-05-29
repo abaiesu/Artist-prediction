@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    here here over back out here out out back out away
+SECONDARY:ABSTRACTION                                            7
+    true true cause cause may cause cause
+SECONDARY:TEMPORAL REFERENCES                                    7
+    hour ago now old times time today
+EMOTIONS:AFFECTION                                               4
+    love lovin lover love
+PRIMARY:SENSATION:VISION                                         4
+    stars saw looked saw
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said tell said said
+EMOTIONS:AGGRESSION                                              3
+    shot shot shot
+PRIMARY:NEED:ORALITY                                             2
+    corner beer
+PRIMARY:SENSATION:TOUCH                                          2
+    rubber rubber
+SECONDARY:RESTRAINT                                              2
+    policemen locked
+PRIMARY:SENSATION:TASTE                                          1
+    sweethearts
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bucket
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makin
+PRIMARY:SENSATION:HARD                                           1
+    hardwood
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:SOUND                                          1
+    hearses
+PRIMARY:NEED:ANALITY                                             1
+    dungeon
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+SECONDARY:MORAL IMPERATIVE                                       1
+    moral
+
+PRIMARY             : 48.275862 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 13.793103 %
+
+321 words total

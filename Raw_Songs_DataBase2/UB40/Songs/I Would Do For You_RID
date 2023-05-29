@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    talking call promise say ask tell please meet promise
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    tried try make mend try record won
+SECONDARY:ABSTRACTION                                            6
+    know know know believe something know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over behind back inside straight here
+SECONDARY:TEMPORAL REFERENCES                                    4
+    past when again then
+EMOTIONS:AGGRESSION                                              2
+    wound hurts
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+PRIMARY:NEED:ORALITY                                             1
+    drink
+EMOTIONS:AFFECTION                                               1
+    mates
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+EMOTIONS:SADNESS                                                 1
+    sadness
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 30.434783 %
+SECONDARY           : 60.869565 %
+EMOTIONS            : 8.695652 %
+
+209 words total

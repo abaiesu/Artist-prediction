@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    place place place place out place place ahead at out place place
+SECONDARY:TEMPORAL REFERENCES                                   12
+    every time time time time every time when every time every time
+EMOTIONS:AFFECTION                                               9
+    like like like like friend like like like like
+EMOTIONS:AGGRESSION                                              8
+    hit wreck hit wreck hit wreck hit wreck
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    make win make find make spend spend make
+SECONDARY:ABSTRACTION                                            6
+    know cause think know know know
+PRIMARY:NEED:ORALITY                                             5
+    drink whiskey drink gin drink
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:NEED:SEX                                                 1
+    bitch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+
+PRIMARY             : 31.746032 %
+SECONDARY           : 41.269841 %
+EMOTIONS            : 26.984127 %
+
+259 words total

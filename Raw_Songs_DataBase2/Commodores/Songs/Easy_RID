@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           10
+    know know why why why why why know why why
+EMOTIONS:AFFECTION                                               8
+    like like like like like like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    paid make try
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny happy
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everybody when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:SENSATION:SOUND                                          1
+    sounds
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AGGRESSION                                              1
+    stole
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    borrowed
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 12.121212 %
+SECONDARY           : 51.515152 %
+EMOTIONS            : 36.363636 %
+
+193 words total

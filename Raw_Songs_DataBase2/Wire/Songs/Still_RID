@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    inside outside between over round
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play art
+PRIMARY:SENSATION:VISION                                         2
+    light looks
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    foot
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twist
+PRIMARY:NEED:ORALITY                                             1
+    cooks
+
+PRIMARY             : 77.777778 %
+SECONDARY           : 5.555556 %
+EMOTIONS            : 16.666667 %
+
+36 words total

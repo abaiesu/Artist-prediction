@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   20
+    everything when when when when when everyday when now everything when when when now everything everything when when when everyone
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used spend used used belongs
+EMOTIONS:POSITIVE AFFECT                                         4
+    laughter joy laughter joy
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    told tell meet
+EMOTIONS:AFFECTION                                               2
+    loving loving
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    near
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+
+PRIMARY             : 10.256410 %
+SECONDARY           : 74.358974 %
+EMOTIONS            : 15.384615 %
+
+189 words total

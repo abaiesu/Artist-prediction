@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    then then date then while again again then while again again then
+PRIMARY:SENSATION:SOUND                                          8
+    heartache heartache heartaches heartache heartaches heartache heartache heartache
+SECONDARY:ABSTRACTION                                            8
+    know know them them know know them them
+EMOTIONS:AFFECTION                                               4
+    love friends love friends
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    violins played violins played
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell called called
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    bought make make
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistakes mistakes
+PRIMARY:SENSATION:SOFT                                           2
+    soft soft
+SECONDARY:ORDER                                                  2
+    listened listened
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 26.530612 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 16.326531 %
+
+162 words total

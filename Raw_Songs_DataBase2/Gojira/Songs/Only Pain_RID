@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    point away long
+SECONDARY:ABSTRACTION                                            2
+    solution problem
+EMOTIONS:SADNESS                                                 2
+    pain pain
+EMOTIONS:AGGRESSION                                              2
+    slain fierce
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    offering
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+SECONDARY:RESTRAINT                                              1
+    cage
+PRIMARY:NEED:ANALITY                                             1
+    rot
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+EMOTIONS:AFFECTION                                               1
+    loved
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 35.000000 %
+
+126 words total

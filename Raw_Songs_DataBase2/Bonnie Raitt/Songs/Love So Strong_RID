@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                        25
+    looks look see bright bright see shine shine stars brighten look look see bright see bright bright stars see shine shine stars brighten see shine
+SECONDARY:SOCIAL BEHAVIOR                                       24
+    say telling follow follow said said said treat treat treat treat treat treat treat treat treat treat treat treat treat treat treat treat treat
+SECONDARY:TEMPORAL REFERENCES                                    9
+    every every every time time when old now now
+EMOTIONS:AFFECTION                                               9
+    love love love love love like like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried used used tried make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out out at at at
+SECONDARY:MORAL IMPERATIVE                                       5
+    should should should should should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand face face face
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    sky sky sky sky
+SECONDARY:ABSTRACTION                                            3
+    know sure sure
+PRIMARY:NEED:ORALITY                                             3
+    honey honey honey
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:ANXIETY                                                 1
+    worrying
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pond
+EMOTIONS:AGGRESSION                                              1
+    break
+
+PRIMARY             : 43.396226 %
+SECONDARY           : 43.396226 %
+EMOTIONS            : 13.207547 %
+
+357 words total

@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         6
+    watch glow watch glow watch glow
+EMOTIONS:SADNESS                                                 4
+    sorry sorry sorry sorry
+PRIMARY:SENSATION:TOUCH                                          4
+    touch touch touch touch
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every every every every
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talk told told
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    growing growing
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fell
+EMOTIONS:AGGRESSION                                              2
+    war war
+PRIMARY:NEED:ORALITY                                             2
+    pearl pearl
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll roll
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+
+PRIMARY             : 60.975610 %
+SECONDARY           : 17.073171 %
+EMOTIONS            : 21.951220 %
+
+184 words total

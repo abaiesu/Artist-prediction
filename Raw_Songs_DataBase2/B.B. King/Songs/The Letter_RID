@@ -1,0 +1,16 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    tell treated called borrow tell treated called say say
+EMOTIONS:AFFECTION                                               5
+    friends friends friends friends friend
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where where close close
+SECONDARY:ABSTRACTION                                            3
+    know know think
+EMOTIONS:GLORY                                                   2
+    greatest greatest
+
+PRIMARY             : 17.391304 %
+SECONDARY           : 52.173913 %
+EMOTIONS            : 30.434783 %
+
+144 words total

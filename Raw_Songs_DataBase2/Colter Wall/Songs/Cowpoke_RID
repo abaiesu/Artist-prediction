@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            5
+    knows reason know cause know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where out back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pick find spend
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy carefree
+EMOTIONS:AGGRESSION                                              2
+    broke broke
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drift drifting
+PRIMARY:NEED:ORALITY                                             2
+    eating beans
+EMOTIONS:SADNESS                                                 1
+    lonesome
+EMOTIONS:GLORY                                                   1
+    rich
+EMOTIONS:ANXIETY                                                 1
+    cares
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springtime
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+
+PRIMARY             : 36.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 28.000000 %
+
+121 words total

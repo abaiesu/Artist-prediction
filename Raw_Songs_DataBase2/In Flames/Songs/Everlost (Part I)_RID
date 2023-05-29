@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         2
+    lights lights
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    dim darkened
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    windows walls
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answer shelter
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    deliver possess
+EMOTIONS:SADNESS                                                 1
+    tearful
+PRIMARY:NEED:ORALITY                                             1
+    starvation
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    atmosphere
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everlost
+PRIMARY:SENSATION:SOUND                                          1
+    sounds
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    apart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 5.263158 %
+
+107 words total

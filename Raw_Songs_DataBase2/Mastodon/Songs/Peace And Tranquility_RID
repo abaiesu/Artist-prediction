@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away away away at away away at away
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    peaceful tranquility peaceful tranquility lies peaceful tranquility
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    speak said ask told speaking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    swept swept try swept
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when everything everything
+PRIMARY:SENSATION:SOUND                                          3
+    heard hear heart
+PRIMARY:SENSATION:VISION                                         3
+    seen glimpse looking
+EMOTIONS:ANXIETY                                                 2
+    trouble trouble
+SECONDARY:ABSTRACTION                                            2
+    true plane
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    swim
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:RESTRAINT                                              1
+    caught
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 8.695652 %
+
+215 words total

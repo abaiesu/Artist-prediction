@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       22
+    over at between side outside at apart out where out side side outside outside at apart side side outside outside at apart
+SECONDARY:TEMPORAL REFERENCES                                   18
+    years everything time when times everything when ever ever time times times everything when times times everything when
+SECONDARY:SOCIAL BEHAVIOR                                       18
+    meet say called tell call say tell talk called tell call say tell called tell call say tell
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  16
+    highs highs highs highs highs highs highs highs highs highs highs highs highs highs highs highs
+PRIMARY:ICARIAN IMAGERY:DEPTH                                   16
+    lows lows lows lows lows lows lows lows lows lows lows lows lows lows lows lows
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    used tried make tried tried tried tried
+EMOTIONS:SADNESS                                                 7
+    sorry sorry sorry sorry sorry sorry sorry
+PRIMARY:SENSATION:SOUND                                          4
+    hear heart heart heart
+SECONDARY:RESTRAINT                                              3
+    must must must
+EMOTIONS:AGGRESSION                                              3
+    breaking breaking breaking
+SECONDARY:ABSTRACTION                                            2
+    supposed difference
+EMOTIONS:GLORY                                                   1
+    wondering
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+
+PRIMARY             : 50.819672 %
+SECONDARY           : 39.344262 %
+EMOTIONS            : 9.836066 %
+
+396 words total

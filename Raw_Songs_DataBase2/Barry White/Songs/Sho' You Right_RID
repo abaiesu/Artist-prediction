@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       27
+    here over over over over over over over over over over over over over over over over over over over over over over over over over over
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when everything tonight tonight now again when when tonight now again tonight now again tonight
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    said share share tell communicate say say say tell commitment shared tell call communicate
+SECONDARY:ABSTRACTION                                           13
+    know sure true true may know know real know know know know know
+SECONDARY:MORAL IMPERATIVE                                       9
+    right right right right respect right right right right
+EMOTIONS:AFFECTION                                               8
+    friend love dear kind love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    success achieve found make make making make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    head feet hair head toe
+PRIMARY:SENSATION:SOUND                                          2
+    heard sounds
+EMOTIONS:GLORY                                                   2
+    greatest great
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comfort beautiful
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    sooth lay
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:TOUCH                                          1
+    massage
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:SENSATION:HARD                                           1
+    brassiere
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 38.596491 %
+SECONDARY           : 50.877193 %
+EMOTIONS            : 10.526316 %
+
+562 words total

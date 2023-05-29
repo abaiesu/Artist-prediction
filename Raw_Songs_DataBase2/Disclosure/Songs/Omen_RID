@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        12
+    picture saw light see saw light see light see light see see
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when now then now now now now now
+SECONDARY:ABSTRACTION                                            4
+    something something different different
+SECONDARY:RESTRAINT                                              4
+    caught must caught must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    pay pay pay pay
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    attention attention attention attention
+EMOTIONS:AGGRESSION                                              4
+    torn hit torn torn
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart side apart apart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    frame lining lining
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face eyes
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 50.909091 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 12.727273 %
+
+235 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                             11
+    hurts betrayed hit hit break hit hit hurt hurt hurt hurt
+SECONDARY:TEMPORAL REFERENCES                                   11
+    tonight tonight time time tonight tonight time time time time time
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    treat say please please please please met met met
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    inside circle placed place place place place
+PRIMARY:SENSATION:VISION                                         7
+    green blue grey green blue grey seen
+SECONDARY:ABSTRACTION                                            6
+    think think know believe think think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    find find try find find find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes eyes eyes eyes eyes eyes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    heaven above above above above
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    below below below below
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gateway
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 39.506173 %
+SECONDARY           : 39.506173 %
+EMOTIONS            : 20.987654 %
+
+365 words total

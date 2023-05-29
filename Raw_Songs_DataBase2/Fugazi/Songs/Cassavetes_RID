@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    sell buy buy reaching try try
+SECONDARY:ABSTRACTION                                            5
+    truth something why truth something
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    calm quiet quiet
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    ask sale ask
+EMOTIONS:AGGRESSION                                              2
+    crush beating
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyed hand
+SECONDARY:TEMPORAL REFERENCES                                    1
+    till
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    control
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wallet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    front
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 53.333333 %
+EMOTIONS            : 16.666667 %
+
+163 words total

@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            8
+    knew know knew know know believe knew knew
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now now now now now now past
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where behind behind where
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:AGGRESSION                                              1
+    breaks
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    picture
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+
+PRIMARY             : 25.806452 %
+SECONDARY           : 61.290323 %
+EMOTIONS            : 12.903226 %
+
+192 words total

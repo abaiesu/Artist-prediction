@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                               5
+    kind kind kind kind kind
+PRIMARY:NEED:ORALITY                                             3
+    corner feed feed
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time every everything
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire fire searching
+PRIMARY:SENSATION:VISION                                         2
+    flashin scene
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found spender
+EMOTIONS:SADNESS                                                 2
+    orphans loners
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    coasting hall
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    cruising
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:SENSATION:SOUND                                          1
+    music
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    among
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+SECONDARY:ORDER                                                  1
+    class
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roller
+
+PRIMARY             : 53.125000 %
+SECONDARY           : 18.750000 %
+EMOTIONS            : 28.125000 %
+
+188 words total

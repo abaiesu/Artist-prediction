@@ -1,0 +1,62 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    inside off somewhere back behind wherever long long off at near off where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    won won found make found make make won
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    telling tellin follow asked please tells telling
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when time everybody now time time time
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:ABSTRACTION                                            4
+    thought something them believe
+EMOTIONS:AGGRESSION                                              3
+    deceived fighting abuse
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    clown game
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flaming search
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets wall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes head
+EMOTIONS:GLORY                                                   2
+    gold throne
+SECONDARY:MORAL IMPERATIVE                                       1
+    righteous
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    swoon
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:SADNESS                                                 1
+    suffer
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:NEED:ORALITY                                             1
+    pot
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:NEED:SEX                                                 1
+    kissed
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    descend
+
+PRIMARY             : 44.155844 %
+SECONDARY           : 37.662338 %
+EMOTIONS            : 18.181818 %
+
+311 words total

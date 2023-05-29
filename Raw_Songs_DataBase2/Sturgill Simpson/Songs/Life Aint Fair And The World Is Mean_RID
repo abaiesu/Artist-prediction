@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now everything old already ever
+PRIMARY:SENSATION:SOUND                                          5
+    voice ring hear sounds sound
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said told told promise
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used find won find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out between out long
+EMOTIONS:AGGRESSION                                              4
+    break hit hit rage
+SECONDARY:ABSTRACTION                                            3
+    them cause cause
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    coal smokey lit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    lines road line
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+EMOTIONS:GLORY                                                   2
+    proud proud
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highwayman
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    dim
+
+PRIMARY             : 42.222222 %
+SECONDARY           : 37.777778 %
+EMOTIONS            : 20.000000 %
+
+239 words total

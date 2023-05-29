@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away between away away away away away away away
+EMOTIONS:SADNESS                                                 6
+    sorry sorry sorry sorry sorry sorry
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes sometimes sometimes sometimes sometimes sometimes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    carried carried carried carried carried carried
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    helpless helpless helpless
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    screen screen
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:SENSATION:TOUCH                                          1
+    stings
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slips
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:AFFECTION                                               1
+    dear
+
+PRIMARY             : 46.341463 %
+SECONDARY           : 36.585366 %
+EMOTIONS            : 17.073171 %
+
+132 words total

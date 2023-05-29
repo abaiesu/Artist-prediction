@@ -1,0 +1,36 @@
+EMOTIONS:GLORY                                                  20
+    wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder wonder
+EMOTIONS:AFFECTION                                              15
+    love love loving loving love love love loving loving love love love love love loving
+SECONDARY:ABSTRACTION                                           13
+    them thought thought thought think ideas cause thought thought think know why know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at long long here back long here
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk said called said said called
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then now now when again now
+PRIMARY:SENSATION:VISION                                         6
+    seen look lookout seen look see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes head eyes
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+SECONDARY:RESTRAINT                                              1
+    lock
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 22.619048 %
+SECONDARY           : 34.523810 %
+EMOTIONS            : 42.857143 %
+
+381 words total

@@ -1,0 +1,48 @@
+SECONDARY:ABSTRACTION                                           11
+    something something knows something something why something why something something something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    along at at out at at at away where
+SECONDARY:TEMPORAL REFERENCES                                    9
+    then suddenly suddenly when suddenly when suddenly then suddenly
+PRIMARY:SENSATION:VISION                                         7
+    looking watchin blue look see see watchin
+PRIMARY:NEED:ORALITY                                             5
+    lunching diet fig dining cafe
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    accepting invite tell please
+EMOTIONS:AFFECTION                                               4
+    friend lover friend romance
+PRIMARY:SENSATION:SOUND                                          4
+    hear bell heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try countin money
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street gate
+SECONDARY:RESTRAINT                                              2
+    controlling must
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:GLORY                                                   1
+    wonderful
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    dim
+
+PRIMARY             : 48.571429 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 8.571429 %
+
+258 words total

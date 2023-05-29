@@ -1,0 +1,52 @@
+EMOTIONS:AGGRESSION                                              9
+    war shoot shoot deceit enemies torture war shoot shoot
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    call tell said guided said mention mention
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    games play play games play games play
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over where back over behind near
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    die die die lies die die
+SECONDARY:TEMPORAL REFERENCES                                    5
+    past year now every every
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    wave rolling rolling
+EMOTIONS:AFFECTION                                               3
+    love like like
+EMOTIONS:GLORY                                                   2
+    glory wonder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+SECONDARY:ABSTRACTION                                            2
+    think causing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blast
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:NEED:ANALITY                                             1
+    stink
+PRIMARY:NEED:ORALITY                                             1
+    drink
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheer
+PRIMARY:SENSATION:VISION                                         1
+    appear
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:MORAL IMPERATIVE                                       1
+    unjust
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 35.937500 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 35.937500 %
+
+297 words total

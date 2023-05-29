@@ -1,0 +1,52 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           8
+    ship sail ship ship ship ship ship ship
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    round wide where along at behind here
+SECONDARY:TEMPORAL REFERENCES                                    7
+    while while when while when every while
+PRIMARY:SENSATION:VISION                                         5
+    greenland greenland blue bright greenland
+EMOTIONS:POSITIVE AFFECT                                         4
+    cheer cheer cheer cheer
+PRIMARY:SENSATION:SOUND                                          4
+    hearts hearts hearts hearts
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make find money make
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean tide
+EMOTIONS:AFFECTION                                               2
+    likewise dear
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:ORDER                                                  1
+    order
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    dims
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heads
+PRIMARY:NEED:ORALITY                                             1
+    salt
+EMOTIONS:SADNESS                                                 1
+    weep
+PRIMARY:SENSATION:COLD                                           1
+    ice
+EMOTIONS:AGGRESSION                                              1
+    battle
+EMOTIONS:GLORY                                                   1
+    fame
+SECONDARY:ABSTRACTION                                            1
+    true
+PRIMARY:SENSATION:HARD                                           1
+    rock
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    hush
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 24.561404 %
+EMOTIONS            : 17.543860 %
+
+281 words total

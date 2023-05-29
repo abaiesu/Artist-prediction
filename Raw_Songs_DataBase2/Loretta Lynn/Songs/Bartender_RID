@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           12
+    something think know why knew learned them them know believe think know
+PRIMARY:SENSATION:VISION                                         4
+    see seen seen look
+EMOTIONS:AFFECTION                                               3
+    love like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    minute till now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please talk
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die rest
+PRIMARY:NEED:ORALITY                                             2
+    honey drink
+SECONDARY:RESTRAINT                                              2
+    bar stop
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:HARD                                           1
+    glass
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    price
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 57.500000 %
+EMOTIONS            : 12.500000 %
+
+187 words total

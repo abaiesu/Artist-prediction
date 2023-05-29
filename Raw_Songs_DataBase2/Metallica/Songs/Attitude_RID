@@ -1,0 +1,40 @@
+EMOTIONS:POSITIVE AFFECT                                        10
+    satisfied smile smile satisfaction satisfaction satisfaction smile satisfaction satisfaction satisfaction
+SECONDARY:ABSTRACTION                                            9
+    suppose suppose why suppose suppose them plan why why
+SECONDARY:TEMPORAL REFERENCES                                    9
+    while once ever again ever while once again ever
+EMOTIONS:AGGRESSION                                              7
+    cut kill kill kill kill kill kill
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    tree hunger hunger hunger hunger hunger hunger
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    asleep fever asleep fever asleep fever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at at here at here at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make cure pick cure cure
+PRIMARY:NEED:ORALITY                                             5
+    eat eat tongue eat tongue
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    throw throw throw throw throwing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    fire fire fire fire fire
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:NEED:ANALITY                                             3
+    sweat sweat sweat
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death death
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    twist twist
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    root
+
+PRIMARY             : 47.191011 %
+SECONDARY           : 30.337079 %
+EMOTIONS            : 22.471910 %
+
+276 words total

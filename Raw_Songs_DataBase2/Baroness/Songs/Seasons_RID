@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where outside inside where out inside away where where
+SECONDARY:TEMPORAL REFERENCES                                    5
+    seasons when seasons when seasons
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fall fall fall
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    rise rise rise rise
+EMOTIONS:AGGRESSION                                              4
+    break break break break
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    burn burn burn burn
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    swimming
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 69.444444 %
+SECONDARY           : 19.444444 %
+EMOTIONS            : 11.111111 %
+
+140 words total

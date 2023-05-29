@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            9
+    truth real think knew believe understand believe think believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away long long long long long long
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now time again now now again
+EMOTIONS:AFFECTION                                               5
+    love love loved like love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find make found make
+EMOTIONS:SADNESS                                                 3
+    suffer suffer suffer
+PRIMARY:SENSATION:SOUND                                          2
+    heard sound
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    pleased
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 36.956522 %
+SECONDARY           : 45.652174 %
+EMOTIONS            : 17.391304 %
+
+205 words total

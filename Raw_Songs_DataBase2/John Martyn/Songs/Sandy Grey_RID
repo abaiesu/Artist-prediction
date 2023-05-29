@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         7
+    grey grey grey grey grey see grey
+SECONDARY:ABSTRACTION                                            7
+    think reasons think think knowing thought think
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time now when today time time
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    message told say speaking message
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won makes found use trying
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away here away
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies laid
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 54.761905 %
+EMOTIONS            : 7.142857 %
+
+228 words total

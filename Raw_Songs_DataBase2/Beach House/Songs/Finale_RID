@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                           23
+    know know know know know know know know know know know know know know know know know know know know know know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time then time when time
+PRIMARY:SENSATION:VISION                                         4
+    see looking looking looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over over over over
+EMOTIONS:AFFECTION                                               3
+    like favorite likes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smoke sparkles
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roller
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sunglasses
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+EMOTIONS:AGGRESSION                                              1
+    ripped
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+
+PRIMARY             : 30.612245 %
+SECONDARY           : 59.183673 %
+EMOTIONS            : 10.204082 %
+
+235 words total

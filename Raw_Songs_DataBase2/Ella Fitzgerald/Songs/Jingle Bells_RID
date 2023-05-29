@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    open open open side out back open at away along open
+SECONDARY:TEMPORAL REFERENCES                                    7
+    tonight ago soon ago quickly now while
+PRIMARY:SENSATION:SOUND                                          6
+    bells ring bells bells bells bells
+EMOTIONS:POSITIVE AFFECT                                         5
+    laughing fun fun fun laughed
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    ride ride ride ride riding
+PRIMARY:SENSATION:COLD                                           2
+    snow snow
+PRIMARY:SENSATION:VISION                                         2
+    bright bright
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    lean fell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drifted laid
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirits
+SECONDARY:ABSTRACTION                                            1
+    thought
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 63.265306 %
+SECONDARY           : 22.448980 %
+EMOTIONS            : 14.285714 %
+
+215 words total

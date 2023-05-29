@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         9
+    stars stars stars stars stars stars moonlight stars stars
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart heart heart heart heart heart
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at long where out at apart at
+SECONDARY:TEMPORAL REFERENCES                                    7
+    ever when ever while while ever ever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes eyes eyes eyes eyes eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    dies dies linger dies
+EMOTIONS:AGGRESSION                                              3
+    break break break
+SECONDARY:ABSTRACTION                                            3
+    know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 21.818182 %
+EMOTIONS            : 18.181818 %
+
+247 words total

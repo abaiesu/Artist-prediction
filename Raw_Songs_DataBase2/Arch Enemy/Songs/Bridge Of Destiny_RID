@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at long overrated at longer longer long away
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    bridge wall bridge verge
+SECONDARY:ABSTRACTION                                            4
+    truth thought them them
+EMOTIONS:AGGRESSION                                              4
+    anger torture hurt enemy
+SECONDARY:TEMPORAL REFERENCES                                    3
+    moment old old
+EMOTIONS:ANXIETY                                                 2
+    fear afraid
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flapping wings
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face eyes
+PRIMARY:SENSATION:VISION                                         2
+    see watch
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    liquid pours
+PRIMARY:SENSATION:TASTE                                          1
+    tasted
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+SECONDARY:MORAL IMPERATIVE                                       1
+    laws
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    hypnotize
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirits
+SECONDARY:RESTRAINT                                              1
+    guardians
+EMOTIONS:GLORY                                                   1
+    glory
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endlessly
+
+PRIMARY             : 61.363636 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 15.909091 %
+
+145 words total

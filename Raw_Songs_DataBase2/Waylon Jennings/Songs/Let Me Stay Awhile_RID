@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time tonight then till now time till
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    behind here side behind here
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile smile smile
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used used find
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+EMOTIONS:AFFECTION                                               2
+    loving loving
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 56.666667 %
+EMOTIONS            : 16.666667 %
+
+140 words total

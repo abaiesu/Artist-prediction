@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out open open over open open open open open open over
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         10
+    head eyes hands body handle hand eyes body hands body
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say borrow please share borrow please please please
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    window door window door window door window door
+SECONDARY:ABSTRACTION                                            6
+    different know thinkin them cause different
+EMOTIONS:AFFECTION                                               5
+    like love love love love
+SECONDARY:RESTRAINT                                              4
+    lock lock lock lock
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try find make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleepin dreams
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+EMOTIONS:AGGRESSION                                              1
+    argument
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 34.920635 %
+EMOTIONS            : 9.523810 %
+
+358 words total

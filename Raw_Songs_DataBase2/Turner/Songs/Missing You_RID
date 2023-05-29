@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    here away circles long distance at away long distance at away out distance at away at
+SECONDARY:TEMPORAL REFERENCES                                   10
+    every time tonight time tonight tonight tonight tonight every time
+SECONDARY:ABSTRACTION                                            8
+    think why certain thinking almost know understand think
+PRIMARY:SENSATION:SOUND                                          6
+    heart hear heart heart heartbreak heart
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say message signal say message say
+EMOTIONS:AGGRESSION                                              5
+    raging breaking fight breaking raging
+SECONDARY:RESTRAINT                                              3
+    catch stop catch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes spend trying
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+PRIMARY:SENSATION:COLD                                           2
+    frozen frozen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+EMOTIONS:AFFECTION                                               2
+    like friends
+EMOTIONS:GLORY                                                   1
+    wondering
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:ANXIETY                                                 1
+    desperate
+PRIMARY:SENSATION:VISION                                         1
+    looks
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 45.205479 %
+SECONDARY           : 41.095890 %
+EMOTIONS            : 13.698630 %
+
+357 words total

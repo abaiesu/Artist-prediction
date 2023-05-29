@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    here over out far long here out close long long close long over
+SECONDARY:TEMPORAL REFERENCES                                   11
+    old till now season ever whenever till now now now time
+EMOTIONS:AFFECTION                                               9
+    love like like love like love like like love
+SECONDARY:ABSTRACTION                                            5
+    know reason choice sure supposed
+SECONDARY:RESTRAINT                                              3
+    stop stop stop
+PRIMARY:SENSATION:VISION                                         2
+    looking watch
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please help
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:AGGRESSION                                              1
+    war
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 37.735849 %
+SECONDARY           : 41.509434 %
+EMOTIONS            : 20.754717 %
+
+350 words total

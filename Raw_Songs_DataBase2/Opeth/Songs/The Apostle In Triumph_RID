@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    surrounding apart where open
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rain pouring rain rain
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever immortal eternal
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wander travel
+PRIMARY:SENSATION:VISION                                         2
+    lightning light
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    shelter follow
+EMOTIONS:GLORY                                                   2
+    glory triumph
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    enchanted
+EMOTIONS:AGGRESSION                                              1
+    torn
+PRIMARY:SENSATION:COLD                                           1
+    shivering
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulders
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    darkened
+SECONDARY:RESTRAINT                                              1
+    catches
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    calmness
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spreading
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reaching
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 68.421053 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 10.526316 %
+
+137 words total

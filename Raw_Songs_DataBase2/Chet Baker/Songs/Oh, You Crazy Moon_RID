@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            6
+    know guess think know guess think
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when once once
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    met say promised promised
+EMOTIONS:POSITIVE AFFECT                                         4
+    smiled fun funny funny
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    crazy crazy crazy crazy
+EMOTIONS:AFFECTION                                               4
+    friend love friend love
+PRIMARY:SENSATION:VISION                                         2
+    saw look
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fell
+EMOTIONS:AGGRESSION                                              2
+    broke broke
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:NEED:SEX                                                 1
+    kissed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+
+PRIMARY             : 32.500000 %
+SECONDARY           : 42.500000 %
+EMOTIONS            : 25.000000 %
+
+135 words total

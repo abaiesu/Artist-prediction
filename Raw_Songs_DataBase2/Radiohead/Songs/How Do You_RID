@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               3
+    loved like friends
+SECONDARY:ABSTRACTION                                            2
+    knows cause
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:SADNESS                                                 1
+    weep
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+EMOTIONS:AGGRESSION                                              1
+    steals
+
+PRIMARY             : 15.384615 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 46.153846 %
+
+104 words total

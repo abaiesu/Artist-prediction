@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    hours when hours when then
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell said tell said
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms arms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    belong belong
+SECONDARY:ABSTRACTION                                            2
+    real real
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:GLORY                                                   2
+    splendored splendored
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness happiness
+
+PRIMARY             : 14.814815 %
+SECONDARY           : 55.555556 %
+EMOTIONS            : 29.629630 %
+
+111 words total

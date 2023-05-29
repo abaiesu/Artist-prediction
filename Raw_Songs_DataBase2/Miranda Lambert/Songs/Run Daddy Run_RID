@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    near near away near where where out near
+PRIMARY:SENSATION:SOUND                                          5
+    hear hear hear hearts hear
+EMOTIONS:AFFECTION                                               4
+    like like like like
+EMOTIONS:AGGRESSION                                              4
+    gun gun gun gun
+PRIMARY:SENSATION:HARD                                           2
+    rock rockets
+EMOTIONS:ANXIETY                                                 2
+    dreaded afraid
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:NEED:ANALITY                                             1
+    shattered
+PRIMARY:NEED:ORALITY                                             1
+    fast
+
+PRIMARY             : 61.111111 %
+SECONDARY           : 8.333333 %
+EMOTIONS            : 30.555556 %
+
+187 words total

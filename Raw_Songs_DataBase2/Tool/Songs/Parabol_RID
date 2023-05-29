@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    overwhelmingly here wide wide here inside
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now moment now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyed eyed body body
+EMOTIONS:AFFECTION                                               2
+    familiar embracing
+SECONDARY:ORDER                                                  2
+    form form
+SECONDARY:ABSTRACTION                                            2
+    reality choosing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    reminding
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 11.111111 %
+
+77 words total

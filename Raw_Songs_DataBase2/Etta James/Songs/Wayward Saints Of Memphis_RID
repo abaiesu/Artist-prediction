@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         5
+    seen seen looking seen seen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    road sidewalk street road sidewalk
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    open at out open at
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when every when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    guitar cries guitar
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet feet feet
+PRIMARY:SENSATION:SOUND                                          3
+    hear heart echoes
+SECONDARY:ABSTRACTION                                            2
+    believe believe
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    restless
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:AGGRESSION                                              1
+    beating
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 17.948718 %
+EMOTIONS            : 15.384615 %
+
+194 words total

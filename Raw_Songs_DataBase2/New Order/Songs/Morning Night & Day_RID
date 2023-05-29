@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time times again time ever past again time times
+SECONDARY:ABSTRACTION                                            9
+    know knew think think know think think cause true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where at far
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said call say
+EMOTIONS:POSITIVE AFFECT                                         3
+    satisfaction satisfaction satisfaction
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         2
+    shone light
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window floor
+EMOTIONS:AFFECTION                                               2
+    kind friend
+PRIMARY:NEED:ORALITY                                             2
+    drink drinks
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    haze
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    pile
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 30.952381 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 11.904762 %
+
+258 words total

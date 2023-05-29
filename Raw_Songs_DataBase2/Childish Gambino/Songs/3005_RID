@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    side at here long off back side side out here out here long where at here back between side side
+SECONDARY:TEMPORAL REFERENCES                                   18
+    when till minute week ago every weekend now now when when now when time when when when till
+SECONDARY:ABSTRACTION                                           16
+    know cause why why why thought figured cause them think cause them cause think something understand
+EMOTIONS:AFFECTION                                              11
+    favorite like like like friends like like like like friends kinda
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say message say say depending tell say say
+PRIMARY:NEED:SEX                                                 5
+    fuck fuck fuck fuck fuck
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make won pay used spend
+EMOTIONS:POSITIVE AFFECT                                         4
+    thrill happy laughing glad
+PRIMARY:NEED:ORALITY                                             4
+    spit saliva beans thirsty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head hand
+EMOTIONS:AGGRESSION                                              2
+    opposite stabbed
+EMOTIONS:SADNESS                                                 2
+    sorry sad
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    bounce
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:NEED:ANALITY                                             1
+    shit
+EMOTIONS:ANXIETY                                                 1
+    scared
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 31.775701 %
+SECONDARY           : 48.598131 %
+EMOTIONS            : 19.626168 %
+
+662 words total

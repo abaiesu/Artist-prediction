@@ -1,0 +1,38 @@
+PRIMARY:NEED:ORALITY                                             8
+    rice cook egg coffee cream tongue tea rice
+EMOTIONS:AFFECTION                                               7
+    love kind love love love kind love
+PRIMARY:SENSATION:TASTE                                          5
+    sweet taste taste taste taste
+SECONDARY:ABSTRACTION                                            5
+    cause know know cause know
+PRIMARY:SENSATION:SOUND                                          5
+    music music music music hearts
+PRIMARY:SENSATION:VISION                                         4
+    green blue green stars
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time every every
+PRIMARY:SENSATION:COLD                                           3
+    ice ice cool
+EMOTIONS:AGGRESSION                                              2
+    broke broke
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bubblegum
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    excuse
+
+PRIMARY             : 59.183673 %
+SECONDARY           : 20.408163 %
+EMOTIONS            : 20.408163 %
+
+180 words total

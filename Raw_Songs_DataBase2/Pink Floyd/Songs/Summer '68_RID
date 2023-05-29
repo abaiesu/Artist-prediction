@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               7
+    like goodbye like like friends like goodbye
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say say said met said greet
+SECONDARY:TEMPORAL REFERENCES                                    6
+    hours ago year occasionally soon time
+SECONDARY:ABSTRACTION                                            4
+    something perhaps know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at far
+PRIMARY:SENSATION:SOUND                                          2
+    music loud
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    gained
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bloody
+EMOTIONS:ANXIETY                                                 1
+    fears
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 25.000000 %
+
+196 words total

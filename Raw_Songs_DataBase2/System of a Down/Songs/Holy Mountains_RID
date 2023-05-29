@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back back back back side side back side back
+EMOTIONS:AGGRESSION                                              6
+    killer killer killer killer murderer murderer
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    river river river river river river
+SECONDARY:ABSTRACTION                                            5
+    deemed them learned learned learned
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    mountains mountain mountain mountain
+SECONDARY:MORAL IMPERATIVE                                       2
+    honor honor
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:SADNESS                                                 1
+    paint
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 19.444444 %
+
+172 words total

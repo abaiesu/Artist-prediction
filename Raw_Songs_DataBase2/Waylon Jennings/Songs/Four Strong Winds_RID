@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    times ever time times ever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back out out back
+SECONDARY:ABSTRACTION                                            3
+    may may sure
+PRIMARY:SENSATION:COLD                                           3
+    snow winter cold
+PRIMARY:SENSATION:VISION                                         2
+    look look
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    seas
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    working
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 44.000000 %
+EMOTIONS            : 8.000000 %
+
+155 words total

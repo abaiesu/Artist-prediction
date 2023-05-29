@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    out off out side side at at out out side side at at side side at at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    line line line line line line line line
+SECONDARY:ABSTRACTION                                            6
+    know think know think know think
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    laying couch laying couch laying couch
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    promises call call call call
+EMOTIONS:AFFECTION                                               3
+    friend friend friend
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face veins
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire flame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fades
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:COLD                                           1
+    cool
+
+PRIMARY             : 65.000000 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 8.333333 %
+
+219 words total

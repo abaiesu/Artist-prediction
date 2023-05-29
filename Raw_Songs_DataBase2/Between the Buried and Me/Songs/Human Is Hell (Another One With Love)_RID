@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         11
+    eyes hands brain head brain brain brain brain hand face face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here out opens overcome long long over here here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    performance performance tried collective collective collective pay achieved achieved
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when years once sometimes when time today today
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said accepting help said invited granted
+SECONDARY:ABSTRACTION                                            5
+    thought thought meant reasonings reasonings
+PRIMARY:SENSATION:VISION                                         5
+    looking see viewing viewing viewing
+EMOTIONS:AGGRESSION                                              4
+    tore break destroyed destruction
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    water water fountain
+PRIMARY:SENSATION:SOUND                                          3
+    heart sound sound
+EMOTIONS:GLORY                                                   3
+    admiring admiring admiring
+PRIMARY:SENSATION:HARD                                           3
+    glass glass glass
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    swells swells
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep beneath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hill heaven
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    uncertainty uncertainty
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiles smiles
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    smoke sun
+EMOTIONS:SADNESS                                                 2
+    somber somber
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizon
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:ANXIETY                                                 1
+    worries
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 52.222222 %
+SECONDARY           : 31.111111 %
+EMOTIONS            : 16.666667 %
+
+428 words total

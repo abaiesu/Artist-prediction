@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    where where where where along where where where where here where where where where where where where where
+EMOTIONS:AFFECTION                                               7
+    friend love friend friends love friend friend
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call help help help help
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old everyone when when
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comfort comfort
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hand
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    afford
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:COLD                                           1
+    chilling
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 17.391304 %
+
+215 words total

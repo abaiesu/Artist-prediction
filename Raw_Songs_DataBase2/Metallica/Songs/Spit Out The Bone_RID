@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    within here long overthrown out long overthrown out here long overthrown out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    skin bone bone flesh flesh bone
+SECONDARY:ABSTRACTION                                            5
+    thought cause thoughts solution plan
+EMOTIONS:AGGRESSION                                              5
+    deceiving deceiving destroy exterminate betrays
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    machine cure machine machined machine
+EMOTIONS:AFFECTION                                               3
+    like devotion like
+EMOTIONS:GLORY                                                   3
+    supreme supreme supreme
+PRIMARY:NEED:ORALITY                                             3
+    spit spit spit
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay rest
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+
+PRIMARY             : 52.000000 %
+SECONDARY           : 26.000000 %
+EMOTIONS            : 22.000000 %
+
+198 words total

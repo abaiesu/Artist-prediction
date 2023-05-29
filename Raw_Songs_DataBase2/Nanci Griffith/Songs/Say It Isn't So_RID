@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    say tell talk say tell say told say tell say told told say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    back round back round situation out long back round back round
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when when ever already sometimes sometimes soon ever already
+SECONDARY:ABSTRACTION                                            8
+    know truth believe know truth cause believe know
+EMOTIONS:AFFECTION                                               7
+    love friends love lover love lovers love
+PRIMARY:SENSATION:SOUND                                          2
+    hear heard
+SECONDARY:RESTRAINT                                              2
+    caught caught
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reachin reachin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 27.118644 %
+SECONDARY           : 57.627119 %
+EMOTIONS            : 15.254237 %
+
+279 words total

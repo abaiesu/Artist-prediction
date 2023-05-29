@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         7
+    blue blue blue blue blue blues blue
+SECONDARY:ABSTRACTION                                            6
+    true true cause know cause know
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        6
+    forever forever forever forever forever forever
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every every every ever while
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over inside back over
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    apologized treated tell call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used cure buy
+EMOTIONS:SADNESS                                                 2
+    lonely moan
+EMOTIONS:AGGRESSION                                              2
+    hurtin broke
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep low
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    guitar play
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:TOUCH                                          1
+    stroke
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+
+PRIMARY             : 47.916667 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 14.583333 %
+
+198 words total

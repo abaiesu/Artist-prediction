@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:SOUND                                         14
+    voice voice voiceless voice voiceless hearses voice voiceless voice voiceless voice voiceless voice voiceless
+SECONDARY:ABSTRACTION                                            8
+    true cause effect cause cause truth cause effect
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    blastin spark fires smoke burned smoke
+EMOTIONS:AGGRESSION                                              6
+    rebel trample killing guns war war
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    silence silence silence silence silence silence
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at long at
+PRIMARY:SENSATION:VISION                                         4
+    see watch watching watching
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make machine tried
+EMOTIONS:ANXIETY                                                 3
+    nervous terror terror
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    walls path
+PRIMARY:SENSATION:ODOR                                           2
+    smell smell
+SECONDARY:RESTRAINT                                              2
+    refused bound
+PRIMARY:SENSATION:HARD                                           1
+    steel
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:NEED:ORALITY                                             1
+    spit
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    neck
+EMOTIONS:GLORY                                                   1
+    rich
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+
+PRIMARY             : 62.686567 %
+SECONDARY           : 20.895522 %
+EMOTIONS            : 16.417910 %
+
+255 words total

@@ -1,0 +1,50 @@
+EMOTIONS:AFFECTION                                               9
+    like like like love like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every every time when every early now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    dancing guitar sing play play play
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    says say ask met say
+PRIMARY:SENSATION:VISION                                         4
+    star see lights see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    bird bird bird bird
+PRIMARY:SENSATION:SOUND                                          4
+    heard heard heard heard
+SECONDARY:ORDER                                                  4
+    simple simple simple simple
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at opens off at
+SECONDARY:ABSTRACTION                                            3
+    thinks know problem
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    perform spend make
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm hot
+EMOTIONS:ANXIETY                                                 2
+    shy scares
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive travel
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    cave underneath
+PRIMARY:SENSATION:SOFT                                           2
+    gentle mild
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild chances
+PRIMARY:NEED:ORALITY                                             2
+    fast food
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    craziest
+
+PRIMARY             : 43.661972 %
+SECONDARY           : 32.394366 %
+EMOTIONS            : 23.943662 %
+
+469 words total

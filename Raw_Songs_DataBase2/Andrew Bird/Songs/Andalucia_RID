@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when when again then again year once when till time time
+EMOTIONS:AFFECTION                                               6
+    love love love love like love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out closer nearer here away
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:COLD                                           1
+    snowing
+PRIMARY:SENSATION:SOUND                                          1
+    louder
+PRIMARY:SENSATION:SOFT                                           1
+    softer
+SECONDARY:ABSTRACTION                                            1
+    sure
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:GLORY                                                   1
+    castles
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    persuade
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 43.333333 %
+EMOTIONS            : 23.333333 %
+
+125 words total

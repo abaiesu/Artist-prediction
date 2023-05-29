@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                              8
+    broken cuts violent disturbed killing violent disturbed killing
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time again now again now
+SECONDARY:ABSTRACTION                                            4
+    sure true knows true
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell saying tell saying
+EMOTIONS:AFFECTION                                               4
+    love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over over out here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bones knees
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+SECONDARY:RESTRAINT                                              1
+    locked
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 26.315789 %
+SECONDARY           : 39.473684 %
+EMOTIONS            : 34.210526 %
+
+179 words total

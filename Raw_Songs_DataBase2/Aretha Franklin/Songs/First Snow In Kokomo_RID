@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:COLD                                           8
+    snow snow snow snow snow snow snow snow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    horn playing play play horn
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off away away away
+SECONDARY:ABSTRACTION                                            4
+    learning learning almost learned
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:AFFECTION                                               2
+    friend kinda
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    picked make
+PRIMARY:NEED:ORALITY                                             2
+    applegate applegate
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asked
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:SENSATION:VISION                                         1
+    blue
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 48.780488 %
+SECONDARY           : 29.268293 %
+EMOTIONS            : 21.951220 %
+
+172 words total

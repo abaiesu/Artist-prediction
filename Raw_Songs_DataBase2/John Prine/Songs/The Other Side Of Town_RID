@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out out here side here side behind back across side side
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everything when when when while when when when
+SECONDARY:ABSTRACTION                                            6
+    why why think think think think
+PRIMARY:NEED:ORALITY                                             6
+    honey honey drinking beer drinking beer
+EMOTIONS:POSITIVE AFFECT                                         4
+    joke funny smile smile
+EMOTIONS:AGGRESSION                                              3
+    criticize despise hurt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used makeup makeup
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call call talking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    clown clown playing
+SECONDARY:RESTRAINT                                              2
+    must catching
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:SADNESS                                                 2
+    frown frown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+SECONDARY:ORDER                                                  2
+    listening list
+PRIMARY:SENSATION:COLD                                           2
+    ice cold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    leaning
+PRIMARY:SENSATION:SOUND                                          1
+    ear
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+
+PRIMARY             : 39.062500 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 23.437500 %
+
+265 words total

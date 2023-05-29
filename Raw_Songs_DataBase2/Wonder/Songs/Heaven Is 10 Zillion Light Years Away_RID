@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       22
+    away at away where long far away long far away at within where inside long far where inside long far open opened
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    say say ask say tell say tells say say say please say
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  11
+    heaven heaven spirit spirit heaven spirit spirit spirit spirit spirit spirit
+PRIMARY:SENSATION:VISION                                        10
+    light light light light shine color light shine see light
+SECONDARY:ABSTRACTION                                            9
+    cause why why why thought cause believe cause cause
+SECONDARY:TEMPORAL REFERENCES                                    7
+    years years now years every every years
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+EMOTIONS:AFFECTION                                               4
+    friends love loves love
+SECONDARY:MORAL IMPERATIVE                                       2
+    righteous righteous
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets streets
+EMOTIONS:AGGRESSION                                              1
+    hate
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 57.471264 %
+SECONDARY           : 36.781609 %
+EMOTIONS            : 5.747126 %
+
+341 words total

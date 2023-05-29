@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        14
+    light light light blue light looks looks colors flashing blues looking looks looks colors
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    places places out off off off at off off off at out
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time hour ago time time time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    street stairway stairway street street
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lazy slow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes faces
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:SENSATION:SOUND                                          2
+    music music
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    greet meet
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowds
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+
+PRIMARY             : 77.777778 %
+SECONDARY           : 18.518519 %
+EMOTIONS            : 3.703704 %
+
+150 words total

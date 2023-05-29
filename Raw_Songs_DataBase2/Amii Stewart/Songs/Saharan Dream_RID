@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    far away far far across
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream dream dream dream
+SECONDARY:ABSTRACTION                                            2
+    believe history
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    wings fly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high heights
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystery
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+EMOTIONS:AGGRESSION                                              1
+    wars
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 85.714286 %
+SECONDARY           : 9.523810 %
+EMOTIONS            : 4.761905 %
+
+78 words total

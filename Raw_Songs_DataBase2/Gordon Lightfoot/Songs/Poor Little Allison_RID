@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out inside out inside out
+SECONDARY:ABSTRACTION                                            4
+    knowin thinkin knowin thinkin
+PRIMARY:SENSATION:SOUND                                          3
+    loud loud loud
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step step
+EMOTIONS:GLORY                                                   2
+    pride pride
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    sayin sayin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:AFFECTION                                               1
+    friends
+
+PRIMARY             : 65.625000 %
+SECONDARY           : 21.875000 %
+EMOTIONS            : 12.500000 %
+
+122 words total

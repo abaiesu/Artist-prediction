@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            3
+    plans may knows
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun seared boil
+PRIMARY:NEED:ORALITY                                             2
+    corn feeds
+PRIMARY:NEED:ANALITY                                             2
+    rotten sweat
+SECONDARY:TEMPORAL REFERENCES                                    2
+    times years
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long nearin
+EMOTIONS:AGGRESSION                                              1
+    fought
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    toiled
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    faired
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    yields
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    helpin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 8.695652 %
+
+103 words total

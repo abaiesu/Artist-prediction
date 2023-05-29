@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    round round round out out round round round round
+SECONDARY:TEMPORAL REFERENCES                                    5
+    till when when till old
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart hearts sound
+EMOTIONS:AFFECTION                                               3
+    love darlin love
+EMOTIONS:SADNESS                                                 2
+    sad sad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    mending find
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sundown
+PRIMARY:NEED:ORALITY                                             1
+    suppertime
+SECONDARY:ABSTRACTION                                            1
+    knows
+EMOTIONS:AGGRESSION                                              1
+    quarrel
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+
+PRIMARY             : 54.285714 %
+SECONDARY           : 25.714286 %
+EMOTIONS            : 20.000000 %
+
+125 words total

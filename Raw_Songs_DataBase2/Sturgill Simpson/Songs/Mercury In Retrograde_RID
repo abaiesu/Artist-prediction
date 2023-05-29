@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    off back away back backstage behind at back far away at outside over at
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when soon old again again soon times again
+EMOTIONS:AGGRESSION                                              8
+    bother cruel war haters cruel war cruel war
+EMOTIONS:AFFECTION                                               5
+    like friend friend friend friend
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    throw hangin mountain hangin hangin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    haircut hands head
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    travel traveling tour
+SECONDARY:ABSTRACTION                                            3
+    them them almost
+SECONDARY:RESTRAINT                                              3
+    must must must
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    waterlogged wet
+PRIMARY:SENSATION:VISION                                         2
+    brown light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying makes
+EMOTIONS:SADNESS                                                 2
+    sorry lonely
+PRIMARY:SENSATION:ODOR                                           1
+    smelling
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+EMOTIONS:POSITIVE AFFECT                                         1
+    grin
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asking
+EMOTIONS:GLORY                                                   1
+    wonderin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 51.351351 %
+SECONDARY           : 24.324324 %
+EMOTIONS            : 24.324324 %
+
+345 words total

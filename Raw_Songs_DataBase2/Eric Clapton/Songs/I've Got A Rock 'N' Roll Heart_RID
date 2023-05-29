@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at off off here off off off off
+SECONDARY:TEMPORAL REFERENCES                                    7
+    moment every time every time every time
+PRIMARY:SENSATION:HARD                                           7
+    rock rock rock rock rock rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  7
+    roll roll roll roll roll roll roll
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    screaming guitar screaming guitar screaming guitar
+SECONDARY:ABSTRACTION                                            4
+    something know know guess
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:AGGRESSION                                              3
+    hits hits hits
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    promise explain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay lay
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:VISION                                         1
+    glitter
+
+PRIMARY             : 54.237288 %
+SECONDARY           : 23.728814 %
+EMOTIONS            : 22.033898 %
+
+240 words total

@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                              19
+    like love love love like like lover like love love like lovers love love like like love love love
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    called called shared called called said called called called called
+SECONDARY:TEMPORAL REFERENCES                                    9
+    moment time ever when time every ever hours once
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    build builds used used used found found
+SECONDARY:ABSTRACTION                                            6
+    tenderness tender know know cause knew
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high heaven heaven heaven
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    mountain throw dawn
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    wander roam ship
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sprinkle sea
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    between long
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughter happy
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:NEED:ORALITY                                             1
+    grains
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+EMOTIONS:AGGRESSION                                              1
+    quarrel
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:VISION                                         1
+    bright
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 26.923077 %
+SECONDARY           : 42.307692 %
+EMOTIONS            : 30.769231 %
+
+284 words total

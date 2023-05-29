@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    past present past present yesterday time past present time past present
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here close far away away back away back
+SECONDARY:RESTRAINT                                              6
+    stop catch stopped stopped stopped stopped
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:ANXIETY                                                 1
+    cares
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 10.000000 %
+
+119 words total

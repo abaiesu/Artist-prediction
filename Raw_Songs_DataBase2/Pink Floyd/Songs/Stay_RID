@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         5
+    blue looking blue gray blue
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find find try find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes brain
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    behind side
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning burning
+EMOTIONS:GLORY                                                   2
+    gold gold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow yellow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    growing growing
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+EMOTIONS:AGGRESSION                                              1
+    break
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+EMOTIONS:AFFECTION                                               1
+    goodbye
+
+PRIMARY             : 58.064516 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 19.354839 %
+
+99 words total

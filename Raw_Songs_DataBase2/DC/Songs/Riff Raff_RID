@@ -1,0 +1,34 @@
+EMOTIONS:POSITIVE AFFECT                                         7
+    laugh laugh smile fun laugh laugh smile
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every while now when while again
+EMOTIONS:AGGRESSION                                              4
+    bother kickin shot gun
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell sayin
+EMOTIONS:AFFECTION                                               2
+    friend kinda
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    humid
+SECONDARY:ABSTRACTION                                            1
+    sure
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+SECONDARY:RESTRAINT                                              1
+    shut
+EMOTIONS:SADNESS                                                 1
+    misery
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+
+PRIMARY             : 16.666667 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 46.666667 %
+
+146 words total

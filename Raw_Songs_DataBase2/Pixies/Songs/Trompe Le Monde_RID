@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out space away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    bought record paid
+SECONDARY:ABSTRACTION                                            2
+    why something
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    represented said
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now time
+PRIMARY:NEED:SEX                                                 1
+    cupids
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    continually
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:SENSATION:VISION                                         1
+    lights
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washington
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 19.047619 %
+
+102 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                              6
+    murder stab stab beat murder stab
+PRIMARY:SENSATION:COLD                                           4
+    snow chilly snow snow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away out away
+PRIMARY:SENSATION:VISION                                         3
+    glare glare glare
+EMOTIONS:AFFECTION                                               3
+    loved loved loved
+SECONDARY:MORAL IMPERATIVE                                       3
+    laws laws laws
+SECONDARY:ABSTRACTION                                            2
+    history belief
+EMOTIONS:GLORY                                                   2
+    empire rich
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    spirit hills
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+
+PRIMARY             : 38.709677 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 38.709677 %
+
+204 words total

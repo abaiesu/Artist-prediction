@@ -1,0 +1,24 @@
+SECONDARY:ORDER                                                  8
+    divide divide divide divide divide divide divide divide
+EMOTIONS:AFFECTION                                               8
+    love love love love love love love love
+PRIMARY:SENSATION:COLD                                           5
+    child child child child child
+EMOTIONS:AGGRESSION                                              4
+    steal steal steal steal
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    warmness warmness warmness warmness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away away away away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    collects price price
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 31.578947 %
+
+261 words total

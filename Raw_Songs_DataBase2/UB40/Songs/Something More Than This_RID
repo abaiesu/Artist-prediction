@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            8
+    something scientific analysis something something something something something
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said socialist said said lending said
+SECONDARY:RESTRAINT                                              6
+    must must must must must must
+PRIMARY:NEED:ORALITY                                             2
+    herbalist herbalistic
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness happiness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    making money
+PRIMARY:SENSATION:VISION                                         1
+    green
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+EMOTIONS:AGGRESSION                                              1
+    fighting
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headline
+EMOTIONS:ANXIETY                                                 1
+    terrorist
+SECONDARY:MORAL IMPERATIVE                                       1
+    moralist
+
+PRIMARY             : 21.621622 %
+SECONDARY           : 67.567568 %
+EMOTIONS            : 10.810811 %
+
+130 words total

@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    where back between tipping here wide long here wide where at wide where
+PRIMARY:SENSATION:VISION                                         7
+    light blue bright lights flashing blue blue
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when while sometimes sometimes old sometimes
+EMOTIONS:AFFECTION                                               5
+    friends kind kind kind like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    paid makes make makes makes
+SECONDARY:RESTRAINT                                              3
+    stop catching stoplight
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meets meets
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:NEED:ORALITY                                             1
+    dinner
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:ABSTRACTION                                            1
+    except
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wildcats
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:SENSATION:HARD                                           1
+    ironheads
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lanes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lake
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 32.692308 %
+EMOTIONS            : 13.461538 %
+
+284 words total

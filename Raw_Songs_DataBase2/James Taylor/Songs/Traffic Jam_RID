@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    time clock minutes time time now time now when often time now
+EMOTIONS:AGGRESSION                                             10
+    hate hurts hate hurts attack attack hate hurts hate hurts
+PRIMARY:SENSATION:VISION                                         7
+    looking looking view saw looking view saw
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    slow slow slow die slow
+PRIMARY:SENSATION:COLD                                           5
+    cold cold cold cold cool
+PRIMARY:NEED:ORALITY                                             4
+    supper supper supper supper
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    rear back rear behind
+SECONDARY:ABSTRACTION                                            3
+    almost thought think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    job used
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line road
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:RESTRAINT                                              1
+    blocks
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+
+PRIMARY             : 51.612903 %
+SECONDARY           : 30.645161 %
+EMOTIONS            : 17.741935 %
+
+263 words total

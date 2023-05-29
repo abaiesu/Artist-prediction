@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    talk tell telling talking tell talk
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    flat at here backwards inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try trying make use
+SECONDARY:ABSTRACTION                                            3
+    sure sure reason
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old season years
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:AGGRESSION                                              2
+    wounded doubt
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    staggering
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 38.235294 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 11.764706 %
+
+188 words total

@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    over away out out out out out out out over inside out out out out out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    trying reach reach making reach reach reach reach reach reach reach reach reach reach
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say apologize say
+EMOTIONS:AFFECTION                                               3
+    friends loved love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+SECONDARY:ABSTRACTION                                            2
+    understand understand
+EMOTIONS:AGGRESSION                                              1
+    fighting
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everyone
+PRIMARY:SENSATION:VISION                                         1
+    scene
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 8.888889 %
+
+173 words total

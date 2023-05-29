@@ -1,0 +1,32 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 13
+    belong belong belong belong belong belong belong belong belong belong belong belong belong
+SECONDARY:ABSTRACTION                                            9
+    why know know prove know sure thought prove known
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell tell tell tell tell tell tell
+EMOTIONS:AFFECTION                                               4
+    loving love loving love
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strangers strangers
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    closed long
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time ago
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:NEED:ORALITY                                             1
+    honey
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 23.404255 %
+SECONDARY           : 68.085106 %
+EMOTIONS            : 8.510638 %
+
+185 words total

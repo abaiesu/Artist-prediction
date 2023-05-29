@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out at at out at at out
+PRIMARY:SENSATION:SOUND                                          3
+    heart loudly heart
+SECONDARY:ABSTRACTION                                            3
+    truth meant solutions
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now while when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cries playing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell talk
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    forehead eyes
+PRIMARY:SENSATION:VISION                                         2
+    look looks
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safe slow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning heat
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    trance
+
+PRIMARY             : 64.516129 %
+SECONDARY           : 25.806452 %
+EMOTIONS            : 9.677419 %
+
+149 words total

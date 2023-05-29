@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              19
+    love love darling love love love love love love darling love love darling love love love love love love
+EMOTIONS:SADNESS                                                 6
+    lonely lonely loneliness lonely lonely lonely
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    help said help help help said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    crazy crazy crazy crazy crazy
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    apart apart
+PRIMARY:SENSATION:VISION                                         2
+    seen seen
+EMOTIONS:ANXIETY                                                 2
+    trouble trouble
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when every
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 53.571429 %
+
+264 words total

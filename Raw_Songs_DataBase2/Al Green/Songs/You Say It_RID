@@ -1,0 +1,18 @@
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    say able say able able preach able preach call say call say say call call say
+EMOTIONS:AFFECTION                                              10
+    like like like like love love love love love love
+SECONDARY:ABSTRACTION                                            6
+    know real know real know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here long long long long
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time time now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+
+PRIMARY             : 11.627907 %
+SECONDARY           : 60.465116 %
+EMOTIONS            : 27.906977 %
+
+188 words total

@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  14
+    high high high high high high high high high high high high high high
+PRIMARY:NEED:ORALITY                                             9
+    drink honeys food lunch honeys honeys food lunch honeys
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    road road road road
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    crazy crazy crazy crazy
+SECONDARY:ABSTRACTION                                            3
+    thought important thought
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    component makes component
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water water
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bodies
+EMOTIONS:AGGRESSION                                              1
+    destroy
+
+PRIMARY             : 78.260870 %
+SECONDARY           : 15.217391 %
+EMOTIONS            : 6.521739 %
+
+228 words total

@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         6
+    blues shining star blue shining star
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here near far out near far
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when then then
+EMOTIONS:AFFECTION                                               4
+    dear love love dear
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travel travel
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    guitar guitar
+PRIMARY:SENSATION:TASTE                                          2
+    sweetheart sweetheart
+SECONDARY:ABSTRACTION                                            2
+    cause true
+EMOTIONS:AGGRESSION                                              1
+    blame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    works
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 19.444444 %
+EMOTIONS            : 25.000000 %
+
+176 words total

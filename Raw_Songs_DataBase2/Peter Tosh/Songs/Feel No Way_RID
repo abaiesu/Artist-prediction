@@ -1,0 +1,30 @@
+PRIMARY:NEED:ORALITY                                            11
+    peas rice cocoa yam tomato breadfruit potato drink drunk drink whiskey
+SECONDARY:ABSTRACTION                                            5
+    plant plant plant plant truth
+EMOTIONS:AGGRESSION                                              4
+    bother bother kicked fight
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    paid work
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    close
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 16.129032 %
+
+102 words total

@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              10
+    love love love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long long long long long long long long
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    sky sky trees grow sky trees grow
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today ever today today today today
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        5
+    forever forever forever forever forever
+PRIMARY:SENSATION:VISION                                         4
+    blue shine see see
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    tides ocean tides ocean
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    warm warm sun
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say share share
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+EMOTIONS:ANXIETY                                                 2
+    cares cares
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 56.451613 %
+SECONDARY           : 20.967742 %
+EMOTIONS            : 22.580645 %
+
+209 words total

@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            8
+    thought understand think know different know thought understand
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    mistakes mistakes mistakes mistakes mistakes mistakes
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when then now when while now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at at where situation off
+PRIMARY:SENSATION:VISION                                         4
+    see look look looks
+EMOTIONS:SADNESS                                                 3
+    disappointed sorry sorry
+SECONDARY:ORDER                                                  2
+    listen listen
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+EMOTIONS:AFFECTION                                               1
+    marry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 47.368421 %
+EMOTIONS            : 10.526316 %
+
+219 words total

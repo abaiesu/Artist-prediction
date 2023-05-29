@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    within within longer behind long
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once again time years momentary
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            4
+    chaos chaos chaos chaos
+EMOTIONS:AFFECTION                                               3
+    welcome like friend
+PRIMARY:SENSATION:VISION                                         3
+    see see view
+SECONDARY:RESTRAINT                                              2
+    imprisoned discipline
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+EMOTIONS:GLORY                                                   1
+    pride
+EMOTIONS:SADNESS                                                 1
+    grievances
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    responsibility
+SECONDARY:ABSTRACTION                                            1
+    establish
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+SECONDARY:ORDER                                                  1
+    order
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    stillness
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+
+PRIMARY             : 41.935484 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 22.580645 %
+
+106 words total

@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    out out out back back at inside inside inside inside inside at over over off
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    head neck toe face face face face face eyes
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    promise help call calls calls tells calls calls tells
+EMOTIONS:AGGRESSION                                              5
+    knifes kicks steal complain steal
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    window door stepford door
+PRIMARY:SENSATION:VISION                                         4
+    look see ray see
+PRIMARY:SENSATION:COLD                                           4
+    children cold cold children
+SECONDARY:ABSTRACTION                                            4
+    them know know them
+PRIMARY:NEED:ORALITY                                             3
+    teeth eggs salt
+PRIMARY:NEED:SEX                                                 3
+    fucker fucker naked
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pay job pay
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:NEED:ANALITY                                             2
+    mess mess
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again again
+SECONDARY:ORDER                                                  2
+    list class
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ladders
+PRIMARY:SENSATION:HARD                                           1
+    steel
+SECONDARY:RESTRAINT                                              1
+    taxman
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistresses
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 26.923077 %
+EMOTIONS            : 11.538462 %
+
+468 words total

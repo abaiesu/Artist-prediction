@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                        14
+    green green green blue green green color green lights green green color green lights
+SECONDARY:TEMPORAL REFERENCES                                    7
+    everything when when sometimes when when sometimes
+PRIMARY:SENSATION:COLD                                           6
+    winters children northern child child northern
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    answer call call say
+EMOTIONS:AFFECTION                                               4
+    like like like like
+EMOTIONS:SADNESS                                                 4
+    sorrow sad sorry sorrow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancer poem
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring spring
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    perform perform
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    weary lies
+SECONDARY:ABSTRACTION                                            1
+    choose
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:SENSATION:SOUND                                          1
+    hearing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmer
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:RESTRAINT                                              1
+    conformer
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 51.851852 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 20.370370 %
+
+211 words total

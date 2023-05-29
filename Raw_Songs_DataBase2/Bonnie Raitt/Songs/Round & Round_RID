@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    round round round round round round out round round round round
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when everybody
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance dance playing
+EMOTIONS:AGGRESSION                                              2
+    hit jealous
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes carry
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bloodhound
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    elevator
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 48.275862 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 20.689655 %
+
+110 words total

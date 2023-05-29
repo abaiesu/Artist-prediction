@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside out inside inside
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now every old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used tried tried
+SECONDARY:ABSTRACTION                                            2
+    sure sure
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:VISION                                         2
+    see glance
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 45.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 5.000000 %
+
+100 words total

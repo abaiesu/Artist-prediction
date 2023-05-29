@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    sometimes when when when hours time when again when when
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell talk say tell tell talking guide tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away long long long near beside
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    melt firelight sun firelight firelight
+PRIMARY:SENSATION:SOUND                                          3
+    hear voice hear
+SECONDARY:ABSTRACTION                                            3
+    cause know cause
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    secrets secrets secrets
+EMOTIONS:AFFECTION                                               2
+    lover friend
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:ANXIETY                                                 1
+    troubles
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:VISION                                         1
+    shine
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 45.833333 %
+SECONDARY           : 47.916667 %
+EMOTIONS            : 6.250000 %
+
+320 words total

@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                           44
+    choosin choosin choosin choosin choosin choosin choosin choosin choosin choosin choosin choosin choose choos choosin choos choosin cause choosin choosin choosin choosin choosin choosin choosin choosin choosin choosin choosin choosin choose choos choosin choos choosin cause choosin choosin choosin choose choos choosin choos choosin
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    say say say speak help talking calling say say say speak tell tell speak
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when when time when now when when time when when time when
+PRIMARY:SENSATION:VISION                                        10
+    seen watching see star bright seen watching look seen watching
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    eyes eyes eyes eyes eyes eyes eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    near at distance far back near front front
+EMOTIONS:ANXIETY                                                 4
+    desperation shy desperation desperation
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:NEED:SEX                                                 3
+    undressing undressing undressing
+EMOTIONS:AFFECTION                                               2
+    friend friends
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+SECONDARY:ORDER                                                  1
+    listening
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:AGGRESSION                                              1
+    doubt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 27.350427 %
+SECONDARY           : 64.957265 %
+EMOTIONS            : 7.692308 %
+
+443 words total

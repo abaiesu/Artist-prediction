@@ -1,0 +1,42 @@
+EMOTIONS:AGGRESSION                                             13
+    kill kill kill hurt annoyingly kill kill kill hurt kill kill kill hurt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 13
+    sell find find won won sell find find won sell find find won
+SECONDARY:ABSTRACTION                                            5
+    why know deliberate know truth
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    introduce information say help
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    body head brain hands
+SECONDARY:TEMPORAL REFERENCES                                    4
+    years moment now now
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should should should
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out at point round
+EMOTIONS:AFFECTION                                               3
+    friends friends favor
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed death quiet
+EMOTIONS:GLORY                                                   1
+    wealth
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangle
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 26.153846 %
+SECONDARY           : 47.692308 %
+EMOTIONS            : 26.153846 %
+
+343 words total

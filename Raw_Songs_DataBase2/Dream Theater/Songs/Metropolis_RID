@@ -1,0 +1,54 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    gift tell told told told call told teaches
+SECONDARY:TEMPORAL REFERENCES                                    5
+    early when again when now
+SECONDARY:ABSTRACTION                                            4
+    may thought thoughtfully know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    carried try find found
+EMOTIONS:SADNESS                                                 4
+    sorrow pain pain sorrow
+SECONDARY:RESTRAINT                                              4
+    confined caught lock must
+EMOTIONS:AFFECTION                                               4
+    love like love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    somewhere away place between
+EMOTIONS:ANXIETY                                                 3
+    fear afraid afraid
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance dance dance
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    eternal forever eternity
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream asleep sleeper
+PRIMARY:SENSATION:COLD                                           3
+    child cold children
+PRIMARY:SENSATION:VISION                                         3
+    scene picture watches
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    faces blood eyes
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smiles
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death died
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swimming lake
+PRIMARY:SENSATION:SOUND                                          2
+    heard heart
+EMOTIONS:AGGRESSION                                              2
+    deceit struggle
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doors
+
+PRIMARY             : 40.277778 %
+SECONDARY           : 34.722222 %
+EMOTIONS            : 25.000000 %
+
+281 words total

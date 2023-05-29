@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       22
+    out out out out out out out out out out out out out out out out out out out out out out
+PRIMARY:SENSATION:SOUND                                         20
+    music music music music music music music music music music music music music music music music music music music music
+SECONDARY:TEMPORAL REFERENCES                                   18
+    when when when when then when when when when when when when when when when when when when
+PRIMARY:SENSATION:VISION                                        12
+    lights lights blue lights lights lights lights light lights lights lights lights
+PRIMARY:NEED:ORALITY                                            12
+    food food food food food food food food food food eat food
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    playing dance dance playing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street street street
+EMOTIONS:POSITIVE AFFECT                                         3
+    relief relief relief
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    spirit above
+SECONDARY:MORAL IMPERATIVE                                       2
+    justice justice
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found found
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:ANXIETY                                                 1
+    crisis
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:AGGRESSION                                              1
+    kicking
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answer
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+
+PRIMARY             : 67.889908 %
+SECONDARY           : 22.018349 %
+EMOTIONS            : 10.091743 %
+
+373 words total

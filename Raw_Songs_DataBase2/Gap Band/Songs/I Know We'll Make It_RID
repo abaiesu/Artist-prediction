@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 20
+    make make won make won makes makes make won make makes make make make make make make make make won
+SECONDARY:ABSTRACTION                                            7
+    know know know know know know know
+EMOTIONS:AFFECTION                                               5
+    love love kind love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where where where where
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time time time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    shout sing sing
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 14.583333 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 18.750000 %
+
+224 words total

@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            6
+    may may know why know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at at over over off over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used used used used used
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    treat treated treat
+EMOTIONS:AGGRESSION                                              3
+    hurt hate hate
+PRIMARY:SENSATION:COLD                                           2
+    cold chilly
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets streets
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+
+PRIMARY             : 32.352941 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 20.588235 %
+
+162 words total

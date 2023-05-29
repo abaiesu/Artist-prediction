@@ -1,0 +1,46 @@
+EMOTIONS:AGGRESSION                                              8
+    hurt fight fight breaking fight destruction fight fight
+EMOTIONS:AFFECTION                                               5
+    darling like kind favors like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    tonight time time sooner
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:SENSATION:VISION                                         3
+    unseen see sunshine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make making won
+PRIMARY:SENSATION:SOUND                                          2
+    hearted unheard
+SECONDARY:ABSTRACTION                                            2
+    think cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes blood
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hunger
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sights
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magical
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    deadheads
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flames
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 32.558140 %
+SECONDARY           : 30.232558 %
+EMOTIONS            : 37.209302 %
+
+179 words total

@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    long open off off far across off off off
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    feet eyes feet eyes feet eyes feet eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    make try make try make try make try
+PRIMARY:SENSATION:VISION                                         7
+    lookin see see look lookin lookin lookin
+PRIMARY:NEED:ANALITY                                             6
+    dirty mud soiled dirty muddy shattered
+SECONDARY:TEMPORAL REFERENCES                                    6
+    soon again while then while while
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    rest weary weary drift weary weary
+EMOTIONS:POSITIVE AFFECT                                         5
+    laugh laughin laugh laugh laugh
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    road gates edge walls
+PRIMARY:NEED:ORALITY                                             4
+    thirsty thirsty thirsty thirsty
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    hot hot hot hot
+SECONDARY:RESTRAINT                                              3
+    stop prison jails
+EMOTIONS:AFFECTION                                               3
+    like like friend
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleepin insane
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rainbow
+SECONDARY:ABSTRACTION                                            2
+    judged know
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumble
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    cliff
+EMOTIONS:AGGRESSION                                              1
+    slander
+PRIMARY:SENSATION:SOUND                                          1
+    melodies
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+
+PRIMARY             : 65.909091 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 11.363636 %
+
+323 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    off round here where where here away wide where where
+SECONDARY:ABSTRACTION                                           10
+    think knowing know knowing knowing know knowing know knowing knowing
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell tell answer engage say tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pick trying find picking making
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep awake sleep
+PRIMARY:SENSATION:SOUND                                          2
+    hearing sound
+EMOTIONS:ANXIETY                                                 2
+    scared afraid
+SECONDARY:RESTRAINT                                              2
+    lock cage
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    walls walls
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:TEMPORAL REFERENCES                                    1
+    clock
+EMOTIONS:SADNESS                                                 1
+    misery
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 47.169811 %
+SECONDARY           : 47.169811 %
+EMOTIONS            : 5.660377 %
+
+233 words total

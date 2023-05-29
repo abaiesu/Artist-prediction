@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:TASTE                                         10
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back side at between between place at place back
+PRIMARY:NEED:ORALITY                                             8
+    drank tea peanut butter honey grapevine honey honey
+SECONDARY:ABSTRACTION                                            6
+    know know know know sure know
+PRIMARY:SENSATION:VISION                                         6
+    seen seen seen seen light seen
+EMOTIONS:AFFECTION                                               4
+    friend friend love friend
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time when till time
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell teach tell
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drop drop
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+EMOTIONS:ANXIETY                                                 1
+    scared
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    dew
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:POSITIVE AFFECT                                         1
+    gladys
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:SENSATION:TOUCH                                          1
+    rubber
+
+PRIMARY             : 65.625000 %
+SECONDARY           : 23.437500 %
+EMOTIONS            : 10.937500 %
+
+212 words total

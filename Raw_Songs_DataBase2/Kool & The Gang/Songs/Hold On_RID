@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    somewhere somewhere somewhere somewhere at out at long long long long
+SECONDARY:ABSTRACTION                                           10
+    true know know real know choice choice may know real
+SECONDARY:TEMPORAL REFERENCES                                   10
+    sometimes now now when sometimes now now now ever now
+PRIMARY:SENSATION:VISION                                         7
+    blue rough pictured see see look look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    finishes finishes won won won won
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    sun suns sun sun sun
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    called call call
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky growing
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rising rising
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rainbow rain
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 47.692308 %
+EMOTIONS            : 6.153846 %
+
+357 words total

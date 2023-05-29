@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everyday everyday everyday everyday when
+PRIMARY:SENSATION:VISION                                         3
+    blues blues see
+EMOTIONS:ANXIETY                                                 3
+    worried trouble worried
+EMOTIONS:AFFECTION                                               2
+    loves loves
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speaking share
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+EMOTIONS:AGGRESSION                                              1
+    hate
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 30.000000 %
+
+90 words total

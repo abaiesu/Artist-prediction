@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      14
+    road road road road road step line road road road road road road road
+SECONDARY:RESTRAINT                                              4
+    must stop must must
+PRIMARY:SENSATION:COLD                                           2
+    colder frozen
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said calls
+PRIMARY:SENSATION:SOUND                                          2
+    tune melody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where out
+SECONDARY:ABSTRACTION                                            1
+    think
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+
+PRIMARY             : 73.333333 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 0.000000 %
+
+125 words total

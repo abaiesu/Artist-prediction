@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place out space place over space
+SECONDARY:TEMPORAL REFERENCES                                    2
+    years years
+PRIMARY:SENSATION:VISION                                         2
+    starlight watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    trip ship
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slide
+SECONDARY:ABSTRACTION                                            1
+    planet
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trail
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 76.190476 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 0.000000 %
+
+80 words total

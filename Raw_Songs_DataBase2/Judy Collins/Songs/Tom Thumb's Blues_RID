@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    easter at back where at here at out behind back
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when time when now soon now soon everybody when
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    please tell thanks say call speaks invites said call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make won pick claim picking
+PRIMARY:SENSATION:VISION                                         5
+    see lookin looked looking rough
+EMOTIONS:AFFECTION                                               3
+    friend kind like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    avenue coast
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hungry hill
+EMOTIONS:AGGRESSION                                              2
+    shot hit
+EMOTIONS:GLORY                                                   2
+    fame boast
+SECONDARY:ABSTRACTION                                            2
+    them believe
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:SADNESS                                                 1
+    rue
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:HARD                                           1
+    harder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+
+PRIMARY             : 40.983607 %
+SECONDARY           : 42.622951 %
+EMOTIONS            : 16.393443 %
+
+309 words total

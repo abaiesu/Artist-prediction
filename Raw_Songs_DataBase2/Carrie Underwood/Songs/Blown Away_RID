@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       23
+    across out out away away away away out out away away away away out out away away away away away away away away
+SECONDARY:TEMPORAL REFERENCES                                   21
+    old past every every every every yesterday every every every every every yesterday every past every every every every yesterday every
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    rain wash soaked soaked rain wash soaked
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    window door window door window door
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    called called shelter called
+EMOTIONS:AGGRESSION                                              3
+    rip revenge rip
+PRIMARY:NEED:ANALITY                                             3
+    shatter shatter shatter
+PRIMARY:NEED:ORALITY                                             3
+    whiskey whiskey whiskey
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds mister
+PRIMARY:SENSATION:HARD                                           2
+    nails nails
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screamin screaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    laid couch
+PRIMARY:SENSATION:VISION                                         1
+    lightning
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twister
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    cellar
+SECONDARY:ORDER                                                  1
+    listened
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 62.790698 %
+SECONDARY           : 31.395349 %
+EMOTIONS            : 5.813953 %
+
+256 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               4
+    lover friend like love
+SECONDARY:ORDER                                                  3
+    simple simple simple
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death rest
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    across between
+PRIMARY:SENSATION:VISION                                         1
+    glance
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    dim
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    lit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:AGGRESSION                                              1
+    killed
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    forgive
+EMOTIONS:SADNESS                                                 1
+    sadness
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 31.578947 %
+
+90 words total

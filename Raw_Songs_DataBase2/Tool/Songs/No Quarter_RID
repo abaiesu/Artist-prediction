@@ -1,0 +1,34 @@
+SECONDARY:RESTRAINT                                              8
+    lock must locked lock locked lock must locked
+PRIMARY:SENSATION:COLD                                           8
+    cold colder colder colder colder colder colder colder
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place where place where place where
+EMOTIONS:AGGRESSION                                              4
+    kill beats kill kill
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    doors door door
+PRIMARY:SENSATION:VISION                                         3
+    lights light light
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight tonight tonight
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask ask
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+
+PRIMARY             : 55.813953 %
+SECONDARY           : 34.883721 %
+EMOTIONS            : 9.302326 %
+
+154 words total

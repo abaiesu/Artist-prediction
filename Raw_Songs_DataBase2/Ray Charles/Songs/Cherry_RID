@@ -1,0 +1,26 @@
+PRIMARY:NEED:ORALITY                                            10
+    cherry cherry cherry cherry cherry cherry cherry cherry cherry cherry
+EMOTIONS:AFFECTION                                               2
+    flirtin loving
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    sayin say
+SECONDARY:TEMPORAL REFERENCES                                    2
+    till while
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 17.391304 %
+
+93 words total

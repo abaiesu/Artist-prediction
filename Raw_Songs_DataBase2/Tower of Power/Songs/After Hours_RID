@@ -1,0 +1,16 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hours
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 40.000000 %
+
+19 words total

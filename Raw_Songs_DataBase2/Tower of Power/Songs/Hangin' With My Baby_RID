@@ -1,0 +1,44 @@
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  19
+    hangin hangin hangin hangin hanging hangin hangin hangin hanging hangin hangin hangin hangin hangin hangin hangin hangin hanging hangin
+SECONDARY:ABSTRACTION                                            8
+    guess cause something cause compare compare cause understand
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old time when when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back back where at back
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said calls said say saying
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    work make work work
+EMOTIONS:GLORY                                                   4
+    fame glory greatest greatest
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    laying laying relaxing
+EMOTIONS:AGGRESSION                                              2
+    hit beat
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    horns play
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    jerks
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:VISION                                         1
+    scenario
+PRIMARY:SENSATION:SOUND                                          1
+    music
+PRIMARY:NEED:SEX                                                 1
+    sexy
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 50.746269 %
+SECONDARY           : 35.820896 %
+EMOTIONS            : 13.432836 %
+
+363 words total

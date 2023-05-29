@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    west place where west round place where west far away place west
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    roads roads roads roads road roads roads roads
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    heaven ridge trees growing sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    mountains mountains mountain mountain mountain
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old older hour yesterday yesterday
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    belong belong belong
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river water
+PRIMARY:SENSATION:SOUND                                          2
+    hear voice
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calls reminds
+SECONDARY:ABSTRACTION                                            1
+    almost
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    misty
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 74.545455 %
+SECONDARY           : 21.818182 %
+EMOTIONS            : 3.636364 %
+
+153 words total

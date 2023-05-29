@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here here where back off
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say represent said education
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when ever now
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rise rise
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    brain body
+SECONDARY:ABSTRACTION                                            2
+    think consider
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money craftsman
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+SECONDARY:ORDER                                                  1
+    arrangement
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+EMOTIONS:SADNESS                                                 1
+    disappointing
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fades
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamt
+SECONDARY:RESTRAINT                                              1
+    obligation
+EMOTIONS:AFFECTION                                               1
+    kind
+
+PRIMARY             : 48.484848 %
+SECONDARY           : 42.424242 %
+EMOTIONS            : 9.090909 %
+
+227 words total

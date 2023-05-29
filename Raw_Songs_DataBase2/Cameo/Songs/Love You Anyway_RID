@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              18
+    love love like love love love love love like love love love like love love love love love
+SECONDARY:ABSTRACTION                                           10
+    true true cause cause cause cause cause cause know know
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    meet say please shared say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    inside at inside beside off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make use won try
+PRIMARY:SENSATION:SOUND                                          3
+    ear heart heart
+PRIMARY:SENSATION:SOFT                                           2
+    whisper softly
+PRIMARY:SENSATION:VISION                                         2
+    lightly brightly
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling delight
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now time
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 23.333333 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 36.666667 %
+
+211 words total

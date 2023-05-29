@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                           10
+    believes believes believes something them something know thought know believe
+EMOTIONS:AFFECTION                                               7
+    love married married like married married married
+PRIMARY:SENSATION:VISION                                         3
+    witness watch look
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    committed teach called
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything everything when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    build maker
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where at
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 52.777778 %
+EMOTIONS            : 22.222222 %
+
+170 words total

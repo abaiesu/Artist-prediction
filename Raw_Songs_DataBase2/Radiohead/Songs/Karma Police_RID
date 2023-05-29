@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when minute minute minute minute
+SECONDARY:RESTRAINT                                              5
+    police arrest police arrest police
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:NEED:ANALITY                                             2
+    mess mess
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talks
+PRIMARY:SENSATION:SOUND                                          1
+    buzzes
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hairdo
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+
+PRIMARY             : 21.052632 %
+SECONDARY           : 68.421053 %
+EMOTIONS            : 10.526316 %
+
+152 words total

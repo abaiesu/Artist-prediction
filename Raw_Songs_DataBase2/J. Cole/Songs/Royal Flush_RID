@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at here back frontin straight back at out out
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now while now hour every when times past then
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell talking say talkin say said told call
+PRIMARY:SENSATION:VISION                                         6
+    look green look look star watch
+SECONDARY:ABSTRACTION                                            6
+    know something them them them know
+EMOTIONS:AFFECTION                                               5
+    like like love like like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    carolina shout horn shout
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    sowed product produce
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm warm
+SECONDARY:RESTRAINT                                              2
+    stop must
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    dam
+PRIMARY:NEED:SEX                                                 1
+    bitch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:NEED:ORALITY                                             1
+    eat
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 42.028986 %
+EMOTIONS            : 14.492754 %
+
+329 words total

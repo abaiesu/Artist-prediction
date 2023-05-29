@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                        12
+    brown brown picture green blue picture green blue looked seen picture looks
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at at where at away away
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    doorway railroad doorway railroad
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    says said said
+EMOTIONS:SADNESS                                                 2
+    painted painted
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    riding riding
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 80.000000 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 5.714286 %
+
+127 words total

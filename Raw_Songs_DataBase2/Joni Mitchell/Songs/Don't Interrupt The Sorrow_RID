@@ -1,0 +1,56 @@
+EMOTIONS:AFFECTION                                               5
+    like love loves kindly like
+EMOTIONS:SADNESS                                                 4
+    sorrow sorrow sorrow sorrow
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    says says says says
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    death death death lies
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:HARD                                           3
+    glasses rock glasses
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rising rising rising
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight ancient when
+EMOTIONS:AGGRESSION                                              3
+    vengeful fight rebel
+SECONDARY:RESTRAINT                                              2
+    interrupt interrupt
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wash wash
+SECONDARY:ABSTRACTION                                            2
+    truth cause
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    steeples tall
+PRIMARY:NEED:ORALITY                                             2
+    thirst milk
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flames
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:ORDER                                                  1
+    balance
+EMOTIONS:GLORY                                                   1
+    crown
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    vapors
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:COLD                                           1
+    childhood
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 47.169811 %
+SECONDARY           : 28.301887 %
+EMOTIONS            : 24.528302 %
+
+236 words total

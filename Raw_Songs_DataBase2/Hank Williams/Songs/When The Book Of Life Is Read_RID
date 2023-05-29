@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    then when when when when when then when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    close where open away over
+EMOTIONS:GLORY                                                   4
+    kingdom kingdom kingdom kingdom
+EMOTIONS:AGGRESSION                                              3
+    battles fight broken
+SECONDARY:ABSTRACTION                                            3
+    judgement true know
+EMOTIONS:SADNESS                                                 3
+    pain pain sorrow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    heaven sky heaven
+PRIMARY:SENSATION:VISION                                         2
+    light see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    follow share
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journey
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fled
+PRIMARY:SENSATION:SOUND                                          1
+    aloud
+EMOTIONS:AFFECTION                                               1
+    loved
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+
+PRIMARY             : 39.130435 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 26.086957 %
+
+186 words total

@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    discuss accept tell say tell say talking tell say tell say tell say
+EMOTIONS:AGGRESSION                                              9
+    hurts hurts broken broken hurts hurts fight fight hurts
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    distance separation space between here away here
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    silence quiet quiet quiet quiet quiet quiet
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time every when now now
+SECONDARY:ABSTRACTION                                            3
+    choice know think
+PRIMARY:NEED:ANALITY                                             2
+    mess shit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood bones
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used used
+PRIMARY:SENSATION:SOUND                                          2
+    muffled voice
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeper
+PRIMARY:NEED:ORALITY                                             1
+    spitting
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revelation
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:HARD                                           1
+    stone
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 45.901639 %
+SECONDARY           : 39.344262 %
+EMOTIONS            : 14.754098 %
+
+221 words total

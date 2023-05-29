@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    at opening ahead where ahead here closing out across ahead
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time again tonight when again tonight
+PRIMARY:SENSATION:VISION                                         6
+    see look see see see see
+SECONDARY:ABSTRACTION                                            5
+    knows why knows know knows
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cried cried cried
+EMOTIONS:ANXIETY                                                 3
+    fear fearlessness fear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safe safe
+EMOTIONS:AGGRESSION                                              2
+    hurt weapon
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+EMOTIONS:GLORY                                                   1
+    greater
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+PRIMARY:SENSATION:SOUND                                          1
+    belly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 48.979592 %
+SECONDARY           : 30.612245 %
+EMOTIONS            : 20.408163 %
+
+197 words total

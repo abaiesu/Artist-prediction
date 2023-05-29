@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    asked said asked said ask tell
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when now
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+EMOTIONS:AFFECTION                                               3
+    love lover lover
+EMOTIONS:GLORY                                                   2
+    rich rich
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here here
+SECONDARY:ABSTRACTION                                            2
+    them tenderly
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbows
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handsome
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 18.518519 %
+
+155 words total

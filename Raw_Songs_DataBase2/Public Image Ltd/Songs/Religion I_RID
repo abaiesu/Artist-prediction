@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    outside inside where where backwards away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money afford money priced
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while when now
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies dead lies
+SECONDARY:ABSTRACTION                                            2
+    them effective
+PRIMARY:NEED:ORALITY                                             2
+    suck fat
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    windows
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:NEED:SEX                                                 1
+    bitch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+SECONDARY:MORAL IMPERATIVE                                       1
+    sanctimonious
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 3.448276 %
+
+170 words total

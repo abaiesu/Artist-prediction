@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            4
+    something knew knew true
+PRIMARY:SENSATION:VISION                                         4
+    stars beam stars looked
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever every
+PRIMARY:SENSATION:TASTE                                          1
+    sweeter
+PRIMARY:SENSATION:SOFT                                           1
+    softer
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asked
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:AFFECTION                                               1
+    loveliness
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 10.526316 %
+
+73 words total

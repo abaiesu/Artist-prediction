@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    call call tell answer call called talk message answer call
+SECONDARY:ABSTRACTION                                            5
+    know something cause know somethin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here out here here
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time minute time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won try won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game playin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:AFFECTION                                               1
+    goodbye
+EMOTIONS:GLORY                                                   1
+    wondering
+
+PRIMARY             : 18.750000 %
+SECONDARY           : 68.750000 %
+EMOTIONS            : 12.500000 %
+
+172 words total

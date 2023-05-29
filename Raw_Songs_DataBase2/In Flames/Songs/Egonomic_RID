@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everybody every every every every ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    attempt won reach goal
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where far
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fires
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heading
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spineless
+PRIMARY:NEED:ANALITY                                             1
+    mess
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+SECONDARY:ABSTRACTION                                            1
+    calculated
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 47.826087 %
+EMOTIONS            : 8.695652 %
+
+96 words total

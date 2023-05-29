@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyeliner hands hands hands
+EMOTIONS:AFFECTION                                               3
+    like lovers like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back back at
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when time
+PRIMARY:SENSATION:VISION                                         2
+    saw blue
+SECONDARY:RESTRAINT                                              2
+    caught caught
+PRIMARY:NEED:ORALITY                                             2
+    mouth mouth
+PRIMARY:SENSATION:SOUND                                          2
+    ear hummingbirds
+PRIMARY:SENSATION:SOFT                                           2
+    soft soft
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning burning
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep woke
+SECONDARY:ORDER                                                  1
+    forming
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+SECONDARY:ABSTRACTION                                            1
+    fact
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+
+PRIMARY             : 67.741935 %
+SECONDARY           : 19.354839 %
+EMOTIONS            : 12.903226 %
+
+118 words total

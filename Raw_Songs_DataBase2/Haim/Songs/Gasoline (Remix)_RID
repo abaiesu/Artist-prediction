@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    back off back off back back back off back back off between off
+EMOTIONS:AGGRESSION                                              6
+    kick kick strike strike strike strike
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please please please say please
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now past when
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    pretty pretty pretty pretty
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    throw throw throw sunrise
+PRIMARY:SENSATION:VISION                                         4
+    look watch watching watch
+EMOTIONS:SADNESS                                                 3
+    sad sad sad
+SECONDARY:MORAL IMPERATIVE                                       2
+    shouldn shouldn
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:NEED:ORALITY                                             1
+    coughing
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoked
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    legs
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slower
+
+PRIMARY             : 56.603774 %
+SECONDARY           : 24.528302 %
+EMOTIONS            : 18.867925 %
+
+247 words total

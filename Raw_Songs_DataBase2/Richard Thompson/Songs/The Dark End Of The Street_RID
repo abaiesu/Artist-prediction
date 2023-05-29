@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at where where at back at away at away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    belong find find find find find find
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    street street street street street street
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meet please meet
+EMOTIONS:AFFECTION                                               3
+    love love darling
+EMOTIONS:AGGRESSION                                              3
+    stole steal steal
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time tonight
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 43.589744 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 17.948718 %
+
+198 words total

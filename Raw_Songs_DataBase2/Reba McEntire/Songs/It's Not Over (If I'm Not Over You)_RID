@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    over over over over over over over over
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell say say say
+SECONDARY:ABSTRACTION                                            4
+    something know may may
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everyone when
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 12.000000 %
+
+146 words total

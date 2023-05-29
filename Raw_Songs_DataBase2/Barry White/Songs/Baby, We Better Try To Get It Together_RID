@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 32
+    try try try try try try try try try try found find used find try try try try try try try try try try try try try try try try try try
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time every once now ever once every once
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out further away between back further away
+EMOTIONS:AFFECTION                                               7
+    love love darling love love love love
+SECONDARY:ABSTRACTION                                            5
+    something figure know learn cause
+PRIMARY:SENSATION:VISION                                         3
+    watch rough watch
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 19.696970 %
+SECONDARY           : 69.696970 %
+EMOTIONS            : 10.606061 %
+
+345 words total

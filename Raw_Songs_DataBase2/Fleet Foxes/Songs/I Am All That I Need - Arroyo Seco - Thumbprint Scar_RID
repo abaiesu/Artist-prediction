@@ -1,0 +1,54 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    till now soonest soonest now then now
+PRIMARY:SENSATION:VISION                                         7
+    light light look see see bright light
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    distant distant at far at off behind
+SECONDARY:ABSTRACTION                                            6
+    true define believe knew knew knew
+EMOTIONS:AFFECTION                                               4
+    like like bridal like
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    water ocean sea
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet thumbprint
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answer tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find won
+PRIMARY:SENSATION:COLD                                           2
+    freezing child
+PRIMARY:SENSATION:HARD                                           2
+    hardly steel
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancer
+SECONDARY:ORDER                                                  1
+    measure
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    basking
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melting
+EMOTIONS:AGGRESSION                                              1
+    destroying
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    seething
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    calm
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    veil
+
+PRIMARY             : 56.140351 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 10.526316 %
+
+242 words total

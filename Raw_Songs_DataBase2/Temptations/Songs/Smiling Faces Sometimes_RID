@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         31
+    faces faces faces faces faces faces eyes eyes faces faces faces faces handshake faces faces faces faces faces faces faces faces faces faces faces faces handshake faces faces faces faces handshake
+EMOTIONS:POSITIVE AFFECT                                        28
+    smiling smiling smiling smiling smiling smiling smile smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smiling smile
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    tell tell tell tell tell telling tell tell tell tell tell telling tell tell advice
+SECONDARY:ABSTRACTION                                           14
+    truth proof truth cause truth proof truth proof truth proof truth proof cause know
+SECONDARY:TEMPORAL REFERENCES                                    9
+    sometimes sometimes sometimes sometimes sometimes sometimes sometimes now sometimes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    within back back behind back back where
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    lies lie lies lies lies lies
+EMOTIONS:AFFECTION                                               4
+    friend friend pat pat
+EMOTIONS:AGGRESSION                                              4
+    jealousy jealousy enemy harm
+EMOTIONS:SADNESS                                                 3
+    frown misery misery
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won try
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 36.000000 %
+SECONDARY           : 32.800000 %
+EMOTIONS            : 31.200000 %
+
+273 words total

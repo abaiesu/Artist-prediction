@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                            5
+    know choose know may know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here place
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please accept
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:AGGRESSION                                              1
+    abuse
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+SECONDARY:TEMPORAL REFERENCES                                    1
+    past
+SECONDARY:ORDER                                                  1
+    divided
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 13.333333 %
+
+169 words total

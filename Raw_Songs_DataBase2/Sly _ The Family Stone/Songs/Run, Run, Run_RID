@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    head head head flesh blood bone flesh blood bone
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at out inside inside inside at
+SECONDARY:ABSTRACTION                                            4
+    thinking figure know idea
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say tell say
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    dig dig dig
+SECONDARY:ORDER                                                  3
+    listen listen listen
+SECONDARY:MORAL IMPERATIVE                                       2
+    should oughta
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    staggering
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:ANXIETY                                                 1
+    avoid
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:SOUND                                          1
+    music
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    soakin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smokin
+PRIMARY:SENSATION:VISION                                         1
+    colors
+
+PRIMARY             : 56.818182 %
+SECONDARY           : 34.090909 %
+EMOTIONS            : 9.090909 %
+
+148 words total

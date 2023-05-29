@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         7
+    watch imagine watching bluebell watching watching watching
+PRIMARY:SENSATION:SOUND                                          6
+    hum hum hear hum hear hum
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    clouds clouds clouds clouds
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    sail sail sail sail
+EMOTIONS:AFFECTION                                               3
+    likes love kind
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly fly flight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at inside where
+EMOTIONS:SADNESS                                                 3
+    loneliness sad sad
+EMOTIONS:ANXIETY                                                 2
+    dread distress
+SECONDARY:ABSTRACTION                                            2
+    think think
+EMOTIONS:POSITIVE AFFECT                                         2
+    carefree carefree
+SECONDARY:ORDER                                                  2
+    listen listen
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 25.000000 %
+
+203 words total

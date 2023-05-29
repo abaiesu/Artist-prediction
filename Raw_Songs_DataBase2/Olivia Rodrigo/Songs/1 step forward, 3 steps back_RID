@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    over forward back forward back forward back forward back back back over back back forward back forward back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      14
+    step steps step steps door step steps step steps step steps coaster step steps
+EMOTIONS:AFFECTION                                              10
+    like kind love love kind like lover love love love
+SECONDARY:ABSTRACTION                                            8
+    cause understand understand understand something something understand understand
+EMOTIONS:AGGRESSION                                              6
+    struck doubted hate hate hate hate
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    called ask speak say said
+SECONDARY:TEMPORAL REFERENCES                                    4
+    today today everything ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make find make
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun exciting
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad mad
+SECONDARY:ORDER                                                  1
+    normally
+PRIMARY:NEED:SEX                                                 1
+    fucked
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roller
+
+PRIMARY             : 49.350649 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 23.376623 %
+
+281 words total

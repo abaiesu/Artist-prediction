@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        17
+    see light notice see see invisible shine see light see invisible light invisible see invisible see light
+SECONDARY:ABSTRACTION                                            8
+    know knew think think know knew know knew
+EMOTIONS:AFFECTION                                               6
+    love like love like like love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when whenever everything everything when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    unbelievable unbelievable unbelievable
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside open
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows faded
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+
+PRIMARY             : 52.542373 %
+SECONDARY           : 33.898305 %
+EMOTIONS            : 13.559322 %
+
+257 words total

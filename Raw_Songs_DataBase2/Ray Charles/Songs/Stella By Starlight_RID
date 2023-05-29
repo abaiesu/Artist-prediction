@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    brook tide brook tide
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at where at where
+SECONDARY:TEMPORAL REFERENCES                                    3
+    years everything everything
+PRIMARY:SENSATION:SOFT                                           2
+    murmur murmur
+EMOTIONS:AGGRESSION                                              2
+    ripples ripples
+EMOTIONS:AFFECTION                                               2
+    lovers lovers
+EMOTIONS:GLORY                                                   2
+    great great
+SECONDARY:ABSTRACTION                                            2
+    theme theme
+PRIMARY:SENSATION:VISION                                         2
+    starlight starlight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    agree agree
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springs
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 21.875000 %
+EMOTIONS            : 21.875000 %
+
+100 words total

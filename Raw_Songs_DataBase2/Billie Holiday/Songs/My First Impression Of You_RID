@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            4
+    something thought may true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at out overwhelming
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    impression impression impression
+PRIMARY:SENSATION:VISION                                         2
+    see looking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    stepped door
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+PRIMARY:SENSATION:SOUND                                          2
+    sound heart
+SECONDARY:RESTRAINT                                              2
+    stopped caught
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+EMOTIONS:GLORY                                                   1
+    glorious
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    indescribably
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 13.333333 %
+
+85 words total

@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when when old
+EMOTIONS:AFFECTION                                               3
+    like love friends
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said appeals say
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven above
+EMOTIONS:SADNESS                                                 2
+    woes misery
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    weary
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    burdens
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:GLORY                                                   1
+    gold
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 28.571429 %
+
+99 words total

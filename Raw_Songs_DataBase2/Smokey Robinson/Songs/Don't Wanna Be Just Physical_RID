@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             17
+    physical physical physical physical physical physical physical physical stimulation physical physical physical physical physical physical physical physical
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tell tell tell says conversation
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    between between inside between between between
+SECONDARY:ABSTRACTION                                            5
+    knew know true real cause
+PRIMARY:NEED:SEX                                                 4
+    kiss kiss sexual sexual
+SECONDARY:TEMPORAL REFERENCES                                    3
+    moment when when
+EMOTIONS:AFFECTION                                               2
+    lovers love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+PRIMARY:SENSATION:VISION                                         1
+    saw
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfaction
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    prepared
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 62.000000 %
+SECONDARY           : 32.000000 %
+EMOTIONS            : 6.000000 %
+
+398 words total

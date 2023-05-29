@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    met tell say talk say apologize
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away along between away away
+EMOTIONS:AFFECTION                                               4
+    love farewell love love
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy gay
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    magic magic magic
+SECONDARY:RESTRAINT                                              3
+    must must must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spent avail spent
+PRIMARY:SENSATION:VISION                                         2
+    illuminations shine
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everyday ever
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+SECONDARY:ORDER                                                  1
+    neath
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+
+PRIMARY             : 34.210526 %
+SECONDARY           : 47.368421 %
+EMOTIONS            : 18.421053 %
+
+174 words total

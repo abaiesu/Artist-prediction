@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back at wide long
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say called say called
+EMOTIONS:AGGRESSION                                              4
+    stole cannonball cannonball cannonball
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    steam ocean shore shore
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again now now
+EMOTIONS:AFFECTION                                               3
+    like love welcome
+EMOTIONS:GLORY                                                   3
+    great famous famous
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hills tall tall
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:ABSTRACTION                                            2
+    know known
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    valleys
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handsome
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 30.769231 %
+
+147 words total

@@ -1,0 +1,36 @@
+SECONDARY:MORAL IMPERATIVE                                      11
+    right right right right right right right right right right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back back over back back back back back
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now while now now then when now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    arms eyes body hand eyes eyes
+EMOTIONS:AFFECTION                                               4
+    like darling friend like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make win make
+PRIMARY:SENSATION:VISION                                         3
+    star gazing see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    attack
+SECONDARY:ABSTRACTION                                            1
+    certain
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+PRIMARY:NEED:SEX                                                 1
+    thigh
+EMOTIONS:ANXIETY                                                 1
+    scared
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+
+PRIMARY             : 42.307692 %
+SECONDARY           : 44.230769 %
+EMOTIONS            : 13.461538 %
+
+354 words total

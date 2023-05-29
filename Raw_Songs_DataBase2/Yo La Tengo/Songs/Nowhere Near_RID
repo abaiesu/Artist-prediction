@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                           10
+    know know real sure know believe know know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at here near near near
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when everything everyone
+PRIMARY:SENSATION:VISION                                         2
+    see look
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 34.615385 %
+SECONDARY           : 57.692308 %
+EMOTIONS            : 7.692308 %
+
+106 words total

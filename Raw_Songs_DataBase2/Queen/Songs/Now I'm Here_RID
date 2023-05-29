@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now now now now again when again now now
+PRIMARY:SENSATION:VISION                                         7
+    look see light bright beams light light
+EMOTIONS:AFFECTION                                               7
+    bride love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here here here where here here
+SECONDARY:ABSTRACTION                                            4
+    understand knew think think
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand face eye
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burned smoke
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:NEED:ANALITY                                             1
+    dungeon
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 50.980392 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 19.607843 %
+
+264 words total

@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        25
+    invisible invisible see invisible invisible see invisible invisible see invisible invisible see invisible invisible see look invisible invisible see watch invisible invisible see look look
+SECONDARY:MORAL IMPERATIVE                                       7
+    right right right right right right right
+SECONDARY:ABSTRACTION                                            7
+    something something real knows may may thought
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place close back behind at at
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    shake shake shake shake shake
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    incredible incredible incredible incredible
+EMOTIONS:AFFECTION                                               4
+    like friend dear dear
+PRIMARY:SENSATION:SOUND                                          3
+    hear sound hear
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    edge edge edge
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed bed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:RESTRAINT                                              1
+    caught
+
+PRIMARY             : 65.333333 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 6.666667 %
+
+345 words total

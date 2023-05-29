@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    near where close here where close where close where
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heart heart heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please tell please tell
+SECONDARY:TEMPORAL REFERENCES                                    3
+    whenever when when
+PRIMARY:NEED:SEX                                                 3
+    kiss kiss kiss
+EMOTIONS:AFFECTION                                               3
+    like darling darling
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    melts melts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+SECONDARY:RESTRAINT                                              2
+    must must
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    cloud cloud
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under under
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:NEED:ORALITY                                             1
+    lips
+
+PRIMARY             : 55.102041 %
+SECONDARY           : 22.448980 %
+EMOTIONS            : 22.448980 %
+
+138 words total

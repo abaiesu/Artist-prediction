@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    timeless old now time
+PRIMARY:SENSATION:VISION                                         3
+    lights shine colours
+PRIMARY:SENSATION:SOUND                                          2
+    voice soundless
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    unknown unknown
+EMOTIONS:POSITIVE AFFECT                                         1
+    rejoice
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    solar
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:AGGRESSION                                              1
+    harm
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    longer
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reaching
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+EMOTIONS:ANXIETY                                                 1
+    frightening
+SECONDARY:MORAL IMPERATIVE                                       1
+    custom
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 12.500000 %
+
+73 words total

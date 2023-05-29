@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    nearest where here away here where here away here
+EMOTIONS:AFFECTION                                               8
+    dearest dearest dearest dearest dearest dearest dearest dearest
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever once today today
+PRIMARY:SENSATION:VISION                                         4
+    picture picture see see
+PRIMARY:SENSATION:SOUND                                          3
+    hear heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calling calling
+SECONDARY:ABSTRACTION                                            1
+    reality
+
+PRIMARY             : 51.612903 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 25.806452 %
+
+128 words total

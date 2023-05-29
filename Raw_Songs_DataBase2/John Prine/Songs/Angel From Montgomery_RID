@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    old old old old time ago old when time years old today old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    make make try make make work make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long at long
+SECONDARY:ABSTRACTION                                            3
+    believe believe believe
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams woke
+PRIMARY:SENSATION:VISION                                         2
+    lightning look
+PRIMARY:SENSATION:SOUND                                          2
+    hear buzzing
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnt
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    dam
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 37.209302 %
+SECONDARY           : 58.139535 %
+EMOTIONS            : 4.651163 %
+
+246 words total

@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    till till when old till till
+EMOTIONS:AFFECTION                                               6
+    loves loves love loves love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    possess won find find find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long long out out
+PRIMARY:SENSATION:VISION                                         4
+    stars shine stars shine
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    growing above above
+SECONDARY:ABSTRACTION                                            2
+    may may
+EMOTIONS:GLORY                                                   2
+    gold gold
+EMOTIONS:ANXIETY                                                 1
+    cares
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    advice
+
+PRIMARY             : 31.428571 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 28.571429 %
+
+134 words total

@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              11
+    darling darling love like lovers lovers darling darling love like like
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now when old everybody time when now old now now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    met talking explain met met
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make trade make trade
+SECONDARY:ABSTRACTION                                            3
+    think thought knew
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    blood eye eyes
+PRIMARY:SENSATION:VISION                                         3
+    looked look see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    between between
+EMOTIONS:AGGRESSION                                              2
+    kills kills
+EMOTIONS:GLORY                                                   2
+    golden golden
+PRIMARY:SENSATION:TASTE                                          2
+    bittersweet bittersweet
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:NEED:ORALITY                                             1
+    poison
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:COLD                                           1
+    cool
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 26.415094 %
+SECONDARY           : 43.396226 %
+EMOTIONS            : 30.188679 %
+
+190 words total

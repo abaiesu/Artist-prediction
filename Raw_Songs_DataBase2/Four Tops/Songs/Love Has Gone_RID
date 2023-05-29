@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              19
+    love love love love love love love love love love love love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at behind at at
+SECONDARY:ABSTRACTION                                            3
+    cause cause cause
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy happiness
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    helpless confess
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find used
+EMOTIONS:SADNESS                                                 1
+    misery
+PRIMARY:SENSATION:SOUND                                          1
+    heartaches
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+EMOTIONS:AGGRESSION                                              1
+    robbed
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 13.157895 %
+SECONDARY           : 23.684211 %
+EMOTIONS            : 63.157895 %
+
+155 words total

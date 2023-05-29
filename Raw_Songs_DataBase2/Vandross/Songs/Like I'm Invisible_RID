@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              16
+    like like like like friends like kind like love love lovelessly friends like love like like
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    talk treating say treat treating say said confident treating told thank treat helping meet
+PRIMARY:SENSATION:VISION                                        12
+    invisible see looking see invisible invisible see see looks invisible invisible invisible
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    try try finish won won won won makes making used
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at out inside at here here
+SECONDARY:TEMPORAL REFERENCES                                    5
+    times when ever then ever
+SECONDARY:ABSTRACTION                                            3
+    why reality surely
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+
+PRIMARY             : 27.631579 %
+SECONDARY           : 46.052632 %
+EMOTIONS            : 26.315789 %
+
+330 words total

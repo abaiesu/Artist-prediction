@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once now now time now now
+PRIMARY:SENSATION:SOUND                                          5
+    blare resounding voice unheard voice
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    beneath deep under
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where where longer
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies silent decaying
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    share declare influence
+EMOTIONS:AGGRESSION                                              3
+    tyrant murderous hateful
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet eyes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    buried fallen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yell cries
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+SECONDARY:ORDER                                                  1
+    ranks
+EMOTIONS:GLORY                                                   1
+    majesty
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 55.000000 %
+SECONDARY           : 27.500000 %
+EMOTIONS            : 17.500000 %
+
+119 words total

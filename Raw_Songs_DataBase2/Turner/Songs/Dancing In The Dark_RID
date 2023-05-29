@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    round place somewhere off here somewhere round over
+PRIMARY:ICARIAN IMAGERY:FIRE                                     7
+    fire fire spark fire fire spark fire
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say help message say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    use hire hire trying hire
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    dancing dancing dancing dancing dancing
+SECONDARY:ABSTRACTION                                            5
+    something know know something know
+EMOTIONS:AGGRESSION                                              4
+    gun gun broken gun
+EMOTIONS:AFFECTION                                               3
+    like like kinda
+SECONDARY:TEMPORAL REFERENCES                                    3
+    older when today
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed dying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hair
+EMOTIONS:POSITIVE AFFECT                                         2
+    jokes laugh
+PRIMARY:SENSATION:SOUND                                          2
+    rattle heart
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulders
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+PRIMARY:NEED:ORALITY                                             1
+    starving
+
+PRIMARY             : 44.067797 %
+SECONDARY           : 32.203390 %
+EMOTIONS            : 23.728814 %
+
+304 words total

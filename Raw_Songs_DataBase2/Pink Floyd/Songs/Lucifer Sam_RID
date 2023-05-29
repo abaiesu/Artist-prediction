@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    side side side side somewhere at
+SECONDARY:ABSTRACTION                                            4
+    something something something something
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    explain explain explain explain
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hip
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+
+PRIMARY             : 47.619048 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 0.000000 %
+
+96 words total

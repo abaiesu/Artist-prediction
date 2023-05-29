@@ -1,0 +1,20 @@
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    called called called called says says tell tell called called called called says says tell tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    west side back
+SECONDARY:TEMPORAL REFERENCES                                    3
+    today now now
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:SADNESS                                                 2
+    despair despair
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness happiness
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jungle
+
+PRIMARY             : 20.689655 %
+SECONDARY           : 65.517241 %
+EMOTIONS            : 13.793103 %
+
+130 words total

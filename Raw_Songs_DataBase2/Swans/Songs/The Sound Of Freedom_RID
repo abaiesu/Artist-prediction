@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    place where away further inside where here inside away where surrounds opens
+PRIMARY:SENSATION:VISION                                        12
+    light bright see see light light picture light shine light light light
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now now time every every every every every now times
+PRIMARY:SENSATION:SOUND                                          9
+    sound sound sound sound sound sound sound sound sound
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    face heads hand eyes eyes eyes body eye
+EMOTIONS:AGGRESSION                                              7
+    cruel violent break violence destroys cut knife
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    river sea pool water wash sea
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    burned fire fire fire fire burns
+PRIMARY:NEED:ORALITY                                             5
+    drunk swallow spits mouth eats
+SECONDARY:ABSTRACTION                                            4
+    knows real believe history
+SECONDARY:RESTRAINT                                              3
+    punished punish prison
+PRIMARY:SENSATION:ODOR                                           3
+    breathing breathing breathed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silence lie dead
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams dreamed dreamed
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky heaven
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    leaping throw
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speak forgive
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found make
+PRIMARY:SENSATION:HARD                                           2
+    glass steel
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screams shout
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AFFECTION                                               1
+    lovers
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 69.811321 %
+SECONDARY           : 19.811321 %
+EMOTIONS            : 10.377358 %
+
+391 words total

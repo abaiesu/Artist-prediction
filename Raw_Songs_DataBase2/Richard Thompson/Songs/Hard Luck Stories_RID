@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:HARD                                          12
+    hard hard hard hard hard hard hard hard hard hard hard hard
+SECONDARY:TEMPORAL REFERENCES                                   11
+    everybody time ever ever everybody when ever ever everyone ever ever
+SECONDARY:ABSTRACTION                                            9
+    idea cause thinking known why why why why something
+EMOTIONS:AFFECTION                                               8
+    like friend like like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out out away out out out out
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    drive drive drive drive drive drive
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used won money job
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:VISION                                         2
+    see looks
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:SENSATION:SOUND                                          1
+    ear
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    steamship
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistaken
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:AGGRESSION                                              1
+    bother
+
+PRIMARY             : 43.661972 %
+SECONDARY           : 39.436620 %
+EMOTIONS            : 16.901408 %
+
+339 words total

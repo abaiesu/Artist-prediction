@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         8
+    see watch see watch blue see watch watch
+EMOTIONS:AFFECTION                                               7
+    love love dear love dear love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used makes used used
+EMOTIONS:SADNESS                                                 4
+    sad sad sad sad
+SECONDARY:TEMPORAL REFERENCES                                    3
+    times now when
+SECONDARY:ABSTRACTION                                            3
+    them know certain
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:AGGRESSION                                              2
+    breaks breaks
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 32.500000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 37.500000 %
+
+117 words total

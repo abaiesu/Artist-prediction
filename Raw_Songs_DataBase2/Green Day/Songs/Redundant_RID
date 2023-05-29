@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    speak speechless granted speak speechless speak speechless speak speechless
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old again now now now now now now
+EMOTIONS:AFFECTION                                               5
+    like love love love love
+SECONDARY:ABSTRACTION                                            5
+    cause cause cause cause cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over over over circle
+PRIMARY:SENSATION:SOUND                                          4
+    voice voice voice voice
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    routine line coaster
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    production
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roller
+PRIMARY:NEED:ORALITY                                             1
+    nauseous
+EMOTIONS:AGGRESSION                                              1
+    hate
+
+PRIMARY             : 30.952381 %
+SECONDARY           : 54.761905 %
+EMOTIONS            : 14.285714 %
+
+168 words total

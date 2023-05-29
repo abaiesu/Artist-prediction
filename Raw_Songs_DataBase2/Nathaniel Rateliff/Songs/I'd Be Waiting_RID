@@ -1,0 +1,28 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    dance sing dance playing dance dance
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    saying call saying saying
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever hours again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    count carry carry
+EMOTIONS:SADNESS                                                 2
+    lonely moan
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 20.833333 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 37.500000 %
+
+183 words total

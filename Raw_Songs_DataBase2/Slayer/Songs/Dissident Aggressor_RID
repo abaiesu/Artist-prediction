@@ -1,0 +1,26 @@
+EMOTIONS:AGGRESSION                                              6
+    stab stab stab stab stabbing stabbing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    bawl bawl bawl bawl bawling bawling
+SECONDARY:ABSTRACTION                                            4
+    subjected know know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    brain face brain brain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    space out
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    canyons
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+SECONDARY:ORDER                                                  1
+    universal
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 44.444444 %
+
+119 words total

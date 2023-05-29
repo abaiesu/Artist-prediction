@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long here away here away here away here here away
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say tell say say share say
+PRIMARY:SENSATION:SOUND                                          6
+    hear hear hearts hear heart heart
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when clock time week hours
+EMOTIONS:AFFECTION                                               4
+    love lovin loving loving
+PRIMARY:SENSATION:VISION                                         4
+    watch watch watch see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    throw throw throw throw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    price apply count
+SECONDARY:RESTRAINT                                              3
+    prison stop prison
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:MORAL IMPERATIVE                                       1
+    laws
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 54.000000 %
+SECONDARY           : 38.000000 %
+EMOTIONS            : 8.000000 %
+
+295 words total

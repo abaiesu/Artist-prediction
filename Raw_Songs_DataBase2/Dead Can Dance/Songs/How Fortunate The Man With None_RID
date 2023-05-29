@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                         9
+    saw complexities saw observed saw observed observed see observed
+SECONDARY:TEMPORAL REFERENCES                                    7
+    hour everything soon then soon soon soon
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    followed followed followed help followed
+SECONDARY:MORAL IMPERATIVE                                       5
+    honest honest honesty laws virtuously
+SECONDARY:ABSTRACTION                                            3
+    know know think
+EMOTIONS:GLORY                                                   3
+    great caesar noble
+EMOTIONS:AGGRESSION                                              2
+    murdered knife
+PRIMARY:SENSATION:SOUND                                          2
+    loud heard
+PRIMARY:NEED:ORALITY                                             2
+    poisoned drink
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here far
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+EMOTIONS:AFFECTION                                               1
+    grateful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:POSITIVE AFFECT                                         1
+    relieve
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 38.775510 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 18.367347 %
+
+288 words total

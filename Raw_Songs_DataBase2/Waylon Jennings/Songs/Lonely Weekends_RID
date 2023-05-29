@@ -1,0 +1,20 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    till weekends weekends till weekends till weekends weekends weekends
+EMOTIONS:SADNESS                                                 7
+    lonely lonely lonely lonely lonely lonely lonely
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said said said said said said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make try make try make
+SECONDARY:ABSTRACTION                                            4
+    true true true true
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+
+PRIMARY             : 5.714286 %
+SECONDARY           : 68.571429 %
+EMOTIONS            : 25.714286 %
+
+129 words total

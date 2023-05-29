@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           10
+    know think think know facts think know reason know cause
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when everything then when everything when when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    games play play play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    tried attempt win
+PRIMARY:SENSATION:SOUND                                          2
+    hearing hearing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+EMOTIONS:AFFECTION                                               2
+    like flirtin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along place
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    confused chance
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    hazy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:AGGRESSION                                              1
+    hurtin
+PRIMARY:NEED:ORALITY                                             1
+    poison
+
+PRIMARY             : 26.190476 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 16.666667 %
+
+195 words total

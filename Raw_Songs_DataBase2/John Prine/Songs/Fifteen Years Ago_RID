@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   23
+    today ago month time years ago years ago week time years ago years ago years ago week time years ago time years ago
+SECONDARY:ABSTRACTION                                           12
+    think thinks why real know thinks know why real know real know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    long back inside long off far inside long off long off
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said talked mention promised mention
+EMOTIONS:AFFECTION                                               5
+    love lovely love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried tried make tried tried
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+
+PRIMARY             : 22.058824 %
+SECONDARY           : 66.176471 %
+EMOTIONS            : 11.764706 %
+
+222 words total

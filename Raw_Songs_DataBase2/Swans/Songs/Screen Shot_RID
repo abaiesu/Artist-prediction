@@ -1,0 +1,54 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time now now time now now now now now
+EMOTIONS:AGGRESSION                                              8
+    steal cut hate wound hurt knife hate knife
+EMOTIONS:SADNESS                                                 5
+    pain suffering suffering suffering pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    reach reach reach cure
+PRIMARY:NEED:ORALITY                                             4
+    mouth teeth tongue feed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside here here here
+EMOTIONS:AFFECTION                                               3
+    love kind love
+EMOTIONS:ANXIETY                                                 3
+    fear fear fear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand hands hand
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire sun
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death lie
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream sleep
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:NEED:SEX                                                 1
+    lust
+SECONDARY:ABSTRACTION                                            1
+    thought
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speech
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 25.396825 %
+EMOTIONS            : 31.746032 %
+
+124 words total

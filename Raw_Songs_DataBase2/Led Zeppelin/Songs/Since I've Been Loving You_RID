@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              12
+    love love darling love beloved loving kinda loving like kinda loving loving
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    working makes trying trying working makes working makes makes
+SECONDARY:ABSTRACTION                                            8
+    think cause them them them them know them
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every everybody every now now when every
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell tell tell said said said tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out open front back back
+PRIMARY:SENSATION:SOUND                                          5
+    hear hear hear hear hear
+EMOTIONS:ANXIETY                                                 4
+    worried worried worried worried
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door door door door
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fell falling falling
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 27.536232 %
+SECONDARY           : 49.275362 %
+EMOTIONS            : 23.188406 %
+
+321 words total

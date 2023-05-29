@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    call visited say announce saying say pleasures tell say
+SECONDARY:TEMPORAL REFERENCES                                    7
+    then presents time now when tonight old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make used found make used make used
+SECONDARY:ABSTRACTION                                            6
+    them sure scheme figure features figured
+EMOTIONS:GLORY                                                   6
+    herod royal gold herod herod herod
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where at here out far
+EMOTIONS:AFFECTION                                               4
+    welcomes welcome friend likes
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    magic magi odds
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    safe safe safe
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye eye eye
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high high high
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream fantasize
+EMOTIONS:AGGRESSION                                              2
+    slaughter cut
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play sing
+PRIMARY:SENSATION:VISION                                         2
+    looking star
+EMOTIONS:POSITIVE AFFECT                                         1
+    enjoyed
+EMOTIONS:ANXIETY                                                 1
+    avoid
+SECONDARY:RESTRAINT                                              1
+    mustn
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 30.882353 %
+SECONDARY           : 45.588235 %
+EMOTIONS            : 23.529412 %
+
+354 words total

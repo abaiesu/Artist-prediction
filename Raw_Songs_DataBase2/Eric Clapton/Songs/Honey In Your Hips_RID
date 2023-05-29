@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when hour when till till when
+SECONDARY:ABSTRACTION                                            6
+    cause know cause know cause know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out round out across out
+PRIMARY:SENSATION:GENERAL-SENSATION                              5
+    pretty pretty pretty pretty pretty
+PRIMARY:NEED:ORALITY                                             5
+    lips honey honey lips honey
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hips feet hands hips hips
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dancing shout dance dance
+SECONDARY:RESTRAINT                                              4
+    stopping stop stop stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    reeling roll roll shake
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor floor door
+PRIMARY:SENSATION:HARD                                           3
+    rocking rock rock
+PRIMARY:SENSATION:SOUND                                          3
+    sound hear sound
+EMOTIONS:AGGRESSION                                              2
+    beat kicks
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 61.016949 %
+SECONDARY           : 28.813559 %
+EMOTIONS            : 10.169492 %
+
+177 words total

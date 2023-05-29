@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old old past old
+PRIMARY:SENSATION:VISION                                         3
+    blue blue blue
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    yellow yellow yellow
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    declaring say say
+EMOTIONS:AFFECTION                                               3
+    love love loves
+SECONDARY:ABSTRACTION                                            3
+    decided true may
+EMOTIONS:GLORY                                                   2
+    glory gold
+EMOTIONS:ANXIETY                                                 1
+    shy
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+PRIMARY:NEED:ORALITY                                             1
+    apple
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rode
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    built
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    among
+
+PRIMARY             : 31.034483 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 31.034483 %
+
+102 words total

@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    now now now now now now now now now now now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    longer inside apart out out at out out out out apart over inside
+SECONDARY:ABSTRACTION                                            5
+    know why figure know something
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    help asking asked admitting
+EMOTIONS:AGGRESSION                                              4
+    killing break hate disturbed
+SECONDARY:RESTRAINT                                              4
+    shut shut shut stop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face face eyes
+EMOTIONS:ANXIETY                                                 2
+    fear frantic
+PRIMARY:SENSATION:SOUND                                          2
+    deafening deafening
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning burning
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    apathy
+EMOTIONS:SADNESS                                                 1
+    misery
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepless
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ceiling
+PRIMARY:SENSATION:COLD                                           1
+    numb
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    cure
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+
+PRIMARY             : 41.269841 %
+SECONDARY           : 46.031746 %
+EMOTIONS            : 12.698413 %
+
+249 words total

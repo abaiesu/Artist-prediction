@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now then sometimes when when now now
+SECONDARY:ABSTRACTION                                            5
+    thinking cause why something cause
+EMOTIONS:AFFECTION                                               3
+    friendships like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    possessed find
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say said
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+PRIMARY:SENSATION:SOUND                                          1
+    loudly
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+EMOTIONS:AGGRESSION                                              1
+    deceive
+
+PRIMARY             : 13.043478 %
+SECONDARY           : 69.565217 %
+EMOTIONS            : 17.391304 %
+
+74 words total

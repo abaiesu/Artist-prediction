@@ -1,0 +1,58 @@
+EMOTIONS:AFFECTION                                               9
+    kind like like love love love love love friend
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    beard chin eye chest wrist
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             5
+    sorcerer magical mystical magical mystique
+SECONDARY:ABSTRACTION                                            4
+    history choose may know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    wide sides apart apart
+SECONDARY:ORDER                                                  3
+    uniform uniform uniform
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make construct find
+EMOTIONS:GLORY                                                   2
+    gold sublime
+EMOTIONS:ANXIETY                                                 2
+    shy frantic
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fantasy hysterically
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:VISION                                         2
+    seen seen
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistletoe
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+EMOTIONS:SADNESS                                                 1
+    tragic
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twist
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 24.561404 %
+EMOTIONS            : 28.070175 %
+
+319 words total

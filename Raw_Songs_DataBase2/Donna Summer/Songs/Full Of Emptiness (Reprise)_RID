@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long long out
+SECONDARY:ABSTRACTION                                            2
+    why something
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then when
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 0.000000 %
+
+44 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                             10
+    blame blame bother bother bother bother bother bother bother bother
+EMOTIONS:SADNESS                                                 8
+    pain pain painted pain pain pain pain pain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    farther wide wide over
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    solace solace
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game game
+PRIMARY:SENSATION:VISION                                         2
+    stars blue
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    swing swing
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 11.111111 %
+EMOTIONS            : 55.555556 %
+
+191 words total

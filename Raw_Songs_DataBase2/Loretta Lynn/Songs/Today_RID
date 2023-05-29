@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    today again today today today today today
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    told said say told said
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+EMOTIONS:SADNESS                                                 1
+    sorrow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 23.809524 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 9.523810 %
+
+85 words total

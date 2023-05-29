@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out where away over longer
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while time soon when
+PRIMARY:SENSATION:VISION                                         2
+    shining rough
+SECONDARY:ABSTRACTION                                            1
+    knowing
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    claim
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 6.250000 %
+
+88 words total

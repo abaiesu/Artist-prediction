@@ -1,0 +1,28 @@
+SECONDARY:MORAL IMPERATIVE                                      22
+    right right right right right right right right right right right right right right right right right right right right right right
+SECONDARY:ABSTRACTION                                           11
+    sure cause sure know know sure sure know know know know
+SECONDARY:TEMPORAL REFERENCES                                   10
+    then then now while now now when then then then
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    excuse tell help say say say say said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make found make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play game
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:SENSATION:VISION                                         2
+    look see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 6.349206 %
+SECONDARY           : 85.714286 %
+EMOTIONS            : 7.936508 %
+
+397 words total

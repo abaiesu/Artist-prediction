@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    away further away out away further away further away further away further away
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+SECONDARY:ABSTRACTION                                            4
+    cause cause guess cause
+PRIMARY:NEED:ORALITY                                             4
+    sucks mouth mouth mouth
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then now now
+SECONDARY:RESTRAINT                                              3
+    stop shut shut
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try used
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    brain brain
+PRIMARY:NEED:SEX                                                 1
+    fuck
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:NEED:ANALITY                                             1
+    shit
+
+PRIMARY             : 58.536585 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 2.439024 %
+
+97 words total

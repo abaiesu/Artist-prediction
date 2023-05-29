@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here here out closes at here out here out where where here
+SECONDARY:TEMPORAL REFERENCES                                   11
+    clock clock weekend everybody weekend everybody when time clock clock again
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say tell tell
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun fun fun
+EMOTIONS:GLORY                                                   3
+    wondering wondering wondering
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing dance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    hall
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:AFFECTION                                               1
+    loving
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 39.473684 %
+EMOTIONS            : 23.684211 %
+
+173 words total

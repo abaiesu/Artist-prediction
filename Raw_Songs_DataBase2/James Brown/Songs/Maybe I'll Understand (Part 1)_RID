@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    treated talk help help said say say help help help
+SECONDARY:ABSTRACTION                                           10
+    believe understand think know know cause understand know cause understand
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now when when when times now tonight
+PRIMARY:SENSATION:VISION                                         3
+    light light light
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay lay
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:SENSATION:SOUND                                          1
+    hearted
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 70.000000 %
+EMOTIONS            : 5.000000 %
+
+219 words total

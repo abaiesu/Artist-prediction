@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              11
+    kind favors friends appreciate like appreciate like favors friends appreciate like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at along far at at far
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    work paid machine machine machine
+SECONDARY:ABSTRACTION                                            4
+    guess know know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    handshakes handshakes handshakes
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    thanks thanks thanks
+PRIMARY:SENSATION:SOUND                                          3
+    sound sound sound
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun fun fun
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream sleep
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flames
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 31.818182 %
+EMOTIONS            : 31.818182 %
+
+287 words total

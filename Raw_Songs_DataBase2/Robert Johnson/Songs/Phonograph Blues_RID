@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                              7
+    beatrice beatrice beatrice broke beatrice broke beatrice
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    played played play played played play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won won try won won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    side at side at back
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+EMOTIONS:SADNESS                                                 4
+    lonesome lonesome lonesome lonesome
+EMOTIONS:AFFECTION                                               3
+    love love lovin
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now time
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall wall
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:ABSTRACTION                                            1
+    why
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 28.888889 %
+EMOTIONS            : 44.444444 %
+
+200 words total

@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    at at side at where opened over over over over at at at out over
+EMOTIONS:AFFECTION                                              14
+    lovers lover like love lover like love lovers lover like love lover like love
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    says met met saying met please said met please says following following please please
+SECONDARY:TEMPORAL REFERENCES                                    9
+    past presents everlasting once everlasting when everlasting ever everlasting
+PRIMARY:SENSATION:SOUND                                          9
+    heart heart heart heart heart heart heart heart heart
+EMOTIONS:AGGRESSION                                              8
+    broke broke broke broke broke broke broke broke
+SECONDARY:ABSTRACTION                                            7
+    believe understand why think believe believe believed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    feet knees knees knees knees
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fall fall fall
+PRIMARY:SENSATION:VISION                                         2
+    pictures pictures
+SECONDARY:MORAL IMPERATIVE                                       2
+    respect shoulder
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:RESTRAINT                                              1
+    lock
+EMOTIONS:SADNESS                                                 1
+    mourning
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 39.784946 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 24.731183 %
+
+312 words total

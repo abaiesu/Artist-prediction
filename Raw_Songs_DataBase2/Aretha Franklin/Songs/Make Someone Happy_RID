@@ -1,0 +1,32 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    make make make win found trying build make make make try make
+EMOTIONS:POSITIVE AFFECT                                        10
+    happy happy smile cheers happy happy happy happy happy happy
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when everything minute now once sometime
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    nears where
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answer answer
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:VISION                                         1
+    lights
+EMOTIONS:GLORY                                                   1
+    fame
+SECONDARY:ABSTRACTION                                            1
+    real
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 33.333333 %
+
+127 words total

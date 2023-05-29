@@ -1,0 +1,26 @@
+EMOTIONS:SADNESS                                                 4
+    lonely lonely lonely lonely
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell rescue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    middle out
+EMOTIONS:AGGRESSION                                              1
+    broken
+EMOTIONS:AFFECTION                                               1
+    pity
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    shipwrecked
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+SECONDARY:ABSTRACTION                                            1
+    believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 35.294118 %
+
+84 words total

@@ -1,0 +1,22 @@
+EMOTIONS:SADNESS                                                 8
+    lonely unhappy lonely lonely lonely unhappy lonely lonely
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when now old again when now old again
+SECONDARY:ABSTRACTION                                            6
+    thought why why thought why why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    find make makes find make makes
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met met
+PRIMARY:SENSATION:VISION                                         2
+    blues blues
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 11.428571 %
+SECONDARY           : 62.857143 %
+EMOTIONS            : 25.714286 %
+
+128 words total

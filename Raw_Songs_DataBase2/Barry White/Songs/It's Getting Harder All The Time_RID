@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:HARD                                          18
+    hard harder harder harder harder hard harder harder harder harder harder harder harder harder harder harder harder harder
+SECONDARY:TEMPORAL REFERENCES                                   14
+    sometimes time every time time every time time time every time time time time
+EMOTIONS:AFFECTION                                               9
+    like love like loved loving darling goodbye love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    tried tried trying trying tried tried trying find
+SECONDARY:ABSTRACTION                                            6
+    know supposed know knowing knows tenderness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away back back away close
+PRIMARY:SENSATION:VISION                                         4
+    imagination imagine imagine look
+PRIMARY:SENSATION:TOUCH                                          2
+    touching touching
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sigh cry
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:SENSATION:SOFT                                           1
+    gentleman
+SECONDARY:MORAL IMPERATIVE                                       1
+    honestly
+EMOTIONS:ANXIETY                                                 1
+    anxious
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AGGRESSION                                              1
+    fighting
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 45.121951 %
+SECONDARY           : 37.804878 %
+EMOTIONS            : 17.073171 %
+
+303 words total

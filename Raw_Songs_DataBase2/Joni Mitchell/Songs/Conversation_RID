@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    conversation pleases say sharing told answers says speaks speak ask conversation
+SECONDARY:ABSTRACTION                                            9
+    knows knows guessing know believe why why knows knows
+SECONDARY:TEMPORAL REFERENCES                                    5
+    sometimes when time when sometimes
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    comfort comfort comfort comfort
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find found find find
+EMOTIONS:AFFECTION                                               4
+    like friends love friend
+PRIMARY:NEED:ORALITY                                             3
+    apples cheeses cafes
+PRIMARY:SENSATION:VISION                                         3
+    sees see see
+EMOTIONS:SADNESS                                                 3
+    sorry repentances sorrow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hand
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endlessly
+
+PRIMARY             : 32.142857 %
+SECONDARY           : 53.571429 %
+EMOTIONS            : 14.285714 %
+
+200 words total

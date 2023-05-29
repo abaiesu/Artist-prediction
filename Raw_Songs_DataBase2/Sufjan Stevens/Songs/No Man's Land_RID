@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    at over back back over out out out out out inside out back back inside out out out inside out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 15
+    trade make count count swept counting counting working counting counts swept counting counting working counting
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    waters swim swim dam water water shore
+PRIMARY:SENSATION:VISION                                         5
+    blinks see lightning light light
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    floor ferry window door
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    highest heights hill
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head hand hand
+SECONDARY:ABSTRACTION                                            3
+    meant them them
+EMOTIONS:AGGRESSION                                              2
+    fights injured
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when time
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    swayed swayed
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+PRIMARY:SENSATION:HARD                                           1
+    brash
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+SECONDARY:RESTRAINT                                              1
+    bars
+PRIMARY:SENSATION:SOUND                                          1
+    ear
+PRIMARY:SENSATION:COLD                                           1
+    winter
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+
+PRIMARY             : 65.789474 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 2.631579 %
+
+364 words total

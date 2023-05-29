@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           15
+    cause knows think reason know why know cause reason know why cause reason know why
+PRIMARY:SENSATION:VISION                                        10
+    looks see see star look star light picture looks see
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everything everything when tonight time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at out at
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile laugh funny smile
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talks talks says tell
+EMOTIONS:AFFECTION                                               3
+    love kind love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    guitar guitar guitar
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 45.161290 %
+EMOTIONS            : 19.354839 %
+
+317 words total

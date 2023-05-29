@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    forgive calling follow forgive follow follow
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now once now now once now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    awake crazy crazy insane
+SECONDARY:RESTRAINT                                              4
+    must must control must
+EMOTIONS:AFFECTION                                               4
+    friends friends friends friends
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    prepare prepare prepare
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    wide away
+PRIMARY:SENSATION:SOUND                                          2
+    hear voice
+SECONDARY:ABSTRACTION                                            2
+    know plane
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rides
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    brain
+EMOTIONS:AGGRESSION                                              1
+    hurts
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 35.000000 %
+SECONDARY           : 52.500000 %
+EMOTIONS            : 12.500000 %
+
+203 words total

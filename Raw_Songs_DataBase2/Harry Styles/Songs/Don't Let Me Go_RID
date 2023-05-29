@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    front wide open wide open back afar wide open
+PRIMARY:SENSATION:VISION                                         7
+    lights noticed bright saw picture star watch
+SECONDARY:ABSTRACTION                                            7
+    cause cause understand cause cause cause cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes arms hand eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies bed bed
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now sudden
+PRIMARY:SENSATION:HARD                                           2
+    harder glass
+EMOTIONS:AGGRESSION                                              2
+    doubt broken
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying make
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:NEED:ORALITY                                             1
+    corner
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promised
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+
+PRIMARY             : 63.829787 %
+SECONDARY           : 29.787234 %
+EMOTIONS            : 6.382979 %
+
+255 words total

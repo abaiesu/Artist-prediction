@@ -1,0 +1,50 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                 35
+    spread shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shakedown shake shake shakedown shakedown shakedown shake shake shakedown shakedown shakedown
+EMOTIONS:ANXIETY                                                15
+    nervous nervous nervous nervous nervous nervous nervous nervous nervous nervous nervous nervous nervous nervous nervous
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said say said tell said call said
+SECONDARY:ABSTRACTION                                            4
+    judgement cause judge decides
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time when time
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies lie lie
+PRIMARY:SENSATION:VISION                                         3
+    looking looked looked
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands feet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    path hall
+PRIMARY:NEED:ANALITY                                             2
+    dirty dirty
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at away
+PRIMARY:SENSATION:COLD                                           1
+    freeze
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    cruising
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:RESTRAINT                                              1
+    lock
+
+PRIMARY             : 61.797753 %
+SECONDARY           : 17.977528 %
+EMOTIONS            : 20.224719 %
+
+285 words total

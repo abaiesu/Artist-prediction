@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            9
+    guess think guess know true why think guess guess
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    pouring rain rain pour raining
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when soon soon when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 51.724138 %
+EMOTIONS            : 13.793103 %
+
+169 words total

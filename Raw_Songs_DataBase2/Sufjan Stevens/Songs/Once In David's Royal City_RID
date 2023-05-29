@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where at along place where
+PRIMARY:SENSATION:COLD                                           3
+    child child children
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    heaven heaven above
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    laid bed
+PRIMARY:SENSATION:SOFT                                           2
+    mild gentle
+EMOTIONS:AFFECTION                                               2
+    love dear
+SECONDARY:TEMPORAL REFERENCES                                    1
+    once
+EMOTIONS:GLORY                                                   1
+    royal
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lowly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shelter
+EMOTIONS:AGGRESSION                                              1
+    stable
+PRIMARY:NEED:ANALITY                                             1
+    stall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 76.000000 %
+SECONDARY           : 8.000000 %
+EMOTIONS            : 16.000000 %
+
+110 words total

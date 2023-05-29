@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              13
+    love love love love love love like romance love love love love love
+SECONDARY:ABSTRACTION                                           13
+    subject know know why understand know knew why why supposed something know supposed
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    asked tell said asked asked teacher said mention tell told said advice
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when again when time times then now everything then when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    reached makes makes makes test test test
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back at where at
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sigh cry sigh cry
+PRIMARY:SENSATION:VISION                                         3
+    looked glossy pictures
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed bed bed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+PRIMARY:SENSATION:HARD                                           1
+    glassy
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    poured
+PRIMARY:NEED:ORALITY                                             1
+    beer
+PRIMARY:NEED:SEX                                                 1
+    kissing
+EMOTIONS:SADNESS                                                 1
+    moan
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 23.750000 %
+SECONDARY           : 53.750000 %
+EMOTIONS            : 22.500000 %
+
+314 words total

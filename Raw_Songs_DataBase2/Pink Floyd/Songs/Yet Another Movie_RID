@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:SOUND                                          4
+    sound sound heard voice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face faces eyes eyes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun burned fiery sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    bed submit died rest
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    outside pointless
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window rimmed
+PRIMARY:SENSATION:COLD                                           2
+    child snow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cried
+PRIMARY:SENSATION:VISION                                         2
+    vision look
+EMOTIONS:AGGRESSION                                              2
+    broken fought
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    brook seas
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    screen fades
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+SECONDARY:TEMPORAL REFERENCES                                    1
+    soon
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    ceaseless
+PRIMARY:SENSATION:SOFT                                           1
+    murmuring
+
+PRIMARY             : 82.051282 %
+SECONDARY           : 5.128205 %
+EMOTIONS            : 12.820513 %
+
+166 words total

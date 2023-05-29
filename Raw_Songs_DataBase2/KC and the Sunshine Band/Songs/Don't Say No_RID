@@ -1,0 +1,16 @@
+SECONDARY:SOCIAL BEHAVIOR                                       26
+    say say say say say say say say say say say say say say say say say say say say say say say say say say
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:TEMPORAL REFERENCES                                    1
+    tonight
+
+PRIMARY             : 2.857143 %
+SECONDARY           : 82.857143 %
+EMOTIONS            : 14.285714 %
+
+208 words total

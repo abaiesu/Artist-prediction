@@ -1,0 +1,38 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        8
+    silence quiet silent silent silent silent silent silent
+EMOTIONS:AGGRESSION                                              7
+    break war fight war fight war fight
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say talking talk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes winning winning winning
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away between back apart
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:SENSATION:SOUND                                          3
+    hear loud hearts
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when then
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slipping falls
+EMOTIONS:GLORY                                                   1
+    golden
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+
+PRIMARY             : 45.833333 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 25.000000 %
+
+186 words total

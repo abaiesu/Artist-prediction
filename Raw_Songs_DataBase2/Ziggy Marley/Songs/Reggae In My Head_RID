@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         20
+    head head head head head head head head head head head head head head head head head head head head
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    played played dancing played played
+EMOTIONS:AGGRESSION                                              4
+    defeat beat defeat beat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    hypnotized dreams hypnotized
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river river
+SECONDARY:ORDER                                                  2
+    listening listening
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+PRIMARY:SENSATION:HARD                                           2
+    rocks rocks
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed bed
+PRIMARY:SENSATION:VISION                                         1
+    imagination
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+SECONDARY:RESTRAINT                                              1
+    prison
+SECONDARY:ABSTRACTION                                            1
+    known
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:GLORY                                                   1
+    wonderful
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    vibration
+
+PRIMARY             : 68.000000 %
+SECONDARY           : 12.000000 %
+EMOTIONS            : 20.000000 %
+
+210 words total

@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           29
+    believe believe believe believers why reason why believe them believe believe believe believers why reason why believe believe believe believers why reason why believe believers why reason why believe
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call ask ask ask ask
+PRIMARY:SENSATION:COLD                                           5
+    child child child child child
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today already now everyday when
+EMOTIONS:AGGRESSION                                              4
+    war angry guns wars
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    peaceful die weary
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    handful hands faces
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    tossed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carried
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:AFFECTION                                               1
+    mercy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    among
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 25.757576 %
+SECONDARY           : 62.121212 %
+EMOTIONS            : 12.121212 %
+
+226 words total

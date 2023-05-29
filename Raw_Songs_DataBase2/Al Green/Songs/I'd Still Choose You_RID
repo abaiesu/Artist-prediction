@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    over over over back over over over over over over over over over over over over over over over
+EMOTIONS:AFFECTION                                              10
+    love loving like love like like dear darling love love
+SECONDARY:ABSTRACTION                                           10
+    choose choose know choose know know choose choose choose choose
+SECONDARY:TEMPORAL REFERENCES                                    9
+    years time every time ever ever ever ever time
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes make pick
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    linger
+EMOTIONS:AGGRESSION                                              1
+    hits
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 43.333333 %
+SECONDARY           : 38.333333 %
+EMOTIONS            : 18.333333 %
+
+294 words total

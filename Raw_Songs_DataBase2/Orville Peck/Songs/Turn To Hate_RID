@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell say tell say tell say
+EMOTIONS:AGGRESSION                                              6
+    hate hate hate hate hate hate
+SECONDARY:ABSTRACTION                                            5
+    why something cause why why
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again everything now now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry cry cry
+SECONDARY:RESTRAINT                                              3
+    caught caught caught
+EMOTIONS:AFFECTION                                               3
+    goodbye goodbye goodbye
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+EMOTIONS:GLORY                                                   3
+    wondering wondering wondering
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor gate
+PRIMARY:SENSATION:VISION                                         2
+    seen stars
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out towards
+PRIMARY:NEED:ORALITY                                             1
+    bite
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+EMOTIONS:SADNESS                                                 1
+    sorrow
+
+PRIMARY             : 26.086957 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 34.782609 %
+
+227 words total

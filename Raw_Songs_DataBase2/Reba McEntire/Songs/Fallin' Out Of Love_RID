@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    out where out back out closin out back away out out out back out closin out back away out
+SECONDARY:ABSTRACTION                                           11
+    figure something knew knowing know know thinks something knew knowing know
+EMOTIONS:AFFECTION                                               9
+    loves like love love goodbye like love love loved
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    says say called talkin tell sayin said
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when when when now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used finding used used finding
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    silence dead silence dead
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fallin fallin fallin fallin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door street door street
+PRIMARY:SENSATION:SOUND                                          3
+    heart voice heart
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under under
+EMOTIONS:AGGRESSION                                              2
+    knife knife
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet feet
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:SENSATION:VISION                                         1
+    blue
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 14.285714 %
+
+257 words total

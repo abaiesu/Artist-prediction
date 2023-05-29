@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    place out here close where where place place where back where where place place place where where place
+PRIMARY:SENSATION:VISION                                         6
+    stars shine stars shine stars shine
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever when when when again
+EMOTIONS:AFFECTION                                               4
+    like love love love
+SECONDARY:ABSTRACTION                                            4
+    cause believe believe believe
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    above sky above above
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    belong find belong belong
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hand hands
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamed
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meets
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    broken
+
+PRIMARY             : 62.962963 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 11.111111 %
+
+264 words total

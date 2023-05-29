@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at back farther where farther back farther
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever now clock now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    count won find won
+SECONDARY:ABSTRACTION                                            4
+    guess believe cause knew
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said reminder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands knees
+EMOTIONS:AGGRESSION                                              1
+    deceived
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 14.285714 %
+
+130 words total

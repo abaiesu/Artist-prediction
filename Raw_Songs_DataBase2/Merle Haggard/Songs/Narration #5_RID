@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when time then time while today years
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    near farther east between placed at along
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    record recording studio recording used recording paid
+PRIMARY:SENSATION:SOUND                                          4
+    voice sound whistle music
+SECONDARY:ABSTRACTION                                            3
+    knew may almost
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    coast railroad route
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    rest died rests
+EMOTIONS:GLORY                                                   3
+    homage great greatest
+SECONDARY:RESTRAINT                                              2
+    necessary stops
+EMOTIONS:SADNESS                                                 2
+    sad moan
+SECONDARY:ORDER                                                  1
+    arrangements
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+EMOTIONS:AFFECTION                                               1
+    loved
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sang
+PRIMARY:SENSATION:VISION                                         1
+    blue
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 40.816327 %
+EMOTIONS            : 16.326531 %
+
+226 words total

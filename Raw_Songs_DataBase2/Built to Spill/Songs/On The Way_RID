@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         5
+    stars see stars see see
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now past now now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk talk
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    round round
+PRIMARY:SENSATION:TASTE                                          1
+    tangled
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    blur
+SECONDARY:ABSTRACTION                                            1
+    guess
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    calmness
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chaos
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 5.263158 %
+
+109 words total

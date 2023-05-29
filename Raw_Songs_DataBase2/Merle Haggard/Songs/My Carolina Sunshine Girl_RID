@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:ABSTRACTION                                            6
+    think why thinking thinking why why
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    carolina carolina cry carolina cry carolina
+PRIMARY:SENSATION:VISION                                         5
+    see sunshine sunshine sunshine sunshine
+EMOTIONS:GLORY                                                   4
+    wonder wondering wonder wonder
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when old when old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at here at here
+PRIMARY:SENSATION:TASTE                                          3
+    sweetheart sweetest sweetest
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh laugh
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:SADNESS                                                 1
+    lonesome
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 32.653061 %
+SECONDARY           : 26.530612 %
+EMOTIONS            : 40.816327 %
+
+142 words total

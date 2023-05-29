@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         5
+    blue sunshine shine blue sunshine
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where where long out inside
+SECONDARY:ABSTRACTION                                            5
+    know know reasons know know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call call call call
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    sunset sunsets sunset
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty beauty pretty
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ago time when
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:SENSATION:ODOR                                           2
+    cologne cologne
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+
+PRIMARY             : 59.459459 %
+SECONDARY           : 35.135135 %
+EMOTIONS            : 5.405405 %
+
+252 words total

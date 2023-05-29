@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand palm hand
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then soon old
+PRIMARY:SENSATION:SOUND                                          3
+    tune sound tune
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing plays
+PRIMARY:SENSATION:COLD                                           2
+    children children
+EMOTIONS:AGGRESSION                                              2
+    cruel strikes
+SECONDARY:RESTRAINT                                              1
+    stops
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calls
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    hypnotic
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 25.000000 %
+
+70 words total

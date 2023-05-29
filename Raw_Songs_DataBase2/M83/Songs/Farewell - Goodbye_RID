@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    far close far near away out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand hand neck corpse
+PRIMARY:SENSATION:SOUND                                          4
+    voice heart whistling melody
+PRIMARY:SENSATION:VISION                                         4
+    colors shiny blue watching
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everyday soon everynight
+EMOTIONS:AGGRESSION                                              2
+    killing beat
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:SADNESS                                                 2
+    weeping melancholy
+PRIMARY:SENSATION:SOFT                                           2
+    whispering mild
+PRIMARY:SENSATION:COLD                                           2
+    child frozen
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falls falling
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sparkling warm
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    magic strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fading clouds
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flying hang
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep dreams
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbows
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+
+PRIMARY             : 78.431373 %
+SECONDARY           : 9.803922 %
+EMOTIONS            : 11.764706 %
+
+138 words total

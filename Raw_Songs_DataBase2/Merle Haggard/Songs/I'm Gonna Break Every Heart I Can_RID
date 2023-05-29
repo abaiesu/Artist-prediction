@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    every time every everyone when every ever time every everyone every time every everyone every everyone
+EMOTIONS:AGGRESSION                                              8
+    break break break harm break break break break
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart heart heart heart heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find find find find find
+SECONDARY:ABSTRACTION                                            5
+    plan think know cause plan
+EMOTIONS:AFFECTION                                               5
+    kind friend kind love kind
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 19.230769 %
+SECONDARY           : 51.923077 %
+EMOTIONS            : 28.846154 %
+
+240 words total

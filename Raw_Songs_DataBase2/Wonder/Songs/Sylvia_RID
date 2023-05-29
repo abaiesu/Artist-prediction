@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now yesterday now everything now yesterday now
+SECONDARY:ABSTRACTION                                            5
+    know tenderly know tenderly know
+EMOTIONS:AFFECTION                                               5
+    like loved love love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    sun warms spark lit spark
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart ear heart
+PRIMARY:SENSATION:SOFT                                           3
+    gently whisper gently
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    raindrop
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 48.717949 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 17.948718 %
+
+152 words total

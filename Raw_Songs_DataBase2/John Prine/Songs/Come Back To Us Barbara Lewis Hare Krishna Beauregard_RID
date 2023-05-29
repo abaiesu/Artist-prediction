@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    overcoat back back at at at
+PRIMARY:SENSATION:VISION                                         5
+    saw see brown picture picture
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said called talk please
+SECONDARY:ABSTRACTION                                            4
+    real know believe why
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time everybody when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money selling buying
+EMOTIONS:AGGRESSION                                              3
+    broke shot bothers
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arm knees
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    spirit grew
+PRIMARY:SENSATION:HARD                                           2
+    hard nailed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    route hall
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    leaning
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:SOUND                                          1
+    heartaches
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 34.090909 %
+EMOTIONS            : 11.363636 %
+
+174 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back farther farther farther farther farther
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again when when then again
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top high
+PRIMARY:SENSATION:VISION                                         2
+    blues seen
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told told
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cried
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreak
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    valley
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+EMOTIONS:SADNESS                                                 1
+    loneliness
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:SENSATION:HARD                                           1
+    glass
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 23.333333 %
+EMOTIONS            : 20.000000 %
+
+161 words total

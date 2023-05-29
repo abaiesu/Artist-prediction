@@ -1,0 +1,42 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    call call met told say teach call call
+PRIMARY:NEED:ORALITY                                             7
+    cannibal cannibal eaten eaten feed cannibal cannibal
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    places off at back back
+PRIMARY:SENSATION:VISION                                         5
+    seen see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found make count built
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fall fall fall
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughed jokers
+EMOTIONS:GLORY                                                   2
+    rich castle
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face flesh
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:ORDER                                                  1
+    class
+EMOTIONS:AGGRESSION                                              1
+    kick
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    beach
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 10.416667 %
+
+268 words total

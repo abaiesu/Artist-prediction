@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         35
+    hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand hand
+SECONDARY:ABSTRACTION                                            7
+    cause cause why cause cause cause cause
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell promise promise tell tell promise
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    off between inside between between between
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when tonight when when
+PRIMARY:SENSATION:VISION                                         4
+    see sunlight see sunlight
+EMOTIONS:SADNESS                                                 3
+    miserable lonely lonely
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:HARD                                           1
+    harder
+EMOTIONS:AGGRESSION                                              1
+    fighting
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 62.820513 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 6.410256 %
+
+460 words total

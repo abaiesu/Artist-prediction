@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              10
+    like affection affection affection affection affection like affection like affection
+SECONDARY:ABSTRACTION                                           10
+    figure true true true true true figure true figure true
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    talk conversation talk conversation talk conversation talk
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face face face face
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy crazy crazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    using using
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 52.272727 %
+EMOTIONS            : 22.727273 %
+
+126 words total

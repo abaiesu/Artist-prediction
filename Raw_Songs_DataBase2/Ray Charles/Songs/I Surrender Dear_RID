@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              10
+    love dear dear wooing love dear dear dear wooing love
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    sworn saying confession say lending call say lending call
+SECONDARY:ABSTRACTION                                            9
+    thinking may may cause why may may cause why
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart hear heart heart hear heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    played game game played game game
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    cost pay make cost pay make
+EMOTIONS:GLORY                                                   5
+    pride splendid pride proud proud
+EMOTIONS:AGGRESSION                                              5
+    enemy broken beaten blame blame
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when then when then
+PRIMARY:SENSATION:VISION                                         4
+    stars appear stars appear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at away away
+EMOTIONS:POSITIVE AFFECT                                         2
+    gay gay
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:TASTE                                          2
+    spice spice
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows shadows
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:NEED:ORALITY                                             1
+    lips
+
+PRIMARY             : 27.710843 %
+SECONDARY           : 37.349398 %
+EMOTIONS            : 34.939759 %
+
+257 words total

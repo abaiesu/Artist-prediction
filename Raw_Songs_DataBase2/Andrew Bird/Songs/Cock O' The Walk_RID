@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         7
+    look scene looking bright looking see looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over here over here at back
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight old minute while old
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used money pay makes
+EMOTIONS:GLORY                                                   3
+    struttin struttin struttin
+EMOTIONS:AGGRESSION                                              3
+    fight fight fight
+SECONDARY:ABSTRACTION                                            2
+    real think
+PRIMARY:SENSATION:SOFT                                           1
+    feathers
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sports
+SECONDARY:RESTRAINT                                              1
+    bar
+EMOTIONS:ANXIETY                                                 1
+    fright
+
+PRIMARY             : 35.897436 %
+SECONDARY           : 43.589744 %
+EMOTIONS            : 20.512821 %
+
+161 words total

@@ -1,0 +1,42 @@
+EMOTIONS:AGGRESSION                                             17
+    fight fight bother fight fight hurt blame fight hurt hurt blame fight fight fight hurt blame fight
+SECONDARY:TEMPORAL REFERENCES                                   14
+    tonight time tonight time time now time past now time tonight time now time
+SECONDARY:ABSTRACTION                                            8
+    something know why reason why know know cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    dreams sleep crazy sleep sleep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    longer somewhere at situation apart
+PRIMARY:SENSATION:VISION                                         4
+    light see looking look
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky grow grew
+EMOTIONS:AFFECTION                                               3
+    kind like love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking talking talking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make built
+SECONDARY:RESTRAINT                                              2
+    must stop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+SECONDARY:ORDER                                                  1
+    simply
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+
+PRIMARY             : 27.631579 %
+SECONDARY           : 44.736842 %
+EMOTIONS            : 27.631579 %
+
+420 words total

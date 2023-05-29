@@ -1,0 +1,24 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    trying makes makes trying make makes makes makes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    far along far over away back
+SECONDARY:ABSTRACTION                                            4
+    know sure guess guess
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now once now
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 62.068966 %
+EMOTIONS            : 10.344828 %
+
+203 words total

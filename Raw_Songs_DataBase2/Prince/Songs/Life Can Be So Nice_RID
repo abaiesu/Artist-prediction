@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               8
+    loved love embrace embrace love embrace love loved
+SECONDARY:ABSTRACTION                                            7
+    cause know know different know cause know
+PRIMARY:NEED:SEX                                                 7
+    kisses kiss kiss kiss kiss kiss kiss
+EMOTIONS:GLORY                                                   6
+    glories wonderful glories glories wonderful wonderful
+PRIMARY:NEED:ORALITY                                             4
+    eggs milk lips eggs
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when once once once
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry plays play cry
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    drips drippin drips
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy joy
+PRIMARY:SENSATION:COLD                                           2
+    shivering shivering
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    madly madly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    trip trip
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    delivered
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 43.859649 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 35.087719 %
+
+220 words total

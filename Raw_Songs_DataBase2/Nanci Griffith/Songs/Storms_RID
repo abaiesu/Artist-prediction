@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at out at here at out at
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    water sea rain water sea
+PRIMARY:SENSATION:VISION                                         4
+    lamp look lightening flashing
+EMOTIONS:AFFECTION                                               3
+    kinda lover lover
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    quiet lie
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street wall
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when while
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows fades
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ships ships
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:ANXIETY                                                 2
+    afraid cares
+PRIMARY:NEED:ORALITY                                             1
+    whiskey
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 76.190476 %
+SECONDARY           : 7.142857 %
+EMOTIONS            : 16.666667 %
+
+188 words total

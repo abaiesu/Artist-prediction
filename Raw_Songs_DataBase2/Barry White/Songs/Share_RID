@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                              21
+    love love love kind love like love love befriended love love love love love love love love love favorite love love
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    share share please share share share share share please share share share sharing
+SECONDARY:ABSTRACTION                                           11
+    different thinking know cause thought something know know cause learned know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here here out space inside outside here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    try make make work make afford make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    times then time time time
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+PRIMARY:SENSATION:VISION                                         5
+    color see blue look see
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange stranger
+SECONDARY:RESTRAINT                                              2
+    must catch
+PRIMARY:SENSATION:SOFT                                           2
+    gently soft
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    handle hair
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+
+PRIMARY             : 30.434783 %
+SECONDARY           : 46.739130 %
+EMOTIONS            : 22.826087 %
+
+415 words total

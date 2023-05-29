@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             13
+    pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    within out out out out at
+SECONDARY:ABSTRACTION                                            4
+    something them proof proof
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancing sing sing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window stair
+PRIMARY:SENSATION:VISION                                         2
+    glancing lightly
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    candles candles
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair hair
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheers
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+
+PRIMARY             : 71.111111 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 11.111111 %
+
+126 words total

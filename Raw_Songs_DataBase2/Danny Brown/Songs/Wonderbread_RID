@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    back out at front over at back at at out front at
+PRIMARY:NEED:ORALITY                                             8
+    bread food bread bread bread food bread bread
+PRIMARY:SENSATION:VISION                                         7
+    see looking blinked seen see lookin looked
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand head
+SECONDARY:RESTRAINT                                              2
+    block block
+EMOTIONS:AGGRESSION                                              2
+    shootin steal
+EMOTIONS:GLORY                                                   1
+    wonderbread
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:ANXIETY                                                 1
+    worried
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+SECONDARY:ABSTRACTION                                            1
+    guess
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:COLD                                           1
+    chill
+
+PRIMARY             : 72.727273 %
+SECONDARY           : 13.636364 %
+EMOTIONS            : 13.636364 %
+
+228 words total

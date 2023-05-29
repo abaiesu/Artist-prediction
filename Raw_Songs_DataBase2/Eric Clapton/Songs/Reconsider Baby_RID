@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long long long separate long separate ahead back
+SECONDARY:ABSTRACTION                                            6
+    guess know guess guess why reconsider
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now once now once now time
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:AFFECTION                                               2
+    loved loved
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 14.285714 %
+
+119 words total

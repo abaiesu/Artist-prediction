@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                         8
+    seen looking looking saw saw seen blues colour
+SECONDARY:ABSTRACTION                                            4
+    thought sure something know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when sometimes sometimes daily
+EMOTIONS:AFFECTION                                               3
+    love like kind
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door sidewalk
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping madman
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing playing
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river sea
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    spark spark
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    buried fallen
+EMOTIONS:ANXIETY                                                 2
+    worried worry
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said talked
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:GLORY                                                   1
+    glory
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistrusting
+PRIMARY:NEED:ORALITY                                             1
+    bread
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reached
+
+PRIMARY             : 54.761905 %
+SECONDARY           : 26.190476 %
+EMOTIONS            : 19.047619 %
+
+176 words total

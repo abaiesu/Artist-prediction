@@ -1,0 +1,60 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when now years when past past when when years every now when when now now
+EMOTIONS:POSITIVE AFFECT                                        13
+    happiness happiness happiness happiness smile happiness happiness happiness happiness happiness happiness happiness happiness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    behind pointed at across at behind away where across at behind behind behind
+PRIMARY:SENSATION:VISION                                        12
+    see look look look see flickers light see green light flickers light
+SECONDARY:ABSTRACTION                                            9
+    true facts believe history guess know think true history
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    met tell met teaches tell forgiveness met
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    winning lessons make making price paid used
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    face blood eyes body eyes head
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    above trees heaven above trees
+EMOTIONS:AGGRESSION                                              5
+    weapons hurt fury hurts hurt
+EMOTIONS:GLORY                                                   4
+    great glorious great glorious
+SECONDARY:ORDER                                                  3
+    dividin divide divide
+EMOTIONS:AFFECTION                                               3
+    loved like like
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing cries
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    sunrise sunrise
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:SOUND                                          1
+    music
+SECONDARY:RESTRAINT                                              1
+    stopped
+EMOTIONS:ANXIETY                                                 1
+    terror
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deepest
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+
+PRIMARY             : 39.495798 %
+SECONDARY           : 36.134454 %
+EMOTIONS            : 24.369748 %
+
+450 words total

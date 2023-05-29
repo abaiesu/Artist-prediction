@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  11
+    rise hangman rise hangman hang hangman hangman hang rise hangman rise
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at at here here over at here here at
+SECONDARY:ABSTRACTION                                            7
+    judge planned judges true planned judges judge
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    pleasure say treated tell tell pleasure
+SECONDARY:MORAL IMPERATIVE                                       5
+    should should law law should
+EMOTIONS:POSITIVE AFFECT                                         5
+    jolly jolly laugh jolly jolly
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    revelry revelry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+EMOTIONS:AGGRESSION                                              1
+    cruel
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+PRIMARY:SENSATION:SOFT                                           1
+    gentleman
+EMOTIONS:SADNESS                                                 1
+    sorry
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 14.814815 %
+
+217 words total

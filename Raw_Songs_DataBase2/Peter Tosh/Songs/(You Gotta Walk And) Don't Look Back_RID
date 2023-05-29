@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    place behind back back behind back back behind back back places behind behind back back far back
+PRIMARY:SENSATION:VISION                                         9
+    look look look look look look look look look
+EMOTIONS:AFFECTION                                               6
+    love lover love lover love kind
+SECONDARY:ABSTRACTION                                            5
+    problems problems something something know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face hand hand hand hand
+EMOTIONS:ANXIETY                                                 4
+    troubles troubles troubles troubles
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+EMOTIONS:AGGRESSION                                              2
+    kill broke
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    remind
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 23.076923 %
+
+258 words total

@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           10
+    known know something think know known know know why believe
+EMOTIONS:AFFECTION                                               8
+    like like like like love love like loving
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell say engagement engaged tell commit commit
+SECONDARY:TEMPORAL REFERENCES                                    6
+    months time every while quicksand when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long long off back
+PRIMARY:SENSATION:VISION                                         4
+    see seen see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make tried reach
+EMOTIONS:GLORY                                                   2
+    proud rich
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sink fall
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfortable
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    chest
+PRIMARY:SENSATION:COLD                                           1
+    childhood
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeper
+EMOTIONS:AGGRESSION                                              1
+    hits
+
+PRIMARY             : 27.777778 %
+SECONDARY           : 51.851852 %
+EMOTIONS            : 20.370370 %
+
+233 words total

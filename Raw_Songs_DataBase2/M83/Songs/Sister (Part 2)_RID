@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away away away away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handcuffed
+PRIMARY:SENSATION:SOUND                                          1
+    sounds
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:ANXIETY                                                 1
+    scary
+
+PRIMARY             : 77.777778 %
+SECONDARY           : 0.000000 %
+EMOTIONS            : 22.222222 %
+
+29 words total

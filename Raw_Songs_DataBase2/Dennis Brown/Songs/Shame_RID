@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                         5
+    see seeing see seeing look
+SECONDARY:ABSTRACTION                                            5
+    understand know cause understand know
+EMOTIONS:AFFECTION                                               4
+    love friends love friends
+EMOTIONS:AGGRESSION                                              4
+    hurt hurt hurt hurt
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head faces faces
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    bottom bottom
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+
+PRIMARY             : 37.931034 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 27.586207 %
+
+223 words total

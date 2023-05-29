@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              16
+    love like kind love love like kind love love like kind love kind love kind love
+PRIMARY:SENSATION:VISION                                         9
+    look see see see see see see see see
+SECONDARY:ABSTRACTION                                            5
+    think think cause reason believe
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when then while then then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try try build buy
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk gift help meets
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet eye
+PRIMARY:NEED:ORALITY                                             2
+    eat lips
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile satisfaction
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeper
+PRIMARY:SENSATION:COLD                                           1
+    icing
+PRIMARY:NEED:SEX                                                 1
+    kissing
+SECONDARY:RESTRAINT                                              1
+    resist
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    physical
+
+PRIMARY             : 35.000000 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 31.666667 %
+
+346 words total

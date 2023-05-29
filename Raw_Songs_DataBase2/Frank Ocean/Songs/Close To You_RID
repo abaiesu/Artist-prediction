@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    longer close long close
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hands
+SECONDARY:TEMPORAL REFERENCES                                    2
+    older while
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:MORAL IMPERATIVE                                       1
+    honest
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+SECONDARY:ABSTRACTION                                            1
+    why
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    preaching
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 12.500000 %
+
+84 words total

@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    say say tell tell thank thank participation say say tell tell thank thank participation
+SECONDARY:ABSTRACTION                                           10
+    decided why guess why knew decided why guess why knew
+EMOTIONS:AFFECTION                                               8
+    friends friends like like friends friends like like
+SECONDARY:TEMPORAL REFERENCES                                    6
+    months time then months time then
+PRIMARY:SENSATION:SOUND                                          6
+    hear voice voice hear voice voice
+EMOTIONS:SADNESS                                                 4
+    suffering suffering suffering suffering
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    jumps jumps jumps jumps
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:NEED:ORALITY                                             2
+    gut gut
+SECONDARY:MORAL IMPERATIVE                                       2
+    corrected corrected
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found found
+
+PRIMARY             : 24.242424 %
+SECONDARY           : 51.515152 %
+EMOTIONS            : 24.242424 %
+
+308 words total

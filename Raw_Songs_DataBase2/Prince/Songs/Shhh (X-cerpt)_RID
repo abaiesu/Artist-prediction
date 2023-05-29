@@ -1,0 +1,38 @@
+EMOTIONS:AGGRESSION                                              9
+    break break break break break break break break break
+PRIMARY:SENSATION:SOUND                                          7
+    hear sounds hear hear sounds hear hear
+SECONDARY:RESTRAINT                                              4
+    interrupt stop stop interrupt
+SECONDARY:ABSTRACTION                                            4
+    think cause think think
+EMOTIONS:AFFECTION                                               3
+    love like love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then everyone then
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot hot
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+SECONDARY:ORDER                                                  1
+    listening
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    diggin
+PRIMARY:NEED:SEX                                                 1
+    sex
+
+PRIMARY             : 36.585366 %
+SECONDARY           : 34.146341 %
+EMOTIONS            : 29.268293 %
+
+247 words total

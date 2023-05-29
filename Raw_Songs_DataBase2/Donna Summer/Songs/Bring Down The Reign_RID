@@ -1,0 +1,40 @@
+SECONDARY:RESTRAINT                                             13
+    reign reign reign resistance reign reign reign reign reign reign reign reign reign
+SECONDARY:TEMPORAL REFERENCES                                   11
+    every every again till again again everybody everybody everybody everybody everybody
+PRIMARY:SENSATION:SOUND                                          7
+    voice voice voice voice heart loud heart
+EMOTIONS:POSITIVE AFFECT                                         6
+    joy joy joy joy joy joy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    surround open surround open out open
+PRIMARY:SENSATION:VISION                                         3
+    light light light
+EMOTIONS:AFFECTION                                               3
+    mercy like mercy
+EMOTIONS:AGGRESSION                                              3
+    break broken wounded
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms arms
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doors doors
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 42.187500 %
+SECONDARY           : 39.062500 %
+EMOTIONS            : 18.750000 %
+
+223 words total

@@ -1,0 +1,50 @@
+SECONDARY:ABSTRACTION                                            7
+    think something true know judgment true true
+SECONDARY:TEMPORAL REFERENCES                                    3
+    clock today tonight
+EMOTIONS:AGGRESSION                                              2
+    struggle torturing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tower spirits
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    apathy succumb
+PRIMARY:SENSATION:VISION                                         2
+    see visions
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    test claims
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile satisfaction
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:SENSATION:ODOR                                           1
+    odour
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    pilgrim
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:NEED:ANALITY                                             1
+    stench
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+EMOTIONS:SADNESS                                                 1
+    suffer
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    message
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 16.666667 %
+
+143 words total

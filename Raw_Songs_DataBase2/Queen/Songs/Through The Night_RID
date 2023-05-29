@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                        12
+    stars shining bright light stars shining bright light stars shining bright light
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell help tell guiding tell teach guiding tell teach guiding
+SECONDARY:ABSTRACTION                                           10
+    something something something cause know understand something cause know understand
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    wander wander wander wander wander wander
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    searching burns searching burns searching
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside place inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    ease ease
+EMOTIONS:AGGRESSION                                              2
+    anger anger
+PRIMARY:SENSATION:TASTE                                          2
+    bitterness bitterness
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 54.237288 %
+SECONDARY           : 35.593220 %
+EMOTIONS            : 10.169492 %
+
+191 words total

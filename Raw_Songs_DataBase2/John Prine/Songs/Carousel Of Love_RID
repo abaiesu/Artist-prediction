@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    round middle back back at long
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying buy trying find
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time then then
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+EMOTIONS:SADNESS                                                 2
+    forlorn sad
+SECONDARY:ABSTRACTION                                            2
+    think know
+PRIMARY:SENSATION:VISION                                         2
+    looking blues
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway highway
+EMOTIONS:POSITIVE AFFECT                                         1
+    merry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    horn
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rollercoaster
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 31.428571 %
+EMOTIONS            : 25.714286 %
+
+182 words total

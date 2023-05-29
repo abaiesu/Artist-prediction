@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                           15
+    think think think think know know think think think think know think think think think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    where where where where where where where where where where where where where
+PRIMARY:SENSATION:SOUND                                          2
+    heart voice
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    promised say
+EMOTIONS:AFFECTION                                               2
+    goodbye love
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+EMOTIONS:POSITIVE AFFECT                                         1
+    grin
+SECONDARY:MORAL IMPERATIVE                                       1
+    honestly
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    soar
+
+PRIMARY             : 46.511628 %
+SECONDARY           : 46.511628 %
+EMOTIONS            : 6.976744 %
+
+194 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out apart out out off here away out away out
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when times times when now when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    work work work works works
+PRIMARY:SENSATION:VISION                                         2
+    blue looked
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain water
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 60.606061 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 3.030303 %
+
+128 words total

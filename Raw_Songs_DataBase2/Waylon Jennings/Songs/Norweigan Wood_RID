@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say asked told talked said told told
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once once time then time when
+PRIMARY:SENSATION:VISION                                         2
+    looked noticed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    biding worked
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    lit fire
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    off
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flown
+
+PRIMARY             : 39.285714 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 3.571429 %
+
+121 words total

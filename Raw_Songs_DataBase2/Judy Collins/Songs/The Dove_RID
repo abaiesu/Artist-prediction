@@ -1,0 +1,42 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make building soldier carry make building
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    pretty pretty fair pretty
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when ever then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    near at away near
+EMOTIONS:AGGRESSION                                              4
+    army beat gun gun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies death lies
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    spring fly spring
+PRIMARY:SENSATION:SOUND                                          3
+    voice drum voice
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    bird bird
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sings sings
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tells tells
+PRIMARY:NEED:ORALITY                                             2
+    drinks drinks
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    waters waters
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellows
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:ANXIETY                                                 1
+    scare
+EMOTIONS:SADNESS                                                 1
+    weeping
+
+PRIMARY             : 53.191489 %
+SECONDARY           : 25.531915 %
+EMOTIONS            : 21.276596 %
+
+171 words total

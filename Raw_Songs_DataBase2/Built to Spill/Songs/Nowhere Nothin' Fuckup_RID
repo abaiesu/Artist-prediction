@@ -1,0 +1,32 @@
+PRIMARY:NEED:SEX                                                 9
+    fuckup fuckup fuckup fuckup fuckup fuckup fuckup fuckup fuckup
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now everyday every when now now every every every
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say tell say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back at out out at
+PRIMARY:SENSATION:VISION                                         4
+    brown brown brown brown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head feet feet
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rainbow rainbow rainbow
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    threw threw
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street street
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falls falls
+SECONDARY:ABSTRACTION                                            1
+    probably
+PRIMARY:NEED:ORALITY                                             1
+    ginger
+
+PRIMARY             : 64.583333 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 4.166667 %
+
+174 words total

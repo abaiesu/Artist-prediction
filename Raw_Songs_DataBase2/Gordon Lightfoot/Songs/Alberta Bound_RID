@@ -1,0 +1,42 @@
+SECONDARY:RESTRAINT                                             18
+    bound bound bound bound bound bound bound bound bound bound bound bound bound bound bound bound bound bound
+PRIMARY:SENSATION:VISION                                         4
+    lights bright see brown
+SECONDARY:ABSTRACTION                                            4
+    know somethin know reason
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long over behind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money make find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    chinook eyed
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old while
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleasure say
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    skyline streets
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnin
+PRIMARY:SENSATION:HARD                                           1
+    rocky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunset
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:COLD                                           1
+    snowin
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 36.734694 %
+SECONDARY           : 59.183673 %
+EMOTIONS            : 4.081633 %
+
+230 words total

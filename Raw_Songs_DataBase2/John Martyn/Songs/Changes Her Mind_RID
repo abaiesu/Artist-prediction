@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    answer say says says say said please say please says says tell talk said
+SECONDARY:TEMPORAL REFERENCES                                   14
+    yesterday today today times times sometime when sometime when ever time time time time
+SECONDARY:ABSTRACTION                                           12
+    may may may may thinks know know know know know know know
+EMOTIONS:AFFECTION                                              11
+    like loving like darling like like loving like like loving like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where out where out where where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find make spend find spend
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spiral
+PRIMARY:SENSATION:VISION                                         1
+    watch
+
+PRIMARY             : 16.176471 %
+SECONDARY           : 67.647059 %
+EMOTIONS            : 16.176471 %
+
+386 words total

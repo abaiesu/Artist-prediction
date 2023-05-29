@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say help help help help calling greet help help
+SECONDARY:ABSTRACTION                                            4
+    know consequence know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    built found built
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drifting dead
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out between
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun ashes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging fly
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    cheek
+SECONDARY:TEMPORAL REFERENCES                                    1
+    momentary
+EMOTIONS:AGGRESSION                                              1
+    arrows
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    canyon
+
+PRIMARY             : 43.750000 %
+SECONDARY           : 53.125000 %
+EMOTIONS            : 3.125000 %
+
+147 words total

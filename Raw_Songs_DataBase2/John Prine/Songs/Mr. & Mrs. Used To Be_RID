@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    separate long far apart separate at out separate separate
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now time now then now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    used used belongs reached worked used used
+EMOTIONS:AFFECTION                                               7
+    loved loved love dear like love goodbye
+SECONDARY:ABSTRACTION                                            7
+    know judge understand know known sure guess
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    heaven heaven heaven
+EMOTIONS:AGGRESSION                                              2
+    disagree blame
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:GLORY                                                   1
+    pride
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 29.166667 %
+SECONDARY           : 47.916667 %
+EMOTIONS            : 22.916667 %
+
+212 words total

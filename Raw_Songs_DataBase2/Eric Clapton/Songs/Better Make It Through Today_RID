@@ -1,0 +1,20 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make make make make make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today when today today today
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say share say
+PRIMARY:SENSATION:VISION                                         2
+    look see
+EMOTIONS:ANXIETY                                                 1
+    troubles
+EMOTIONS:SADNESS                                                 1
+    misery
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+
+PRIMARY             : 15.789474 %
+SECONDARY           : 73.684211 %
+EMOTIONS            : 10.526316 %
+
+85 words total

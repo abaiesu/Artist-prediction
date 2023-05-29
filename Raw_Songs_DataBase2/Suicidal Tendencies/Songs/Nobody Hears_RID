@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:SOUND                                         21
+    hears hears hear hears hears hears hears hears hears hears hears hears hears hears hears hears hears hears hears hears hears
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    inside here away here inside out away here inside away here inside here inside here inside here
+SECONDARY:ABSTRACTION                                           10
+    why understand why figured understand why understand why understand why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    try try makes find find makes find make
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when now then when now then when now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    screaming screaming screaming screaming screaming screaming
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talk ask say tell tell
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    pourin washed washed washed
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falls falls falls
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    rest rest rest
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:VISION                                         1
+    looking
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 35.555556 %
+EMOTIONS            : 7.777778 %
+
+316 words total

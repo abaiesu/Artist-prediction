@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand head head hand
+PRIMARY:NEED:SEX                                                 3
+    kiss caress caresses
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:ABSTRACTION                                            2
+    think decided
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    surround where
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said offer
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+
+PRIMARY             : 70.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 10.000000 %
+
+140 words total

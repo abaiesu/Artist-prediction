@@ -1,0 +1,40 @@
+EMOTIONS:SADNESS                                                 5
+    lonely lonely sad lonely lonely
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    above sky growing
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everyone time everybody
+SECONDARY:ABSTRACTION                                            3
+    learn them why
+PRIMARY:SENSATION:VISION                                         2
+    bluebirds color
+EMOTIONS:ANXIETY                                                 2
+    trouble troubles
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying lessons
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road roadside
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drops
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lullaby
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+EMOTIONS:AFFECTION                                               1
+    goodbyes
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 25.000000 %
+
+152 words total

@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    say talk shared talk share say say say say say say say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    danced dancing dancing dancing dancing dancing dancing dancing dancing dancing
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        8
+    clouds cloudy cloudy cloudy cloudy cloudy cloudy cloudy
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+PRIMARY:SENSATION:SOUND                                          5
+    hearts ringing heart bell ringing
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while now today now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away away here back
+PRIMARY:SENSATION:VISION                                         4
+    stars see blue blue
+SECONDARY:ABSTRACTION                                            3
+    thoughts knew true
+EMOTIONS:AGGRESSION                                              2
+    stole break
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+
+PRIMARY             : 37.704918 %
+SECONDARY           : 32.786885 %
+EMOTIONS            : 29.508197 %
+
+276 words total

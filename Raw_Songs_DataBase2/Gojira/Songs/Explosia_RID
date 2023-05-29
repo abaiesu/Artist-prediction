@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    open open long back aside out
+EMOTIONS:AGGRESSION                                              5
+    jealously crush fury anger strike
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while moment while when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grow growing high
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bones hands
+PRIMARY:SENSATION:VISION                                         2
+    seen watch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling fall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try make
+PRIMARY:SENSATION:SOUND                                          1
+    tone
+SECONDARY:ABSTRACTION                                            1
+    beliefs
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 23.333333 %
+EMOTIONS            : 16.666667 %
+
+106 words total

@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    said say say forgive say ask say said call say call spoken say promise call promise
+SECONDARY:ABSTRACTION                                           15
+    cause cause why true supposed believe understand cause cause choose judge why why cause cause
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when everything when today ever when when
+EMOTIONS:AFFECTION                                               4
+    like like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    carry carry carry carry
+EMOTIONS:AGGRESSION                                              2
+    temper beats
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die die
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling fun
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:SADNESS                                                 1
+    repent
+
+PRIMARY             : 9.836066 %
+SECONDARY           : 72.131148 %
+EMOTIONS            : 18.032787 %
+
+346 words total

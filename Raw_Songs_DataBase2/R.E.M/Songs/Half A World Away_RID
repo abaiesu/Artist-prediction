@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    away here along along along away along along backwards forwards away here along along along along along backwards forwards away
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high high trees high
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hands eyes eye hands
+PRIMARY:SENSATION:VISION                                         3
+    seen see seen
+SECONDARY:ABSTRACTION                                            3
+    think think guess
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sworn
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeps
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spent
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shook
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 79.166667 %
+SECONDARY           : 14.583333 %
+EMOTIONS            : 6.250000 %
+
+244 words total

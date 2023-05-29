@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    time when time when now now everybody time time time sometimes sometimes sometimes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    play play dance dance dance dance dance clown
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    used used used work used used
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    teach call call talk call
+PRIMARY:SENSATION:VISION                                         4
+    watch seen see brown
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where place
+PRIMARY:SENSATION:SOUND                                          2
+    rhythm hear
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:NEED:ORALITY                                             1
+    potato
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    jerk
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    relax
+SECONDARY:ABSTRACTION                                            1
+    may
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+
+PRIMARY             : 27.659574 %
+SECONDARY           : 53.191489 %
+EMOTIONS            : 19.148936 %
+
+189 words total

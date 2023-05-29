@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where at here where at here where where
+EMOTIONS:GLORY                                                   8
+    wonder wonder wonder wonder wonder wonder wonder wonder
+SECONDARY:TEMPORAL REFERENCES                                    7
+    tonight tonight tonight while when tonight tonight
+EMOTIONS:AFFECTION                                               4
+    like like love like
+EMOTIONS:SADNESS                                                 3
+    lonely suffer painting
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell call call
+SECONDARY:MORAL IMPERATIVE                                       3
+    should right should
+SECONDARY:ABSTRACTION                                            3
+    knowing know knowing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cried
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    lifetime lifetime
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 21.739130 %
+SECONDARY           : 36.956522 %
+EMOTIONS            : 41.304348 %
+
+159 words total

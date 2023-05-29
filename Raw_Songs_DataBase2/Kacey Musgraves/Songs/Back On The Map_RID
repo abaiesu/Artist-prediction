@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       28
+    far off back off back back out out back back closer off close out back back out out back back out out back back out out back back
+SECONDARY:ABSTRACTION                                           13
+    sure cause cause something something probably thought know cause know know cause cause
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    asked says asked signals asked
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    reach reach find reach
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything old again
+SECONDARY:MORAL IMPERATIVE                                       3
+    honestly honestly honestly
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touch
+PRIMARY:SENSATION:VISION                                         3
+    looking looking looking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drifted
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:NEED:ORALITY                                             1
+    fast
+
+PRIMARY             : 55.072464 %
+SECONDARY           : 40.579710 %
+EMOTIONS            : 4.347826 %
+
+291 words total

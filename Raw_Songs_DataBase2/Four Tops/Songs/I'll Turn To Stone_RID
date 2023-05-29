@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:HARD                                          24
+    stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone stone
+EMOTIONS:AFFECTION                                              15
+    love love love love love love love love love love darling like love love love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every when when when yesterdays everything ever
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    call call depend call call call
+SECONDARY:ABSTRACTION                                            6
+    reason purpose think think think think
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slip fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+EMOTIONS:SADNESS                                                 2
+    lonely sorrow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:SENSATION:VISION                                         1
+    behold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:AGGRESSION                                              1
+    hurting
+
+PRIMARY             : 48.717949 %
+SECONDARY           : 26.923077 %
+EMOTIONS            : 24.358974 %
+
+322 words total

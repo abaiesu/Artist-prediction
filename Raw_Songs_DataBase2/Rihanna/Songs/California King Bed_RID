@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         25
+    chest chest chest chest palm palm wrist wrist wrist wrist toe toe toe toe eye eye eye eye cheek cheek cheek cheek arm arm eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    close close inside out distance between apart side side out distance between apart apart apart
+EMOTIONS:AFFECTION                                               5
+    like like like like love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when everything then
+PRIMARY:SENSATION:ODOR                                           4
+    nose nose nose nose
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    bed bed bed bed
+PRIMARY:SENSATION:VISION                                         4
+    stars stars stars stars
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reach reach
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping dreaming
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    curtains
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wetter
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+
+PRIMARY             : 83.116883 %
+SECONDARY           : 10.389610 %
+EMOTIONS            : 6.493506 %
+
+289 words total

@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             12
+    army fight fight fighting slaughter fight slain fight fight fighting battle fight
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time now years time now old times now
+SECONDARY:ABSTRACTION                                            7
+    them them them them them them them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    soldiers soldiers building won work
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    rise rise rise rise
+PRIMARY:SENSATION:VISION                                         4
+    see see light lightning
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear hear hear
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say tell say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    places here
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+EMOTIONS:GLORY                                                   1
+    exalting
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    jail
+
+PRIMARY             : 31.034483 %
+SECONDARY           : 44.827586 %
+EMOTIONS            : 24.137931 %
+
+181 words total

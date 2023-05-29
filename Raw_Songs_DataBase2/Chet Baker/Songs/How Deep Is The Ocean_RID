@@ -1,0 +1,34 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    ocean sprinkled dew ocean
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high sky high sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far where far here
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell tell
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every times ever
+SECONDARY:ORDER                                                  2
+    measure measure
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travel journey
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:SENSATION:VISION                                         1
+    star
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 61.290323 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 9.677419 %
+
+117 words total

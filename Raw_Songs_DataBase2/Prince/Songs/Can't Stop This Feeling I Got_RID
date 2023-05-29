@@ -1,0 +1,40 @@
+SECONDARY:RESTRAINT                                             31
+    stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out at where at flat at rearrange rearrange
+SECONDARY:TEMPORAL REFERENCES                                    7
+    sometimes everybody every everlasting now then tonight
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    talking say tell tell say pardon pardon
+EMOTIONS:AFFECTION                                               6
+    dear like like love like favor
+SECONDARY:ABSTRACTION                                            6
+    them real know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    count try trying test make make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    toes body brains brains
+EMOTIONS:AGGRESSION                                              3
+    kill hit kicking
+PRIMARY:SENSATION:VISION                                         2
+    see light
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+EMOTIONS:SADNESS                                                 1
+    paint
+EMOTIONS:GLORY                                                   1
+    palace
+
+PRIMARY             : 20.689655 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 12.643678 %
+
+494 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                             13
+    war war war war war harsh war war war war war battle war
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    inside inside inside inside inside inside inside inside inside inside inside within inside
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         11
+    head head head head head head head head head head head
+EMOTIONS:SADNESS                                                 7
+    pain pain pain pain pain pain pain
+SECONDARY:TEMPORAL REFERENCES                                    2
+    times every
+SECONDARY:ABSTRACTION                                            2
+    reality real
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    win find
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+EMOTIONS:AFFECTION                                               1
+    sympathy
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 13.333333 %
+EMOTIONS            : 36.666667 %
+
+176 words total

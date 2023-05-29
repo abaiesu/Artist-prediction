@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    centre where where out centre centre
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    roads window lines floor
+SECONDARY:ABSTRACTION                                            3
+    truth knowing them
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silence death
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found use
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything everything
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    depths
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sank
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadowplay
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:HARD                                           1
+    steel
+PRIMARY:SENSATION:ODOR                                           1
+    odour
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bodies
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowds
+
+PRIMARY             : 71.875000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 3.125000 %
+
+137 words total

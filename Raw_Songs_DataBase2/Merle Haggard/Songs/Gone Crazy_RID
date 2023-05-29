@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    point somewhere out away somewhere out
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    crazy crazy crazy insane crazy crazy
+SECONDARY:ABSTRACTION                                            5
+    know know may know may
+SECONDARY:TEMPORAL REFERENCES                                    3
+    soon when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find find
+PRIMARY:SENSATION:VISION                                         2
+    seeing see
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    granted
+EMOTIONS:AGGRESSION                                              1
+    breaking
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 48.484848 %
+SECONDARY           : 39.393939 %
+EMOTIONS            : 12.121212 %
+
+142 words total

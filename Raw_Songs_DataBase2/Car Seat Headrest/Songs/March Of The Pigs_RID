@@ -1,0 +1,44 @@
+PRIMARY:NEED:ORALITY                                             5
+    feed teeth bite chew suck
+PRIMARY:SENSATION:VISION                                         5
+    watch look watch watch watch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back inside away at back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    knees skin blood skin
+EMOTIONS:AFFECTION                                               4
+    like like like like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now tonight everything
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make pick make won
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    step lined lined
+EMOTIONS:AGGRESSION                                              3
+    shove break smash
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:NEED:SEX                                                 1
+    fuck
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:SOUND                                          1
+    soundly
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 16.666667 %
+
+193 words total

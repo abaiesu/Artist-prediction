@@ -1,0 +1,22 @@
+EMOTIONS:POSITIVE AFFECT                                         3
+    enjoy enjoy enjoy
+EMOTIONS:AFFECTION                                               3
+    love love like
+EMOTIONS:AGGRESSION                                              3
+    hate hate hate
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+SECONDARY:RESTRAINT                                              2
+    determined determined
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistakes mistakes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+
+PRIMARY             : 11.764706 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 52.941176 %
+
+119 words total

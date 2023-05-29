@@ -1,0 +1,38 @@
+SECONDARY:ORDER                                                  7
+    listen listen listen listen listen listen listen
+PRIMARY:NEED:SEX                                                 6
+    sexy sexy sexy sexy sexy sexy
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when now time then time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out at between at at
+SECONDARY:ABSTRACTION                                            5
+    true something cause something know
+EMOTIONS:AFFECTION                                               4
+    romance love like like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met share answer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spend find find
+PRIMARY:SENSATION:SOUND                                          1
+    tuned
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    danced
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hilltop
+PRIMARY:SENSATION:VISION                                         1
+    view
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    diggin
+EMOTIONS:POSITIVE AFFECT                                         1
+    gladys
+
+PRIMARY             : 36.956522 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 13.043478 %
+
+216 words total

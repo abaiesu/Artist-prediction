@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back where back away back where back away away away
+SECONDARY:TEMPORAL REFERENCES                                    8
+    while old when again while old when again
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    fellas fellas fellas fellas fellas
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    belong find belong
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    swell swayin swayin
+PRIMARY:SENSATION:VISION                                         2
+    lookin glowin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playin playin
+EMOTIONS:AFFECTION                                               2
+    favorite favorite
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:NEED:ORALITY                                             1
+    lap
+
+PRIMARY             : 56.756757 %
+SECONDARY           : 32.432432 %
+EMOTIONS            : 10.810811 %
+
+140 words total

@@ -1,0 +1,54 @@
+EMOTIONS:AFFECTION                                              16
+    like like like pat like love like friend friend friend friend friend love friend friend friend
+SECONDARY:ABSTRACTION                                           14
+    cause know almost know prove knew know know know know know know know know
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when when when when then everything when when time when then when when
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell taught talk called call tell say pleasure call call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    try used used trying paid tried
+EMOTIONS:POSITIVE AFFECT                                         4
+    joya celebrate celebrate smile
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over at off out
+EMOTIONS:ANXIETY                                                 4
+    scared worry worry worry
+EMOTIONS:SADNESS                                                 4
+    lonely pain lonely lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands hair toes
+PRIMARY:NEED:ORALITY                                             2
+    caviar champagne
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pour pour
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+SECONDARY:RESTRAINT                                              1
+    arrested
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    coast
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dipped
+
+PRIMARY             : 21.276596 %
+SECONDARY           : 46.808511 %
+EMOTIONS            : 31.914894 %
+
+454 words total

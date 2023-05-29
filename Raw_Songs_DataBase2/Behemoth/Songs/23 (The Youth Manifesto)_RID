@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long among where apart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:NEED:ORALITY                                             2
+    nourish fed
+EMOTIONS:AGGRESSION                                              2
+    enemy torn
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hunger spirit
+SECONDARY:TEMPORAL REFERENCES                                    1
+    year
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journey
+PRIMARY:NEED:SEX                                                 1
+    naked
+EMOTIONS:GLORY                                                   1
+    palace
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underworld
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    entangled
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    flesh
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 73.913043 %
+SECONDARY           : 8.695652 %
+EMOTIONS            : 17.391304 %
+
+88 words total

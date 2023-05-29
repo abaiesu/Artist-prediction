@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when then when then then then when then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    try find found making practice tried find
+SECONDARY:ABSTRACTION                                            4
+    believe tenderness know plans
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back out space
+EMOTIONS:AFFECTION                                               3
+    love like love
+SECONDARY:RESTRAINT                                              2
+    insist capture
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    depend
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 23.529412 %
+SECONDARY           : 67.647059 %
+EMOTIONS            : 8.823529 %
+
+263 words total

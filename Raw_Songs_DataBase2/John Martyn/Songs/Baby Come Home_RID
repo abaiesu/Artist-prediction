@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       23
+    here across away back back back back here back here long long here long here long here long here long here open here
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now when now now old while today yesterday yesterday when yesterday
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    please please tell say please said please please please please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make pickett try buy pickett
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    skinny skinny skinny skinny skinny
+SECONDARY:ABSTRACTION                                            4
+    something something think think
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jump leap
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    airplane
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 48.571429 %
+EMOTIONS            : 1.428571 %
+
+355 words total

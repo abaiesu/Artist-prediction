@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        12
+    saw light saw light saw light saw light saw light saw light
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    wandered wandered wander stray
+EMOTIONS:AFFECTION                                               4
+    dear like like like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then then now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long back straight narrow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    aimless claimed traded
+EMOTIONS:ANXIETY                                                 2
+    worries fears
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gate
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:SADNESS                                                 1
+    sorrow
+
+PRIMARY             : 55.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 25.000000 %
+
+131 words total

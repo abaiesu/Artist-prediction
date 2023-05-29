@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off back back back
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    handle handle handle
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    roof
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 0.000000 %
+
+65 words total

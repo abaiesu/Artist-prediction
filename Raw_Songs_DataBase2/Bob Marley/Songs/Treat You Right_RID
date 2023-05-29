@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    ask treat treat treat treat treat ask treat treat treat treat treat treat treat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    back away nearin out behind open out behind open back away nearin open
+SECONDARY:MORAL IMPERATIVE                                      12
+    right right right right right right right right right right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    reach find count reach find count
+PRIMARY:SENSATION:VISION                                         6
+    see light see light see light
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then then time then
+EMOTIONS:AFFECTION                                               4
+    lovers friends lovers friends
+SECONDARY:ABSTRACTION                                            4
+    know think think know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 60.606061 %
+EMOTIONS            : 6.060606 %
+
+279 words total

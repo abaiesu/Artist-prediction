@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               8
+    love friend darling love love loving like love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when time time then today then time
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    borrow say saying asking treat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find used find using
+SECONDARY:ABSTRACTION                                            4
+    think true understand think
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water water
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    front here
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pitcher
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forevermore
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    darken
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 26.190476 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 21.428571 %
+
+241 words total

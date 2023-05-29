@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back place away out
+PRIMARY:NEED:ORALITY                                             4
+    pot pot pot pot
+SECONDARY:RESTRAINT                                              4
+    control control control control
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    secrets secrets secrets secrets
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told told told told
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    staircase
+EMOTIONS:AGGRESSION                                              1
+    steal
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    orbit
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 4.347826 %
+
+82 words total

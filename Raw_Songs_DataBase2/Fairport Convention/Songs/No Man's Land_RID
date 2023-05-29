@@ -1,0 +1,20 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    make make use make make make make use
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back back place back
+SECONDARY:ABSTRACTION                                            3
+    truth know truth
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:AFFECTION                                               1
+    friend
+
+PRIMARY             : 34.782609 %
+SECONDARY           : 60.869565 %
+EMOTIONS            : 4.347826 %
+
+112 words total

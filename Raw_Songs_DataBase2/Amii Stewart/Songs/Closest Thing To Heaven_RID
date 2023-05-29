@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    at at closest closest away closest closest near closest closest closest closest closest
+SECONDARY:ABSTRACTION                                           10
+    knows know know think know know know thinking know know
+SECONDARY:TEMPORAL REFERENCES                                    9
+    ever ever ever ever ever today ever ever ever
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   8
+    heaven heaven heaven heaven heaven heaven heaven heaven
+EMOTIONS:AFFECTION                                               5
+    lovin love love love love
+EMOTIONS:GLORY                                                   4
+    greatest greatest greatest greatest
+SECONDARY:MORAL IMPERATIVE                                       2
+    right shoulder
+PRIMARY:SENSATION:SOUND                                          1
+    music
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 45.762712 %
+SECONDARY           : 37.288136 %
+EMOTIONS            : 16.949153 %
+
+236 words total

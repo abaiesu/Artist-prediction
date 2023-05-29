@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out out out beside beside where beside beside beside beside beside beside
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    seas seas seas sea sea sea sea
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever ever then then when
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cries troubadours plays
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    preachers counselors
+PRIMARY:SENSATION:VISION                                         2
+    peers flash
+EMOTIONS:AGGRESSION                                              2
+    destroy abuse
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie die
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mister shady
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    possess belong
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile glee
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    descend
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:NEED:SEX                                                 1
+    naked
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:MORAL IMPERATIVE                                       1
+    laws
+PRIMARY:SENSATION:HARD                                           1
+    brass
+
+PRIMARY             : 58.928571 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 23.214286 %
+
+264 words total

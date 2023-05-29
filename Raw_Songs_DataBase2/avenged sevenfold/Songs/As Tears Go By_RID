@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         6
+    watch see watch watch watch watch
+PRIMARY:SENSATION:COLD                                           3
+    children children children
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play sing play
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear sound
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buy used
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+EMOTIONS:GLORY                                                   1
+    riches
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 20.833333 %
+
+96 words total

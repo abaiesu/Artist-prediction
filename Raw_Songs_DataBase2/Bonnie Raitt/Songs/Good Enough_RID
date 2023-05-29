@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time time when now now time times time now
+SECONDARY:ABSTRACTION                                            5
+    thinkin thinkin know cause cause
+PRIMARY:SENSATION:VISION                                         4
+    rough looked blue see
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said asked ask
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at long
+EMOTIONS:AFFECTION                                               2
+    loved love
+SECONDARY:RESTRAINT                                              2
+    stop bound
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make won
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:ANXIETY                                                 1
+    worryin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+
+PRIMARY             : 31.578947 %
+SECONDARY           : 55.263158 %
+EMOTIONS            : 13.157895 %
+
+202 words total

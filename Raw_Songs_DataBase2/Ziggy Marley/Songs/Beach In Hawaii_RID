@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    beach beach ocean sea beach beach beach
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here at open here away here here
+SECONDARY:ABSTRACTION                                            6
+    understand think know know real know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now everyday
+EMOTIONS:AFFECTION                                               2
+    love like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:HARD                                           1
+    rocky
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    cliff
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+
+PRIMARY             : 59.375000 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 12.500000 %
+
+128 words total

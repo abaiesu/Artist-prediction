@@ -1,0 +1,32 @@
+SECONDARY:RESTRAINT                                             25
+    control control control control control control control control control catch catch control control control control catch control control control control control control control control control
+EMOTIONS:AGGRESSION                                              6
+    cut cut fight fight fighting beat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out out out back between
+PRIMARY:SENSATION:ODOR                                           3
+    breath breath breath
+SECONDARY:ABSTRACTION                                            3
+    thought know know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hearts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won use
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say tell
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 25.862069 %
+SECONDARY           : 60.344828 %
+EMOTIONS            : 13.793103 %
+
+208 words total

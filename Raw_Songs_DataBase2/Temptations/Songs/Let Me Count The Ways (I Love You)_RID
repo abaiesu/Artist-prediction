@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              17
+    love love lovely like love love love love love love love love love love love lovely love
+SECONDARY:ABSTRACTION                                            9
+    understand cause know know know true know true understand
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say talk talk
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when ever ever when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    count belong
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:SENSATION:SOUND                                          2
+    sound sound
+PRIMARY:NEED:SEX                                                 2
+    sexy sexy
+PRIMARY:SENSATION:ODOR                                           2
+    perfume perfume
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:NEED:ORALITY                                             2
+    candy candy
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellas
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 27.450980 %
+SECONDARY           : 39.215686 %
+EMOTIONS            : 33.333333 %
+
+255 words total

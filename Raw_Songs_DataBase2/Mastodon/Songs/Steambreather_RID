@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    outside within inside where away where at surroundings separation where where
+EMOTIONS:GLORY                                                   8
+    wonder wonder golden crown wonder wonder wonder wonder
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    forgive offer helping offer offer
+SECONDARY:ABSTRACTION                                            3
+    know know may
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grow spirit trees
+EMOTIONS:ANXIETY                                                 3
+    afraid afraid afraid
+PRIMARY:SENSATION:VISION                                         2
+    see watching
+EMOTIONS:AGGRESSION                                              2
+    violence enemy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climbing mountain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:NEED:ORALITY                                             1
+    fruitful
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 51.063830 %
+SECONDARY           : 21.276596 %
+EMOTIONS            : 27.659574 %
+
+147 words total

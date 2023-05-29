@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+SECONDARY:ABSTRACTION                                            4
+    believes thinks knows thinks
+PRIMARY:SENSATION:VISION                                         4
+    green scene looking rough
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    taught says called
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now sometimes again
+EMOTIONS:AGGRESSION                                              2
+    kick blames
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyelids heeled
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:NEED:ORALITY                                             1
+    sugar
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeper
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:NEED:ANALITY                                             1
+    rotten
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    longing
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 23.684211 %
+
+177 words total

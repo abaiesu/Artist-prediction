@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time time time time time
+SECONDARY:RESTRAINT                                              6
+    caught caught caught caught caught caught
+EMOTIONS:AFFECTION                                               6
+    friend friend friend friend friend friend
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said said said said said said
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    high high high high high high
+SECONDARY:ORDER                                                  6
+    classed classed classed classed classed classed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    lie lie lie lie lie lie
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 27.906977 %
+SECONDARY           : 58.139535 %
+EMOTIONS            : 13.953488 %
+
+246 words total

@@ -1,0 +1,26 @@
+EMOTIONS:AGGRESSION                                              9
+    hurt hurt hurt deceive harm hurt hurt hurt hurt
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:ABSTRACTION                                            5
+    know know cause believe proved
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever ever times every
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes makes makes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    apart closest
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+
+PRIMARY             : 20.588235 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 44.117647 %
+
+151 words total

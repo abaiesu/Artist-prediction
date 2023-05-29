@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:COLD                                          13
+    child child child child child cold child child child child child child child
+SECONDARY:ABSTRACTION                                            5
+    know know know almost know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    blood eyes arms face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long long placin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find found
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doorstep streets
+SECONDARY:RESTRAINT                                              2
+    resistance guard
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:SENSATION:SOUND                                          1
+    voices
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruins
+EMOTIONS:AGGRESSION                                              1
+    wounded
+PRIMARY:SENSATION:VISION                                         1
+    lamp
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 65.306122 %
+SECONDARY           : 32.653061 %
+EMOTIONS            : 2.040816 %
+
+215 words total

@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    where where round round round round round round round round where where round round round round round round
+PRIMARY:NEED:SEX                                                11
+    kisses kisses kisses kisses kisses kisses kisses kisses kisses kisses kisses
+PRIMARY:SENSATION:VISION                                        10
+    blueberry blueberry blueberry blueberry blueberry blueberry blueberry blueberry blueberry blueberry
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now clock time now clock time
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told told
+SECONDARY:RESTRAINT                                              2
+    stopped stopped
+SECONDARY:ABSTRACTION                                            2
+    them know
+PRIMARY:NEED:ORALITY                                             1
+    lips
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 75.925926 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 1.851852 %
+
+157 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    off out distance out out out frontier out frontier off out distance
+SECONDARY:TEMPORAL REFERENCES                                    9
+    again again when time when years time again again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find spending find recover spent
+PRIMARY:SENSATION:VISION                                         4
+    amber grey amber grey
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    waves waves waves waves
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    darkened fading fading darkened
+PRIMARY:NEED:ORALITY                                             2
+    grain grain
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+EMOTIONS:GLORY                                                   1
+    conquer
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 35.555556 %
+EMOTIONS            : 4.444444 %
+
+274 words total

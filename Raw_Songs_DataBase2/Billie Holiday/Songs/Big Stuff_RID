@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    open wide square open wide out
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask call
+SECONDARY:ABSTRACTION                                            2
+    why know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pick try
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    shore rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:VISION                                         1
+    blues
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:SADNESS                                                 1
+    despair
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 9.090909 %
+
+105 words total

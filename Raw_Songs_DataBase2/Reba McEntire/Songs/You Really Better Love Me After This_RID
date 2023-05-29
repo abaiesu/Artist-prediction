@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:ABSTRACTION                                            6
+    learned cause believe know cause guess
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found won won recover
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here here here somewhere
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    promises say say forgive
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chances chances chances
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time now
+PRIMARY:SENSATION:VISION                                         2
+    colorado see
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heading
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 28.947368 %
+SECONDARY           : 44.736842 %
+EMOTIONS            : 26.315789 %
+
+213 words total

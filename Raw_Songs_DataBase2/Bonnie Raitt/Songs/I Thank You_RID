@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    thank thank help thank thank talking say thank thank thank
+EMOTIONS:AFFECTION                                               9
+    love like like love loved like like like love
+SECONDARY:ABSTRACTION                                            3
+    know meant know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    somewhere
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 16.129032 %
+SECONDARY           : 54.838710 %
+EMOTIONS            : 29.032258 %
+
+168 words total

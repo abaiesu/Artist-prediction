@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out out here long side long long
+PRIMARY:SENSATION:VISION                                         6
+    see see see see see see
+SECONDARY:ABSTRACTION                                            4
+    figure something think knew
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried try
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+EMOTIONS:AGGRESSION                                              1
+    doubt
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    message
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sometimes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 34.615385 %
+EMOTIONS            : 3.846154 %
+
+169 words total

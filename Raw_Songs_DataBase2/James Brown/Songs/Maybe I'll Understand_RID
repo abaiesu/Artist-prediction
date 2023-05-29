@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       21
+    treated talk help help said say say help help help says said said said say told said help help help help
+SECONDARY:ABSTRACTION                                           18
+    believe understand think know cause understand know cause understand reason understand understand know know know know guess guess
+SECONDARY:TEMPORAL REFERENCES                                   14
+    when when when times now tonight then time now now time now time when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    trying trying trying make won won trying make win
+PRIMARY:SENSATION:VISION                                         5
+    light light light blues blues
+PRIMARY:SENSATION:HARD                                           4
+    hard hard hard hard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    play guitar play game
+EMOTIONS:AGGRESSION                                              3
+    brokenhearted hit hit
+EMOTIONS:GLORY                                                   3
+    wondering wondering wondering
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where back back
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay lay
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 18.888889 %
+SECONDARY           : 68.888889 %
+EMOTIONS            : 12.222222 %
+
+443 words total

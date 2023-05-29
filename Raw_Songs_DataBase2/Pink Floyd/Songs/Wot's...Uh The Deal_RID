@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where outside where point side inside out where
+SECONDARY:ABSTRACTION                                            6
+    cause cause think cause think cause
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time old old again now old
+PRIMARY:SENSATION:VISION                                         5
+    looks looking flash bright looking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    heaven growing growing grown
+PRIMARY:SENSATION:COLD                                           4
+    cold chill cold chill
+PRIMARY:SENSATION:HARD                                           4
+    stone stone stone stone
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    promised speak promised
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step line
+EMOTIONS:GLORY                                                   2
+    gold gold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make try
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire candlelight
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    meal
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    stir
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+
+PRIMARY             : 61.111111 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 5.555556 %
+
+223 words total

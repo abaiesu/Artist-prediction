@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               6
+    like friends friend friend love friend
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    inside close at at at
+SECONDARY:ABSTRACTION                                            5
+    believe know knows important knows
+SECONDARY:TEMPORAL REFERENCES                                    5
+    hours month now when now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand flesh bone
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talked converse
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad waken
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endlessly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:VISION                                         1
+    sees
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 34.210526 %
+EMOTIONS            : 18.421053 %
+
+192 words total

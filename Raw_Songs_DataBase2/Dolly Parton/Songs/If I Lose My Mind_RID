@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            6
+    know know understand why understanding them
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again again now then time
+PRIMARY:SENSATION:VISION                                         5
+    see looking look watch see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back over here longer
+EMOTIONS:AFFECTION                                               4
+    loved love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried make
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    weary
+SECONDARY:RESTRAINT                                              1
+    lock
+EMOTIONS:AGGRESSION                                              1
+    torture
+EMOTIONS:ANXIETY                                                 1
+    afraid
+
+PRIMARY             : 32.258065 %
+SECONDARY           : 45.161290 %
+EMOTIONS            : 22.580645 %
+
+159 words total

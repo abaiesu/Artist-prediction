@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            6
+    know know know know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away inside across away inside
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile smile jokes laughs
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head cheeky head
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river washed
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+SECONDARY:TEMPORAL REFERENCES                                    2
+    times now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line stepping
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:SADNESS                                                 1
+    wept
+PRIMARY:SENSATION:HARD                                           1
+    stones
+EMOTIONS:AFFECTION                                               1
+    goodbye
+
+PRIMARY             : 46.875000 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 18.750000 %
+
+134 words total

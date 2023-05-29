@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out at where away out at away out at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    trying trying record machine won record machine record machine
+PRIMARY:SENSATION:VISION                                         9
+    looks blue see look look looks blue looks blue
+EMOTIONS:AFFECTION                                               7
+    like like like love like like like
+PRIMARY:NEED:ORALITY                                             6
+    drink candy drink candy drink candy
+SECONDARY:ABSTRACTION                                            5
+    why cause cause know believe
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time again time time time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes face eyes eyes eyes
+EMOTIONS:AGGRESSION                                              5
+    fight deceived fight break fight
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say tell advice tell
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    leaning leaning leaning
+PRIMARY:SENSATION:COLD                                           3
+    cool cool cool
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    water water water
+EMOTIONS:SADNESS                                                 3
+    misery misery misery
+PRIMARY:SENSATION:SOUND                                          3
+    hearing hear heart
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:ANALITY                                             1
+    mess
+
+PRIMARY             : 52.325581 %
+SECONDARY           : 29.069767 %
+EMOTIONS            : 18.604651 %
+
+388 words total

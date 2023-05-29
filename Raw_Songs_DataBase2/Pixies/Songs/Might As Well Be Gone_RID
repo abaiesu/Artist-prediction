@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    speech meet speech speech
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    use find
+SECONDARY:RESTRAINT                                              2
+    reign bars
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight tonight
+SECONDARY:ABSTRACTION                                            1
+    chosen
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    suns
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    closed
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 73.333333 %
+EMOTIONS            : 6.666667 %
+
+120 words total

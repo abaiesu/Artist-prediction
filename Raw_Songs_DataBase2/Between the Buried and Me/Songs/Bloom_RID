@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here tippity back back surface distant
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    waters sea sea water sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    drift slowly drift
+SECONDARY:ABSTRACTION                                            3
+    know purpose knew
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    swing floating
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    sway sway
+PRIMARY:SENSATION:SOUND                                          2
+    melody hearse
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    toes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+EMOTIONS:AGGRESSION                                              1
+    hurt
+EMOTIONS:ANXIETY                                                 1
+    worry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+
+PRIMARY             : 72.222222 %
+SECONDARY           : 13.888889 %
+EMOTIONS            : 13.888889 %
+
+153 words total

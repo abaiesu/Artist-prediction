@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    tonight sometimes every sometimes sometimes ago now every sometimes sometimes ago now sometimes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out here long away long
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tells says tells says says
+SECONDARY:ABSTRACTION                                            3
+    believe cause cause
+PRIMARY:SENSATION:VISION                                         2
+    see lights
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+PRIMARY:SENSATION:COLD                                           1
+    colder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:NEED:SEX                                                 1
+    caress
+
+PRIMARY             : 35.000000 %
+SECONDARY           : 57.500000 %
+EMOTIONS            : 7.500000 %
+
+149 words total

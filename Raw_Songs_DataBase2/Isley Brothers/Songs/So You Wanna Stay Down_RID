@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back back side away closer off
+SECONDARY:ABSTRACTION                                            6
+    cause them somethin know truly believe
+SECONDARY:RESTRAINT                                              4
+    refuse refuse refuse refuse
+EMOTIONS:POSITIVE AFFECT                                         4
+    happy happy happy happy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreamin dreamin dreamin dreamin
+PRIMARY:SENSATION:VISION                                         3
+    look see see
+EMOTIONS:AFFECTION                                               2
+    love kind
+SECONDARY:TEMPORAL REFERENCES                                    2
+    sometimes now
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:SADNESS                                                 1
+    disappointment
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+
+PRIMARY             : 46.341463 %
+SECONDARY           : 34.146341 %
+EMOTIONS            : 19.512195 %
+
+191 words total

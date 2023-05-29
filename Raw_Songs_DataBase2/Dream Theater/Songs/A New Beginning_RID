@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           17
+    believe may know meant know judgment truth opinion understand know why believe think knew true understand why
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    implore met protect talk grant
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    try make claims possessed makes
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever ago time now everything
+PRIMARY:SENSATION:VISION                                         4
+    see watch see invisible
+EMOTIONS:AFFECTION                                               4
+    kind mercy sympathy like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand hand flesh blood
+EMOTIONS:AGGRESSION                                              3
+    enemy threat stubborn
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chance chance chance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    open long place
+SECONDARY:ORDER                                                  2
+    listen listen
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:SOUND                                          2
+    music music
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calmed rests
+PRIMARY:NEED:ANALITY                                             1
+    shatter
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+EMOTIONS:SADNESS                                                 1
+    misery
+
+PRIMARY             : 31.818182 %
+SECONDARY           : 56.060606 %
+EMOTIONS            : 12.121212 %
+
+293 words total

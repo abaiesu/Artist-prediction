@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    within region inside within back region
+PRIMARY:SENSATION:SOUND                                          5
+    voice heart hear heart heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    rising mountain flight mountain rise
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now then when when now
+SECONDARY:ABSTRACTION                                            4
+    evidence them them them
+PRIMARY:SENSATION:VISION                                         4
+    star shine saw saw
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep cave tunnel
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hunger sky grow
+EMOTIONS:AGGRESSION                                              3
+    army strike army
+EMOTIONS:GLORY                                                   3
+    great wealth scorn
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call met
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    dig dig
+SECONDARY:RESTRAINT                                              2
+    muster muster
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    vibrations
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:NEED:ORALITY                                             1
+    devour
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 13.461538 %
+
+179 words total

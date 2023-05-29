@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away over out at closer back
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said says saying talk
+PRIMARY:SENSATION:VISION                                         3
+    see light scene
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy insane dream
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old already
+EMOTIONS:AFFECTION                                               2
+    friend like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes bones
+SECONDARY:ABSTRACTION                                            1
+    knew
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+EMOTIONS:ANXIETY                                                 1
+    trouble
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:NEED:SEX                                                 1
+    bitch
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    static
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 20.689655 %
+
+119 words total

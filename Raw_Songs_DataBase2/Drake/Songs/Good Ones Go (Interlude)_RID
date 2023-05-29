@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back long long long longer where long long long
+SECONDARY:TEMPORAL REFERENCES                                    7
+    times time now now older time when
+SECONDARY:MORAL IMPERATIVE                                       7
+    right should should shouldn shouldn should should
+SECONDARY:ABSTRACTION                                            6
+    cause know why knows knows knows
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find money spendin money money
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said tell engaged help
+EMOTIONS:AFFECTION                                               1
+    married
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:SENSATION:COLD                                           1
+    chillin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    thrown
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:SOUND                                          1
+    sounding
+
+PRIMARY             : 30.434783 %
+SECONDARY           : 63.043478 %
+EMOTIONS            : 6.521739 %
+
+294 words total

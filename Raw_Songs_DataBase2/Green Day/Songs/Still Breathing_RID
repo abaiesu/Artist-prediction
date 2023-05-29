@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    off across far away away away away off far away away away away away out away away away away away
+SECONDARY:ABSTRACTION                                           15
+    cause cause cause cause cause cause cause cause truth cause cause cause cause cause cause
+PRIMARY:SENSATION:ODOR                                          14
+    breathing breathing breathing breathing breathing breathing breathing breathing breathing breathing breathing breathing breathing breathing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    soldier making making making making find making making making making
+EMOTIONS:AFFECTION                                               7
+    like like like like like like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    head head head head head head head
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    above above above above above above above
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    rain rain rain rain rain rain rain
+PRIMARY:SENSATION:VISION                                         5
+    looking shine light shine light
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    horizon ledge
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+EMOTIONS:AGGRESSION                                              2
+    wreckage wreckage
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death restless
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:ANXIETY                                                 1
+    scared
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    message
+
+PRIMARY             : 63.106796 %
+SECONDARY           : 27.184466 %
+EMOTIONS            : 9.708738 %
+
+381 words total

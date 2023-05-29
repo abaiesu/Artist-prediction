@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    open away away away away away away away away away away away away away away away away
+EMOTIONS:AFFECTION                                              12
+    like love like love love like love love love like love love
+SECONDARY:ABSTRACTION                                            6
+    true supposed true supposed true supposed
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now again again
+PRIMARY:SENSATION:TASTE                                          4
+    taste sweet taste sweet
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    told said meet
+PRIMARY:SENSATION:VISION                                         3
+    shining shining shining
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    sea sea sea
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms eyes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:SADNESS                                                 1
+    weeping
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 24.561404 %
+EMOTIONS            : 22.807018 %
+
+242 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    apart far away far away situation across far away far away
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please please please please please please
+SECONDARY:ABSTRACTION                                            6
+    know know know know know know
+EMOTIONS:AFFECTION                                               4
+    loving loving loving loving
+PRIMARY:NEED:ORALITY                                             3
+    fast fast fast
+EMOTIONS:AGGRESSION                                              2
+    stole angry
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then moment
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    paranoid
+EMOTIONS:ANXIETY                                                 1
+    nervous
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 47.500000 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 17.500000 %
+
+184 words total

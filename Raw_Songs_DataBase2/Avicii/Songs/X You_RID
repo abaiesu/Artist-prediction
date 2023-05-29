@@ -1,0 +1,16 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  6
+    activity activity activity activity activity activity
+PRIMARY:SENSATION:SOUND                                          6
+    heartbeat sound heartbeat sound heartbeat sound
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside inside inside
+EMOTIONS:AGGRESSION                                              2
+    break break
+SECONDARY:MORAL IMPERATIVE                                       2
+    law law
+
+PRIMARY             : 78.947368 %
+SECONDARY           : 10.526316 %
+EMOTIONS            : 10.526316 %
+
+131 words total

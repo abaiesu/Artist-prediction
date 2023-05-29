@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           13
+    know reason know reason reason reason reason reason reason reason reason reason reason
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when when when when when when
+PRIMARY:SENSATION:VISION                                         6
+    light see light see light see
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rains pour rains pour
+EMOTIONS:AGGRESSION                                              4
+    broken hurting break hit
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+EMOTIONS:GLORY                                                   2
+    gold golden
+EMOTIONS:AFFECTION                                               2
+    loves loves
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees arms
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 36.734694 %
+SECONDARY           : 46.938776 %
+EMOTIONS            : 16.326531 %
+
+252 words total

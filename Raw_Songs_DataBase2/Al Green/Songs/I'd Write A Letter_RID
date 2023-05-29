@@ -1,0 +1,20 @@
+SECONDARY:ABSTRACTION                                            6
+    know true know know know true
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell talk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 15.000000 %
+SECONDARY           : 75.000000 %
+EMOTIONS            : 10.000000 %
+
+234 words total

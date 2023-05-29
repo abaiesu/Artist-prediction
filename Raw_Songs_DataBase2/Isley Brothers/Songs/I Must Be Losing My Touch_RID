@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:TOUCH                                         14
+    touch touch touch touch touch touch touch touch touch touch touch touch touch touch
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes now now now time now
+SECONDARY:ABSTRACTION                                            6
+    think think cause know why why
+SECONDARY:RESTRAINT                                              4
+    must must blocks must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used used used
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where at
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:SENSATION:COLD                                           1
+    cool
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 43.181818 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 6.818182 %
+
+214 words total

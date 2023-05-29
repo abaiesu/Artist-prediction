@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                            9
+    knows know knows think knew know think knew know
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when every every then now every every
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    used used make tried make used used make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    backseat inside at apart out at apart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    cried shout cried cried shout
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    high high high high high
+PRIMARY:SENSATION:SOUND                                          4
+    voices loud voices loud
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell ask
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+PRIMARY:NEED:ORALITY                                             2
+    raw raw
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flew
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 40.983607 %
+SECONDARY           : 45.901639 %
+EMOTIONS            : 13.114754 %
+
+299 words total

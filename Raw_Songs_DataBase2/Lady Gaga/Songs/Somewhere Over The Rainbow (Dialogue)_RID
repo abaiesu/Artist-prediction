@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    raindrops rainbow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven highway
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds darken
+EMOTIONS:SADNESS                                                 1
+    hopeless
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jumble
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumble
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    opens
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+
+PRIMARY             : 73.333333 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 6.666667 %
+
+35 words total

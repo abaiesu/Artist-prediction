@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everything everything when when when when when when
+EMOTIONS:AFFECTION                                               8
+    loving loving like like love like love friends
+SECONDARY:ABSTRACTION                                            5
+    real real reason reason know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes makes makes pick
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call call tell tell
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:SENSATION:VISION                                         1
+    blues
+
+PRIMARY             : 13.888889 %
+SECONDARY           : 58.333333 %
+EMOTIONS            : 27.777778 %
+
+186 words total

@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    bird top bird
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly mountain fly
+EMOTIONS:AGGRESSION                                              3
+    beat robbed hurt
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    warble warble
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buy buy
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 51.612903 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 19.354839 %
+
+168 words total

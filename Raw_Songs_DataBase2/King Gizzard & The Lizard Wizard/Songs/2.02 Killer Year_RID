@@ -1,0 +1,44 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    9
+    beach water beach beach water beach water beach water
+SECONDARY:TEMPORAL REFERENCES                                    7
+    everyone year time everyone year year everyone
+EMOTIONS:AGGRESSION                                              7
+    killer blame torn killer broke broken axe
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun fun fun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deeper deeper deeper
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    waves waves
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing games
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pick make
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    void mystifying
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    edge wallow
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep ecstasy
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:GLORY                                                   1
+    scorn
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    between
+PRIMARY:NEED:SEX                                                 1
+    fucked
+SECONDARY:ABSTRACTION                                            1
+    plan
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    burrow
+EMOTIONS:SADNESS                                                 1
+    sorrows
+
+PRIMARY             : 48.979592 %
+SECONDARY           : 20.408163 %
+EMOTIONS            : 30.612245 %
+
+244 words total

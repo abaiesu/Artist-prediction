@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    close away round along away round away away away side
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    veins blood body eyes bones eyes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun burn sun burn
+PRIMARY:NEED:ORALITY                                             3
+    poison poison consumed
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high high higher
+SECONDARY:ABSTRACTION                                            2
+    analyze know
+EMOTIONS:AFFECTION                                               2
+    love embrace
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    producing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spreads
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 82.926829 %
+SECONDARY           : 12.195122 %
+EMOTIONS            : 4.878049 %
+
+119 words total

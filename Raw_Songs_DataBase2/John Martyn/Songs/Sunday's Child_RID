@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:COLD                                           4
+    cold cold child cold
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughing laughing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing dancing
+PRIMARY:SENSATION:VISION                                         2
+    looking see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old old
+EMOTIONS:SADNESS                                                 1
+    weeping
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    finds
+EMOTIONS:AFFECTION                                               1
+    friends
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swinging
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sharp
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 31.578947 %
+
+92 words total

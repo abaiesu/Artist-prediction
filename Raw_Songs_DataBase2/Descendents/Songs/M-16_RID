@@ -1,0 +1,26 @@
+EMOTIONS:AGGRESSION                                             14
+    shoot shoot shoot army kill rebel kill shoot shoot shoot army kill rebel kill
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun thrill fun
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sights sights
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money money
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:ABSTRACTION                                            1
+    real
+
+PRIMARY             : 7.142857 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 71.428571 %
+
+106 words total

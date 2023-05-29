@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      11
+    door door door door horizon door door door door door door
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won carry bid make won carry found
+SECONDARY:ABSTRACTION                                            5
+    know think know know cause
+SECONDARY:TEMPORAL REFERENCES                                    3
+    yesterday yesterday while
+EMOTIONS:ANXIETY                                                 2
+    troubles troubles
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+EMOTIONS:AFFECTION                                               2
+    farewell love
+SECONDARY:RESTRAINT                                              2
+    prison bound
+PRIMARY:SENSATION:VISION                                         2
+    light shone
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow above
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:POSITIVE AFFECT                                         1
+    excited
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    guidance
+
+PRIMARY             : 40.476190 %
+SECONDARY           : 45.238095 %
+EMOTIONS            : 14.285714 %
+
+188 words total

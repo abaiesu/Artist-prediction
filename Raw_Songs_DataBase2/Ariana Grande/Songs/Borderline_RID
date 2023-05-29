@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    at out here at at at out place space at at beside at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    won won won won won won won won find won won
+SECONDARY:ABSTRACTION                                           11
+    know know know know believe know know know know believe think
+PRIMARY:SENSATION:VISION                                        10
+    looking light light light light light light light light look
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time once ever time time once ever time time
+PRIMARY:SENSATION:HARD                                           7
+    hard hard hard hard hard hard hard
+SECONDARY:RESTRAINT                                              6
+    stop stop stop stop stop stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    chasin chasin chasin chase chasin
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    meet meet meet say meet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    borderline borderline borderline borderline borderline
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    play playin playing playin playing
+EMOTIONS:AFFECTION                                               5
+    kind like kind like like
+PRIMARY:NEED:ORALITY                                             4
+    cream cream chew grapes
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    knees knees face
+PRIMARY:SENSATION:TASTE                                          2
+    tastin tastin
+PRIMARY:SENSATION:COLD                                           2
+    ice ice
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+
+PRIMARY             : 50.476190 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 9.523810 %
+
+418 words total

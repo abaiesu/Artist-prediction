@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time once now time moment every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where long place closer
+PRIMARY:SENSATION:VISION                                         2
+    glow stars
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky heaven
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    ignite ashes
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pivotal
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:SENSATION:SOUND                                          1
+    music
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 11.111111 %
+
+67 words total

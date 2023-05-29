@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eye eyeing eye eyeing eye eyeing
+SECONDARY:ABSTRACTION                                            4
+    thought learning something something
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying trying trying
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out open
+PRIMARY:SENSATION:VISION                                         2
+    spying spying
+EMOTIONS:AFFECTION                                               1
+    loving
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twist
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shouts
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    perspiring
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 9.090909 %
+
+83 words total

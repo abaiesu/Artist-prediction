@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    place out open closet out open closet out
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes sometimes time sometimes sometimes time
+PRIMARY:SENSATION:SOUND                                          4
+    bang drum noise bangle
+SECONDARY:ABSTRACTION                                            4
+    think think why different
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say excuses excuses
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    shout shout shout
+PRIMARY:SENSATION:VISION                                         2
+    look see
+EMOTIONS:AFFECTION                                               2
+    pity love
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sparkle
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 16.666667 %
+
+254 words total

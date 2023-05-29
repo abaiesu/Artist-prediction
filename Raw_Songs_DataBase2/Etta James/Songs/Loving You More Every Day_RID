@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    now every now every now everybody now every weekends every time when when every every
+EMOTIONS:AFFECTION                                              12
+    lovin lovin lovin love lovin love love love marry lovin love lovin
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talkin tell said treat
+SECONDARY:ABSTRACTION                                            4
+    cause know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makin job work
+PRIMARY:NEED:ORALITY                                             1
+    eat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    argue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+
+PRIMARY             : 9.090909 %
+SECONDARY           : 61.363636 %
+EMOTIONS            : 29.545455 %
+
+245 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now time old again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    use costly cost working
+PRIMARY:SENSATION:VISION                                         3
+    light light glow
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hearts
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning fire
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:RESTRAINT                                              1
+    taboo
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    closer
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+SECONDARY:ABSTRACTION                                            1
+    prove
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    mutual
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 38.709677 %
+EMOTIONS            : 25.806452 %
+
+152 words total

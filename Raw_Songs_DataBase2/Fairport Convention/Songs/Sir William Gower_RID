@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when now again when now then then every then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    close side out wide middle at open away
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say meet saying speak
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    sky grew grew grew
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    sea water swim sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    sailor ship ship
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    belong prepare swept
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face head feet
+SECONDARY:RESTRAINT                                              2
+    guard must
+EMOTIONS:ANXIETY                                                 2
+    dreadful fearful
+PRIMARY:SENSATION:SOUND                                          2
+    voice hear
+PRIMARY:SENSATION:COLD                                           2
+    chill children
+EMOTIONS:AFFECTION                                               2
+    loved likeness
+EMOTIONS:AGGRESSION                                              2
+    killed murderer
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    stir wave
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+PRIMARY:SENSATION:VISION                                         1
+    saw
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 10.526316 %
+
+220 words total

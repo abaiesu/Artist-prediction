@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               8
+    like love love love love like love love
+PRIMARY:SENSATION:VISION                                         5
+    blue gray shine shine look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away over over over
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when once now
+EMOTIONS:ANXIETY                                                 3
+    afraid afraid afraid
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    horizon routine
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used used
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill laugh
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet says
+SECONDARY:ABSTRACTION                                            2
+    guess learn
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play clown
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drifting
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 41.463415 %
+SECONDARY           : 21.951220 %
+EMOTIONS            : 36.585366 %
+
+141 words total

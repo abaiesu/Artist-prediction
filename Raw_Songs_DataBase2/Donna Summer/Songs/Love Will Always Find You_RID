@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                              18
+    love love love love love love love love love love love love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 13
+    find find win find find reach find spent find find win find find
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time then now time time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where where far at where where
+SECONDARY:ABSTRACTION                                            5
+    cause know cause sure know
+EMOTIONS:GLORY                                                   3
+    hero hero hero
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sharing
+EMOTIONS:AGGRESSION                                              1
+    hurting
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 12.727273 %
+SECONDARY           : 47.272727 %
+EMOTIONS            : 40.000000 %
+
+248 words total

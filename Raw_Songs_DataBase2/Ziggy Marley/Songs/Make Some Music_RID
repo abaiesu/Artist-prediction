@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:SOUND                                          8
+    melody rhythm tune tuned music music music tempo
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when tonight till then now now now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    making make make make make
+SECONDARY:ABSTRACTION                                            5
+    cause know thinking know know
+EMOTIONS:AGGRESSION                                              4
+    beats hit hit hit
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    roots roots roots roots
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long within
+SECONDARY:RESTRAINT                                              2
+    refuse must
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    swing swing
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    vibrate
+EMOTIONS:POSITIVE AFFECT                                         1
+    excite
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+
+PRIMARY             : 43.636364 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 16.363636 %
+
+202 words total

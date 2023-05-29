@@ -1,0 +1,20 @@
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+SECONDARY:ABSTRACTION                                            3
+    know know understand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 15.384615 %
+
+90 words total

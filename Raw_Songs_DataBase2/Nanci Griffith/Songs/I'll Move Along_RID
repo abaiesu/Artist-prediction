@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    along along along along at along along along along along along along
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time now time time now now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    flesh bone feet
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    protection say tell
+SECONDARY:MORAL IMPERATIVE                                       2
+    honest should
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:AGGRESSION                                              2
+    broken damaged
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 37.142857 %
+EMOTIONS            : 11.428571 %
+
+150 words total

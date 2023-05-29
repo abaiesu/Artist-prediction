@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                        10
+    light light brighter stars shining light glowing light brighter brighter
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       9
+    road road road road road road road road road
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    straight narrow within closer inside closer closer
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    heaven heaven above heaven heaven
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    dawn dawn
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:SADNESS                                                 1
+    sorrow
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 85.365854 %
+SECONDARY           : 4.878049 %
+EMOTIONS            : 9.756098 %
+
+185 words total

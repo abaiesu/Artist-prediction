@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:COLD                                          12
+    cold cold cold cold cold cold cold cold cold cold cold cold
+EMOTIONS:AGGRESSION                                             10
+    war stubborn war wars war war stubborn war wars war
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    speak speak say speak speak say
+SECONDARY:ABSTRACTION                                            6
+    true why why true why why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won won
+SECONDARY:MORAL IMPERATIVE                                       4
+    should right should right
+EMOTIONS:AFFECTION                                               4
+    love like love like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hearts
+
+PRIMARY             : 32.142857 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 28.571429 %
+
+190 words total

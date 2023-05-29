@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              18
+    goodbye goodbye goodbye goodbye lover like farewell goodbye goodbye goodbye goodbye goodbye lovers goodbye goodbye lover like farewell
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell tell say tell said tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make won makes won
+EMOTIONS:SADNESS                                                 3
+    grief sad misery
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now everything now
+SECONDARY:ABSTRACTION                                            2
+    causes known
+EMOTIONS:ANXIETY                                                 2
+    cares cares
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fair fair
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+
+PRIMARY             : 8.888889 %
+SECONDARY           : 35.555556 %
+EMOTIONS            : 55.555556 %
+
+197 words total

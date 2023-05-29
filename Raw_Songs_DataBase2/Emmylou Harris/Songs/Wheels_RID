@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every today now when time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away away
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    higher higher
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:ABSTRACTION                                            1
+    almost
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 10.000000 %
+
+97 words total

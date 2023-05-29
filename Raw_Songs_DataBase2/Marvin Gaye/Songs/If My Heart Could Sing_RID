@@ -1,0 +1,30 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    12
+    poem sing sing sing sing sing sing sing sing sing sing sing
+PRIMARY:SENSATION:SOUND                                         11
+    heard voice heart heart bell ring heart heart heart heart heart
+EMOTIONS:AFFECTION                                               8
+    love love love like like love like like
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every ever ever till time today ever
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    quote tell tell speak say tell
+SECONDARY:ABSTRACTION                                            2
+    thought prove
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 38.461538 %
+
+199 words total

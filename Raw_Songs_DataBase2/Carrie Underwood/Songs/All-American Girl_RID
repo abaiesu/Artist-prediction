@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    already when now years time now when now
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said tell said tell said tell said
+EMOTIONS:GLORY                                                   5
+    pride wonderful wonderful wonderful wonderful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    belongs practice spend belongs belongs
+PRIMARY:SENSATION:GENERAL-SENSATION                              5
+    beautiful beautiful beautiful beautiful beautiful
+EMOTIONS:AFFECTION                                               4
+    married goodbye married like
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+SECONDARY:ABSTRACTION                                            4
+    knew problem decided know
+PRIMARY:SENSATION:VISION                                         3
+    see pink star
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    center center center
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    football football
+SECONDARY:MORAL IMPERATIVE                                       2
+    honest oughta
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 40.983607 %
+SECONDARY           : 42.622951 %
+EMOTIONS            : 16.393443 %
+
+258 words total

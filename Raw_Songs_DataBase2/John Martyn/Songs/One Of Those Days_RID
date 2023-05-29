@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         7
+    see see see see see see see
+SECONDARY:TEMPORAL REFERENCES                                    6
+    soon now now soon now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried tried won tried tried
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    clouds darken clouds darken
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+SECONDARY:ORDER                                                  2
+    forming forming
+PRIMARY:SENSATION:COLD                                           2
+    winter winter
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here here
+EMOTIONS:SADNESS                                                 2
+    despair despair
+SECONDARY:ABSTRACTION                                            2
+    know them
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 10.000000 %
+
+183 words total

@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                           10
+    think something something something something think something something something something
+EMOTIONS:POSITIVE AFFECT                                         8
+    happy happy happy happy happy happy happy happy
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time time time time time time time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    off off towards back off
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    spins spins spins
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying work trying
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    help preaches help
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:AGGRESSION                                              2
+    doubts cut
+EMOTIONS:ANXIETY                                                 1
+    worries
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+
+PRIMARY             : 23.913043 %
+SECONDARY           : 52.173913 %
+EMOTIONS            : 23.913043 %
+
+232 words total

@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    call sayin say said help explain meet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long out away long within somewhere long
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    find find find find find find
+SECONDARY:ABSTRACTION                                            5
+    somethin know think know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when now now
+EMOTIONS:AFFECTION                                               3
+    loved love like
+PRIMARY:SENSATION:SOUND                                          2
+    melody heart
+EMOTIONS:SADNESS                                                 2
+    misery misery
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    carolyn
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+PRIMARY:NEED:ORALITY                                             1
+    cookin
+
+PRIMARY             : 27.906977 %
+SECONDARY           : 53.488372 %
+EMOTIONS            : 18.604651 %
+
+221 words total

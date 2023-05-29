@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           12
+    known know know know know know know known choices know know know
+EMOTIONS:GLORY                                                   7
+    pride wealth pride wealth kingdom pride wealth
+SECONDARY:TEMPORAL REFERENCES                                    6
+    moment when hours moment now time
+EMOTIONS:AGGRESSION                                              6
+    break war war hate war wrath
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    aiding promise tell tell aiding aiding
+PRIMARY:SENSATION:VISION                                         5
+    see watching see see star
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right law
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    fire fire fire fire
+EMOTIONS:SADNESS                                                 2
+    suffer suffering
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won make
+PRIMARY:SENSATION:COLD                                           1
+    ice
+EMOTIONS:AFFECTION                                               1
+    pity
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+PRIMARY:SENSATION:HARD                                           1
+    harden
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:NEED:SEX                                                 1
+    lust
+
+PRIMARY             : 21.311475 %
+SECONDARY           : 52.459016 %
+EMOTIONS            : 26.229508 %
+
+271 words total

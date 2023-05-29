@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         10
+    eyelids hair neck hip face bodies skin eyes bodies eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long along space inside beside out south open open inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won trying founded sold
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old ever then
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    message dialogue teach
+EMOTIONS:AFFECTION                                               2
+    cherish bride
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep wake
+EMOTIONS:AGGRESSION                                              2
+    blades break
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun fire
+SECONDARY:ABSTRACTION                                            2
+    cause know
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    lake swimmer
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    waves swollen
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:NEED:ORALITY                                             1
+    breasts
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:SENSATION:SOUND                                          1
+    ears
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 25.490196 %
+EMOTIONS            : 9.803922 %
+
+191 words total

@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               5
+    loving loving loving love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at between at between
+EMOTIONS:SADNESS                                                 3
+    pain misery pain
+EMOTIONS:AGGRESSION                                              3
+    hurt hate hate
+SECONDARY:ABSTRACTION                                            2
+    knowing understand
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+SECONDARY:RESTRAINT                                              2
+    bound bound
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 44.444444 %
+
+113 words total

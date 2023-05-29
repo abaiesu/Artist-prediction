@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              16
+    love love like love love like love like like love like like like like like love
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    promise said promise say promise say asked said promise say promise say
+PRIMARY:SENSATION:VISION                                        11
+    see light see light see light see light light see light
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    hand body hand veins eyes hand eyes hand hand
+SECONDARY:TEMPORAL REFERENCES                                    7
+    tonight tonight tonight when when tonight tonight
+SECONDARY:ABSTRACTION                                            6
+    know know truly truly truly truly
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:NEED:SEX                                                 2
+    kissed kiss
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumped
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shakin
+EMOTIONS:AGGRESSION                                              1
+    blame
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    front
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:SENSATION:COLD                                           1
+    children
+
+PRIMARY             : 41.025641 %
+SECONDARY           : 37.179487 %
+EMOTIONS            : 21.794872 %
+
+363 words total

@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    eyes eyes eyes brow hair eyes footsteps eyes
+EMOTIONS:SADNESS                                                 5
+    sad sad sorrow sad sad
+PRIMARY:SENSATION:VISION                                         5
+    lightest stars see seen green
+EMOTIONS:AFFECTION                                               5
+    lovingness loved dear friend goodbye
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say pleading call speak
+PRIMARY:SENSATION:SOUND                                          3
+    unheard heart hear
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon when
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:SENSATION:ODOR                                           1
+    breathless
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    stir
+SECONDARY:ABSTRACTION                                            1
+    known
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+SECONDARY:ORDER                                                  1
+    neath
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:NEED:ORALITY                                             1
+    lips
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forevermore
+
+PRIMARY             : 52.272727 %
+SECONDARY           : 20.454545 %
+EMOTIONS            : 27.272727 %
+
+160 words total

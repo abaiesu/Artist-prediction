@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long out wide at sides place where over
+EMOTIONS:AFFECTION                                               7
+    kind friends like like like kind like
+SECONDARY:TEMPORAL REFERENCES                                    7
+    ago when now ever then now when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    dream hypnotized dream hypnotized hypnotized dream hypnotized
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    explaining ask talk say ask
+SECONDARY:ABSTRACTION                                            4
+    something think know cause
+PRIMARY:SENSATION:VISION                                         3
+    imagination see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window road
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing carolina
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly mountains
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hills airplane
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:COLD                                           1
+    north
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pond
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 53.448276 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 15.517241 %
+
+202 words total

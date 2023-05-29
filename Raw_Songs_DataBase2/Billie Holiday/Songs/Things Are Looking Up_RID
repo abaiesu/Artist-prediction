@@ -1,0 +1,20 @@
+PRIMARY:SENSATION:VISION                                         6
+    looking looking looking looked looking looked
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over at at
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+EMOTIONS:SADNESS                                                 1
+    mourner
+SECONDARY:ABSTRACTION                                            1
+    certainly
+PRIMARY:NEED:ORALITY                                             1
+    corner
+
+PRIMARY             : 73.333333 %
+SECONDARY           : 6.666667 %
+EMOTIONS            : 20.000000 %
+
+60 words total

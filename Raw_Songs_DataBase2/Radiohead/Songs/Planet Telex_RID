@@ -1,0 +1,28 @@
+EMOTIONS:AGGRESSION                                             10
+    crush crush broken broken crush break broken broken broken broken
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everything everyone everything everyone everyone everyone everyone everything
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here near straight
+SECONDARY:ABSTRACTION                                            3
+    why why why
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    saying
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bone
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 25.806452 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 32.258065 %
+
+119 words total

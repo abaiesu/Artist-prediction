@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                             12
+    stole robbed unkind cut wounded knives stole robbed unkind stole robbed unkind
+EMOTIONS:AFFECTION                                               7
+    like love like like love love like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    door road door road road door
+PRIMARY:SENSATION:VISION                                         6
+    lightly see lightly see see lightly
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when time when time time when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out close close out close
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    dying eases drifting dying eases
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:SENSATION:SOFT                                           2
+    whisper whisper
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    stir stir
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flame flame
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:SENSATION:COLD                                           1
+    snow
+
+PRIMARY             : 55.737705 %
+SECONDARY           : 13.114754 %
+EMOTIONS            : 31.147541 %
+
+210 words total

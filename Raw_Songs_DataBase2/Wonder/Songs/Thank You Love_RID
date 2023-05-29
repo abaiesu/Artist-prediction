@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              23
+    love love love love love love love love like love love love love love darling like love darling love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                       18
+    thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank thank
+SECONDARY:ABSTRACTION                                           10
+    cause true tender tender cause true cause cause true true
+SECONDARY:TEMPORAL REFERENCES                                    6
+    yesterdays when every every when time
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    somewhere along at nearness
+PRIMARY:SENSATION:VISION                                         3
+    sunshine sunshine sunshine
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road bridges
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happiness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes possess
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmed
+EMOTIONS:ANXIETY                                                 1
+    troubled
+EMOTIONS:SADNESS                                                 1
+    lonesome
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOFT                                           1
+    gently
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 24.705882 %
+SECONDARY           : 42.352941 %
+EMOTIONS            : 32.941176 %
+
+277 words total

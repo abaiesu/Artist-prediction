@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                              7
+    hit hit hit hit hit hit hit
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    round round
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    dig slide
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    avenue
+SECONDARY:ORDER                                                  1
+    neat
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everybody
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    jerk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 13.636364 %
+EMOTIONS            : 36.363636 %
+
+174 words total

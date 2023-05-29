@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    back long long backfire backfire backfire backfire long long backfire backfire backfire backfire out long long backfire backfire backfire backfire
+SECONDARY:ABSTRACTION                                           15
+    fact knows thought know know something choose know thought know know know thought know know
+SECONDARY:TEMPORAL REFERENCES                                   13
+    tonight now now times everything when now now times every now now times
+EMOTIONS:AFFECTION                                              12
+    like loving like love love like like like love like love like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   8
+    jumper jumper jumper jumper jumper jumper jumper jumper
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    told say follows follow follow
+PRIMARY:SENSATION:VISION                                         2
+    blue brown
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high heaven
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    trailer windows
+EMOTIONS:AGGRESSION                                              2
+    fight fighting
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trips
+
+PRIMARY             : 43.181818 %
+SECONDARY           : 39.772727 %
+EMOTIONS            : 17.045455 %
+
+402 words total

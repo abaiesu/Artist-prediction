@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    used used used used used used used used used used used used used used
+EMOTIONS:AFFECTION                                              12
+    friend friend friend like friends friends friends pity loves loves darling loves
+SECONDARY:ABSTRACTION                                           11
+    sure something something figured them them them them understand knows know
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    call talking talking said said said call
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again old now everyone till when
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door line
+PRIMARY:SENSATION:VISION                                         2
+    seeing see
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall falls
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:NEED:ORALITY                                             1
+    grapevine
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 17.187500 %
+SECONDARY           : 59.375000 %
+EMOTIONS            : 23.437500 %
+
+300 words total

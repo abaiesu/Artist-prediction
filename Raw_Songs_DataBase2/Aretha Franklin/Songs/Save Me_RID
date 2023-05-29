@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    promised say said help please callin
+EMOTIONS:AFFECTION                                               4
+    romance love love love
+SECONDARY:ABSTRACTION                                            4
+    sure know think understand
+EMOTIONS:AGGRESSION                                              3
+    hurt abused taunt
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    closer inside
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    coast coast
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:MORAL IMPERATIVE                                       1
+    unjustified
+PRIMARY:SENSATION:VISION                                         1
+    green
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    hornet
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 30.000000 %
+
+202 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    back somewhere far away somewhere far away back somewhere far away
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time time everything again past again while time
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    please said please say please said please said
+SECONDARY:ABSTRACTION                                            7
+    cause cause something know thought know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    tried tried find won tried tried
+SECONDARY:RESTRAINT                                              4
+    stopped must stop stopped
+PRIMARY:SENSATION:HARD                                           4
+    hard hard hard hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slow slow slow
+EMOTIONS:AGGRESSION                                              2
+    hurts break
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 33.898305 %
+SECONDARY           : 57.627119 %
+EMOTIONS            : 8.474576 %
+
+227 words total

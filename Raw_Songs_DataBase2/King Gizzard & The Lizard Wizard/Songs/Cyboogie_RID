@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    within between off over at front
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now years years
+EMOTIONS:AGGRESSION                                              3
+    broke breaks broken
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    chest flesh cheek
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance dancing dance
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    fluid brook
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    floating bouncy
+PRIMARY:NEED:ANALITY                                             2
+    mess mess
+EMOTIONS:SADNESS                                                 2
+    depressed depressed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tests pickling
+PRIMARY:SENSATION:VISION                                         2
+    stars watch
+PRIMARY:SENSATION:HARD                                           1
+    brittle
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    dome
+EMOTIONS:POSITIVE AFFECT                                         1
+    celebration
+SECONDARY:ABSTRACTION                                            1
+    thoughts
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:NEED:ORALITY                                             1
+    throat
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 18.421053 %
+EMOTIONS            : 23.684211 %
+
+284 words total

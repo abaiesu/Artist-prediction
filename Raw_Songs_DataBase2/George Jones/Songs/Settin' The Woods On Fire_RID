@@ -1,0 +1,46 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     7
+    fire fire fire hot fire fire fire
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight tonight tonight time time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing yeller dance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    close aside flat back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair hands
+EMOTIONS:GLORY                                                   2
+    proud prouder
+PRIMARY:SENSATION:SOUND                                          2
+    loud louder
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    swell sweller
+EMOTIONS:AGGRESSION                                              2
+    broke broker
+SECONDARY:MORAL IMPERATIVE                                       2
+    law right
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    feller
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:ABSTRACTION                                            1
+    thinks
+SECONDARY:ORDER                                                  1
+    order
+PRIMARY:SENSATION:COLD                                           1
+    chili
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    allowin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    plowin
+
+PRIMARY             : 51.162791 %
+SECONDARY           : 25.581395 %
+EMOTIONS            : 23.255814 %
+
+230 words total

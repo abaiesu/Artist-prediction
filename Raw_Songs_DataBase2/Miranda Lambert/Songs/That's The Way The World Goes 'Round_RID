@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out round round round round round round round round round round
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old then minute when when minute minute
+SECONDARY:ABSTRACTION                                            5
+    know thinks think think think
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    muscles head toes eyes
+EMOTIONS:AGGRESSION                                              4
+    beats broke broke gun
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    water water water water
+PRIMARY:SENSATION:COLD                                           4
+    froze ice ice ice
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used buys counting
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:AFFECTION                                               1
+    kinda
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:NEED:SEX                                                 1
+    naked
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clown
+PRIMARY:SENSATION:SOUND                                          1
+    croak
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+
+PRIMARY             : 56.363636 %
+SECONDARY           : 30.909091 %
+EMOTIONS            : 12.727273 %
+
+298 words total

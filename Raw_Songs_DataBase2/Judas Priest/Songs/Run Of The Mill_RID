@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now old year now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    round inside along along
+SECONDARY:ABSTRACTION                                            3
+    know thought something
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    achieved improved
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told aid
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep gutter
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:SADNESS                                                 1
+    sorrow
+EMOTIONS:AGGRESSION                                              1
+    sneer
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mesmerized
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 42.307692 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 11.538462 %
+
+131 words total

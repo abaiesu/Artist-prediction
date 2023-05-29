@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    here long apart long away round side long away long away
+SECONDARY:ABSTRACTION                                           10
+    them cause them them cause them why them cause them
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    talking say say tell said say tellin tell say
+EMOTIONS:AFFECTION                                               8
+    loving loving love love love friend love loving
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying trying make
+PRIMARY:SENSATION:VISION                                         2
+    saw see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 49.019608 %
+EMOTIONS            : 17.647059 %
+
+323 words total

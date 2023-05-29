@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    wide wide wide out out out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes feet head feet head head
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    sleepin dream sleepin dream dreamin
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every time every time when
+EMOTIONS:AFFECTION                                               5
+    loves like love loves kind
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed bed bed
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    screen screen screen
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    rollin rollin shook
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    tumblin tumblin fell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    scream scream
+PRIMARY:SENSATION:TASTE                                          2
+    taste sweets
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talkin talkin
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:NEED:SEX                                                 1
+    waist
+SECONDARY:ORDER                                                  1
+    neat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:NEED:ORALITY                                             1
+    candy
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 63.461538 %
+SECONDARY           : 21.153846 %
+EMOTIONS            : 15.384615 %
+
+166 words total

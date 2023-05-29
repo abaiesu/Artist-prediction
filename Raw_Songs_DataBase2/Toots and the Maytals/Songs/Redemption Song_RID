@@ -1,0 +1,20 @@
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    talk talk talk preach said speakest speakest talk talk talk preach said speakest speakest
+PRIMARY:SENSATION:SOUND                                          8
+    heart heart heart heart heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while while while while
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing sing sing
+PRIMARY:SENSATION:VISION                                         4
+    saw saw saw saw
+PRIMARY:NEED:ORALITY                                             4
+    mouth mouth mouth mouth
+EMOTIONS:AGGRESSION                                              4
+    hurts hurts hurts hurts
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 19.047619 %
+
+171 words total

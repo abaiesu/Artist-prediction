@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now when when now now now now now now
+EMOTIONS:AGGRESSION                                              8
+    cuts hitting broke hit hit hitting hitting broke
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won money work winning make pick money
+SECONDARY:ABSTRACTION                                            6
+    think cause cause cause scheme cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out out circle point circles out
+EMOTIONS:AFFECTION                                               5
+    like like like love like
+PRIMARY:NEED:ORALITY                                             4
+    nuts choke fat sucker
+PRIMARY:SENSATION:VISION                                         4
+    looking see see look
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    game game scream
+PRIMARY:SENSATION:SOUND                                          3
+    bang boom loud
+PRIMARY:NEED:SEX                                                 2
+    fucking fuck
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skinny
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slide
+PRIMARY:NEED:ANALITY                                             1
+    sweatshirt
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+
+PRIMARY             : 42.647059 %
+SECONDARY           : 33.823529 %
+EMOTIONS            : 23.529412 %
+
+274 words total

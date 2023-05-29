@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    behind out out over out out out out out
+SECONDARY:ABSTRACTION                                            8
+    why figure know why figure understand why figure
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old years yesterday when time when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    work try tried win try try
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    floating floating floating floating floating floating
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    cloud cloud cloud cloud cloud cloud
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fell fell sink fell
+EMOTIONS:GLORY                                                   4
+    wonder wonder pride wonder
+EMOTIONS:AFFECTION                                               3
+    friends friends friendship
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    bottom bottom bottom
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand chink
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:VISION                                         1
+    watched
+EMOTIONS:AGGRESSION                                              1
+    tore
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 31.818182 %
+EMOTIONS            : 13.636364 %
+
+254 words total

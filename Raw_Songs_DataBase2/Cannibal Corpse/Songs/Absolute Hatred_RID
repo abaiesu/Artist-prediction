@@ -1,0 +1,26 @@
+EMOTIONS:AGGRESSION                                              8
+    hatred hated torment hatred wrath hatred revenge hatred
+SECONDARY:RESTRAINT                                              3
+    stopping must must
+EMOTIONS:GLORY                                                   2
+    pride victory
+SECONDARY:ABSTRACTION                                            1
+    judge
+PRIMARY:SENSATION:VISION                                         1
+    witness
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    footsteps
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 50.000000 %
+
+121 words total

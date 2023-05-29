@@ -1,0 +1,58 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       35
+    side over where here long across long side over place where here side side over where over over long here side side over where here long across long here where side side over over further
+SECONDARY:TEMPORAL REFERENCES                                   22
+    when time again now again now now time again again again again when time again time time now now times time time
+SECONDARY:SOCIAL BEHAVIOR                                       20
+    say tell say say says say thank talkin say tell say say say say say say say saying say sayin
+EMOTIONS:AFFECTION                                               8
+    like love love like favorite like love like
+SECONDARY:ABSTRACTION                                            6
+    know them knew them them know
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+EMOTIONS:AGGRESSION                                              4
+    hit hit break hurt
+PRIMARY:SENSATION:VISION                                         4
+    lookie brown look see
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    dig dig dig dig
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    haired haired haired
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear sound
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun gaye
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pickett business
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot heat
+PRIMARY:NEED:ORALITY                                             2
+    honey food
+PRIMARY:NEED:ANALITY                                             2
+    muddy muddy
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:SENSATION:SOFT                                           1
+    gentlemen
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    waters
+SECONDARY:ORDER                                                  1
+    classic
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 46.323529 %
+SECONDARY           : 41.911765 %
+EMOTIONS            : 11.764706 %
+
+920 words total

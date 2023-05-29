@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:TASTE                                         42
+    sweet sweetest sweet sweet sweet sweetest sweeter sweet sweeter sweet sweeter sweet sweet sweetest sweet sweet sweet sweetest sweeter sweet sweeter sweet sweeter sweet sweet sweetest sweet sweet sweet sweetest sweeter sweet sweeter sweet sweeter sweet sweet sweetest sweet sweet sweet sweetest
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out round closely closely where where surface
+EMOTIONS:AFFECTION                                               7
+    love like love love love loving loving
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every tonight when now
+PRIMARY:SENSATION:VISION                                         4
+    star light bright look
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high above sky
+SECONDARY:ABSTRACTION                                            2
+    real thought
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deeper deep
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melts
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 81.578947 %
+SECONDARY           : 9.210526 %
+EMOTIONS            : 9.210526 %
+
+217 words total

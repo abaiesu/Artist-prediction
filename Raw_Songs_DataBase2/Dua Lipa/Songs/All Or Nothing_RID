@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              12
+    like love like loving like liked friends love like love love like
+SECONDARY:TEMPORAL REFERENCES                                   10
+    while now today now time time time weeks now today
+SECONDARY:ABSTRACTION                                            9
+    meant think cause cause know think cause think cause
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    commitment tell said forgiveness said forgiveness forgiveness forgiveness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    off round here off round here round here
+PRIMARY:SENSATION:VISION                                         6
+    bright lights lights bright lights lights
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    mistake mistake mistake mistake
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    chasing chasing chasing
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    hanging hanging hanging
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    chest skin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used used
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn burn
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    lifetime lifetime
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laying
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 37.662338 %
+EMOTIONS            : 19.480519 %
+
+348 words total

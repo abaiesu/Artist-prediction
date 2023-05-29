@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               6
+    love loved darling darling darling darling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long long long long
+SECONDARY:ABSTRACTION                                            4
+    thought know knew knew
+PRIMARY:SENSATION:VISION                                         4
+    seen light seen light
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 20.000000 %
+
+138 words total

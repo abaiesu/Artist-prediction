@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              12
+    love like kind love kind love kind love kind love kind love
+SECONDARY:ABSTRACTION                                            7
+    understand understand why understand why understand understand
+EMOTIONS:GLORY                                                   4
+    wonder great wonder great
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say treat say
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then then then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes try try
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    stranger stranger
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:ORDER                                                  2
+    arranger arranger
+
+PRIMARY             : 22.727273 %
+SECONDARY           : 40.909091 %
+EMOTIONS            : 36.363636 %
+
+133 words total

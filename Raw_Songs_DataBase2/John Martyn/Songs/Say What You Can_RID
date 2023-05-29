@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  8
+    fall fall fall fall fall fall fall fall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    play game screaming screaming play game screaming
+SECONDARY:ABSTRACTION                                            7
+    understand true understand true think something understand
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every time time every time
+EMOTIONS:ANXIETY                                                 5
+    scared worried scared scared scared
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make works make works
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake wake wake wake
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shaky shaky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie dying
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+
+PRIMARY             : 33.962264 %
+SECONDARY           : 43.396226 %
+EMOTIONS            : 22.641509 %
+
+215 words total

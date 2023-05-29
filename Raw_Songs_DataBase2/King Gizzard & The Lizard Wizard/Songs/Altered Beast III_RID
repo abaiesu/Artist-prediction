@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                        16
+    see look see see see see see see see see see see see see see see
+PRIMARY:NEED:ORALITY                                            13
+    teeth teeth gums gums teeth gums teeth teeth gums gums teeth gums pearl
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair skin hair
+SECONDARY:ABSTRACTION                                            2
+    know true
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place where
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:AGGRESSION                                              1
+    steal
+EMOTIONS:SADNESS                                                 1
+    weep
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    trickle
+
+PRIMARY             : 75.510204 %
+SECONDARY           : 20.408163 %
+EMOTIONS            : 4.081633 %
+
+182 words total

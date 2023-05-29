@@ -1,0 +1,42 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    ask say say call say ask say say call say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    try won try make try won try make
+SECONDARY:ABSTRACTION                                            8
+    think truth truth know think truth truth know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    face arms arms hand face arms arms hand
+PRIMARY:SENSATION:TASTE                                          6
+    taste taste savor taste taste savor
+SECONDARY:TEMPORAL REFERENCES                                    4
+    tonight when tonight when
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm warm
+PRIMARY:SENSATION:SOFT                                           2
+    gentle gentle
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here here
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+EMOTIONS:AGGRESSION                                              2
+    fight fight
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drives drives
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+
+PRIMARY             : 48.571429 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 8.571429 %
+
+748 words total

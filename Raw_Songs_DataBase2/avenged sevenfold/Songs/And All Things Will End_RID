@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out surfaced out out out out out out out out out
+SECONDARY:MORAL IMPERATIVE                                       8
+    right right right right right right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make won won won won won
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes when sometimes time sometimes sometimes
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes hands eyes hands hands
+SECONDARY:ABSTRACTION                                            5
+    thinking know know know know
+PRIMARY:SENSATION:VISION                                         4
+    see see light imagined
+EMOTIONS:AGGRESSION                                              4
+    blame break break break
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    safe lies lies
+SECONDARY:RESTRAINT                                              3
+    bound bound catch
+EMOTIONS:ANXIETY                                                 3
+    uneasy uneasy uneasy
+PRIMARY:NEED:ORALITY                                             2
+    swallowed fast
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 45.312500 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 10.937500 %
+
+222 words total

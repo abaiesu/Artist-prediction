@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            6
+    may may may may may fact
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when time when time when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make find find sell
+PRIMARY:SENSATION:VISION                                         3
+    look blues see
+SECONDARY:RESTRAINT                                              2
+    stops stop
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help met
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    off
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadowy
+EMOTIONS:ANXIETY                                                 1
+    scared
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+EMOTIONS:AGGRESSION                                              1
+    threat
+
+PRIMARY             : 24.137931 %
+SECONDARY           : 65.517241 %
+EMOTIONS            : 10.344828 %
+
+112 words total

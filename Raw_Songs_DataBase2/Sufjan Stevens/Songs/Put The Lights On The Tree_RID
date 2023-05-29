@@ -1,0 +1,18 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    call call tell tell tell tell
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree tree
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here here
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+PRIMARY:SENSATION:VISION                                         1
+    lights
+SECONDARY:ABSTRACTION                                            1
+    them
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 14.285714 %
+
+95 words total

@@ -1,0 +1,32 @@
+EMOTIONS:SADNESS                                                10
+    suffering sufferin sufferin sufferin suffering sufferin sufferin sufferin suffering suffering
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    situation nearly
+EMOTIONS:GLORY                                                   2
+    rich richer
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything time
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    verge
+PRIMARY:NEED:ORALITY                                             1
+    starvation
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    education
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    higher
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+EMOTIONS:AGGRESSION                                              1
+    guns
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+
+PRIMARY             : 32.000000 %
+SECONDARY           : 16.000000 %
+EMOTIONS            : 52.000000 %
+
+128 words total

@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    blood veins eyes hands blood
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out where inside
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:VISION                                         2
+    blue light
+SECONDARY:ABSTRACTION                                            2
+    reality knew
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead died
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AGGRESSION                                              2
+    stealing spear
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+EMOTIONS:GLORY                                                   1
+    heroes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+
+PRIMARY             : 60.714286 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 21.428571 %
+
+142 words total

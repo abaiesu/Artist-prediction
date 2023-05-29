@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    here out long west out out western western out back eastern away long long eastern
+PRIMARY:SENSATION:VISION                                         8
+    see star looking saw blink star looking star
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again now time
+EMOTIONS:AFFECTION                                               3
+    kind like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lane coasting
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow silent
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye head
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+SECONDARY:ORDER                                                  1
+    simple
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speaks
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:ABSTRACTION                                            1
+    thought
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pick
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    arise
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+
+PRIMARY             : 73.333333 %
+SECONDARY           : 15.555556 %
+EMOTIONS            : 11.111111 %
+
+169 words total

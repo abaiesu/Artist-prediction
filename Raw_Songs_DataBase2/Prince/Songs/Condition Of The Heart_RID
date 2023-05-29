@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now sometimes then now sometimes everything every whenever every now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    answer say say answer answered
+PRIMARY:SENSATION:SOUND                                          5
+    musician heart heart heart heart
+EMOTIONS:AFFECTION                                               5
+    love love friends like friends
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back out back back
+SECONDARY:ABSTRACTION                                            4
+    real thinking know thinking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money buys buy
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driving driving
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow yellow
+PRIMARY:SENSATION:HARD                                           1
+    hardy
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:RESTRAINT                                              1
+    insisted
+EMOTIONS:GLORY                                                   1
+    prince
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+PRIMARY:SENSATION:ODOR                                           1
+    cologne
+
+PRIMARY             : 32.653061 %
+SECONDARY           : 46.938776 %
+EMOTIONS            : 20.408163 %
+
+252 words total

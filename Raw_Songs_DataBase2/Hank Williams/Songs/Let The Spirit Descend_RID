@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    spirit heavenly spirit
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said preachin said
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    descend descend
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river river
+PRIMARY:SENSATION:SOUND                                          2
+    voice voice
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    preparin
+SECONDARY:ABSTRACTION                                            1
+    believe
+EMOTIONS:GLORY                                                   1
+    kingdom
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 22.727273 %
+
+105 words total

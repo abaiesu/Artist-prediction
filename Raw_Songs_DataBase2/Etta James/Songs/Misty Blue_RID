@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         9
+    looks blue flicker blue looks blue blue blue blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long long off long long off
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    misty misty misty misty misty misty
+SECONDARY:ABSTRACTION                                            5
+    thought think knows know thought
+EMOTIONS:AFFECTION                                               4
+    like like love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time when time
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    mention say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used tried
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 58.695652 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 10.869565 %
+
+188 words total

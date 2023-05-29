@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       25
+    out rearranged out out out out out out out out out out out out out out out out out out out open out out out
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old ever everything again now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    explain meet promises meet promises
+EMOTIONS:AFFECTION                                               3
+    like familiar like
+PRIMARY:SENSATION:VISION                                         3
+    look looks look
+SECONDARY:RESTRAINT                                              3
+    must bound must
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    playing playing playing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found found
+PRIMARY:NEED:ORALITY                                             2
+    mouth cook
+EMOTIONS:GLORY                                                   2
+    palaces palaces
+EMOTIONS:AGGRESSION                                              2
+    threats threats
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+SECONDARY:ABSTRACTION                                            1
+    knowing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:SADNESS                                                 1
+    misery
+
+PRIMARY             : 54.098361 %
+SECONDARY           : 26.229508 %
+EMOTIONS            : 19.672131 %
+
+262 words total

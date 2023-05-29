@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes headshake eyes face eyes
+SECONDARY:ABSTRACTION                                            5
+    know know plant know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside out inside inside
+SECONDARY:TEMPORAL REFERENCES                                    4
+    sometimes tonight tonight tonight
+PRIMARY:NEED:ORALITY                                             4
+    tongue mouth toothpaste tongue
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make trying make trying
+PRIMARY:SENSATION:SOUND                                          3
+    melody melody melody
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance dance dance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor floor hall
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    death died died
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hung high
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 59.615385 %
+SECONDARY           : 28.846154 %
+EMOTIONS            : 11.538462 %
+
+247 words total

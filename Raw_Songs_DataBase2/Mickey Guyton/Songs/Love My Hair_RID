@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              15
+    like like like love love love love love love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 13
+    try make make try trying used found apply used found try used found
+SECONDARY:ABSTRACTION                                           10
+    understand different know understand think learned think learned think learned
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    hand hand skin hair hair hair hair skin hair
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever when now when now again when now
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    fair fair fair
+EMOTIONS:ANXIETY                                                 3
+    scared scared scared
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back straight straight
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:GLORY                                                   1
+    crown
+
+PRIMARY             : 23.188406 %
+SECONDARY           : 49.275362 %
+EMOTIONS            : 27.536232 %
+
+289 words total

@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      11
+    street window window window window window window window window window window
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out out out out out open out out out
+SECONDARY:RESTRAINT                                              6
+    catch catch catch catch catch catch
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    calling said said calling calling
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    falling falling falling
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistake mistake
+SECONDARY:ABSTRACTION                                            2
+    thinking something
+EMOTIONS:AGGRESSION                                              2
+    hit hit
+PRIMARY:SENSATION:HARD                                           2
+    hardly solid
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when then
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:VISION                                         1
+    looked
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flights
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:AFFECTION                                               1
+    loving
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 61.818182 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 10.909091 %
+
+224 words total

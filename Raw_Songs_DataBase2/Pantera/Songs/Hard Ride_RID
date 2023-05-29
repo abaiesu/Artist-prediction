@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when time time now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away far away away
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride ride ride
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    spoke say
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    building
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 4.000000 %
+
+128 words total

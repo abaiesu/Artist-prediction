@@ -1,0 +1,36 @@
+SECONDARY:RESTRAINT                                             12
+    prison prison prison bar prison prison prison prison bar prison prison prison
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    inside where where long where back out out where back
+SECONDARY:ABSTRACTION                                            6
+    learned guess plannin know plan cause
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now time now now time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    play guitar guitar guitar
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    pleasures call call
+PRIMARY:SENSATION:HARD                                           2
+    steel steel
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:SENSATION:SOUND                                          2
+    drum drum
+EMOTIONS:AGGRESSION                                              2
+    break doubt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    worked try
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 50.909091 %
+EMOTIONS            : 12.727273 %
+
+240 words total

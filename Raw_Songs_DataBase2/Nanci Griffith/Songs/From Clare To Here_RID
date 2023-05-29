@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    long here long here long long further long long here levels out
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when time when sometimes
+SECONDARY:ABSTRACTION                                            4
+    almost think them thinking
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    shared told
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping dream
+EMOTIONS:AGGRESSION                                              2
+    fighting breaks
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+PRIMARY:SENSATION:VISION                                         2
+    green see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play dance
+SECONDARY:RESTRAINT                                              1
+    caught
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+
+PRIMARY             : 52.500000 %
+SECONDARY           : 32.500000 %
+EMOTIONS            : 15.000000 %
+
+161 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    behind back here somewhere behind somewhere
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face hand eyes hand
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say helpless
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:NEED:SEX                                                 1
+    naked
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    cruel
+
+PRIMARY             : 59.090909 %
+SECONDARY           : 31.818182 %
+EMOTIONS            : 9.090909 %
+
+170 words total

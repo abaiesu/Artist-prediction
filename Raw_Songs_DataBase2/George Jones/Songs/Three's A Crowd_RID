@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               6
+    love marriage marriage love marriage marriage
+PRIMARY:SENSATION:VISION                                         5
+    looking seen seeing pictures blue
+SECONDARY:ABSTRACTION                                            5
+    reasons why know reason know
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            4
+    crowd crowd crowd crowd
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window door
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    allow called
+PRIMARY:SENSATION:SOUND                                          2
+    heard aloud
+SECONDARY:TEMPORAL REFERENCES                                    1
+    past
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    close
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 46.875000 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 21.875000 %
+
+144 words total

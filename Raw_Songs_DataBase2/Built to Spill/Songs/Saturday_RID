@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long away outside outside
+SECONDARY:ABSTRACTION                                            3
+    probably thought problems
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everyone time when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won make make
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    boredom
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pour
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:SENSATION:HARD                                           1
+    marbled
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ceiling
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 13.636364 %
+
+107 words total

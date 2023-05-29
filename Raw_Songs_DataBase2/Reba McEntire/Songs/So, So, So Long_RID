@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    closer long where where ahead long long away long where where ahead long long long long long long long long
+SECONDARY:ABSTRACTION                                           12
+    know know why know know real think know know know real real
+SECONDARY:TEMPORAL REFERENCES                                    9
+    every every sometimes minute time ever every every sometimes
+EMOTIONS:AFFECTION                                               7
+    like loved lovin like darlin lovin like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy thrill happy
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:AGGRESSION                                              1
+    steal
+
+PRIMARY             : 36.507937 %
+SECONDARY           : 46.031746 %
+EMOTIONS            : 17.460317 %
+
+279 words total

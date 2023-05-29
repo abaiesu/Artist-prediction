@@ -1,0 +1,52 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    month then soon when then when now now now
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    met conversing spoke saying asked granted saying speak follow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    overcome back overpowered over
+EMOTIONS:AGGRESSION                                              4
+    army army army broke
+EMOTIONS:GLORY                                                   4
+    conquer great conquer princes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lies lie dying bed
+PRIMARY:SENSATION:SOUND                                          3
+    voices tune heart
+EMOTIONS:SADNESS                                                 3
+    grief woe weeping
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand knee head
+PRIMARY:SENSATION:COLD                                           3
+    frozen sleet snow
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean waters
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    warbling sang
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sweep gain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    margin
+PRIMARY:SENSATION:SOFT                                           1
+    feather
+PRIMARY:SENSATION:TASTE                                          1
+    sweetly
+EMOTIONS:AFFECTION                                               1
+    dear
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blazing
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 45.161290 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 22.580645 %
+
+305 words total

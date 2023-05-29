@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:SOUND                                          7
+    hearts heart heartaches heart heartaches heartaches heartaches
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once then now times everytime
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said answer tells
+SECONDARY:ABSTRACTION                                            2
+    thought true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    count counting
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:ORDER                                                  1
+    divide
+EMOTIONS:AGGRESSION                                              1
+    breaks
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 43.333333 %
+EMOTIONS            : 26.666667 %
+
+95 words total

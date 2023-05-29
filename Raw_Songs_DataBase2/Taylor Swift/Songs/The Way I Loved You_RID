@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              17
+    friends like love loved kind loved endearing love loved kind loved love loved kind loved loved loved
+EMOTIONS:AGGRESSION                                              8
+    jealous fighting breaking fighting breaking breaking fighting breaking
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    says ask says calls says talks
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    opens space close at away
+SECONDARY:ABSTRACTION                                            5
+    knew knew cause knew knew
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything tonight when now
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door coaster coaster coaster
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    insane insane crazy insane
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful charming comfortable
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    screaming screaming screaming
+PRIMARY:NEED:SEX                                                 3
+    kissing kissing kissing
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain rain rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roller roller roller
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+PRIMARY:SENSATION:VISION                                         2
+    look see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes business
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    incredible
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+
+PRIMARY             : 41.025641 %
+SECONDARY           : 21.794872 %
+EMOTIONS            : 37.179487 %
+
+361 words total

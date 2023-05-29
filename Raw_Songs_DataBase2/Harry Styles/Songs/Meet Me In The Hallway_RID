@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    hallway hallway door door floor floor streets hallway door door floor floor
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at at out out away at at out out
+SECONDARY:ABSTRACTION                                            7
+    know know cause know know something cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    work work work work
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meet meet talk
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:TEMPORAL REFERENCES                                    1
+    once
+
+PRIMARY             : 56.756757 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 2.702703 %
+
+204 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    off off here off off
+EMOTIONS:AFFECTION                                               4
+    devotion like love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every then
+PRIMARY:SENSATION:VISION                                         2
+    look watched
+PRIMARY:NEED:ORALITY                                             2
+    lips mouth
+EMOTIONS:AGGRESSION                                              1
+    violent
+SECONDARY:ABSTRACTION                                            1
+    something
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+SECONDARY:RESTRAINT                                              1
+    inhibition
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    works
+EMOTIONS:GLORY                                                   1
+    wonders
+EMOTIONS:SADNESS                                                 1
+    suffering
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 31.818182 %
+
+126 words total

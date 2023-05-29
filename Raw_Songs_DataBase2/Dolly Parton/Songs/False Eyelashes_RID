@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back long long back back out place side out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    records possessions record claim possessions record claim record claim
+EMOTIONS:GLORY                                                   5
+    wonders fame fame fame fame
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    play played played played
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eye heel eye heel
+SECONDARY:ABSTRACTION                                            3
+    think why truth
+PRIMARY:SENSATION:VISION                                         3
+    star see see
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say offered
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad glad
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+EMOTIONS:AFFECTION                                               1
+    favorite
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+
+PRIMARY             : 42.000000 %
+SECONDARY           : 34.000000 %
+EMOTIONS            : 24.000000 %
+
+237 words total

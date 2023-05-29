@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                            9
+    know believe supposed sure cause cause believe believe cause
+EMOTIONS:AFFECTION                                               7
+    like love like love love love love
+PRIMARY:SENSATION:VISION                                         7
+    seen see lookin blue green blue green
+EMOTIONS:AGGRESSION                                              5
+    destroy destructions war harm harm
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away long out back
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    grow grow high sky
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say thank tell help
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    jumpin wings rise wings
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry yellow cry sing
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beauty beautiful
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find used make
+PRIMARY:NEED:ANALITY                                             2
+    disgusted pollution
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spread spread
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    roots
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    hush
+
+PRIMARY             : 42.424242 %
+SECONDARY           : 31.818182 %
+EMOTIONS            : 25.757576 %
+
+461 words total

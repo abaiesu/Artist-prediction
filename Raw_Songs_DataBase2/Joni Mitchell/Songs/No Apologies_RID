@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    offered said said offered
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    soldiers hired makes buy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    place at place place
+EMOTIONS:AGGRESSION                                              4
+    tyrant kick violence trampled
+SECONDARY:ABSTRACTION                                            3
+    judgement thinks think
+PRIMARY:NEED:ORALITY                                             3
+    teethmarks teethmarks teethmarks
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    laying laying laying
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    lofty
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:TEMPORAL REFERENCES                                    1
+    times
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    oceans
+PRIMARY:NEED:SEX                                                 1
+    womb
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 39.393939 %
+EMOTIONS            : 15.151515 %
+
+169 words total

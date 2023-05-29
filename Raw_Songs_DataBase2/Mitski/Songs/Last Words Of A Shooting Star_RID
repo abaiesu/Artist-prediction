@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            7
+    think know thoughts learned know know believe
+EMOTIONS:AFFECTION                                               6
+    kindly like loved love love goodbye
+EMOTIONS:POSITIVE AFFECT                                         3
+    relieved relieved relieved
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when while while
+PRIMARY:SENSATION:SOUND                                          3
+    music bell music
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say replica told
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silently quietly die
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:SENSATION:VISION                                         2
+    look looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:SENSATION:ODOR                                           1
+    sniffing
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    working
+
+PRIMARY             : 39.024390 %
+SECONDARY           : 36.585366 %
+EMOTIONS            : 24.390244 %
+
+188 words total

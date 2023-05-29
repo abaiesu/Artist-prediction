@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    line floor floor door border fence floor
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out over off out flat out over
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    ceiling ceiling roof ceiling
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fell fell fell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+PRIMARY:SENSATION:VISION                                         2
+    spied view
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight shouted
+EMOTIONS:AGGRESSION                                              2
+    hit damage
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    depth depth
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    bounced threw
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+PRIMARY:SENSATION:TASTE                                          1
+    tasted
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:COLD                                           1
+    north
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reached
+
+PRIMARY             : 87.804878 %
+SECONDARY           : 2.439024 %
+EMOTIONS            : 9.756098 %
+
+113 words total

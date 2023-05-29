@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now weekend now
+PRIMARY:NEED:ORALITY                                             3
+    swallowing swallowing eating
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    bought picket bought
+EMOTIONS:AGGRESSION                                              2
+    sword sword
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    charming charming
+SECONDARY:ABSTRACTION                                            2
+    decided decided
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pond wash
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    fence edge
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swing
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 34.615385 %
+EMOTIONS            : 19.230769 %
+
+143 words total

@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           10
+    know know why why know know know know know know
+EMOTIONS:AFFECTION                                               7
+    friend love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said tell tell tell tell told telling
+PRIMARY:SENSATION:VISION                                         4
+    saw peeked saw see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at place long
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything once times
+PRIMARY:NEED:ORALITY                                             3
+    honey corner honey
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    bought reached
+EMOTIONS:AGGRESSION                                              2
+    shot shot
+PRIMARY:SENSATION:TASTE                                          1
+    sweethearts
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sports
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swinging
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arm
+PRIMARY:NEED:SEX                                                 1
+    waist
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:HARD                                           1
+    hardwood
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 37.254902 %
+SECONDARY           : 43.137255 %
+EMOTIONS            : 19.607843 %
+
+272 words total

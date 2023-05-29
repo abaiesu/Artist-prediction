@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    helping helping helping helping call promised promised talk help helping helping helping follow helping helping helping
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         10
+    hand hand hand hand hand hand footsteps hand hand hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    over over over long long over far
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time time everyday everyday when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry roaring
+EMOTIONS:AGGRESSION                                              2
+    fight destruction
+SECONDARY:ABSTRACTION                                            2
+    why understand
+PRIMARY:NEED:ORALITY                                             2
+    eat bread
+EMOTIONS:SADNESS                                                 1
+    mourn
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:SOUND                                          1
+    hearing
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:MORAL IMPERATIVE                                       1
+    rights
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 9.259259 %
+
+227 words total

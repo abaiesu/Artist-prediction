@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    help say say help tell tell say say meeting talkin
+SECONDARY:TEMPORAL REFERENCES                                    7
+    soon soon years now sometime sometimes sometimes
+EMOTIONS:AFFECTION                                               6
+    love love like love love like
+SECONDARY:ABSTRACTION                                            6
+    fact guess know thinkin proven know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back where at here at at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won found make won
+EMOTIONS:GLORY                                                   3
+    wonder greatest wonderin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dream
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 56.250000 %
+EMOTIONS            : 18.750000 %
+
+280 words total

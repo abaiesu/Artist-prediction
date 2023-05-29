@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    opening opening opening opening opening opening here opening opening opening opening
+SECONDARY:ABSTRACTION                                           10
+    cause thought thought cause cause meant think suppose cause cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         10
+    headliner headliner headliner headliner headliner headliner headliner headliner headliner headliner
+PRIMARY:SENSATION:COLD                                           9
+    cool cool cool cool cool cool cool cold cool
+PRIMARY:SENSATION:VISION                                         5
+    see see see look look
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when ever everybody everything minute
+EMOTIONS:AFFECTION                                               5
+    lovely like like kindness like
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say excuse say callous
+PRIMARY:NEED:ORALITY                                             4
+    cheese brew lemon licked
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make work
+EMOTIONS:AGGRESSION                                              2
+    harsh kills
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    taller
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:NEED:SEX                                                 1
+    bitch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:NEED:ANALITY                                             1
+    shit
+
+PRIMARY             : 60.810811 %
+SECONDARY           : 28.378378 %
+EMOTIONS            : 10.810811 %
+
+372 words total

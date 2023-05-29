@@ -1,0 +1,32 @@
+EMOTIONS:ANXIETY                                                12
+    cares cares cares cares cares cares cares cares cares cares cares cares
+SECONDARY:ABSTRACTION                                            8
+    surely surely why know surely surely why know
+EMOTIONS:SADNESS                                                 3
+    lonely hopeless hopeless
+EMOTIONS:AFFECTION                                               3
+    like love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old everything
+PRIMARY:SENSATION:VISION                                         2
+    seen gray
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness happiness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found found
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+
+PRIMARY             : 12.500000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 50.000000 %
+
+174 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out where where open where where where where where where where where
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now when every soon time when ever time time time time
+EMOTIONS:AFFECTION                                              11
+    love love friends love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    able describe tell tell tell tell tell
+SECONDARY:ABSTRACTION                                            6
+    except know know know know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    arms arms arms arms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find buildings buildings
+PRIMARY:SENSATION:VISION                                         3
+    look bright imagined
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky trees heaven
+EMOTIONS:ANXIETY                                                 1
+    worrying
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 19.047619 %
+
+248 words total

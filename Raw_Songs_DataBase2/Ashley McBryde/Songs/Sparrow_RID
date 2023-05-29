@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when ever when ever ever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out here over out here
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    sky higher sky higher higher
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleeping sleeping dream waking
+EMOTIONS:AFFECTION                                               4
+    love like like like
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    called saying
+SECONDARY:RESTRAINT                                              2
+    bar locking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trade trade
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fair fair
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+EMOTIONS:AGGRESSION                                              1
+    cutting
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 55.813953 %
+SECONDARY           : 25.581395 %
+EMOTIONS            : 18.604651 %
+
+218 words total

@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    told said told said said say say say said said said
+PRIMARY:SENSATION:SOUND                                         11
+    heard loud hear hear heard heart loud tune sounded loud loud
+SECONDARY:TEMPORAL REFERENCES                                   10
+    old now now when soon when now then now ago
+SECONDARY:ABSTRACTION                                            9
+    knew meant think real know cause think may cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out overcoat over here away long
+EMOTIONS:AFFECTION                                               5
+    kinda love kinda love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found find found find
+EMOTIONS:GLORY                                                   2
+    wondered proud
+EMOTIONS:AGGRESSION                                              2
+    strike broke
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:SENSATION:VISION                                         1
+    brown
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 31.343284 %
+SECONDARY           : 53.731343 %
+EMOTIONS            : 14.925373 %
+
+329 words total

@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time time when till soon time when till soon time
+EMOTIONS:ANXIETY                                                 9
+    worry worry fret worry worry worry fret worry worry
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell please tell tell tell tell tell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    cry cry cry cry cry cry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    behind behind back behind back behind
+EMOTIONS:AFFECTION                                               4
+    goodbye goodbye goodbye goodbye
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won make
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    magic magic
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ABSTRACTION                                            1
+    understand
+
+PRIMARY             : 26.785714 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 35.714286 %
+
+244 words total

@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:SOUND                                          6
+    sound sound sound sound sound heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    making making use marketing use money
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    conversation say persuading conversation
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    outside at open
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands skin feet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silence lay silence
+EMOTIONS:AGGRESSION                                              2
+    hate grudging
+PRIMARY:NEED:ORALITY                                             2
+    sucking sucking
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitars
+PRIMARY:SENSATION:VISION                                         1
+    shine
+SECONDARY:ABSTRACTION                                            1
+    planets
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    darkening
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+
+PRIMARY             : 56.410256 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 10.256410 %
+
+149 words total

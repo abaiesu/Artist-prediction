@@ -1,0 +1,24 @@
+EMOTIONS:AGGRESSION                                              7
+    break blame broken hurt blame broken hurt
+PRIMARY:SENSATION:SOUND                                          7
+    heart hearts heart heart hearts heart heart
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when ever when ever
+SECONDARY:ORDER                                                  4
+    listen listen listen listen
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tells say tells say
+SECONDARY:ABSTRACTION                                            4
+    think know think know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find try try
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+EMOTIONS:ANXIETY                                                 1
+    afraid
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 52.777778 %
+EMOTIONS            : 22.222222 %
+
+204 words total

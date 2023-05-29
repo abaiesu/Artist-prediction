@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    path doorstep bridge
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please help please
+EMOTIONS:AGGRESSION                                              2
+    shot attack
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headman
+SECONDARY:RESTRAINT                                              1
+    refused
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+SECONDARY:ABSTRACTION                                            1
+    plan
+PRIMARY:NEED:SEX                                                 1
+    fuckin
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 12.500000 %
+
+74 words total

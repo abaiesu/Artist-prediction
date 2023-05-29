@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              14
+    friend friend friend friend friend friend friend friend friend friend love love love friend
+EMOTIONS:ANXIETY                                                 5
+    worry worry fears fears worry
+SECONDARY:ABSTRACTION                                            4
+    believe know believe cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy dreams dreams
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told said
+EMOTIONS:POSITIVE AFFECT                                         2
+    joys joys
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+PRIMARY:SENSATION:SOUND                                          1
+    ear
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 60.000000 %
+
+161 words total

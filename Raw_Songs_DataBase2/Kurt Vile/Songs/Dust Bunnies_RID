@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    at where at where where place over far away where out behind close away away
+SECONDARY:ABSTRACTION                                            9
+    may think features know history know think think real
+PRIMARY:SENSATION:VISION                                         6
+    see see looking saw see look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    headache face faces brain hand
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won find won find
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:SENSATION:SOUND                                          3
+    hear noises racket
+SECONDARY:RESTRAINT                                              2
+    bar bar
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:ORALITY                                             1
+    coughin
+PRIMARY:SENSATION:SOFT                                           1
+    delicate
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safety
+EMOTIONS:AGGRESSION                                              1
+    cutting
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    permanent
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wallow
+
+PRIMARY             : 62.295082 %
+SECONDARY           : 32.786885 %
+EMOTIONS            : 4.918033 %
+
+291 words total

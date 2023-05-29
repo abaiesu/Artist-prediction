@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    fever fever fever fever trance dreamed dream
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at surrounded afar close at at
+PRIMARY:SENSATION:VISION                                         6
+    bright lights glow gaze saw star
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spend used counting
+PRIMARY:SENSATION:SOUND                                          3
+    heart heard hearts
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    heat fire fire
+EMOTIONS:AGGRESSION                                              3
+    break shooting beating
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:RESTRAINT                                              2
+    captured control
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes body
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then once
+EMOTIONS:SADNESS                                                 1
+    despair
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 65.306122 %
+SECONDARY           : 20.408163 %
+EMOTIONS            : 14.285714 %
+
+175 words total

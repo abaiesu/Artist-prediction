@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       32
+    side nearly behind behind behind behind closed nearly behind behind behind behind closed behind closed at at at behind closed behind closed nearly behind behind behind behind closed behind closed behind closed
+SECONDARY:TEMPORAL REFERENCES                                   18
+    everybody every everybody time ever everybody every everybody everybody tonight everybody everybody tonight everybody tonight everybody every everybody
+EMOTIONS:AFFECTION                                              15
+    like like like like like like like like like like like friends like like like
+SECONDARY:ABSTRACTION                                           10
+    know know know know know know know think know know
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    saying tell saying talk saying tell saying saying tell saying
+PRIMARY:SENSATION:VISION                                         9
+    see see see see see see see see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       9
+    doors doors doors street doors doors doors doors doors
+PRIMARY:NEED:ANALITY                                             7
+    dirty dirty dirty dirty dirty dirty dirty
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should should should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    throw throw swing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad crazy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+EMOTIONS:AGGRESSION                                              2
+    kick hit
+PRIMARY:NEED:ORALITY                                             2
+    lick cherry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot fireworks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    shout shout
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twist
+PRIMARY:NEED:SEX                                                 1
+    kissing
+PRIMARY:SENSATION:TOUCH                                          1
+    touching
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+
+PRIMARY             : 53.623188 %
+SECONDARY           : 31.159420 %
+EMOTIONS            : 15.217391 %
+
+497 words total

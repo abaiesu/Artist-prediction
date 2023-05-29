@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here off outside here here
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor floor floor
+SECONDARY:ABSTRACTION                                            3
+    something something something
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head bloody hands
+PRIMARY:NEED:ORALITY                                             3
+    soup bread dine
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow tree
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wet drip
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:NEED:SEX                                                 1
+    kissin
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:AGGRESSION                                              1
+    breakfast
+
+PRIMARY             : 74.193548 %
+SECONDARY           : 19.354839 %
+EMOTIONS            : 6.451613 %
+
+165 words total

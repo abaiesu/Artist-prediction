@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    now now now everything again now now now now everything now now now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where where where where where where
+PRIMARY:SENSATION:SOUND                                          6
+    rhythms heart hummingbirds humming hear rhythms
+PRIMARY:NEED:ORALITY                                             6
+    eat fruits coconut eat fruits coconut
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes feet eyes feet
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    help calling meet help
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing dance yellow sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    reached aim aim aim
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun fireflies sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    tree birds tree
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water water
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:VISION                                         2
+    blue see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:ANXIETY                                                 1
+    worry
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 50.704225 %
+SECONDARY           : 36.619718 %
+EMOTIONS            : 12.676056 %
+
+262 words total

@@ -1,0 +1,16 @@
+SECONDARY:ABSTRACTION                                            2
+    something know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    years years
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:AGGRESSION                                              1
+    blame
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 71.428571 %
+EMOTIONS            : 28.571429 %
+
+92 words total

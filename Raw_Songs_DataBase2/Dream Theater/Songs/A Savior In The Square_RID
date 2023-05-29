@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    quickly today again today soon ever then
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    gift please ask says share treat
+PRIMARY:SENSATION:SOUND                                          4
+    hear heard music noise
+PRIMARY:SENSATION:VISION                                         4
+    see see vision appeared
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    mesmerized ecstasy dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make machines
+SECONDARY:ABSTRACTION                                            2
+    know them
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+EMOTIONS:ANXIETY                                                 1
+    worry
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 44.736842 %
+SECONDARY           : 47.368421 %
+EMOTIONS            : 7.894737 %
+
+122 words total

@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      11
+    gate passage door passage gate passage door passage gate passage passage
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    secrets mystery enigmatic esoteric
+EMOTIONS:GLORY                                                   4
+    great wealth great great
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    reach trade reach reach
+PRIMARY:SENSATION:VISION                                         3
+    watchful watchful stars
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly fly rising
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    higher higher higher
+SECONDARY:ABSTRACTION                                            2
+    ideas thought
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    beneath beneath
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eye
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay lay
+PRIMARY:NEED:ORALITY                                             2
+    cornerstone cornerstone
+SECONDARY:ORDER                                                  1
+    order
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spreading
+EMOTIONS:AGGRESSION                                              1
+    accusations
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    influence
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    open
+SECONDARY:MORAL IMPERATIVE                                       1
+    honor
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 21.818182 %
+EMOTIONS            : 14.545455 %
+
+190 words total

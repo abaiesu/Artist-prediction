@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                         9
+    see picture picture imaginary color green blue color seeing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyes eyes face face eyes eye eye
+SECONDARY:MORAL IMPERATIVE                                       7
+    justice justice justice justice justice justice justice
+SECONDARY:ABSTRACTION                                            5
+    cause why cause know learn
+EMOTIONS:AFFECTION                                               4
+    friend kind friends friend
+EMOTIONS:POSITIVE AFFECT                                         4
+    happy laughing fun happiness
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell call saying
+EMOTIONS:SADNESS                                                 3
+    sad painting painting
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside out close
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once again when
+PRIMARY:SENSATION:SOUND                                          2
+    sound hearts
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing yellow
+EMOTIONS:ANXIETY                                                 1
+    trouble
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:COLD                                           1
+    children
+
+PRIMARY             : 42.372881 %
+SECONDARY           : 33.898305 %
+EMOTIONS            : 23.728814 %
+
+218 words total

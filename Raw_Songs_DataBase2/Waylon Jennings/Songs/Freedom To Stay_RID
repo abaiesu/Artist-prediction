@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at where where wherever at
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once when already when when
+PRIMARY:SENSATION:VISION                                         5
+    light seen star light seen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    headin eyes eyes
+SECONDARY:ABSTRACTION                                            3
+    knows why know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor door
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 3.448276 %
+
+166 words total

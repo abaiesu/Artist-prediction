@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              10
+    darling love love love love love love friendly love love
+SECONDARY:ABSTRACTION                                            9
+    true true true true true true true true true
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    meet meet tell meet tell say ask meet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    off behind west behind behind where behind
+SECONDARY:RESTRAINT                                              6
+    bound bound bound bound bound bound
+SECONDARY:TEMPORAL REFERENCES                                    5
+    hour time time time time
+EMOTIONS:SADNESS                                                 5
+    grieving lonesome grieving grieving grieving
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    coast trail
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway high
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travelin travel
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:AGGRESSION                                              1
+    strike
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+EMOTIONS:ANXIETY                                                 1
+    troubles
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+
+PRIMARY             : 28.125000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 28.125000 %
+
+271 words total

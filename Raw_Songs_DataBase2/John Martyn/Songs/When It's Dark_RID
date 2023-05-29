@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                   23
+    when when when when while when when when when when when when when when when when when when when while when when when
+EMOTIONS:AFFECTION                                              23
+    darling darling darling friend goodbye darling darling darling goodbye love darling darling lover darling darling darling darling lover lover friend darling darling darling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    away far apart close here here away away away long here away far apart close away long here away
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    warm sun warm warm sun warm
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    fly fly fly fly fly fly
+EMOTIONS:AGGRESSION                                              5
+    hurt hurt hurt hurt hurt
+PRIMARY:SENSATION:VISION                                         5
+    see shine see shine see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    cry cry cry cry cry
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile smile smile smile
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep sleep awake
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees trees
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 40.350877 %
+SECONDARY           : 24.561404 %
+EMOTIONS            : 35.087719 %
+
+465 words total

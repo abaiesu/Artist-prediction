@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         15
+    skin skin blood head blood hands veins skin skin blood head blood hands veins veins
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where where out at over where where at over
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    please please tell tell please please tell tell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake wake wake wake
+PRIMARY:SENSATION:TOUCH                                          4
+    touch touch touch touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found found found found
+SECONDARY:MORAL IMPERATIVE                                       2
+    shoulders shoulders
+PRIMARY:NEED:ORALITY                                             2
+    corner corner
+EMOTIONS:AGGRESSION                                              2
+    killed killing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 67.924528 %
+SECONDARY           : 26.415094 %
+EMOTIONS            : 5.660377 %
+
+195 words total

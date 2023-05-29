@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   18
+    time time sometimes sometimes now sometime now every time now sometimes now time now sometimes now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    long long at straight where where where where inside where where where where
+SECONDARY:ABSTRACTION                                            9
+    thought knew think known think know know knew think
+EMOTIONS:AFFECTION                                               8
+    love love like love loved loved like loved
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    met tell tell tell tell told tell
+PRIMARY:SENSATION:VISION                                         5
+    saw saw see imagination imagining
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreamed dreamed dreamed
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:NEED:SEX                                                 1
+    kissed
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 37.142857 %
+SECONDARY           : 51.428571 %
+EMOTIONS            : 11.428571 %
+
+219 words total

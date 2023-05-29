@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    rounder rounder out at longing
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every time when when
+EMOTIONS:AFFECTION                                               3
+    loving friend like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand head hands
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+SECONDARY:RESTRAINT                                              3
+    bars prison bound
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    stranger stranger
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    working
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waved
+EMOTIONS:ANXIETY                                                 1
+    troubles
+
+PRIMARY             : 58.620690 %
+SECONDARY           : 27.586207 %
+EMOTIONS            : 13.793103 %
+
+100 words total

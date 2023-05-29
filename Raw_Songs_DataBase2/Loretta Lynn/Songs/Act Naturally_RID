@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         7
+    star film star star see see scene
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make win make make won
+EMOTIONS:SADNESS                                                 4
+    sad lonely sad lonely
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then ever time
+SECONDARY:ABSTRACTION                                            2
+    cause know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knee
+
+PRIMARY             : 32.142857 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 25.000000 %
+
+172 words total

@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       19
+    say call asking say say tell say call asking say say follow call ask say say call asking say
+SECONDARY:TEMPORAL REFERENCES                                   19
+    again then when again when again when then when again when then when again when when then when again
+SECONDARY:ABSTRACTION                                            9
+    believe believe believe believe different thought cause believe believe
+PRIMARY:SENSATION:VISION                                         8
+    picture see see see see see see picture
+EMOTIONS:AFFECTION                                               8
+    like like like like darling like darling like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pick pick pick pick pick
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away away apart away away
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    fly fly fly fly
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 25.925926 %
+SECONDARY           : 64.197531 %
+EMOTIONS            : 9.876543 %
+
+294 words total

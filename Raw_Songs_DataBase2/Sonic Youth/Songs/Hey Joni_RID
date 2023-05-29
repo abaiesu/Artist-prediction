@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    behind behind off out center at long behind behind behind out behind behind
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now times past time now when past now times past now
+SECONDARY:ABSTRACTION                                           10
+    know ideals think true thinking think thinking something know truth
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say tell tell tell speak say
+EMOTIONS:AGGRESSION                                              5
+    broken broke shots whipcrack kick
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high trees tall high
+PRIMARY:SENSATION:SOUND                                          4
+    ring snap sound tune
+PRIMARY:NEED:ANALITY                                             2
+    mess mess
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    steps
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sailboat
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burns
+
+PRIMARY             : 49.295775 %
+SECONDARY           : 42.253521 %
+EMOTIONS            : 8.450704 %
+
+284 words total

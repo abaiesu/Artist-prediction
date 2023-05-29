@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    again again again again years again again years
+PRIMARY:SENSATION:VISION                                         6
+    blue blue blue blue blue blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long long near long long near
+PRIMARY:SENSATION:SOUND                                          5
+    heart hear heart hear heart
+EMOTIONS:AFFECTION                                               4
+    friends love darlin darlin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    dawn dawn
+SECONDARY:ABSTRACTION                                            2
+    think think
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 55.882353 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 11.764706 %
+
+122 words total

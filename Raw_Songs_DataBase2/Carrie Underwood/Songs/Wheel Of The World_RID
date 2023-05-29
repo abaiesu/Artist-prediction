@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out out out back at here close where at open apart
+SECONDARY:ABSTRACTION                                            4
+    think knowing know why
+EMOTIONS:AFFECTION                                               3
+    love like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time then
+PRIMARY:SENSATION:VISION                                         2
+    light blink
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ship
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eye
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slows slows
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    break
+
+PRIMARY             : 67.500000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 12.500000 %
+
+341 words total

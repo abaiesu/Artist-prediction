@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tell please please forgive forgive
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now clock clock everybody everybody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    close close where out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find found found find
+SECONDARY:ABSTRACTION                                            3
+    know believe believe
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:SENSATION:VISION                                         2
+    looked looked
+EMOTIONS:AFFECTION                                               2
+    goodbye goodbye
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+
+PRIMARY             : 29.032258 %
+SECONDARY           : 58.064516 %
+EMOTIONS            : 12.903226 %
+
+131 words total

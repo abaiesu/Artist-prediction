@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long long long beside side long long long long long
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             8
+    strangers strangers strangers strangers strangers strangers strangers strangers
+EMOTIONS:AGGRESSION                                              4
+    violent violent violent violent
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time then soon
+SECONDARY:ABSTRACTION                                            2
+    may knew
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:SADNESS                                                 1
+    despair
+SECONDARY:RESTRAINT                                              1
+    cage
+
+PRIMARY             : 61.290323 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 16.129032 %
+
+118 words total

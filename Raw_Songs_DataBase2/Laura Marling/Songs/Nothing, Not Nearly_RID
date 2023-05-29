@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    where among where west place out where nearly long where among where west where nearly long long
+SECONDARY:ABSTRACTION                                            9
+    thinking thought tendencies learnt know thinking learnt know know
+SECONDARY:TEMPORAL REFERENCES                                    7
+    year once once year once once once
+EMOTIONS:AFFECTION                                               6
+    like love like love love love
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    river stream river stream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won find won
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    bask bask bask
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    danced danced
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    embers embers
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:SENSATION:COLD                                           2
+    north north
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met met
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 49.230769 %
+SECONDARY           : 32.307692 %
+EMOTIONS            : 18.461538 %
+
+253 words total

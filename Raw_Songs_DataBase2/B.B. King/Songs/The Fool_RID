@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            4
+    tender guess guessed understand
+SECONDARY:TEMPORAL REFERENCES                                    3
+    times then everyone
+EMOTIONS:POSITIVE AFFECT                                         3
+    thrill delight happiness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long long long
+EMOTIONS:AFFECTION                                               3
+    love loving love
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    forgive please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make carried
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AGGRESSION                                              1
+    broke
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 26.923077 %
+SECONDARY           : 42.307692 %
+EMOTIONS            : 30.769231 %
+
+129 words total

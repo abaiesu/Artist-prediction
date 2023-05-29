@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                              11
+    like friend friend friend friend like like friend friend friend friend
+PRIMARY:SENSATION:SOUND                                          5
+    bell rings sounds bells ring
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out back
+PRIMARY:SENSATION:VISION                                         3
+    light pink looks
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell call call
+PRIMARY:SENSATION:COLD                                           2
+    snow snow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky roof
+SECONDARY:ABSTRACTION                                            2
+    truth something
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every weekend
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    sidewalk
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    games
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinks
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+PRIMARY:NEED:ORALITY                                             1
+    rice
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 28.888889 %
+
+171 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    at out long out back away long out back away long out back away
+SECONDARY:ABSTRACTION                                            9
+    know surely believe cause think cause know cause cause
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every every now now every every
+EMOTIONS:POSITIVE AFFECT                                         5
+    thrill smile smile thrill smile
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    window road road road
+PRIMARY:SENSATION:HARD                                           4
+    hard hard hard hard
+PRIMARY:SENSATION:SOUND                                          3
+    bells ring sounds
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found found
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell speak tell
+EMOTIONS:AGGRESSION                                              3
+    hate hate hate
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 36.206897 %
+EMOTIONS            : 13.793103 %
+
+229 words total

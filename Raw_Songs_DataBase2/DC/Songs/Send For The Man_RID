@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               6
+    love love love love like lovin
+PRIMARY:NEED:ANALITY                                             3
+    dirty dirty dirty
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    open away
+EMOTIONS:AGGRESSION                                              2
+    shot gun
+PRIMARY:NEED:SEX                                                 1
+    lust
+SECONDARY:ABSTRACTION                                            1
+    qualifications
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:NEED:ORALITY                                             1
+    eat
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOUND                                          1
+    rhythm
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 56.000000 %
+SECONDARY           : 12.000000 %
+EMOTIONS            : 32.000000 %
+
+155 words total

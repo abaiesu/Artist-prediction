@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out out away back where back where out out
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    highway highway highway highway
+SECONDARY:ORDER                                                  4
+    listen listen listen listen
+SECONDARY:ABSTRACTION                                            4
+    them them them them
+EMOTIONS:SADNESS                                                 4
+    whine whine whine whine
+EMOTIONS:AFFECTION                                               4
+    kind kind friends friends
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treat treat
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying dying
+SECONDARY:TEMPORAL REFERENCES                                    2
+    till till
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:AGGRESSION                                              1
+    steal
+
+PRIMARY             : 40.540541 %
+SECONDARY           : 35.135135 %
+EMOTIONS            : 24.324324 %
+
+137 words total

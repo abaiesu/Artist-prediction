@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        11
+    saw see see see see star see see star see see
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then old then now now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    called said said followed followed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    feet palm hand head
+PRIMARY:SENSATION:SOUND                                          3
+    bell heard heard
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:ABSTRACTION                                            2
+    them them
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shouted
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:NEED:ANALITY                                             1
+    unclean
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 60.526316 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 2.631579 %
+
+211 words total

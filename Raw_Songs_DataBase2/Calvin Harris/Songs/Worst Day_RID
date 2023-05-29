@@ -1,0 +1,46 @@
+SECONDARY:RESTRAINT                                             16
+    must must must must must must must must must must must must must control must must
+SECONDARY:ABSTRACTION                                           16
+    know true cause true cause decide true cause cause true cause thought true cause true cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    side side behind side side back flat back side side
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    allowing telling called called told said call
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while yesterday week ago clock
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    mistake mistake mistake mistake
+EMOTIONS:AFFECTION                                               4
+    loving love like like
+EMOTIONS:AGGRESSION                                              4
+    destroy break cut stab
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    finish working won won
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed laying bed
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should moral
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    neck
+PRIMARY:SENSATION:COLD                                           1
+    chill
+PRIMARY:NEED:SEX                                                 1
+    cupid
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+PRIMARY:NEED:ORALITY                                             1
+    drinkin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+
+PRIMARY             : 31.034483 %
+SECONDARY           : 59.770115 %
+EMOTIONS            : 9.195402 %
+
+470 words total

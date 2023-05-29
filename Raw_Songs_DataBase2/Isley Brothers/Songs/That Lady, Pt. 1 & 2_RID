@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    introduce ask introduce meet introduce introduce say
+SECONDARY:ABSTRACTION                                            4
+    real real real real
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dance sight danced sight
+EMOTIONS:AFFECTION                                               4
+    love like love love
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:VISION                                         1
+    saw
+SECONDARY:TEMPORAL REFERENCES                                    1
+    tonight
+EMOTIONS:AGGRESSION                                              1
+    stole
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 41.379310 %
+EMOTIONS            : 31.034483 %
+
+137 words total

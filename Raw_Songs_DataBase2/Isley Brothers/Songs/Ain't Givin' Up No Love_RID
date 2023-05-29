@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                              13
+    love love love love love love love love love love love love love
+SECONDARY:ABSTRACTION                                           10
+    reason believe know cause know reason believe know cause know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at inside away inside at away inside at
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said say say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won make make
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 22.727273 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 31.818182 %
+
+202 words total

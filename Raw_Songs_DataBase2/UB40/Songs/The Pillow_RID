@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         12
+    face head faces head eyes arm head head skin head head head
+EMOTIONS:POSITIVE AFFECT                                         6
+    smile joy happy jokes fun happy
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every when now when now when
+EMOTIONS:AGGRESSION                                              5
+    fights hurt hurts blade breaks
+PRIMARY:SENSATION:VISION                                         4
+    shining light sunlight crimson
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long within across ahead
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    finds paid money
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    rests bed bed
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams dreams dreams
+SECONDARY:RESTRAINT                                              2
+    stop bars
+SECONDARY:ABSTRACTION                                            2
+    thoughts thoughts
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beauty beauty
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds dim
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    nameless
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 57.812500 %
+SECONDARY           : 23.437500 %
+EMOTIONS            : 18.750000 %
+
+221 words total

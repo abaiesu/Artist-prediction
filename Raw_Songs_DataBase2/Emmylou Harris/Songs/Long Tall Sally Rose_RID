@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight once again everybody tonight
+SECONDARY:ABSTRACTION                                            4
+    cause sure knows cause
+PRIMARY:SENSATION:VISION                                         4
+    seen see see see
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard loud
+PRIMARY:SENSATION:HARD                                           3
+    rock rocks rocks
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot burnin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headlinin
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pick
+
+PRIMARY             : 59.259259 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 3.703704 %
+
+97 words total

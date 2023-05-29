@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at forward back at at
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    asleep woke wake wake
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever when when
+PRIMARY:SENSATION:HARD                                           2
+    glass stones
+EMOTIONS:AGGRESSION                                              2
+    doubtful attack
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    steps steps
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+EMOTIONS:SADNESS                                                 2
+    mourn mourn
+EMOTIONS:POSITIVE AFFECT                                         2
+    celebrate celebrate
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throwing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+
+PRIMARY             : 61.290323 %
+SECONDARY           : 16.129032 %
+EMOTIONS            : 22.580645 %
+
+284 words total

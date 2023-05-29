@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell console tell console tell talk tell
+SECONDARY:ABSTRACTION                                            6
+    know believe believe real believe believe
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    dance dance dancing dance sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    round at out here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hand body
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    early tonight
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellows
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:SOFT                                           1
+    gentlemen
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+SECONDARY:RESTRAINT                                              1
+    control
+
+PRIMARY             : 40.476190 %
+SECONDARY           : 40.476190 %
+EMOTIONS            : 19.047619 %
+
+212 words total

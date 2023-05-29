@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    southern southlands out southern southland south out southern
+PRIMARY:SENSATION:SOUND                                          6
+    heard whistle hear whistle hear whistle
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now when ever then when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    headin head headin head
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    line window line window
+PRIMARY:SENSATION:VISION                                         3
+    seen see scenes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    leans leans leans
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tower tower
+EMOTIONS:SADNESS                                                 2
+    whine whine
+SECONDARY:RESTRAINT                                              2
+    bound bound
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 69.565217 %
+SECONDARY           : 23.913043 %
+EMOTIONS            : 6.521739 %
+
+212 words total

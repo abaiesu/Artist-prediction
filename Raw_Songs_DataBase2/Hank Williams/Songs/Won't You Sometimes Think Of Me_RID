@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when sometimes when sometimes every sometimes when sometimes ever sometimes when sometimes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won won try won tried won won
+SECONDARY:ABSTRACTION                                            7
+    think think think think think think think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    longer behind behind behind
+EMOTIONS:AFFECTION                                               4
+    dear dear dear dear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    sinking sinking sinking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    trees trees trees
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slowly slowly slowly
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rising rising rising
+EMOTIONS:SADNESS                                                 2
+    sad lonely
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    paths
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:VISION                                         1
+    picture
+EMOTIONS:AGGRESSION                                              1
+    blame
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 48.214286 %
+EMOTIONS            : 14.285714 %
+
+176 words total

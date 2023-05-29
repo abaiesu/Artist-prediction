@@ -1,0 +1,42 @@
+SECONDARY:RESTRAINT                                             11
+    must must must must stop must must must must must must
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now now when old when now now now now
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    promise call say talk promise protect
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    beside at close out beside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    win build won makin win
+SECONDARY:ABSTRACTION                                            4
+    choose believing choose choose
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    travel travel travel
+PRIMARY:SENSATION:SOFT                                           3
+    whisper whisper whisper
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    ruins ruins
+EMOTIONS:AFFECTION                                               2
+    love friends
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:NEED:ORALITY                                             1
+    lemon
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:VISION                                         1
+    seeing
+EMOTIONS:AGGRESSION                                              1
+    deceive
+EMOTIONS:GLORY                                                   1
+    wonderful
+
+PRIMARY             : 32.758621 %
+SECONDARY           : 60.344828 %
+EMOTIONS            : 6.896552 %
+
+275 words total

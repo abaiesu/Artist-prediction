@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              20
+    love love love love love love love love love love lovin love lovin love love lovin love love love love
+SECONDARY:TEMPORAL REFERENCES                                   12
+    old when tonight old tonight old old tonight old old old old
+SECONDARY:ABSTRACTION                                            7
+    meant meant know meant meant know know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm burn
+PRIMARY:SENSATION:SOUND                                          2
+    heart whirl
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:SOFT                                           1
+    softly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+PRIMARY:SENSATION:VISION                                         1
+    star
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 19.298246 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 38.596491 %
+
+281 words total

@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when now time old when now
+PRIMARY:SENSATION:VISION                                         5
+    looked see looked see see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    called tell called called
+SECONDARY:ABSTRACTION                                            4
+    weighing cause sure learn
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long out long
+EMOTIONS:SADNESS                                                 3
+    sorry sorry sorry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reach find find
+EMOTIONS:AGGRESSION                                              1
+    killing
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 48.571429 %
+EMOTIONS            : 22.857143 %
+
+159 words total

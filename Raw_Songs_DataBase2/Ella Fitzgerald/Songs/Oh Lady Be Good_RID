@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               5
+    like like lovely pity pity
+EMOTIONS:SADNESS                                                 4
+    woe sad lonesome lonesome
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please tell please tell
+SECONDARY:ABSTRACTION                                            2
+    true know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place out
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:VISION                                         1
+    blue
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handsome
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 21.739130 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 39.130435 %
+
+141 words total

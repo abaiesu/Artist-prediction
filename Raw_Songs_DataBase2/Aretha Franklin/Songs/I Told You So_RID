@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                       22
+    say told told told told told told told told told told told say told said told tell told told tell told told
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now when while now when when then ever again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back back back closely back
+SECONDARY:ABSTRACTION                                            4
+    know thought think know
+EMOTIONS:AFFECTION                                               3
+    love goodbye goodbye
+EMOTIONS:AGGRESSION                                              2
+    hate hate
+PRIMARY:SENSATION:SOUND                                          2
+    heartache hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die slow
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    leap jumpin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:VISION                                         1
+    look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+
+PRIMARY             : 22.807018 %
+SECONDARY           : 64.912281 %
+EMOTIONS            : 12.280702 %
+
+214 words total

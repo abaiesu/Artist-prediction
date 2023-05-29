@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              8
+    fair fair fair fair fair fair fair fair
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    body arms face body eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out where longer
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+EMOTIONS:AFFECTION                                               2
+    loving love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then then
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say said
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 64.516129 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 12.903226 %
+
+138 words total

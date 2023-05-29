@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back close away close close close
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call talk call talk
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sings sings sings sings
+PRIMARY:NEED:ORALITY                                             3
+    feed feed feed
+SECONDARY:ABSTRACTION                                            3
+    history history history
+EMOTIONS:GLORY                                                   2
+    pride golden
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+EMOTIONS:SADNESS                                                 1
+    melancholic
+EMOTIONS:AGGRESSION                                              1
+    feudal
+SECONDARY:ORDER                                                  1
+    simple
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 26.666667 %
+
+162 words total

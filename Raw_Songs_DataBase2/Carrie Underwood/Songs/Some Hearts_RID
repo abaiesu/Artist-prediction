@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:SOUND                                         22
+    hearts hearts hearts hearts hearts heart hearts hearts hearts hearts hearts hearts hearts hearts hearts hearts hearts hearts hearts hearts hearts hearts
+SECONDARY:TEMPORAL REFERENCES                                   14
+    when sometimes sometimes now ever sometimes sometimes sometimes sometimes sometimes sometimes sometimes sometimes sometimes
+EMOTIONS:AFFECTION                                               9
+    kind like love like like love like like like
+SECONDARY:ABSTRACTION                                            8
+    something guess knew knew guess thought thought guess
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    circles at side side side side
+PRIMARY:SENSATION:VISION                                         5
+    look stars stars stars stars
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+EMOTIONS:AGGRESSION                                              4
+    breaks breaks breaks breaks
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find makes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+
+PRIMARY             : 43.589744 %
+SECONDARY           : 39.743590 %
+EMOTIONS            : 16.666667 %
+
+277 words total

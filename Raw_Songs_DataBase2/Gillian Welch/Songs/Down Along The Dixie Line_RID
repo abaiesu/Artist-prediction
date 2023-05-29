@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    along away along along at along far behind along back along far behind along
+PRIMARY:SENSATION:VISION                                         8
+    grey look see bright shine see bright shine
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    line line line line line line line
+PRIMARY:SENSATION:SOUND                                          3
+    humming hear hear
+PRIMARY:SENSATION:COLD                                           3
+    childhood north north
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time now now
+PRIMARY:NEED:ORALITY                                             2
+    melons whiskey
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drivers drivers
+EMOTIONS:SADNESS                                                 2
+    wail wail
+SECONDARY:RESTRAINT                                              2
+    catch catch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fireball fireball
+EMOTIONS:GLORY                                                   1
+    gold
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    saying
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spent
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wildwood
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyeballs
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    bawling
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+
+PRIMARY             : 78.947368 %
+SECONDARY           : 12.280702 %
+EMOTIONS            : 8.771930 %
+
+179 words total

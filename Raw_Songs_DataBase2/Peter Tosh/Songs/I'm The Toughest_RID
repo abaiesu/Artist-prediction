@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                               5
+    like like love love love
+SECONDARY:RESTRAINT                                              4
+    stop stop stop stop
+SECONDARY:ABSTRACTION                                            3
+    plans plan know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AGGRESSION                                              2
+    fight fight
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 33.333333 %
+
+176 words total

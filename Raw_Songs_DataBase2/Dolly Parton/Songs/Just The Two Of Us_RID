@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    surround long between surround long over nearer long surround long over
+SECONDARY:RESTRAINT                                              3
+    control control control
+SECONDARY:ABSTRACTION                                            2
+    different may
+PRIMARY:SENSATION:SOUND                                          2
+    sounds ear
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:NEED:ORALITY                                             1
+    tongues
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drift
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+PRIMARY:SENSATION:VISION                                         1
+    sunshine
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 3.571429 %
+
+183 words total

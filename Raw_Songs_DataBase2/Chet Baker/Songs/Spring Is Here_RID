@@ -1,0 +1,26 @@
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    spring spring spring spring
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here here here here
+SECONDARY:ABSTRACTION                                            4
+    why why why why
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+PRIMARY:SENSATION:VISION                                         2
+    stars appear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    entrancing
+EMOTIONS:POSITIVE AFFECT                                         1
+    delight
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    invite
+EMOTIONS:AFFECTION                                               1
+    loves
+
+PRIMARY             : 61.904762 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 14.285714 %
+
+63 words total

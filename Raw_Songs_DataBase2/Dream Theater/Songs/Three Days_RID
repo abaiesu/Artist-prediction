@@ -1,0 +1,42 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    remind protect help kneel call help kneel remarks
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at back here away off out
+SECONDARY:ABSTRACTION                                            4
+    think fact weigh judgment
+EMOTIONS:GLORY                                                   3
+    admiration applause throne
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now soon time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won find pay
+EMOTIONS:AGGRESSION                                              3
+    rebels fight threatening
+PRIMARY:SENSATION:VISION                                         2
+    notice looked
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play game
+PRIMARY:SENSATION:HARD                                           2
+    stone stone
+SECONDARY:RESTRAINT                                              2
+    refuse decree
+EMOTIONS:ANXIETY                                                 2
+    fear frightening
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheers
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impressed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertain
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 30.434783 %
+SECONDARY           : 45.652174 %
+EMOTIONS            : 23.913043 %
+
+214 words total

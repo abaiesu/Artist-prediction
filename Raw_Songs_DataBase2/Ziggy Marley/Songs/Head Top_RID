@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         10
+    head head head bone head head head body body body
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    backtu south outside back south east west place off
+SECONDARY:ABSTRACTION                                            8
+    real cause know them know scheme modelling them
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    playing dance sing clown dance clown
+PRIMARY:SENSATION:VISION                                         6
+    see scene shine light watch scene
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    tops tops tops tops tops tops
+SECONDARY:RESTRAINT                                              6
+    police stop stop police stop must
+EMOTIONS:AFFECTION                                               6
+    love love love like love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try make try winning
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor lane floor
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when then then
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    greet talk call
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:SENSATION:SOUND                                          2
+    music music
+EMOTIONS:AGGRESSION                                              2
+    hit hit
+PRIMARY:SENSATION:SOFT                                           2
+    ting ting
+PRIMARY:SENSATION:COLD                                           2
+    chile north
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    trenchtown
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jungle
+PRIMARY:NEED:ORALITY                                             1
+    corner
+
+PRIMARY             : 52.941176 %
+SECONDARY           : 28.235294 %
+EMOTIONS            : 18.823529 %
+
+399 words total

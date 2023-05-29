@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             16
+    beautiful beauty beauty beautiful beauty beauty beauty beauty beauty beauty beauty beautiful beauty beauty beauty beauty
+PRIMARY:SENSATION:VISION                                         8
+    dye brown blue blue light blue blue blue
+EMOTIONS:AFFECTION                                               4
+    like love like darling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+EMOTIONS:SADNESS                                                 3
+    paint paint paint
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    ocean ocean ocean
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today everything
+PRIMARY:NEED:ORALITY                                             2
+    lips cherries
+PRIMARY:SENSATION:HARD                                           1
+    nails
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+SECONDARY:ABSTRACTION                                            1
+    cause
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+
+PRIMARY             : 69.811321 %
+SECONDARY           : 15.094340 %
+EMOTIONS            : 15.094340 %
+
+263 words total

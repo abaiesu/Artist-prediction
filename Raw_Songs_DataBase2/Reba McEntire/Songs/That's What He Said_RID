@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    tell said said said said telling told say said said telling said said said said
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:VISION                                         2
+    see glow
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:ABSTRACTION                                            1
+    something
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    open
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 62.068966 %
+EMOTIONS            : 10.344828 %
+
+136 words total

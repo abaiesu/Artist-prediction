@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:ODOR                                           3
+    smell smell smells
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+PRIMARY:NEED:ANALITY                                             3
+    shitting shitting shitting
+PRIMARY:NEED:SEX                                                 2
+    fuck whore
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    close
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:AGGRESSION                                              1
+    kill
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 70.588235 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 5.882353 %
+
+76 words total

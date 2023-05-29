@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    where off open at long away at at at where where here here
+PRIMARY:SENSATION:VISION                                        10
+    looking look pictures light see look look look looking looking
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           7
+    drive driveway driveway drive driveway drive driveway
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old old when old old now now
+EMOTIONS:AFFECTION                                               4
+    love friends love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair head
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swimming pool
+PRIMARY:SENSATION:TASTE                                          2
+    bittersweet sweet
+PRIMARY:NEED:ORALITY                                             2
+    milky cornfields
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above high
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talked
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+EMOTIONS:ANXIETY                                                 1
+    cares
+EMOTIONS:SADNESS                                                 1
+    mourning
+PRIMARY:SENSATION:TOUCH                                          1
+    scratches
+SECONDARY:ABSTRACTION                                            1
+    real
+
+PRIMARY             : 73.770492 %
+SECONDARY           : 14.754098 %
+EMOTIONS            : 11.475410 %
+
+207 words total

@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                               6
+    love appreciation like love love appreciation
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    door wall stairs stepchild floor
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    prepare make pick make make
+SECONDARY:ABSTRACTION                                            5
+    plane cause cause cause cause
+PRIMARY:SENSATION:VISION                                         3
+    light sees see
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever ever ever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out out
+PRIMARY:NEED:ORALITY                                             2
+    coffee dining
+SECONDARY:ORDER                                                  2
+    form form
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    roof balcony
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell treating
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candles
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    shut
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheering
+
+PRIMARY             : 42.553191 %
+SECONDARY           : 40.425532 %
+EMOTIONS            : 17.021277 %
+
+625 words total

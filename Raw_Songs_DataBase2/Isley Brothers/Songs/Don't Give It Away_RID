@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    away away away away away away away away away away away away away away away away away away away
+EMOTIONS:AFFECTION                                               5
+    lovin lovin lovin love lovin
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell said say tell
+SECONDARY:ORDER                                                  2
+    listen listen
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainy
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 14.705882 %
+
+168 words total

@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when then when then then then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away long
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    claim claim
+EMOTIONS:SADNESS                                                 2
+    pain woe
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travel travel
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+EMOTIONS:GLORY                                                   1
+    throne
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 17.391304 %
+
+161 words total

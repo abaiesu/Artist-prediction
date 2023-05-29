@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    place at side where out
+PRIMARY:SENSATION:VISION                                         4
+    see see lights see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street street
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet speak
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    faces handshake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work worker
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tall growing
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playground
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    corner
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:TEMPORAL REFERENCES                                    1
+    year
+
+PRIMARY             : 70.370370 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 7.407407 %
+
+171 words total

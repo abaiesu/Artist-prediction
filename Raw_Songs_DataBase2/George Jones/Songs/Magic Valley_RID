@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    telling follow telling
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    magic magic
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    valley valley
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+EMOTIONS:GLORY                                                   2
+    gold golden
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:SADNESS                                                 1
+    grieving
+EMOTIONS:POSITIVE AFFECT                                         1
+    rejoice
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+
+PRIMARY             : 47.619048 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 23.809524 %
+
+90 words total

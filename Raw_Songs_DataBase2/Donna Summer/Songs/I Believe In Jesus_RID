@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           19
+    know know them believe know know cause believe believe sure believe know know cause believe believe cause believe believe
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when already now every
+PRIMARY:SENSATION:VISION                                         4
+    looked see see look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    soldiers make soldiers
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where at at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street gates
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+EMOTIONS:AGGRESSION                                              2
+    war war
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    preaching
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tourists
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+PRIMARY:SENSATION:SOFT                                           1
+    fleece
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:NEED:ORALITY                                             1
+    fast
+
+PRIMARY             : 36.956522 %
+SECONDARY           : 58.695652 %
+EMOTIONS            : 4.347826 %
+
+225 words total

@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                              17
+    like dear appreciate like love love love loving love lovin love lovin love love love love lovin
+SECONDARY:ABSTRACTION                                            7
+    believe believe believe believe believe believe know
+PRIMARY:SENSATION:TASTE                                          6
+    sweet sweet sweet sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    skin arms eyes arms
+SECONDARY:MORAL IMPERATIVE                                       4
+    oughta right oughta right
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please help please said
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything everything everything
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    round here here
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile happiness
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:SOUND                                          2
+    hearts sound
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb mountain
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+EMOTIONS:GLORY                                                   1
+    proud
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    success
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    cliff
+EMOTIONS:AGGRESSION                                              1
+    break
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 29.230769 %
+EMOTIONS            : 32.307692 %
+
+246 words total

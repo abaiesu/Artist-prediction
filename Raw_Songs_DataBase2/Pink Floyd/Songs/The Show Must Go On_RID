@@ -1,0 +1,16 @@
+SECONDARY:RESTRAINT                                              3
+    must must must
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away where
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+SECONDARY:ABSTRACTION                                            1
+    them
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 0.000000 %
+
+68 words total

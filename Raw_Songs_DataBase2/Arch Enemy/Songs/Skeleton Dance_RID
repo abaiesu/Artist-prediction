@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    over between distance here near here between here
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    dance dancing cry dance dancing dance
+PRIMARY:SENSATION:VISION                                         4
+    watch unseen watch watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    death death dead
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fading shadows
+PRIMARY:SENSATION:COLD                                           2
+    frozen frozen
+SECONDARY:TEMPORAL REFERENCES                                    2
+    hour hour
+EMOTIONS:ANXIETY                                                 2
+    desperate fear
+PRIMARY:SENSATION:SOUND                                          2
+    voiceless unheard
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journey
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floats
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:RESTRAINT                                              1
+    boundless
+SECONDARY:ABSTRACTION                                            1
+    known
+EMOTIONS:SADNESS                                                 1
+    mourned
+
+PRIMARY             : 65.789474 %
+SECONDARY           : 10.526316 %
+EMOTIONS            : 23.684211 %
+
+115 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out out out out out out out out out out out
+SECONDARY:ABSTRACTION                                            4
+    plant plans real real
+PRIMARY:SENSATION:TOUCH                                          3
+    rubber rubber rubber
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    bought used wins
+EMOTIONS:AFFECTION                                               3
+    like like love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+PRIMARY:SENSATION:VISION                                         2
+    green looks
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    watering
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burns
+PRIMARY:SENSATION:TASTE                                          1
+    tastes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ceiling
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 31.428571 %
+EMOTIONS            : 11.428571 %
+
+169 words total

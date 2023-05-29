@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when now then old then tonight
+SECONDARY:RESTRAINT                                              3
+    scold must scold
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet hands eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    carry finish soldier
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    trench trench
+SECONDARY:ORDER                                                  2
+    neat neat
+SECONDARY:ABSTRACTION                                            2
+    them knew
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say protect
+EMOTIONS:AFFECTION                                               2
+    love dear
+EMOTIONS:AGGRESSION                                              2
+    fought fighting
+PRIMARY:NEED:ANALITY                                             1
+    mud
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:ANXIETY                                                 1
+    tremble
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 29.411765 %
+SECONDARY           : 55.882353 %
+EMOTIONS            : 14.705882 %
+
+156 words total

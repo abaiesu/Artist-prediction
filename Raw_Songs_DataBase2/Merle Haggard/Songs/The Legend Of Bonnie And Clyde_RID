@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    rounder away closer back out side
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    died dying dead death lay died
+EMOTIONS:AGGRESSION                                              5
+    robbed killed fought robbin killin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head blood hands
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grew growing growing
+SECONDARY:ABSTRACTION                                            2
+    them thought
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    poems game
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told say
+SECONDARY:RESTRAINT                                              2
+    bound caught
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when years
+PRIMARY:NEED:ORALITY                                             1
+    cafe
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wilder
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    odds
+PRIMARY:SENSATION:HARD                                           1
+    harder
+PRIMARY:SENSATION:VISION                                         1
+    bright
+EMOTIONS:AFFECTION                                               1
+    befriended
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stepped
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+
+PRIMARY             : 58.536585 %
+SECONDARY           : 21.951220 %
+EMOTIONS            : 19.512195 %
+
+187 words total

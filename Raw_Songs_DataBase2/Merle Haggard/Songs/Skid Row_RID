@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ago when old when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long at at
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    low hole bottom
+EMOTIONS:AFFECTION                                               3
+    friend like like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    hangin hangin hangin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money money
+PRIMARY:NEED:ORALITY                                             2
+    corner corner
+EMOTIONS:GLORY                                                   2
+    great great
+SECONDARY:RESTRAINT                                              2
+    stop stop
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:SENSATION:SOUND                                          1
+    rings
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+EMOTIONS:AGGRESSION                                              1
+    fight
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+SECONDARY:ORDER                                                  1
+    class
+SECONDARY:ABSTRACTION                                            1
+    knows
+PRIMARY:SENSATION:VISION                                         1
+    beam
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 42.424242 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 24.242424 %
+
+186 words total

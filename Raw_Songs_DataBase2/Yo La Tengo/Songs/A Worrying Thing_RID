@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever old today today ever
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+SECONDARY:ABSTRACTION                                            3
+    think think think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over far away
+EMOTIONS:ANXIETY                                                 2
+    fear scares
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepless
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 10.000000 %
+
+108 words total

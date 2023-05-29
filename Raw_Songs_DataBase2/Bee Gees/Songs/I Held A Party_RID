@@ -1,0 +1,32 @@
+PRIMARY:NEED:ORALITY                                             3
+    drink drank drink
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    saying suggested speak
+SECONDARY:ABSTRACTION                                            3
+    true decided knew
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep dreaming awake
+EMOTIONS:AFFECTION                                               2
+    friends cordial
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangely
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    poured
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 9.090909 %
+
+79 words total

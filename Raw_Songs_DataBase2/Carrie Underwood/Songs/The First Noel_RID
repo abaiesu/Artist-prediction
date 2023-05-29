@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         5
+    looked saw star shining light
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where east far
+SECONDARY:ABSTRACTION                                            2
+    certain them
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay lay
+PRIMARY:SENSATION:COLD                                           2
+    cold winter
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heavenly heaven
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    bought
+
+PRIMARY             : 69.565217 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 8.695652 %
+
+141 words total

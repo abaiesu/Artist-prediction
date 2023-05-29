@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out long out at open along at out at out long long
+SECONDARY:TEMPORAL REFERENCES                                    7
+    hour hour hour when now when hour
+PRIMARY:SENSATION:VISION                                         7
+    moonlight picture look lampshade look looking sunshine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes makes working working
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head eyes blood hands
+SECONDARY:ABSTRACTION                                            4
+    think cause sure know
+EMOTIONS:AFFECTION                                               3
+    likes like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high heaven
+EMOTIONS:AGGRESSION                                              2
+    broke hits
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told sale
+PRIMARY:SENSATION:SOUND                                          1
+    music
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dances
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+PRIMARY:NEED:ORALITY                                             1
+    lap
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    nap
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+
+PRIMARY             : 55.932203 %
+SECONDARY           : 30.508475 %
+EMOTIONS            : 13.559322 %
+
+247 words total

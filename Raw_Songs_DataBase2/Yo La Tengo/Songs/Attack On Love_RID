@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    years old years old when again today
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    represent says say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+EMOTIONS:AGGRESSION                                              2
+    attack bothers
+PRIMARY:SENSATION:SOUND                                          1
+    music
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:NEED:ORALITY                                             1
+    suck
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+SECONDARY:ABSTRACTION                                            1
+    something
+
+PRIMARY             : 16.666667 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 33.333333 %
+
+118 words total

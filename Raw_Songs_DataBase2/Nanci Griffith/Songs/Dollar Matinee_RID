@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    inside back front out back back at behind outside back
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time when old time when while time old when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    step street aisles step street window step street
+PRIMARY:ICARIAN IMAGERY:FIRE                                     7
+    sun burn smokey sun burn sun burn
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    face hands feet eyes brain body
+PRIMARY:SENSATION:VISION                                         5
+    seen watched scene seen see
+EMOTIONS:POSITIVE AFFECT                                         4
+    laugh delight laugh laugh
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    screen screen screen
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    balcony balcony balcony
+EMOTIONS:AFFECTION                                               3
+    familiar like like
+PRIMARY:SENSATION:SOUND                                          2
+    heard humming
+PRIMARY:SENSATION:ODOR                                           2
+    smelled breathed
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+PRIMARY:SENSATION:SOFT                                           1
+    velvet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+SECONDARY:ABSTRACTION                                            1
+    something
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+
+PRIMARY             : 71.014493 %
+SECONDARY           : 17.391304 %
+EMOTIONS            : 11.594203 %
+
+290 words total

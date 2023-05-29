@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    months during when when then when when time then when
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    talking call tell tell call told talk
+PRIMARY:SENSATION:SOUND                                          6
+    bell ring voice bell ring hearts
+SECONDARY:ABSTRACTION                                            5
+    guess know think know think
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    5
+    deep deep deep deep deep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye body chest
+EMOTIONS:AFFECTION                                               3
+    like love love
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountains wings
+SECONDARY:ORDER                                                  2
+    uniform listen
+PRIMARY:SENSATION:COLD                                           2
+    ice cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm melted
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:SENSATION:TOUCH                                          1
+    contact
+PRIMARY:NEED:ORALITY                                             1
+    lunch
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screams
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dip
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 45.614035 %
+SECONDARY           : 43.859649 %
+EMOTIONS            : 10.526316 %
+
+235 words total

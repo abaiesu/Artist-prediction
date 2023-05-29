@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               7
+    married married love love loved goodbye goodbye
+SECONDARY:TEMPORAL REFERENCES                                    4
+    times times time time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say say
+SECONDARY:RESTRAINT                                              3
+    must must must
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:SENSATION:VISION                                         2
+    see watch
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    aisle
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfy
+PRIMARY:NEED:ORALITY                                             1
+    juice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 32.142857 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 28.571429 %
+
+155 words total

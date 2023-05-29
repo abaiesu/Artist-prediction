@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           10
+    why why plan think why may may why know why
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       9
+    road road road road road road road road road
+SECONDARY:RESTRAINT                                              4
+    stop stop stop stop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand head face
+EMOTIONS:AGGRESSION                                              3
+    gun fight fight
+SECONDARY:MORAL IMPERATIVE                                       3
+    ought right right
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every now
+PRIMARY:SENSATION:SOUND                                          1
+    loud
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:SENSATION:VISION                                         1
+    view
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+SECONDARY:ORDER                                                  1
+    divided
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    message
+
+PRIMARY             : 39.534884 %
+SECONDARY           : 51.162791 %
+EMOTIONS            : 9.302326 %
+
+270 words total

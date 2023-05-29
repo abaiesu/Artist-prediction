@@ -1,0 +1,32 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    cry cry cry cry cry cry cry cry
+SECONDARY:MORAL IMPERATIVE                                       8
+    shoulder shoulder shoulder shoulder shoulder shoulder shoulder shoulder
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell help help call help help
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here out outside here
+SECONDARY:TEMPORAL REFERENCES                                    3
+    sometimes sometimes then
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rise rise
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above above
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+EMOTIONS:AGGRESSION                                              1
+    harsh
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 28.260870 %
+SECONDARY           : 41.304348 %
+EMOTIONS            : 30.434783 %
+
+145 words total

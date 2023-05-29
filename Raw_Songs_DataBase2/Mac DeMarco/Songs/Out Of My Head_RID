@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out over out out out out out out out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    head head head head head head head
+PRIMARY:SENSATION:VISION                                         3
+    see stars looked
+PRIMARY:NEED:ANALITY                                             2
+    pissed mess
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    confess
+PRIMARY:NEED:SEX                                                 1
+    fucking
+
+PRIMARY             : 88.888889 %
+SECONDARY           : 7.407407 %
+EMOTIONS            : 3.703704 %
+
+75 words total

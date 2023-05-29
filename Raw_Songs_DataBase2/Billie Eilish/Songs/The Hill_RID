@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    tonight when now tonight when now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    closed inside where closed inside where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make try trying make try trying
+SECONDARY:ABSTRACTION                                            6
+    know learning know know learning know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please say please say
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hill hill
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistakes mistakes
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning burning
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 4.761905 %
+
+160 words total

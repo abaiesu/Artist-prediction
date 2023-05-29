@@ -1,0 +1,48 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   15
+    sea sea ocean sea sea ocean washed sea sea sea ocean sea ocean sea ocean
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       12
+    lay lay die lay die lay die rest lay die lay die
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           7
+    sail sail sailed sailed sailed sailed sailed
+EMOTIONS:AGGRESSION                                              7
+    fight fight fought fighting fight fight fight
+SECONDARY:MORAL IMPERATIVE                                       7
+    honour honour honour honour honour honour honour
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at off out away over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    deliverance making reach finished pay
+PRIMARY:SENSATION:COLD                                           5
+    cold cold cold cold cold
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time soon ever
+SECONDARY:ABSTRACTION                                            3
+    thoughts knew thought
+PRIMARY:NEED:ORALITY                                             3
+    ale coughed choked
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    guide
+EMOTIONS:GLORY                                                   1
+    wondered
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    port
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+PRIMARY:SENSATION:TASTE                                          1
+    tasted
+PRIMARY:SENSATION:VISION                                         1
+    looked
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+
+PRIMARY             : 65.060241 %
+SECONDARY           : 25.301205 %
+EMOTIONS            : 9.638554 %
+
+419 words total

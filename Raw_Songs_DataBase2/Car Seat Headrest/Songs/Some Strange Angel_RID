@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                               6
+    kindly love love favorite love love
+SECONDARY:ABSTRACTION                                            6
+    thinking thinking know thinking thinking thinking
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when time when when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    carry won won
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door street
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds clouds
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms head
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:RESTRAINT                                              1
+    locked
+PRIMARY:SENSATION:SOFT                                           1
+    feathers
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asking
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+
+PRIMARY             : 41.025641 %
+SECONDARY           : 41.025641 %
+EMOTIONS            : 17.948718 %
+
+180 words total

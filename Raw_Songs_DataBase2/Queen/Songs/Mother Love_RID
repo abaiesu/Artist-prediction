@@ -1,0 +1,46 @@
+EMOTIONS:AFFECTION                                              12
+    love pity love love love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    somewhere long out outside place back inside long back
+SECONDARY:ABSTRACTION                                            4
+    know know think learned
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep sleep dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make works
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heading body
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game cry
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say please
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safe die
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mysterious
+
+PRIMARY             : 51.923077 %
+SECONDARY           : 19.230769 %
+EMOTIONS            : 28.846154 %
+
+251 words total

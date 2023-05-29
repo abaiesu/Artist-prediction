@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        15
+    blues blues shining bright blues shining bright blues blues shining bright blues shining bright blues
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away away here out round out round away
+SECONDARY:ABSTRACTION                                            5
+    sure sure cause sure them
+SECONDARY:TEMPORAL REFERENCES                                    5
+    till when when when then
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+EMOTIONS:AGGRESSION                                              3
+    tornado fight tornado
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow follow tell
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:RESTRAINT                                              2
+    jailhouse jailhouse
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+
+PRIMARY             : 49.056604 %
+SECONDARY           : 33.962264 %
+EMOTIONS            : 16.981132 %
+
+225 words total

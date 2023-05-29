@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                         6
+    blue blues shining bright shining bright
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now clock clock tonight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make won won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here here here where
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell please please
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    prisoner
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:GLORY                                                   1
+    wonderin
+
+PRIMARY             : 38.709677 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 19.354839 %
+
+151 words total

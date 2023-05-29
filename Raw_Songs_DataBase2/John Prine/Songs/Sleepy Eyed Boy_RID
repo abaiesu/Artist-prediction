@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    where where where where where where where out aside where where backroads south back where where
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleepy sleepy sleepy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyed eyed eyed
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once when
+EMOTIONS:SADNESS                                                 2
+    sorrow moan
+EMOTIONS:AFFECTION                                               2
+    love like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell sayin
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pourin rain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+SECONDARY:ABSTRACTION                                            1
+    true
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    coast
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+
+PRIMARY             : 74.358974 %
+SECONDARY           : 12.820513 %
+EMOTIONS            : 12.820513 %
+
+118 words total

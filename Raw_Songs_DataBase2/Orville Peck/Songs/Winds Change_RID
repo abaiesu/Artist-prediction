@@ -1,0 +1,36 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                          16
+    ride ride ride ride ride ride ride ride ride ride ride ride ride ride ride ride
+SECONDARY:ABSTRACTION                                            8
+    know why know knew know why know knew
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please said met call said
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when again older when again
+EMOTIONS:AFFECTION                                               3
+    lover goodbye goodbye
+PRIMARY:SENSATION:VISION                                         3
+    see watch see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    use make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    side side
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:NEED:ORALITY                                             1
+    salt
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lake
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:COLD                                           1
+    colder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 52.941176 %
+SECONDARY           : 39.215686 %
+EMOTIONS            : 7.843137 %
+
+163 words total

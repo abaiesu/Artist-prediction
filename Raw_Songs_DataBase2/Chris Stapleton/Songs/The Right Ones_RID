@@ -1,0 +1,42 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    offer offer say say say say say say say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where out out place apart where at at where where
+SECONDARY:ABSTRACTION                                            9
+    know know know know think know know know know
+SECONDARY:MORAL IMPERATIVE                                       8
+    oughta right oughta right oughta right oughta right
+SECONDARY:TEMPORAL REFERENCES                                    4
+    sometimes sometimes sometime sometime
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    line line line line
+EMOTIONS:ANXIETY                                                 4
+    cares cares cares cares
+SECONDARY:RESTRAINT                                              3
+    cage stops bar
+PRIMARY:SENSATION:HARD                                           2
+    rocks rock
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance played
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance crowd
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throwin
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:AGGRESSION                                              1
+    tore
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:NEED:ORALITY                                             1
+    drinkin
+
+PRIMARY             : 36.923077 %
+SECONDARY           : 52.307692 %
+EMOTIONS            : 10.769231 %
+
+249 words total

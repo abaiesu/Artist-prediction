@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         8
+    see witness looked saw seeing see watch watch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long here situations apart outside at at
+SECONDARY:ABSTRACTION                                            6
+    different knowing learning truth know true
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time everything everything
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hand body
+EMOTIONS:AFFECTION                                               3
+    love love like
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    screen fades
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    assistants say
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep underground
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    hall walls
+EMOTIONS:AGGRESSION                                              1
+    torn
+SECONDARY:RESTRAINT                                              1
+    cage
+EMOTIONS:ANXIETY                                                 1
+    shuddered
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 28.888889 %
+EMOTIONS            : 11.111111 %
+
+203 words total

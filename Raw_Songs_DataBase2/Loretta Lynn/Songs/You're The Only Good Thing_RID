@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            7
+    thinking believe know think think know understand
+EMOTIONS:AFFECTION                                               3
+    like lovers love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever ever
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 20.000000 %
+
+128 words total

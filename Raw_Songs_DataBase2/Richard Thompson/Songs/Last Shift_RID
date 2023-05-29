@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    close back side close back close round close close
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old now now now now old
+EMOTIONS:AGGRESSION                                              3
+    stabbed steal wrecking
+EMOTIONS:AFFECTION                                               2
+    goodbye like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay business
+EMOTIONS:GLORY                                                   2
+    pride golden
+SECONDARY:RESTRAINT                                              2
+    cage catch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies death
+PRIMARY:SENSATION:VISION                                         1
+    lamp
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    damp
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handshake
+PRIMARY:NEED:ORALITY                                             1
+    cooks
+PRIMARY:NEED:SEX                                                 1
+    caress
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    burial
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    coal
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 18.421053 %
+
+149 words total

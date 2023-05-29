@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say say say say teaching teaching say say say teaching
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then when every every when when
+SECONDARY:ABSTRACTION                                            5
+    sure knows think sure sure
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes afford makes makes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out where out out
+EMOTIONS:ANXIETY                                                 3
+    afraid afraid afraid
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+EMOTIONS:AGGRESSION                                              3
+    torn torn torn
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    games played
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 21.739130 %
+SECONDARY           : 54.347826 %
+EMOTIONS            : 23.913043 %
+
+304 words total

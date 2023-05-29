@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back back out long side side side
+EMOTIONS:AFFECTION                                               5
+    goodbye like friend goodbye goodbye
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won found
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor lines floorboard
+SECONDARY:RESTRAINT                                              3
+    bound bound bound
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    guitar guitar guitar
+SECONDARY:ABSTRACTION                                            3
+    may why why
+PRIMARY:SENSATION:VISION                                         2
+    see blue
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway highway
+PRIMARY:SENSATION:SOUND                                          2
+    voices voices
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tellin beckonin
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    roam roam
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunset
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+
+PRIMARY             : 52.272727 %
+SECONDARY           : 29.545455 %
+EMOTIONS            : 18.181818 %
+
+159 words total

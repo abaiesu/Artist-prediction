@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when time every every when once now every every every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    far away far away round far away far away
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+SECONDARY:ABSTRACTION                                            2
+    knew them
+EMOTIONS:POSITIVE AFFECT                                         1
+    excitement
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reaching
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fading
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 48.275862 %
+EMOTIONS            : 6.896552 %
+
+125 words total

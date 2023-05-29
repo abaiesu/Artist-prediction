@@ -1,0 +1,36 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    18
+    sing sing horns sing sing play dance sing sing horns sing sing play dance sing sing play dance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    soldiers soldiers soldiers soldiers won won soldiers soldiers soldiers soldiers won soldiers soldiers won
+SECONDARY:ABSTRACTION                                           10
+    think think true reason think cause reason think cause cause
+PRIMARY:SENSATION:SOUND                                          9
+    hear hearin drum drums sound rumble hear drum drums
+PRIMARY:SENSATION:VISION                                         9
+    see see moonlight look look light look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    along distance near along
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    fantasy wakin sleep
+PRIMARY:SENSATION:COLD                                           3
+    cold winter cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    chance chance chance
+SECONDARY:RESTRAINT                                              3
+    must must must
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    stirrin
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    restless
+SECONDARY:TEMPORAL REFERENCES                                    1
+    tonight
+EMOTIONS:ANXIETY                                                 1
+    dreadful
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 35.802469 %
+EMOTIONS            : 23.456790 %
+
+302 words total

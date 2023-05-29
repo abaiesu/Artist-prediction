@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    place inside out out out circles circles
+EMOTIONS:AFFECTION                                               6
+    favorite like like favorite like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    traded win record make record record
+EMOTIONS:AGGRESSION                                              6
+    hurt broken hit beat hit beat
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now till again time
+PRIMARY:SENSATION:TASTE                                          3
+    sweet taste sour
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play games
+PRIMARY:SENSATION:SOUND                                          2
+    musical hear
+SECONDARY:ABSTRACTION                                            2
+    think figure
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    mystery magic
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drop drop
+PRIMARY:SENSATION:TOUCH                                          2
+    scratch itch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:VISION                                         1
+    watch
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 24.000000 %
+EMOTIONS            : 28.000000 %
+
+217 words total

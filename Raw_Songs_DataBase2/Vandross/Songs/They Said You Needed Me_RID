@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    talkin said said admit said say say telling said talk said talkin said said admit said
+SECONDARY:ABSTRACTION                                           12
+    knew think think something guess them know fact decide think think something
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everyone every time time then everyone
+EMOTIONS:AFFECTION                                               5
+    goodbye like friends friends friends
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long over where longer
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:SADNESS                                                 1
+    suffer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 12.500000 %
+
+251 words total

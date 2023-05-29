@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    open away back behind at aside out here
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now again time time time everybody sometimes
+SECONDARY:ABSTRACTION                                            5
+    real reality truth think think
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes head body face eye
+PRIMARY:SENSATION:VISION                                         5
+    look see see lightning see
+EMOTIONS:AFFECTION                                               4
+    sympathy goodbye loves love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead die die
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make carry carry
+EMOTIONS:AGGRESSION                                              2
+    killed gun
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fantasy
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    thrown
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:COLD                                           1
+    shivers
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spine
+EMOTIONS:ANXIETY                                                 1
+    frightening
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:NEED:ORALITY                                             1
+    spit
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 52.727273 %
+SECONDARY           : 32.727273 %
+EMOTIONS            : 14.545455 %
+
+394 words total

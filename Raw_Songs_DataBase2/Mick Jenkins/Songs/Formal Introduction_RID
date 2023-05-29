@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                         6
+    witness see picture see green brownies
+EMOTIONS:AFFECTION                                               5
+    like welcome like like like
+SECONDARY:ABSTRACTION                                            5
+    real plan know cause them
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    south southwest closest straight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pursuit won success
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell talkin
+EMOTIONS:AGGRESSION                                              3
+    fightin hate struggle
+EMOTIONS:POSITIVE AFFECT                                         2
+    happyness grind
+PRIMARY:SENSATION:SOFT                                           1
+    gentlement
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lows
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:SENSATION:COLD                                           1
+    chillin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+PRIMARY:NEED:ORALITY                                             1
+    cake
+
+PRIMARY             : 46.511628 %
+SECONDARY           : 25.581395 %
+EMOTIONS            : 27.906977 %
+
+179 words total

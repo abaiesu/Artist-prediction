@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when again then sometimes sometimes sometimes then when again sometimes
+PRIMARY:SENSATION:VISION                                         6
+    sunshines brightest looks sunshines brightest looks
+SECONDARY:ABSTRACTION                                            6
+    believe meant why knowing know believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    win win win win
+EMOTIONS:AFFECTION                                               4
+    love dear friend like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at longer where
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds clouds
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 9.090909 %
+
+125 words total

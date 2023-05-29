@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    far surface out long inside open wide forward long surface out long inside open wide inside far away
+SECONDARY:TEMPORAL REFERENCES                                    6
+    daily every time time every time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    sky hunger growing grown
+SECONDARY:ABSTRACTION                                            2
+    meant meant
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    beneath beneath
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    accept helpless
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    vista
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:COLD                                           1
+    froze
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:SENSATION:VISION                                         1
+    watching
+
+PRIMARY             : 70.731707 %
+SECONDARY           : 24.390244 %
+EMOTIONS            : 4.878049 %
+
+174 words total

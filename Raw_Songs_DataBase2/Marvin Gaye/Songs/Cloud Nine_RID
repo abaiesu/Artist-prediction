@@ -1,0 +1,44 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                       20
+    cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    treated tell say tell responsibility say say say responsibility
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    beside here here where at away here away
+SECONDARY:ABSTRACTION                                            7
+    somethin know reality reality reality reality reality
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time now every every every
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    higher high bird higher
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    ease lie safe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work job find
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:SENSATION:COLD                                           2
+    childhood children
+PRIMARY:SENSATION:HARD                                           2
+    hardly hard
+PRIMARY:NEED:ORALITY                                             2
+    food eat
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:ANXIETY                                                 1
+    troubled
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+
+PRIMARY             : 59.740260 %
+SECONDARY           : 35.064935 %
+EMOTIONS            : 5.194805 %
+
+340 words total

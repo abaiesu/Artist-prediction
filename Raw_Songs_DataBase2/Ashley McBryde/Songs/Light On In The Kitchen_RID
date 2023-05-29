@@ -1,0 +1,48 @@
+PRIMARY:NEED:ORALITY                                             7
+    honey honey honey fat honey honey honey
+EMOTIONS:AFFECTION                                               6
+    like love love friends love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back farther at back place
+SECONDARY:ABSTRACTION                                            5
+    cause why cause why somethin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find make make find
+PRIMARY:SENSATION:VISION                                         4
+    light color light light
+PRIMARY:SENSATION:HARD                                           3
+    glass hard hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay bed
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:ORDER                                                  2
+    listen listen
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skinny
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:NEED:SEX                                                 1
+    bitchin
+
+PRIMARY             : 59.615385 %
+SECONDARY           : 26.923077 %
+EMOTIONS            : 13.461538 %
+
+248 words total

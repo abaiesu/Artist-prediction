@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    years years pastor quickly now now now past
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over across place place
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work pick pick
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    thankful said
+EMOTIONS:SADNESS                                                 2
+    suffering suffering
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:ABSTRACTION                                            2
+    them them
+SECONDARY:ORDER                                                  2
+    order order
+EMOTIONS:AGGRESSION                                              1
+    hurting
+
+PRIMARY             : 13.333333 %
+SECONDARY           : 70.000000 %
+EMOTIONS            : 16.666667 %
+
+126 words total

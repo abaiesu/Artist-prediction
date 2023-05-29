@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              16
+    darlin love love love love love love darlin love love darlin love love love darlin love
+SECONDARY:ABSTRACTION                                            5
+    true know true know know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say call tell say
+PRIMARY:SENSATION:SOUND                                          3
+    hear heart heart
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once now
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 17.142857 %
+SECONDARY           : 37.142857 %
+EMOTIONS            : 45.714286 %
+
+152 words total

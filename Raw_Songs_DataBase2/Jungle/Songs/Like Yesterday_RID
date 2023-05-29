@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    already yesterday already yesterday when again when now yesterday already yesterday
+PRIMARY:SENSATION:VISION                                         6
+    looking looking see looking looking see
+EMOTIONS:AFFECTION                                               6
+    love love like friends love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used makes used make
+SECONDARY:ABSTRACTION                                            3
+    know think know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside back inside
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    brain brain
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    messages
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+PRIMARY:SENSATION:SOUND                                          1
+    chord
+SECONDARY:RESTRAINT                                              1
+    punishment
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 32.500000 %
+SECONDARY           : 52.500000 %
+EMOTIONS            : 15.000000 %
+
+172 words total

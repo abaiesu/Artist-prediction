@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back out over over behind over over behind behind
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    vapour misted vapour misted vapour mist
+SECONDARY:TEMPORAL REFERENCES                                    6
+    while every when older now while
+PRIMARY:SENSATION:VISION                                         5
+    shimmering visions visions visions visions
+PRIMARY:SENSATION:SOUND                                          5
+    heard noise voices voices voices
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    wash wash wash wash
+SECONDARY:ABSTRACTION                                            3
+    guess thought true
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rising rising
+EMOTIONS:AFFECTION                                               2
+    patterns patterns
+SECONDARY:ORDER                                                  2
+    listened constantly
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:HARD                                           1
+    splinters
+
+PRIMARY             : 70.833333 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 4.166667 %
+
+174 words total

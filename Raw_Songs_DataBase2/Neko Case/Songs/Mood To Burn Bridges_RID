@@ -1,0 +1,48 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    thank advice suggest advice suggest advice suggest
+SECONDARY:ABSTRACTION                                            6
+    cause truth cause something think cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away away away beside behind
+SECONDARY:MORAL IMPERATIVE                                       4
+    moral moral moral right
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now every ever
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burn burn burn
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    bridges bridges bridges
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    dig dig dig
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    ditches ditches ditches
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    business make
+PRIMARY:SENSATION:VISION                                         2
+    looking see
+EMOTIONS:AGGRESSION                                              2
+    break arrows
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hear
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    ladders tall
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+PRIMARY:SENSATION:TASTE                                          1
+    savor
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:NEED:ORALITY                                             1
+    poison
+PRIMARY:NEED:ANALITY                                             1
+    stall
+
+PRIMARY             : 51.851852 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 7.407407 %
+
+233 words total

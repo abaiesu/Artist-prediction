@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out out out where inside out out out out
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again again now again again time
+PRIMARY:NEED:ORALITY                                             3
+    feed drink suck
+PRIMARY:NEED:ANALITY                                             2
+    filth soil
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    damp
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:AGGRESSION                                              1
+    kill
+
+PRIMARY             : 70.370370 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 3.703704 %
+
+89 words total

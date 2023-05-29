@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                              17
+    love love love love love love friend love love like love love love love love love friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    makes spend try make found make make make try make found make
+SECONDARY:ABSTRACTION                                           10
+    believe thinking know know learned true know know know know
+SECONDARY:TEMPORAL REFERENCES                                    8
+    sometimes sometimes everything then time time time time
+PRIMARY:SENSATION:SOUND                                          4
+    heart heard hearts heart
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    saying talking tell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancing games played
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die die die
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along away
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile enjoying
+EMOTIONS:AGGRESSION                                              2
+    broke fight
+PRIMARY:SENSATION:VISION                                         1
+    watching
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:ODOR                                           1
+    perfume
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:RESTRAINT                                              1
+    control
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    higher
+
+PRIMARY             : 22.368421 %
+SECONDARY           : 46.052632 %
+EMOTIONS            : 31.578947 %
+
+407 words total

@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    year then then
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    between between
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please said
+SECONDARY:ABSTRACTION                                            1
+    something
+PRIMARY:NEED:ORALITY                                             1
+    eat
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    leanest
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 0.000000 %
+
+139 words total

@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    surface inside out space here out away behind where behind where
+SECONDARY:ABSTRACTION                                            6
+    learned truth know know truth know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    reach assembled find find used
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lies lies rest rest
+SECONDARY:TEMPORAL REFERENCES                                    4
+    once sometimes time sometimes
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard heard
+PRIMARY:SENSATION:VISION                                         2
+    light looked
+PRIMARY:SENSATION:COLD                                           2
+    froze ice
+EMOTIONS:AFFECTION                                               2
+    kind kind
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ship sails
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edges
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallen
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 34.000000 %
+EMOTIONS            : 6.000000 %
+
+205 words total

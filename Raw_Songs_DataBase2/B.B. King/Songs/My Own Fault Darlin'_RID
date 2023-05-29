@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when time every when time when time
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    treat treat treat said said treat
+EMOTIONS:AFFECTION                                               6
+    loving love loving love loving love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at out at over at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used make pay make
+SECONDARY:ABSTRACTION                                            2
+    them know
+PRIMARY:SENSATION:VISION                                         2
+    look see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hillside
+
+PRIMARY             : 24.242424 %
+SECONDARY           : 57.575758 %
+EMOTIONS            : 18.181818 %
+
+164 words total

@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              25
+    love love love love love love love love love love love love love love love love love love love love love love love love love
+SECONDARY:ABSTRACTION                                           18
+    know think know know knowin truth know know know know thought true think cause cause know know know
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    say talk talk say talk talk say say talk talk say
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when now now when ever when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at at here here here here
+SECONDARY:ORDER                                                  4
+    listen class listen listen
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+EMOTIONS:ANXIETY                                                 3
+    afraid afraid afraid
+PRIMARY:SENSATION:VISION                                         2
+    lookin lookin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+PRIMARY:SENSATION:HARD                                           2
+    glass stone
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:SOUND                                          1
+    aloud
+
+PRIMARY             : 14.117647 %
+SECONDARY           : 50.588235 %
+EMOTIONS            : 35.294118 %
+
+340 words total

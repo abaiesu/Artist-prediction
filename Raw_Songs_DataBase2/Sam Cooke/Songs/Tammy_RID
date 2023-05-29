@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               7
+    love love darling love love like love
+SECONDARY:ABSTRACTION                                            6
+    think knew knew know knew knew
+PRIMARY:SENSATION:SOUND                                          3
+    hear heart hear
+PRIMARY:SENSATION:SOFT                                           3
+    whispering murmuring soft
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old when when
+EMOTIONS:AGGRESSION                                              3
+    beats whippoorwill whippoorwill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near long
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreaming dreaming
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm warm
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing violin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:POSITIVE AFFECT                                         1
+    joyfully
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 23.684211 %
+EMOTIONS            : 34.210526 %
+
+137 words total

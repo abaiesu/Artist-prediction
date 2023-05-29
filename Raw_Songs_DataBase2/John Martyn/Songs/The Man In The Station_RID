@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face head face face face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    apart circle off out apart
+SECONDARY:RESTRAINT                                              4
+    catching catching catching catching
+EMOTIONS:AFFECTION                                               3
+    love loving love
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dying dying lazy
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+EMOTIONS:AGGRESSION                                              2
+    breaking breaking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asking
+SECONDARY:ABSTRACTION                                            1
+    why
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+
+PRIMARY             : 62.857143 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 17.142857 %
+
+243 words total

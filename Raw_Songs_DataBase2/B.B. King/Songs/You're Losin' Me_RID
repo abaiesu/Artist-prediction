@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                           17
+    think think know know think understand think understand know why why think think think understand think understand
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    said say said say treat tell treat say treat say
+SECONDARY:TEMPORAL REFERENCES                                    9
+    then then already now already now now now now
+EMOTIONS:ANXIETY                                                 4
+    worry worry worry worry
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 6.000000 %
+SECONDARY           : 76.000000 %
+EMOTIONS            : 18.000000 %
+
+303 words total

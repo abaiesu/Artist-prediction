@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        10
+    blues blues blues blues blues views blues blues blues blues
+SECONDARY:ABSTRACTION                                            6
+    cause understand think know truth know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while week week when now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    speak talking say call talking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over across place
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won try use
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+EMOTIONS:AGGRESSION                                              2
+    war shoot
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tour
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 39.534884 %
+SECONDARY           : 46.511628 %
+EMOTIONS            : 13.953488 %
+
+216 words total

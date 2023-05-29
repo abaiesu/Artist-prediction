@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out long long
+EMOTIONS:AFFECTION                                               3
+    love loving love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    months soon
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:SENSATION:VISION                                         1
+    notice
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:ABSTRACTION                                            1
+    why
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 28.571429 %
+
+99 words total

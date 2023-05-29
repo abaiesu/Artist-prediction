@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    again again everyone now now then old
+SECONDARY:MORAL IMPERATIVE                                       4
+    law law justice unjust
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart hearts
+EMOTIONS:AFFECTION                                               3
+    loving embracing friends
+EMOTIONS:AGGRESSION                                              2
+    sword doubt
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling smile
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    opening across
+SECONDARY:ABSTRACTION                                            2
+    true understood
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body eyes
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    accept visit
+EMOTIONS:SADNESS                                                 1
+    disappoint
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    untold
+EMOTIONS:GLORY                                                   1
+    conquered
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 29.729730 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 29.729730 %
+
+116 words total

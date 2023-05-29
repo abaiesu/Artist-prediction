@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              10
+    love love like lovely love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    tonight time when time when when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    buy find reach try try buy found
+SECONDARY:ABSTRACTION                                            5
+    judge think learn know know
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    asleep dreaming awake
+EMOTIONS:SADNESS                                                 2
+    loneliness sad
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    admit
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+EMOTIONS:AGGRESSION                                              1
+    jealousy
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+
+PRIMARY             : 26.086957 %
+SECONDARY           : 45.652174 %
+EMOTIONS            : 28.260870 %
+
+213 words total

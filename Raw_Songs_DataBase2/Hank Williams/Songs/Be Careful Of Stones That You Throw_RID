@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say talks speak said
+PRIMARY:SENSATION:COLD                                           4
+    child chill child child
+EMOTIONS:AGGRESSION                                              3
+    accuse crushed broken
+SECONDARY:ABSTRACTION                                            3
+    knew knows thought
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away midst out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street path street
+PRIMARY:NEED:ORALITY                                             2
+    tongue drinks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carry sow
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time then
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+PRIMARY:SENSATION:SOUND                                          2
+    heard sound
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screamin cried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood body
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:RESTRAINT                                              1
+    stopped
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 15.000000 %
+
+172 words total

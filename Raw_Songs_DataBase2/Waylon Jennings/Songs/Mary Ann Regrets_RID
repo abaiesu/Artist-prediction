@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   21
+    date hours then today again week till then weeks then again again week till then today today again week till then
+EMOTIONS:AFFECTION                                              16
+    loves goodbye love goodbye loves goodbye love goodbye loved loves goodbye love goodbye goodbye love goodbye
+SECONDARY:ABSTRACTION                                           11
+    know plans true know plans true know know plans true true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    inside at far away places over over away
+PRIMARY:SENSATION:TASTE                                          5
+    sweetheart sweet sweet sweet sweet
+PRIMARY:SENSATION:VISION                                         4
+    see see seen see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money buy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    restlessly died
+PRIMARY:SENSATION:SOUND                                          2
+    heard ring
+EMOTIONS:AGGRESSION                                              1
+    broke
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    message
+PRIMARY:NEED:ORALITY                                             1
+    eat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 44.871795 %
+EMOTIONS            : 24.358974 %
+
+289 words total

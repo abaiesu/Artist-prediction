@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now now while time time now till while time time now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    closer at somewhere at out ahead at somewhere at out
+SECONDARY:ABSTRACTION                                            4
+    know why something something
+EMOTIONS:AFFECTION                                               4
+    like like like like
+SECONDARY:RESTRAINT                                              4
+    catch stop catch stop
+PRIMARY:SENSATION:VISION                                         3
+    look watch watch
+PRIMARY:SENSATION:HARD                                           3
+    hard rocket rocket
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head eyes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hang hanging
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    waterfall waterfall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn burn
+EMOTIONS:AGGRESSION                                              2
+    fight fight
+SECONDARY:MORAL IMPERATIVE                                       1
+    honor
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 47.272727 %
+SECONDARY           : 41.818182 %
+EMOTIONS            : 10.909091 %
+
+222 words total

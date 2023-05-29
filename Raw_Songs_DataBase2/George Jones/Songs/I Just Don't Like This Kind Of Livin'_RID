@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              12
+    like kind lovin like kind like kind like like love like kind
+SECONDARY:TEMPORAL REFERENCES                                    6
+    yearn when when older once now
+SECONDARY:ABSTRACTION                                            6
+    why think cause knowin why cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where here off long long off
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell say told tell treatin
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right shoulder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pay pay pick
+PRIMARY:SENSATION:TOUCH                                          2
+    smooth smooth
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+PRIMARY:SENSATION:HARD                                           1
+    rocky
+PRIMARY:SENSATION:VISION                                         1
+    rough
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    traveled
+
+PRIMARY             : 29.411765 %
+SECONDARY           : 45.098039 %
+EMOTIONS            : 25.490196 %
+
+229 words total

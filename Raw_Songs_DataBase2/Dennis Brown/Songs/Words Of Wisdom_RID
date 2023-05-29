@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    old now now now time when now now now old now now now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    sayings speak tell speak tell tell speak tell said sayings speak tell follow said
+PRIMARY:NEED:ORALITY                                             9
+    mouth mouth dinner herbs feasting mouth mouth mouth mouth
+SECONDARY:ABSTRACTION                                            8
+    knowledge surely surely why surely surely knowledge surely
+SECONDARY:MORAL IMPERATIVE                                       7
+    righteousness righteousness upright righteous righteousness righteousness righteousness
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    open where where open
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing cry sing cry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands hands footsteps
+PRIMARY:SENSATION:COLD                                           2
+    children children
+EMOTIONS:AGGRESSION                                              2
+    wrath rage
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    sorrowful
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 25.675676 %
+SECONDARY           : 62.162162 %
+EMOTIONS            : 12.162162 %
+
+338 words total

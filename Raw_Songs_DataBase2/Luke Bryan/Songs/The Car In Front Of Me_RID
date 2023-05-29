@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    behind front front at straight front front backseat long along front front
+SECONDARY:ABSTRACTION                                            4
+    know thought believed meant
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    carrying work carrying carrying
+EMOTIONS:AFFECTION                                               4
+    loved loves loved loved
+PRIMARY:SENSATION:TASTE                                          3
+    sweetest sweetest sweetest
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dream dream
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window line road
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands eyes headlights
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet said
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waved
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:NEED:ORALITY                                             1
+    lips
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sang
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+SECONDARY:RESTRAINT                                              1
+    stopped
+
+PRIMARY             : 63.461538 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 11.538462 %
+
+224 words total

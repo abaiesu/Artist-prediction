@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    every time when when hour when now when hour
+SECONDARY:ABSTRACTION                                            7
+    know something know cause something know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make won make reach won make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out separated far out
+PRIMARY:NEED:ORALITY                                             4
+    lips lips lips lips
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    restless bed restless bed
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    bathroom ocean
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:VISION                                         1
+    lights
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+
+PRIMARY             : 46.938776 %
+SECONDARY           : 51.020408 %
+EMOTIONS            : 2.040816 %
+
+365 words total

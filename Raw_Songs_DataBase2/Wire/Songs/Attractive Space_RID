@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    flat surface across space
+SECONDARY:ABSTRACTION                                            2
+    consequences plane
+EMOTIONS:AGGRESSION                                              2
+    weapons break
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet neck
+PRIMARY:SENSATION:HARD                                           1
+    glasses
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sharpen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trade
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endure
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+SECONDARY:TEMPORAL REFERENCES                                    1
+    often
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    trance
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:AFFECTION                                               1
+    attractive
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 61.904762 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 14.285714 %
+
+84 words total

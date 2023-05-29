@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    off place off off off off off off off off off off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    make make make make won try won try won try
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    help talking follow talking talking talking talking talking talking
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when everything now now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    haze
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizon
+SECONDARY:ABSTRACTION                                            1
+    plan
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    toe
+EMOTIONS:AGGRESSION                                              1
+    break
+
+PRIMARY             : 36.585366 %
+SECONDARY           : 60.975610 %
+EMOTIONS            : 2.439024 %
+
+304 words total

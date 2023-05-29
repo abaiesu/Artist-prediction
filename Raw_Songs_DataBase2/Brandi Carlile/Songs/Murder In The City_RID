@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               8
+    love love darling loved like love like love
+SECONDARY:ABSTRACTION                                            7
+    think certainly different sure knows sure knows
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say say sharing share sharing share
+EMOTIONS:AGGRESSION                                              4
+    murdered revenging murdered bother
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    belongings pay make make
+EMOTIONS:GLORY                                                   3
+    wondered wondered proud
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away over
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms eyes
+EMOTIONS:ANXIETY                                                 2
+    alarmed trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+SECONDARY:RESTRAINT                                              1
+    locked
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+SECONDARY:ORDER                                                  1
+    list
+
+PRIMARY             : 15.909091 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 38.636364 %
+
+195 words total

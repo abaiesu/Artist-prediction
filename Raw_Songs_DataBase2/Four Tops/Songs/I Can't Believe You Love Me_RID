@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              33
+    love love love love like like like love love love love like like like love love love love like like love love love love like like loving love love love love like like
+SECONDARY:ABSTRACTION                                           23
+    believe believe believe believe believe believe believe believe believe believe believe believe believe believe believe believe believe know otherwise believe believe believe believe
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say speak say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used makes pay
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty attention
+SECONDARY:TEMPORAL REFERENCES                                    3
+    whenever when again
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:SENSATION:TASTE                                          2
+    sweetest sweetest
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:SOUND                                          1
+    tone
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+
+PRIMARY             : 12.820513 %
+SECONDARY           : 43.589744 %
+EMOTIONS            : 43.589744 %
+
+312 words total

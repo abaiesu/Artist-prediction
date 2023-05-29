@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            7
+    think think thought them knows think think
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when when now when
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    saying treats treated treats treated
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+EMOTIONS:AFFECTION                                               4
+    friend like like like
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+EMOTIONS:AGGRESSION                                              1
+    bother
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    off
+SECONDARY:RESTRAINT                                              1
+    bind
+
+PRIMARY             : 21.875000 %
+SECONDARY           : 56.250000 %
+EMOTIONS            : 21.875000 %
+
+150 words total

@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    southern between out outside along back along side along along
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hair knees hair knees eyes
+EMOTIONS:AFFECTION                                               4
+    like like like love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    saying say please saying
+PRIMARY:SENSATION:HARD                                           3
+    nails hard hard
+PRIMARY:SENSATION:TASTE                                          3
+    tangled tangled sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make tried
+EMOTIONS:AGGRESSION                                              2
+    killjoy destroy
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:SOUND                                          1
+    belle
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:SENSATION:SOFT                                           1
+    softer
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 68.888889 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 13.333333 %
+
+228 words total

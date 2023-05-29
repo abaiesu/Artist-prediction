@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                              3
+    break blame kill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    within over over
+SECONDARY:ORDER                                                  2
+    forming forming
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:NEED:ORALITY                                             2
+    eat nurture
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speak speak
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    lunacy lunacy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+SECONDARY:ABSTRACTION                                            1
+    truth
+PRIMARY:SENSATION:COLD                                           1
+    childhood
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 23.809524 %
+
+59 words total

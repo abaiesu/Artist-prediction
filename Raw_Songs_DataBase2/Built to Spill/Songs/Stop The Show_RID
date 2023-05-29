@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           10
+    think think know know know know know know know knew
+SECONDARY:TEMPORAL REFERENCES                                    6
+    already everywhere then while when while
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell offering advice
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile laugh
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:NEED:ORALITY                                             1
+    suck
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:AGGRESSION                                              1
+    hurts
+
+PRIMARY             : 13.793103 %
+SECONDARY           : 68.965517 %
+EMOTIONS            : 17.241379 %
+
+136 words total

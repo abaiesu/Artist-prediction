@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           10
+    real real think think thought thought differently thought thinking thought
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time while when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dies bed dies
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    stepfather stepdad
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    front
+PRIMARY:SENSATION:VISION                                         1
+    looks
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:AGGRESSION                                              1
+    hates
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    waking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 56.250000 %
+EMOTIONS            : 6.250000 %
+
+219 words total

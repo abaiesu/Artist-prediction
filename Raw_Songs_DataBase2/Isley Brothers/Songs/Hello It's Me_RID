@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                           18
+    thought think something something think important know cause think think know reason think important know cause reason think
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time sometimes once while ever once while ever
+PRIMARY:SENSATION:VISION                                         5
+    seeing seeing seeing see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long long here long
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make spend make spend
+SECONDARY:MORAL IMPERATIVE                                       3
+    shouldn should should
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    granted granted help
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 20.833333 %
+SECONDARY           : 75.000000 %
+EMOTIONS            : 4.166667 %
+
+264 words total

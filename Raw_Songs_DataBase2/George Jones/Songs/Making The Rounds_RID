@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    rounds away rounds rounds place closed at rounds place closed at rounds
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    making making making making making
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now till when till when
+EMOTIONS:POSITIVE AFFECT                                         4
+    fun gay laugh laugh
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    remind remind
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:VISION                                         1
+    bright
+
+PRIMARY             : 45.454545 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 18.181818 %
+
+159 words total

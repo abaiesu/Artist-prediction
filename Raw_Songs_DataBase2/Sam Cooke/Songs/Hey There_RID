@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at out out out out out out
+PRIMARY:SENSATION:SOUND                                          6
+    hear ear ear hear ear ear
+EMOTIONS:AFFECTION                                               5
+    love like love like love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used won won won won
+PRIMARY:SENSATION:VISION                                         3
+    stars seeing seeing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hand hand
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flying throw
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    advice advice
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+EMOTIONS:AGGRESSION                                              1
+    break
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 20.512821 %
+EMOTIONS            : 17.948718 %
+
+175 words total

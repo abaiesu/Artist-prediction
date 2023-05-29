@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out away back out away out out away
+SECONDARY:ABSTRACTION                                            8
+    know something something something believe something something something
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    beautiful beautiful beautiful beautiful beautiful beautiful
+EMOTIONS:AGGRESSION                                              5
+    break broke broke kickin breaks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found won find found
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every every old ever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet hands
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 47.727273 %
+SECONDARY           : 40.909091 %
+EMOTIONS            : 11.363636 %
+
+162 words total

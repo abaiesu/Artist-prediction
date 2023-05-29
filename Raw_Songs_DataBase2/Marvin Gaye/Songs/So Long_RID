@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    over here away long long out out long long over place long long long long
+SECONDARY:ABSTRACTION                                            6
+    thinking why true know know cause
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everywhere now when now now time
+PRIMARY:NEED:ORALITY                                             6
+    honey honey honey honey honey honey
+EMOTIONS:AFFECTION                                               4
+    love loving love like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye face eyes
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searching searching
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try tried
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say treat
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfaction
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drifting
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:AGGRESSION                                              1
+    hurt
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+
+PRIMARY             : 59.649123 %
+SECONDARY           : 28.070175 %
+EMOTIONS            : 12.280702 %
+
+232 words total

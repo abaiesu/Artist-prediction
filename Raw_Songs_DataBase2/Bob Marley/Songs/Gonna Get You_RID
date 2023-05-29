@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    say say say says said please say say say tell say say say say
+PRIMARY:SENSATION:SOUND                                         11
+    hear hear hear heart hear hear hear hear hear hear hear
+SECONDARY:TEMPORAL REFERENCES                                   11
+    ever time now now now every minute every minute every minute
+SECONDARY:ABSTRACTION                                            5
+    know think sure understand cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long away where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won trying
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:AFFECTION                                               1
+    loving
+EMOTIONS:AGGRESSION                                              1
+    fighting
+SECONDARY:ORDER                                                  1
+    simply
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 32.075472 %
+SECONDARY           : 64.150943 %
+EMOTIONS            : 3.773585 %
+
+290 words total

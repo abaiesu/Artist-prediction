@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back back back straight place back back long straight
+SECONDARY:RESTRAINT                                              9
+    stop stop stop stop stop stop stop stop stop
+SECONDARY:ABSTRACTION                                            7
+    think think know real knew cause know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now times till when now when
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right honestly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sight shout scream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face feet eye
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    hole deep hole
+EMOTIONS:AGGRESSION                                              2
+    fought fight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly climb
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    dug dig
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    admit say
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 41.269841 %
+SECONDARY           : 47.619048 %
+EMOTIONS            : 11.111111 %
+
+292 words total

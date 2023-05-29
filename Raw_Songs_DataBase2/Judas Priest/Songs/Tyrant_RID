@@ -1,0 +1,44 @@
+EMOTIONS:AGGRESSION                                             22
+    tyrant tyrant tyrant destructor tyrant tyrant tyrant tyrant destructor tyrant tyrant tyrant tyrant tyrant destructor tyrant tyrant tyrant tyrant tyrant destructor tyrant
+SECONDARY:RESTRAINT                                              9
+    controls resist capture capture bound capture bound summon capture
+EMOTIONS:ANXIETY                                                 6
+    cower fear fear dread fear dread
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every every whilst every every
+EMOTIONS:GLORY                                                   4
+    conqueror conqueror conqueror conqueror
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fall fall fall
+EMOTIONS:SADNESS                                                 4
+    mourn moans suffer mourn
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call follow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    within near
+PRIMARY:SENSATION:SOUND                                          2
+    snap belly
+PRIMARY:NEED:ORALITY                                             2
+    choked choked
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death perish
+PRIMARY:SENSATION:VISION                                         1
+    behold
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spineless
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:AFFECTION                                               1
+    sympathy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+
+PRIMARY             : 21.126761 %
+SECONDARY           : 25.352113 %
+EMOTIONS            : 53.521127 %
+
+210 words total

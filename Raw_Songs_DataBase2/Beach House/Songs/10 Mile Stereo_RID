@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    far far far far far far here long long far far here long long here long long
+PRIMARY:SENSATION:HARD                                           8
+    stone stone stone stone stone stone stone stone
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    hand legs feet legs feet limbs limbs limbs
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say say say said say say
+SECONDARY:ABSTRACTION                                            6
+    know know know know know cause
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    throw throw throw throw throw
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heard heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    edge horizon edge horizon
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fell fell fell
+SECONDARY:TEMPORAL REFERENCES                                    3
+    moment time moment
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    carry carry carries
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:VISION                                         1
+    saw
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 27.500000 %
+EMOTIONS            : 3.750000 %
+
+285 words total

@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       23
+    confide admit accepted spoken speak talk conversation accepted speak talk talk talk talk talk talk please please please tell talk talk talk talk
+EMOTIONS:AGGRESSION                                              8
+    battle gun hate hate broken threaten threaten angry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    work won reach reach try
+PRIMARY:SENSATION:SOUND                                          4
+    ring bell ring heart
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when minute already
+PRIMARY:SENSATION:SOFT                                           3
+    gentle gentle gentle
+PRIMARY:NEED:ORALITY                                             3
+    tongue swallow tongue
+SECONDARY:ABSTRACTION                                            2
+    think know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    somewhere between
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:ORDER                                                  1
+    divide
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 24.137931 %
+SECONDARY           : 58.620690 %
+EMOTIONS            : 17.241379 %
+
+255 words total

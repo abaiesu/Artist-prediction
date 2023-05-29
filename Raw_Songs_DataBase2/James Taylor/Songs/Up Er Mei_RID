@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    place far where along place far where
+PRIMARY:SENSATION:VISION                                         3
+    notice looking looking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reach gain goal
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told told
+SECONDARY:ABSTRACTION                                            2
+    guessed guessed
+SECONDARY:TEMPORAL REFERENCES                                    2
+    already already
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    solace
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumble
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 3.703704 %
+
+140 words total

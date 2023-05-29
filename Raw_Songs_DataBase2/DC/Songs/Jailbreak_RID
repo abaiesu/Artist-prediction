@@ -1,0 +1,42 @@
+SECONDARY:RESTRAINT                                             18
+    jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak jailbreak
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here out towards here where out out here out back
+EMOTIONS:AGGRESSION                                              5
+    murder breakin breakin gun break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found spending make make
+SECONDARY:TEMPORAL REFERENCES                                    3
+    years years everywhere
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    heading hand body
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+PRIMARY:SENSATION:VISION                                         2
+    looking seen
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly flying
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:ABSTRACTION                                            1
+    judge
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:SENSATION:SOUND                                          1
+    heartbeats
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasin
+
+PRIMARY             : 39.655172 %
+SECONDARY           : 48.275862 %
+EMOTIONS            : 12.068966 %
+
+225 words total

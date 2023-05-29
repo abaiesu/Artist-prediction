@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              16
+    goodbye like like kind loving like like friend like love like like friend friend like friend
+PRIMARY:SENSATION:SOUND                                         15
+    heart rhythm heart rhythm rhythm heart rhythm rhythm heart rhythm rhythm rhythm rhythm heart rhythm
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           10
+    mad crazy mad crazy mad crazy dream wake mad crazy
+SECONDARY:MORAL IMPERATIVE                                      10
+    right right right right right right right right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make make make make make make make make make
+EMOTIONS:AGGRESSION                                              7
+    attack attack attack hit hit hit attack
+PRIMARY:SENSATION:TOUCH                                          6
+    touching touch touch touches touched touched
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every every time then then
+SECONDARY:ABSTRACTION                                            5
+    true true true know true
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    saying say talk
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    closer where here
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest slowly
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling happy
+PRIMARY:SENSATION:VISION                                         2
+    light see
+EMOTIONS:ANXIETY                                                 2
+    nervous tremble
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 33.000000 %
+EMOTIONS            : 27.000000 %
+
+476 words total

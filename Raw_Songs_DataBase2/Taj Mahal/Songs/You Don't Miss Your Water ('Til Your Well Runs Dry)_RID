@@ -1,0 +1,24 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   18
+    water water water water water water water water water water water water water water water water water water
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now time when ever ever now
+SECONDARY:ABSTRACTION                                            6
+    knew true know know thought know
+EMOTIONS:AFFECTION                                               3
+    loved darling goodbye
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cried playboy cried
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said tell tell
+PRIMARY:SENSATION:VISION                                         2
+    see blue
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 46.511628 %
+SECONDARY           : 34.883721 %
+EMOTIONS            : 18.604651 %
+
+286 words total

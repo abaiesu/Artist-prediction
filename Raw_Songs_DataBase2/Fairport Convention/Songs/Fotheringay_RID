@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    within within long behind at far away farther
+SECONDARY:TEMPORAL REFERENCES                                    5
+    often hour moment years hour
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    windows wall door
+PRIMARY:SENSATION:VISION                                         2
+    gazed watched
+SECONDARY:RESTRAINT                                              2
+    captive guarded
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun embers
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:GLORY                                                   1
+    castle
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fading
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flown
+PRIMARY:NEED:ORALITY                                             1
+    fruitless
+
+PRIMARY             : 63.333333 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 10.000000 %
+
+95 words total

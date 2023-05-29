@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              17
+    love love love love love loves love love love love loves love love love love loves love
+PRIMARY:SENSATION:SOUND                                          8
+    melody hum sound ear hear heart tune music
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again every everything every years now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    help say said explains say
+SECONDARY:ABSTRACTION                                            5
+    understand know thought know thought
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall falling falling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find found find
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing plays
+SECONDARY:RESTRAINT                                              2
+    caught catch
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+
+PRIMARY             : 33.870968 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 30.645161 %
+
+251 words total

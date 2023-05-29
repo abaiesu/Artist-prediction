@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    here here here here inside outside here here inside outside point outside outside point
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything everything everything everything
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            4
+    chance chance chance chance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    step step step step
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreams sleep sleep sleep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face face face face
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say meet say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    tried tried tried
+PRIMARY:SENSATION:VISION                                         2
+    view view
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    waves waves
+EMOTIONS:GLORY                                                   1
+    heroes
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:COLD                                           1
+    ice
+
+PRIMARY             : 72.916667 %
+SECONDARY           : 22.916667 %
+EMOTIONS            : 4.166667 %
+
+107 words total

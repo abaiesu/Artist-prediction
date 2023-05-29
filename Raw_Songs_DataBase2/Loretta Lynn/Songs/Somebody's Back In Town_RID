@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back off back long back back away back
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time now when again then today
+SECONDARY:ABSTRACTION                                            5
+    know reality know why know
+EMOTIONS:AFFECTION                                               3
+    love love loved
+EMOTIONS:AGGRESSION                                              2
+    hurts steal
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throws throw
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pick
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:SADNESS                                                 1
+    sad
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 20.000000 %
+
+167 words total

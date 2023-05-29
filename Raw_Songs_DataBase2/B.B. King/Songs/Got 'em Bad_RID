@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when yesterday yesterday today while today already already
+SECONDARY:ABSTRACTION                                            7
+    may thought know know think think know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told tell tell explaining
+EMOTIONS:AGGRESSION                                              3
+    doubt stole hurt
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    shout sang
+EMOTIONS:AFFECTION                                               2
+    love goodbye
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at away
+PRIMARY:SENSATION:VISION                                         1
+    blues
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+
+PRIMARY             : 12.121212 %
+SECONDARY           : 63.636364 %
+EMOTIONS            : 24.242424 %
+
+153 words total

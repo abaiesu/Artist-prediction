@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         8
+    looked looked lights lights blue light blues light
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    followed followed tell tell help
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when when when
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand hand eye eye
+EMOTIONS:SADNESS                                                 3
+    lonesome lonesome woe
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolled rolled
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    behind behind
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 48.648649 %
+SECONDARY           : 27.027027 %
+EMOTIONS            : 24.324324 %
+
+177 words total

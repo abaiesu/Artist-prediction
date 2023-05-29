@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:SOUND                                         12
+    bells bells ring hear ring hear bells bells bells bells bells bells
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time soon every soon
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    sidewalks sidewalks street
+EMOTIONS:POSITIVE AFFECT                                         3
+    laughing smile smile
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meeting
+PRIMARY:NEED:ORALITY                                             1
+    corner
+
+PRIMARY             : 65.384615 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 11.538462 %
+
+73 words total

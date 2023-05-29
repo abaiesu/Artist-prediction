@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        10
+    look look look look look look look look look look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands hands head
+PRIMARY:SENSATION:HARD                                           3
+    hard hard stone
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fair fair
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    behind along
+PRIMARY:SENSATION:SOUND                                          2
+    drummer drum
+PRIMARY:SENSATION:COLD                                           2
+    cold frozen
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:NEED:SEX                                                 1
+    naked
+EMOTIONS:AGGRESSION                                              1
+    beating
+EMOTIONS:AFFECTION                                               1
+    bosom
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+
+PRIMARY             : 90.000000 %
+SECONDARY           : 3.333333 %
+EMOTIONS            : 6.666667 %
+
+157 words total

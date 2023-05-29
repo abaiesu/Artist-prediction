@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       31
+    over away out out out out place somewhere out back at over away out out out out place somewhere out back over away out out out out place somewhere out back
+SECONDARY:ABSTRACTION                                           12
+    know know know truth guess true know know believed problem know know
+SECONDARY:TEMPORAL REFERENCES                                   11
+    again now past already when now when past already when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyes face hair face hair face hair
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said say met say say
+PRIMARY:SENSATION:VISION                                         4
+    saw see look see
+EMOTIONS:ANXIETY                                                 4
+    worry worry worry worry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make trying make
+EMOTIONS:AGGRESSION                                              3
+    angry angry hurt
+SECONDARY:RESTRAINT                                              3
+    stop stop stop
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun fun fun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+EMOTIONS:AFFECTION                                               2
+    love loved
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+
+PRIMARY             : 51.063830 %
+SECONDARY           : 36.170213 %
+EMOTIONS            : 12.765957 %
+
+454 words total

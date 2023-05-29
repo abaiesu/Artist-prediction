@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face hand face face hand
+SECONDARY:ABSTRACTION                                            4
+    thinking know thinking understand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    reaching reachin reaching reachin
+PRIMARY:NEED:ORALITY                                             3
+    coffee coffee coffee
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along away
+SECONDARY:RESTRAINT                                              2
+    stop stop
+EMOTIONS:ANXIETY                                                 2
+    trembling trembling
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    danced playin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep dreaming
+PRIMARY:SENSATION:SOFT                                           2
+    gentle soft
+EMOTIONS:AFFECTION                                               2
+    friends love
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughs
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    reminder
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+
+PRIMARY             : 45.714286 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 20.000000 %
+
+192 words total

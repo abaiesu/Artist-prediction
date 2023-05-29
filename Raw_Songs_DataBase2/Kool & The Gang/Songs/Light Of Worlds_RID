@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                        19
+    light watching see see light light light light see look light light light light light light light light light
+SECONDARY:ABSTRACTION                                            7
+    know them know understand know know understand
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please help help share share please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    found try try won won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing play
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pool
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    hall
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sundown
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 51.063830 %
+SECONDARY           : 44.680851 %
+EMOTIONS            : 4.255319 %
+
+222 words total

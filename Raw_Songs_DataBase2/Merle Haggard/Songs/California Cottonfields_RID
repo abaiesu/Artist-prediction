@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back where close nearly behind away where close
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when then ever everything when ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    plowed labor sold plow sell labor
+PRIMARY:SENSATION:VISION                                         5
+    seen pictures see seeing grey
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    promised sayin told say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    driftin weary weary
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms hand hair
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dreams dreams
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+EMOTIONS:GLORY                                                   2
+    wealth wealth
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:NEED:ORALITY                                             1
+    soup
+EMOTIONS:AFFECTION                                               1
+    farewell
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+SECONDARY:ABSTRACTION                                            1
+    model
+SECONDARY:RESTRAINT                                              1
+    bound
+
+PRIMARY             : 54.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 10.000000 %
+
+198 words total

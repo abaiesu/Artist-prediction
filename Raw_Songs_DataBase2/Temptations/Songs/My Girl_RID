@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say talkin say talkin say talkin talkin talkin talkin talk
+SECONDARY:ABSTRACTION                                            5
+    may guess guess guess may
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make money claim make
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when month month
+PRIMARY:SENSATION:VISION                                         2
+    sunshine sunshine
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    cloudy cloudy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    outside long
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds trees
+EMOTIONS:GLORY                                                   2
+    fame riches
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:TASTE                                          1
+    sweeter
+
+PRIMARY             : 30.555556 %
+SECONDARY           : 63.888889 %
+EMOTIONS            : 5.555556 %
+
+185 words total

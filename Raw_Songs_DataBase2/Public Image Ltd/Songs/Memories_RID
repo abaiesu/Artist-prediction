@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at far out out long where
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now time time old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make used used
+EMOTIONS:AGGRESSION                                              2
+    ridicule hate
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    excuses confidence
+PRIMARY:SENSATION:VISION                                         2
+    see imagining
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    twisted twisted
+SECONDARY:ORDER                                                  2
+    order order
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:ANXIETY                                                 1
+    desperately
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 37.037037 %
+SECONDARY           : 51.851852 %
+EMOTIONS            : 11.111111 %
+
+175 words total

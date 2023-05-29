@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where place place back between places where
+SECONDARY:ABSTRACTION                                            4
+    why believes know know
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    eternal eternal
+EMOTIONS:SADNESS                                                 2
+    grief sadness
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertainty
+SECONDARY:MORAL IMPERATIVE                                       1
+    sanctuary
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+SECONDARY:TEMPORAL REFERENCES                                    1
+    times
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safety
+EMOTIONS:AGGRESSION                                              1
+    torn
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journey
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 64.285714 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 14.285714 %
+
+151 words total

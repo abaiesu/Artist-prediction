@@ -1,0 +1,22 @@
+EMOTIONS:AGGRESSION                                             44
+    destruct destruct fight destruct destruct destruct destruct destruct destruct destruct destruct destruct destruct destruct fight destruct destruct destruct destruct destruct destruct destruct fight destruct destruct destruct destruct destruct destruct fight destruct destruct destruct destruct destruct destruct destruct fight destruct destruct destruct destruct destruct destruct
+SECONDARY:RESTRAINT                                              7
+    stop stop stop stop stop stop stop
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    guitar guitar guitar guitar
+SECONDARY:TEMPORAL REFERENCES                                    4
+    sometimes everything everyone when
+PRIMARY:SENSATION:VISION                                         4
+    sunshine sunshine sunshine sunshine
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 11.764706 %
+SECONDARY           : 17.647059 %
+EMOTIONS            : 70.588235 %
+
+325 words total

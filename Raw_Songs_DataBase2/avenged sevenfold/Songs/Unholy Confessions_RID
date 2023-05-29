@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away here at back inside here near at back
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when time time now when when time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    try try tested won spent constructing won
+EMOTIONS:AGGRESSION                                              7
+    hurts hurting killing break hurts hurting killing
+SECONDARY:ABSTRACTION                                            7
+    know know know meant know know know
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said guiding confided promises guiding confided
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    blood blood hands blood blood
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fall fall fall
+PRIMARY:SENSATION:SOUND                                          3
+    hearts heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    secure dead
+EMOTIONS:AFFECTION                                               2
+    affects affects
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    soaked soaked
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:SENSATION:TASTE                                          2
+    tastes tasting
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:RESTRAINT                                              1
+    constrict
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+
+PRIMARY             : 45.833333 %
+SECONDARY           : 40.277778 %
+EMOTIONS            : 13.888889 %
+
+271 words total

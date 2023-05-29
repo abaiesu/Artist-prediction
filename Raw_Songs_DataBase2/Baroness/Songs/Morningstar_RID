@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                              5
+    damage torment whipped damage damage
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    far at at
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky heavens sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lay lay lay
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    carry carry carry
+PRIMARY:SENSATION:VISION                                         2
+    stars look
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizons
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:AFFECTION                                               1
+    darling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 26.923077 %
+
+134 words total

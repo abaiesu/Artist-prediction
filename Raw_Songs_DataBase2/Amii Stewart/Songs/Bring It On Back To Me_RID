@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       27
+    here behind back back back back back back out behind back back back back back back back back back back back back back back back back back
+SECONDARY:ABSTRACTION                                            5
+    know choose choose choose choose
+PRIMARY:SENSATION:SOUND                                          4
+    heartaches heartaches heartaches heartaches
+EMOTIONS:SADNESS                                                 4
+    misery misery misery misery
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found won
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hang hang
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughter laughter
+SECONDARY:TEMPORAL REFERENCES                                    2
+    years when
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+
+PRIMARY             : 65.384615 %
+SECONDARY           : 19.230769 %
+EMOTIONS            : 15.384615 %
+
+307 words total

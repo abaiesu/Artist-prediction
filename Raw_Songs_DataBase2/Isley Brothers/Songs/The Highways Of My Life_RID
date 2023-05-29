@@ -1,0 +1,24 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  14
+    highways highways highway highway highway highway highway highway highway highway highway highway highway highway
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    side along where closer side between side back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+SECONDARY:ABSTRACTION                                            2
+    sure knowing
+EMOTIONS:SADNESS                                                 2
+    sorrows pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makin
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 75.757576 %
+SECONDARY           : 15.151515 %
+EMOTIONS            : 9.090909 %
+
+250 words total

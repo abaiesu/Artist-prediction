@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    far across here nearly where across close nearly where nearly where
+SECONDARY:TEMPORAL REFERENCES                                    9
+    sometimes when when then when when when when times
+SECONDARY:ABSTRACTION                                            9
+    know cause know know cause know know cause know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    ship desert travel desert desert
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call say say say say
+PRIMARY:SENSATION:VISION                                         5
+    seen stars shine bright see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    trail coast wall door
+EMOTIONS:AGGRESSION                                              4
+    breaking hurt hurt hurt
+EMOTIONS:AFFECTION                                               4
+    kind love like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    restless drifting slowly
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea shore
+SECONDARY:RESTRAINT                                              2
+    catch must
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+
+PRIMARY             : 46.478873 %
+SECONDARY           : 40.845070 %
+EMOTIONS            : 12.676056 %
+
+324 words total

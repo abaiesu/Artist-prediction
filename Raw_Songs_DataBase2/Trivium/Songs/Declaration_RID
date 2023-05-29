@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    between closing between closing here away
+PRIMARY:NEED:SEX                                                 5
+    fuck fuck sex sexuality fucking
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time every every times ever
+EMOTIONS:AGGRESSION                                              4
+    break hate fighting break
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say acceptance declare
+SECONDARY:ABSTRACTION                                            3
+    choosing choice them
+SECONDARY:MORAL IMPERATIVE                                       3
+    right should right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    business makes
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:SENSATION:VISION                                         2
+    witness witness
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling bury
+PRIMARY:NEED:ORALITY                                             1
+    poison
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:SENSATION:COLD                                           1
+    freezing
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:GLORY                                                   1
+    principle
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 47.727273 %
+SECONDARY           : 38.636364 %
+EMOTIONS            : 13.636364 %
+
+151 words total

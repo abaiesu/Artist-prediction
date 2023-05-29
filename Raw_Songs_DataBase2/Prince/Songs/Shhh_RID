@@ -1,0 +1,50 @@
+EMOTIONS:AGGRESSION                                             15
+    break break break break break break break break break break break break break break break
+PRIMARY:SENSATION:SOUND                                         15
+    hear sounds hear hear sounds hear crackle hear sounds music ear hear sounds hear hear
+EMOTIONS:AFFECTION                                               8
+    love like love like love love love love
+SECONDARY:RESTRAINT                                              6
+    interrupt stop stop interrupt interrupt interrupt
+SECONDARY:ABSTRACTION                                            6
+    think think think think think think
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    hot hot candle flame fire
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please say teach teach teach
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then everyone then then
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    scream scream scream scream
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    besides over long
+PRIMARY:SENSATION:HARD                                           3
+    rock rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    relax slow
+SECONDARY:ORDER                                                  2
+    listen listening
+PRIMARY:NEED:SEX                                                 2
+    sex sex
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    drippin
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    diggin
+
+PRIMARY             : 42.045455 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 30.681818 %
+
+451 words total

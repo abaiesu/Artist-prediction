@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out open here out
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old everyone old old
+EMOTIONS:POSITIVE AFFECT                                         3
+    joys laughs joys
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes hands feet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    spirit spirit spirit
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead dead dead
+SECONDARY:ABSTRACTION                                            3
+    thinking cause cause
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jumps jumps
+PRIMARY:SENSATION:VISION                                         2
+    see scenario
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doorstop floor
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:AFFECTION                                               1
+    dear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+SECONDARY:RESTRAINT                                              1
+    shut
+EMOTIONS:GLORY                                                   1
+    glorious
+PRIMARY:SENSATION:SOUND                                          1
+    whistle
+PRIMARY:NEED:ORALITY                                             1
+    fed
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 15.789474 %
+
+281 words total

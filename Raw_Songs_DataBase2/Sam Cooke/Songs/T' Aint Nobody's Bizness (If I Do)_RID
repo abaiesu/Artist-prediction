@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jump jump
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off off
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money pickle
+SECONDARY:ABSTRACTION                                            1
+    may
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:AGGRESSION                                              1
+    hit
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 53.333333 %
+EMOTIONS            : 6.666667 %
+
+153 words total

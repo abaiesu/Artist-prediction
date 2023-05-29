@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here here here here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won won
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    wild wild wild
+EMOTIONS:SADNESS                                                 3
+    moan moan moan
+PRIMARY:SENSATION:SOUND                                          3
+    heart hear hear
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:ABSTRACTION                                            2
+    something something
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 43.478261 %
+EMOTIONS            : 13.043478 %
+
+76 words total

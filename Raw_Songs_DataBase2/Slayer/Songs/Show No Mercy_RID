@@ -1,0 +1,50 @@
+EMOTIONS:AGGRESSION                                              5
+    wars warriors attack fight defeat
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at near near away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes flesh eyes blood
+SECONDARY:RESTRAINT                                              3
+    reign must must
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    endless eternal endless
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    bargains help recite
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride roam
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    depths holes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    gates step
+PRIMARY:NEED:ANALITY                                             2
+    stalking stalks
+SECONDARY:ABSTRACTION                                            2
+    knowing know
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falls slips
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:VISION                                         1
+    watching
+EMOTIONS:AFFECTION                                               1
+    mercy
+EMOTIONS:GLORY                                                   1
+    prince
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    darkened
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    grasp
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    chants
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 17.391304 %
+
+212 words total

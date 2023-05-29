@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         5
+    look shining look look look
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now everybody when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    top hill trees
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    buy make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    windowsill windows
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over across
+PRIMARY:SENSATION:COLD                                           2
+    wintertime frost
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell say
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    leanin
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+EMOTIONS:AFFECTION                                               1
+    lover
+
+PRIMARY             : 63.333333 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 6.666667 %
+
+141 words total

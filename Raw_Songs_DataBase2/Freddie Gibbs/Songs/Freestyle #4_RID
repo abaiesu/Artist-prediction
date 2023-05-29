@@ -1,0 +1,52 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time now now then soon
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    straight where where back off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    record built built make
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:NEED:ORALITY                                             3
+    fast fast meal
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    educated talk talk
+EMOTIONS:AGGRESSION                                              3
+    war break shots
+SECONDARY:ABSTRACTION                                            2
+    fact real
+PRIMARY:NEED:SEX                                                 2
+    bitch waist
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    blast sparked
+SECONDARY:RESTRAINT                                              2
+    block guard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head neck
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+EMOTIONS:ANXIETY                                                 1
+    scared
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+SECONDARY:ORDER                                                  1
+    class
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spine
+EMOTIONS:GLORY                                                   1
+    caesar
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    dome
+PRIMARY:SENSATION:SOFT                                           1
+    gentlemen
+
+PRIMARY             : 40.816327 %
+SECONDARY           : 38.775510 %
+EMOTIONS            : 20.408163 %
+
+234 words total

@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    here here away far here here away
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+EMOTIONS:GLORY                                                   2
+    gold gold
+SECONDARY:ABSTRACTION                                            1
+    something
+EMOTIONS:AGGRESSION                                              1
+    blame
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 23.809524 %
+
+133 words total

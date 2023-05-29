@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    place tip straighten out long straighten out straighten out
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tellin tellin treatin tellin tellin tellin
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while yearn old now now
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:NEED:ORALITY                                             1
+    honey
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 45.161290 %
+EMOTIONS            : 6.451613 %
+
+146 words total

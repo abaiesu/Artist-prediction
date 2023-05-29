@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time ever now soon
+EMOTIONS:AGGRESSION                                              4
+    seizing cutting vengeance seizing
+SECONDARY:ABSTRACTION                                            3
+    sure understand know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back at near
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet announces
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    count countdown
+SECONDARY:RESTRAINT                                              2
+    obey obey
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+EMOTIONS:SADNESS                                                 1
+    remorse
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slack
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    skyline
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+EMOTIONS:ANXIETY                                                 1
+    fear
+
+PRIMARY             : 40.625000 %
+SECONDARY           : 40.625000 %
+EMOTIONS            : 18.750000 %
+
+156 words total

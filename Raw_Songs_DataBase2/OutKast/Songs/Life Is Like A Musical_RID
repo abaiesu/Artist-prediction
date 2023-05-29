@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far long straight out
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ago when when now
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    called said say
+SECONDARY:ABSTRACTION                                            3
+    cause fact cause
+SECONDARY:ORDER                                                  2
+    simple simple
+PRIMARY:SENSATION:SOUND                                          2
+    musical musical
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:COLD                                           1
+    cool
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 59.090909 %
+EMOTIONS            : 0.000000 %
+
+221 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    out here here behind closed closed out aside behind closed closed out out here here behind closed closed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    make worked worked money paid price making make
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    says tell answer answer says tell answer
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart heart heart heart heart heart
+PRIMARY:SENSATION:COLD                                           6
+    cold cold cold cold cold cold
+SECONDARY:ABSTRACTION                                            4
+    know why know why
+EMOTIONS:AFFECTION                                               4
+    love love like love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyes face
+EMOTIONS:AGGRESSION                                              2
+    angry shove
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wash tide
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    roars
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 32.857143 %
+EMOTIONS            : 10.000000 %
+
+305 words total

@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out where out along beside where where where
+SECONDARY:TEMPORAL REFERENCES                                    4
+    early yesterday once everything
+SECONDARY:ABSTRACTION                                            4
+    knew themselves them thinks
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    river rain rain wets
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    waking sleepy dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    finding find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed drifting
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly flying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    footed hair
+PRIMARY:SENSATION:SOUND                                          2
+    sound whirling
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow playing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds sky
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tripping
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stairs
+PRIMARY:NEED:ORALITY                                             1
+    eat
+EMOTIONS:AGGRESSION                                              1
+    breakfast
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:SENSATION:COLD                                           1
+    children
+
+PRIMARY             : 63.829787 %
+SECONDARY           : 23.404255 %
+EMOTIONS            : 12.765957 %
+
+134 words total

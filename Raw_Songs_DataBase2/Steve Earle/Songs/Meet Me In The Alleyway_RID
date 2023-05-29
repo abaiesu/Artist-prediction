@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say meet meet callin say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pay money picked money won
+PRIMARY:SENSATION:VISION                                         3
+    see seen see
+SECONDARY:ABSTRACTION                                            3
+    knew knew know
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    laid lie dead
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    behind nearly at
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when minute now
+SECONDARY:RESTRAINT                                              2
+    bar guardians
+PRIMARY:NEED:ORALITY                                             2
+    teeth jawbone
+EMOTIONS:SADNESS                                                 1
+    melancholy
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirits
+EMOTIONS:GLORY                                                   1
+    conqueror
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bone
+EMOTIONS:AGGRESSION                                              1
+    knife
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    oracle
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 41.463415 %
+SECONDARY           : 48.780488 %
+EMOTIONS            : 9.756098 %
+
+195 words total

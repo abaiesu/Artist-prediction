@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       35
+    talk talk speak talk tell talk talk talk tell talk tell talk persuasion talk say communicate talk tell talk talk talk talk tell talk talk talk tell talk talk talk talk talk talk talk talk
+SECONDARY:ABSTRACTION                                           12
+    know know cause know know know know know problem know why know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where open long open
+EMOTIONS:AFFECTION                                               3
+    darling friends darling
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOFT                                           1
+    whispering
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+SECONDARY:RESTRAINT                                              1
+    control
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 19.117647 %
+SECONDARY           : 73.529412 %
+EMOTIONS            : 7.352941 %
+
+367 words total

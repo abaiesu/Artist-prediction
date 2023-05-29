@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    again when again again when again again again when again again again again
+PRIMARY:SENSATION:VISION                                        10
+    see see see see lights see see see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where where out
+SECONDARY:ABSTRACTION                                            3
+    cause know know
+EMOTIONS:AFFECTION                                               3
+    friend love love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high above heights
+EMOTIONS:AGGRESSION                                              2
+    whips wrath
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    passive
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bath
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    buy
+PRIMARY:NEED:ORALITY                                             1
+    beer
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 13.333333 %
+
+163 words total

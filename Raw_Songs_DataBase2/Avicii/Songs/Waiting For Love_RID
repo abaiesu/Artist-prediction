@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              14
+    kind love love love like love love kind love love love like love love
+EMOTIONS:AGGRESSION                                              5
+    defeated tyrant broken defeated broken
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every every every every
+SECONDARY:ABSTRACTION                                            4
+    something believe guess guess
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    burning fire burning fire
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where open open
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    bones arms arms
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreamer dream
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    thank thank
+PRIMARY:SENSATION:VISION                                         2
+    stars stars
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild wild
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magical
+SECONDARY:RESTRAINT                                              1
+    obstacle
+
+PRIMARY             : 36.000000 %
+SECONDARY           : 26.000000 %
+EMOTIONS            : 38.000000 %
+
+221 words total

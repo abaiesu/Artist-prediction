@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    back side where back inside side where separation out aside back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    belong making belong aimlessly trying make makes price pay making
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    telling tell say call please tell say tell say
+SECONDARY:ABSTRACTION                                            8
+    them know know cause think know cause true
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everybody whenever every when
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right should right
+EMOTIONS:AFFECTION                                               4
+    love affection love love
+EMOTIONS:GLORY                                                   3
+    pride pride pride
+EMOTIONS:ANXIETY                                                 3
+    cares cares cares
+PRIMARY:SENSATION:SOUND                                          2
+    hear hearts
+EMOTIONS:SADNESS                                                 2
+    suffer loneliness
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 51.428571 %
+EMOTIONS            : 20.000000 %
+
+322 words total

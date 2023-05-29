@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              20
+    lovin lovin lovin lovin lovin lovin lovin lovin lovin lovin darlin darlin lovin lovin lovin lovin lovin lovin lovin lovin
+SECONDARY:TEMPORAL REFERENCES                                    5
+    often then sometimes ever when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    near long inside
+PRIMARY:SENSATION:SOUND                                          3
+    voice hear echo
+SECONDARY:ABSTRACTION                                            3
+    cause cause know
+EMOTIONS:SADNESS                                                 2
+    lonely loneliness
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won makes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 24.444444 %
+EMOTIONS            : 55.555556 %
+
+220 words total

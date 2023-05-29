@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say meet talking talking say help meet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  6
+    shaking shaking shaking shaking shaking shaking
+EMOTIONS:AGGRESSION                                              4
+    beat beat beat beat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes makes makes work
+SECONDARY:ABSTRACTION                                            2
+    something something
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet body
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old old
+EMOTIONS:AFFECTION                                               1
+    pat
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 28.125000 %
+SECONDARY           : 53.125000 %
+EMOTIONS            : 18.750000 %
+
+162 words total

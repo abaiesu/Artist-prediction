@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    away inside inside out away place out inside inside out away away away inside inside out away
+SECONDARY:TEMPORAL REFERENCES                                   12
+    today today when when ever now today when when ever when when
+EMOTIONS:AFFECTION                                              12
+    love love love love love love love love love love love love
+SECONDARY:MORAL IMPERATIVE                                       9
+    should should should should should should should should should
+SECONDARY:ABSTRACTION                                            6
+    choice understand choice thought choice choice
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    grows grows grows grows grows grows
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    throw throw throw throw throw
+PRIMARY:SENSATION:SOUND                                          4
+    heart voice voice voice
+EMOTIONS:SADNESS                                                 4
+    pain pain pain pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay gained
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comfort comfort
+SECONDARY:ORDER                                                  2
+    listen listen
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+
+PRIMARY             : 43.678161 %
+SECONDARY           : 35.632184 %
+EMOTIONS            : 20.689655 %
+
+284 words total

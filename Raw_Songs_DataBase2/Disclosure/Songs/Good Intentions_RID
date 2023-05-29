@@ -1,0 +1,20 @@
+EMOTIONS:AGGRESSION                                              9
+    hurts hurts blame hurts hurts hurts hurts hurts hurts
+EMOTIONS:AFFECTION                                               6
+    goodbye love goodbye love goodbye goodbye
+SECONDARY:ABSTRACTION                                            5
+    believe know cause truth know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say say say
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+
+PRIMARY             : 3.571429 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 53.571429 %
+
+218 words total

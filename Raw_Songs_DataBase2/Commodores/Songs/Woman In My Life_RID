@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               7
+    lover friend love love lover friend love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    describe say convinces say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try find find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away where place
+SECONDARY:TEMPORAL REFERENCES                                    3
+    sometimes ever when
+PRIMARY:SENSATION:VISION                                         2
+    looking see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 32.142857 %
+
+204 words total

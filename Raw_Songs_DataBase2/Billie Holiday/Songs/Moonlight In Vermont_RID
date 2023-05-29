@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         2
+    moonlight moonlight
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    trails road
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing warblings
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    stream
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    side
+PRIMARY:SENSATION:COLD                                           1
+    snowlight
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    hypnotized
+EMOTIONS:AFFECTION                                               1
+    lovely
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 10.000000 %
+EMOTIONS            : 15.000000 %
+
+65 words total

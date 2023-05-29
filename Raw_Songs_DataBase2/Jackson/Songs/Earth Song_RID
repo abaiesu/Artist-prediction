@@ -1,0 +1,56 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time ever ever time ever ever now yesterday again
+PRIMARY:SENSATION:VISION                                         7
+    notice notice look notice notice glance stars
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    rain shore shore seas seas
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said said said pleas tell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    dead drifted apathy dying death
+SECONDARY:ABSTRACTION                                            5
+    know know planet them why
+SECONDARY:RESTRAINT                                              4
+    stop stop stop stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where far apart where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    gain used used
+EMOTIONS:AGGRESSION                                              3
+    killing war torn
+EMOTIONS:SADNESS                                                 2
+    weeping weeping
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dream
+PRIMARY:SENSATION:COLD                                           2
+    children children
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    sunrise
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heavens
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:NEED:SEX                                                 1
+    womb
+EMOTIONS:GLORY                                                   1
+    kingdoms
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trails
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnt
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 38.235294 %
+EMOTIONS            : 11.764706 %
+
+415 words total

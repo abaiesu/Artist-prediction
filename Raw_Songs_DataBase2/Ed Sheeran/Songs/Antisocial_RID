@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:TOUCH                                         26
+    touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    here straight space between straight between where close back out space place between straight between
+SECONDARY:ABSTRACTION                                           14
+    cause know something something something something something something something something something something something something
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now when when when past past past then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won won
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    low low low
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    lit smoke lit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand brain
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk commit
+PRIMARY:SENSATION:SOUND                                          2
+    music loud
+SECONDARY:RESTRAINT                                              2
+    catch catch
+PRIMARY:SENSATION:ODOR                                           2
+    fumes fumes
+EMOTIONS:AGGRESSION                                              2
+    hit hit
+PRIMARY:SENSATION:VISION                                         2
+    seen vision
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:NEED:ANALITY                                             1
+    mess
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 60.824742 %
+SECONDARY           : 35.051546 %
+EMOTIONS            : 4.123711 %
+
+456 words total

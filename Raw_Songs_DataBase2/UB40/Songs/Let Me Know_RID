@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time now now date
+SECONDARY:ABSTRACTION                                            3
+    know something problem
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+PRIMARY:SENSATION:VISION                                         2
+    blue see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over where
+EMOTIONS:AFFECTION                                               1
+    welcome
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizon
+
+PRIMARY             : 26.315789 %
+SECONDARY           : 68.421053 %
+EMOTIONS            : 5.263158 %
+
+114 words total

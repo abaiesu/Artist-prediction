@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    legs eyes eyes face
+SECONDARY:ABSTRACTION                                            3
+    learned learned learned
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now time already
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grew sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over distant
+PRIMARY:SENSATION:VISION                                         2
+    blue vision
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:SADNESS                                                 1
+    painted
+EMOTIONS:AGGRESSION                                              1
+    killed
+EMOTIONS:ANXIETY                                                 1
+    feared
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 19.047619 %
+
+99 words total

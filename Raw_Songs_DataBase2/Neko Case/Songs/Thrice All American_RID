@@ -1,0 +1,38 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    factories used buildings built found make make find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    south place off inside away
+EMOTIONS:AFFECTION                                               5
+    like love loved like like
+SECONDARY:ABSTRACTION                                            4
+    know think history something
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell say promise
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old when once
+PRIMARY:SENSATION:SOUND                                          2
+    sound hear
+EMOTIONS:AGGRESSION                                              2
+    cut guns
+EMOTIONS:SADNESS                                                 2
+    painted sadly
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    churn
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:SENSATION:TASTE                                          1
+    sour
+SECONDARY:MORAL IMPERATIVE                                       1
+    honor
+PRIMARY:SENSATION:COLD                                           1
+    chill
+SECONDARY:RESTRAINT                                              1
+    shut
+
+PRIMARY             : 26.829268 %
+SECONDARY           : 48.780488 %
+EMOTIONS            : 24.390244 %
+
+228 words total

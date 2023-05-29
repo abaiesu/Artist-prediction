@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       23
+    back where where far away over space where far over back where where far away back where where far away where far away
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then tonight everybody then then
+PRIMARY:SENSATION:VISION                                         4
+    light blue stars picture
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms arms arms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    belong belong belong
+EMOTIONS:AFFECTION                                               3
+    love goodbye love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep dreamed
+SECONDARY:ABSTRACTION                                            2
+    thought thought
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 70.000000 %
+SECONDARY           : 22.000000 %
+EMOTIONS            : 8.000000 %
+
+207 words total

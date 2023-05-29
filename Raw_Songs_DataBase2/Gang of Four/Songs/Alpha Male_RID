@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                            6
+    think know plans think think plans
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at where where where where
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+PRIMARY:SENSATION:VISION                                         3
+    vision tans tans
+SECONDARY:TEMPORAL REFERENCES                                    3
+    yearning then then
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    pool steam steam
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top tree
+EMOTIONS:AFFECTION                                               2
+    like affected
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    magic magic
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heading heading
+EMOTIONS:SADNESS                                                 2
+    sorrow sad
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help meetings
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    shipwrecks shipwrecks
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:NEED:ANALITY                                             1
+    urine
+
+PRIMARY             : 65.909091 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 9.090909 %
+
+250 words total

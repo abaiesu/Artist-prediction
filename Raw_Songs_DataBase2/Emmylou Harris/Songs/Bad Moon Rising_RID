@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         6
+    see see see lighting see looks
+SECONDARY:TEMPORAL REFERENCES                                    5
+    times today now tonight soon
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear voice
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rising rise
+EMOTIONS:ANXIETY                                                 2
+    trouble fear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    round overflowing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eye
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+EMOTIONS:AGGRESSION                                              1
+    rage
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    prepared
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 13.333333 %
+
+100 words total

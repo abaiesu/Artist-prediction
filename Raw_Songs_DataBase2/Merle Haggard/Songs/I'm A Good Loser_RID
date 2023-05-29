@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back inside long long
+SECONDARY:ABSTRACTION                                            4
+    cause may cause cause
+PRIMARY:SENSATION:VISION                                         2
+    look see
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share say
+PRIMARY:SENSATION:SOUND                                          2
+    heartaches tune
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon today
+EMOTIONS:ANXIETY                                                 1
+    worry
+EMOTIONS:GLORY                                                   1
+    pride
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 34.782609 %
+SECONDARY           : 43.478261 %
+EMOTIONS            : 21.739130 %
+
+129 words total

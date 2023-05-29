@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away here out out out surrounds away at out
+PRIMARY:NEED:ORALITY                                             4
+    salt corners lips lips
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    walls floor entrance walls
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    coal fire sun fire
+PRIMARY:SENSATION:SOUND                                          4
+    voice deaf ears voice
+SECONDARY:TEMPORAL REFERENCES                                    3
+    moment while time
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make build make
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    dig fallen fallen
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean shore
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:ABSTRACTION                                            1
+    sure
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:NEED:ANALITY                                             1
+    rot
+SECONDARY:RESTRAINT                                              1
+    block
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:SADNESS                                                 1
+    sorrow
+EMOTIONS:GLORY                                                   1
+    victory
+
+PRIMARY             : 71.153846 %
+SECONDARY           : 21.153846 %
+EMOTIONS            : 7.692308 %
+
+177 words total

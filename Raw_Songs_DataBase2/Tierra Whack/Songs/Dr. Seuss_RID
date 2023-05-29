@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:HARD                                           8
+    hard hard hard hard hard hard hard hard
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say say say remind say say
+SECONDARY:ABSTRACTION                                            4
+    evident relevant possible think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    sell trying sell buyin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly flew
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when ever
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:NEED:ANALITY                                             1
+    shit
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 52.777778 %
+EMOTIONS            : 2.777778 %
+
+137 words total

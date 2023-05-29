@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            3
+    purpose think believe
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    trail halls walls
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    showered sea
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    able met
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:SENSATION:TOUCH                                          1
+    brushed
+SECONDARY:TEMPORAL REFERENCES                                    1
+    often
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    finding
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:VISION                                         1
+    lamps
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drivers
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnt
+PRIMARY:SENSATION:TASTE                                          1
+    tasted
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climbing
+EMOTIONS:POSITIVE AFFECT                                         1
+    jokes
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 8.333333 %
+
+127 words total

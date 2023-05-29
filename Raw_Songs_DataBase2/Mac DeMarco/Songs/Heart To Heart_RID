@@ -1,0 +1,16 @@
+PRIMARY:SENSATION:SOUND                                         32
+    heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time quick time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    apart apart
+PRIMARY:SENSATION:VISION                                         1
+    saw
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+
+PRIMARY             : 89.743590 %
+SECONDARY           : 7.692308 %
+EMOTIONS            : 2.564103 %
+
+120 words total

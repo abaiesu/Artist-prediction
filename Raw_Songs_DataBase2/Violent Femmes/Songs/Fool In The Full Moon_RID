@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    following following following following following following following
+SECONDARY:TEMPORAL REFERENCES                                    3
+    soon when when
+SECONDARY:ABSTRACTION                                            3
+    something knows believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    building won
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    loving
+PRIMARY:NEED:SEX                                                 1
+    lechery
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    perceive
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 4.166667 %
+
+114 words total

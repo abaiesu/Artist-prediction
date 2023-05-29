@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    inside interior longer interior beside back inside between inside interior longer interior interior longer interior
+SECONDARY:ABSTRACTION                                            4
+    know thinking them learn
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    road wall wall wall
+PRIMARY:SENSATION:SOUND                                          4
+    music hear hearts hearts
+SECONDARY:RESTRAINT                                              3
+    block lock lockstep
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancing play game
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    shake orbits shake
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    death death death
+EMOTIONS:ANXIETY                                                 3
+    fear fear fear
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay pay
+PRIMARY:SENSATION:TASTE                                          2
+    taste taste
+PRIMARY:SENSATION:ODOR                                           2
+    smell smell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skull skull
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell communicate
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:NEED:ORALITY                                             1
+    drink
+
+PRIMARY             : 70.491803 %
+SECONDARY           : 19.672131 %
+EMOTIONS            : 9.836066 %
+
+217 words total

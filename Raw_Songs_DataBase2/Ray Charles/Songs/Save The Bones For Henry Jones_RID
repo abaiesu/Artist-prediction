@@ -1,0 +1,48 @@
+PRIMARY:NEED:ORALITY                                            29
+    supper eat food eat eat meat dish eat meat drinker eat eat meat drinker eats soup feast eat meat eat meat eat meat egg eat meat suck eat meat
+SECONDARY:ABSTRACTION                                           15
+    cause idea think cause something cause know sure know thought cause know cause know believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here at place here out off over here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    head bones head bones ribs bones bones bone
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    invite talk talk please say said say tellin
+PRIMARY:SENSATION:VISION                                         7
+    ray look ray ray see ray ray
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now now when now
+SECONDARY:ORDER                                                  5
+    listen listen listening listen class
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    market buy use finished won
+EMOTIONS:AFFECTION                                               3
+    like like love
+SECONDARY:MORAL IMPERATIVE                                       3
+    oughta proper right
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    drip drip
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:SENSATION:SOUND                                          1
+    sounds
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOFT                                           1
+    mellow
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:SENSATION:ODOR                                           1
+    sniff
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:HARD                                           1
+    glass
+
+PRIMARY             : 56.074766 %
+SECONDARY           : 38.317757 %
+EMOTIONS            : 5.607477 %
+
+475 words total

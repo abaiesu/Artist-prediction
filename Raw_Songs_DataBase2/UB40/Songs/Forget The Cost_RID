@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    space east east west west
+SECONDARY:ABSTRACTION                                            2
+    planet choose
+EMOTIONS:GLORY                                                   2
+    rich rich
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    exploration
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stepping
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    cost
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:NEED:ORALITY                                             1
+    eat
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 12.500000 %
+
+100 words total

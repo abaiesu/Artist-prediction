@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at away away
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies lay succumbed
+SECONDARY:ABSTRACTION                                            2
+    reason true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find pursuit
+EMOTIONS:AGGRESSION                                              2
+    harm harm
+PRIMARY:SENSATION:VISION                                         2
+    gazed watch
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line path
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:SADNESS                                                 1
+    misery
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    waters
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+
+PRIMARY             : 59.259259 %
+SECONDARY           : 18.518519 %
+EMOTIONS            : 22.222222 %
+
+108 words total

@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       22
+    at at at point between wider between place between at between between at out long between wider between place between between between
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    road line path line road trail line path line line
+EMOTIONS:AGGRESSION                                              6
+    fighter hate blame hate hate hate
+EMOTIONS:AFFECTION                                               6
+    love like kind love love love
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    fly fly fly fly fly fly
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        6
+    forever forever forever forever forever forever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    belong costs price win makes
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when everyone sometimes everyone
+SECONDARY:ABSTRACTION                                            4
+    decide choose learn choose
+PRIMARY:SENSATION:VISION                                         4
+    see grey see grey
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+SECONDARY:MORAL IMPERATIVE                                       3
+    righteous right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die die die
+SECONDARY:ORDER                                                  2
+    divide divide
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:GLORY                                                   1
+    genius
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 63.736264 %
+SECONDARY           : 19.780220 %
+EMOTIONS            : 16.483516 %
+
+313 words total

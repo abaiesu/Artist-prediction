@@ -1,0 +1,26 @@
+SECONDARY:MORAL IMPERATIVE                                       3
+    honest honest honest
+SECONDARY:ABSTRACTION                                            3
+    true true true
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line line line
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AFFECTION                                               2
+    devoted devoted
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    permanently permanently
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    dependable
+SECONDARY:ORDER                                                  1
+    constant
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 9.523810 %
+
+139 words total

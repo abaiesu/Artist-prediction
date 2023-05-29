@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    time time time time time time time time time time time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    closet out back back where
+EMOTIONS:AFFECTION                                               3
+    like love love
+SECONDARY:RESTRAINT                                              3
+    stop must must
+PRIMARY:SENSATION:VISION                                         1
+    watch
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:SENSATION:SOFT                                           1
+    gentlemen
+SECONDARY:ABSTRACTION                                            1
+    think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 56.666667 %
+EMOTIONS            : 13.333333 %
+
+191 words total

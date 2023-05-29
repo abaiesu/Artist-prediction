@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    close close at out out distant away somewhere distance
+PRIMARY:SENSATION:SOUND                                          4
+    ears chord hear sound
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try try make
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    thanks protection
+PRIMARY:SENSATION:VISION                                         2
+    watchdogs look
+SECONDARY:ABSTRACTION                                            2
+    them understand
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+EMOTIONS:AGGRESSION                                              1
+    strikes
+EMOTIONS:ANXIETY                                                 1
+    scared
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 13.793103 %
+
+110 words total

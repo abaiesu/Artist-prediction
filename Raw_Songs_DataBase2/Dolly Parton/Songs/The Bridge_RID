@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    here where far here place here where where wide long where here closer here where here where
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      11
+    bridge bridge bridge bridge bridge bridge bridge bridge bridge bridge edge
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time often while once tonight tonight while
+PRIMARY:SENSATION:VISION                                         4
+    stars glow see saw
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high tall
+EMOTIONS:AFFECTION                                               2
+    favorite love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    swept found
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand feet
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    waters
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    beating
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+
+PRIMARY             : 75.438596 %
+SECONDARY           : 17.543860 %
+EMOTIONS            : 7.017544 %
+
+176 words total

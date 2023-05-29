@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out back east east west west east out out
+PRIMARY:SENSATION:VISION                                         7
+    look see see see see lookin look
+PRIMARY:NEED:ORALITY                                             4
+    cafe cafe cafe cafe
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    mystery mystery mystery mystery
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say sayonara say sayonara
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight tonight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hair
+SECONDARY:ABSTRACTION                                            1
+    probably
+EMOTIONS:AGGRESSION                                              1
+    stab
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 77.777778 %
+SECONDARY           : 19.444444 %
+EMOTIONS            : 2.777778 %
+
+153 words total

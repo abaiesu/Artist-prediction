@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                           10
+    believe may learn cause probably reason something cause cause guess
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say please allow introduce call call
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every every every time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step channelled
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    outside space
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twist
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    aware
+EMOTIONS:AFFECTION                                               1
+    friend
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:MORAL IMPERATIVE                                       1
+    righteousness
+
+PRIMARY             : 25.714286 %
+SECONDARY           : 68.571429 %
+EMOTIONS            : 5.714286 %
+
+232 words total

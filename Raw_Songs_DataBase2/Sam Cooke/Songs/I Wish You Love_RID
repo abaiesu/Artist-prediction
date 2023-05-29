@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then when when
+PRIMARY:SENSATION:COLD                                           3
+    cool snowflakes snowflakes
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:NEED:ORALITY                                             2
+    lemonade honey
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    agree shelter
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:SENSATION:VISION                                         1
+    bluebirds
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:POSITIVE AFFECT                                         1
+    glade
+EMOTIONS:GLORY                                                   1
+    wealth
+EMOTIONS:AGGRESSION                                              1
+    breaking
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    cozy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 32.142857 %
+
+125 words total

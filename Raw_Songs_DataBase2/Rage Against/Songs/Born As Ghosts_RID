@@ -1,0 +1,58 @@
+EMOTIONS:SADNESS                                                10
+    sufferers sufferers sufferers suffering sufferers sufferers sufferers sufferers sufferers sufferers
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    speak speak speak speak speak speak speak speak speak
+PRIMARY:SENSATION:COLD                                           6
+    children freezing children children children children
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where at where at off
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    dream dream dream dream dream
+SECONDARY:RESTRAINT                                              3
+    locked guard locked
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    safe calm death
+EMOTIONS:AGGRESSION                                              3
+    guns hate beat
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    gates walls
+EMOTIONS:ANXIETY                                                 2
+    alarms terror
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:NEED:ORALITY                                             2
+    mouth dine
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:SENSATION:VISION                                         1
+    peering
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    foaming
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunsets
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:NEED:SEX                                                 1
+    womb
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+
+PRIMARY             : 51.515152 %
+SECONDARY           : 24.242424 %
+EMOTIONS            : 24.242424 %
+
+292 words total

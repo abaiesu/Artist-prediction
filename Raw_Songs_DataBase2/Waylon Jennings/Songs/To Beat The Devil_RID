@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    place out at off inside at here at at back out side behind out
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    call said said said said said said talkin sayin explainin sayin sayin explaining
+SECONDARY:ABSTRACTION                                           12
+    guess guess somethin thinks thinks truth know figure guess cause believe know
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time month old then time now time old when then
+PRIMARY:SENSATION:SOUND                                          9
+    music heard hear hear deaf voices heard hear hear
+PRIMARY:NEED:ORALITY                                             9
+    eatin thirsty whiskey beans stomach beer drink beer feed
+PRIMARY:SENSATION:VISION                                         6
+    lookin saw see looked see see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    guitar scream guitar guitar guitar
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    bought makin money tried won
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    laid die die die die
+EMOTIONS:AGGRESSION                                              5
+    complain beat beat stole complain
+PRIMARY:SENSATION:COLD                                           4
+    winter cold frozen chilly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    hunger ceiling hungry hunger
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    stepped floor door floor
+SECONDARY:RESTRAINT                                              4
+    bar bar locked bound
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm smoke
+EMOTIONS:GLORY                                                   2
+    eagle pride
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows shadow
+SECONDARY:MORAL IMPERATIVE                                       2
+    oughta should
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:AFFECTION                                               1
+    friendly
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:SADNESS                                                 1
+    lonesome
+
+PRIMARY             : 49.193548 %
+SECONDARY           : 38.709677 %
+EMOTIONS            : 12.096774 %
+
+508 words total

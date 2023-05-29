@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here out along out along front inside along out out out out
+PRIMARY:SENSATION:VISION                                         7
+    see see see look see see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    door floor door floor door floor
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then again again then again again
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    wake sleeping sleeping sleeping sleeping
+SECONDARY:ORDER                                                  5
+    class class class class class
+SECONDARY:ABSTRACTION                                            4
+    supposed supposed supposed supposed
+PRIMARY:SENSATION:HARD                                           4
+    stone stone stone stone
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    balcony balcony balcony balcony
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    feet feet feet
+EMOTIONS:AGGRESSION                                              2
+    cruel cruel
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    studying studying
+EMOTIONS:AFFECTION                                               2
+    romances romances
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulders
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 65.625000 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 6.250000 %
+
+231 words total

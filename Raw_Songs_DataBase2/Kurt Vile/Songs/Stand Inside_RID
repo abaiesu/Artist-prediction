@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    distant side inside close outside inside outside inside
+EMOTIONS:AFFECTION                                               6
+    like love love like love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make pick make make pick
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    couch couch dead couch
+EMOTIONS:POSITIVE AFFECT                                         4
+    satisfied satisfied satisfied satisfied
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    guitar guitar guitar guitar
+PRIMARY:SENSATION:VISION                                         3
+    see spy see
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every everywhere
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+SECONDARY:ABSTRACTION                                            1
+    sure
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:COLD                                           1
+    north
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 46.808511 %
+SECONDARY           : 21.276596 %
+EMOTIONS            : 31.914894 %
+
+198 words total

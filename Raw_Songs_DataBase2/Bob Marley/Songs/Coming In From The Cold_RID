@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now when again ever now when when again again ever ever once
+PRIMARY:SENSATION:COLD                                          10
+    cold cold cold cold cold cold cold cold cold cold
+PRIMARY:SENSATION:VISION                                         7
+    look see look look look look see
+SECONDARY:ORDER                                                  6
+    system system system system system system
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make make make make make
+EMOTIONS:ANXIETY                                                 6
+    dread dread dread dread dread dread
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    closed open closed closed open
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talking talking talking talking
+SECONDARY:ABSTRACTION                                            4
+    why know why know
+EMOTIONS:SADNESS                                                 3
+    sad sad sad
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+EMOTIONS:AGGRESSION                                              3
+    kill kill kill
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    top top top
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+
+PRIMARY             : 44.303797 %
+SECONDARY           : 40.506329 %
+EMOTIONS            : 15.189873 %
+
+473 words total

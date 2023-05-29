@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         3
+    bright light see
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    valley valley valley
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    weary lay
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along away
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calls calls
+EMOTIONS:SADNESS                                                 2
+    sadness sorrow
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:TEMPORAL REFERENCES                                    1
+    till
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+EMOTIONS:ANXIETY                                                 1
+    troubles
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 19.047619 %
+EMOTIONS            : 14.285714 %
+
+151 words total

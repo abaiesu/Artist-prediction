@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+PRIMARY:SENSATION:VISION                                         5
+    ray looked see see looking
+SECONDARY:TEMPORAL REFERENCES                                    4
+    already time already when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at closest
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask said
+SECONDARY:ABSTRACTION                                            2
+    knew knew
+EMOTIONS:AGGRESSION                                              1
+    hitting
+PRIMARY:NEED:ORALITY                                             1
+    jawn
+PRIMARY:SENSATION:ODOR                                           1
+    sniffing
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 32.000000 %
+EMOTIONS            : 28.000000 %
+
+88 words total

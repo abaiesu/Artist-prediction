@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            9
+    cause thought thinking know know think know think cause
+EMOTIONS:AFFECTION                                               7
+    friends love like like love like like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then clock when when when
+PRIMARY:SENSATION:VISION                                         4
+    light looking see looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back off out
+PRIMARY:NEED:ORALITY                                             3
+    drunk drunk drunk
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleeping
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    drip
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:AGGRESSION                                              1
+    hate
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 22.727273 %
+
+264 words total

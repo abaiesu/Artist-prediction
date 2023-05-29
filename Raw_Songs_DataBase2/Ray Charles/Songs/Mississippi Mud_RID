@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    treat treat tellin treat say
+EMOTIONS:AGGRESSION                                              5
+    beat beat beat kill beat
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    feet feet hands feet
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out round nearly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    shout dance play
+PRIMARY:NEED:ANALITY                                             3
+    mud mud mud
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy joy
+PRIMARY:NEED:ORALITY                                             2
+    chewin fast
+PRIMARY:SENSATION:SOUND                                          2
+    music trills
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    sway
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 27.777778 %
+
+142 words total

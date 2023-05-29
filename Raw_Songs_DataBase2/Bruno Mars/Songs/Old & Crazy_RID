@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   22
+    when old when old when when old when when old when old when when old when old when old when when old
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    call call call call call call call call call call call
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            9
+    crazy crazy crazy crazy crazy crazy crazy crazy crazy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hair hand hair hips hair
+EMOTIONS:POSITIVE AFFECT                                         4
+    laugh smile laugh laugh
+SECONDARY:ABSTRACTION                                            3
+    think think think
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+PRIMARY:SENSATION:VISION                                         3
+    grey grey grey
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out away
+PRIMARY:SENSATION:SOUND                                          2
+    ears hear
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:AGGRESSION                                              1
+    beat
+
+PRIMARY             : 36.764706 %
+SECONDARY           : 54.411765 %
+EMOTIONS            : 8.823529 %
+
+234 words total

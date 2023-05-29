@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    ahead here back here here here here here here
+EMOTIONS:ANXIETY                                                 9
+    dread worried worried worried worried worried worried worried worried
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  7
+    fall fall fall fall fall fall fall
+SECONDARY:ABSTRACTION                                            5
+    true know know know know
+PRIMARY:SENSATION:VISION                                         3
+    glares bright lights
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes makes
+PRIMARY:SENSATION:HARD                                           2
+    harder harder
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shades dim
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:TEMPORAL REFERENCES                                    1
+    times
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 26.666667 %
+
+228 words total

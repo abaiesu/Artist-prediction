@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    asks call asks call call calling call calling
+PRIMARY:SENSATION:VISION                                         7
+    see see light shines see see gray
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at where somewhere here where here
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    walls streets streets walls
+SECONDARY:ABSTRACTION                                            4
+    thought real know think
+PRIMARY:SENSATION:SOUND                                          4
+    hear bells ringing hear
+EMOTIONS:GLORY                                                   2
+    gold gold
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time today
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood blood
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    dim
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusions
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    waters
+PRIMARY:NEED:ANALITY                                             1
+    mud
+
+PRIMARY             : 63.043478 %
+SECONDARY           : 32.608696 %
+EMOTIONS            : 4.347826 %
+
+185 words total

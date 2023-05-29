@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:COLD                                          20
+    children children children children children children children children children children children children children children children children children children children children
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    preacher preacher preacher telling tell telling preacher telling tell telling telling tell telling
+SECONDARY:TEMPORAL REFERENCES                                   10
+    ever ever ever ever ever ever everybody premature everybody premature
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:NEED:SEX                                                 2
+    carnal carnal
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    revelation revelation
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+
+PRIMARY             : 54.098361 %
+SECONDARY           : 44.262295 %
+EMOTIONS            : 1.639344 %
+
+310 words total

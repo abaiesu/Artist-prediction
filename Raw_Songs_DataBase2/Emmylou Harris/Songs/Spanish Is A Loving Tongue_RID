@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                               5
+    loving like lover love like
+PRIMARY:SENSATION:SOUND                                          5
+    music hear tone heart heart
+PRIMARY:SENSATION:VISION                                         3
+    light look seen
+SECONDARY:ABSTRACTION                                            3
+    learned them know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over open wide
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when hours soon
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    throw flyin flight
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doors line
+EMOTIONS:SADNESS                                                 2
+    sorry sad
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sighing
+PRIMARY:NEED:SEX                                                 1
+    kissed
+
+PRIMARY             : 55.263158 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 23.684211 %
+
+160 words total

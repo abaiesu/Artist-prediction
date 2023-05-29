@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when now now when now now when now now
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    kneel thankful thankful thankful thankful kneel thankful thankful
+PRIMARY:SENSATION:HARD                                           5
+    stone stone irons stone stone
+PRIMARY:SENSATION:COLD                                           4
+    cold cold cold cold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grown grown grown
+SECONDARY:RESTRAINT                                              3
+    bound bound bound
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    weary weary weary
+PRIMARY:SENSATION:SOUND                                          3
+    sounds sounds sounds
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    below below below
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    maker maker maker
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire burning fire
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    waters waters
+EMOTIONS:AGGRESSION                                              2
+    fierce fierce
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+
+PRIMARY             : 49.090909 %
+SECONDARY           : 47.272727 %
+EMOTIONS            : 3.636364 %
+
+150 words total

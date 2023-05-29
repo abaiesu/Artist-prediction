@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out overstayed at over at front front
+EMOTIONS:AFFECTION                                               6
+    like lover like like like welcome
+EMOTIONS:POSITIVE AFFECT                                         5
+    fun fun happy fun fun
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when now everywhere
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    lessons picks try practice
+EMOTIONS:AGGRESSION                                              4
+    fights bothered steal killing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    hot burning burn
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    legs limbs skin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grew ceiling roof
+PRIMARY:SENSATION:COLD                                           3
+    cooler winter winter
+PRIMARY:SENSATION:VISION                                         3
+    watched see see
+PRIMARY:NEED:ORALITY                                             3
+    chewing gum teeth
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll roll
+PRIMARY:SENSATION:ODOR                                           2
+    breath breathing
+SECONDARY:ABSTRACTION                                            2
+    knowledge true
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    humid swimming
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    underneath deep
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fantasies dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 58.208955 %
+SECONDARY           : 19.402985 %
+EMOTIONS            : 22.388060 %
+
+378 words total

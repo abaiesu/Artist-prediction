@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out closing at space
+SECONDARY:RESTRAINT                                              4
+    forbidden penalty hinderens shut
+SECONDARY:ABSTRACTION                                            3
+    know reality choice
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grows tower
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    perish
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:HARD                                           1
+    gravel
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:TASTE                                          1
+    source
+EMOTIONS:ANXIETY                                                 1
+    frighten
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    labyrinth
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    allow
+EMOTIONS:GLORY                                                   1
+    scorn
+EMOTIONS:AGGRESSION                                              1
+    threat
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 15.384615 %
+
+85 words total

@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now ever ever ever once now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    dreamed dreamed dreamed dreamed dreamed
+EMOTIONS:AFFECTION                                               5
+    like dear love love dear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here longed inside here
+SECONDARY:ABSTRACTION                                            3
+    thought schemed true
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 21.428571 %
+
+130 words total

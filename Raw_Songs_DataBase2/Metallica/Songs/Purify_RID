@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    bones bones skin eyes eyes
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old old past past
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    help help help help
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won find find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    layers off back
+PRIMARY:SENSATION:VISION                                         2
+    looks light
+PRIMARY:NEED:ANALITY                                             2
+    dirt dirt
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing dancing
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+SECONDARY:ABSTRACTION                                            1
+    truth
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 9.677419 %
+
+135 words total

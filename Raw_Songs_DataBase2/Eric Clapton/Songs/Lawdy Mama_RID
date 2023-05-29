@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out at out at
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+SECONDARY:ABSTRACTION                                            2
+    real real
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny funny
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 33.333333 %
+
+68 words total

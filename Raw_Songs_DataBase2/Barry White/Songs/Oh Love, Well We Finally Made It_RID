@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              18
+    love love love love love love love love love love love love love love love love love love
+SECONDARY:ABSTRACTION                                           10
+    know knew know know know know know know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out at long long long long long long
+SECONDARY:TEMPORAL REFERENCES                                    6
+    everything henceforth now when now again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work make make
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire burn
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:SENSATION:VISION                                         1
+    light
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:AGGRESSION                                              1
+    hurt
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 36.666667 %
+
+326 words total

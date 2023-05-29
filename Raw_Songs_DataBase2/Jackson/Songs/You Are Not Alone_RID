@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       35
+    here away here far away here here far apart away here far away here here far apart here far away here here far apart here here far away here far away here far apart out
+PRIMARY:SENSATION:SOUND                                          9
+    ear heart heard hear ear heart heart heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said tell ask says asking ask says say
+SECONDARY:ABSTRACTION                                            7
+    why something why thought something know believe
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every then every again
+EMOTIONS:AFFECTION                                               3
+    goodbye love love
+PRIMARY:SENSATION:SOFT                                           3
+    whispers whispers whisper
+EMOTIONS:SADNESS                                                 3
+    lone lone lone
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slip slip
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    burdens reach
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 65.853659 %
+SECONDARY           : 25.609756 %
+EMOTIONS            : 8.536585 %
+
+409 words total

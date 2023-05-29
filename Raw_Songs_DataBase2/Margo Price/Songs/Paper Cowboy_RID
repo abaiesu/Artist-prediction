@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old old now when everyone when now now
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    talking say says talking say tell talking said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out out out where away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won use use use
+PRIMARY:SENSATION:VISION                                         2
+    blues blues
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game clowns
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay lay
+EMOTIONS:AGGRESSION                                              2
+    guns guns
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:NEED:ORALITY                                             2
+    mouth mouth
+SECONDARY:ABSTRACTION                                            2
+    prove them
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:RESTRAINT                                              1
+    reigns
+
+PRIMARY             : 32.558140 %
+SECONDARY           : 55.813953 %
+EMOTIONS            : 11.627907 %
+
+227 words total

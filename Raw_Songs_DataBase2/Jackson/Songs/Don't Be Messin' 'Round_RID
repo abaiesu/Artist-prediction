@@ -1,0 +1,32 @@
+PRIMARY:NEED:ANALITY                                            31
+    messing messing messing messing messing messing messing messing messing messing messing messing mess messing messing messing messing messing messing messing messing messing messing messing messing messing messing messing messing messing messing
+SECONDARY:ABSTRACTION                                            4
+    real real meant think
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time now while now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    treat said said said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancing dancing playing
+EMOTIONS:AFFECTION                                               3
+    love love romancing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor bridge
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:GLORY                                                   1
+    proud
+EMOTIONS:AGGRESSION                                              1
+    beat
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 59.649123 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 14.035088 %
+
+554 words total

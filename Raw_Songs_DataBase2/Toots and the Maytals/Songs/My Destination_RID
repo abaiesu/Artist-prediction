@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                               3
+    love love friend
+SECONDARY:TEMPORAL REFERENCES                                    3
+    dates today today
+EMOTIONS:ANXIETY                                                 2
+    worried trouble
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road aisle
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 42.857143 %
+
+88 words total

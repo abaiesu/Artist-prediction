@@ -1,0 +1,46 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                    19
+    fire fire burn fire fire burn lit blast fire burn fire fire burning fire blazing fire burn fire fire
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here where where off where front where where front where out where
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when then then now when then then then then
+SECONDARY:ABSTRACTION                                            9
+    cause know cause know them cause believe cause know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    trail windows road windows road road
+PRIMARY:SENSATION:VISION                                         4
+    see watching blue see
+EMOTIONS:AFFECTION                                               4
+    lovers pitiful lovers lovers
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face face handle
+EMOTIONS:AGGRESSION                                              3
+    break break killing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won won
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    called call
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    fluid
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:SADNESS                                                 1
+    tragedy
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+SECONDARY:RESTRAINT                                              1
+    police
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+
+PRIMARY             : 61.445783 %
+SECONDARY           : 28.915663 %
+EMOTIONS            : 9.638554 %
+
+387 words total

@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back back back at
+PRIMARY:SENSATION:SOUND                                          2
+    music soundtrack
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    caller caller
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight tonight
+PRIMARY:NEED:ORALITY                                             1
+    tooth
+PRIMARY:SENSATION:VISION                                         1
+    film
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+SECONDARY:ABSTRACTION                                            1
+    feature
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 0.000000 %
+
+64 words total

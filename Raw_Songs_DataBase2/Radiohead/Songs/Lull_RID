@@ -1,0 +1,30 @@
+SECONDARY:RESTRAINT                                              3
+    stop control control
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking talking say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lull lull
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:SOUND                                          1
+    snapped
+SECONDARY:ABSTRACTION                                            1
+    meant
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 23.529412 %
+
+79 words total

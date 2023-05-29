@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    pretty pretty pretty pretty pretty pretty
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:SOUND                                          4
+    music voice hear hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes use won won
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play guitar sing
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    promise talk tell
+SECONDARY:ABSTRACTION                                            3
+    think think know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair handsome face
+SECONDARY:RESTRAINT                                              2
+    caught bar
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along off
+PRIMARY:SENSATION:VISION                                         2
+    look glows
+SECONDARY:TEMPORAL REFERENCES                                    2
+    older now
+PRIMARY:NEED:ANALITY                                             1
+    sweater
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 43.902439 %
+SECONDARY           : 36.585366 %
+EMOTIONS            : 19.512195 %
+
+159 words total

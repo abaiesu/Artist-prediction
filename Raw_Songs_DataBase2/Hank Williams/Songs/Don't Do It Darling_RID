@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                              16
+    like darlin darlin darlin darlin dear darlin darlin like darlin darlin darlin darlin love darlin darlin
+EMOTIONS:ANXIETY                                                 4
+    worryin worried worryin worried
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over over over over
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then now now now
+SECONDARY:ABSTRACTION                                            3
+    think think think
+PRIMARY:NEED:SEX                                                 2
+    kissin kissin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    played played
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+
+PRIMARY             : 24.390244 %
+SECONDARY           : 21.951220 %
+EMOTIONS            : 53.658537 %
+
+193 words total

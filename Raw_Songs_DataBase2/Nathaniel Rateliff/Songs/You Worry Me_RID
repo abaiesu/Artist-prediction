@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    here out out out out out places away here out out out out over out out out out
+SECONDARY:TEMPORAL REFERENCES                                    7
+    today today today today time everybody everybody
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    find find carried build try carried mend
+EMOTIONS:ANXIETY                                                 7
+    afraid worry worry worry worry worry worry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy dreams
+EMOTIONS:AFFECTION                                               2
+    like lovers
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    calm
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bodies
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    lock
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 52.830189 %
+SECONDARY           : 30.188679 %
+EMOTIONS            : 16.981132 %
+
+278 words total

@@ -1,0 +1,38 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     7
+    coal coal coal coal coal coal coal
+EMOTIONS:AFFECTION                                               7
+    loves kind loves loves dear loves kind
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight early tonight then tonight
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    pittsburgh underground pittsburgh pittsburgh
+SECONDARY:ABSTRACTION                                            4
+    know know knows know
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off off off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    works makes
+EMOTIONS:SADNESS                                                 2
+    pain paints
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain dewy
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyed
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+
+PRIMARY             : 51.111111 %
+SECONDARY           : 28.888889 %
+EMOTIONS            : 20.000000 %
+
+212 words total

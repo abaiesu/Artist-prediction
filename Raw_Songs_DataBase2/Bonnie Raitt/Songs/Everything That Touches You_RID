@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:TOUCH                                         12
+    touches touches touches touches touches touches touches touches touches touches touches touches
+SECONDARY:ABSTRACTION                                            9
+    know know may think true cause know thinking cause
+SECONDARY:TEMPORAL REFERENCES                                    9
+    everything everything everything everything everything everything everything everything everything
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say sayin tell share
+PRIMARY:SENSATION:SOUND                                          3
+    hear heart heart
+PRIMARY:SENSATION:VISION                                         2
+    visions lighten
+EMOTIONS:AFFECTION                                               2
+    friends darlin
+EMOTIONS:AGGRESSION                                              2
+    breaking breaking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 47.826087 %
+EMOTIONS            : 8.695652 %
+
+143 words total

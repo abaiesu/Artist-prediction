@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       26
+    round here out out here where here where out out where out out here where here where out where here where here where out out over
+SECONDARY:ABSTRACTION                                           15
+    guess know cause believed believed believed know believed believed believe believe believe believe believe believe
+EMOTIONS:AFFECTION                                              11
+    like love love love loves loving love love love goodbye goodbye
+EMOTIONS:AGGRESSION                                              6
+    breaking breaking breaking breaking breaking blame
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talking said tell called called
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now once when now now
+PRIMARY:SENSATION:HARD                                           4
+    hardest hardest hardest hardest
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    step step step
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy crazy crazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work work
+PRIMARY:SENSATION:VISION                                         2
+    notice notice
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heads
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 49.425287 %
+SECONDARY           : 31.034483 %
+EMOTIONS            : 19.540230 %
+
+355 words total

@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                            6
+    believe know believe believe choose believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near away
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    darkened darkened
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    hallways hallways
+EMOTIONS:AFFECTION                                               1
+    favorite
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calling
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 55.555556 %
+EMOTIONS            : 5.555556 %
+
+80 words total

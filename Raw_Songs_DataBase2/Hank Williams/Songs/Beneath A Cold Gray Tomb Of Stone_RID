@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         6
+    gray gray gray sunshine gray gray
+EMOTIONS:AFFECTION                                               5
+    love darling darling love darling
+SECONDARY:ORDER                                                  5
+    neath neath neath neath neath
+PRIMARY:SENSATION:COLD                                           5
+    cold cold cold cold cold
+PRIMARY:SENSATION:HARD                                           5
+    stone stone stone stone stone
+EMOTIONS:SADNESS                                                 3
+    lonesome weeping lonesome
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything while while
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleeping sleeping sleeping
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay dead
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wander traveling
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+
+PRIMARY             : 62.222222 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 17.777778 %
+
+131 words total

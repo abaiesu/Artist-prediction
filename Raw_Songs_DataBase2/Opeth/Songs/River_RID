@@ -1,0 +1,40 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    river oceans river oceans river
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell told told share
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long away ahead side
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies silence die
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time when
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    embers fire fire
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bodies bodies
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    float float
+PRIMARY:SENSATION:VISION                                         2
+    light see
+EMOTIONS:ANXIETY                                                 1
+    troubles
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+SECONDARY:ABSTRACTION                                            1
+    why
+EMOTIONS:SADNESS                                                 1
+    despair
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    passage
+PRIMARY:SENSATION:COLD                                           1
+    winter
+
+PRIMARY             : 69.444444 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 5.555556 %
+
+171 words total

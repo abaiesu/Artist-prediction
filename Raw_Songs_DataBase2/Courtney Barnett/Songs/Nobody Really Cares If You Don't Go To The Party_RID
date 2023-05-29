@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    side out out out over off out out
+SECONDARY:ABSTRACTION                                            5
+    definitely probably guess why them
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    saying saying say please
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead die bed
+PRIMARY:SENSATION:SOUND                                          3
+    heart hearing heard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try pick
+EMOTIONS:AFFECTION                                               2
+    friends like
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+PRIMARY:SENSATION:COLD                                           2
+    winter shiver
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head brain
+EMOTIONS:AGGRESSION                                              1
+    hate
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:SENSATION:HARD                                           1
+    harder
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 54.761905 %
+SECONDARY           : 30.952381 %
+EMOTIONS            : 14.285714 %
+
+176 words total

@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         4
+    see blue see blue
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    mist clouds clouds
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away at at
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky sky sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    sunrise sunrise
+EMOTIONS:AFFECTION                                               2
+    lovely lovely
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window window
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    sail sail
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drifting
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    dew
+
+PRIMARY             : 82.758621 %
+SECONDARY           : 6.896552 %
+EMOTIONS            : 10.344828 %
+
+91 words total

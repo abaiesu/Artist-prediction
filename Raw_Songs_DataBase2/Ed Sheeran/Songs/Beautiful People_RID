@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    out round here middle out out here here front at inside surrounded out here here front at inside surrounded
+PRIMARY:SENSATION:GENERAL-SENSATION                              9
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+PRIMARY:SENSATION:VISION                                         7
+    looking look see stars lights flashing look
+SECONDARY:ABSTRACTION                                            6
+    know figure cause know cause know
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    help conversation ask help conversation ask
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everybody everything hours when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    heading eyes arms
+EMOTIONS:AFFECTION                                               3
+    love dear dear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    use use
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drop drop
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top top
+PRIMARY:NEED:ORALITY                                             2
+    champagne champagne
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolled rolled
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:SOUND                                          1
+    hummers
+
+PRIMARY             : 65.753425 %
+SECONDARY           : 24.657534 %
+EMOTIONS            : 9.589041 %
+
+369 words total

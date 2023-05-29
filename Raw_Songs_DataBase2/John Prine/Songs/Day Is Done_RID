@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    then then when then when then while then now when then now when while now
+EMOTIONS:AFFECTION                                              14
+    like like like goodbye lovers goodbye love goodbye like like like goodbye goodbye goodbye
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    share say tell tell say say say say shared say say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back back away back back back back
+SECONDARY:ABSTRACTION                                            4
+    cause think cause think
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won make
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn flame
+PRIMARY:SENSATION:VISION                                         2
+    see watch
+SECONDARY:RESTRAINT                                              2
+    must stop
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 19.696970 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 25.757576 %
+
+257 words total

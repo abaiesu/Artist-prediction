@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                        11
+    look see look see look shining see look shining see look
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everybody everybody everybody everybody everybody everybody now everybody everybody now
+EMOTIONS:POSITIVE AFFECT                                        10
+    rejoice joyfully glad joyfully glad happiness joyfully glad happiness joyfully
+SECONDARY:ABSTRACTION                                            6
+    cause reason different knew different knew
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out out out
+PRIMARY:SENSATION:SOUND                                          3
+    hearts hearts hearts
+EMOTIONS:ANXIETY                                                 2
+    fear dread
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    thank thank
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+
+PRIMARY             : 41.818182 %
+SECONDARY           : 32.727273 %
+EMOTIONS            : 25.454545 %
+
+322 words total

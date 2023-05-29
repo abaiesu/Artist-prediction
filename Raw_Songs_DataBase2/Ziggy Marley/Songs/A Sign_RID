@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell say told speaks tell please say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    cry cry cry cry cry
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everyday now when everyday
+SECONDARY:ABSTRACTION                                            3
+    cause know truth
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    price paid sow
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:NEED:ORALITY                                             1
+    fruits
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 17.857143 %
+SECONDARY           : 60.714286 %
+EMOTIONS            : 21.428571 %
+
+192 words total

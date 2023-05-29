@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every every hour
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    limb limb
+PRIMARY:NEED:ORALITY                                             2
+    tooth tooth
+EMOTIONS:AGGRESSION                                              2
+    stab shot
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay money
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    stirring
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bubbles
+
+PRIMARY             : 52.941176 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 11.764706 %
+
+75 words total

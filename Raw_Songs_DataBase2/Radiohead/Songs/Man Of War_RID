@@ -1,0 +1,34 @@
+EMOTIONS:AGGRESSION                                              5
+    kill war war war war
+PRIMARY:NEED:ORALITY                                             4
+    drunken cake poison poisoned
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    ocean ocean flooding
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drift
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    confessions
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 17.391304 %
+EMOTIONS            : 26.086957 %
+
+126 words total

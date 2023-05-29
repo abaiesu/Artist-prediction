@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    confession please thankful
+SECONDARY:ABSTRACTION                                            3
+    define believe believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    succeed trying trying
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lines line
+EMOTIONS:AGGRESSION                                              2
+    irritation aggression
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far far
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    coma coma
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiles
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:NEED:SEX                                                 1
+    obscene
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 13.043478 %
+
+98 words total

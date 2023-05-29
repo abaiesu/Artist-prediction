@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    spaceship place spaceship spaceship spaceship spaceship spaceship out out out out out out spaceship here spaceship here across spaceship out
+SECONDARY:TEMPORAL REFERENCES                                   11
+    everybody now now when time ever now time now time now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    prepare recorded finding make make used
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    speaked speak speaked speak
+SECONDARY:ABSTRACTION                                            4
+    think probably plantations planetary
+EMOTIONS:AFFECTION                                               2
+    like welcome
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grown above
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:SENSATION:VISION                                         1
+    lights
+EMOTIONS:POSITIVE AFFECT                                         1
+    delight
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:NEED:ORALITY                                             1
+    corner
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:COLD                                           1
+    freeze
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+SECONDARY:ORDER                                                  1
+    system
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 43.333333 %
+EMOTIONS            : 10.000000 %
+
+243 words total

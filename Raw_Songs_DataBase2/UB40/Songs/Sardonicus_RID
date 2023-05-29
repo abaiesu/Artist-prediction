@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bone eyes
+PRIMARY:SENSATION:VISION                                         2
+    look glint
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smiling
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    madness
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everybody
+EMOTIONS:AFFECTION                                               1
+    friend
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 8.333333 %
+EMOTIONS            : 25.000000 %
+
+56 words total

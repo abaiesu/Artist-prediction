@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when time when when time time time when when when when when
+SECONDARY:ABSTRACTION                                           11
+    guess guess think think know why something think think think think
+EMOTIONS:AFFECTION                                               8
+    darling love like intimate intimate intimate intimate intimate
+PRIMARY:SENSATION:COLD                                           7
+    cool cool cool cool cool cool cool
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleeping sleep sleep sleep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over at off
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    dig dig dig
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    roof high
+EMOTIONS:AGGRESSION                                              1
+    stubborn
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+
+PRIMARY             : 38.596491 %
+SECONDARY           : 43.859649 %
+EMOTIONS            : 17.543860 %
+
+385 words total

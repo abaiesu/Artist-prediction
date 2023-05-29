@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    round here at over over over away over over over round here at over over over over over
+SECONDARY:TEMPORAL REFERENCES                                   15
+    now everything again again again again again again now everything again again again again again
+SECONDARY:MORAL IMPERATIVE                                      11
+    right right right right right right right right right right right
+PRIMARY:SENSATION:VISION                                         4
+    looks looking looks looking
+SECONDARY:ABSTRACTION                                            4
+    think think planning think
+EMOTIONS:AFFECTION                                               4
+    sympathy love like love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make spend make
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burning sun burning
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    holes holes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 42.647059 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 7.352941 %
+
+267 words total

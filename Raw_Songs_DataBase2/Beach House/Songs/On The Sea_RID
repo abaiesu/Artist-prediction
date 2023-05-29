@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out far out where where
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now moment time suddenly till
+SECONDARY:ABSTRACTION                                            3
+    know defined defined
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    forgiven tell
+EMOTIONS:AFFECTION                                               2
+    like friend
+PRIMARY:SENSATION:SOUND                                          2
+    heart whistle
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:NEED:ORALITY                                             2
+    spite swallows
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bodies
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:AGGRESSION                                              1
+    stole
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    steps
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+
+PRIMARY             : 51.515152 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 15.151515 %
+
+148 words total

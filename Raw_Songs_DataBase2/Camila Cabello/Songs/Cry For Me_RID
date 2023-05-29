@@ -1,0 +1,42 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       20
+    die die lie lie die die lie lie die die lie lie die die lie lie die die lie lie
+SECONDARY:TEMPORAL REFERENCES                                   19
+    when when then when time when when then when time then when time then when time then when time
+SECONDARY:ABSTRACTION                                           18
+    thought probably thinking cause know thought probably thinking cause know cause know why why cause know cause know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    16
+    cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry cry
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    said said say thanking tell said say say say say
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            9
+    awake sleeping dreaming awake sleeping dreaming dreaming dreaming dreaming
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over over at wide at wide
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make won won won won
+PRIMARY:SENSATION:VISION                                         4
+    look see pictures see
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy happy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:ORALITY                                             1
+    lips
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 38.135593 %
+SECONDARY           : 44.915254 %
+EMOTIONS            : 16.949153 %
+
+455 words total

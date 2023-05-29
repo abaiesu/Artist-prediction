@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where behind ahead within out back behind behind along along
+SECONDARY:TEMPORAL REFERENCES                                    9
+    yesterday today again time again everything time today tonight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   8
+    mountains mountain mountains swing mountains mountain mountains mountains
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    calling calling greet service agreed calling greet greet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    heads blooded eyes eye blooded heads foothills heads
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    rivers watersheds rain rivers watersheds rivers watersheds
+EMOTIONS:AFFECTION                                               4
+    friend love friends love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won find carry carry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road border border
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    hot burn hot
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    vagabond sailing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cries sight
+PRIMARY:SENSATION:VISION                                         2
+    look see
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highways
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:NEED:ANALITY                                             1
+    mud
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfy
+
+PRIMARY             : 61.038961 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 10.389610 %
+
+325 words total

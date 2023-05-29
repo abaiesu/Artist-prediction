@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              24
+    love like friend love love love love friends like love love love love love love love like love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    tell call share call call call share call call ask share call call
+SECONDARY:TEMPORAL REFERENCES                                    8
+    every time everybody now when when everybody when
+EMOTIONS:AGGRESSION                                              4
+    hated jealous jealous jealous
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out at off
+SECONDARY:ABSTRACTION                                            3
+    cause why cause
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:NEED:ORALITY                                             2
+    sucker sucker
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 37.142857 %
+EMOTIONS            : 42.857143 %
+
+286 words total

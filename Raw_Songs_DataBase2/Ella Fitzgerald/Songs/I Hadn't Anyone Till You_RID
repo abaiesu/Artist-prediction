@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    till till now till till till
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:NEED:SEX                                                 2
+    cupid cupid
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    wide
+SECONDARY:ABSTRACTION                                            1
+    meant
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 25.000000 %
+
+90 words total

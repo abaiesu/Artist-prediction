@@ -1,0 +1,28 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high sky
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    tossed
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 8.333333 %
+EMOTIONS            : 16.666667 %
+
+74 words total

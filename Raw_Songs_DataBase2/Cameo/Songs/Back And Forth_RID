@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       22
+    back back back back back back back back round back where at back back back back back back back back back back
+EMOTIONS:AFFECTION                                               9
+    kind love loves like love love like love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    make win make money find sellers spent pay
+SECONDARY:ABSTRACTION                                            6
+    know know truth thought surely cause
+SECONDARY:TEMPORAL REFERENCES                                    3
+    sometimes now everything
+PRIMARY:SENSATION:VISION                                         3
+    see see looks
+EMOTIONS:AGGRESSION                                              2
+    kill stabs
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    bottomless pit
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dip
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+EMOTIONS:SADNESS                                                 1
+    lament
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 22.580645 %
+
+207 words total

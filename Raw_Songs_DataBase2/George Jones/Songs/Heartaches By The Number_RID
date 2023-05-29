@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when again now everyday now when now everyday now
+PRIMARY:SENSATION:SOUND                                          8
+    heartache heartache heartaches heartaches heartache heart heartaches heartaches
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    win countin win countin counting
+SECONDARY:RESTRAINT                                              4
+    stop must stop stop
+SECONDARY:ABSTRACTION                                            2
+    knew meant
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+EMOTIONS:ANXIETY                                                 2
+    troubles troubles
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    called told
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door line
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 52.272727 %
+EMOTIONS            : 20.454545 %
+
+198 words total

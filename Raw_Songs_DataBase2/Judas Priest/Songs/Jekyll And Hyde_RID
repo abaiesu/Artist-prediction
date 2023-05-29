@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    away inside out behind behind side away inside out behind
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when every now time now then when every time
+EMOTIONS:AGGRESSION                                              6
+    rage snarls hatred killing rage killing
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fades fades
+PRIMARY:NEED:ORALITY                                             2
+    consumes consumes
+SECONDARY:RESTRAINT                                              2
+    caged caged
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying trying
+SECONDARY:ABSTRACTION                                            2
+    basic learning
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    chest
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 43.589744 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 17.948718 %
+
+155 words total

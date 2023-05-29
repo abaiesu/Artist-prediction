@@ -1,0 +1,42 @@
+EMOTIONS:AGGRESSION                                             10
+    breakdown break break fighter break break break break break break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won carry make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at back
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    roar danced
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    followed
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:NEED:ORALITY                                             1
+    feed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    necktie
+PRIMARY:SENSATION:VISION                                         1
+    brownies
+SECONDARY:ABSTRACTION                                            1
+    thought
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drops
+EMOTIONS:ANXIETY                                                 1
+    troubles
+
+PRIMARY             : 34.375000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 40.625000 %
+
+282 words total

@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         7
+    see see see lookin see see lookin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    skinny eyes head bloodhound
+SECONDARY:ABSTRACTION                                            4
+    theory theory theory theory
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try try try try
+PRIMARY:SENSATION:ODOR                                           3
+    sniff sniff sniffin
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wet drippin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree tree
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiled enthusiastically
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dippin
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    esoteric
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    spoke
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:ANXIETY                                                 1
+    desperately
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searched
+
+PRIMARY             : 62.857143 %
+SECONDARY           : 25.714286 %
+EMOTIONS            : 11.428571 %
+
+159 words total

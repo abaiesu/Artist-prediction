@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    off middle where front out off over where front front
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when then when now when
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    asked ask said talk
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    driver driving driver driving
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try try won try
+SECONDARY:ABSTRACTION                                            3
+    may know cause
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+PRIMARY:SENSATION:ODOR                                           3
+    breathe breathe breathe
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    top top top
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:SENSATION:SOUND                                          2
+    heartbeat loud
+EMOTIONS:AGGRESSION                                              2
+    breaking killing
+SECONDARY:MORAL IMPERATIVE                                       2
+    law right
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:NEED:ORALITY                                             1
+    nuts
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 60.377358 %
+SECONDARY           : 35.849057 %
+EMOTIONS            : 3.773585 %
+
+479 words total

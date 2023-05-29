@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                              16
+    love love love love love love love love love love love love love love love love
+SECONDARY:ABSTRACTION                                           15
+    know know know know know know know why meant know know know know know know
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes makes
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everyone when
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    alongside
+
+PRIMARY             : 11.627907 %
+SECONDARY           : 46.511628 %
+EMOTIONS            : 41.860465 %
+
+128 words total

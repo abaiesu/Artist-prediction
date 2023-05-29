@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    over far south far east point
+PRIMARY:SENSATION:VISION                                         4
+    blue see look see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speaking called
+EMOTIONS:AFFECTION                                               2
+    like welcome
+EMOTIONS:AGGRESSION                                              2
+    battle robbin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    records productions
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    descending
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    dome
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    organized
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    player
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 26.923077 %
+EMOTIONS            : 19.230769 %
+
+130 words total

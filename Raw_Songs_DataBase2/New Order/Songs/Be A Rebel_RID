@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    near at place at away at
+PRIMARY:SENSATION:VISION                                         6
+    look see see looking look look
+EMOTIONS:AGGRESSION                                              6
+    angry rebel rebel doubt doubt rebel
+SECONDARY:ABSTRACTION                                            6
+    know them may different may different
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    makes find won achieved find won
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everyone then when everyone then
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    follow say follow say
+EMOTIONS:ANXIETY                                                 2
+    dangerous fear
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad mad
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fades
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 34.000000 %
+SECONDARY           : 46.000000 %
+EMOTIONS            : 20.000000 %
+
+210 words total

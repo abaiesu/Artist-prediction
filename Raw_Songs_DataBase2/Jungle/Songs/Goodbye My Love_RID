@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            5
+    think think learn think think
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say tell teacher
+SECONDARY:TEMPORAL REFERENCES                                    3
+    early time time
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun burn
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         1
+    shine
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+
+PRIMARY             : 22.727273 %
+SECONDARY           : 68.181818 %
+EMOTIONS            : 9.090909 %
+
+117 words total

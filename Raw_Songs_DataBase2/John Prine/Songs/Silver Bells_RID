@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:SOUND                                         17
+    hear bells bells ring hear ring hear bells bells ring hear ring bells bells ring hear ring
+SECONDARY:TEMPORAL REFERENCES                                    9
+    every time soon time soon time soon soon soon
+PRIMARY:SENSATION:VISION                                         5
+    lights blink bright green see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    sidewalks sidewalks street streetlights
+EMOTIONS:POSITIVE AFFECT                                         3
+    laughing smile smile
+SECONDARY:ABSTRACTION                                            3
+    them them them
+PRIMARY:SENSATION:COLD                                           2
+    children snow
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    greeting
+PRIMARY:NEED:ORALITY                                             1
+    corner
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+
+PRIMARY             : 64.583333 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 6.250000 %
+
+155 words total

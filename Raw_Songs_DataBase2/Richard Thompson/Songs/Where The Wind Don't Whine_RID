@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    where where where where over nearer nearer away out where where where
+EMOTIONS:SADNESS                                                12
+    whine whine whine moaning whine whine whine whine whine whine whine whine
+SECONDARY:TEMPORAL REFERENCES                                    9
+    week every clocked while while while when ever when
+PRIMARY:SENSATION:VISION                                         8
+    looked lamp shone looked see shine shine shine
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said say said asked said
+EMOTIONS:AGGRESSION                                              3
+    blame hit beating
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand heading face
+EMOTIONS:POSITIVE AFFECT                                         3
+    smiled smiled smiled
+SECONDARY:ORDER                                                  3
+    grade grade grade
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive driving
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slipped slipped
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    roads street
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    weary died
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    price make
+EMOTIONS:AFFECTION                                               2
+    dearer dearer
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamt
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:ABSTRACTION                                            1
+    suppose
+
+PRIMARY             : 44.871795 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 26.923077 %
+
+273 words total

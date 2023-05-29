@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    when when season when when past now when when season when when past now
+EMOTIONS:AFFECTION                                               9
+    love friends like kind love friends like kind kind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    work work work work
+PRIMARY:SENSATION:HARD                                           4
+    harder hard hard hard
+SECONDARY:ABSTRACTION                                            4
+    believed thinking believed thinking
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell meet tell meet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    sprung sprung
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake wake
+EMOTIONS:AGGRESSION                                              2
+    beating beating
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+
+PRIMARY             : 16.326531 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 26.530612 %
+
+293 words total

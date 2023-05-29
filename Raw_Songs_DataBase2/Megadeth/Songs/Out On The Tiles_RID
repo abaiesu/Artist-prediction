@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              11
+    like love love love love loving like love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    helps say tell says
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    along away away side
+PRIMARY:SENSATION:VISION                                         4
+    ray sunshine blues see
+PRIMARY:SENSATION:SOUND                                          2
+    rhythm voice
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    melts sun
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today time
+SECONDARY:ABSTRACTION                                            2
+    know sure
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+EMOTIONS:AGGRESSION                                              1
+    doubt
+SECONDARY:ORDER                                                  1
+    simple
+EMOTIONS:SADNESS                                                 1
+    frown
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 35.714286 %
+
+261 words total
