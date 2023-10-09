@@ -1,29 +1,31 @@
-PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
-    east side east side east side south south west along out long south somewhere west back west backround behind longer back
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    east side east side east side south south west along out long south out long south somewhere west back west backround behind longer back
 SECONDARY:TEMPORAL REFERENCES                                   11
     while now everytime then everybody when now everybody everybody briefcase ever
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    playas game played scream shout scream shout playin game
 EMOTIONS:AGGRESSION                                              9
     kick kick beat beat beat killers harm hit hitting
-EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
-    playas game played scream shout playin game
-SECONDARY:ABSTRACTION                                            7
-    know knew causin know sure probably real
-SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
-    make make money found bought
+SECONDARY:ABSTRACTION                                            8
+    know knew causin know know sure probably real
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    make make money make make money found bought
 SECONDARY:SOCIAL BEHAVIOR                                        4
     call called told tell
 PRIMARY:SENSATION:VISION                                         4
     see look seen blue
 PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
     streets bridge coast line
+PRIMARY:SENSATION:HARD                                           4
+    hard rock rock stone
 PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
     ride ride ride
 EMOTIONS:AFFECTION                                               3
     like love like
-PRIMARY:SENSATION:HARD                                           3
-    hard rock stone
 PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
     drop dig drop
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    beach beach lake
 PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
     twisted rolling roll
 PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
@@ -32,8 +34,6 @@ PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
     feet hip
 PRIMARY:ICARIAN IMAGERY:FIRE                                     2
     heat heat
-PRIMARY:ICARIAN IMAGERY:WATER                                    2
-    beach lake
 PRIMARY:NEED:ORALITY                                             2
     biscuit ale
 PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
@@ -55,8 +55,8 @@ PRIMARY:SENSATION:GENERAL-SENSATION                              1
 PRIMARY:SENSATION:SOUND                                          1
     bang
 
-PRIMARY             : 55.140187 %
-SECONDARY           : 26.168224 %
-EMOTIONS            : 18.691589 %
+PRIMARY             : 54.237288 %
+SECONDARY           : 27.118644 %
+EMOTIONS            : 18.644068 %
 
-523 words total
+569 words total

@@ -4,14 +4,14 @@ SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
     pick won money make money afford finished counts records money makin make makin money
 SECONDARY:ABSTRACTION                                           11
     think know plan guess think know cause them them guess know
-SECONDARY:SOCIAL BEHAVIOR                                       11
-    representa tellin tellin say say say say say represented say call
 SECONDARY:TEMPORAL REFERENCES                                    9
     time while ever till when now now when when
 EMOTIONS:AGGRESSION                                              8
     hit stole doubt gun kilt weapons enemies jealous
-PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
-    head heads head head head head head head
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    representa tellin tellin say say represented say call
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    head heads head head head
 PRIMARY:NEED:ANALITY                                             5
     shit shit shit shit shit
 PRIMARY:ICARIAN IMAGERY:FIRE                                     5
@@ -55,8 +55,8 @@ PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
 PRIMARY:SENSATION:TOUCH                                          1
     rubber
 
-PRIMARY             : 48.780488 %
-SECONDARY           : 38.211382 %
-EMOTIONS            : 13.008130 %
+PRIMARY             : 48.717949 %
+SECONDARY           : 37.606838 %
+EMOTIONS            : 13.675214 %
 
-563 words total
+545 words total

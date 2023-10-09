@@ -2,30 +2,30 @@ PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
     out at at behind inside where open where long at back long back inside out west square back out back round
 SECONDARY:TEMPORAL REFERENCES                                   16
     till everybody till then then when everybody then then now years time now now now now
-SECONDARY:ABSTRACTION                                           15
-    why know them cause know know guess problem cause know know fact them sure sure
+SECONDARY:ABSTRACTION                                           14
+    why know them cause know know guess problem cause know know fact them sure
 EMOTIONS:AGGRESSION                                             10
     hit hit rob murder shoot beat kick hit hit killing
 PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
     floor door walls street street coast
-PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
-    shake shake shaking shake shake
 PRIMARY:SENSATION:SOUND                                          5
     bang buzzing hear hear hear
 PRIMARY:NEED:ORALITY                                             5
     sugar butter food corner breaststroke
-PRIMARY:SENSATION:VISION                                         5
-    look rough watch looks looks
 PRIMARY:NEED:SEX                                                 5
     fuck sex fuck bitch bitch
 EMOTIONS:AFFECTION                                               5
     love like love like love
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    shake shaking shake shake
 PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
     security death safe slow
 SECONDARY:SOCIAL BEHAVIOR                                        4
     told called saying please
 PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
     chest neck handle head
+PRIMARY:SENSATION:VISION                                         4
+    look rough watch looks
 SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
     trying find found makes
 PRIMARY:ICARIAN IMAGERY:FIRE                                     4
@@ -61,8 +61,8 @@ EMOTIONS:ANXIETY                                                 1
 PRIMARY:SENSATION:COLD                                           1
     cool
 
-PRIMARY             : 58.904110 %
-SECONDARY           : 28.767123 %
-EMOTIONS            : 12.328767 %
+PRIMARY             : 58.741259 %
+SECONDARY           : 28.671329 %
+EMOTIONS            : 12.587413 %
 
-632 words total
+624 words total

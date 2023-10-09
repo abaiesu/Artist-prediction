@@ -1,9 +1,9 @@
-EMOTIONS:AGGRESSION                                             24
-    kill kill kill killas murder enemies kill kill murder kill kill kill kill kill kill kill hated murder broke army kill kill kill shoot
+EMOTIONS:AGGRESSION                                             30
+    kill kill kill killas murder enemies kill kill murder kill kill kill kill kill kill kill kill kill kill kill kill kill hated murder broke army kill kill kill shoot
+PRIMARY:SENSATION:VISION                                        15
+    blue tint see see star imagin star see green look seen look stars see see
 PRIMARY:NEED:SEX                                                14
     fuckin fucker fucking fucking fucking bitch fuck fucking bitch fucking fucking bitch bitch fucking
-PRIMARY:SENSATION:VISION                                        14
-    blue tint see star imagin star see green look seen look stars see see
 SECONDARY:TEMPORAL REFERENCES                                   13
     tonight tonight years till till now now when everybody now now now quick
 SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
@@ -12,24 +12,24 @@ PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
     over back back back out at back out out out back
 SECONDARY:ABSTRACTION                                           11
     why history know know them real them real thinking think why
+PRIMARY:ICARIAN IMAGERY:FIRE                                     8
+    smoke burnin heat heat blast heat blast flame
 PRIMARY:NEED:ANALITY                                             8
     shit shit shits shit shit shit shit dirt
 PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           7
     ride ship trippin navigator ride trip trip
-PRIMARY:ICARIAN IMAGERY:FIRE                                     7
-    smoke burnin heat blast heat blast flame
 EMOTIONS:AFFECTION                                               7
     like like like love like like like
 SECONDARY:RESTRAINT                                              6
     limit limit jail limit limit limit
 SECONDARY:SOCIAL BEHAVIOR                                        6
     representer thank told told ask told
+PRIMARY:NEED:ORALITY                                             5
+    nut nut juices sucka stomach
 PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
     eye blood bloods forehead
 PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
     die die die die
-PRIMARY:NEED:ORALITY                                             4
-    nut juices sucka stomach
 PRIMARY:SENSATION:SOFT                                           3
     silkk silkk silkk
 PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
@@ -40,6 +40,10 @@ PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
     throw hang hang
 PRIMARY:SENSATION:SOUND                                          3
     pealed music bang
+SECONDARY:MORAL IMPERATIVE                                       2
+    respect respect
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slippin slippin
 PRIMARY:SENSATION:HARD                                           2
     rock hard
 PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
@@ -48,10 +52,6 @@ PRIMARY:ICARIAN IMAGERY:WATER                                    1
     seas
 PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
     strangers
-SECONDARY:MORAL IMPERATIVE                                       1
-    respect
-PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
-    slippin
 PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
     lower
 SECONDARY:ORDER                                                  1
@@ -65,8 +65,8 @@ EMOTIONS:SADNESS                                                 1
 PRIMARY:SENSATION:COLD                                           1
     cool
 
-PRIMARY             : 52.513966 %
-SECONDARY           : 27.374302 %
-EMOTIONS            : 20.111732 %
+PRIMARY             : 51.578947 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 22.105263 %
 
-660 words total
+694 words total
