@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            9
+    figure figure figure figure figure figure figure figure figure
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    buy buy buy buy buy buy
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    frame frame
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off off
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountain mountain
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old old
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    follow tell
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pour pour
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    weary weary
+PRIMARY:NEED:ORALITY                                             1
+    liquor
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:SENSATION:SOUND                                          1
+    music
+
+PRIMARY             : 40.476190 %
+SECONDARY           : 45.238095 %
+EMOTIONS            : 14.285714 %
+
+170 words total

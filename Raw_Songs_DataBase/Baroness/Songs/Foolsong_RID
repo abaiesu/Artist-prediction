@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out long out ahead out further further where
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    digs fallen dig
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed beds lie
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep awake
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn ashes
+EMOTIONS:AGGRESSION                                              1
+    blades
+SECONDARY:ABSTRACTION                                            1
+    figure
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bodies
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tower
+EMOTIONS:GLORY                                                   1
+    castles
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 7.142857 %
+
+113 words total

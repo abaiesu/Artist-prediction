@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    outside inside where back
+EMOTIONS:AFFECTION                                               4
+    kinda love like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face arms arms
+SECONDARY:ABSTRACTION                                            3
+    know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes make
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile laugh
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rides
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 26.923077 %
+EMOTIONS            : 26.923077 %
+
+170 words total

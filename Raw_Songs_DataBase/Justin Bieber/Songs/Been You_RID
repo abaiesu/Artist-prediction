@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           15
+    known known known known known known known known known known known known known known known
+EMOTIONS:AFFECTION                                               7
+    goodbye like like love loving like love
+EMOTIONS:AGGRESSION                                              7
+    hate blame enemy hate blame enemy enemy
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            6
+    chance chance chance chance chance chance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away away at away away
+EMOTIONS:SADNESS                                                 4
+    pain pain pain pain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye vein vein
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    ocean wash wash
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+PRIMARY:SENSATION:VISION                                         2
+    blink blue
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    permanent permanent
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    serenity
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 39.344262 %
+SECONDARY           : 31.147541 %
+EMOTIONS            : 29.508197 %
+
+320 words total

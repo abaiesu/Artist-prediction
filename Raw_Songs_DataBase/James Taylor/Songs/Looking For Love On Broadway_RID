@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         8
+    watching watching scene blues see looks light looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here open middle middle back
+EMOTIONS:AFFECTION                                               5
+    love pity like like love
+SECONDARY:ABSTRACTION                                            3
+    reason cause guess
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight tonight tonight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dream dream
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river sea
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:NEED:ORALITY                                             1
+    fat
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    submarines
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawning
+
+PRIMARY             : 65.789474 %
+SECONDARY           : 18.421053 %
+EMOTIONS            : 15.789474 %
+
+139 words total

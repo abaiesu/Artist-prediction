@@ -1,0 +1,24 @@
+EMOTIONS:AGGRESSION                                             10
+    bother break bother break bother bother break bother break bother
+PRIMARY:SENSATION:COLD                                           9
+    cool cool cool cool cool cool cool cool cool
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    call call call call call call said said
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    bones hand bones bones bones
+PRIMARY:SENSATION:HARD                                           4
+    stones stones stones stones
+SECONDARY:ABSTRACTION                                            2
+    may may
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:TEMPORAL REFERENCES                                    1
+    soon
+
+PRIMARY             : 45.238095 %
+SECONDARY           : 30.952381 %
+EMOTIONS            : 23.809524 %
+
+146 words total

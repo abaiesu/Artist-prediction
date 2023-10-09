@@ -1,0 +1,28 @@
+EMOTIONS:SADNESS                                                 4
+    pains pain pain pains
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when again when
+EMOTIONS:AGGRESSION                                              3
+    wounds wounds wounds
+SECONDARY:RESTRAINT                                              3
+    bind bind bind
+PRIMARY:NEED:ORALITY                                             2
+    corner drunk
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    ease ease
+EMOTIONS:ANXIETY                                                 2
+    troubles worries
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:SENSATION:VISION                                         1
+    blues
+
+PRIMARY             : 34.782609 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 39.130435 %
+
+149 words total

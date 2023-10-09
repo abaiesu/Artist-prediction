@@ -1,0 +1,40 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    carry carry carry carry carry carry carry carry
+PRIMARY:SENSATION:COLD                                           4
+    cold cold cold snow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    footprints hand hand
+PRIMARY:SENSATION:VISION                                         2
+    lights shine
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    horn horn
+EMOTIONS:AGGRESSION                                              2
+    battle fought
+PRIMARY:SENSATION:SOUND                                          2
+    hum heart
+PRIMARY:NEED:ORALITY                                             2
+    lips breast
+SECONDARY:ABSTRACTION                                            1
+    real
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    places
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    deserts
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    flood
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+
+PRIMARY             : 55.882353 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 14.705882 %
+
+140 words total

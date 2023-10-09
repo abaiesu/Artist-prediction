@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    inside behind away back back back over
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    lazy lull dying lay bed
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    flood waters river sea rain
+SECONDARY:ABSTRACTION                                            3
+    think know cause
+PRIMARY:SENSATION:VISION                                         3
+    blues looks lightning
+EMOTIONS:AFFECTION                                               3
+    love like grateful
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes head
+PRIMARY:NEED:ORALITY                                             1
+    brew
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+EMOTIONS:AGGRESSION                                              1
+    hateful
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 17.948718 %
+
+176 words total

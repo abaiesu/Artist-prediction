@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here over at where where where wide ahead
+SECONDARY:TEMPORAL REFERENCES                                    7
+    while while now while while soon while
+PRIMARY:SENSATION:VISION                                         7
+    see see look see pictures looks picture
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    beautiful pretty pretty pretty pretty pretty
+SECONDARY:ABSTRACTION                                            5
+    something why know know figure
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    body face body hips toes
+EMOTIONS:AFFECTION                                               2
+    marry like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying job
+EMOTIONS:AGGRESSION                                              2
+    offend breaks
+PRIMARY:SENSATION:HARD                                           2
+    solid solid
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ORALITY                                             1
+    honeymoon
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+EMOTIONS:ANXIETY                                                 1
+    worries
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+EMOTIONS:GLORY                                                   1
+    gold
+
+PRIMARY             : 61.818182 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 10.909091 %
+
+256 words total

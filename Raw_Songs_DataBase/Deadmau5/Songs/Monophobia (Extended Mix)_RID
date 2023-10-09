@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    inside place out inside over inside place out inside over inside place out inside over inside place out inside over
+SECONDARY:ABSTRACTION                                           12
+    know know know know know know know know know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    find find found find find found find find found find find found
+PRIMARY:SENSATION:VISION                                         8
+    see see see see see see see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head head head head
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    silence silence silence silence
+EMOTIONS:ANXIETY                                                 4
+    dangerous dangerous dangerous dangerous
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+EMOTIONS:AGGRESSION                                              4
+    hurting hurting hurting hurting
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rain rain rain rain
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 10.526316 %
+
+328 words total

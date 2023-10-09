@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time ago time ago every time time ago
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long long here away long here out
+SECONDARY:MORAL IMPERATIVE                                       5
+    should should should should right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    floor line floor floor
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying worked money money
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    bed bed bed bed
+EMOTIONS:AGGRESSION                                              3
+    killing killing killing
+EMOTIONS:ANXIETY                                                 3
+    worry worrying troubles
+PRIMARY:NEED:ORALITY                                             3
+    juice juice lemon
+PRIMARY:SENSATION:COLD                                           2
+    children children
+SECONDARY:ORDER                                                  2
+    listened listened
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfied satisfied
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    leg leg
+EMOTIONS:AFFECTION                                               1
+    darling
+PRIMARY:SENSATION:VISION                                         1
+    blues
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 47.272727 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 16.363636 %
+
+256 words total

@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out round at at at at at at at at
+PRIMARY:SENSATION:SOUND                                          6
+    heart music heart music heart music
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make find make
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:TOUCH                                          2
+    scratch scratch
+EMOTIONS:ANXIETY                                                 2
+    fright fright
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    scream shout
+SECONDARY:ABSTRACTION                                            2
+    them cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arm
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandered
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fog
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 60.526316 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 18.421053 %
+
+195 words total

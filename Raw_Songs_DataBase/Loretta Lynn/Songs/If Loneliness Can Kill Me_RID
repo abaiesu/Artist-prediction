@@ -1,0 +1,28 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    silence dead lay die lay dead
+EMOTIONS:SADNESS                                                 5
+    lonely loneliness loneliness loneliness loneliness
+EMOTIONS:AGGRESSION                                              5
+    kills kill kill kill kill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here nearly round place
+SECONDARY:TEMPORAL REFERENCES                                    4
+    soon then then then
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+SECONDARY:ABSTRACTION                                            1
+    guess
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 33.333333 %
+
+98 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              18
+    lover lover lover like lover lover lover lover lover lover like lover lover lover lover lover lover lover
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell tell treats says said says tells tell treats says
+SECONDARY:ABSTRACTION                                            7
+    think cause think cause think cause think
+PRIMARY:SENSATION:VISION                                         6
+    light looking looking light looking looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out square out out square
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jump jump
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then early
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippers
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 30.000000 %
+
+299 words total

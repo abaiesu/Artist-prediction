@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       27
+    say help told help help help help told ask thankful say help help ask help help help help help help help called help said help help help
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when soon now now when when time time now
+SECONDARY:ABSTRACTION                                            9
+    may know know may know believe know know know
+EMOTIONS:ANXIETY                                                 3
+    uneasy worry fret
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+EMOTIONS:SADNESS                                                 2
+    despair weeping
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy glad
+PRIMARY:SENSATION:VISION                                         2
+    light see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried try
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endure
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+
+PRIMARY             : 8.064516 %
+SECONDARY           : 80.645161 %
+EMOTIONS            : 11.290323 %
+
+281 words total

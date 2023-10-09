@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           12
+    fever fever fever sleeping fever fever sleeps fever fever fever sleeps fever
+SECONDARY:RESTRAINT                                             10
+    caught caught caught lock caught caught caught caught caught caught
+EMOTIONS:AGGRESSION                                             10
+    stole break break break break break break break break break
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when when tonight tonight tonight tonight tonight when tonight
+PRIMARY:SENSATION:SOUND                                          9
+    heart heart heart heart heart heart heart heart heart
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        8
+    forever forever forever forever forever forever forever forever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at off here here
+SECONDARY:ABSTRACTION                                            4
+    meant cause different different
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell said say
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning hot
+EMOTIONS:AFFECTION                                               2
+    friends friend
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    rode rode
+EMOTIONS:ANXIETY                                                 2
+    scared scared
+PRIMARY:SENSATION:VISION                                         2
+    lights lights
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+
+PRIMARY             : 49.382716 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 17.283951 %
+
+313 words total

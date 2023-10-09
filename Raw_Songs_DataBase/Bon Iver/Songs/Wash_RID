@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    across nearly over where where at where at
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    grow growing high
+PRIMARY:SENSATION:HARD                                           3
+    iron hardly stoning
+PRIMARY:SENSATION:SOUND                                          3
+    sound snap tone
+PRIMARY:NEED:ORALITY                                             3
+    honey bean bean
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb thrown
+SECONDARY:ABSTRACTION                                            2
+    know known
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when quickening
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    below low
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:VISION                                         2
+    hues greens
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lines street
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry sight
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    foam
+EMOTIONS:AGGRESSION                                              1
+    stole
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    telling
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swollen
+PRIMARY:SENSATION:COLD                                           1
+    ice
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bone
+
+PRIMARY             : 74.418605 %
+SECONDARY           : 13.953488 %
+EMOTIONS            : 11.627907 %
+
+158 words total

@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                               9
+    like love like like like like like like like
+EMOTIONS:AGGRESSION                                              7
+    breaking breaking breaking breaking breaking smashing breaking
+SECONDARY:ABSTRACTION                                            5
+    know cause believe know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    belong make won belong make
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every when when
+PRIMARY:SENSATION:SOUND                                          3
+    hear loud heart
+SECONDARY:RESTRAINT                                              3
+    control caught control
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    round out
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rainy raindrop
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging hanging
+PRIMARY:NEED:ORALITY                                             1
+    starving
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speaks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:COLD                                           1
+    chill
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    vibration
+
+PRIMARY             : 32.000000 %
+SECONDARY           : 34.000000 %
+EMOTIONS            : 34.000000 %
+
+212 words total

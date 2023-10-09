@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       28
+    shelter shelter shelter talking shelter say shelter shelter shelter shelter shelter shelter shelter shelter shelter shelter shelter talking shelter shelter shelter shelter shelter shelter shelter shelter talking shelter
+EMOTIONS:AFFECTION                                              24
+    love love love love love love love love like love love love love love love love love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here out here away longing long
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    today now today
+EMOTIONS:AGGRESSION                                              2
+    fight fight
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 10.958904 %
+SECONDARY           : 49.315068 %
+EMOTIONS            : 39.726027 %
+
+266 words total

@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                         9
+    see light look light see light look star shone
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then then then then then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    near at nearer at close
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call say pleased spoke say
+PRIMARY:SENSATION:SOUND                                          2
+    heard voice
+EMOTIONS:POSITIVE AFFECT                                         2
+    delight delight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet blood
+SECONDARY:ABSTRACTION                                            2
+    thought thought
+EMOTIONS:AGGRESSION                                              2
+    slew tore
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die dead
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    veils
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+EMOTIONS:GLORY                                                   1
+    dazzled
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    possessed
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+
+PRIMARY             : 54.347826 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 15.217391 %
+
+245 words total

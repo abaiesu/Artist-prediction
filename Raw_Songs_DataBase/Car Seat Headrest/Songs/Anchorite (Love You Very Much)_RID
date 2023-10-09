@@ -1,0 +1,52 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when sometimes when sometimes time time time time time time
+EMOTIONS:AFFECTION                                               5
+    loves lovers loves love loves
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    forgive please please please
+PRIMARY:SENSATION:VISION                                         4
+    see noticed scent watched
+SECONDARY:ABSTRACTION                                            4
+    know resolve know them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find find find find
+PRIMARY:NEED:SEX                                                 4
+    fuck bitch fuck fuck
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    smoking burned flames
+PRIMARY:SENSATION:SOUND                                          3
+    heart sounded heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long at
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistake vapor
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silence death
+SECONDARY:RESTRAINT                                              1
+    stopped
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:SADNESS                                                 1
+    pained
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:SENSATION:TASTE                                          1
+    bittersweet
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:ORALITY                                             1
+    suck
+
+PRIMARY             : 46.551724 %
+SECONDARY           : 41.379310 %
+EMOTIONS            : 12.068966 %
+
+349 words total

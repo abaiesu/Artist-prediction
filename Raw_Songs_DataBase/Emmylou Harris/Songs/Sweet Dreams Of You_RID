@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:TASTE                                          7
+    sweet sweet sweet sweet sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    dreams dreams dreams dreams dreams dreams dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make used
+SECONDARY:ABSTRACTION                                            2
+    true true
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when again
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 7.142857 %
+
+99 words total

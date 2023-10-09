@@ -1,0 +1,30 @@
+EMOTIONS:ANXIETY                                                 9
+    alarms alarms alarms alarms alarms alarms alarms alarms alarms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out here out here out here
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    slowly quiet silent silent
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    speak please please
+PRIMARY:SENSATION:SOUND                                          2
+    heart bellyache
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    job won
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:AGGRESSION                                              1
+    kills
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:SADNESS                                                 1
+    unhappy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handshake
+
+PRIMARY             : 48.484848 %
+SECONDARY           : 15.151515 %
+EMOTIONS            : 36.363636 %
+
+132 words total

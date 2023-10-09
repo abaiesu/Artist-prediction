@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    allow please help saying please please
+SECONDARY:ABSTRACTION                                            4
+    sure almost sure suppose
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where over leveled
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    sell sell sell
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:SADNESS                                                 2
+    pain lonely
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:AFFECTION                                               1
+    loved
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 24.000000 %
+SECONDARY           : 64.000000 %
+EMOTIONS            : 12.000000 %
+
+95 words total

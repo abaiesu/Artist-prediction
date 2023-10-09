@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  16
+    tall tall tall tall tall tall tall tall tall tall tall tall tall tall tall tall
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  8
+    fall fall fall fall fall fall fall fall
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everyone everyone time everything already ever again till
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    lesson pick succeed try
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off here over at
+SECONDARY:ABSTRACTION                                            3
+    learn learn know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play cries sing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire burned
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    lift jump
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    chest feet
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:TOUCH                                          1
+    brush
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:SENSATION:VISION                                         1
+    looks
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 29.310345 %
+EMOTIONS            : 8.620690 %
+
+211 words total

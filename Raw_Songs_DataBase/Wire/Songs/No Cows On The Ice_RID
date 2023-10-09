@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            9
+    true true true true true true know true true
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every whilst soon past
+PRIMARY:SENSATION:COLD                                           2
+    snow ice
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away long
+PRIMARY:NEED:ORALITY                                             2
+    milked milked
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumped
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    view
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slips
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calls
+
+PRIMARY             : 36.000000 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 4.000000 %
+
+131 words total

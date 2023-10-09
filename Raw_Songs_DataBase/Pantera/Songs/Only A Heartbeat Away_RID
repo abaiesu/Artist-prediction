@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    inside inside away away close far away away away
+PRIMARY:SENSATION:SOUND                                          9
+    heartbeat heartbeat heartbeat heartbeat hear heartbeat heartbeat heartbeat heartbeat
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time years now time
+EMOTIONS:AFFECTION                                               5
+    love love loves love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met say
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:NEED:ORALITY                                             1
+    lips
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 62.857143 %
+SECONDARY           : 22.857143 %
+EMOTIONS            : 14.285714 %
+
+140 words total

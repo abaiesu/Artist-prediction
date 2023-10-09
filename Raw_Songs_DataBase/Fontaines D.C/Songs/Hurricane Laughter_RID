@@ -1,0 +1,40 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 16
+    available available available available available available available available available available available available available available available available
+EMOTIONS:POSITIVE AFFECT                                        14
+    laughter laughter laughter laughter laughter laughter laughter laughter laughter laughter laughter laughter laughter laughter
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while now while
+SECONDARY:ABSTRACTION                                            3
+    thought evidence weighing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets windows
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fled aloft
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    barking screaming
+PRIMARY:NEED:SEX                                                 1
+    waist
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    confession
+EMOTIONS:AGGRESSION                                              1
+    angry
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+EMOTIONS:AFFECTION                                               1
+    kind
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 20.754717 %
+SECONDARY           : 43.396226 %
+EMOTIONS            : 35.849057 %
+
+232 words total

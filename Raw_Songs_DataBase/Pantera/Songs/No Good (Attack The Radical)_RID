@@ -1,0 +1,50 @@
+SECONDARY:ABSTRACTION                                            9
+    problem figure science opinion knows fact know solution know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    straight out side interior point at closed
+EMOTIONS:AGGRESSION                                              4
+    killing hated blame violence
+SECONDARY:TEMPORAL REFERENCES                                    3
+    past minute past
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burned fires burn
+PRIMARY:SENSATION:VISION                                         3
+    seen behold color
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won make
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    saying talk
+EMOTIONS:GLORY                                                   2
+    superior pride
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play playing
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:ANALITY                                             1
+    pollution
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:NEED:SEX                                                 1
+    rape
+EMOTIONS:AFFECTION                                               1
+    pity
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+EMOTIONS:ANXIETY                                                 1
+    anxiety
+SECONDARY:RESTRAINT                                              1
+    prison
+
+PRIMARY             : 40.816327 %
+SECONDARY           : 38.775510 %
+EMOTIONS            : 20.408163 %
+
+220 words total

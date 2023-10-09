@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       36
+    away away away away out away away away away away away away away away away away away away away away away away away away away away away away away away away away away away out away
+SECONDARY:ABSTRACTION                                            9
+    knew why learn learn learn learn why why why
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said met said met call said met
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    skin hands knees blood hands knees
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time now time now time now
+PRIMARY:SENSATION:VISION                                         6
+    light vision light blue light vision
+SECONDARY:RESTRAINT                                              6
+    blocking prison prison captive blocking prison
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make won won won won
+PRIMARY:NEED:ORALITY                                             3
+    choke throat licking
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    threw climbed
+PRIMARY:SENSATION:SOUND                                          2
+    hear echo
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:AGGRESSION                                              1
+    arrow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 62.626263 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 4.040404 %
+
+328 words total

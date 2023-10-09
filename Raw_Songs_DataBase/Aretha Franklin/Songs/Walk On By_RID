@@ -1,0 +1,32 @@
+SECONDARY:RESTRAINT                                              6
+    stop stop stop stop stop stop
+PRIMARY:SENSATION:VISION                                         4
+    see see see blue
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time when when
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meet said said
+EMOTIONS:SADNESS                                                 3
+    grieve sadness sadness
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+SECONDARY:ABSTRACTION                                            2
+    believe cause
+EMOTIONS:AGGRESSION                                              2
+    break broken
+EMOTIONS:GLORY                                                   2
+    pride pride
+EMOTIONS:AFFECTION                                               2
+    goodbye goodbye
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+
+PRIMARY             : 18.181818 %
+SECONDARY           : 48.484848 %
+EMOTIONS            : 33.333333 %
+
+175 words total

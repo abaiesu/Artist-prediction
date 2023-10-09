@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every now time once now again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off at back here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    market buy make repairs
+PRIMARY:SENSATION:VISION                                         4
+    look see lantern brown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wall stairs floor
+PRIMARY:SENSATION:HARD                                           3
+    hardest glass hardest
+SECONDARY:ABSTRACTION                                            3
+    sure know why
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire burning
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sale
+PRIMARY:SENSATION:COLD                                           1
+    childish
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 2.777778 %
+
+178 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                             10
+    stealing stealing stealing stealing stealing stealing stealing stealing stealing stealing
+PRIMARY:SENSATION:SOUND                                         10
+    heart heart heart heart heart heart heart heart heart heart
+SECONDARY:ABSTRACTION                                            6
+    know know know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    afford pay use money make
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    taught said said
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:NEED:ORALITY                                             1
+    bread
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+
+PRIMARY             : 36.956522 %
+SECONDARY           : 36.956522 %
+EMOTIONS            : 26.086957 %
+
+282 words total

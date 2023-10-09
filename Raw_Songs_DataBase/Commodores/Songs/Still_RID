@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    moment once again now then then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away at away where where along
+SECONDARY:ABSTRACTION                                            3
+    know know cause
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    played games play
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said say
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flew
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:ANXIETY                                                 1
+    desperatly
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 25.000000 %
+
+128 words total

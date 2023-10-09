@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    where where where where where where where where where where where where where where where where where where where where
+EMOTIONS:AFFECTION                                               6
+    goodbye love love goodbye love love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy happy
+SECONDARY:ABSTRACTION                                            2
+    thought believe
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game game
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 52.272727 %
+SECONDARY           : 22.727273 %
+EMOTIONS            : 25.000000 %
+
+137 words total

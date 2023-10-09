@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            7
+    may something know them cause cause them
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say say talk talk say say
+EMOTIONS:AFFECTION                                               7
+    love loved like friend loving loves love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when once when ever when
+SECONDARY:RESTRAINT                                              3
+    insistin must stop
+PRIMARY:SENSATION:SOUND                                          3
+    symphony music hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    win won
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    plays
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    near
+
+PRIMARY             : 15.384615 %
+SECONDARY           : 61.538462 %
+EMOTIONS            : 23.076923 %
+
+197 words total

@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              7
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+PRIMARY:SENSATION:VISION                                         5
+    see beams stars beams stars
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rise rise
+PRIMARY:SENSATION:SOFT                                           2
+    soft soft
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven above
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:ABSTRACTION                                            1
+    something
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meeting
+
+PRIMARY             : 87.500000 %
+SECONDARY           : 9.375000 %
+EMOTIONS            : 3.125000 %
+
+125 words total

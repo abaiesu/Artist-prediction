@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              11
+    like like like like love love like like like like like
+SECONDARY:ABSTRACTION                                            6
+    understand thought reason something know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time when then time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    admit help met say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lay lay lay
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line line line
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away out
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream revive
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing game
+EMOTIONS:AGGRESSION                                              2
+    cruel breaking
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:SEX                                                 1
+    kissing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+EMOTIONS:GLORY                                                   1
+    glory
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 31.372549 %
+
+308 words total

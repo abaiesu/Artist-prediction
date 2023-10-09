@@ -1,0 +1,36 @@
+EMOTIONS:GLORY                                                  11
+    castle castle castle castle castle castle great castle castle castle castle
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    helping said helping say help helping help
+SECONDARY:ABSTRACTION                                            4
+    understand know understand understand
+EMOTIONS:SADNESS                                                 4
+    suffering suffering suffering suffering
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand hand hand
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun smoking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+SECONDARY:TEMPORAL REFERENCES                                    1
+    while
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 42.857143 %
+
+205 words total

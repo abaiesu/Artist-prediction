@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   9
+    sky sky sky sky sky sky sky sky sky
+PRIMARY:ICARIAN IMAGERY:FIRE                                     9
+    fire fire fire fire fire fire fire fire fire
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    cry cry cry cry cry cry cry cry cry
+SECONDARY:ABSTRACTION                                            7
+    reality truth opinion truth opinion truth opinion
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    excuse say excuse say excuse say
+SECONDARY:TEMPORAL REFERENCES                                    5
+    once again year year times
+EMOTIONS:AGGRESSION                                              3
+    break break unkind
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lie lie lie
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    brains brains
+EMOTIONS:SADNESS                                                 2
+    pain misery
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won countdown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+EMOTIONS:GLORY                                                   1
+    renowned
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 41.935484 %
+SECONDARY           : 33.870968 %
+EMOTIONS            : 24.193548 %
+
+236 words total

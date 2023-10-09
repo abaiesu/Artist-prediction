@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               7
+    like like like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at back back back back
+SECONDARY:ABSTRACTION                                            4
+    know cause schemes cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make find
+PRIMARY:SENSATION:VISION                                         2
+    look look
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    beaches
+PRIMARY:NEED:ORALITY                                             1
+    lip
+PRIMARY:SENSATION:TOUCH                                          1
+    sting
+EMOTIONS:AGGRESSION                                              1
+    bothered
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+PRIMARY:SENSATION:SOUND                                          1
+    louder
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+
+PRIMARY             : 46.875000 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 25.000000 %
+
+212 words total

@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:SOUND                                         10
+    heard boom boom boom boom boom boom boom boom boom
+PRIMARY:SENSATION:COLD                                           5
+    children children cool children children
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    making money making won
+SECONDARY:ABSTRACTION                                            3
+    almost may why
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy joy joy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountain climb
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over over
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said teacher
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jungle
+SECONDARY:RESTRAINT                                              1
+    cage
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:NEED:ORALITY                                             1
+    mushroom
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+
+PRIMARY             : 56.097561 %
+SECONDARY           : 29.268293 %
+EMOTIONS            : 14.634146 %
+
+181 words total

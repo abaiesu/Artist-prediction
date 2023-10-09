@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       27
+    out out out out out out square out out square out out out out out out out out out out out out out out out out out
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say said said said said said said said said
+PRIMARY:SENSATION:VISION                                         8
+    looks looks looks looks looks looks looks looks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    sing dance sing sing sing sing sing
+PRIMARY:NEED:ORALITY                                             7
+    sucker sucker sucker sucka sucka sucka sucka
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    laid laid laid laid laid laid
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again again when everybody
+SECONDARY:MORAL IMPERATIVE                                       4
+    respect respect respect respect
+SECONDARY:ABSTRACTION                                            2
+    know sure
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 60.493827 %
+SECONDARY           : 24.691358 %
+EMOTIONS            : 14.814815 %
+
+453 words total

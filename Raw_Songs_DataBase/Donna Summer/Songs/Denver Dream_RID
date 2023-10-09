@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           15
+    dream dream dream dream dream dream dream dream dream dream dream dream dream dream dream
+PRIMARY:SENSATION:VISION                                         9
+    colorado colorado colorado colorado colorado see colorado colorado colorado
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    call call called called say called called called
+SECONDARY:ABSTRACTION                                            5
+    know guess sure thoughts cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over long long apart
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then now time then
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:AGGRESSION                                              1
+    hated
+EMOTIONS:AFFECTION                                               1
+    loved
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    earned
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+EMOTIONS:GLORY                                                   1
+    conquered
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 36.538462 %
+EMOTIONS            : 5.769231 %
+
+225 words total

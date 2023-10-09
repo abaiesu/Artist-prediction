@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long out front long between here middle west long long
+PRIMARY:SENSATION:VISION                                         3
+    seen seen scene
+EMOTIONS:AGGRESSION                                              2
+    broke doubts
+SECONDARY:ABSTRACTION                                            2
+    certainly know
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climbed
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ladder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    success
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    address
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+SECONDARY:TEMPORAL REFERENCES                                    1
+    till
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impressed
+
+PRIMARY             : 70.833333 %
+SECONDARY           : 20.833333 %
+EMOTIONS            : 8.333333 %
+
+127 words total

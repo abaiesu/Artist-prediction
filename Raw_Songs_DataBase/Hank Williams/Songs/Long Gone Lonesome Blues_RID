@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    river swim river river river river river
+PRIMARY:SENSATION:VISION                                         7
+    watch blue blue blue blue blues blue
+SECONDARY:TEMPORAL REFERENCES                                    7
+    then now now when times now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long long long out long here long
+EMOTIONS:SADNESS                                                 5
+    lonesome lonesome lonesome lonesome lonesome
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    money find find pay price
+SECONDARY:ABSTRACTION                                            2
+    true them
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    lean leanin
+PRIMARY:SENSATION:COLD                                           2
+    cold ice
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumped
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+
+PRIMARY             : 57.446809 %
+SECONDARY           : 31.914894 %
+EMOTIONS            : 10.638298 %
+
+199 words total

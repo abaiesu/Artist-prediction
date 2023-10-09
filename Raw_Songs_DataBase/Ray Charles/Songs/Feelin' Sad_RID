@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    once again once now again now time now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell said called please
+EMOTIONS:AFFECTION                                               4
+    love darling love goodbye
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at here beside here
+EMOTIONS:SADNESS                                                 3
+    moan sad sad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    mended money
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              2
+    broke broken
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed dead
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:ABSTRACTION                                            1
+    why
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+
+PRIMARY             : 26.470588 %
+SECONDARY           : 44.117647 %
+EMOTIONS            : 29.411765 %
+
+155 words total

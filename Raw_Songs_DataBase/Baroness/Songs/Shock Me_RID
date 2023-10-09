@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            4
+    sure truth resolve true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    picked found found
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meet told share
+EMOTIONS:AGGRESSION                                              2
+    battle blade
+PRIMARY:SENSATION:VISION                                         2
+    shining shone
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dreams
+PRIMARY:SENSATION:HARD                                           2
+    stone steel
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    nearest
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:SADNESS                                                 1
+    despair
+
+PRIMARY             : 46.428571 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 14.285714 %
+
+134 words total

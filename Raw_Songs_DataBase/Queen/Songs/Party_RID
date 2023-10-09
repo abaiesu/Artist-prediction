@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    away over over back back back away back back back back over back back back away back back back back back back back over
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    18
+    play play play play play play play play play play play play play play play play play play
+EMOTIONS:AFFECTION                                               5
+    love goodbye goodbye goodbye goodbye
+SECONDARY:ABSTRACTION                                            5
+    know know why why why
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everybody everybody everybody
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:SENSATION:VISION                                         2
+    light light
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:NEED:ORALITY                                             1
+    food
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+
+PRIMARY             : 50.769231 %
+SECONDARY           : 12.307692 %
+EMOTIONS            : 36.923077 %
+
+237 words total

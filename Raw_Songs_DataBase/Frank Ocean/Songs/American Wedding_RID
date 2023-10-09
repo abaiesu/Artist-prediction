@@ -1,0 +1,56 @@
+EMOTIONS:AFFECTION                                               7
+    love romance married love brides marriage love
+SECONDARY:ABSTRACTION                                            7
+    judge know probably true true think true
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now then now ever then then
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talking said saying tell tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out far off front over
+PRIMARY:SENSATION:SOUND                                          3
+    heartbreak heart ring
+PRIMARY:NEED:ANALITY                                             3
+    shit shit shit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    palm hand
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty sensitive
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    making won
+SECONDARY:MORAL IMPERATIVE                                       2
+    law should
+PRIMARY:NEED:SEX                                                 2
+    fuck bitch
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sangria
+PRIMARY:SENSATION:VISION                                         1
+    blue
+EMOTIONS:GLORY                                                   1
+    richard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+SECONDARY:ORDER                                                  1
+    arranged
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumped
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:RESTRAINT                                              1
+    mustang
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tripping
+
+PRIMARY             : 43.333333 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 16.666667 %
+
+502 words total

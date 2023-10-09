@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         8
+    saw green scene light blue lightning light blue
+EMOTIONS:AGGRESSION                                              6
+    hit struck hit hit hit hit
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back side out at
+SECONDARY:RESTRAINT                                              3
+    bar stop police
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time till then
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    yielded yielded yield
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head knee face
+SECONDARY:ABSTRACTION                                            2
+    know why
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said saying
+PRIMARY:NEED:ORALITY                                             1
+    corner
+EMOTIONS:POSITIVE AFFECT                                         1
+    excited
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:NEED:SEX                                                 1
+    raped
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+
+PRIMARY             : 53.488372 %
+SECONDARY           : 30.232558 %
+EMOTIONS            : 16.279070 %
+
+202 words total

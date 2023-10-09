@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                        13
+    look see bluebell bluebell look see bluebell bluebell light look see bluebell bluebell
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again ever sometimes soon sometimes sometimes
+PRIMARY:SENSATION:GENERAL-SENSATION                              6
+    pretty beauty pretty beauty pretty beauty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    limb head head faces head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    place off back places
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    hang spring hang hang
+SECONDARY:ABSTRACTION                                            3
+    cause cause cause
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carrying pick
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree grow
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shaded
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 72.222222 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 1.851852 %
+
+210 words total

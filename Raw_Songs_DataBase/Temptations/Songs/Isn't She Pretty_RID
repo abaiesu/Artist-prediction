@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             26
+    pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty pretty
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now now now now everytime now now
+SECONDARY:ABSTRACTION                                            5
+    know know know why why
+EMOTIONS:AFFECTION                                               3
+    kind love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out near here
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+EMOTIONS:AGGRESSION                                              1
+    doubt
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+
+PRIMARY             : 62.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 8.000000 %
+
+287 words total

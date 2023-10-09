@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here long back here long here long back here long
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talking say talking say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won won
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when once when once
+EMOTIONS:AFFECTION                                               4
+    goodbye lover goodbye lover
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    flying flying
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+SECONDARY:ABSTRACTION                                            2
+    know know
+
+PRIMARY             : 47.058824 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 11.764706 %
+
+190 words total

@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now now ever then now now now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say said
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head skin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long out
+EMOTIONS:AFFECTION                                               2
+    love favorite
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrills
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 56.666667 %
+EMOTIONS            : 13.333333 %
+
+191 words total

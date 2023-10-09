@@ -1,0 +1,52 @@
+EMOTIONS:AFFECTION                                              15
+    like like like like like kinda like like like like like like like like like
+PRIMARY:NEED:ORALITY                                            13
+    eat lunch dinner bread eggs eatin eggo eat eat eat eatin honey honey
+PRIMARY:SENSATION:TASTE                                          6
+    taste taste taste taste taste taste
+PRIMARY:NEED:ANALITY                                             6
+    shit shit shit shit shit shit
+PRIMARY:NEED:SEX                                                 5
+    fuck fuck fuck fuck fuck
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makin work make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at open
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell ask
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then hour then
+SECONDARY:ABSTRACTION                                            3
+    know why know
+EMOTIONS:AGGRESSION                                              2
+    breakfast breakfast
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fling climb
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    shower dripping
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wakin
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impression
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:ANXIETY                                                 1
+    coward
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tower
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:SENSATION:HARD                                           1
+    crispy
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tripping
+
+PRIMARY             : 58.974359 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 24.358974 %
+
+330 words total

@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         13
+    hands hands body hands body face beard eyelids hands hands hands hands hands
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    called talk talk tell talk tell talk tell talk tell talk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    tried work reached work make work work work work
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every while then then then then then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    along out along where inside inside
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    roads road door road road road
+PRIMARY:SENSATION:VISION                                         4
+    green watched light watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    restless lies restless silent
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+SECONDARY:ABSTRACTION                                            3
+    think plane knew
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiled smiled
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    shouted shouted
+EMOTIONS:AGGRESSION                                              2
+    guns killed
+PRIMARY:SENSATION:ODOR                                           2
+    smell incense
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+EMOTIONS:ANXIETY                                                 1
+    frighten
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+
+PRIMARY             : 46.835443 %
+SECONDARY           : 43.037975 %
+EMOTIONS            : 10.126582 %
+
+453 words total

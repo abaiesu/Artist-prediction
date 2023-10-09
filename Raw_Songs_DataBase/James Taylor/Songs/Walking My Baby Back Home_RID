@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out back over back back over straighten back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    arm arm eye cheek chest
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when then again
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    reciting borrow
+EMOTIONS:GLORY                                                   1
+    great
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    poem
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:TOUCH                                          1
+    cuddles
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 15.384615 %
+
+109 words total

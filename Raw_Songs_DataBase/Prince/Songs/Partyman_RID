@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old ever now now now when old everybody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    round place east south west round
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell say please say
+PRIMARY:SENSATION:HARD                                           4
+    rock rock rock rock
+PRIMARY:SENSATION:VISION                                         3
+    green seen pictures
+EMOTIONS:AFFECTION                                               3
+    like love like
+PRIMARY:SENSATION:SOFT                                           2
+    gentlemen gentlemen
+PRIMARY:SENSATION:COLD                                           1
+    north
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    horns
+PRIMARY:NEED:ORALITY                                             1
+    butter
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 14.285714 %
+
+196 words total

@@ -1,0 +1,56 @@
+EMOTIONS:AFFECTION                                              20
+    like like like like love love like like friends romance like like like love like like like like like like
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    answer talk saying said said said said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    far apart out off out over
+SECONDARY:ABSTRACTION                                            6
+    them know proof knows them know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when past
+PRIMARY:SENSATION:SOUND                                          2
+    heart ear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes try
+EMOTIONS:AGGRESSION                                              2
+    hit break
+EMOTIONS:SADNESS                                                 1
+    lonesome
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    physical
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+SECONDARY:RESTRAINT                                              1
+    stops
+PRIMARY:SENSATION:COLD                                           1
+    freezes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 38.461538 %
+
+276 words total

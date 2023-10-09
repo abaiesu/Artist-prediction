@@ -1,0 +1,30 @@
+EMOTIONS:POSITIVE AFFECT                                        11
+    joke laugh laugh laughin laugh gladly laugh fun laugh laugh laugh
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    treat call says treat explain say call call call
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when everybody when when when when
+EMOTIONS:AFFECTION                                               3
+    like love love
+PRIMARY:SENSATION:VISION                                         2
+    imagine see
+EMOTIONS:AGGRESSION                                              2
+    hurts breaks
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trade making
+SECONDARY:ABSTRACTION                                            1
+    knowing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+EMOTIONS:ANXIETY                                                 1
+    desperately
+
+PRIMARY             : 16.666667 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 40.476190 %
+
+157 words total

@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                    22
+    fire warm warm warm warm warm warm warm warm warm warm warm warm warm warm warm warm warm warm warm warm warm
+PRIMARY:SENSATION:VISION                                         4
+    lights lights lights lights
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    low low low low
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    close close close close
+EMOTIONS:AFFECTION                                               3
+    kind darling love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+PRIMARY:SENSATION:SOUND                                          2
+    heart music
+SECONDARY:ABSTRACTION                                            2
+    real true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 78.431373 %
+SECONDARY           : 13.725490 %
+EMOTIONS            : 7.843137 %
+
+146 words total

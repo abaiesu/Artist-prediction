@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    point here point out here point point point close point
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say say say say say told
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when when when old
+EMOTIONS:ANXIETY                                                 3
+    afraid afraid afraid
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head eyes
+SECONDARY:ABSTRACTION                                            2
+    sure choose
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 11.764706 %
+
+164 words total

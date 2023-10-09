@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            7
+    know real may knows sure knows sure
+EMOTIONS:AFFECTION                                               6
+    loves loves love love love love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when years years
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    near between where where
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    taller tallest tree
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deeper deep deep
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy cheer
+PRIMARY:SENSATION:VISION                                         2
+    blue see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+
+PRIMARY             : 40.540541 %
+SECONDARY           : 37.837838 %
+EMOTIONS            : 21.621622 %
+
+155 words total

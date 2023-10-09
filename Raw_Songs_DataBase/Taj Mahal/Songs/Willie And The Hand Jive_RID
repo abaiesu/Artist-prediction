@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         20
+    hand hand hand hand hand hand hand hand hand hand feet hand hand hand hand hand hand hand hand hand
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    crazy crazy crazy crazy crazy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out over at out
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told said said treat
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:VISION                                         2
+    look see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time when
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    dig fall
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:SENSATION:HARD                                           1
+    rockin
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+EMOTIONS:AGGRESSION                                              1
+    beat
+EMOTIONS:AFFECTION                                               1
+    married
+EMOTIONS:GLORY                                                   1
+    famous
+
+PRIMARY             : 76.595745 %
+SECONDARY           : 17.021277 %
+EMOTIONS            : 6.382979 %
+
+197 words total

@@ -1,0 +1,46 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    make make make make make make make make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here where where open where where where where
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time time time now time
+SECONDARY:ABSTRACTION                                            5
+    belief choices know choices choices
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow follow follow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    stairs window vista
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slow slow slow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sinking fall
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climbing threw
+PRIMARY:SENSATION:VISION                                         2
+    saw see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    lit burning
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+EMOTIONS:AGGRESSION                                              1
+    argue
+PRIMARY:SENSATION:COLD                                           1
+    cooler
+EMOTIONS:SADNESS                                                 1
+    despair
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertainty
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pulse
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 42.592593 %
+EMOTIONS            : 7.407407 %
+
+249 words total

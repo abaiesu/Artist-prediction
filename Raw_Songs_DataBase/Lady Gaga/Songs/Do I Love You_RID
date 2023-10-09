@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               9
+    dear love love love dear love love dear love
+PRIMARY:SENSATION:VISION                                         5
+    saw appear blue see see
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time ever ever
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky heaven
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean shore
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 45.714286 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 25.714286 %
+
+169 words total

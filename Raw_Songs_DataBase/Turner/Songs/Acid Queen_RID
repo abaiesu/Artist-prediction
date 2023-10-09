@@ -1,0 +1,36 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    pay mend won pay work pay pay
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now while now now now
+SECONDARY:MORAL IMPERATIVE                                       4
+    should right should right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    close apart at apart
+PRIMARY:SENSATION:COLD                                           3
+    child child child
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door road
+SECONDARY:ABSTRACTION                                            2
+    them learn
+SECONDARY:RESTRAINT                                              2
+    must must
+EMOTIONS:AGGRESSION                                              2
+    hit break
+PRIMARY:SENSATION:VISION                                         2
+    look watch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head body
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shakes
+
+PRIMARY             : 43.902439 %
+SECONDARY           : 51.219512 %
+EMOTIONS            : 4.878049 %
+
+235 words total

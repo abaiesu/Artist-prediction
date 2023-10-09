@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:COLD                                          12
+    snow winter winter snowman winter snow winter winter snowman snowman winter winter
+EMOTIONS:GLORY                                                   7
+    wonderland wonderland wonderland wonderland wonderland wonderland wonderland
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away here along away here along
+PRIMARY:SENSATION:VISION                                         5
+    glistening bluebird brown glistening bluebird
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    sight sings sight sings clown
+PRIMARY:SENSATION:SOUND                                          4
+    bells ring bells ring
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy fun
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight when tonight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    build job build
+SECONDARY:ORDER                                                  2
+    listening listening
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lane lane
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    bird bird
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+EMOTIONS:AFFECTION                                               2
+    married love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+SECONDARY:ABSTRACTION                                            2
+    plans plans
+
+PRIMARY             : 57.352941 %
+SECONDARY           : 17.647059 %
+EMOTIONS            : 25.000000 %
+
+226 words total

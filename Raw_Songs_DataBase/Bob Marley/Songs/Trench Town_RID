@@ -1,0 +1,40 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                   33
+    trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench trench
+PRIMARY:SENSATION:SOUND                                         16
+    music music music music music music music music music music music music music music music music
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say speak say say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make find pay pay pay
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    river wash seas
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    places place out
+PRIMARY:SENSATION:HARD                                           2
+    rock hard
+PRIMARY:SENSATION:VISION                                         2
+    vision see
+SECONDARY:ABSTRACTION                                            2
+    them history
+EMOTIONS:ANXIETY                                                 1
+    dread
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+SECONDARY:RESTRAINT                                              1
+    prison
+PRIMARY:NEED:ORALITY                                             1
+    bread
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everyone
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 80.000000 %
+SECONDARY           : 17.647059 %
+EMOTIONS            : 2.352941 %
+
+292 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here where where where where where
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand palm hand
+SECONDARY:TEMPORAL REFERENCES                                    2
+    moment then
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell teach
+EMOTIONS:AFFECTION                                               1
+    darling
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbow
+EMOTIONS:SADNESS                                                 1
+    paint
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:ABSTRACTION                                            1
+    true
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 11.111111 %
+
+134 words total

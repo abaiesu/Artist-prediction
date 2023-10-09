@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out wide across inside off close off off
+SECONDARY:ABSTRACTION                                            7
+    know know know know know know know
+EMOTIONS:AFFECTION                                               4
+    loved like like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    soon soon soon
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    riding riding riding
+PRIMARY:SENSATION:VISION                                         2
+    violet lights
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:NEED:ORALITY                                             1
+    candy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    fenced
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 12.121212 %
+
+139 words total

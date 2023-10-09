@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    told follow said asked asked please promise follow said said follow said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    long far far far far far far far far
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ago when old ever years again
+PRIMARY:SENSATION:SOUND                                          5
+    heart ring heart heart heart
+EMOTIONS:AFFECTION                                               5
+    loved love loved loved loved
+SECONDARY:ABSTRACTION                                            3
+    understand guessed knew
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make success found
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:SENSATION:VISION                                         1
+    saw
+EMOTIONS:GLORY                                                   1
+    proud
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+
+PRIMARY             : 37.735849 %
+SECONDARY           : 49.056604 %
+EMOTIONS            : 13.207547 %
+
+232 words total

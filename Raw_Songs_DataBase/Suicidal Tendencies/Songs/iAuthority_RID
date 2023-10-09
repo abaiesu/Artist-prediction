@@ -1,0 +1,64 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    straight over where away place space behind back out out long back
+PRIMARY:SENSATION:GENERAL-SENSATION                             12
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:TEMPORAL REFERENCES                                   10
+    immediately soon again time now then everyday time time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    make make deliver pursuing make try test making won success
+SECONDARY:ABSTRACTION                                            8
+    them cause think know sure definition establishment why
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    please say service said says protect say
+EMOTIONS:AGGRESSION                                              7
+    hit beats shoot break beat attack beatdown
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right respect respect duty law
+PRIMARY:NEED:SEX                                                 6
+    fuck fuckin fuck fuck fuck fuck
+SECONDARY:RESTRAINT                                              4
+    stop police police penalty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face hands hands face
+EMOTIONS:AFFECTION                                               3
+    love like love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy maniac
+PRIMARY:SENSATION:VISION                                         2
+    scene see
+PRIMARY:NEED:ORALITY                                             2
+    dish diets
+PRIMARY:SENSATION:TASTE                                          2
+    taste taste
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow screaming
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 47.747748 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 11.711712 %
+
+485 words total

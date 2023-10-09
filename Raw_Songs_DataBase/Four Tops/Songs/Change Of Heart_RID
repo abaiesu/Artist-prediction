@@ -1,0 +1,50 @@
+SECONDARY:ABSTRACTION                                           14
+    know fact know fact know think think think thinks think fact know fact know
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart heart heart heart heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    treats said treatin says
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while every when old
+EMOTIONS:AGGRESSION                                              4
+    fight blames blames accuse
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at out out
+PRIMARY:SENSATION:ODOR                                           2
+    smells perfume
+EMOTIONS:AFFECTION                                               2
+    like loves
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep wakes
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:SENSATION:VISION                                         2
+    shine see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    uses uses
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roams
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    staggers
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:NEED:ORALITY                                             1
+    eat
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:RESTRAINT                                              1
+    caught
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 44.827586 %
+EMOTIONS            : 10.344828 %
+
+373 words total

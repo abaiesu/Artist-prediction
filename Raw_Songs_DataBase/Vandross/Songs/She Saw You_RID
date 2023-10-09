@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:VISION                                        14
+    see saw saw saw saw saw saw saw saw saw saw looks saw saw
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    tell called asked said said tell told forgiving convinced plead forgiveness
+EMOTIONS:AFFECTION                                               7
+    liked like friend like like love friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    tried trying tried make pay trying
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today now now time now now
+SECONDARY:ABSTRACTION                                            5
+    why cause true supposed supposed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    player played play player
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out away
+SECONDARY:MORAL IMPERATIVE                                       3
+    shoulda shoulda respect
+EMOTIONS:SADNESS                                                 2
+    sad sorry
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:SENSATION:SOUND                                          2
+    heart heard
+SECONDARY:RESTRAINT                                              2
+    caught caught
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fella
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headlights
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 38.157895 %
+SECONDARY           : 43.421053 %
+EMOTIONS            : 18.421053 %
+
+330 words total

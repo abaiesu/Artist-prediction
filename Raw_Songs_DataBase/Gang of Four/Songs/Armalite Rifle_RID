@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                             15
+    breaks harm harm shoots destroys damage harm disapprove damage damage damage damage damage damage damage
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    use carry used aim use use
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everyday everyday everyday
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    insides off out
+SECONDARY:RESTRAINT                                              2
+    police police
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:POSITIVE AFFECT                                         1
+    jokes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    duty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    legs
+PRIMARY:NEED:ORALITY                                             1
+    guts
+
+PRIMARY             : 19.444444 %
+SECONDARY           : 36.111111 %
+EMOTIONS            : 44.444444 %
+
+123 words total

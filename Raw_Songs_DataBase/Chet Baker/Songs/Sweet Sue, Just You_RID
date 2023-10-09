@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                            5
+    knows knows reason why know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every ever time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above high
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:VISION                                         1
+    star
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shared
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 52.941176 %
+EMOTIONS            : 5.882353 %
+
+60 words total

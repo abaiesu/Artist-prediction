@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                             13
+    breakin breakin breakin breakin breakin breakin breakin breakin breakin breakin breakin breakin breakin
+SECONDARY:RESTRAINT                                             10
+    stop stop stop stop stop stop stop stop stop stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make won make make make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everytime now now now now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    brains brains brains brains brains
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out out out out out
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    consolate please please please
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets streets streets
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jumped throwed
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clown
+
+PRIMARY             : 29.824561 %
+SECONDARY           : 43.859649 %
+EMOTIONS            : 26.315789 %
+
+227 words total

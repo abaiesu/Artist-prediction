@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    place near at here back off here back where here
+SECONDARY:ABSTRACTION                                            8
+    planes them planes thinkin them planes thinkin thinkin
+PRIMARY:SENSATION:VISION                                         7
+    watch watch watchin see watchin see see
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    crazy dream crazy dream crazy dream
+SECONDARY:TEMPORAL REFERENCES                                    4
+    tonight tonight when tonight
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    plays playin playin
+SECONDARY:RESTRAINT                                              2
+    bound stop
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flight
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:SENSATION:SOUND                                          1
+    music
+EMOTIONS:AGGRESSION                                              1
+    beat
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 36.538462 %
+EMOTIONS            : 9.615385 %
+
+201 words total

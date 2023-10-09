@@ -1,0 +1,58 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    tonight when then every when when then tonight year
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       9
+    floor floor floor floor floor floor floor floor floor
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell told say say tell tell treat tell
+EMOTIONS:AGGRESSION                                              4
+    hittin shot strike hit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    buy makin won won
+SECONDARY:ABSTRACTION                                            3
+    know something think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off at back
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:RESTRAINT                                              2
+    bar bar
+PRIMARY:NEED:ORALITY                                             2
+    drink spit
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    floater throw
+PRIMARY:SENSATION:VISION                                         2
+    pictures see
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfied enjoy
+EMOTIONS:GLORY                                                   2
+    rich rich
+PRIMARY:SENSATION:SOUND                                          2
+    sound ear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twistin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tops
+PRIMARY:NEED:SEX                                                 1
+    bitches
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 43.283582 %
+SECONDARY           : 40.298507 %
+EMOTIONS            : 16.417910 %
+
+307 words total

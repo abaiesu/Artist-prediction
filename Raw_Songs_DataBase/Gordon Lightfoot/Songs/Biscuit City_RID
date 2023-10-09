@@ -1,0 +1,38 @@
+PRIMARY:NEED:ORALITY                                             9
+    biscuit biscuit milk honey biscuit biscuit biscuit biscuit biscuit
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make money make makes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long place between
+SECONDARY:ABSTRACTION                                            3
+    cause think cause
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time everyone while
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:SENSATION:SOUND                                          2
+    sound sound
+PRIMARY:SENSATION:ODOR                                           2
+    breathing breathing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sigh sigh
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water beach
+PRIMARY:SENSATION:VISION                                         2
+    emerald seen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets walls
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    quiet die
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:COLD                                           1
+    snow
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 65.853659 %
+SECONDARY           : 24.390244 %
+EMOTIONS            : 9.756098 %
+
+223 words total

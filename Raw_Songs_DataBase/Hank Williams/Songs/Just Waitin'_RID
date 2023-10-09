@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old year old durham early early
+SECONDARY:ABSTRACTION                                            4
+    know guess guess cause
+PRIMARY:SENSATION:VISION                                         3
+    green sunshine violets
+SECONDARY:RESTRAINT                                              3
+    bar prison must
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    beachcomber tide dew
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call preacher preacher
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at out
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    leap fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay die
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money make
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    bird bird
+EMOTIONS:AFFECTION                                               2
+    bride bride
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:TOUCH                                          1
+    slicker
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gate
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 41.304348 %
+EMOTIONS            : 10.869565 %
+
+284 words total

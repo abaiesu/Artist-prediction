@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           10
+    thought cause think knew somethin meant know know somethin somethin
+PRIMARY:SENSATION:SOUND                                          7
+    heart hear heart heart heart heart heart
+EMOTIONS:SADNESS                                                 5
+    sorrow sad sad sorry sorry
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every time while
+EMOTIONS:POSITIVE AFFECT                                         3
+    grin grin joking
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    saying says talking
+EMOTIONS:AFFECTION                                               2
+    like lovers
+PRIMARY:SENSATION:VISION                                         1
+    imagined
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    oddly
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sank
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+
+PRIMARY             : 36.585366 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 24.390244 %
+
+259 words total

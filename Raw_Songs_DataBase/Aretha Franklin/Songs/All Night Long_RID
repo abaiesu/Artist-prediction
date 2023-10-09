@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long long near at long long long long
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    dream dream dreams dream asleep dream fantasy
+SECONDARY:ABSTRACTION                                            5
+    knew tender know know knew
+EMOTIONS:AFFECTION                                               4
+    love favorite love lover
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every when now
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    speak speaks tells
+PRIMARY:SENSATION:SOFT                                           1
+    softness
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 11.111111 %
+
+146 words total

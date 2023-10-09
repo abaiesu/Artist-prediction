@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       28
+    long at at at where at where at where at where at at open where at flat off at where at where at where at where at at
+SECONDARY:ABSTRACTION                                           17
+    them know why know know why cause know them knew know know know cause know why cause
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    street street street street street door street street street street street street
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    talking quote conversation speaking calling call ask talkin
+SECONDARY:RESTRAINT                                              6
+    police catch block stopped caught catch
+EMOTIONS:AGGRESSION                                              6
+    broke broke shooters shots murder kick
+SECONDARY:TEMPORAL REFERENCES                                    6
+    durin now now then everybody now
+PRIMARY:SENSATION:SOUND                                          5
+    heard heard heard heard heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    bodyguard head body head
+EMOTIONS:ANXIETY                                                 2
+    worried worried
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:VISION                                         2
+    pictures scene
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    collect pickin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playin games
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    beach
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippin
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    tripping
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:SENSATION:HARD                                           1
+    rock
+
+PRIMARY             : 53.153153 %
+SECONDARY           : 36.036036 %
+EMOTIONS            : 10.810811 %
+
+421 words total

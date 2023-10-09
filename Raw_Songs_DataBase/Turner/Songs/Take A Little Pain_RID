@@ -1,0 +1,24 @@
+EMOTIONS:SADNESS                                                 8
+    pain pain pain pain pain pain pain pain
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said said explain explain explain said
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+SECONDARY:ABSTRACTION                                            4
+    believe know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:AFFECTION                                               1
+    lover
+EMOTIONS:AGGRESSION                                              1
+    complain
+
+PRIMARY             : 9.677419 %
+SECONDARY           : 58.064516 %
+EMOTIONS            : 32.258065 %
+
+179 words total

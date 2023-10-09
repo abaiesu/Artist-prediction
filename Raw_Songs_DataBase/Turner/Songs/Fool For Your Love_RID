@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              13
+    love like love like love love love goodbye love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    help please help telling please please help please
+PRIMARY:SENSATION:VISION                                         5
+    watching scene scene see scene
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+EMOTIONS:GLORY                                                   4
+    wonder famous famous famous
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    closer out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:ANXIETY                                                 1
+    scared
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 29.545455 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 43.181818 %
+
+280 words total

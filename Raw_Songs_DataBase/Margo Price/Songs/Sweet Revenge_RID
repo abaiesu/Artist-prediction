@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    off out back back back back far out besides back back
+EMOTIONS:AGGRESSION                                             10
+    kicked unkind revenge revenge revenge revenge revenge revenge revenge revenge
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    remarks say teacher spokes called say say say
+PRIMARY:SENSATION:TASTE                                          8
+    sweet sweet sweet sweet sweet sweet sweet sweet
+PRIMARY:SENSATION:HARD                                           6
+    rock stone rock stone rock stone
+EMOTIONS:AFFECTION                                               5
+    friends favorite friends liked friends
+SECONDARY:RESTRAINT                                              5
+    jail caught jail jail prevail
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything when yesterday soon
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dead dead dead
+EMOTIONS:SADNESS                                                 3
+    moans moans moans
+SECONDARY:ABSTRACTION                                            3
+    plane cause learned
+PRIMARY:NEED:ORALITY                                             3
+    meat meat milkman
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rains sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ship sailing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    cheek
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumbling
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:SENSATION:VISION                                         1
+    watched
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    aisle
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+EMOTIONS:POSITIVE AFFECT                                         1
+    jokes
+PRIMARY:SENSATION:SOUND                                          1
+    tunes
+
+PRIMARY             : 51.219512 %
+SECONDARY           : 25.609756 %
+EMOTIONS            : 23.170732 %
+
+270 words total

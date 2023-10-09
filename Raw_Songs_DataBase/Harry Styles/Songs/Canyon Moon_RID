@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    8
+    under canyon under canyon under canyon under canyon
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back back long at back back long
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time weeks time quick old time
+SECONDARY:ABSTRACTION                                            6
+    believe thinking thinking thinking know thinking
+PRIMARY:SENSATION:VISION                                         4
+    see looked blue blue
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard music
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky ceiling
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow plays
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    saying conversation
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doors
+EMOTIONS:AGGRESSION                                              1
+    broken
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    carry
+EMOTIONS:AFFECTION                                               1
+    lover
+
+PRIMARY             : 55.319149 %
+SECONDARY           : 34.042553 %
+EMOTIONS            : 10.638298 %
+
+259 words total

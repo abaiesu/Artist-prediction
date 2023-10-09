@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    somewhere distance across out back out out out outside out out out out out out
+SECONDARY:TEMPORAL REFERENCES                                   10
+    clock till tonight when tonight when tonight when tonight when
+PRIMARY:SENSATION:VISION                                        10
+    shine watch light light watch light watch light watch light
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleep sleep sleep sleep
+EMOTIONS:AGGRESSION                                              3
+    strikes attack break
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear noise
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    bark cry yell
+SECONDARY:ABSTRACTION                                            3
+    cause cause something
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window door floor
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:COLD                                           1
+    chill
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spine
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:HARD                                           1
+    steel
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:NEED:SEX                                                 1
+    naked
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:NEED:ANALITY                                             1
+    mess
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tellin
+
+PRIMARY             : 67.142857 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 11.428571 %
+
+350 words total

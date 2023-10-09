@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away away away back out away
+EMOTIONS:POSITIVE AFFECT                                         6
+    joy smile joy smile joy smile
+PRIMARY:SENSATION:VISION                                         5
+    see blue see brown see
+SECONDARY:ABSTRACTION                                            5
+    thought knew sure know know
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    ease slow
+EMOTIONS:ANXIETY                                                 2
+    cares afraid
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head arms
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 47.500000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 22.500000 %
+
+261 words total

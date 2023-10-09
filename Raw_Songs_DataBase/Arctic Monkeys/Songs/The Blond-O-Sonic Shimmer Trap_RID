@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    off back off back flat off back
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when time when when when
+EMOTIONS:AFFECTION                                               5
+    love love love like like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    wing wing floats wing
+SECONDARY:ABSTRACTION                                            4
+    meant knows meant meant
+PRIMARY:SENSATION:SOUND                                          3
+    snapped snapped snapped
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    shake shake shake
+PRIMARY:SENSATION:VISION                                         2
+    shimmering shimmer
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fog
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:TASTE                                          1
+    tastes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    brink
+PRIMARY:SENSATION:TOUCH                                          1
+    stings
+
+PRIMARY             : 69.565217 %
+SECONDARY           : 19.565217 %
+EMOTIONS            : 10.869565 %
+
+175 words total

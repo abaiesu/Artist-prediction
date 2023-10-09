@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    long long long long long far apart here long long far apart here long long
+EMOTIONS:AFFECTION                                               3
+    darling goodbye goodbye
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet say
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 13.793103 %
+EMOTIONS            : 24.137931 %
+
+154 words total

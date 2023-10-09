@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at at back at over at here
+SECONDARY:ABSTRACTION                                            5
+    them sure know know reason
+PRIMARY:SENSATION:VISION                                         5
+    watch see light light light
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met sayin talkin
+EMOTIONS:AGGRESSION                                              3
+    whip hit killed
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot hot
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birdbaths grown
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    price wins
+PRIMARY:SENSATION:SOUND                                          2
+    music hear
+EMOTIONS:AFFECTION                                               2
+    pat like
+PRIMARY:NEED:ORALITY                                             2
+    appetite nauseous
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:NEED:SEX                                                 1
+    fuckin
+SECONDARY:RESTRAINT                                              1
+    tax
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+
+PRIMARY             : 58.536585 %
+SECONDARY           : 29.268293 %
+EMOTIONS            : 12.195122 %
+
+271 words total

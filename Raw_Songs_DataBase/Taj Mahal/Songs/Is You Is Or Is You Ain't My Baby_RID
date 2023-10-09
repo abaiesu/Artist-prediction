@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make find found makes found
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    straight out out
+SECONDARY:ABSTRACTION                                            3
+    cause sure true
+SECONDARY:TEMPORAL REFERENCES                                    2
+    date when
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask tell
+EMOTIONS:AGGRESSION                                              2
+    doubt doubt
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flame flame
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gate
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 39.285714 %
+SECONDARY           : 46.428571 %
+EMOTIONS            : 14.285714 %
+
+210 words total

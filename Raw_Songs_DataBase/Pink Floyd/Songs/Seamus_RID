@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    outside outside
+SECONDARY:TEMPORAL REFERENCES                                    2
+    old old
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinks
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 10.000000 %
+
+41 words total

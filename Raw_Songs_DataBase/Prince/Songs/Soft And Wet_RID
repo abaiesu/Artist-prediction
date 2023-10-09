@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              10
+    lover lover love love lover love love lover love love
+PRIMARY:ICARIAN IMAGERY:WATER                                   10
+    wet wet wet wet wet rain wet wet wet wet
+PRIMARY:SENSATION:SOFT                                           9
+    soft soft soft soft soft soft soft soft soft
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tell tell tell follow call
+PRIMARY:NEED:ORALITY                                             4
+    sugar sugar mouths sugar
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every every time
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    insane crazy crazy
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driving driving
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flame
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 61.016949 %
+SECONDARY           : 18.644068 %
+EMOTIONS            : 20.338983 %
+
+221 words total

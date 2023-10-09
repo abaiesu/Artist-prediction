@@ -1,0 +1,50 @@
+SECONDARY:SOCIAL BEHAVIOR                                       20
+    say taught taught taught teach say tells taught taught taught teach say speak taught taught taught teach say teach say
+EMOTIONS:AFFECTION                                              10
+    love goodbye goodbye like love goodbye goodbye goodbye goodbye goodbye
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when tonight when when when when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won try make belongs try lessons try
+SECONDARY:ABSTRACTION                                            7
+    know learn them learn known except learn
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    wings fly wings fly wings fly
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    across longer out out back
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart voice
+EMOTIONS:AGGRESSION                                              3
+    fight hurt hurt
+EMOTIONS:POSITIVE AFFECT                                         3
+    laugh laugh laugh
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry cry cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    spread spread spread
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 28.888889 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 21.111111 %
+
+336 words total

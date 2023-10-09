@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when ever again soon when when when when soon when when when when
+SECONDARY:ABSTRACTION                                           12
+    think know true true know true true know true true true true
+EMOTIONS:AFFECTION                                              12
+    love love love love kind love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won won
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    treat treat meet treat
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at out
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:NEED:SEX                                                 2
+    kisses kisses
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+
+PRIMARY             : 19.672131 %
+SECONDARY           : 57.377049 %
+EMOTIONS            : 22.950820 %
+
+263 words total

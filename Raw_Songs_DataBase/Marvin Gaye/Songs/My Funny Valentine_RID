@@ -1,0 +1,30 @@
+EMOTIONS:POSITIVE AFFECT                                         3
+    funny smile laughable
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make work
+SECONDARY:ABSTRACTION                                            2
+    figure figure
+PRIMARY:NEED:ORALITY                                             2
+    mouth mouth
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    open open
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speak speak
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair hair
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    looks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 38.095238 %
+EMOTIONS            : 19.047619 %
+
+120 words total

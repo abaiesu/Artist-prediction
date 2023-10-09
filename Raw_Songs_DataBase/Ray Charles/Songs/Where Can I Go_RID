@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where place where where closed where where at
+PRIMARY:SENSATION:VISION                                         4
+    see see light see
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell please promised
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every every now
+SECONDARY:MORAL IMPERATIVE                                       3
+    right should right
+SECONDARY:ABSTRACTION                                            3
+    know understand know
+EMOTIONS:GLORY                                                   2
+    proudly proud
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandering
+
+PRIMARY             : 51.612903 %
+SECONDARY           : 41.935484 %
+EMOTIONS            : 6.451613 %
+
+108 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              16
+    love loved loved loved love marrying kind loved loved loved loved loved loved loved loved loved
+EMOTIONS:AGGRESSION                                             16
+    guns guns guns guns guns guns guns guns guns guns guns guns guns guns guns guns
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    play game game game game game game game
+PRIMARY:SENSATION:VISION                                         6
+    see blue see light tan look
+SECONDARY:MORAL IMPERATIVE                                       5
+    should honest should should should
+SECONDARY:ABSTRACTION                                            4
+    learned cause them learned
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time then again tonight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out back
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promised
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bathing
+EMOTIONS:ANXIETY                                                 1
+    terrific
+
+PRIMARY             : 15.384615 %
+SECONDARY           : 21.538462 %
+EMOTIONS            : 63.076923 %
+
+233 words total

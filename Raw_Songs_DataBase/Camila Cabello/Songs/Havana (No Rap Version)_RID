@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       22
+    back east back east behind back east back back back back back back back back back back back back back back east
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when minute when when then when when every time when when then
+PRIMARY:SENSATION:SOUND                                         11
+    heart heart heart heart heart heart heart heart heart heart heart
+EMOTIONS:AFFECTION                                              10
+    like loved like welcome like loved like like like like
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said says met tell said told met tell
+SECONDARY:ABSTRACTION                                            6
+    somethin knew knew knew knew knew
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+
+PRIMARY             : 49.315068 %
+SECONDARY           : 36.986301 %
+EMOTIONS            : 13.698630 %
+
+453 words total

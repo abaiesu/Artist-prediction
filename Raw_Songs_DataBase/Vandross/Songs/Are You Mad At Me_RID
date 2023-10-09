@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:VISION                                         7
+    rough see see see see look see
+SECONDARY:ABSTRACTION                                            6
+    know know sure understand something know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    off back at back at at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    found makes tried makes try
+SECONDARY:TEMPORAL REFERENCES                                    5
+    yesterday when tonight when when
+EMOTIONS:AFFECTION                                               4
+    dear love dear love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say called apologize talk
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    mad mad mad
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+EMOTIONS:SADNESS                                                 2
+    sorry pain
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+
+PRIMARY             : 45.614035 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 17.543860 %
+
+226 words total

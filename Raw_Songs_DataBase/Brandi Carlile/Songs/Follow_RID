@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where outside inside out out here where outside inside
+SECONDARY:ABSTRACTION                                            6
+    know them know know know them
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    follow reminds reminds follow
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever now now ever
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:SENSATION:COLD                                           2
+    cold frozen
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used used
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+
+PRIMARY             : 51.282051 %
+SECONDARY           : 41.025641 %
+EMOTIONS            : 7.692308 %
+
+190 words total

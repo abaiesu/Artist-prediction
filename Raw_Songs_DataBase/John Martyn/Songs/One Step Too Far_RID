@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away where far over where far
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say please tell please tell
+PRIMARY:SENSATION:VISION                                         4
+    scene lightly scene scene
+SECONDARY:ABSTRACTION                                            3
+    why believe believe
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    step stepping step
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing playing
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:COLD                                           2
+    cool cool
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipping
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 13.333333 %
+
+176 words total

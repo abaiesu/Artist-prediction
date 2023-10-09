@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         6
+    blues blues blues blues blues blues
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everybody sometimes everybody sometimes when
+SECONDARY:ABSTRACTION                                            5
+    know know know know know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say ask
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over here
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistreated mistreated
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 48.387097 %
+EMOTIONS            : 16.129032 %
+
+120 words total

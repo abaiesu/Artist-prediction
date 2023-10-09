@@ -1,0 +1,22 @@
+SECONDARY:ABSTRACTION                                            7
+    cause why why know know them know
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+EMOTIONS:AFFECTION                                               4
+    like embracing like embracing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    explain explain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes makes
+PRIMARY:SENSATION:SOUND                                          2
+    sound hear
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sometimes
+EMOTIONS:ANXIETY                                                 1
+    dangerous
+
+PRIMARY             : 26.086957 %
+SECONDARY           : 52.173913 %
+EMOTIONS            : 21.739130 %
+
+134 words total

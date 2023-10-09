@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       23
+    over here at out at at here place out along at at here place out along at at at here place out along
+SECONDARY:ABSTRACTION                                           14
+    why cause reason why supposed know cause cause reason why cause cause reason why
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when then now everybody now then now everybody every then now everybody
+PRIMARY:SENSATION:VISION                                        11
+    rough noticed looking watch noticed looking watch see noticed looking watch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    hands foot foot foot foot foot foot
+PRIMARY:SENSATION:COLD                                           6
+    chill cool chill cool chill cool
+EMOTIONS:AGGRESSION                                              4
+    hate hurt bother harm
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk ask talk talk
+PRIMARY:SENSATION:SOUND                                          4
+    tone ring tone tone
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing danced sing sing
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    shakin shakin shakin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    stepping stepping stepping
+EMOTIONS:AFFECTION                                               2
+    like likes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carryin find
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fella
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    linger
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impress
+EMOTIONS:ANXIETY                                                 1
+    alarmed
+
+PRIMARY             : 58.490566 %
+SECONDARY           : 30.188679 %
+EMOTIONS            : 11.320755 %
+
+555 words total

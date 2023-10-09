@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    towards towards towards towards
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    heavens peaking trees heavens
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lie death death dead
+PRIMARY:SENSATION:VISION                                         4
+    grey green color green
+EMOTIONS:GLORY                                                   2
+    rich heroic
+PRIMARY:SENSATION:TOUCH                                          2
+    texture texture
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    rooted roots
+PRIMARY:NEED:ORALITY                                             2
+    feed pearls
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleep
+PRIMARY:SENSATION:COLD                                           2
+    snow winter
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    plays
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:HARD                                           1
+    stones
+EMOTIONS:AFFECTION                                               1
+    embrace
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shores
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    swoop
+EMOTIONS:SADNESS                                                 1
+    sorrowfilled
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flames
+
+PRIMARY             : 84.210526 %
+SECONDARY           : 2.631579 %
+EMOTIONS            : 13.157895 %
+
+127 words total

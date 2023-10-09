@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           10
+    think guess something learn fact know guess fact know guess
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    met accept called say describe quote called say
+SECONDARY:TEMPORAL REFERENCES                                    6
+    ever when when again times again
+EMOTIONS:AFFECTION                                               5
+    love love like love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back over at back
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 59.523810 %
+EMOTIONS            : 11.904762 %
+
+297 words total

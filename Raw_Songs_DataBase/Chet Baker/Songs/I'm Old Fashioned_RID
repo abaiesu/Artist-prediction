@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old old year old old year old old
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    sings sighing sighs sighing sighs
+PRIMARY:SENSATION:SOUND                                          3
+    sound heart heart
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hands
+SECONDARY:ABSTRACTION                                            2
+    understands understands
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    agree agree
+PRIMARY:SENSATION:VISION                                         1
+    moonlight
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 41.379310 %
+EMOTIONS            : 24.137931 %
+
+116 words total

@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       19
+    please speak please explain call call said excuse told asked reply please explain call call please explain call call
+SECONDARY:ABSTRACTION                                            7
+    may thought think think think think think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find find find find find
+SECONDARY:TEMPORAL REFERENCES                                    4
+    today now today now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream mad mad
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at away here
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+EMOTIONS:AGGRESSION                                              3
+    blame blame blame
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet knees
+EMOTIONS:GLORY                                                   1
+    princess
+EMOTIONS:ANXIETY                                                 1
+    troubles
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 26.315789 %
+SECONDARY           : 63.157895 %
+EMOTIONS            : 10.526316 %
+
+289 words total

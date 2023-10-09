@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    soon now now now now now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back away back back back away
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cried cried cried cried
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile happiness happiness
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:SENSATION:SOUND                                          2
+    heart hearts
+EMOTIONS:AGGRESSION                                              2
+    broken damage
+EMOTIONS:AFFECTION                                               2
+    darlin darling
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    thrown thrown
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 37.837838 %
+SECONDARY           : 32.432432 %
+EMOTIONS            : 29.729730 %
+
+170 words total

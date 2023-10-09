@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    over over wide over open open where where where over somewhere over over where
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when once when once time time time time time
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        7
+    forever forever forever forever forever forever forever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    road road road road road windows
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    hill top hill hill hill
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    rain rainbows rainbows rainbows rainbows
+SECONDARY:ABSTRACTION                                            5
+    chose learning chose learning knows
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face eyes footsteps footsteps
+EMOTIONS:GLORY                                                   4
+    wonder strutting wondering wondering
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    under under under under
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing dance sing dance
+PRIMARY:SENSATION:HARD                                           4
+    stone stone stone stone
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    roll rolling roll rolling
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    secret secret
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    counting
+EMOTIONS:SADNESS                                                 1
+    paint
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 67.816092 %
+SECONDARY           : 18.390805 %
+EMOTIONS            : 13.793103 %
+
+262 words total

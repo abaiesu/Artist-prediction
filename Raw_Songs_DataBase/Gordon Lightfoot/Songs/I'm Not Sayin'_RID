@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    sayin sayin sayin sayin tell promise sayin say say sayin promised sayin say say sayin say sayin
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when now time now time when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won make try won make try try
+SECONDARY:ABSTRACTION                                            5
+    may true may true true
+EMOTIONS:AFFECTION                                               4
+    love love love like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing cry cry
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistreat mistreat
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:NEED:ORALITY                                             1
+    cafe
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 17.857143 %
+SECONDARY           : 66.071429 %
+EMOTIONS            : 16.071429 %
+
+269 words total

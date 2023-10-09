@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                        14
+    see looking see see see see see see see see see see see see
+EMOTIONS:AFFECTION                                              13
+    like like like like like like like like like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    space away closeness over over
+SECONDARY:ABSTRACTION                                            3
+    why understanding tender
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever again yearnings
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+EMOTIONS:SADNESS                                                 2
+    loneliness loneliness
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hangs hangs
+EMOTIONS:ANXIETY                                                 1
+    worried
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    relax
+PRIMARY:SENSATION:HARD                                           1
+    rocking
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmth
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:NEED:ORALITY                                             1
+    thirst
+
+PRIMARY             : 51.851852 %
+SECONDARY           : 12.962963 %
+EMOTIONS            : 35.185185 %
+
+213 words total

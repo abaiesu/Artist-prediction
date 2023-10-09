@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then suddenly ever then when now
+PRIMARY:SENSATION:VISION                                         5
+    blue saw appeared looked blue
+PRIMARY:SENSATION:SOUND                                          4
+    heart heard heard heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    longer
+
+PRIMARY             : 56.000000 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 16.000000 %
+
+83 words total

@@ -1,0 +1,42 @@
+SECONDARY:ABSTRACTION                                            6
+    why truth thoughts know know tend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    aim make make count try
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when again often once quickly
+EMOTIONS:AGGRESSION                                              4
+    enemy hate blame blame
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said follow tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over distant inside
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    frame wall
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall dive
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throw hanging
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+EMOTIONS:ANXIETY                                                 1
+    desperation
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+EMOTIONS:SADNESS                                                 1
+    sadly
+EMOTIONS:AFFECTION                                               1
+    sympathy
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 47.619048 %
+EMOTIONS            : 19.047619 %
+
+200 words total

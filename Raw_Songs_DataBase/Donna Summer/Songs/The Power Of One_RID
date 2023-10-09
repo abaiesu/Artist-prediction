@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when then when then when then when
+SECONDARY:ABSTRACTION                                            6
+    difference real believing chosen believing believing
+PRIMARY:SENSATION:VISION                                         4
+    imagine look imagine imagine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside place inside
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dreams
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    gift
+
+PRIMARY             : 40.625000 %
+SECONDARY           : 59.375000 %
+EMOTIONS            : 0.000000 %
+
+227 words total

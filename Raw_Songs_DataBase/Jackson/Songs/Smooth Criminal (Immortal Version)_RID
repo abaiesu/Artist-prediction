@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                              9
+    struck struck struck hit hit struck struck hit hit
+SECONDARY:ABSTRACTION                                            8
+    know know know know know know why know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window window window
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    apartment apartment apartment
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    bloodstains bloodstains bloodstains
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then everybody now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:SENSATION:TOUCH                                          2
+    smooth smooth
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 37.837838 %
+SECONDARY           : 37.837838 %
+EMOTIONS            : 24.324324 %
+
+306 words total

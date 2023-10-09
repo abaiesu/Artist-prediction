@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    side where here here where between side back here away here side between side back here away here side side where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    found try belong spendin paid sold spendin paid sold
+PRIMARY:SENSATION:VISION                                         9
+    seen see shinin glow light see shinin glow light
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time every old ever old ever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    headlights body headin headlights body headin
+SECONDARY:ABSTRACTION                                            4
+    know them almost almost
+PRIMARY:SENSATION:COLD                                           3
+    ice snow cold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AFFECTION                                               2
+    lovin lovin
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+EMOTIONS:GLORY                                                   2
+    pride pride
+EMOTIONS:SADNESS                                                 1
+    lonesome
+
+PRIMARY             : 62.318841 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 7.246377 %
+
+293 words total

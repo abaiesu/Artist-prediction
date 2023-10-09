@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:COLD                                           9
+    cold freeze iceman freeze chill child iceman froze iceman
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    pretty pretty pretty beautiful
+SECONDARY:ABSTRACTION                                            3
+    thinking know calculated
+EMOTIONS:AGGRESSION                                              3
+    anger hurt kill
+EMOTIONS:SADNESS                                                 3
+    pain mourn mourn
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside distance close
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    brain knees
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say please
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when once
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:HARD                                           1
+    stone
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    machine
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+
+PRIMARY             : 59.459459 %
+SECONDARY           : 21.621622 %
+EMOTIONS            : 18.918919 %
+
+146 words total

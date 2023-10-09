@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    now now now early ever now now now now now now now now
+EMOTIONS:AFFECTION                                               9
+    loves loves loves loves love loves loves loves loves
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out between over closer out long off out
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    admit saying met tell said admit admit
+SECONDARY:ABSTRACTION                                            7
+    decided true knew something cause know meant
+EMOTIONS:AGGRESSION                                              6
+    complain complain doubt hit hurt complain
+SECONDARY:RESTRAINT                                              4
+    must must must must
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dance danced dance danced
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+
+PRIMARY             : 17.460317 %
+SECONDARY           : 50.793651 %
+EMOTIONS            : 31.746032 %
+
+258 words total

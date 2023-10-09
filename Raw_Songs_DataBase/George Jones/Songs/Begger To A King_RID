@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    off back along off back placed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    picked picked picked
+PRIMARY:NEED:SEX                                                 3
+    kissed kissed kissed
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then then
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm sun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunk
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:SENSATION:VISION                                         1
+    shine
+EMOTIONS:GLORY                                                   1
+    crown
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 7.142857 %
+
+142 words total

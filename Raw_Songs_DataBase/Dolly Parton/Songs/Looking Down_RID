@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        13
+    look looks looking looking look looking looking looking look looking looking looking looking
+EMOTIONS:AFFECTION                                              10
+    love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    8
+    while ago when then now now then while
+SECONDARY:ABSTRACTION                                            7
+    know knowing true knowing true knowing true
+PRIMARY:SENSATION:SOUND                                          4
+    sound heart sound sound
+EMOTIONS:AGGRESSION                                              3
+    steal hurts hurts
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long at at
+SECONDARY:MORAL IMPERATIVE                                       2
+    should honor
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found find
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+EMOTIONS:SADNESS                                                 1
+    frown
+
+PRIMARY             : 37.288136 %
+SECONDARY           : 37.288136 %
+EMOTIONS            : 25.423729 %
+
+243 words total

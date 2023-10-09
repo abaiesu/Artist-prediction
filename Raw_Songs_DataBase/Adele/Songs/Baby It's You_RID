@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            6
+    cause true know true cause cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    apart at over at over
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    help say say say help
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever old when
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 32.142857 %
+SECONDARY           : 53.571429 %
+EMOTIONS            : 14.285714 %
+
+252 words total

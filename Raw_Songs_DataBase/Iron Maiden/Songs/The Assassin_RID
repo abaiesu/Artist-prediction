@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                        19
+    watch watch watch watch watch watch watch watch watch watch light watch watch watch watch watch watch watch watch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    out out out out out out out out out closer out out out out out out out out
+SECONDARY:ABSTRACTION                                           11
+    understand think cause cause cause cause know cause cause cause cause
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now every moment
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money make study
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill excitement
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death dead
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands veins
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sights
+SECONDARY:MORAL IMPERATIVE                                       1
+    rights
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AFFECTION                                               1
+    goodbye
+
+PRIMARY             : 68.493151 %
+SECONDARY           : 26.027397 %
+EMOTIONS            : 5.479452 %
+
+244 words total

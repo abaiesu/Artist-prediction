@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            6
+    knows knows cause knows knows knows
+PRIMARY:SENSATION:SOUND                                          6
+    music rhythm music music music music
+PRIMARY:SENSATION:HARD                                           5
+    rock rock rock rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    roll roll roll roll roll
+EMOTIONS:AGGRESSION                                              5
+    cutting invader war invader war
+PRIMARY:SENSATION:VISION                                         5
+    see watch watch blues watch
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+PRIMARY:NEED:ORALITY                                             3
+    teeth fruits fruits
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out across out
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    sailing ship
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    roots roots
+EMOTIONS:GLORY                                                   2
+    gold gold
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 21.568627 %
+EMOTIONS            : 13.725490 %
+
+170 words total

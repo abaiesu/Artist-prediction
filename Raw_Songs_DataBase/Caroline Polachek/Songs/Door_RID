@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      31
+    door door door door door door door door door door door door door door door door door door door door door door door door door door door door door door door
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    back out round behind back out open open back back open open back out open open
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when now sometimes when year everything when now sometimes when
+SECONDARY:ABSTRACTION                                            7
+    planet prove judgment cause know different know
+PRIMARY:NEED:ANALITY                                             4
+    sweater sweater sweater sweater
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    perpetual perpetual perpetual
+PRIMARY:NEED:ORALITY                                             3
+    laps salt salt
+EMOTIONS:AGGRESSION                                              3
+    hit wound wound
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    drop sunset sunset
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    waking
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainfall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 71.590909 %
+SECONDARY           : 21.590909 %
+EMOTIONS            : 6.818182 %
+
+424 words total

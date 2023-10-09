@@ -1,0 +1,46 @@
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   9
+    jumpy spring spring spring spring swing wing spring spring
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say meet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fever fever
+SECONDARY:ABSTRACTION                                            2
+    know why
+PRIMARY:SENSATION:SOUND                                          2
+    hearing heard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    restless
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyed
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    vaguely
+EMOTIONS:AGGRESSION                                              1
+    discontented
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    somewhere
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:POSITIVE AFFECT                                         1
+    gay
+EMOTIONS:SADNESS                                                 1
+    melancholy
+
+PRIMARY             : 65.625000 %
+SECONDARY           : 18.750000 %
+EMOTIONS            : 15.625000 %
+
+147 words total

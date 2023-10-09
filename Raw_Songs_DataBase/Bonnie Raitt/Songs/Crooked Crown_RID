@@ -1,0 +1,40 @@
+EMOTIONS:GLORY                                                   5
+    crown crown crown crown crown
+PRIMARY:SENSATION:VISION                                         4
+    look look look look
+SECONDARY:ABSTRACTION                                            4
+    knowing something knowing knowing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance scream play
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when again
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    quiet bed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where at
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:NEED:ORALITY                                             1
+    corners
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:SENSATION:SOFT                                           1
+    delicate
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 31.428571 %
+EMOTIONS            : 25.714286 %
+
+168 words total

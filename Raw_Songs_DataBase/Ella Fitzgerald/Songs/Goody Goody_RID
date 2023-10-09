@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    met met told met met
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heels heels
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:SOUND                                          2
+    heart tinkle
+PRIMARY:SENSATION:VISION                                         2
+    blues tans
+EMOTIONS:AFFECTION                                               2
+    loves like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    hurray hurray
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    halleluyah halleluyah
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfied satisfied
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 44.117647 %
+EMOTIONS            : 20.588235 %
+
+213 words total

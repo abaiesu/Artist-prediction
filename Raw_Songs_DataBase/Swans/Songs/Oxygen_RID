@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eye eye skin vein bones skull
+SECONDARY:TEMPORAL REFERENCES                                    5
+    again again now now now
+PRIMARY:NEED:ORALITY                                             5
+    eat throat feed feed drink
+PRIMARY:SENSATION:ODOR                                           4
+    breathe breathe breathe breathe
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry yellow cry dance
+EMOTIONS:AGGRESSION                                              3
+    break cut steal
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+EMOTIONS:ANXIETY                                                 1
+    scared
+
+PRIMARY             : 63.888889 %
+SECONDARY           : 13.888889 %
+EMOTIONS            : 22.222222 %
+
+104 words total

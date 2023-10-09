@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       22
+    point out out out out out out at back outside out out out out distance far far off off off off off
+PRIMARY:SENSATION:SOUND                                         10
+    echo hear hear hear hear hear echo hear hear deaf
+EMOTIONS:AGGRESSION                                             10
+    kick kick kick kick kick kick kick kick kick kick
+SECONDARY:ABSTRACTION                                            5
+    proof know sure sure problem
+EMOTIONS:AFFECTION                                               3
+    bride love love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    lines streets line
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said talks tell
+PRIMARY:SENSATION:HARD                                           2
+    glasses rock
+SECONDARY:TEMPORAL REFERENCES                                    2
+    weekend time
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:SENSATION:VISION                                         1
+    stars
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    practicing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screams
+PRIMARY:NEED:SEX                                                 1
+    fucking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 62.318841 %
+SECONDARY           : 17.391304 %
+EMOTIONS            : 20.289855 %
+
+334 words total

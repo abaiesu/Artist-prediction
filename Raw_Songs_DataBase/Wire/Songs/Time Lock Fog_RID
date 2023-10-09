@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out inside where
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wakened sleep
+EMOTIONS:AGGRESSION                                              2
+    violent broke
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    brain face
+SECONDARY:ABSTRACTION                                            2
+    believers believers
+SECONDARY:TEMPORAL REFERENCES                                    2
+    years time
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    attempts
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    passive
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fog
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 13.043478 %
+
+69 words total

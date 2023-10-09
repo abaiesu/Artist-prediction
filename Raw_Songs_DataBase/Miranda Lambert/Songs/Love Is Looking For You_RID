@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        10
+    gray lookin looking lookin lookin lookin lookin looking lookin looking
+SECONDARY:TEMPORAL REFERENCES                                    9
+    every time when now when now now now already
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    inside out out level out at
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burnin flame fire
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain water
+SECONDARY:ABSTRACTION                                            2
+    think truth
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:NEED:ORALITY                                             1
+    thirsty
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 28.888889 %
+EMOTIONS            : 15.555556 %
+
+192 words total

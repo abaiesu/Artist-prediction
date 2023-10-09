@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back back back round here back back back
+PRIMARY:SENSATION:TASTE                                          6
+    sweet sweet sweet sweet sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now now time again
+PRIMARY:NEED:ORALITY                                             3
+    honey honey honey
+EMOTIONS:AFFECTION                                               2
+    friend friend
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell help
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    business
+SECONDARY:ABSTRACTION                                            1
+    sure
+
+PRIMARY             : 60.714286 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 7.142857 %
+
+237 words total

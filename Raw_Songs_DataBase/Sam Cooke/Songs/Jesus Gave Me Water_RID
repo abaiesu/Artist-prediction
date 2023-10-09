@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                   32
+    water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    met tell tell met tell tell
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    swell pitcher swell swell swell
+EMOTIONS:AFFECTION                                               5
+    loving pity love love loving
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then times every time
+EMOTIONS:GLORY                                                   4
+    richer glory wonders wonders
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+EMOTIONS:AGGRESSION                                              2
+    doubtin doubtin
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    hallelujah
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shoutin
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 64.615385 %
+SECONDARY           : 16.923077 %
+EMOTIONS            : 18.461538 %
+
+310 words total

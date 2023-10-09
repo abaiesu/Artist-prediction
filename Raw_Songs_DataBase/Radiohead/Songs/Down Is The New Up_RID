@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    pour pour bath pour
+SECONDARY:TEMPORAL REFERENCES                                    4
+    week now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off off off out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won won perform
+PRIMARY:NEED:ORALITY                                             2
+    drink buttercup
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    services
+SECONDARY:RESTRAINT                                              1
+    required
+PRIMARY:SENSATION:SOFT                                           1
+    gentlemen
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safety
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    chink
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+
+PRIMARY             : 64.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 0.000000 %
+
+174 words total

@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used spend find reach
+SECONDARY:TEMPORAL REFERENCES                                    4
+    hours now now tonight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away out back
+SECONDARY:ABSTRACTION                                            3
+    learned learning cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed rest
+EMOTIONS:AFFECTION                                               2
+    love liked
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    taught teach
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:ANXIETY                                                 1
+    dread
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 30.434783 %
+SECONDARY           : 56.521739 %
+EMOTIONS            : 13.043478 %
+
+161 words total

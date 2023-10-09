@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say excuses excuse say excuses excuse excuse
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes today again today again again
+SECONDARY:ABSTRACTION                                            6
+    real cause guess cause guess real
+EMOTIONS:AFFECTION                                               5
+    kind love kind love kind
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back long long
+EMOTIONS:AGGRESSION                                              2
+    slap kick
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    making making
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 18.918919 %
+SECONDARY           : 62.162162 %
+EMOTIONS            : 18.918919 %
+
+148 words total

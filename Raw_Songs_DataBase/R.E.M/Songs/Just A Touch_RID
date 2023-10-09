@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back long long back long where
+PRIMARY:SENSATION:VISION                                         6
+    look look look see green see
+EMOTIONS:POSITIVE AFFECT                                         3
+    laughed laughed laughed
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard heard
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    informed informed informed
+PRIMARY:NEED:ORALITY                                             3
+    mouth mouth mouth
+SECONDARY:RESTRAINT                                              3
+    caught caught caught
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carry assembled
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now past
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    towering
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 26.315789 %
+EMOTIONS            : 10.526316 %
+
+208 words total

@@ -1,0 +1,52 @@
+PRIMARY:SENSATION:VISION                                        12
+    glow beams flashback glow beams looking lights glow beams opaque pink looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    over opening out across side behind closed opening out across
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    use sell bought tried making selection making selection
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    describe say discuss discuss called told thankfully
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time now again time times times when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    windows door wallpaper walls windows
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    low hole low low
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    search flamingos
+PRIMARY:SENSATION:ODOR                                           2
+    fragrance nose
+SECONDARY:ABSTRACTION                                            2
+    fact know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    handheld eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll roll
+EMOTIONS:AGGRESSION                                              2
+    vengeance killer
+SECONDARY:RESTRAINT                                              2
+    bar controlled
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bucket
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sport
+PRIMARY:NEED:ORALITY                                             1
+    sucked
+SECONDARY:ORDER                                                  1
+    simplified
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairly
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dive
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 5.263158 %
+
+267 words total

@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    stimulation
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chaste
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    signals
+EMOTIONS:GLORY                                                   1
+    sublime
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+PRIMARY:SENSATION:VISION                                         1
+    picture
+PRIMARY:NEED:ANALITY                                             1
+    mud
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 8.333333 %
+EMOTIONS            : 16.666667 %
+
+59 words total

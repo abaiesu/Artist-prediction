@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    reared between apart out between apart at between apart
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    shared call greet talking meet call say call
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when now when soon when
+EMOTIONS:AGGRESSION                                              6
+    defeated knife slander knife blame knife
+EMOTIONS:AFFECTION                                               4
+    like love love love
+PRIMARY:NEED:ORALITY                                             3
+    morsel fast tongue
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lay
+EMOTIONS:POSITIVE AFFECT                                         2
+    relief smile
+SECONDARY:ABSTRACTION                                            2
+    meant different
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eye
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:SADNESS                                                 1
+    grief
+EMOTIONS:GLORY                                                   1
+    grandeur
+
+PRIMARY             : 41.818182 %
+SECONDARY           : 30.909091 %
+EMOTIONS            : 27.272727 %
+
+266 words total

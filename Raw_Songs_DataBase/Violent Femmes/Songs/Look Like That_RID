@@ -1,0 +1,20 @@
+EMOTIONS:AFFECTION                                              18
+    like like like like like like like like love like love like loved like love love like like
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    meeting meeting meeting meeting
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then yearning then
+PRIMARY:SENSATION:VISION                                         2
+    looked looked
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+SECONDARY:ABSTRACTION                                            1
+    learning
+
+PRIMARY             : 10.000000 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 63.333333 %
+
+140 words total

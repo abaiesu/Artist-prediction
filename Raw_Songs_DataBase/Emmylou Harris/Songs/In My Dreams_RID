@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    side away out close back at out at out back at out at out
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           10
+    asleep dreamin dreams dreams dreams dreams dreams dreams dreams dreams
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when tonight when everything when everything when everything everything
+SECONDARY:ABSTRACTION                                            8
+    cause know truth cause sure know cause cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    work work make work work
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dies lies rest
+PRIMARY:SENSATION:VISION                                         2
+    moonlight blue
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AGGRESSION                                              1
+    breaks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 53.731343 %
+SECONDARY           : 40.298507 %
+EMOTIONS            : 5.970149 %
+
+258 words total

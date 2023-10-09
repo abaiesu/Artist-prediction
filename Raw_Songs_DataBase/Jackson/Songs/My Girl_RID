@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say talkin say talkin say say talkin talking talkin talk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make makes money claim make
+SECONDARY:ABSTRACTION                                            5
+    may guess guess guess may
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when month month
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    birds trees highest
+EMOTIONS:GLORY                                                   3
+    proud fame riches
+PRIMARY:SENSATION:VISION                                         2
+    sunshine sunshine
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    cloudy cloudy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb mountain
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    outside
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:TASTE                                          1
+    sweeter
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:SOUND                                          1
+    aloud
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 9.523810 %
+
+217 words total

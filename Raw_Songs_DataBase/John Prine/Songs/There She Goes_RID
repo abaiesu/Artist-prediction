@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            8
+    knows sure know suppose examined knows something judge
+PRIMARY:SENSATION:VISION                                         8
+    ray see pictures seen rough rough lookin seen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    somewhere inside out at over
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meets talk said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    machine makes tried
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven height
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heads head
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then already
+EMOTIONS:AGGRESSION                                              2
+    hurt grudge
+EMOTIONS:AFFECTION                                               1
+    loved
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellow
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 7.142857 %
+
+195 words total

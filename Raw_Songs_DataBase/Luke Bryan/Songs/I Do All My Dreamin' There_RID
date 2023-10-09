@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    somewhere place overgrown long place where where side where here tip off along where where
+PRIMARY:NEED:ORALITY                                            12
+    peanut butter eatin beer peanut butter eatin beer peanut butter eatin beer
+EMOTIONS:AGGRESSION                                              6
+    cut knife broke blade cut cut
+SECONDARY:ABSTRACTION                                            5
+    know knows knows knows knows
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever ever when time
+PRIMARY:SENSATION:VISION                                         4
+    blue watching watching watching
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    shared talking talking talking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    limb eyes limb limb
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    sinking sinking sinking
+EMOTIONS:POSITIVE AFFECT                                         3
+    laughin laughin laughin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky sky sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    jump jump jump
+EMOTIONS:ANXIETY                                                 3
+    cares cares cares
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreamin dreamin dreamin
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spend
+EMOTIONS:AFFECTION                                               1
+    kind
+SECONDARY:RESTRAINT                                              1
+    lock
+
+PRIMARY             : 63.414634 %
+SECONDARY           : 20.731707 %
+EMOTIONS            : 15.853659 %
+
+368 words total

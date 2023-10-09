@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    while while while while while while while while today while while while while
+PRIMARY:SENSATION:VISION                                         5
+    seeing see shine shine shine
+SECONDARY:ABSTRACTION                                            4
+    know them them know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say please helping answer
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    guitar guitar guitar
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    across off
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand knees
+PRIMARY:SENSATION:ODOR                                           1
+    sniffing
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 52.380952 %
+EMOTIONS            : 11.904762 %
+
+224 words total

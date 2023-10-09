@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                         15
+    heartache heartache heartache heartache heartache heartache heartache heartache heartache heartache heartache heartache heartache heartache heartache
+EMOTIONS:AFFECTION                                              10
+    loved love love love love love love love love love
+SECONDARY:ABSTRACTION                                            7
+    know why why true believer know know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said told answer call call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    business makes try try
+SECONDARY:TEMPORAL REFERENCES                                    4
+    sudden once once once
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back back at separate
+PRIMARY:SENSATION:VISION                                         2
+    see shine
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jungle
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    bridge
+
+PRIMARY             : 44.642857 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 19.642857 %
+
+206 words total

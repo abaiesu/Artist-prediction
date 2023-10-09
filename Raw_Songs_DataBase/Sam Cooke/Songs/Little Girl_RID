@@ -1,0 +1,26 @@
+EMOTIONS:GLORY                                                   2
+    great great
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:VISION                                         1
+    glance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+SECONDARY:ABSTRACTION                                            1
+    meant
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 33.333333 %
+
+86 words total

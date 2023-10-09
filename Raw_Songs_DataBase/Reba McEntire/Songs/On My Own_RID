@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    times now now once again time once now again times again again again again time again again
+SECONDARY:ABSTRACTION                                           12
+    true somethin knew know believe why why supposed know supposed learn know
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said said promises spoken talkin said told saying
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    beside here out out where out where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    costs spend find belong spend find belong
+EMOTIONS:AFFECTION                                               5
+    love loving married love like
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+EMOTIONS:AGGRESSION                                              2
+    cut knife
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreamed dreamed
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:VISION                                         1
+    shine
+
+PRIMARY             : 19.696970 %
+SECONDARY           : 68.181818 %
+EMOTIONS            : 12.121212 %
+
+274 words total

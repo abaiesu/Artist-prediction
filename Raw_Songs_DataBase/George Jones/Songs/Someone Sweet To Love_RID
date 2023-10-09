@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               7
+    love love like love like love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find work make money find
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    telling help asking help
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    swim lake swim lake
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    fever dreaming dreaming
+PRIMARY:NEED:ORALITY                                             3
+    corner honey corner
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out long out
+SECONDARY:ABSTRACTION                                            2
+    knows know
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+
+PRIMARY             : 51.282051 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 17.948718 %
+
+184 words total

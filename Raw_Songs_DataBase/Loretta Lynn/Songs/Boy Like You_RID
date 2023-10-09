@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                          7
+    ear loud hear heart heart hear heart
+EMOTIONS:AFFECTION                                               6
+    like love like like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    selection make machine spend machine spend
+SECONDARY:ABSTRACTION                                            5
+    probably cause probably know cause
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tellin tells says says
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old time old
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing play
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 31.707317 %
+SECONDARY           : 46.341463 %
+EMOTIONS            : 21.951220 %
+
+153 words total

@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    somewhere back where where back where off off where within behind
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    answer ask promised speak assured say following following say promised
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now past tonight ever tonight now when when tonight
+PRIMARY:SENSATION:VISION                                         9
+    witness look light sunlight tan film look light light
+EMOTIONS:POSITIVE AFFECT                                         6
+    enjoy enjoy enjoy enjoy enjoy enjoy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used won used machine
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    underneath underneath underneath under
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleep sleep sleep sleep
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun burned sun sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    bed bed bed bed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line line line
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands skin
+SECONDARY:MORAL IMPERATIVE                                       2
+    shoulders rights
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:ABSTRACTION                                            1
+    evidence
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 33.766234 %
+EMOTIONS            : 11.688312 %
+
+325 words total

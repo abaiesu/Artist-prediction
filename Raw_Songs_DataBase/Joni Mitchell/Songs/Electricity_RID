@@ -1,0 +1,58 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    over back out out out at out
+SECONDARY:TEMPORAL REFERENCES                                    4
+    once time again while
+EMOTIONS:AFFECTION                                               3
+    loveless loved like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talks conducts tell
+SECONDARY:ABSTRACTION                                            3
+    know understand learning
+PRIMARY:SENSATION:VISION                                         3
+    flashlight shines shines
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pond floodlit
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    peaceful soothe
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sparks candle
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:COLD                                           1
+    ices
+SECONDARY:ORDER                                                  1
+    system
+PRIMARY:SENSATION:TASTE                                          1
+    tangles
+PRIMARY:SENSATION:HARD                                           1
+    copper
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headed
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:AGGRESSION                                              1
+    breakdown
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    century
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sang
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:SOUND                                          1
+    heartbeat
+
+PRIMARY             : 60.869565 %
+SECONDARY           : 23.913043 %
+EMOTIONS            : 15.217391 %
+
+238 words total

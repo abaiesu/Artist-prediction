@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    inside side out out between between between
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    help says says help help help help
+EMOTIONS:GLORY                                                   5
+    wonder wonder wonder wonder wonder
+EMOTIONS:AFFECTION                                               5
+    love like like like like
+EMOTIONS:AGGRESSION                                              3
+    hateful hateful hateful
+SECONDARY:ABSTRACTION                                            2
+    understand fact
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everyone
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 37.142857 %
+
+211 words total

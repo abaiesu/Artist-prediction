@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    here inside inside distance inside inside inside inside inside inside inside inside
+SECONDARY:ABSTRACTION                                            6
+    something know something know believe understand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    tried tried worked worked
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    gift answer answer
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doors windows
+PRIMARY:SENSATION:VISION                                         2
+    light grey
+EMOTIONS:ANXIETY                                                 2
+    frightens frightens
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:SADNESS                                                 1
+    painful
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    decay
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    blurred
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 52.500000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 10.000000 %
+
+160 words total

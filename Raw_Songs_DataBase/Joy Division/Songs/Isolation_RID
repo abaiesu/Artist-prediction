@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    calls please describe pleasures
+SECONDARY:ABSTRACTION                                            3
+    reason themselves believe
+EMOTIONS:AFFECTION                                               3
+    devotion love like
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every every
+PRIMARY:SENSATION:VISION                                         2
+    watched see
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:SOUND                                          1
+    aloud
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:SADNESS                                                 1
+    painstaking
+PRIMARY:SENSATION:TOUCH                                          1
+    touches
+EMOTIONS:AGGRESSION                                              1
+    hurts
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 27.272727 %
+
+109 words total

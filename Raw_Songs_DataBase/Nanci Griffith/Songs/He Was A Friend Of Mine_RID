@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              10
+    friend friend friend friend friend friend friend friend friend friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    money pay money pay money
+EMOTIONS:AGGRESSION                                              4
+    hurt stole stole stole
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died died
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 20.689655 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 55.172414 %
+
+148 words total

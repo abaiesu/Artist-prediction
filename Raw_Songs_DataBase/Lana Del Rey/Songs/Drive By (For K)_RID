@@ -1,0 +1,38 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       13
+    bed silence death die die die die die die die die die die
+SECONDARY:TEMPORAL REFERENCES                                   13
+    then now years now time time time time time time year time then
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    commit commit commit commit commit
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    behind behind behind behind behind
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         2
+    light bright
+SECONDARY:RESTRAINT                                              2
+    interrupt jail
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    making money
+SECONDARY:ABSTRACTION                                            2
+    think decided
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AFFECTION                                               1
+    friend
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+EMOTIONS:AGGRESSION                                              1
+    homicide
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+
+PRIMARY             : 45.283019 %
+SECONDARY           : 49.056604 %
+EMOTIONS            : 5.660377 %
+
+265 words total

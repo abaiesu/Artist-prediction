@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                           13
+    truth know truth truth truth know truth truth truth truth truth truth truth
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes old time sometimes time every
+PRIMARY:SENSATION:VISION                                         5
+    light shine light shines shines
+SECONDARY:RESTRAINT                                              2
+    stop stopping
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    soldier soldier
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 23.684211 %
+SECONDARY           : 68.421053 %
+EMOTIONS            : 7.894737 %
+
+168 words total

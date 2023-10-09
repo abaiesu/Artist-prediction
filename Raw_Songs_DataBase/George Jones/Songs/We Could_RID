@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                            4
+    true true know know
+EMOTIONS:POSITIVE AFFECT                                         3
+    joy happy happy
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever when when
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say thank
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here long
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms arms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 55.000000 %
+EMOTIONS            : 25.000000 %
+
+97 words total

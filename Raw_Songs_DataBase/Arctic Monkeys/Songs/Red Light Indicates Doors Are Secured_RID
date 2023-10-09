@@ -1,0 +1,48 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    ask told talked said please said said please ask
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at at at side backwards near squaring
+PRIMARY:SENSATION:VISION                                         7
+    see green see green green light light
+SECONDARY:ABSTRACTION                                            5
+    belief think why cause sure
+SECONDARY:TEMPORAL REFERENCES                                    4
+    already earlier when when
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high hillsborough high hillsborough
+EMOTIONS:AFFECTION                                               4
+    mate kind like mate
+EMOTIONS:AGGRESSION                                              4
+    temper temper annoyed fighting
+PRIMARY:NEED:ORALITY                                             3
+    food drinking drunken
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won paid
+SECONDARY:MORAL IMPERATIVE                                       2
+    proper shouldn
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calm secure
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street doors
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:SENSATION:COLD                                           1
+    ice
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    tropical
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+SECONDARY:ORDER                                                  1
+    rank
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shouting
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+
+PRIMARY             : 46.031746 %
+SECONDARY           : 38.095238 %
+EMOTIONS            : 15.873016 %
+
+296 words total

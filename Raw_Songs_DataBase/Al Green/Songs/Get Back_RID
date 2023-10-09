@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       38
+    back back back where back back back where back back back back where back back back back back where here back back back where back back back back where back back back back where back back back back
+SECONDARY:TEMPORAL REFERENCES                                   10
+    once once now once once while once once now once
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    belonged belonged belonged belonged belonged belonged belonged
+SECONDARY:ABSTRACTION                                            3
+    thought knew thought
+EMOTIONS:SADNESS                                                 1
+    loner
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 63.934426 %
+SECONDARY           : 34.426230 %
+EMOTIONS            : 1.639344 %
+
+190 words total

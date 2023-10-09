@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                           10
+    believed know true believe know true thinkin learn know true
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time when ever till
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    paid finding
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asked
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:SADNESS                                                 1
+    suffered
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 8.695652 %
+SECONDARY           : 73.913043 %
+EMOTIONS            : 17.391304 %
+
+184 words total

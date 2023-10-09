@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    between at far over open
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    bury bury bury bury falls
+EMOTIONS:SADNESS                                                 5
+    pain sad pain pain pain
+EMOTIONS:AGGRESSION                                              3
+    stole break break
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then now everything
+SECONDARY:ABSTRACTION                                            2
+    almost think
+EMOTIONS:ANXIETY                                                 2
+    fear desperate
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    taught
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:NEED:ORALITY                                             1
+    starve
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 41.935484 %
+SECONDARY           : 19.354839 %
+EMOTIONS            : 38.709677 %
+
+124 words total

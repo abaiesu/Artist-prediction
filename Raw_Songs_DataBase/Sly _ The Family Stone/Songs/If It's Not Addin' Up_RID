@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            5
+    know something choosin reasons think
+PRIMARY:SENSATION:VISION                                         5
+    vision looks looks looks see
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when everything when when
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try finding
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:AGGRESSION                                              1
+    blame
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:RESTRAINT                                              1
+    stopped
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 23.333333 %
+
+190 words total

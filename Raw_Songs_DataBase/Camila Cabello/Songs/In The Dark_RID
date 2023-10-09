@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                        11
+    see see see looking see see see see looking see see
+SECONDARY:ABSTRACTION                                           10
+    know why why why guest know know why why why
+EMOTIONS:AFFECTION                                               9
+    friends like friends like darling darling darling darling like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at places rounds away rounds away
+EMOTIONS:ANXIETY                                                 5
+    scared scary scared scary scary
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    making making won
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said promise tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin skin
+EMOTIONS:SADNESS                                                 2
+    hopeless hopeless
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    secrets strangers
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+
+PRIMARY             : 38.983051 %
+SECONDARY           : 33.898305 %
+EMOTIONS            : 27.118644 %
+
+406 words total

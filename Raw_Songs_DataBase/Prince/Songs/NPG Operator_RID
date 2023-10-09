@@ -1,0 +1,22 @@
+EMOTIONS:AFFECTION                                               5
+    courtship love welcome welcom welcome
+EMOTIONS:GLORY                                                   2
+    gold gold
+PRIMARY:NEED:SEX                                                 1
+    sex
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    commitment
+EMOTIONS:SADNESS                                                 1
+    loneliness
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    accessed
+
+PRIMARY             : 23.076923 %
+SECONDARY           : 7.692308 %
+EMOTIONS            : 69.230769 %
+
+33 words total

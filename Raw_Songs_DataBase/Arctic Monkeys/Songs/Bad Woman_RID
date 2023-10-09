@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when while time while when
+PRIMARY:SENSATION:VISION                                         3
+    flashing imagine see
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back long
+SECONDARY:ABSTRACTION                                            2
+    think planning
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:AFFECTION                                               1
+    kind
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 52.941176 %
+EMOTIONS            : 5.882353 %
+
+138 words total

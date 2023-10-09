@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               6
+    like like like like liked like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everyman everyman everyman everyman everyman
+SECONDARY:ABSTRACTION                                            5
+    thoughts know thoughts know know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    console talked console console
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+EMOTIONS:ANXIETY                                                 1
+    scared
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+
+PRIMARY             : 15.384615 %
+SECONDARY           : 57.692308 %
+EMOTIONS            : 26.923077 %
+
+148 words total

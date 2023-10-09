@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    tonight every when when today now tonight time everything tonight
+SECONDARY:ABSTRACTION                                            7
+    know know know know know know understand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out away out side out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make won make try work
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    told told forgive please forgive
+EMOTIONS:AGGRESSION                                              3
+    harm hurt hurt
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:AFFECTION                                               1
+    loved
+EMOTIONS:GLORY                                                   1
+    pride
+
+PRIMARY             : 12.195122 %
+SECONDARY           : 73.170732 %
+EMOTIONS            : 14.634146 %
+
+225 words total

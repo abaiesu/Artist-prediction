@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         6
+    sunlight blue gray green blue gray
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    warm burnt heat
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    awake dreams awake
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    dawn dawn
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    waves waves
+EMOTIONS:AGGRESSION                                              2
+    break break
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    reply reply
+EMOTIONS:POSITIVE AFFECT                                         2
+    relief relief
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bath
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:TEMPORAL REFERENCES                                    1
+    once
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 71.428571 %
+SECONDARY           : 10.714286 %
+EMOTIONS            : 17.857143 %
+
+99 words total

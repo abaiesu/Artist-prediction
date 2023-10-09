@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                       33
+    promise forgive please forgive forgive forgive forgive forgive call help forgive forgive promise forgive forgive forgive forgive said forgive forgive forgive call help say call help forgive forgive forgive tell forgive forgive forgive
+EMOTIONS:AFFECTION                                              15
+    darlin love love darlin love love darlin darlin darlin darlin mercy darlin darlin darlin darlin
+SECONDARY:TEMPORAL REFERENCES                                   15
+    now every now now now every now time sometime now now now now now now
+SECONDARY:ABSTRACTION                                           14
+    know prove thought know know know prove thought know know know thought know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    make make try won make make make make try won make
+EMOTIONS:GLORY                                                   7
+    pride pride wonder wonder wonder wonder wonder
+EMOTIONS:SADNESS                                                 5
+    suffer suffer suffer suffer suffer
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away back away back
+PRIMARY:SENSATION:SOUND                                          3
+    heart hear heart
+PRIMARY:NEED:SEX                                                 3
+    cupid cupid cupid
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fell
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistreated mistreated
+PRIMARY:SENSATION:VISION                                         2
+    brighter brighter
+PRIMARY:NEED:ORALITY                                             1
+    honey
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 17.741935 %
+SECONDARY           : 60.483871 %
+EMOTIONS            : 21.774194 %
+
+427 words total

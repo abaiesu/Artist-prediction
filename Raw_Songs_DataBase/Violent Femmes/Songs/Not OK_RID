@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    out apart away away far far away away far far away away far far
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today today today today minutes hour today today
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make try count make make
+EMOTIONS:AGGRESSION                                              5
+    steal break crush break steal
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:ABSTRACTION                                            4
+    something something why something
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart hear heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+PRIMARY:SENSATION:VISION                                         3
+    look see peek
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+EMOTIONS:SADNESS                                                 2
+    weep weep
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistook
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shower
+
+PRIMARY             : 46.031746 %
+SECONDARY           : 30.158730 %
+EMOTIONS            : 23.809524 %
+
+219 words total

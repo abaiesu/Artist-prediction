@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where here here here along back along
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then then then time time time
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    riding ride ride ride
+EMOTIONS:AGGRESSION                                              3
+    threat attack violent
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    washed washed washed
+SECONDARY:ABSTRACTION                                            3
+    consider plan think
+EMOTIONS:AFFECTION                                               2
+    kind like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dies ease
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playin playing
+PRIMARY:SENSATION:VISION                                         1
+    looks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    success
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handed
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 20.000000 %
+
+174 words total

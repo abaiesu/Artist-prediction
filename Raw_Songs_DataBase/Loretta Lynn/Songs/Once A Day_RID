@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    when then time now once once once till time once every time then once once once every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away long long away long long
+SECONDARY:ABSTRACTION                                            3
+    thought thought knew
+EMOTIONS:AFFECTION                                               2
+    like loved
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+EMOTIONS:SADNESS                                                 1
+    pains
+EMOTIONS:AGGRESSION                                              1
+    hurtin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+
+PRIMARY             : 22.857143 %
+SECONDARY           : 60.000000 %
+EMOTIONS            : 17.142857 %
+
+127 words total

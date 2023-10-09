@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say please say please said please pleading
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make spent make make make
+SECONDARY:ABSTRACTION                                            4
+    know know them know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry cry cry cry
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when times now
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+EMOTIONS:AFFECTION                                               1
+    darlin
+
+PRIMARY             : 12.500000 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 25.000000 %
+
+187 words total

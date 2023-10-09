@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    where where where where where where out away where wide where
+PRIMARY:SENSATION:VISION                                        10
+    sunshine sunshine sunshine sunshine sunshine sunshine blue looks sunshine sunshine
+SECONDARY:ABSTRACTION                                            4
+    why know why thought
+EMOTIONS:AFFECTION                                               3
+    love loving like
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then when now
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+EMOTIONS:SADNESS                                                 2
+    lonely misery
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    raining
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springtime
+PRIMARY:SENSATION:SOUND                                          1
+    heartaches
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 15.555556 %
+
+137 words total

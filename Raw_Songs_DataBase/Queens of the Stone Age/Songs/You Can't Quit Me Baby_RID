@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         5
+    notice see see see see
+PRIMARY:SENSATION:HARD                                           4
+    solid solid solid solid
+EMOTIONS:GLORY                                                   4
+    gold gold gold gold
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    followed followed said
+SECONDARY:ABSTRACTION                                            2
+    knows know
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+EMOTIONS:AFFECTION                                               2
+    love friends
+EMOTIONS:AGGRESSION                                              2
+    cut cut
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    wherever
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 22.580645 %
+EMOTIONS            : 29.032258 %
+
+116 words total

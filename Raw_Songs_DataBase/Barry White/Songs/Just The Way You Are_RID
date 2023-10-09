@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    today ever ever times times times old till
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    granted granted please conversation talk said promise
+EMOTIONS:AFFECTION                                               6
+    love love familiar love love love
+SECONDARY:ABSTRACTION                                            4
+    know knew believe believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here towards far
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying trying work
+PRIMARY:SENSATION:VISION                                         3
+    imagine see color
+EMOTIONS:ANXIETY                                                 2
+    worry trouble
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 55.000000 %
+EMOTIONS            : 20.000000 %
+
+249 words total

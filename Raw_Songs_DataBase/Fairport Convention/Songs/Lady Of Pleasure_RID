@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    front open open where somewhere place away away out at front
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    money pay makes makes try money
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    port port door door port port
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    sailor sailor ride sailor sailor
+SECONDARY:ABSTRACTION                                            4
+    knows cause know cause
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when tonight when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleasure pleasure
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy joy
+EMOTIONS:GLORY                                                   2
+    grandeur grandeur
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+PRIMARY:NEED:SEX                                                 1
+    whore
+PRIMARY:SENSATION:SOFT                                           1
+    feathered
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    tide
+
+PRIMARY             : 59.183673 %
+SECONDARY           : 30.612245 %
+EMOTIONS            : 10.204082 %
+
+242 words total

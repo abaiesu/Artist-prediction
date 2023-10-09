@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    surround out middle flat back open open out inside open open surround open open open open open open open open open open open open
+SECONDARY:ABSTRACTION                                           19
+    believe cause know think believing believe believe know think believe believe believe cause believe believe believe cause believe believe
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      16
+    windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows
+EMOTIONS:AFFECTION                                               8
+    love love like friend love love love love
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when time year everything minute when old every
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    fantasy wake fantasy
+EMOTIONS:SADNESS                                                 3
+    sadness sadness sadness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    job money spend
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sunny burning
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    telling
+PRIMARY:SENSATION:VISION                                         1
+    looking
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 33.695652 %
+EMOTIONS            : 14.130435 %
+
+378 words total

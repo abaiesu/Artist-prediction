@@ -1,0 +1,46 @@
+EMOTIONS:POSITIVE AFFECT                                        29
+    joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy celebration joy joy joy joy joy joy joy joy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away inside
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    gift tell tell
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    valley deep deep
+PRIMARY:SENSATION:SOUND                                          2
+    music sound
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:AGGRESSION                                              1
+    harm
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unspeakable
+
+PRIMARY             : 29.824561 %
+SECONDARY           : 10.526316 %
+EMOTIONS            : 59.649123 %
+
+165 words total

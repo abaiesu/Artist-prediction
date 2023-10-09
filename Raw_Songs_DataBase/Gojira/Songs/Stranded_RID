@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    somewhere inside point out point out
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    silence dead dead dead dead dead
+EMOTIONS:AGGRESSION                                              6
+    crushed kill kill kill kill kill
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face face face face face
+PRIMARY:SENSATION:SOUND                                          4
+    heart noise hear hear
+SECONDARY:RESTRAINT                                              4
+    control lock lock lock
+SECONDARY:TEMPORAL REFERENCES                                    4
+    moment moment moment moment
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+PRIMARY:SENSATION:VISION                                         2
+    view view
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    cure
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 63.043478 %
+SECONDARY           : 23.913043 %
+EMOTIONS            : 13.043478 %
+
+149 words total

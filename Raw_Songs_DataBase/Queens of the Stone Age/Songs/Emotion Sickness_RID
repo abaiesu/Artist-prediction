@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                              8
+    destroy broke rip hit fight broke broke broke
+SECONDARY:ABSTRACTION                                            7
+    possibly know believe possibly know possibly know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once then now then then then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    use possessions price buy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    fever fever fever fever
+EMOTIONS:SADNESS                                                 2
+    pain painful
+PRIMARY:SENSATION:VISION                                         2
+    see lights
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sights sight
+PRIMARY:NEED:ORALITY                                             2
+    chew gum
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    flesh
+PRIMARY:SENSATION:ODOR                                           1
+    perfume
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 26.666667 %
+
+266 words total

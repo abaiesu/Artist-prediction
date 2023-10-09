@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         3
+    glance light vision
+PRIMARY:NEED:ORALITY                                             3
+    apple pot thirst
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    idle leisure
+SECONDARY:ORDER                                                  2
+    measure measure
+PRIMARY:NEED:ANALITY                                             2
+    shit piss
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    backstab at
+EMOTIONS:ANXIETY                                                 1
+    terror
+SECONDARY:ABSTRACTION                                            1
+    proof
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    pleasure
+PRIMARY:SENSATION:SOFT                                           1
+    software
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:SENSATION:HARD                                           1
+    hardwired
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roving
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+EMOTIONS:GLORY                                                   1
+    gold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    worker
+EMOTIONS:SADNESS                                                 1
+    dissatisfied
+
+PRIMARY             : 68.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 12.000000 %
+
+99 words total

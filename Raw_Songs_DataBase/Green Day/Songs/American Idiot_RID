@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    across where along across where out across where
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            6
+    hysteria dreams paranoia dreams hysteria dreams
+EMOTIONS:AFFECTION                                               6
+    welcome kind welcome kind welcome kind
+SECONDARY:ABSTRACTION                                            6
+    meant meant meant meant meant meant
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everything now everybody everything everything
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    follow follow information calling follow
+EMOTIONS:AGGRESSION                                              3
+    argue argue argue
+PRIMARY:SENSATION:SOUND                                          2
+    hear sound
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:GLORY                                                   1
+    subliminal
+PRIMARY:NEED:SEX                                                 1
+    fuck
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:RESTRAINT                                              1
+    controlled
+
+PRIMARY             : 39.130435 %
+SECONDARY           : 36.956522 %
+EMOTIONS            : 23.913043 %
+
+200 words total

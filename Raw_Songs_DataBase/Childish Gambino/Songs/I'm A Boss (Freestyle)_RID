@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old old time when when when when
+PRIMARY:SENSATION:VISION                                         6
+    see watch see see watching seen
+SECONDARY:ABSTRACTION                                            6
+    why know them why cause why
+EMOTIONS:AFFECTION                                               5
+    like like like like like
+PRIMARY:NEED:ORALITY                                             4
+    stomach eating dinner drunk
+EMOTIONS:ANXIETY                                                 4
+    worry worry worry worried
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at inside back
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    quiet couch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:SENSATION:COLD                                           1
+    chillin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lower
+EMOTIONS:AGGRESSION                                              1
+    kick
+EMOTIONS:GLORY                                                   1
+    gold
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+SECONDARY:ORDER                                                  1
+    order
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    goals
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    dripping
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 32.692308 %
+EMOTIONS            : 21.153846 %
+
+225 words total

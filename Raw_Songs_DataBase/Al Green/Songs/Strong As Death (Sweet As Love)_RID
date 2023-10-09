@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               9
+    love love love love love love love love love
+PRIMARY:SENSATION:TASTE                                          7
+    sweet sweet sweet sweet sweet sweet sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    death death death death death
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell help say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    ahead off
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing playing
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:SOUND                                          1
+    music
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 34.285714 %
+
+155 words total

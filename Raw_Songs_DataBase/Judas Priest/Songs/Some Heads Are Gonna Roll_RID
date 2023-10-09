@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         12
+    heads heads heads heads heads heads heads heads heads heads heads heads
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                 12
+    roll roll roll roll roll roll roll roll roll roll roll roll
+PRIMARY:SENSATION:VISION                                         5
+    look look lights flashing colors
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight when when
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under under under
+SECONDARY:RESTRAINT                                              3
+    control control control
+EMOTIONS:AGGRESSION                                              2
+    enemy knife
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say granted
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleepless mad
+SECONDARY:ABSTRACTION                                            2
+    think know
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning fire
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:NEED:SEX                                                 1
+    lust
+PRIMARY:NEED:ORALITY                                             1
+    devour
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+
+PRIMARY             : 72.727273 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 7.272727 %
+
+205 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    where where beside out somewhere where between beside out where beside out
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever sometimes then everything sometimes then sometimes then
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    road street line borderline edge lines street
+EMOTIONS:AGGRESSION                                              5
+    broken beating beating broken beating
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreams sleeps dreams sleeps
+SECONDARY:ABSTRACTION                                            3
+    known know know
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    shadow shadow shadow
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find find
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:ORDER                                                  1
+    divides
+PRIMARY:NEED:SEX                                                 1
+    fucked
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 11.764706 %
+
+288 words total

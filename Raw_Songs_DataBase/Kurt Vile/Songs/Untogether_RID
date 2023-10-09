@@ -1,0 +1,44 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told help help help
+PRIMARY:SENSATION:TOUCH                                          3
+    touching touching touching
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face feet eyes
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now sometimes
+EMOTIONS:AFFECTION                                               2
+    friendly like
+SECONDARY:ABSTRACTION                                            2
+    believed them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    bird bird
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back distance
+SECONDARY:RESTRAINT                                              1
+    insisted
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    shipwrecked
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endlessly
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shore
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:NEED:ORALITY                                             1
+    poison
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 8.571429 %
+
+175 words total

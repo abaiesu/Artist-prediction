@@ -1,0 +1,20 @@
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say talking say
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:VISION                                         1
+    looking
+
+PRIMARY             : 17.647059 %
+SECONDARY           : 47.058824 %
+EMOTIONS            : 35.294118 %
+
+140 words total

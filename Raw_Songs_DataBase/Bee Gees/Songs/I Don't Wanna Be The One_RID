@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               9
+    love friend love friend friend friend friend friend friend
+SECONDARY:ABSTRACTION                                            8
+    know know know know know know know know
+EMOTIONS:POSITIVE AFFECT                                         6
+    satisfies satisfies fun satisfies satisfies fun
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back space back
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry cry cry
+SECONDARY:RESTRAINT                                              2
+    control control
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strangers strangers
+PRIMARY:SENSATION:TOUCH                                          2
+    touching touching
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 23.913043 %
+SECONDARY           : 36.956522 %
+EMOTIONS            : 39.130435 %
+
+250 words total

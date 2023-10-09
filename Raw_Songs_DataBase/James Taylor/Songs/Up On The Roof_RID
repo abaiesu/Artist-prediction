@@ -1,0 +1,44 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   9
+    top roof roof roof roof roof roof above roof
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    space where far away place at where at middle
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when old when old everything every
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:SENSATION:VISION                                         4
+    look stars stars lights
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    share said telling
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    stairs street
+EMOTIONS:ANXIETY                                                 2
+    cares trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drift peaceful
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    below below
+EMOTIONS:AGGRESSION                                              2
+    bother beat
+SECONDARY:ABSTRACTION                                            2
+    know proof
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make found
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:SENSATION:SOUND                                          1
+    noise
+EMOTIONS:AFFECTION                                               1
+    darling
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 30.909091 %
+EMOTIONS            : 9.090909 %
+
+231 words total

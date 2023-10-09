@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              12
+    kind kind embrace kind embrace kind kind love kind love kind kind
+SECONDARY:ABSTRACTION                                           10
+    understand something know tenderness know know tenderness know know know
+EMOTIONS:GLORY                                                   6
+    wonderful wonderful wonderful wonderful wonderful wonderful
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time everything when everything when everything
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at place place
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:SENSATION:VISION                                         2
+    blue look
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+
+PRIMARY             : 17.307692 %
+SECONDARY           : 44.230769 %
+EMOTIONS            : 38.461538 %
+
+181 words total

@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old then suddenly year ago then years
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:SENSATION:HARD                                           2
+    stone stones
+EMOTIONS:AGGRESSION                                              2
+    hit hit
+PRIMARY:NEED:ORALITY                                             2
+    drank whiskey
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    games
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fireball
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    space
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shared
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 51.851852 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 14.814815 %
+
+136 words total

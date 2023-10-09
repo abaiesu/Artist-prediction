@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell promise say say promise tell
+PRIMARY:NEED:ORALITY                                             4
+    honey bite honey bite
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild wild
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    close
+PRIMARY:SENSATION:TOUCH                                          1
+    touchin
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 7.692308 %
+
+150 words total

@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    years old now today when today
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out out away out away away
+SECONDARY:ABSTRACTION                                            4
+    understand thinks thinks cause
+EMOTIONS:AFFECTION                                               3
+    like love love
+SECONDARY:RESTRAINT                                              2
+    stop stop
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile fun
+EMOTIONS:AGGRESSION                                              2
+    hurtin hurt
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head cheek
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    watch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    drippin
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 42.424242 %
+EMOTIONS            : 24.242424 %
+
+211 words total

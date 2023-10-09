@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off at
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    shores
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sailor
+SECONDARY:TEMPORAL REFERENCES                                    1
+    week
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:NEED:ORALITY                                             1
+    lunch
+
+PRIMARY             : 69.230769 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 0.000000 %
+
+61 words total

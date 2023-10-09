@@ -1,0 +1,56 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           8
+    sailor ship sailor sailed ship sailors sail sailing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    behind at wide long among here
+SECONDARY:ABSTRACTION                                            5
+    them know true may true
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when every when now
+EMOTIONS:SADNESS                                                 3
+    weep mourn despair
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    inquire meet tell
+EMOTIONS:POSITIVE AFFECT                                         2
+    merry delight
+EMOTIONS:AGGRESSION                                              2
+    robs tore
+EMOTIONS:AFFECTION                                               2
+    love like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes build
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+EMOTIONS:GLORY                                                   2
+    greatly great
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hair
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    proper
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tall
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    float
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chanced
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:VISION                                         1
+    green
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:SENSATION:HARD                                           1
+    rock
+
+PRIMARY             : 49.090909 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 23.636364 %
+
+205 words total

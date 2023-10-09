@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    distance far far out here
+PRIMARY:NEED:ORALITY                                             3
+    bite sucking juice
+SECONDARY:RESTRAINT                                              2
+    scold bar
+SECONDARY:ABSTRACTION                                            2
+    think think
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed bed
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    picking
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+EMOTIONS:AGGRESSION                                              1
+    shooter
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 8.695652 %
+
+285 words total

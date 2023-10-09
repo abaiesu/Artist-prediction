@@ -1,0 +1,34 @@
+SECONDARY:RESTRAINT                                             14
+    stop stop stop stop stop stop stop stop stop stop stop stop stop stop
+PRIMARY:SENSATION:HARD                                          14
+    rock rock rock rock rock rock rock rock rock rock rock rock rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                 14
+    roll roll roll roll roll roll roll roll roll roll roll roll roll roll
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    side side
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:SADNESS                                                 1
+    whine
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everybody
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 7.142857 %
+
+201 words total

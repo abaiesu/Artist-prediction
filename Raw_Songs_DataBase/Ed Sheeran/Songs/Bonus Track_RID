@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            5
+    real true choice true choice
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    deep deep deep deep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over far distant
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    neck brainwashed neck
+PRIMARY:SENSATION:SOUND                                          3
+    voice heard voice
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answer advice
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make try
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+SECONDARY:RESTRAINT                                              2
+    control control
+EMOTIONS:AGGRESSION                                              2
+    cut cut
+SECONDARY:TEMPORAL REFERENCES                                    2
+    times time
+SECONDARY:MORAL IMPERATIVE                                       1
+    conscience
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 6.250000 %
+
+184 words total

@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            7
+    know why believe believe believe believe believe
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now old now time time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    treats forgive forgive tell
+PRIMARY:SENSATION:VISION                                         4
+    see see blues blues
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long long back
+EMOTIONS:AGGRESSION                                              2
+    hate unkind
+SECONDARY:RESTRAINT                                              2
+    catch catch
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arm
+
+PRIMARY             : 32.258065 %
+SECONDARY           : 61.290323 %
+EMOTIONS            : 6.451613 %
+
+188 words total

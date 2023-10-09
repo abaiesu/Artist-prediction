@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    told agree meet told told say promise
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out away at off away here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    money picked spent money found won
+EMOTIONS:SADNESS                                                 5
+    lonely pain sorry pain pain
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time now ancient old again
+SECONDARY:ABSTRACTION                                            3
+    learnt think truth
+EMOTIONS:AFFECTION                                               2
+    love darling
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+EMOTIONS:AGGRESSION                                              1
+    blame
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wandered
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:ORDER                                                  1
+    measured
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+PRIMARY:NEED:SEX                                                 1
+    fondly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 27.272727 %
+SECONDARY           : 52.272727 %
+EMOTIONS            : 20.454545 %
+
+204 words total

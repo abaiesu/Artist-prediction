@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away long long places among overalls off overalls off
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time now now old old
+PRIMARY:NEED:ORALITY                                             5
+    tea drunk tea lick licked
+PRIMARY:SENSATION:COLD                                           5
+    cold cold cold ice ice
+SECONDARY:ABSTRACTION                                            4
+    thought perhaps thought perhaps
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair bone bone
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used find
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    reply reply
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    ecstasy ecstasy
+PRIMARY:SENSATION:ODOR                                           2
+    breathe smell
+EMOTIONS:AGGRESSION                                              2
+    stable stable
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    walls walls
+SECONDARY:ORDER                                                  1
+    measured
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoked
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    soaked
+
+PRIMARY             : 65.217391 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 4.347826 %
+
+146 words total

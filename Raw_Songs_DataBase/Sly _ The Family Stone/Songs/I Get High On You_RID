@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  14
+    high high high high high high high high high high high high high high
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say pleasure
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping awake
+EMOTIONS:AGGRESSION                                              1
+    shoving
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:AFFECTION                                               1
+    lovin
+PRIMARY:SENSATION:SOUND                                          1
+    sounding
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 23.333333 %
+EMOTIONS            : 10.000000 %
+
+144 words total

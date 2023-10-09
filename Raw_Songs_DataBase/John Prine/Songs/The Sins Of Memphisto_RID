@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    front at front close over at
+PRIMARY:SENSATION:SOUND                                          4
+    bells whistle music ear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    count used factories finds
+SECONDARY:RESTRAINT                                              4
+    stop stop stop control
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play scream
+SECONDARY:ABSTRACTION                                            2
+    problems possible
+EMOTIONS:GLORY                                                   2
+    wondering wondering
+EMOTIONS:AFFECTION                                               2
+    marriage like
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistake mister
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    steps railroad
+PRIMARY:NEED:ORALITY                                             2
+    drinking apple
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slacks slowly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeps dream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes hands
+PRIMARY:SENSATION:VISION                                         2
+    watch looking
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tells
+EMOTIONS:AGGRESSION                                              1
+    crush
+EMOTIONS:ANXIETY                                                 1
+    blush
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spin
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:SENSATION:COLD                                           1
+    polaroid
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+
+PRIMARY             : 58.000000 %
+SECONDARY           : 26.000000 %
+EMOTIONS            : 16.000000 %
+
+230 words total

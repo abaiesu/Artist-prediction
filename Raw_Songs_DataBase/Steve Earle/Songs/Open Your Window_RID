@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    open out open where out close open inside open inside
+SECONDARY:ABSTRACTION                                            7
+    know may think may think know true
+SECONDARY:TEMPORAL REFERENCES                                    6
+    tonight then when when every time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    window window sidewalk window window
+PRIMARY:SENSATION:SOUND                                          4
+    heart loud ringin music
+EMOTIONS:AFFECTION                                               2
+    like darlin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high above
+SECONDARY:ORDER                                                  2
+    listenin listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:SADNESS                                                 1
+    woe
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talks
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 56.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 8.000000 %
+
+135 words total

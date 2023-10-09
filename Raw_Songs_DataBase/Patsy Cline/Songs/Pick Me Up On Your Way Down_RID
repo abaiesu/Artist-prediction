@@ -1,0 +1,36 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    find success pick pick found pick won find pick pick found pick
+SECONDARY:TEMPORAL REFERENCES                                    9
+    once then when when when when when when when
+SECONDARY:ABSTRACTION                                            8
+    true knew know chosen real know know know
+EMOTIONS:AFFECTION                                               3
+    love friends friends
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    ladder top
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:NEED:ANALITY                                             2
+    shattered shattered
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+EMOTIONS:GLORY                                                   1
+    fame
+PRIMARY:SENSATION:HARD                                           1
+    solid
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumble
+EMOTIONS:AGGRESSION                                              1
+    hit
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 19.565217 %
+SECONDARY           : 65.217391 %
+EMOTIONS            : 15.217391 %
+
+165 words total

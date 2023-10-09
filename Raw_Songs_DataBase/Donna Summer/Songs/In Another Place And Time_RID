@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    inside place long place place inside place place place
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time time time time time time
+EMOTIONS:AFFECTION                                               5
+    love loved loved loved loved
+SECONDARY:ABSTRACTION                                            5
+    different know true reason know
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:RESTRAINT                                              1
+    bound
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:AGGRESSION                                              1
+    hurting
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 44.117647 %
+EMOTIONS            : 20.588235 %
+
+159 words total

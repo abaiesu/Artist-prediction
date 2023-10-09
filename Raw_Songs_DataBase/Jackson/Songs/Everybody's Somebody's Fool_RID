@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    everybody everybody everybody when when everybody everybody when when everybody everybody
+EMOTIONS:SADNESS                                                 4
+    sad sad sad sad
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:ABSTRACTION                                            2
+    learn them
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    above above
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answer
+
+PRIMARY             : 24.137931 %
+SECONDARY           : 51.724138 %
+EMOTIONS            : 24.137931 %
+
+140 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long away away long at away apart away
+EMOTIONS:AFFECTION                                               6
+    kinda like love like like like
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now already then till once already
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    explain sharpened explaining explaining talking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    carried tried won used tried
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    buried bury bury bury
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    rest rest rest rest
+EMOTIONS:AGGRESSION                                              3
+    hate hurts knife
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye face bone
+PRIMARY:SENSATION:VISION                                         2
+    see picture
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+SECONDARY:ABSTRACTION                                            1
+    real
+SECONDARY:RESTRAINT                                              1
+    caught
+
+PRIMARY             : 46.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 18.000000 %
+
+221 words total

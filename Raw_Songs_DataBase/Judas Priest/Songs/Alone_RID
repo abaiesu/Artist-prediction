@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at long along along off behind at long off
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say say say said said say say say
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ago everything years when ago
+SECONDARY:ABSTRACTION                                            5
+    think chose judgment think chose
+EMOTIONS:AGGRESSION                                              3
+    rage blame rage
+PRIMARY:SENSATION:VISION                                         2
+    look look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    belong belong
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    blaze blaze
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    enduring enduring
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+
+PRIMARY             : 39.534884 %
+SECONDARY           : 51.162791 %
+EMOTIONS            : 9.302326 %
+
+183 words total

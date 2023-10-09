@@ -1,0 +1,20 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found wins
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sigh cry
+SECONDARY:ABSTRACTION                                            1
+    learn
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:NEED:SEX                                                 1
+    cupid
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 35.714286 %
+
+54 words total

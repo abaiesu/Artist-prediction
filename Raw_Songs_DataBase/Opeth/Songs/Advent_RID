@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where close inside aside here at
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when every now then time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    arms eyes face hands
+SECONDARY:ABSTRACTION                                            3
+    true almost almost
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    help message help
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever endless
+SECONDARY:ORDER                                                  2
+    listen form
+EMOTIONS:SADNESS                                                 2
+    sorrow wept
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try trying
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    slopes grows
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    plays dancing
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    stray
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wilderness
+EMOTIONS:POSITIVE AFFECT                                         1
+    glade
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:SENSATION:VISION                                         1
+    survey
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    void
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 34.090909 %
+EMOTIONS            : 11.363636 %
+
+144 words total

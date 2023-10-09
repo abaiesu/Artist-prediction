@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    apart out out out out out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    trying trying trying trying find find find
+SECONDARY:ABSTRACTION                                            7
+    know know know know know know know
+EMOTIONS:SADNESS                                                 7
+    pain pain pain pain pain pain pain
+EMOTIONS:AFFECTION                                               7
+    like like like like like like like
+EMOTIONS:AGGRESSION                                              5
+    rips resentment fight fight fight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    calm calm calm calm
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    blood head head
+PRIMARY:SENSATION:TOUCH                                          2
+    sting thickens
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    roots
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    dims
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 25.925926 %
+EMOTIONS            : 35.185185 %
+
+207 words total

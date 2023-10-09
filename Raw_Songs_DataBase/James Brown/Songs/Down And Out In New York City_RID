@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    out here at place here out where out here out where out
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when when again when when when again when when sometimes when
+EMOTIONS:AFFECTION                                              10
+    like like favor friend friend like favor friend friend friends
+SECONDARY:ABSTRACTION                                            9
+    know sure something guess know real real real real
+PRIMARY:NEED:ORALITY                                             7
+    coffee fat fat fat fat drink eat
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say borrow say say say said
+PRIMARY:SENSATION:VISION                                         5
+    shining shine shine shine shine
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    laying die die laying
+PRIMARY:SENSATION:HARD                                           4
+    hard hard hard hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying try try
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street street avenue
+EMOTIONS:ANXIETY                                                 2
+    troubled troubled
+EMOTIONS:AGGRESSION                                              2
+    cruel hurts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hip
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 47.560976 %
+SECONDARY           : 35.365854 %
+EMOTIONS            : 17.073171 %
+
+404 words total

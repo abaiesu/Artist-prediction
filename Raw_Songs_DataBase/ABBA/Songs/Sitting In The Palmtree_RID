@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    at here at here near point at here among at far
+PRIMARY:SENSATION:VISION                                        10
+    see looking bluest see stars glow see light see bluest
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell please tell message please treat tell please
+EMOTIONS:AFFECTION                                               7
+    love love like dear like love love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now when everything now now now when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won won won carry won won
+SECONDARY:ABSTRACTION                                            5
+    why cause know know cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    palmtree palmtree palmtree
+EMOTIONS:AGGRESSION                                              3
+    harm bother angry
+EMOTIONS:GLORY                                                   2
+    wonder proud
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:MORAL IMPERATIVE                                       2
+    should shouldn
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:NEED:ORALITY                                             1
+    coconuts
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    calm
+
+PRIMARY             : 43.835616 %
+SECONDARY           : 38.356164 %
+EMOTIONS            : 17.808219 %
+
+314 words total

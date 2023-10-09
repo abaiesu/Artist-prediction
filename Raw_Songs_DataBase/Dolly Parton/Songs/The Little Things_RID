@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         4
+    see see look see
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever when now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    buy make reach
+PRIMARY:NEED:ORALITY                                             3
+    candy candy candy
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:GLORY                                                   1
+    proud
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+SECONDARY:ABSTRACTION                                            1
+    may
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 40.909091 %
+EMOTIONS            : 9.090909 %
+
+164 words total

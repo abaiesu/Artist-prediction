@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              7
+    beautiful beautiful beautiful beautiful beautiful beautiful beautiful
+SECONDARY:ABSTRACTION                                            6
+    thinking problem thinking know thinking know
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:POSITIVE AFFECT                                         2
+    funny gay
+EMOTIONS:SADNESS                                                 2
+    sad tearful
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+
+PRIMARY             : 51.851852 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 25.925926 %
+
+123 words total

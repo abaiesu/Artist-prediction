@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:TASTE                                         10
+    bitter taste bitter taste bitter taste bitter taste bitter taste
+SECONDARY:RESTRAINT                                              6
+    prisoner bars prisoner prisoner prisoner prisoner
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    burning burning burning burning burning
+PRIMARY:SENSATION:HARD                                           5
+    irony irony irony irony irony
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old time time
+SECONDARY:ABSTRACTION                                            3
+    think why understand
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pours liquid
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    boredom
+PRIMARY:NEED:ORALITY                                             1
+    drink
+EMOTIONS:GLORY                                                   1
+    wonders
+PRIMARY:SENSATION:VISION                                         1
+    looks
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:AGGRESSION                                              1
+    battles
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+PRIMARY:NEED:SEX                                                 1
+    naked
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 27.083333 %
+EMOTIONS            : 4.166667 %
+
+159 words total

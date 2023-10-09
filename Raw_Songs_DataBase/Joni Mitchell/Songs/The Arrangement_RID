@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    door floor door floor door door
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    swimming pool swimming pool
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    backyard away backyard
+SECONDARY:TEMPORAL REFERENCES                                    2
+    while time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find trying
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:NEED:ORALITY                                             2
+    whiskey consumer
+EMOTIONS:POSITIVE AFFECT                                         1
+    grind
+SECONDARY:RESTRAINT                                              1
+    bars
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    pleased
+SECONDARY:ORDER                                                  1
+    arrangement
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 60.714286 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 7.142857 %
+
+174 words total

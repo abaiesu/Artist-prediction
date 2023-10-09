@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    front round round round where round round round round where round round round out
+SECONDARY:ABSTRACTION                                            9
+    probably believe supposed different knows think know cause knows
+EMOTIONS:AFFECTION                                               8
+    like married like love like married like like
+EMOTIONS:POSITIVE AFFECT                                         7
+    merry merry happy merry merry merry merry
+EMOTIONS:AGGRESSION                                              4
+    hurt broken broken broken
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die slowin slowin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    trailer doors doors
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told sayin
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every time
+SECONDARY:RESTRAINT                                              2
+    stops stops
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high hill
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won buy
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+
+PRIMARY             : 40.983607 %
+SECONDARY           : 27.868852 %
+EMOTIONS            : 31.147541 %
+
+308 words total

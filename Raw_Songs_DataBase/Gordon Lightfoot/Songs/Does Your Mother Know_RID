@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            9
+    know know think know know think know know think
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    call tell tell call call tell tell tell tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    straight back east west straight back east
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    faded faded faded
+PRIMARY:SENSATION:COLD                                           3
+    winter winter winter
+PRIMARY:SENSATION:VISION                                         3
+    light light light
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    costs
+
+PRIMARY             : 46.511628 %
+SECONDARY           : 51.162791 %
+EMOTIONS            : 2.325581 %
+
+203 words total

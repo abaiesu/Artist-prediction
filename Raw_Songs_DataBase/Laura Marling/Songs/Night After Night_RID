@@ -1,0 +1,48 @@
+EMOTIONS:AFFECTION                                               8
+    darling loved dear lover love dear lover love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long away away away away longs longs away
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    forgive speaker forgiven call answers told
+SECONDARY:ABSTRACTION                                            5
+    know knowing knowing knowing knowing
+PRIMARY:SENSATION:VISION                                         5
+    watch watch watch light watch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    body body body hand body
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    drift drift drift lie drift
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance screams scream
+EMOTIONS:AGGRESSION                                              3
+    rage deceived hit
+PRIMARY:SENSATION:SOUND                                          3
+    ear ears hear
+EMOTIONS:SADNESS                                                 2
+    sorrow weep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    count sold
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once sudden
+PRIMARY:NEED:SEX                                                 2
+    lust naked
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driven
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:GLORY                                                   1
+    conquer
+
+PRIMARY             : 46.969697 %
+SECONDARY           : 25.757576 %
+EMOTIONS            : 27.272727 %
+
+263 words total

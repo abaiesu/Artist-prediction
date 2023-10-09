@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    backroom point space point point
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    counting carrying use
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy happy happy
+SECONDARY:TEMPORAL REFERENCES                                    2
+    timing when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    message says
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+EMOTIONS:AFFECTION                                               1
+    favorite
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sport
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climbing
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+SECONDARY:ABSTRACTION                                            1
+    choice
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 38.095238 %
+EMOTIONS            : 23.809524 %
+
+108 words total

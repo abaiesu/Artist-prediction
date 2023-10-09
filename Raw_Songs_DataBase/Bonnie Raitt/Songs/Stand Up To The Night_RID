@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    inside place where somewhere inside place where somewhere inside
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when time when time when
+PRIMARY:SENSATION:SOUND                                          4
+    heart hears heart heart
+PRIMARY:SENSATION:VISION                                         2
+    light light
+SECONDARY:ABSTRACTION                                            2
+    known know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 3.571429 %
+
+184 words total

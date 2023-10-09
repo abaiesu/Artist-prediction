@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                        12
+    see see watch see vision see see watch green see see watch
+SECONDARY:ABSTRACTION                                            9
+    reason them know believe know thinking know history know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call call told confide
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside out back
+PRIMARY:NEED:ORALITY                                             2
+    chew teeth
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    mystery secret
+EMOTIONS:POSITIVE AFFECT                                         1
+    grind
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+SECONDARY:TEMPORAL REFERENCES                                    1
+    season
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    neurotic
+EMOTIONS:AGGRESSION                                              1
+    attack
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:RESTRAINT                                              1
+    prevail
+
+PRIMARY             : 59.523810 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 4.761905 %
+
+150 words total

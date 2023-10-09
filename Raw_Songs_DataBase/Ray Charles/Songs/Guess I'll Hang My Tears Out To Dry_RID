@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out out at where out along out
+SECONDARY:ABSTRACTION                                            6
+    know guess them guess schemes guess
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when when then then
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    ask tell ask remind says
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    hang hang hang hang
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carry try
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain stream
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+EMOTIONS:AFFECTION                                               2
+    love friend
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drops drops
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams crazy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handsome
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    twilight
+EMOTIONS:AGGRESSION                                              1
+    steals
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangely
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 53.191489 %
+SECONDARY           : 40.425532 %
+EMOTIONS            : 6.382979 %
+
+170 words total

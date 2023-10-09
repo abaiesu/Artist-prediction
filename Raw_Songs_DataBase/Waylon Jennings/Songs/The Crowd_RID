@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out out away away apart back back back
+SECONDARY:TEMPORAL REFERENCES                                    8
+    tonight times sometimes then till old everytime till
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    play game sight dance dance dance game
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            6
+    crowd crowd crowd crowd crowd crowd
+PRIMARY:SENSATION:SOUND                                          3
+    loud heart hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+EMOTIONS:AGGRESSION                                              1
+    steal
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:ABSTRACTION                                            1
+    believe
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 21.052632 %
+
+127 words total

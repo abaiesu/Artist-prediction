@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         4
+    see saw green blues
+SECONDARY:ABSTRACTION                                            4
+    know know know true
+PRIMARY:NEED:ORALITY                                             3
+    lips lips lips
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burn burn burn
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game screaming
+EMOTIONS:AGGRESSION                                              1
+    hurt
+EMOTIONS:ANXIETY                                                 1
+    nervous
+SECONDARY:TEMPORAL REFERENCES                                    1
+    past
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 22.727273 %
+
+182 words total

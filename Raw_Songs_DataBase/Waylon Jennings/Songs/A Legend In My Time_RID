@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time everyone time everyone time
+EMOTIONS:GLORY                                                   4
+    fame gold fame fame
+SECONDARY:ABSTRACTION                                            4
+    meant know meant know
+PRIMARY:SENSATION:SOUND                                          3
+    heartaches heart heart
+EMOTIONS:AFFECTION                                               3
+    love love love
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over over
+EMOTIONS:SADNESS                                                 2
+    loneliness loneliness
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 42.857143 %
+
+133 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back straight where
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every ever while
+SECONDARY:ABSTRACTION                                            3
+    think planets thought
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven atmosphere
+EMOTIONS:AGGRESSION                                              2
+    break broken
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    channel step
+PRIMARY:NEED:ORALITY                                             2
+    corner nuts
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    practice
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 16.000000 %
+
+121 words total

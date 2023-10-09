@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    week now week now
+SECONDARY:ABSTRACTION                                            4
+    problems problems why why
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:SENSATION:VISION                                         2
+    scene scene
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:NEED:ORALITY                                             2
+    milk milk
+SECONDARY:MORAL IMPERATIVE                                       2
+    justice justice
+EMOTIONS:SADNESS                                                 1
+    loneliest
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 47.619048 %
+EMOTIONS            : 14.285714 %
+
+184 words total

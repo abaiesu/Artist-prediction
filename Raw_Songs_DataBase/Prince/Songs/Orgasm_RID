@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here here here here across
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then now
+PRIMARY:SENSATION:VISION                                         2
+    imagine look
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:ANXIETY                                                 1
+    shy
+SECONDARY:ABSTRACTION                                            1
+    almost
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 23.076923 %
+
+69 words total

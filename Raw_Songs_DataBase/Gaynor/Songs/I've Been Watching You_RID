@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        15
+    image see see watching watching see see watching watching look light watching watching watching watching
+SECONDARY:ABSTRACTION                                           11
+    think true true true true think cause true true true true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at open behind at open away back
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when everything everything then
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    window floor door window
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    says said
+PRIMARY:SENSATION:SOUND                                          2
+    hear voice
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play games
+EMOTIONS:AGGRESSION                                              1
+    slaps
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 57.407407 %
+SECONDARY           : 35.185185 %
+EMOTIONS            : 7.407407 %
+
+266 words total

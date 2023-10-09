@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here here back here out
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    swing fly jump swing fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    jerk jerk jerk twist
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hip hip
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    dig dig
+PRIMARY:SENSATION:VISION                                         2
+    scene see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play sight
+SECONDARY:ABSTRACTION                                            2
+    cause know
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:ANXIETY                                                 1
+    shy
+PRIMARY:NEED:ORALITY                                             1
+    potatoes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:SOUND                                          1
+    boomerang
+
+PRIMARY             : 75.757576 %
+SECONDARY           : 9.090909 %
+EMOTIONS            : 15.151515 %
+
+191 words total

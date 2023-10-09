@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    where where close far where where close away behind away back where
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when ever today now seasons when yesterday
+SECONDARY:ABSTRACTION                                            5
+    knew know understand reasons know
+PRIMARY:SENSATION:VISION                                         4
+    see looks watch watch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burning melting sun
+EMOTIONS:AFFECTION                                               2
+    love like
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    bridges
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 10.416667 %
+
+191 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    long long long long over between long long over between away inside
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time time when time time now time time now when years
+EMOTIONS:AFFECTION                                              10
+    love love lovers friends love friends lovers friends love friends
+SECONDARY:ABSTRACTION                                            6
+    supposed supposed plans supposed know reason
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told said tellin help
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    magic magic
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 37.254902 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 21.568627 %
+
+233 words total

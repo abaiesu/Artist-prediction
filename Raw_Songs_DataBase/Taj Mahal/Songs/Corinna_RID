@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  10
+    bird bird bird bird bird bird bird bird bird bird
+PRIMARY:NEED:ORALITY                                             8
+    honey honey honey honey honey honey honey honey
+EMOTIONS:AFFECTION                                               6
+    love love mercy mercy like like
+SECONDARY:ABSTRACTION                                            5
+    sure sure learned sure sure
+PRIMARY:SENSATION:SOUND                                          4
+    whistle heart hearts whistle
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing sing sing
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call call call call
+PRIMARY:SENSATION:HARD                                           4
+    hard hard hard hard
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    warm warm flame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trade money
+PRIMARY:SENSATION:VISION                                         2
+    shine look
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+EMOTIONS:GLORY                                                   1
+    gold
+
+PRIMARY             : 58.928571 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 19.642857 %
+
+181 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    off long off behind off off
+SECONDARY:ABSTRACTION                                            5
+    think guess think believe true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try tried tried find
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time when
+EMOTIONS:AFFECTION                                               3
+    kind love love
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 14.285714 %
+
+124 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where outside away where out space away where away
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old old old old old old
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    flown wings flown flown
+PRIMARY:SENSATION:VISION                                         3
+    light greene see
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drivers rode
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searching searching
+SECONDARY:ABSTRACTION                                            2
+    believe history
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    selling
+EMOTIONS:SADNESS                                                 1
+    sorrows
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowded
+SECONDARY:RESTRAINT                                              1
+    confined
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 67.567568 %
+SECONDARY           : 27.027027 %
+EMOTIONS            : 5.405405 %
+
+148 words total

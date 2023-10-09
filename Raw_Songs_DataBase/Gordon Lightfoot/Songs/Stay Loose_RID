@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    hours times hours soon sometimes hours hours
+EMOTIONS:AFFECTION                                               5
+    kind friends love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away away over away away
+SECONDARY:ABSTRACTION                                            4
+    believe know belief sure
+EMOTIONS:AGGRESSION                                              4
+    fight fight fight fight
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams insane dreams
+SECONDARY:RESTRAINT                                              3
+    must must must
+EMOTIONS:SADNESS                                                 3
+    grieves grieves grieves
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told help
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 28.888889 %
+
+256 words total

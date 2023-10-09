@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              34
+    love love lover love loved love love love lover love love lover love love lovers love love lover love love lover love love lover love love lover love lovers lovers lover love lover lover
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when till then when when when hours when when now now
+SECONDARY:ABSTRACTION                                            7
+    truly them decided know may why true
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    granted tell tell tell tell tell
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right should
+PRIMARY:SENSATION:VISION                                         4
+    rough rough see rough
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire flames burn
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spending find
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    growing higher
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+SECONDARY:RESTRAINT                                              1
+    caught
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellas
+
+PRIMARY             : 21.176471 %
+SECONDARY           : 36.470588 %
+EMOTIONS            : 42.352941 %
+
+423 words total

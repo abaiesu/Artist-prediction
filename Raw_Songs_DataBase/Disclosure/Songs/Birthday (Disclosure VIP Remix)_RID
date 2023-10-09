@@ -1,0 +1,30 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 14
+    make make working test make make working working working make make make working working
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    say call call calling calling say call call call called call call call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    behind away space out aside aside aside aside
+SECONDARY:ABSTRACTION                                            8
+    sure sure think sure sure sure sure sure
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old old old time old till old
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flame flame
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 22.033898 %
+SECONDARY           : 72.881356 %
+EMOTIONS            : 5.084746 %
+
+374 words total

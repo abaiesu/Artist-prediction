@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            4
+    know something know cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    apart far out
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everytime ever now
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    thank talked
+EMOTIONS:AFFECTION                                               2
+    love darlin
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spend
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:VISION                                         1
+    stars
+EMOTIONS:AGGRESSION                                              1
+    breakin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 15.384615 %
+
+172 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+PRIMARY:SENSATION:TASTE                                          6
+    sweet sweet sweet sweet sweet sweet
+SECONDARY:ABSTRACTION                                            5
+    may know reason know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    tonight ever past tonight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    outside outside here distant
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window door
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AGGRESSION                                              1
+    harm
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+
+PRIMARY             : 44.117647 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 20.588235 %
+
+132 words total

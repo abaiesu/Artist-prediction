@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long back long long long away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make found find make make
+SECONDARY:ABSTRACTION                                            5
+    believe true think know know
+PRIMARY:NEED:ORALITY                                             4
+    honey honey honey honey
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:SOUND                                          1
+    hearing
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 40.625000 %
+SECONDARY           : 56.250000 %
+EMOTIONS            : 3.125000 %
+
+218 words total

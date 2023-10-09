@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    out off over out out out round back out round back out out
+SECONDARY:ABSTRACTION                                           10
+    know think why believe cause know think why believe cause
+SECONDARY:TEMPORAL REFERENCES                                    9
+    ever old when when old when old when when
+EMOTIONS:AFFECTION                                               6
+    like like like married love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find work find won
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    callin callin say
+SECONDARY:RESTRAINT                                              3
+    stop stop lock
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    peaked peaked
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+EMOTIONS:AGGRESSION                                              1
+    abuse
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 51.785714 %
+EMOTIONS            : 12.500000 %
+
+278 words total

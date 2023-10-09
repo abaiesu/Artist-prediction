@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    open closed long side inside closed long here open within
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    building try trying try won possessions practice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    brain eye eyes eyes eyes
+SECONDARY:TEMPORAL REFERENCES                                    5
+    clockwork time time now ever
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    slowly death die dying
+PRIMARY:SENSATION:VISION                                         3
+    see colors light
+SECONDARY:ABSTRACTION                                            3
+    real reason know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    driven voyage travel
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game art
+SECONDARY:ORDER                                                  2
+    constantly forms
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    confidence gift
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:SENSATION:SOUND                                          1
+    heartbeat
+PRIMARY:SENSATION:TOUCH                                          1
+    contact
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:NEED:ORALITY                                             1
+    stomach
+EMOTIONS:AFFECTION                                               1
+    kind
+EMOTIONS:AGGRESSION                                              1
+    kills
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+
+PRIMARY             : 57.407407 %
+SECONDARY           : 35.185185 %
+EMOTIONS            : 7.407407 %
+
+212 words total

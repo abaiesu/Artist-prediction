@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long behind closed here far away behind
+EMOTIONS:AGGRESSION                                              5
+    kicking shooting kick hate unkind
+SECONDARY:ABSTRACTION                                            4
+    guess sure understand think
+EMOTIONS:AFFECTION                                               3
+    like love friend
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doors door
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call ask
+PRIMARY:NEED:ORALITY                                             1
+    lickity
+PRIMARY:NEED:ANALITY                                             1
+    messing
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:SENSATION:HARD                                           1
+    stoned
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 26.470588 %
+
+216 words total

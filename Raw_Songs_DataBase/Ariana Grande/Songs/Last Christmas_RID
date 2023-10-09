@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:SOUND                                         16
+    heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                   10
+    year year again again year year year year year year
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away away at away away away away away away
+EMOTIONS:AGGRESSION                                              7
+    hate broke broke broke broke hate hate
+PRIMARY:NEED:ANALITY                                             6
+    mess mess mess mess mess mess
+SECONDARY:ABSTRACTION                                            2
+    thought known
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 58.490566 %
+SECONDARY           : 28.301887 %
+EMOTIONS            : 13.207547 %
+
+421 words total

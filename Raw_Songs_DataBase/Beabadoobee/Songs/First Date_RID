@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out space where where where
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meet tell say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    sells bought build
+SECONDARY:ABSTRACTION                                            3
+    cause know know
+PRIMARY:NEED:ORALITY                                             2
+    corner pot
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:HARD                                           1
+    rocket
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AFFECTION                                               1
+    friends
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+SECONDARY:TEMPORAL REFERENCES                                    1
+    date
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 42.307692 %
+EMOTIONS            : 3.846154 %
+
+93 words total

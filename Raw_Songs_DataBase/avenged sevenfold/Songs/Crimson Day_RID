@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out out over far over far here outside over
+SECONDARY:TEMPORAL REFERENCES                                    7
+    years time times timeless time times times
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won find use reach find won find
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say speak say meet share speak
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun sun sun sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    slow lie secure slow
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    rise flight rise rise
+PRIMARY:SENSATION:VISION                                         4
+    crimson stars crimson crimson
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    endless lifetime lifetime
+SECONDARY:ABSTRACTION                                            2
+    something true
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep dreaming
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:AFFECTION                                               1
+    dear
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 38.596491 %
+EMOTIONS            : 3.508772 %
+
+227 words total

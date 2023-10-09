@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    off away off middle at where out out
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    roof top grow tops
+SECONDARY:TEMPORAL REFERENCES                                    4
+    today years ago old
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say tell tell talking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes foot hands feet
+PRIMARY:SENSATION:VISION                                         4
+    bright brown picture see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    lines lines street
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    use sells make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    played screaming
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    driving ships
+PRIMARY:NEED:ORALITY                                             2
+    soup soup
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    hole bottoms
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumped
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:HARD                                           1
+    rocket
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:POSITIVE AFFECT                                         1
+    grind
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangling
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 24.074074 %
+EMOTIONS            : 9.259259 %
+
+228 words total

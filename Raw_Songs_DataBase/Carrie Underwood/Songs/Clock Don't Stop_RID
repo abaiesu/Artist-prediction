@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    away away away at away away close away away away at away away away away away at away away away away
+SECONDARY:TEMPORAL REFERENCES                                   13
+    minutes hours clock clock clock clock clock clock clock clock clock clock clock
+PRIMARY:SENSATION:SOUND                                          7
+    ring ring hear heart bang bang drum
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make won won won won won won
+EMOTIONS:AGGRESSION                                              4
+    fight broke fight fight
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    line wall wall wall
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    flying hanging hanging hanging
+SECONDARY:RESTRAINT                                              3
+    caught caught caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slow slow slow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burned burns sun
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:ABSTRACTION                                            2
+    plane sure
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:ANXIETY                                                 1
+    scared
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:POSITIVE AFFECT                                         1
+    joke
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 34.523810 %
+EMOTIONS            : 11.904762 %
+
+353 words total

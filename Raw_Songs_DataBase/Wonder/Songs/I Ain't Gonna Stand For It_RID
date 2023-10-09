@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    telling tell said said
+SECONDARY:ABSTRACTION                                            3
+    believe believe cause
+PRIMARY:NEED:ORALITY                                             2
+    cherry cake
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistrust mistake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pickin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    diggin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bodily
+EMOTIONS:AGGRESSION                                              1
+    harm
+PRIMARY:SENSATION:TOUCH                                          1
+    rubbin
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+
+PRIMARY             : 59.090909 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 4.545455 %
+
+393 words total

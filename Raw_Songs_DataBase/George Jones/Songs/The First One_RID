@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    ever ever minute while ever ever when
+SECONDARY:ABSTRACTION                                            6
+    may know believe ideas guessing why
+EMOTIONS:AFFECTION                                               5
+    loved like like loves like
+PRIMARY:SENSATION:SOUND                                          3
+    hear heart heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play games
+EMOTIONS:GLORY                                                   2
+    pride wonder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    possession makes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:AGGRESSION                                              1
+    beat
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:VISION                                         1
+    gleaming
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+
+PRIMARY             : 22.857143 %
+SECONDARY           : 45.714286 %
+EMOTIONS            : 31.428571 %
+
+190 words total

@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    between at place at place at place
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    toes hair eye hair hair
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    met preachers tell met met
+EMOTIONS:AFFECTION                                               4
+    kinda likes like like
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    fair fair fair fair
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever every time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    bawl cry
+PRIMARY:SENSATION:VISION                                         1
+    blues
+SECONDARY:ABSTRACTION                                            1
+    truth
+SECONDARY:RESTRAINT                                              1
+    caught
+EMOTIONS:ANXIETY                                                 1
+    shy
+PRIMARY:NEED:SEX                                                 1
+    kissing
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 51.351351 %
+SECONDARY           : 27.027027 %
+EMOTIONS            : 21.621622 %
+
+141 words total

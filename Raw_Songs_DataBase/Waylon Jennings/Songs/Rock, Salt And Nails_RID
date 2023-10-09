@@ -1,0 +1,44 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    river river waters rainy
+PRIMARY:SENSATION:HARD                                           4
+    rock nails rock nails
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where where where
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies lays lay
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow birds
+PRIMARY:SENSATION:SOUND                                          2
+    soundin echoes
+EMOTIONS:AGGRESSION                                              2
+    shotgun shotgun
+PRIMARY:NEED:ORALITY                                             2
+    salt salt
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    warble
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+SECONDARY:ORDER                                                  1
+    listened
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+EMOTIONS:SADNESS                                                 1
+    weeps
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:MORAL IMPERATIVE                                       1
+    conscience
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hours
+
+PRIMARY             : 74.285714 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 11.428571 %
+
+136 words total

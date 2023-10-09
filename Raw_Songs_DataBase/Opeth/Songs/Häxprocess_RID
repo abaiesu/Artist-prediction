@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:COLD                                           3
+    winter children snow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    riding riding
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+SECONDARY:TEMPORAL REFERENCES                                    2
+    season when
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:SENSATION:VISION                                         1
+    light
+EMOTIONS:POSITIVE AFFECT                                         1
+    relieved
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    reeling
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    drenched
+SECONDARY:ABSTRACTION                                            1
+    them
+EMOTIONS:SADNESS                                                 1
+    woe
+
+PRIMARY             : 76.000000 %
+SECONDARY           : 16.000000 %
+EMOTIONS            : 8.000000 %
+
+88 words total

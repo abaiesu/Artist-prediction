@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:SOUND                                         48
+    bells bells bells bells bells bells bells bells bells bells hear hear sound hear bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells bells
+SECONDARY:TEMPORAL REFERENCES                                   17
+    everyday everyday everywhere everybody everyday everyday time time everywhere time time everyday everyday everyday everyday everyday everyday
+SECONDARY:ABSTRACTION                                            6
+    them them knows them know sure
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    telling share share
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over near
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spread spread
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:AGGRESSION                                              1
+    beat
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 65.060241 %
+SECONDARY           : 31.325301 %
+EMOTIONS            : 3.614458 %
+
+204 words total

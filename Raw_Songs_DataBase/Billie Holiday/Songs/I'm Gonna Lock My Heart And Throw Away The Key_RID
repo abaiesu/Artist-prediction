@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away back along away away
+EMOTIONS:AFFECTION                                               5
+    love love romance love love
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    throw hang throw throw
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again soon again soon
+SECONDARY:RESTRAINT                                              3
+    lock lock lock
+EMOTIONS:AGGRESSION                                              2
+    mock disturb
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    windows curb
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 25.714286 %
+EMOTIONS            : 22.857143 %
+
+120 words total

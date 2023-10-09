@@ -1,0 +1,42 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 15
+    pays use use use use use use use use use use use use use use
+SECONDARY:MORAL IMPERATIVE                                      15
+    right right right right right right right right right right right right right right right
+EMOTIONS:AGGRESSION                                              7
+    murdered revenge degrades kill kill fight degrade
+SECONDARY:ABSTRACTION                                            6
+    real causing real causing causing think
+EMOTIONS:SADNESS                                                 5
+    misery pain pain pain pain
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    submission dead decay
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:NEED:ANALITY                                             1
+    polluted
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:TOUCH                                          1
+    rub
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:RESTRAINT                                              1
+    obedience
+PRIMARY:NEED:ORALITY                                             1
+    eat
+
+PRIMARY             : 17.910448 %
+SECONDARY           : 61.194030 %
+EMOTIONS            : 20.895522 %
+
+193 words total

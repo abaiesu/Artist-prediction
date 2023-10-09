@@ -1,0 +1,38 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    sing cry cry sing sing cry cry sing
+SECONDARY:RESTRAINT                                              5
+    shut shut shut shut shut
+SECONDARY:TEMPORAL REFERENCES                                    4
+    already time then time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at here off at
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high roof high
+PRIMARY:SENSATION:SOUND                                          2
+    loud ring
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    machines bought
+PRIMARY:NEED:ORALITY                                             2
+    drink drink
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh laugh
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+SECONDARY:ABSTRACTION                                            1
+    why
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    hallway
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    ashes
+
+PRIMARY             : 41.025641 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 25.641026 %
+
+242 words total

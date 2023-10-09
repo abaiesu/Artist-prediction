@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              32
+    like like love like love love like love like like love like love love like love like like love like love like love like love love like love love like love love
+EMOTIONS:AGGRESSION                                             15
+    fighting hurt hurt hurt hated fighting hurt hurt hurt hurt hurt hurt hurt hurt hurt
+PRIMARY:SENSATION:VISION                                         9
+    watch watch watch watch watched watch watch watch watch
+SECONDARY:ABSTRACTION                                            7
+    know cause cause cause think cause cause
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    door road door road road road
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out open back open out
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say told say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time past when now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry cry cry cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work built
+SECONDARY:RESTRAINT                                              1
+    guard
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:GLORY                                                   1
+    proud
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 23.404255 %
+SECONDARY           : 19.148936 %
+EMOTIONS            : 57.446809 %
+
+400 words total

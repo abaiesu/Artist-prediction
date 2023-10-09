@@ -1,0 +1,18 @@
+EMOTIONS:AFFECTION                                              10
+    loved love love love love loved love love love love
+SECONDARY:ABSTRACTION                                            7
+    know real know think guess know real
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    sold carrying find sold find
+EMOTIONS:AGGRESSION                                              2
+    fight fight
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 46.153846 %
+
+164 words total

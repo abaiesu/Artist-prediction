@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    time sometimes past past time now past time clock time now past
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    between distance backwards somewhere where ahead back here at back here
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    help talk help please help please
+SECONDARY:ABSTRACTION                                            4
+    thought thinking differently thinking
+PRIMARY:SENSATION:VISION                                         3
+    see look look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes mends mends
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    brows hands brows
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lines step
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blast
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pondering
+EMOTIONS:POSITIVE AFFECT                                         1
+    enjoy
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fog
+PRIMARY:SENSATION:TOUCH                                          1
+    thicker
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 48.076923 %
+EMOTIONS            : 5.769231 %
+
+156 words total

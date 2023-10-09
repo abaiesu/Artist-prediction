@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           24
+    know know truth truth know know know know know know know know know know know know know know know know know know know know
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when when when when when ever when ever now
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell tell tell tell tell said tell admit
+EMOTIONS:AFFECTION                                               6
+    loving friend loving friend like like
+EMOTIONS:POSITIVE AFFECT                                         3
+    laughter happy happy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:SOUND                                          1
+    loud
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 8.474576 %
+SECONDARY           : 71.186441 %
+EMOTIONS            : 20.338983 %
+
+266 words total

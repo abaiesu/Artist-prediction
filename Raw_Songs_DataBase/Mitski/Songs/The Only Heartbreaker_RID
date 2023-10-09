@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:SOUND                                          7
+    heartbreaker heartbreaker heartbreaker heartbreaker heartbreaker heartbreaker heartbreaker
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    apologize forgive apologize forgive
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game play
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water flooding
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:SENSATION:VISION                                         1
+    watching
+
+PRIMARY             : 56.521739 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 13.043478 %
+
+113 words total

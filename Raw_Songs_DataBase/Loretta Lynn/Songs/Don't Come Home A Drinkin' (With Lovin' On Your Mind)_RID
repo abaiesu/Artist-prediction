@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               9
+    love lovin lovin kind love lovin dear lovin lovin
+PRIMARY:NEED:ORALITY                                             7
+    liquor drinkin drinkin drinkin drinkin drinkin drinkin
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when every time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out behind out
+SECONDARY:ABSTRACTION                                            2
+    thought cause
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:NEED:SEX                                                 1
+    kissin
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 33.333333 %
+
+173 words total

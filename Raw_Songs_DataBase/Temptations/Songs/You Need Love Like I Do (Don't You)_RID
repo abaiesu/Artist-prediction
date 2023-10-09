@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              12
+    like love like love love like love like love like love like
+SECONDARY:TEMPORAL REFERENCES                                    7
+    yesterday when years when everyday now when
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    told advice tells helping tell talk tell
+PRIMARY:SENSATION:VISION                                         6
+    look look look looking look looking
+SECONDARY:ABSTRACTION                                            4
+    understand know judging true
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    handsome face hand
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    uphill climb float
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+SECONDARY:MORAL IMPERATIVE                                       1
+    proper
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 32.000000 %
+SECONDARY           : 42.000000 %
+EMOTIONS            : 26.000000 %
+
+199 words total

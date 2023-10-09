@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    able say meet meet meet meet call meet meet meet meet
+SECONDARY:ABSTRACTION                                            5
+    why believe reason think cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    work try make trade
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    middle place where
+EMOTIONS:AFFECTION                                               3
+    love kind love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    game scream shout
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes bone
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ANALITY                                             1
+    stalled
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeper
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+
+PRIMARY             : 23.809524 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 19.047619 %
+
+204 words total

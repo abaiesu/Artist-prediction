@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    till now quick now when now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    side side at across at outside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    workin pickin workin won
+PRIMARY:SENSATION:VISION                                         3
+    looked see looked
+PRIMARY:SENSATION:SOUND                                          3
+    hummin heard hear
+SECONDARY:ABSTRACTION                                            3
+    know surely knew
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried yellow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow lay
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    below cellar
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said sayin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky trees
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:ANALITY                                             1
+    stall
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallin
+
+PRIMARY             : 53.658537 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 7.317073 %
+
+186 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              15
+    love love love love mating love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now while dating now when now when
+SECONDARY:ABSTRACTION                                            4
+    know truth reason know
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun happy satisfy
+PRIMARY:SENSATION:VISION                                         2
+    looka lighten
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell share
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fading
+
+PRIMARY             : 12.195122 %
+SECONDARY           : 41.463415 %
+EMOTIONS            : 46.341463 %
+
+172 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               3
+    like love like
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talks said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out side
+SECONDARY:ABSTRACTION                                            2
+    think why
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now everything
+EMOTIONS:AGGRESSION                                              2
+    kicked fight
+PRIMARY:NEED:SEX                                                 2
+    fucked kiss
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees brain
+EMOTIONS:POSITIVE AFFECT                                         2
+    gay gay
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+PRIMARY:NEED:ANALITY                                             1
+    stinks
+PRIMARY:NEED:ORALITY                                             1
+    gut
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 29.629630 %
+
+371 words total

@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                       23
+    tell say thank thanks ask say thank says says talk say thank thanks ask say thank thank thanks ask say thank say thank
+PRIMARY:SENSATION:SOUND                                         11
+    heard loud music music heart melody music music music music music
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    sing sing dance dancer sing dance sing dance
+EMOTIONS:POSITIVE AFFECT                                         5
+    joke joy joy joy joy
+EMOTIONS:GLORY                                                   4
+    wonderful proud wondered golden
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everyone when often everybody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out long out out
+SECONDARY:ABSTRACTION                                            3
+    fact probably cause
+SECONDARY:MORAL IMPERATIVE                                       3
+    honesty honesty honesty
+EMOTIONS:AFFECTION                                               2
+    grateful like
+SECONDARY:ORDER                                                  1
+    listens
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+SECONDARY:RESTRAINT                                              1
+    capture
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 23.611111 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 26.388889 %
+
+316 words total

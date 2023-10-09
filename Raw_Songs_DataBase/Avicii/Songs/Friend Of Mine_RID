@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                              12
+    friend friend love friend friend friend friend like friend friend love friend
+SECONDARY:ABSTRACTION                                           10
+    truth something knows guess guess why something truth something knows
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said asked said telling granted tell telling granted
+SECONDARY:TEMPORAL REFERENCES                                    4
+    times today now when
+PRIMARY:SENSATION:VISION                                         4
+    seen see see look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    count trying count
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:ANXIETY                                                 1
+    nervous
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+
+PRIMARY             : 20.408163 %
+SECONDARY           : 53.061224 %
+EMOTIONS            : 26.530612 %
+
+254 words total

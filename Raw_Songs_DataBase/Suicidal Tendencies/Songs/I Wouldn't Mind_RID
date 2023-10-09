@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         6
+    seeing seeing seeing seeing seeing seeing
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every every every moment every
+PRIMARY:SENSATION:SOUND                                          4
+    hearing hearing hearing hearing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    screaming cry shout screamin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes makes makes makes
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    twisted shaken shaken
+SECONDARY:ABSTRACTION                                            3
+    thought think purpose
+EMOTIONS:AGGRESSION                                              2
+    revenge shot
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+EMOTIONS:SADNESS                                                 2
+    pain pain
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy joy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rise jump
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood veins
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 28.888889 %
+
+166 words total

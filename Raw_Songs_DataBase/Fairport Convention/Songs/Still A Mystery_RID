@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where inside places out out out out out where
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             6
+    mystery mystery mystery mystery mystery mystery
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then every ever every today
+EMOTIONS:AFFECTION                                               3
+    like lover love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    tried find tried
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play playing games
+PRIMARY:SENSATION:VISION                                         2
+    look see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    spark flame
+SECONDARY:ABSTRACTION                                            2
+    known true
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow clouds
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    footprints
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 27.450980 %
+EMOTIONS            : 13.725490 %
+
+226 words total

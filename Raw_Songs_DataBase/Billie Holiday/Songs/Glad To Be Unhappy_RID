@@ -1,0 +1,34 @@
+EMOTIONS:POSITIVE AFFECT                                         5
+    humor laught grin glad glad
+EMOTIONS:SADNESS                                                 4
+    sadly unhappy sad unhappy
+PRIMARY:SENSATION:VISION                                         3
+    look look bright
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at here
+EMOTIONS:AFFECTION                                               3
+    romance love like
+EMOTIONS:AGGRESSION                                              1
+    beat
+SECONDARY:ORDER                                                  1
+    simply
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    chin
+PRIMARY:NEED:ORALITY                                             1
+    toothpaste
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jumble
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    pleasure
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    straying
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 11.111111 %
+EMOTIONS            : 48.148148 %
+
+114 words total

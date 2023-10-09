@@ -1,0 +1,54 @@
+EMOTIONS:AGGRESSION                                              8
+    war stole anger rage enemies break vengeance hate
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when ago time when times while
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    sold built paid profit pay paid
+SECONDARY:ABSTRACTION                                            6
+    may know know may them truth
+PRIMARY:SENSATION:VISION                                         6
+    lightning looking see images bright light
+EMOTIONS:GLORY                                                   5
+    gold heroes proud empires glory
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long west west out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    coast coast walls
+PRIMARY:SENSATION:HARD                                           3
+    stone steel hard
+PRIMARY:SENSATION:SOUND                                          2
+    loud hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fog shadows
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    rise lifted
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    faces eyes
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    eternity endure
+PRIMARY:SENSATION:COLD                                           2
+    children children
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirits
+SECONDARY:MORAL IMPERATIVE                                       1
+    justice
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    flood
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    untold
+PRIMARY:NEED:ANALITY                                             1
+    shatter
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lowly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 20.588235 %
+
+239 words total

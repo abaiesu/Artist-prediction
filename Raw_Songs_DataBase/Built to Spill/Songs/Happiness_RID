@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    past time when when when when when when
+EMOTIONS:POSITIVE AFFECT                                         7
+    happiness happiness happiness happiness happiness happiness happiness
+SECONDARY:ABSTRACTION                                            4
+    planned cause plan cause
+EMOTIONS:AGGRESSION                                              2
+    cruel cruel
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:NEED:ANALITY                                             1
+    shit
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+
+PRIMARY             : 18.518519 %
+SECONDARY           : 48.148148 %
+EMOTIONS            : 33.333333 %
+
+171 words total

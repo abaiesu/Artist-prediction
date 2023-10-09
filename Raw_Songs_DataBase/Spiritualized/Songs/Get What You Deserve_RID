@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    when now while while every now while while when now while while while while
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 13
+    won make used used used used used used won make used used used
+EMOTIONS:AFFECTION                                               9
+    like affection love love like affection like affection devotion
+EMOTIONS:AGGRESSION                                              9
+    shoot shoot hit shoot shoot shoot shoot shoot shoot
+PRIMARY:SENSATION:VISION                                         6
+    look lightning blue look lightning blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back where where back where
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    borrow borrow borrow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slow die slow
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roll twisted roll
+EMOTIONS:GLORY                                                   2
+    riches riches
+PRIMARY:NEED:ORALITY                                             2
+    fed fat
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 29.729730 %
+SECONDARY           : 43.243243 %
+EMOTIONS            : 27.027027 %
+
+308 words total

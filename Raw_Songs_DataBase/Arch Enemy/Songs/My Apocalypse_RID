@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    long away near here long near here
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silenced dying dying
+PRIMARY:SENSATION:SOUND                                          3
+    heart voices heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    buried buried
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    beneath beneath
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fading shadows
+PRIMARY:SENSATION:TASTE                                          2
+    bitter taste
+PRIMARY:SENSATION:VISION                                         2
+    shine light
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sudden
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+PRIMARY:NEED:ANALITY                                             1
+    soil
+EMOTIONS:SADNESS                                                 1
+    repent
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journey
+PRIMARY:SENSATION:SOFT                                           1
+    whispering
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 90.625000 %
+SECONDARY           : 3.125000 %
+EMOTIONS            : 6.250000 %
+
+86 words total

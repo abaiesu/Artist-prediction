@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:COLD                                           8
+    child child child child child child child child
+PRIMARY:SENSATION:SOUND                                          8
+    heart heart heart heart hearts heart heart heart
+EMOTIONS:POSITIVE AFFECT                                         4
+    gay carefree smiles merry
+EMOTIONS:ANXIETY                                                 3
+    worries worry fear
+SECONDARY:ABSTRACTION                                            3
+    problem reason thoughts
+EMOTIONS:AFFECTION                                               3
+    love welcome like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play sing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sunny sunny
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+EMOTIONS:SADNESS                                                 1
+    frown
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 13.157895 %
+EMOTIONS            : 34.210526 %
+
+173 words total

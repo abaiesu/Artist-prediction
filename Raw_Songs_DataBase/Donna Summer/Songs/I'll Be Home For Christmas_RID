@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    place long back where where
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreaming dreams dreams dreams
+PRIMARY:SENSATION:VISION                                         4
+    light gleams light gleams
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight presents presents
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    promise please please
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    count find find
+PRIMARY:SENSATION:COLD                                           2
+    snow snow
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistletoe mistletoe
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under under
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree tree
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+
+PRIMARY             : 62.857143 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 8.571429 %
+
+109 words total

@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   8
+    high sky high sky high sky high sky
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    far where far here far where far here
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    ocean sprinkled dew ocean ocean
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    travel journey travel journey
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+SECONDARY:TEMPORAL REFERENCES                                    3
+    times ever ever
+PRIMARY:SENSATION:VISION                                         2
+    star star
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 79.487179 %
+SECONDARY           : 12.820513 %
+EMOTIONS            : 7.692308 %
+
+126 words total

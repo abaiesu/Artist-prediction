@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       41
+    inside here here here behind behind here here here here here here here out here place place where where behind here here here here here here here out here here here here inside here here here here here inside inside here
+SECONDARY:TEMPORAL REFERENCES                                   40
+    when when time time time times times time time time time time time time when then when then then then time time time time time time now time time time time time time time time time time when when time
+PRIMARY:SENSATION:VISION                                         9
+    lights look look looking looking look looking look looking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    work works won try try find try find
+SECONDARY:ABSTRACTION                                            7
+    cause cause know know judge knows knows
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    heaven heaven heaven spirit sky sky
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say tell say preachers talk
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    line gate street door
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun fire
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head feet head
+PRIMARY:SENSATION:SOUND                                          3
+    hear music hear
+SECONDARY:MORAL IMPERATIVE                                       2
+    righteous righteous
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+SECONDARY:RESTRAINT                                              1
+    lock
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    roots
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 45.652174 %
+EMOTIONS            : 2.173913 %
+
+394 words total

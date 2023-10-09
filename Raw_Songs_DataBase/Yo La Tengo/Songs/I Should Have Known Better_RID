@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           18
+    know considered define decide probably knew probably knew consider decide probably knew probably knew probably knew probably knew
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    place over out over out
+EMOTIONS:AGGRESSION                                              4
+    threats rage fight fight
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now times now times
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call said say
+PRIMARY:SENSATION:VISION                                         2
+    see light
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:AFFECTION                                               1
+    familiar
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driver
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+
+PRIMARY             : 27.083333 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 10.416667 %
+
+233 words total

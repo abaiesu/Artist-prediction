@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back at inside off out out
+EMOTIONS:AFFECTION                                               4
+    like like like friend
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time again once now
+SECONDARY:ABSTRACTION                                            4
+    probably think sure why
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    death bed die
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flight throw jump
+PRIMARY:NEED:ORALITY                                             2
+    corners mouth
+EMOTIONS:AGGRESSION                                              2
+    beatin violence
+PRIMARY:NEED:SEX                                                 2
+    fucked fuck
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    excuse encourage
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    steps bridge
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grew
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:SENSATION:COLD                                           1
+    childhood
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+SECONDARY:ORDER                                                  1
+    grade
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    brain
+
+PRIMARY             : 57.446809 %
+SECONDARY           : 25.531915 %
+EMOTIONS            : 17.021277 %
+
+191 words total

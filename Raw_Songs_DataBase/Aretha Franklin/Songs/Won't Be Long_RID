@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       28
+    here back back long long long long back long here back back long long long long long here back back long long long long long long long long
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 16
+    won won won won won won won won won won won won won won won won
+SECONDARY:ABSTRACTION                                           11
+    cause why know why know why sure know know know know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when now when when when
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    mentioning told said telling said
+PRIMARY:SENSATION:SOUND                                          4
+    whistle whistle hear whistle
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    railroad railroad railroad
+EMOTIONS:SADNESS                                                 2
+    lonesome lonesome
+EMOTIONS:AFFECTION                                               2
+    goodbye loving
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy excited
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+
+PRIMARY             : 46.341463 %
+SECONDARY           : 46.341463 %
+EMOTIONS            : 7.317073 %
+
+338 words total

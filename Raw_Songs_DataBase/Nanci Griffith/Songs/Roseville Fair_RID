@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    while now then ago when now hours then year time ago when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    round long at front at long at here here at at
+PRIMARY:SENSATION:SOUND                                          5
+    hear music tunes tunes tune
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    playin danced danced danced dance
+EMOTIONS:AFFECTION                                               5
+    lovely love dearly love lovers
+PRIMARY:SENSATION:GENERAL-SENSATION                              5
+    fair fair fair fair fair
+PRIMARY:SENSATION:VISION                                         4
+    stars shinin blue looked
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    quiet drifting drifting
+SECONDARY:ABSTRACTION                                            2
+    them may
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fell
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met share
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:HARD                                           1
+    rock
+
+PRIMARY             : 55.737705 %
+SECONDARY           : 26.229508 %
+EMOTIONS            : 18.032787 %
+
+238 words total

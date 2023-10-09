@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell say tell tell forgive say tell
+EMOTIONS:AFFECTION                                               6
+    love loves love loves love loves
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back back over back back back
+EMOTIONS:AGGRESSION                                              6
+    break strife break doubting blame break
+EMOTIONS:SADNESS                                                 4
+    sorry sorry sorry sorry
+PRIMARY:NEED:ORALITY                                             3
+    fast fast fast
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now ever yearning
+SECONDARY:ABSTRACTION                                            2
+    true true
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 38.095238 %
+
+190 words total

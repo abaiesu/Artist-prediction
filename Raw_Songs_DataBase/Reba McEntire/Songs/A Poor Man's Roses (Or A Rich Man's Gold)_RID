@@ -1,0 +1,28 @@
+EMOTIONS:GLORY                                                   7
+    rich gold wealthy palace gold rich gold
+SECONDARY:TEMPORAL REFERENCES                                    4
+    today then when tonight
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make buying
+SECONDARY:ABSTRACTION                                            2
+    may learn
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 20.833333 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 41.666667 %
+
+109 words total

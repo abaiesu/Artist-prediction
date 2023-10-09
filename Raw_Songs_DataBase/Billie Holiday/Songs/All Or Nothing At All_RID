@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    at at at between at close at at at at between at close at at
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    appealed please call say appealed please call say
+SECONDARY:ABSTRACTION                                            6
+    why something may why something may
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    cheek eyes hand cheek eyes hand
+EMOTIONS:AFFECTION                                               4
+    love love love love
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then then then then
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fell fall fell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    yield yield
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes makes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under under
+SECONDARY:RESTRAINT                                              2
+    caught caught
+PRIMARY:SENSATION:VISION                                         2
+    see see
+
+PRIMARY             : 58.904110 %
+SECONDARY           : 30.136986 %
+EMOTIONS            : 10.958904 %
+
+272 words total

@@ -1,0 +1,48 @@
+PRIMARY:NEED:ORALITY                                             7
+    drink coffee coffee coffee coffee coffee coffee
+SECONDARY:TEMPORAL REFERENCES                                    6
+    weekday clock moments when past past
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    between out between between
+EMOTIONS:SADNESS                                                 3
+    lonesome mournin mournin
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talkin please please
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor door
+PRIMARY:SENSATION:VISION                                         2
+    watch blues
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand eye
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams crazy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work pay
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              2
+    fight fight
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pour
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 14.285714 %
+
+212 words total

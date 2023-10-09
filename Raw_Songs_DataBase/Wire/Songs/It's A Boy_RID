@@ -1,0 +1,34 @@
+EMOTIONS:AGGRESSION                                              2
+    broken damaged
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye head
+PRIMARY:SENSATION:VISION                                         2
+    view look
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:NEED:ORALITY                                             1
+    spit
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    collections
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    flood
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:RESTRAINT                                              1
+    refusal
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 11.764706 %
+EMOTIONS            : 29.411765 %
+
+59 words total

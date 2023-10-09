@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talking met said talking
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then soon now now
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    waterman waterman waterman
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    situation where
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    roared
+PRIMARY:SENSATION:SOUND                                          1
+    aloud
+EMOTIONS:GLORY                                                   1
+    proud
+EMOTIONS:AGGRESSION                                              1
+    arrow
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+SECONDARY:ABSTRACTION                                            1
+    sure
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 37.037037 %
+SECONDARY           : 40.740741 %
+EMOTIONS            : 22.222222 %
+
+214 words total

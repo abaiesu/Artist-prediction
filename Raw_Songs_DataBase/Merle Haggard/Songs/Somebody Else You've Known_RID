@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           10
+    difference cause believe knew surely known think believe surely known
+EMOTIONS:AFFECTION                                               8
+    kinda love love loved love like darling like
+SECONDARY:TEMPORAL REFERENCES                                    6
+    while then times when then again
+SECONDARY:RESTRAINT                                              3
+    must stopped must
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    offered met
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:AGGRESSION                                              1
+    hurtin
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impressed
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 13.513514 %
+SECONDARY           : 62.162162 %
+EMOTIONS            : 24.324324 %
+
+153 words total

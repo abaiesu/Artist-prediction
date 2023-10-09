@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         2
+    looks look
+PRIMARY:SENSATION:COLD                                           2
+    cool cooler
+EMOTIONS:AGGRESSION                                              2
+    blame broken
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulders
+SECONDARY:TEMPORAL REFERENCES                                    1
+    older
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 31.578947 %
+
+89 words total

@@ -1,0 +1,28 @@
+EMOTIONS:ANXIETY                                                 4
+    worry worry worry worry
+EMOTIONS:GLORY                                                   4
+    great great great great
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:HARD                                           3
+    crisp crispy crisp
+PRIMARY:SENSATION:SOUND                                          2
+    heard music
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say excuse
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:NEED:ORALITY                                             1
+    nuts
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    between
+
+PRIMARY             : 29.166667 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 54.166667 %
+
+177 words total

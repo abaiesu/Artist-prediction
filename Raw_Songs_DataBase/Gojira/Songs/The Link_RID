@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            4
+    learns decide understand understand
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    fire burn fire fire
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    protect call call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    build build find
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place between
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:SADNESS                                                 1
+    suffer
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dive
+
+PRIMARY             : 37.037037 %
+SECONDARY           : 59.259259 %
+EMOTIONS            : 3.703704 %
+
+126 words total

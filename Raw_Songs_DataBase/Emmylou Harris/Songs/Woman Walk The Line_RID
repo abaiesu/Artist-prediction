@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    once again tonight when tonight when every when again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at beside place out here out longer where
+SECONDARY:ABSTRACTION                                            4
+    thinkin know them know
+EMOTIONS:SADNESS                                                 3
+    lonely lonely sad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand arms
+EMOTIONS:AGGRESSION                                              1
+    bother
+PRIMARY:NEED:ORALITY                                             1
+    drinkin
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 16.666667 %
+
+187 words total

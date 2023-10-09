@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                         8
+    see stars stars stars see see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out far distant at far distant at side
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everything soon ancient soon everything
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    safe safe death dead dead
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell tell speak tell tell
+EMOTIONS:ANXIETY                                                 4
+    worries trouble afraid afraid
+EMOTIONS:AGGRESSION                                              3
+    rip ripple steal
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride sail desert
+SECONDARY:ABSTRACTION                                            3
+    real real truth
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin body
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    float
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    valley
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    void
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 23.636364 %
+EMOTIONS            : 12.727273 %
+
+206 words total

@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            8
+    guess thinking think something why something why why
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tell tell tell tell tell
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+EMOTIONS:SADNESS                                                 4
+    lonely lonely lonely lonely
+PRIMARY:NEED:ORALITY                                             3
+    honey honey honey
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found make
+EMOTIONS:AGGRESSION                                              2
+    torn breaking
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    spark
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    revive
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hasty
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 23.684211 %
+SECONDARY           : 57.894737 %
+EMOTIONS            : 18.421053 %
+
+263 words total

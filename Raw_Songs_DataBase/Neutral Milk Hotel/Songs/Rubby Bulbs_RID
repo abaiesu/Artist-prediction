@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    beautiful beautiful beautiful beautiful
+PRIMARY:SENSATION:SOUND                                          3
+    voice voice voice
+PRIMARY:SENSATION:TASTE                                          2
+    taste taste
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    skin skin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out over
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everywhere
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:VISION                                         1
+    glow
+
+PRIMARY             : 88.235294 %
+SECONDARY           : 5.882353 %
+EMOTIONS            : 5.882353 %
+
+96 words total

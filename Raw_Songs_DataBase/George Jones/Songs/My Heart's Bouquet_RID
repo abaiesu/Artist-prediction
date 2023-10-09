@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when then then years time when old years ever
+PRIMARY:SENSATION:SOUND                                          9
+    heart heart heart heart heart heart heart heart heart
+EMOTIONS:AFFECTION                                               8
+    love love love loved love darling darling love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found picked picked picked
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told sharing
+EMOTIONS:GLORY                                                   2
+    pride golden
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    faces hair
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fellow
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    growing
+SECONDARY:ABSTRACTION                                            1
+    knew
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    along
+PRIMARY:SENSATION:VISION                                         1
+    grey
+
+PRIMARY             : 34.782609 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 26.086957 %
+
+190 words total

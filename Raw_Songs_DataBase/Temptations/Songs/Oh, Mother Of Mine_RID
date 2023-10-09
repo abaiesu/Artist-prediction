@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       19
+    tell please please forgive advice advice advice please please please said say told pleases please please tell tell say
+SECONDARY:ABSTRACTION                                           11
+    know know almost almost understand know thought guess understand understands think
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now now now when now everything every now now now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place place at
+EMOTIONS:AFFECTION                                               3
+    love like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    paid paid
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying dying
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    whirl
+EMOTIONS:ANXIETY                                                 1
+    worry
+
+PRIMARY             : 12.068966 %
+SECONDARY           : 77.586207 %
+EMOTIONS            : 10.344828 %
+
+266 words total

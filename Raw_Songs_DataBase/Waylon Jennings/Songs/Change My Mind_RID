@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    round round side round at round round round
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyes arms arms arms arms arms arms
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever time ever
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    restless
+EMOTIONS:SADNESS                                                 1
+    dissatisfied
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:POSITIVE AFFECT                                         1
+    gay
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    beckons
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 13.333333 %
+
+142 words total

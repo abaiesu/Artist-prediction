@@ -1,0 +1,20 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    past time time when
+EMOTIONS:POSITIVE AFFECT                                         4
+    happy smile smiles smiles
+SECONDARY:ABSTRACTION                                            3
+    thinkin them think
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    success
+
+PRIMARY             : 6.250000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 43.750000 %
+
+176 words total

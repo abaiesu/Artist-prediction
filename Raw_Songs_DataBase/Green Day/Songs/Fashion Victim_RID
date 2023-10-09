@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time seasons when once once once
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at off off
+PRIMARY:SENSATION:VISION                                         3
+    scented looking looks
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    follow sharp
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    price price
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+EMOTIONS:AGGRESSION                                              1
+    kill
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+
+PRIMARY             : 35.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 15.000000 %
+
+191 words total

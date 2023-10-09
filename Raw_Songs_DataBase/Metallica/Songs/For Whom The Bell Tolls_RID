@@ -1,0 +1,54 @@
+EMOTIONS:AGGRESSION                                              6
+    fight gun fight kill wounds raging
+SECONDARY:TEMPORAL REFERENCES                                    6
+    early time time now now time
+PRIMARY:SENSATION:SOUND                                          6
+    bell bell hears loud bell bell
+PRIMARY:SENSATION:VISION                                         5
+    grey glow look see see
+SECONDARY:ABSTRACTION                                            5
+    why know surely know except
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    hill hill sky sky
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    shouting roar roar cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make test goal
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die silence
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    stranger mystery
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+SECONDARY:ORDER                                                  1
+    constant
+PRIMARY:SENSATION:COLD                                           1
+    chill
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:HARD                                           1
+    stiffened
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    insane
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:NEED:ANALITY                                             1
+    shattered
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 29.310345 %
+EMOTIONS            : 20.689655 %
+
+165 words total

@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    years everything everything
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    brook tides
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at where
+EMOTIONS:GLORY                                                   2
+    great great
+SECONDARY:ABSTRACTION                                            2
+    theme theme
+PRIMARY:SENSATION:VISION                                         2
+    starlight starlight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    agree agree
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springs
+PRIMARY:SENSATION:SOFT                                           1
+    murmur
+EMOTIONS:AGGRESSION                                              1
+    ripples
+EMOTIONS:AFFECTION                                               1
+    lovers
+
+PRIMARY             : 52.000000 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 20.000000 %
+
+79 words total

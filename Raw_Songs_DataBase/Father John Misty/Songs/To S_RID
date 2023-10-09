@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flyin float float
+SECONDARY:ABSTRACTION                                            3
+    sure guess sure
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand bone
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes makes
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+PRIMARY:SENSATION:VISION                                         2
+    blues blues
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away away
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+SECONDARY:TEMPORAL REFERENCES                                    1
+    past
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:MORAL IMPERATIVE                                       1
+    honestly
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:NEED:ANALITY                                             1
+    mess
+EMOTIONS:GLORY                                                   1
+    kingdom
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 7.407407 %
+
+145 words total

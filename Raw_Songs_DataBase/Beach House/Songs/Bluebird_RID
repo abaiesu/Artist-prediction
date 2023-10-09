@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever now then ever now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where back where over over
+SECONDARY:RESTRAINT                                              4
+    control capture caught capture
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms eye
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try try
+PRIMARY:SENSATION:VISION                                         2
+    bluebird bluebird
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ceiling
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+SECONDARY:ABSTRACTION                                            1
+    something
+
+PRIMARY             : 42.307692 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 3.846154 %
+
+99 words total

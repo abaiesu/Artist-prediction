@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               8
+    love love loving love like friends like love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now once when already now
+PRIMARY:SENSATION:VISION                                         3
+    see gazed see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lazy dead lay
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away back
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top top
+SECONDARY:ABSTRACTION                                            2
+    thought know
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    haze clouds
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    stoop
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+
+PRIMARY             : 51.515152 %
+SECONDARY           : 21.212121 %
+EMOTIONS            : 27.272727 %
+
+149 words total

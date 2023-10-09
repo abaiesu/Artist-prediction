@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at at where out where here at here
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    ask tell call borrow met call call
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now time time now time
+SECONDARY:ABSTRACTION                                            4
+    real know think think
+PRIMARY:SENSATION:VISION                                         3
+    looked looking look
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fall
+EMOTIONS:AGGRESSION                                              2
+    steal ripped
+PRIMARY:SENSATION:TOUCH                                          2
+    stroking stroking
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trade
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 47.727273 %
+SECONDARY           : 43.181818 %
+EMOTIONS            : 9.090909 %
+
+239 words total

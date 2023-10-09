@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                          6
+    voice heart hearted hearted voice heart
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time ever time ever
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fell fell fell fell
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high heaven highway heaven
+PRIMARY:SENSATION:VISION                                         2
+    saw saw
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleeping
+SECONDARY:ABSTRACTION                                            2
+    something something
+PRIMARY:NEED:ANALITY                                             2
+    muddy muddy
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    waters waters
+EMOTIONS:AGGRESSION                                              2
+    attack attack
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 63.888889 %
+SECONDARY           : 19.444444 %
+EMOTIONS            : 16.666667 %
+
+114 words total

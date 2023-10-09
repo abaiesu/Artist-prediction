@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out at place along out along out
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say say said tell say said tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    carry mending buy find found carrying
+PRIMARY:SENSATION:COLD                                           5
+    coolin cold coolin coolin coolin
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+PRIMARY:SENSATION:SOUND                                          3
+    hear rhythm hear
+EMOTIONS:AFFECTION                                               3
+    love friends friends
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancing sing dancing
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    swayed waves
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    heat warm
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+EMOTIONS:AGGRESSION                                              2
+    broke broken
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+SECONDARY:RESTRAINT                                              1
+    catch
+
+PRIMARY             : 46.000000 %
+SECONDARY           : 34.000000 %
+EMOTIONS            : 20.000000 %
+
+203 words total

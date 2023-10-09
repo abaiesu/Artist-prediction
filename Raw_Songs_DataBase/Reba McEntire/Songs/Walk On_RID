@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    apart off long toward off long long toward off long long toward off long
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when everything sometimes sometimes when ever till when ever ever till ever till
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pick find mend find find
+PRIMARY:SENSATION:VISION                                         3
+    light light light
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+EMOTIONS:GLORY                                                   2
+    wonderful wonderful
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:SOUND                                          2
+    heartache heart
+EMOTIONS:AFFECTION                                               2
+    love goodbye
+EMOTIONS:AGGRESSION                                              2
+    breaks break
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:ANXIETY                                                 1
+    troubles
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 45.098039 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 13.725490 %
+
+213 words total

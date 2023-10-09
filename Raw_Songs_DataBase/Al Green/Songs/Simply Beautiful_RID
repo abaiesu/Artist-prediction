@@ -1,0 +1,22 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell call say say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when sometime when
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out beside
+SECONDARY:ORDER                                                  2
+    simply simply
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 14.285714 %
+
+130 words total

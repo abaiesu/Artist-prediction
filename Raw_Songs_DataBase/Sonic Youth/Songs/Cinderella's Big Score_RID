@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here away closer near aside inside away closer near
+PRIMARY:SENSATION:COLD                                           4
+    cold freeze cold freeze
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time old time
+PRIMARY:NEED:ORALITY                                             3
+    lips honey honey
+EMOTIONS:AGGRESSION                                              2
+    kick kick
+PRIMARY:NEED:SEX                                                 2
+    fucked kiss
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:NEED:ANALITY                                             1
+    pissed
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+SECONDARY:ABSTRACTION                                            1
+    consider
+SECONDARY:RESTRAINT                                              1
+    caught
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:ANXIETY                                                 1
+    scared
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 15.625000 %
+EMOTIONS            : 15.625000 %
+
+181 words total

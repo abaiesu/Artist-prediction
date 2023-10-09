@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when once till when seasons once till
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find make makes makes make
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    grown grow grow grows grown
+EMOTIONS:AFFECTION                                               4
+    love friend love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lay weary lay weary
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wake dreaming
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    beside beside
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow shadow
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travel travel
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:ORDER                                                  1
+    simple
+
+PRIMARY             : 47.619048 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 16.666667 %
+
+132 words total

@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    when time time time time time time time time time now now now now now
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    beautiful pretty pretty attention
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleasure mention
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:SENSATION:VISION                                         1
+    sees
+SECONDARY:ABSTRACTION                                            1
+    thought
+
+PRIMARY             : 25.925926 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 7.407407 %
+
+74 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    space over over off side long between over over off
+SECONDARY:TEMPORAL REFERENCES                                    4
+    till today time already
+SECONDARY:ABSTRACTION                                            3
+    know concentrate know
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lazy died
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bones brain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep dreams
+EMOTIONS:AFFECTION                                               2
+    friends like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor walls
+PRIMARY:SENSATION:VISION                                         1
+    sees
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+SECONDARY:ORDER                                                  1
+    formation
+PRIMARY:NEED:ORALITY                                             1
+    starvation
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:SENSATION:SOUND                                          1
+    drums
+SECONDARY:MORAL IMPERATIVE                                       1
+    duty
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calls
+
+PRIMARY             : 61.111111 %
+SECONDARY           : 30.555556 %
+EMOTIONS            : 8.333333 %
+
+192 words total

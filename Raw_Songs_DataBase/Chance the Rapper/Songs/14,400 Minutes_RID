@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    over away here away south away away away at back far
+SECONDARY:TEMPORAL REFERENCES                                    4
+    minutes minute already minutes
+PRIMARY:SENSATION:VISION                                         4
+    see stars look look
+EMOTIONS:AFFECTION                                               3
+    familiar like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands body
+SECONDARY:ORDER                                                  2
+    class class
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told representin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring swing
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:NEED:SEX                                                 2
+    bitch fucking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    jobs finish
+PRIMARY:SENSATION:SOUND                                          1
+    racket
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+SECONDARY:RESTRAINT                                              1
+    arrested
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    nestled
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shouts
+EMOTIONS:AGGRESSION                                              1
+    resent
+
+PRIMARY             : 58.139535 %
+SECONDARY           : 30.232558 %
+EMOTIONS            : 11.627907 %
+
+222 words total

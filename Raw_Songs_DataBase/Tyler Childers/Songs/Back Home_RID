@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    off back towards off back off back over off back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    floor door road road road road
+SECONDARY:ABSTRACTION                                            6
+    thinkin cause effect thinkin thinkin thinkin
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time time time now while time
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    springs hurlin swingin throwing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    die die die die
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    drippin pouring
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    meltin
+PRIMARY:SENSATION:VISION                                         1
+    watchin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ceiling
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reachin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bone
+
+PRIMARY             : 68.888889 %
+SECONDARY           : 28.888889 %
+EMOTIONS            : 2.222222 %
+
+159 words total

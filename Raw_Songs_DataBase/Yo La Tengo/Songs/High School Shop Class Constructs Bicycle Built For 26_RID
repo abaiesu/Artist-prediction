@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out wide side side
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    constructed built building
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then everyone months
+SECONDARY:ABSTRACTION                                            3
+    decided planning them
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    frame doorway lining
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand headlights
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:SOUND                                          1
+    bells
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:ORDER                                                  1
+    classroom
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 45.833333 %
+EMOTIONS            : 4.166667 %
+
+108 words total

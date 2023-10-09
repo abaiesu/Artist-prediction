@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    closing closing closing closing out out closing closing closing out out away away away here away away
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every time then ever today ever ever
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    shadows fade fade fade fade fade
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:AFFECTION                                               1
+    patterns
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+
+PRIMARY             : 70.731707 %
+SECONDARY           : 24.390244 %
+EMOTIONS            : 4.878049 %
+
+122 words total

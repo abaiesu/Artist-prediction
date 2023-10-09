@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    away place where back close back where back where here back where back where
+SECONDARY:ABSTRACTION                                            7
+    truth why cause learn know cause learned
+EMOTIONS:AGGRESSION                                              6
+    fight wars war killing gun destroy
+PRIMARY:SENSATION:VISION                                         5
+    watch glow moonbeams glow moonbeams
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say taught tell helpless saying
+PRIMARY:SENSATION:COLD                                           5
+    cold snow children cold snow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    use bought sold find
+SECONDARY:TEMPORAL REFERENCES                                    3
+    soon times when
+EMOTIONS:POSITIVE AFFECT                                         3
+    happiness smile smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die dying
+EMOTIONS:GLORY                                                   2
+    principles great
+PRIMARY:SENSATION:SOUND                                          2
+    rings rings
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rainbow rainbow
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand face
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 28.787879 %
+EMOTIONS            : 16.666667 %
+
+283 words total

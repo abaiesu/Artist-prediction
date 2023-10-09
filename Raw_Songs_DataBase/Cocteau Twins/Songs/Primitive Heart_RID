@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+EMOTIONS:AFFECTION                                               4
+    love lover loving loving
+SECONDARY:RESTRAINT                                              3
+    must must must
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:SENSATION:VISION                                         2
+    blue seeing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:SENSATION:TOUCH                                          1
+    smooth
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    frame
+SECONDARY:TEMPORAL REFERENCES                                    1
+    till
+PRIMARY:NEED:ORALITY                                             1
+    sugared
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouding
+
+PRIMARY             : 51.851852 %
+SECONDARY           : 18.518519 %
+EMOTIONS            : 29.629630 %
+
+87 words total

@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           10
+    know know know know them them think think think think
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everyday everyday everyday everyday
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+SECONDARY:RESTRAINT                                              2
+    police police
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:AGGRESSION                                              1
+    killing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:NEED:ORALITY                                             1
+    starved
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 45.714286 %
+EMOTIONS            : 25.714286 %
+
+160 words total

@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                            5
+    knows know real real believe
+EMOTIONS:AFFECTION                                               4
+    love like like love
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    century century century
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everybody everything
+PRIMARY:SENSATION:VISION                                         2
+    see looks
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trips
+PRIMARY:NEED:SEX                                                 1
+    kissing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:NEED:ORALITY                                             1
+    lips
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    successful
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:SOUND                                          1
+    sounds
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:MORAL IMPERATIVE                                       1
+    honest
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 46.428571 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 17.857143 %
+
+110 words total

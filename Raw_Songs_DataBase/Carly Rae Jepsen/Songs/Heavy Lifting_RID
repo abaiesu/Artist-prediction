@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       29
+    side away at at at side out out side at at at at at at at at at at at at at at at at at at at at
+PRIMARY:SENSATION:VISION                                        25
+    looked look look see saw look look look look look look look look look look look look look look look look look look look look
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when today when when every time now when when when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    skin skin skin skin skin skin
+EMOTIONS:AFFECTION                                               3
+    like love like
+PRIMARY:SENSATION:SOFT                                           3
+    tingle tingle tingle
+PRIMARY:SENSATION:ODOR                                           3
+    breathe breathe breathe
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    lifting lifting lifting
+SECONDARY:ABSTRACTION                                            3
+    know decided know
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk ask
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slips
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:NEED:SEX                                                 1
+    kissed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+
+PRIMARY             : 76.842105 %
+SECONDARY           : 18.947368 %
+EMOTIONS            : 4.210526 %
+
+350 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    longer away place where away place place behind at away away place where away place place away longer away place where away place away
+SECONDARY:TEMPORAL REFERENCES                                    7
+    today now when soon today everything now
+EMOTIONS:AFFECTION                                               3
+    love like like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share share
+EMOTIONS:POSITIVE AFFECT                                         2
+    joys joys
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top top
+EMOTIONS:SADNESS                                                 2
+    sorrows sorrows
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    flesh flesh
+PRIMARY:NEED:SEX                                                 2
+    lust lust
+SECONDARY:ABSTRACTION                                            1
+    consequence
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:VISION                                         1
+    bright
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lululu
+
+PRIMARY             : 64.150943 %
+SECONDARY           : 18.867925 %
+EMOTIONS            : 16.981132 %
+
+235 words total

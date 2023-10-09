@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        20
+    see see see flashing lights see see see flashing lights see see see flashing lights see see see flashing lights
+SECONDARY:ABSTRACTION                                           10
+    know supposed may know supposed may supposed supposed supposed may
+PRIMARY:SENSATION:SOUND                                          7
+    hearted heart hearted heart heart heart heart
+EMOTIONS:AGGRESSION                                              5
+    broken slap broken slap slap
+EMOTIONS:AFFECTION                                               4
+    love love love love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fell fall fell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    open open open open
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes eyes eyes eyes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    sky sky sky sky
+EMOTIONS:ANXIETY                                                 4
+    fears fears fears fears
+SECONDARY:TEMPORAL REFERENCES                                    4
+    tonight tonight tonight tonight
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    mend mend
+PRIMARY:SENSATION:HARD                                           2
+    harder harder
+
+PRIMARY             : 56.962025 %
+SECONDARY           : 26.582278 %
+EMOTIONS            : 16.455696 %
+
+334 words total

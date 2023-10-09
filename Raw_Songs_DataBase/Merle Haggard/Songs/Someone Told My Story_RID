@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    told told told told told told told told told told told
+SECONDARY:ABSTRACTION                                            4
+    believe almost knew almost
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every then then
+EMOTIONS:POSITIVE AFFECT                                         2
+    happiness happiness
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line doors
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    record
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swinging
+
+PRIMARY             : 17.241379 %
+SECONDARY           : 68.965517 %
+EMOTIONS            : 13.793103 %
+
+136 words total

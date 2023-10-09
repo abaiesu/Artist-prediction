@@ -1,0 +1,38 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   7
+    elevated elevated elevated elevated elevated elevated elevated
+SECONDARY:TEMPORAL REFERENCES                                    4
+    season now moment moment
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    open longer where
+SECONDARY:ABSTRACTION                                            3
+    reason understands reasons
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    price
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asking
+EMOTIONS:AFFECTION                                               1
+    embracing
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pivotal
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertain
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:POSITIVE AFFECT                                         1
+    relief
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 10.344828 %
+
+136 words total

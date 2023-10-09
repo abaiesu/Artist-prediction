@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           13
+    know true know cause know true know know know know cause true know
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell tell said say say say telling said
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when then when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along over back
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies lies lies
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry cry cry
+EMOTIONS:AGGRESSION                                              3
+    slander revenge break
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hair
+EMOTIONS:AFFECTION                                               2
+    sympathize friends
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy smile
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+
+PRIMARY             : 24.489796 %
+SECONDARY           : 55.102041 %
+EMOTIONS            : 20.408163 %
+
+280 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyes hand face arms headed hands eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    circle somewhere near near at across
+SECONDARY:TEMPORAL REFERENCES                                    6
+    minute while everyone minute while everyone
+PRIMARY:SENSATION:VISION                                         4
+    lamppost light blinking look
+PRIMARY:NEED:ORALITY                                             2
+    fast corner
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    invitation said
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+EMOTIONS:AGGRESSION                                              1
+    shoot
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    tunnel
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+
+PRIMARY             : 65.714286 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 5.714286 %
+
+143 words total

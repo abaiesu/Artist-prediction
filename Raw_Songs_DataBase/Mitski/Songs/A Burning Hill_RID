@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         4
+    witness watching watching seen
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire fire fire
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at out
+SECONDARY:TEMPORAL REFERENCES                                    2
+    today today
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ABSTRACTION                                            1
+    think
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    promising
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    valley
+SECONDARY:ORDER                                                  1
+    neat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 10.000000 %
+
+118 words total

@@ -1,0 +1,36 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    bed dead dead die
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now sometimes sometimes sometimes
+PRIMARY:SENSATION:COLD                                           3
+    cold chilly cold
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door road road
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    travel travellin travelin
+EMOTIONS:AFFECTION                                               3
+    like friend like
+EMOTIONS:ANXIETY                                                 3
+    trouble trouble trouble
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help call
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:ABSTRACTION                                            1
+    learn
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 20.588235 %
+EMOTIONS            : 29.411765 %
+
+168 words total

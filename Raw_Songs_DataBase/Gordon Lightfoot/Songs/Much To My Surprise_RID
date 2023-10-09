@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                        12
+    saw saw saw saw blue saw saw saw see saw blue saw
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    back at close back at out where out out out where
+SECONDARY:ABSTRACTION                                           10
+    almost caused almost schemes schemin almost caused almost caused almost
+SECONDARY:MORAL IMPERATIVE                                       7
+    right right right right right right right
+EMOTIONS:AFFECTION                                               6
+    lovers like like goodbyes kind like
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now then now when now
+EMOTIONS:AGGRESSION                                              4
+    broke wreck hit broke
+PRIMARY:SENSATION:SOUND                                          3
+    heart hearts hearts
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    strange mystifies strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ships sailed wandered
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play cried play
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreamers dreamin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    spark searchin
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild wild
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knee
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+
+PRIMARY             : 51.282051 %
+SECONDARY           : 32.051282 %
+EMOTIONS            : 16.666667 %
+
+232 words total

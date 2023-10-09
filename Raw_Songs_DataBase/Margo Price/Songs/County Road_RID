@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    where out away round here rear out back out longer here far rearranged out
+SECONDARY:ABSTRACTION                                           11
+    think know may know know thinking know knows why why why
+SECONDARY:TEMPORAL REFERENCES                                   10
+    ever sometimes ever time years already when time when years
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    road road road road road road road road
+PRIMARY:SENSATION:VISION                                         4
+    see view see see
+EMOTIONS:AGGRESSION                                              4
+    shoot cuts knife broke
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won buy bought
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    waking nightmare dream
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    says talk
+SECONDARY:RESTRAINT                                              2
+    prison bar
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high trees
+PRIMARY:NEED:ORALITY                                             2
+    gin drunk
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:HARD                                           1
+    gravel
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pour
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headlights
+SECONDARY:ORDER                                                  1
+    listening
+
+PRIMARY             : 53.947368 %
+SECONDARY           : 38.157895 %
+EMOTIONS            : 7.894737 %
+
+330 words total

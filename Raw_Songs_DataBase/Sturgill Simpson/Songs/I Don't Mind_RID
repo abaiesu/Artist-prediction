@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    out back rearranged back out out at over behind ahead far away out here inside where away behind ahead
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when now time now now when every ever again now when ever again
+SECONDARY:ABSTRACTION                                            7
+    plan believe know true think believe think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    carry found found find trying find
+EMOTIONS:AFFECTION                                               5
+    love like love like love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    dreams wake dreams dream wake
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    follow please told please
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    drifting drift
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 48.611111 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 9.722222 %
+
+289 words total

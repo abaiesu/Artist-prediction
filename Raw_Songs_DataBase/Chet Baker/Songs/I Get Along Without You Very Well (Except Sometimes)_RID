@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            7
+    except except think except perhaps think surely
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+PRIMARY:SENSATION:SOUND                                          4
+    hear heart tune heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along along along
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when then once
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rains drip
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill laugh
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:AGGRESSION                                              2
+    breaking break
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    spring spring
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sheltered
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 16.666667 %
+
+144 words total

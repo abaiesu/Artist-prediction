@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:SOUND                                         23
+    heart hear heart hear heart hear heart hear heart heart hear heart hear heart heart hear heart hear heart hear heart heart hear
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    asked help sayin sayin sharin sayin sayin sayin sayin sayin sayin sayin sayin
+SECONDARY:RESTRAINT                                             13
+    stop stop stop stop stop stop stop stop stop stop stop stop stop
+SECONDARY:ORDER                                                 13
+    listen listen listen listen listen listen listen listen listen listen listen listen listen
+EMOTIONS:AFFECTION                                              12
+    love love love love love love love love love darlin darlin darlin
+PRIMARY:SENSATION:VISION                                        12
+    look look look look look see look look see look look see
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time ever again ever time now now now
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right right right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out open within over
+SECONDARY:ABSTRACTION                                            3
+    why why decide
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head heels
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+
+PRIMARY             : 38.938053 %
+SECONDARY           : 49.557522 %
+EMOTIONS            : 11.504425 %
+
+292 words total

@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when now when now
+EMOTIONS:AFFECTION                                               4
+    devotion love devotion love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over over inside
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    sensation charm
+EMOTIONS:GLORY                                                   2
+    richer gold
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+EMOTIONS:SADNESS                                                 1
+    pains
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+
+PRIMARY             : 34.782609 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 34.782609 %
+
+76 words total

@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    away away away away wide away away away away away away away away
+SECONDARY:TEMPORAL REFERENCES                                   12
+    now then then then then time then then then then then then
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell plead
+SECONDARY:ABSTRACTION                                            2
+    true know
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AGGRESSION                                              1
+    cruel
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dangling
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:SENSATION:TOUCH                                          1
+    slick
+
+PRIMARY             : 48.648649 %
+SECONDARY           : 48.648649 %
+EMOTIONS            : 2.702703 %
+
+161 words total

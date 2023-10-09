@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where at out out back out long over back out
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every week everyone once when when again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    job paid work try try try try
+SECONDARY:ABSTRACTION                                            6
+    thinks thinking thought believe thought believe
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    asked said tell tell
+PRIMARY:SENSATION:VISION                                         4
+    saw blue saw blue
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street door line
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    roof
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+EMOTIONS:AFFECTION                                               1
+    darling
+
+PRIMARY             : 40.909091 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 4.545455 %
+
+251 words total

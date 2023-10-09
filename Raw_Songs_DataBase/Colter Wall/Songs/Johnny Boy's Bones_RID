@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        10
+    look look look gray look look look blue blue blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away away away at at back closed back closed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    handsome handsome bones bones arms eyes bones arms eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    lay died died died laid lay
+SECONDARY:TEMPORAL REFERENCES                                    3
+    old times when
+EMOTIONS:AGGRESSION                                              3
+    cannon torn killing
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    beneath low beneath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees trees
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh grin
+PRIMARY:SENSATION:ODOR                                           1
+    musket
+EMOTIONS:GLORY                                                   1
+    boast
+SECONDARY:MORAL IMPERATIVE                                       1
+    honorable
+SECONDARY:ABSTRACTION                                            1
+    them
+
+PRIMARY             : 78.431373 %
+SECONDARY           : 9.803922 %
+EMOTIONS            : 11.764706 %
+
+189 words total

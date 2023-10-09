@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    somewhere over outside out out front outside place out away over far away outside place out
+PRIMARY:SENSATION:SOUND                                          8
+    belly loud heart heart heart loud heart heart
+SECONDARY:ABSTRACTION                                            8
+    know something themselves know know know themselves know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    scream sing sing dance sing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    head blood feet hands feet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make buildings find find buildings
+EMOTIONS:AGGRESSION                                              4
+    break enemy violent violent
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    street hallway edge
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    teaching forgive forgive
+PRIMARY:SENSATION:VISION                                         2
+    saw stars
+SECONDARY:ORDER                                                  2
+    order order
+SECONDARY:TEMPORAL REFERENCES                                    2
+    while while
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    sway sway
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safe safe
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    rooftop
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 57.534247 %
+SECONDARY           : 27.397260 %
+EMOTIONS            : 15.068493 %
+
+368 words total

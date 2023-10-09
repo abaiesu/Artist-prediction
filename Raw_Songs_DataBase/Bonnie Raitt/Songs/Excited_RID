@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    everything ever then whenever when soon now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away away over somewhere away away away
+EMOTIONS:POSITIVE AFFECT                                         5
+    excited excited excited excited excited
+SECONDARY:ABSTRACTION                                            4
+    thought sure know problem
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met answer convince
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    building find
+SECONDARY:ORDER                                                  2
+    simple simply
+EMOTIONS:AGGRESSION                                              1
+    stole
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 26.470588 %
+SECONDARY           : 55.882353 %
+EMOTIONS            : 17.647059 %
+
+204 words total

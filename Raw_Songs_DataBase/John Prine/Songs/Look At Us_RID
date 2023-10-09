@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                        18
+    look look look see look look picture look look see look look see look see look see look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    at at at at at at over at at back out at at at
+SECONDARY:ABSTRACTION                                            9
+    true believin true know history true history true true
+SECONDARY:TEMPORAL REFERENCES                                    8
+    years then then years now when when when
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+SECONDARY:MORAL IMPERATIVE                                       5
+    should should should should should
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chances chances
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    leaning
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+EMOTIONS:AGGRESSION                                              1
+    doubt
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+
+PRIMARY             : 55.882353 %
+SECONDARY           : 33.823529 %
+EMOTIONS            : 10.294118 %
+
+167 words total

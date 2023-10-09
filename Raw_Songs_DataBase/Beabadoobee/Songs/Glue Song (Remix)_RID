@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            8
+    known guess know knew known known known known
+EMOTIONS:AFFECTION                                               5
+    like love loving like like
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once when
+PRIMARY:SENSATION:TASTE                                          1
+    tangled
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:SENSATION:VISION                                         1
+    appeared
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 20.833333 %
+SECONDARY           : 54.166667 %
+EMOTIONS            : 25.000000 %
+
+132 words total

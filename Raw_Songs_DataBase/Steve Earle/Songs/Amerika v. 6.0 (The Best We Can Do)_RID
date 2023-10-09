@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at front out back at out long point out
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now when meanwhile everybody sometime everybody years ago meanwhile
+SECONDARY:ABSTRACTION                                            6
+    know thought thinkin them thinkin know
+PRIMARY:SENSATION:VISION                                         5
+    look look see blues look
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    line wall street wall
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell talkin sharpenin
+EMOTIONS:AGGRESSION                                              3
+    scalpels cut war
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    countin pay build
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+SECONDARY:MORAL IMPERATIVE                                       1
+    customer
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:RESTRAINT                                              1
+    taxes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+PRIMARY:NEED:ORALITY                                             1
+    sucks
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:GLORY                                                   1
+    great
+EMOTIONS:AFFECTION                                               1
+    kinda
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warming
+
+PRIMARY             : 43.396226 %
+SECONDARY           : 43.396226 %
+EMOTIONS            : 13.207547 %
+
+275 words total

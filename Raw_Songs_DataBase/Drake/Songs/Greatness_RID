@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    back centerfold open at where far where where somewhere off at
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then then frequent every time then sometimes everywhere
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    money record hire make makes
+EMOTIONS:AGGRESSION                                              5
+    cannon killer weapon beat hated
+SECONDARY:ABSTRACTION                                            4
+    probably sure understood understand
+EMOTIONS:GLORY                                                   3
+    admire greatness rich
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    retire lie
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hip headed
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep dream
+PRIMARY:NEED:ORALITY                                             2
+    eat dinners
+SECONDARY:RESTRAINT                                              2
+    require bar
+PRIMARY:NEED:SEX                                                 2
+    bitch fuck
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hill elevator
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    signal
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flyer
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+EMOTIONS:AFFECTION                                               1
+    appreciate
+
+PRIMARY             : 49.152542 %
+SECONDARY           : 35.593220 %
+EMOTIONS            : 15.254237 %
+
+252 words total

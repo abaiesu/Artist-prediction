@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    behind back here away back here away side away towards side far away far away away back
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now everyone now when now time now time time
+EMOTIONS:AGGRESSION                                              8
+    jealousy defeat rage hatred fight hatred fight despise
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    converse help help say help help help say
+PRIMARY:SENSATION:VISION                                         8
+    watch see watch witness see light witness see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won won won won won buy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    blood eyes blood eyes eyes
+SECONDARY:ABSTRACTION                                            5
+    understand learn understand chose understand
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lies lies dying lies
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burn burn burned
+EMOTIONS:SADNESS                                                 3
+    sorrow sorrow sorrow
+PRIMARY:NEED:ORALITY                                             3
+    feeds feeds feeds
+PRIMARY:NEED:SEX                                                 2
+    fuck fuck
+EMOTIONS:ANXIETY                                                 2
+    fear afraid
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:NEED:ANALITY                                             1
+    rot
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 31.868132 %
+EMOTIONS            : 14.285714 %
+
+328 words total

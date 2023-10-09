@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    away out here close away inside over away away away away away
+EMOTIONS:AFFECTION                                              11
+    love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when hours till again when when when when when when
+PRIMARY:SENSATION:ODOR                                           6
+    breath breath breath breath breath breath
+SECONDARY:ABSTRACTION                                            4
+    cause somethin known cause
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say speak say speak
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reachin countin make
+PRIMARY:SENSATION:SOUND                                          3
+    heart hearts heart
+PRIMARY:SENSATION:VISION                                         2
+    see light
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:RESTRAINT                                              1
+    captured
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 45.312500 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 17.187500 %
+
+210 words total

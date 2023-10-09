@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    behind far back where where out back where where out
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell said calls said tell told said thank
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when time when when when then now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won won find make find
+PRIMARY:SENSATION:VISION                                         5
+    lights look lights look look
+PRIMARY:SENSATION:SOUND                                          5
+    hear hear heard hear hear
+SECONDARY:ABSTRACTION                                            3
+    may knew sure
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    crowd crowd
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+EMOTIONS:AFFECTION                                               1
+    friends
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dives
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairs
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 51.851852 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 3.703704 %
+
+278 words total

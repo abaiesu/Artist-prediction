@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    front where where long here at where inside where long
+EMOTIONS:AGGRESSION                                              7
+    hit war shot beats shot war beats
+SECONDARY:ABSTRACTION                                            6
+    think know cause cause know cause
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever when ever when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    madness madness madness madness
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes lesson win
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line wall
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:GLORY                                                   1
+    supremacy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    summit
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 28.260870 %
+EMOTIONS            : 23.913043 %
+
+260 words total

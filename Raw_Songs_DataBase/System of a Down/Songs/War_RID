@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                             32
+    fight fight fight fight fight fight fight fight fight fight fight fight fight fight sword destroy destroy destroy kill war war war war war fight fight fight fight fight fight fight fight
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    call call teaches approved speak speak speak speak
+SECONDARY:ABSTRACTION                                            5
+    judgment beliefs reason history reason
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    deliverance sold seljuks attain
+SECONDARY:RESTRAINT                                              4
+    must must must must
+PRIMARY:SENSATION:VISION                                         3
+    light bright bright
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away over east
+EMOTIONS:GLORY                                                   3
+    victored riches noble
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    security
+SECONDARY:MORAL IMPERATIVE                                       1
+    righteous
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 11.940299 %
+SECONDARY           : 35.820896 %
+EMOTIONS            : 52.238806 %
+
+265 words total

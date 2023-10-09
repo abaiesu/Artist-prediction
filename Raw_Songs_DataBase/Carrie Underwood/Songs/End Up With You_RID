@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    where where back back out middle backyard side back back out middle backyard back back out middle backyard
+SECONDARY:ABSTRACTION                                            9
+    plans cause cause cause cause cause cause cause cause
+PRIMARY:SENSATION:VISION                                         4
+    scenario light scenario scenario
+EMOTIONS:AGGRESSION                                              3
+    broke broke broke
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+EMOTIONS:AFFECTION                                               3
+    lovin lovin lovin
+SECONDARY:RESTRAINT                                              3
+    locked locked locked
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    laying laying laying
+EMOTIONS:ANXIETY                                                 3
+    worry worry worry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:NEED:ORALITY                                             1
+    fast
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+
+PRIMARY             : 56.603774 %
+SECONDARY           : 26.415094 %
+EMOTIONS            : 16.981132 %
+
+446 words total

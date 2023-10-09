@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    today then then yearn then everybody when when then everybody when then everybody when when
+SECONDARY:ABSTRACTION                                           13
+    think thought know different know learn different know learn different know learn know
+PRIMARY:SENSATION:VISION                                        10
+    see see view see see view see see view see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out here somewhere here somewhere where
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tell tell tell tell tell
+EMOTIONS:AFFECTION                                               6
+    like appreciate like appreciate like appreciate
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    worked find find
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+SECONDARY:ORDER                                                  3
+    simple simple simple
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    path
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+
+PRIMARY             : 31.884058 %
+SECONDARY           : 57.971014 %
+EMOTIONS            : 10.144928 %
+
+291 words total

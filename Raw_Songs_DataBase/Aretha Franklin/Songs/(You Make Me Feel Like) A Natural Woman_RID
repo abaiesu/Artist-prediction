@@ -1,0 +1,30 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 18
+    used make make make found claim make make make make make make make make make make make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out along longer inside close
+SECONDARY:ABSTRACTION                                            4
+    knew cause know cause
+EMOTIONS:AFFECTION                                               4
+    like like like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met helped
+EMOTIONS:AGGRESSION                                              2
+    unkind doubtful
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 20.930233 %
+SECONDARY           : 62.790698 %
+EMOTIONS            : 16.279070 %
+
+200 words total

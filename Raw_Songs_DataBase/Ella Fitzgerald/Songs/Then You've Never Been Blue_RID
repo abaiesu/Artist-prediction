@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then then when then when ever while then
+PRIMARY:SENSATION:VISION                                         6
+    blue blue blue blue blue blue
+SECONDARY:ABSTRACTION                                            5
+    know known something knows known
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at away at
+EMOTIONS:ANXIETY                                                 3
+    trouble trouble worry
+EMOTIONS:AGGRESSION                                              3
+    hurt bothering stole
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughing funny
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    count
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 35.897436 %
+EMOTIONS            : 25.641026 %
+
+154 words total

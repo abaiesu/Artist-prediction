@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:SOUND                                         11
+    music music music sounds hear ear music sounds hear ear music
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    10
+    sings dance dance dance dance dance dance dance dance dance
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    message message message message message
+SECONDARY:ABSTRACTION                                            5
+    may may may may may
+EMOTIONS:ANXIETY                                                 4
+    fear troubled fear troubled
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun rejoice happiness
+EMOTIONS:AFFECTION                                               3
+    love dear dear
+SECONDARY:TEMPORAL REFERENCES                                    3
+    seasons times times
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out here
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chances
+SECONDARY:ORDER                                                  1
+    universal
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    trance
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 34.545455 %
+SECONDARY           : 29.090909 %
+EMOTIONS            : 36.363636 %
+
+206 words total

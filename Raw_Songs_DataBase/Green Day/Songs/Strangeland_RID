@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at where place place open open open
+SECONDARY:ABSTRACTION                                            7
+    evidence why sure know different why why
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now everywhere now everyone now then
+EMOTIONS:GLORY                                                   4
+    wonder wonder wonder wonder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cries shout cries cries
+PRIMARY:SENSATION:VISION                                         3
+    looking image look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found cured find
+EMOTIONS:POSITIVE AFFECT                                         3
+    joys joys joys
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes head head
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky above
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    allowed say
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floating
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+SECONDARY:MORAL IMPERATIVE                                       1
+    rights
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 36.538462 %
+EMOTIONS            : 25.000000 %
+
+172 words total

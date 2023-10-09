@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            7
+    why thought why known know why think
+EMOTIONS:AFFECTION                                               7
+    like loved love love love love love
+PRIMARY:SENSATION:VISION                                         3
+    sunshine sunshine sunshine
+PRIMARY:NEED:ORALITY                                             3
+    apple apple apple
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye eye eye
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever forever forever
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:TEMPORAL REFERENCES                                    1
+    years
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    rescue
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 21.052632 %
+
+165 words total

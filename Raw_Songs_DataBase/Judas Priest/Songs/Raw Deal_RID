@@ -1,0 +1,54 @@
+SECONDARY:ABSTRACTION                                            8
+    tender knew guess true knoweth knoweth knoweth knoweth
+PRIMARY:SENSATION:VISION                                         6
+    rough scene saw saw pictures colors
+SECONDARY:MORAL IMPERATIVE                                       6
+    rights right laws laws laws laws
+EMOTIONS:AFFECTION                                               5
+    like love love love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes face bodies body
+SECONDARY:TEMPORAL REFERENCES                                    3
+    clock then hours
+EMOTIONS:AGGRESSION                                              3
+    hit snarled stealing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at off
+EMOTIONS:POSITIVE AFFECT                                         2
+    grinnin smile
+PRIMARY:SENSATION:SOUND                                          2
+    snapped symphony
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    floating flying
+PRIMARY:NEED:ANALITY                                             2
+    shattered rotten
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream nightmare
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:SENSATION:HARD                                           1
+    steel
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    collecting
+PRIMARY:SENSATION:TOUCH                                          1
+    contact
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    immortal
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    steaming
+PRIMARY:NEED:ORALITY                                             1
+    raw
+
+PRIMARY             : 48.275862 %
+SECONDARY           : 32.758621 %
+EMOTIONS            : 18.965517 %
+
+193 words total

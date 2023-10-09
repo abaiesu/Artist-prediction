@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:VISION                                         4
+    lightning flashing lightning lightning
+EMOTIONS:AGGRESSION                                              4
+    break revenge guns whips
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky sky spire
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over space
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    floating floating
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die safe
+EMOTIONS:GLORY                                                   2
+    golden golden
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+EMOTIONS:SADNESS                                                 1
+    weeping
+EMOTIONS:ANXIETY                                                 1
+    fears
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    quake
+PRIMARY:NEED:ORALITY                                             1
+    fruitless
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    reminded
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trails
+
+PRIMARY             : 67.741935 %
+SECONDARY           : 6.451613 %
+EMOTIONS            : 25.806452 %
+
+100 words total

@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           15
+    different cause know why learn why guess know why know know different cause know why
+PRIMARY:SENSATION:VISION                                         5
+    shines light look shines light
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say tell offer say
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should right right
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everybody when when everybody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    place at where round
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:SADNESS                                                 2
+    pain pain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    physically
+EMOTIONS:GLORY                                                   1
+    applaud
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+EMOTIONS:AGGRESSION                                              1
+    fight
+
+PRIMARY             : 26.530612 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 16.326531 %
+
+214 words total

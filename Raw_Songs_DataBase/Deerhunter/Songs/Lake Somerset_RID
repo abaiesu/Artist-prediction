@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    behind south east here
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    soaked lake lake
+EMOTIONS:POSITIVE AFFECT                                         3
+    satisfaction satisfaction satisfaction
+PRIMARY:SENSATION:HARD                                           2
+    rocks rocks
+PRIMARY:NEED:ANALITY                                             2
+    urinate sweat
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway grew
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pays
+EMOTIONS:AGGRESSION                                              1
+    kill
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    information
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    flesh
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    psychic
+SECONDARY:RESTRAINT                                              1
+    limit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 65.384615 %
+SECONDARY           : 19.230769 %
+EMOTIONS            : 15.384615 %
+
+79 words total

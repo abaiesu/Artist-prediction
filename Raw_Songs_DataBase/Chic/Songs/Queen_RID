@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now when when then when when when now when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    carry carry carry carry carry carry
+SECONDARY:ABSTRACTION                                            5
+    think believe believed believe know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    called called tells called
+SECONDARY:RESTRAINT                                              4
+    must must must must
+EMOTIONS:POSITIVE AFFECT                                         3
+    joy happiness happy
+EMOTIONS:AFFECTION                                               3
+    like love love
+EMOTIONS:AGGRESSION                                              2
+    broken rebelled
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    stimulating
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 17.777778 %
+SECONDARY           : 64.444444 %
+EMOTIONS            : 17.777778 %
+
+230 words total

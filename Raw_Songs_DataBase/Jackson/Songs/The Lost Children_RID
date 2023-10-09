@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:COLD                                          12
+    children children children children children children children children children children children children
+SECONDARY:ABSTRACTION                                            9
+    them them them them think them think them them
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    place close wide open
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    counting biding find
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:NEED:SEX                                                 1
+    kissing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    addressing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    weeping
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:AFFECTION                                               1
+    loving
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:ORDER                                                  1
+    simply
+
+PRIMARY             : 53.488372 %
+SECONDARY           : 39.534884 %
+EMOTIONS            : 6.976744 %
+
+194 words total

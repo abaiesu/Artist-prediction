@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                             10
+    kill kill hate war war kill kill hate kill hate
+SECONDARY:ABSTRACTION                                            9
+    may prove something may cause learn learn why why
+EMOTIONS:GLORY                                                   6
+    conquered conquered boast conquered conquered boast
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out over out
+SECONDARY:ORDER                                                  3
+    divides listen divides
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying win win
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    confusion confusion
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    spoke
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everyoneos
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 11.904762 %
+SECONDARY           : 47.619048 %
+EMOTIONS            : 40.476190 %
+
+294 words total

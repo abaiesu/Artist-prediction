@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:COLD                                          19
+    snowballed snowballed snowballed snowballed snow snowballed snowballed snowballed snowballed snowballed snowballed snowballed snowballed snowballed snowballed snowballed snow snow snow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out out out out out away away out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    market money make pay making money make pay
+PRIMARY:SENSATION:VISION                                         4
+    picture see watch see
+PRIMARY:NEED:ORALITY                                             4
+    drink teeth bite drink
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor door wall
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    washed shore
+EMOTIONS:AGGRESSION                                              2
+    axe fight
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again again
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eye
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    share
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    heat
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 73.770492 %
+SECONDARY           : 21.311475 %
+EMOTIONS            : 4.918033 %
+
+180 words total

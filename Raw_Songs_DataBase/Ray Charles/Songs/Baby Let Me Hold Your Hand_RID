@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            4
+    understand believe sure know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything everything then then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make buy buy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    side side
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 13.636364 %
+
+98 words total

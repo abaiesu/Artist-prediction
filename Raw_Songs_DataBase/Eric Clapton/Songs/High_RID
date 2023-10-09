@@ -1,0 +1,34 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    high top high top
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where at where at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    builds trying builds trying
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    rest die rest die
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once till now
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountain mountain
+EMOTIONS:GLORY                                                   2
+    eagle eagle
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wandering wandering
+EMOTIONS:AFFECTION                                               2
+    friend goodbye
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 15.625000 %
+
+99 words total

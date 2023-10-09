@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    outside open
+SECONDARY:RESTRAINT                                              2
+    locked must
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    conversation
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ABSTRACTION                                            1
+    knowing
+
+PRIMARY             : 54.545455 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 9.090909 %
+
+95 words total

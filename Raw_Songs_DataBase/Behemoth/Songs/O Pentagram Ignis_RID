@@ -1,0 +1,52 @@
+EMOTIONS:AGGRESSION                                              5
+    enemy wrath warring knife warring
+EMOTIONS:AFFECTION                                               4
+    loving beloved bosom married
+PRIMARY:NEED:SEX                                                 4
+    raped harlot lechery lustful
+PRIMARY:SENSATION:SOUND                                          3
+    heartbeat belly hear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    flesh blood eye
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river sea
+PRIMARY:SENSATION:VISION                                         2
+    see light
+PRIMARY:SENSATION:TASTE                                          2
+    taste taste
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows shadows
+EMOTIONS:GLORY                                                   2
+    victory conquered
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when once
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire flames
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pulse
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dying
+PRIMARY:NEED:ORALITY                                             1
+    fruit
+SECONDARY:RESTRAINT                                              1
+    forbidden
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    chanting
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+EMOTIONS:ANXIETY                                                 1
+    fearless
+
+PRIMARY             : 57.777778 %
+SECONDARY           : 13.333333 %
+EMOTIONS            : 28.888889 %
+
+213 words total

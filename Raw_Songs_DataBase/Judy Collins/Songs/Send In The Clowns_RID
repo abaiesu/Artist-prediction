@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here at where where opening where here where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    clowns clowns clowns clowns clowns clowns clowns
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when again timing year
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    doors entrance lines
+SECONDARY:ABSTRACTION                                            3
+    knowing sure thought
+EMOTIONS:GLORY                                                   2
+    rich rich
+EMOTIONS:AFFECTION                                               2
+    love dear
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    approve
+SECONDARY:RESTRAINT                                              1
+    stopped
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:SADNESS                                                 1
+    sorry
+EMOTIONS:AGGRESSION                                              1
+    bother
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+
+PRIMARY             : 30.555556 %
+SECONDARY           : 30.555556 %
+EMOTIONS            : 38.888889 %
+
+147 words total

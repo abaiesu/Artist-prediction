@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              23
+    love love love love love love love love love love love love love love love love love love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    longer open far far behind open far behind far behind
+SECONDARY:ABSTRACTION                                            9
+    know know know know know know know real know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    try try try try find try find
+SECONDARY:TEMPORAL REFERENCES                                    4
+    sooner sooner sooner sooner
+EMOTIONS:ANXIETY                                                 4
+    afraid afraid afraid afraid
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    offer shelter shelter
+PRIMARY:SENSATION:SOUND                                          2
+    heart tune
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:SENSATION:VISION                                         2
+    looking looking
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:AGGRESSION                                              1
+    shoot
+
+PRIMARY             : 24.637681 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 40.579710 %
+
+317 words total

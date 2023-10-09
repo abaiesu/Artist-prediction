@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               6
+    loving like lover loved like kind
+EMOTIONS:AGGRESSION                                              4
+    broke fight broke broke
+PRIMARY:SENSATION:SOUND                                          4
+    heart music heart heart
+PRIMARY:SENSATION:VISION                                         3
+    light look seen
+SECONDARY:ABSTRACTION                                            2
+    learned know
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    over
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:NEED:SEX                                                 1
+    kissed
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 14.814815 %
+EMOTIONS            : 40.740741 %
+
+118 words total

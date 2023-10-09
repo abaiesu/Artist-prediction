@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    apart at off over back off long over over
+PRIMARY:SENSATION:SOUND                                          9
+    heartbreak heartbreak heartbreak heartbreak heartbreak heartbreak heartbreak heartbreak heartbreak
+EMOTIONS:AGGRESSION                                              8
+    cut crush shot crush shot crush shot shot
+PRIMARY:SENSATION:SOFT                                           8
+    velvet velvet velvet velvet velvet velvet velvet velvet
+EMOTIONS:AFFECTION                                               8
+    like love like like love like love love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when every then till
+PRIMARY:SENSATION:COLD                                           4
+    cool ice ice ice
+PRIMARY:SENSATION:TOUCH                                          4
+    smooth smooth smooth smooth
+SECONDARY:ABSTRACTION                                            3
+    true know true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try afford won
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    mistake mistake mistake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    drippin drippin drippin
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calls sayin
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slip slip
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:VISION                                         1
+    looks
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 15.789474 %
+EMOTIONS            : 21.052632 %
+
+320 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where here here where
+EMOTIONS:GLORY                                                   3
+    wondering golden wondering
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    railroad wally railroad
+PRIMARY:SENSATION:ODOR                                           2
+    nose nose
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pickin make
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulders
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:ABSTRACTION                                            1
+    something
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumbleweeds
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    help
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 15.384615 %
+
+157 words total

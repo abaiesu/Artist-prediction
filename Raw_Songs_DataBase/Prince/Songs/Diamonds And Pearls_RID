@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              12
+    love love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now time time when everything time time everything
+PRIMARY:NEED:ORALITY                                             8
+    pearls pearls pearls pearls pearls pearls pearls pearls
+SECONDARY:ABSTRACTION                                            7
+    meant why decide decide understand plan plan
+EMOTIONS:POSITIVE AFFECT                                         6
+    happy happy happy happy happy happy
+PRIMARY:SENSATION:VISION                                         6
+    look look shine bright colorblind color
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say tell offer offer offer
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away here inside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find makes
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    fight
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 30.645161 %
+SECONDARY           : 38.709677 %
+EMOTIONS            : 30.645161 %
+
+372 words total

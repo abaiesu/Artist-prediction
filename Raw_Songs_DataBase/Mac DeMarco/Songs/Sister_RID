@@ -1,0 +1,16 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out away out
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every suddenly time
+PRIMARY:SENSATION:SOUND                                          2
+    hearing heart
+EMOTIONS:SADNESS                                                 1
+    sad
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 10.000000 %
+
+36 words total

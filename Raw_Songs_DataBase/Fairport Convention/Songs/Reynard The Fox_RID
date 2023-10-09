@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    near over out here
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high high hill
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every hours hours
+PRIMARY:SENSATION:SOUND                                          3
+    hearing ears hears
+PRIMARY:SENSATION:SOFT                                           2
+    gentlemen feathered
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell promise
+PRIMARY:SENSATION:HARD                                           2
+    stony rocks
+SECONDARY:ABSTRACTION                                            2
+    thinking them
+EMOTIONS:GLORY                                                   1
+    renown
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:POSITIVE AFFECT                                         1
+    delight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:VISION                                         1
+    green
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    yonder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spent
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:AFFECTION                                               1
+    likewise
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 8.823529 %
+
+183 words total

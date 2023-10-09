@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    past past everything now everything everything now everything
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    line doors walls doors walls doors walls
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call say message messages message
+PRIMARY:SENSATION:VISION                                         4
+    glows looked light looked
+SECONDARY:RESTRAINT                                              4
+    lock lock stop lock
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    within space within space
+SECONDARY:ABSTRACTION                                            3
+    history opinion them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make find
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spin spin
+PRIMARY:SENSATION:HARD                                           2
+    solid solid
+PRIMARY:NEED:ORALITY                                             2
+    mouth fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds dims
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pouring
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+
+PRIMARY             : 53.061224 %
+SECONDARY           : 44.897959 %
+EMOTIONS            : 2.040816 %
+
+189 words total

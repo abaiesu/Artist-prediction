@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             15
+    killing killing killing killing killing killing killing killing killing killing killing killing killing killing killing
+PRIMARY:SENSATION:SOFT                                          15
+    softly softly softly softly softly softly softly softly softly softly softly softly softly softly softly
+EMOTIONS:SADNESS                                                 5
+    pain pain pain despair pain
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    telling telling telling telling telling
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard loud
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sang sang
+PRIMARY:SENSATION:VISION                                         2
+    see looked
+SECONDARY:TEMPORAL REFERENCES                                    2
+    while then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found finish
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:ABSTRACTION                                            1
+    knew
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 21.666667 %
+EMOTIONS            : 36.666667 %
+
+291 words total

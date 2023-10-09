@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    side away out where at back back out where at back back far where at back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 15
+    succeed pick try pick try succeed pick try pick try succeed pick try pick try
+SECONDARY:TEMPORAL REFERENCES                                   12
+    ever again again season every minute when again again already again again
+SECONDARY:ABSTRACTION                                            5
+    almost knows reasons why knows
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    helped said helped said said
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    head knees head knees knees
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fall fall fall
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:SENSATION:TASTE                                          1
+    sour
+PRIMARY:NEED:ORALITY                                             1
+    lemonade
+
+PRIMARY             : 38.356164 %
+SECONDARY           : 56.164384 %
+EMOTIONS            : 5.479452 %
+
+295 words total

@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where where where back where where where over where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    found found found won found found found found
+EMOTIONS:AGGRESSION                                              8
+    gunning accused gunning gunning war gunning gunning war
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    line line bridge bridge bridge bridge
+SECONDARY:ABSTRACTION                                            4
+    knows why know cause
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now soon now soon
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    forgive tell tell
+PRIMARY:NEED:ORALITY                                             2
+    quench thirst
+PRIMARY:SENSATION:VISION                                         2
+    seen light
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+EMOTIONS:SADNESS                                                 1
+    suffer
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ridge
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:GLORY                                                   1
+    great
+
+PRIMARY             : 42.307692 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 19.230769 %
+
+445 words total

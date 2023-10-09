@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    at nearly round round round round round round out round round round round round round round round circle round round round round round round
+SECONDARY:TEMPORAL REFERENCES                                   12
+    then now time time then now time time moment now time time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    confidence said call lend
+PRIMARY:SENSATION:SOUND                                          2
+    heart heartbreaker
+EMOTIONS:AGGRESSION                                              2
+    broken doubt
+SECONDARY:RESTRAINT                                              2
+    shuttered stopped
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    windows door
+PRIMARY:SENSATION:VISION                                         2
+    look looked
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 3.846154 %
+
+237 words total

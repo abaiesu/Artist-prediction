@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    met met asked asked call call tell tell treat treat call
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when then ever now old everything now everything ever
+EMOTIONS:AFFECTION                                              10
+    loved loved loved loved love like love love loving loving
+PRIMARY:SENSATION:TASTE                                          7
+    sweet sweet sweetest sweet sweet sweetest sweetest
+SECONDARY:ABSTRACTION                                            7
+    know know know know know know know
+EMOTIONS:GLORY                                                   5
+    wonder wonder wonder wonder wonder
+PRIMARY:SENSATION:VISION                                         2
+    seen seen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away away
+EMOTIONS:ANXIETY                                                 2
+    trouble trouble
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 20.689655 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 29.310345 %
+
+336 words total

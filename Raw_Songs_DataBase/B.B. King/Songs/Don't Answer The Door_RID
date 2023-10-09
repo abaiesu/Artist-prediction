@@ -1,0 +1,22 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    visit talk visit tell meet visit tell visit tell please please please
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when when when when when when till when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    open at at open away at open at at open
+SECONDARY:ABSTRACTION                                            7
+    know cause know cause know know cause
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    hangin hangin hangin hangin hangin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door door door door
+EMOTIONS:SADNESS                                                 3
+    suffer suffer suffer
+EMOTIONS:AGGRESSION                                              1
+    break
+
+PRIMARY             : 36.538462 %
+SECONDARY           : 55.769231 %
+EMOTIONS            : 7.692308 %
+
+288 words total

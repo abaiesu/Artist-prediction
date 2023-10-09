@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            3
+    why know think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees hands
+EMOTIONS:AGGRESSION                                              1
+    gun
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:NEED:ORALITY                                             1
+    feed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 7.142857 %
+
+89 words total

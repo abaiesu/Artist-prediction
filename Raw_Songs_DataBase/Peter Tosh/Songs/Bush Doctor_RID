@@ -1,0 +1,40 @@
+SECONDARY:MORAL IMPERATIVE                                       7
+    legalize right legalize legalize legalize legal legalize
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here here here here here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    cure cure build cure cure
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    smoking smokin smoke
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then when when
+EMOTIONS:ANXIETY                                                 2
+    dangerous dangerous
+SECONDARY:ABSTRACTION                                            2
+    them know
+SECONDARY:RESTRAINT                                              2
+    police police
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    fence
+PRIMARY:NEED:ORALITY                                             1
+    herb
+EMOTIONS:AGGRESSION                                              1
+    brutality
+EMOTIONS:SADNESS                                                 1
+    humiliation
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 52.631579 %
+EMOTIONS            : 10.526316 %
+
+181 words total

@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    inside long along eastern across towards long wide wherever behind out long long
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    help followed help followed followed followed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    tried tried try try
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    ocean tide sea
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor coastal step
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bones eyes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn warms
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throw wing
+EMOTIONS:GLORY                                                   2
+    golden great
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+SECONDARY:ABSTRACTION                                            2
+    know sure
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:SENSATION:HARD                                           1
+    nail
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 27.083333 %
+EMOTIONS            : 4.166667 %
+
+198 words total

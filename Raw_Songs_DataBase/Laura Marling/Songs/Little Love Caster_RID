@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              11
+    love love kindness lovespell like love love love like like like
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    told say say say say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then then yesterday yesterday
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dance dancer dance dancer
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    palm hand
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+PRIMARY:SENSATION:VISION                                         2
+    saw saw
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    swayed swayed
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    tossed tossed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+
+PRIMARY             : 29.729730 %
+SECONDARY           : 29.729730 %
+EMOTIONS            : 40.540541 %
+
+214 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               6
+    like love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every everywhere then then
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cried cried cried
+PRIMARY:SENSATION:VISION                                         2
+    star shining
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    overhead here
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    counting
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+SECONDARY:RESTRAINT                                              1
+    captured
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+PRIMARY:NEED:SEX                                                 1
+    kissed
+
+PRIMARY             : 42.307692 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 34.615385 %
+
+89 words total

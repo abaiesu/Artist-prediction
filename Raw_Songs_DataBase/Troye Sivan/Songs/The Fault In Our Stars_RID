@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                        15
+    see stars see stars lights light lights see stars see stars see stars see stars
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say tell telling say tell say tell
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever time minute minute minute
+SECONDARY:ABSTRACTION                                            4
+    weighs why why why
+SECONDARY:RESTRAINT                                              4
+    determined control control control
+EMOTIONS:AFFECTION                                               3
+    goodbye goodbye goodbye
+EMOTIONS:SADNESS                                                 2
+    pain sadness
+SECONDARY:ORDER                                                  1
+    simple
+EMOTIONS:AGGRESSION                                              1
+    war
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 14.285714 %
+
+249 words total

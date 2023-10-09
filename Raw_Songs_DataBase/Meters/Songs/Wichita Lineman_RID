@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    road line line line line line
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searching sun
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:COLD                                           1
+    snows
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    south
+
+PRIMARY             : 80.952381 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 4.761905 %
+
+126 words total

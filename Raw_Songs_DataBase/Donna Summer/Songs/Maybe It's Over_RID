@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    close over over inside over over inside over over out inside over over inside over over over over
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    taught tell taught calling taught taught please
+EMOTIONS:AFFECTION                                               6
+    love love love love like like
+SECONDARY:ABSTRACTION                                            6
+    real know know know know know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+EMOTIONS:AGGRESSION                                              3
+    hurts hurts hate
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    bird bird
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fantasy
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 50.877193 %
+SECONDARY           : 29.824561 %
+EMOTIONS            : 19.298246 %
+
+265 words total

@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where out
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 0.000000 %
+
+54 words total

@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun sun sun sun
+PRIMARY:SENSATION:VISION                                         4
+    colour colour colour colour
+SECONDARY:ABSTRACTION                                            4
+    planes may may planes
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    flood flood swim
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly fly dawn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    hire hire
+PRIMARY:SENSATION:SOUND                                          2
+    heartache heartache
+SECONDARY:TEMPORAL REFERENCES                                    2
+    whilst whilst
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    east east
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow yellow
+EMOTIONS:ANXIETY                                                 1
+    anxious
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+
+PRIMARY             : 63.333333 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 10.000000 %
+
+155 words total

@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                         9
+    looking see see see see blue looking shine see
+EMOTIONS:AFFECTION                                               7
+    love love romance love love like love
+EMOTIONS:AGGRESSION                                              6
+    hate hate wreck hurt hurt jealousy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    belong finding make make make make
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    traveling traveling traveling traveling traveling
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when again again when then
+SECONDARY:ABSTRACTION                                            3
+    something cause think
+EMOTIONS:POSITIVE AFFECT                                         3
+    laugh joy fun
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along out out
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+EMOTIONS:GLORY                                                   2
+    applause applause
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dive
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:NEED:ANALITY                                             1
+    sweater
+
+PRIMARY             : 40.983607 %
+SECONDARY           : 24.590164 %
+EMOTIONS            : 34.426230 %
+
+296 words total

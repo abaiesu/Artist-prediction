@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time everywhere when old old years
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where side
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    enchants sleep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    finds spend
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:SENSATION:HARD                                           1
+    nails
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+PRIMARY:SENSATION:ODOR                                           1
+    perfume
+EMOTIONS:AGGRESSION                                              1
+    cut
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+EMOTIONS:SADNESS                                                 1
+    lonesome
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    routine
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 20.833333 %
+
+144 words total

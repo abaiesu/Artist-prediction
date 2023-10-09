@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    here here away far away space out space outside long space far at space inside space space space
+EMOTIONS:AFFECTION                                               8
+    favorite friends love kind love love love like
+SECONDARY:ABSTRACTION                                            7
+    idea them thinking think plans reality them
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when times when now now time
+EMOTIONS:POSITIVE AFFECT                                         2
+    excited smiling
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreamed dream
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hang dawning
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    price make
+PRIMARY:SENSATION:VISION                                         2
+    star see
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand head
+PRIMARY:NEED:ORALITY                                             1
+    drunk
+PRIMARY:SENSATION:COLD                                           1
+    frozen
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    deathplace
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highways
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    route
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+
+PRIMARY             : 53.968254 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 17.460317 %
+
+280 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    at close long long at close long long place apart at close long long
+SECONDARY:TEMPORAL REFERENCES                                   12
+    ever when when when once till now when when when when when
+PRIMARY:SENSATION:TASTE                                          8
+    sweetest sweetest sweetheart sweet sweet sweeter sweetheart sweet
+PRIMARY:SENSATION:VISION                                         7
+    lights gleaming lights gleaming brighter lights gleaming
+SECONDARY:ABSTRACTION                                            7
+    know except know may may know know
+EMOTIONS:AFFECTION                                               5
+    lovers dear love friends dear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    candle candle candle
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreaming dreaming dreaming
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    belong used
+PRIMARY:SENSATION:SOUND                                          2
+    heard heart
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said told
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever eternity
+EMOTIONS:AGGRESSION                                              2
+    broken break
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+
+PRIMARY             : 56.944444 %
+SECONDARY           : 31.944444 %
+EMOTIONS            : 11.111111 %
+
+225 words total

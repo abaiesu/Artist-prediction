@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                           14
+    real why why why why learning truth believe know true know reason suppose truth
+EMOTIONS:AFFECTION                                              10
+    love lovers favorite favorite like like love love love love
+EMOTIONS:AGGRESSION                                              7
+    steal hurt hurt hurt hurt hurt hurt
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time now then years now then
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dances cry cry cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make prepared make
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    asked told talking told
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    step step step step
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside far
+PRIMARY:SENSATION:VISION                                         2
+    color see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:SADNESS                                                 1
+    sorrows
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+
+PRIMARY             : 21.875000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 34.375000 %
+
+250 words total

@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           23
+    real think know know know know know think think know know know know real think know know know know know think know think
+EMOTIONS:POSITIVE AFFECT                                         9
+    excited excited excited excited excited excited excited excited excited
+EMOTIONS:AFFECTION                                               8
+    affection love like like love like like like
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight tonight time time time
+SECONDARY:RESTRAINT                                              4
+    control control control control
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    aside long long
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    pleasures please please
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow slow
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning burning
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:MORAL IMPERATIVE                                       1
+    shouldn
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:ANXIETY                                                 1
+    worry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+
+PRIMARY             : 15.151515 %
+SECONDARY           : 56.060606 %
+EMOTIONS            : 28.787879 %
+
+359 words total

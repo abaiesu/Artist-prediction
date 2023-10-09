@@ -1,0 +1,44 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    achieve bought money counting cost won
+PRIMARY:SENSATION:SOUND                                          4
+    hear drum heart heart
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now years when
+PRIMARY:SENSATION:ODOR                                           3
+    breathing breathing breathing
+PRIMARY:SENSATION:HARD                                           3
+    rock rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roll roll roll
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sights played
+SECONDARY:ABSTRACTION                                            2
+    thought purpose
+EMOTIONS:AGGRESSION                                              2
+    kill fight
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bloody
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    madly
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hurly
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystic
+
+PRIMARY             : 51.282051 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 17.948718 %
+
+259 words total

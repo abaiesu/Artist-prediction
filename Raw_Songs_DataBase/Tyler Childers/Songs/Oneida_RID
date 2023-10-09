@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    back back back here at back where at outside back where
+SECONDARY:ABSTRACTION                                            7
+    something know know learning know know learning
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    dance played guitar sing guitar sing
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    spoke pleading message tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    buy working buy working
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when time time
+PRIMARY:SENSATION:SOUND                                          3
+    heart rings rings
+EMOTIONS:POSITIVE AFFECT                                         3
+    fun laugh jokes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lay dying dying
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line door line
+EMOTIONS:AFFECTION                                               2
+    friends love
+EMOTIONS:ANXIETY                                                 1
+    dreads
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 43.396226 %
+SECONDARY           : 33.962264 %
+EMOTIONS            : 22.641509 %
+
+249 words total

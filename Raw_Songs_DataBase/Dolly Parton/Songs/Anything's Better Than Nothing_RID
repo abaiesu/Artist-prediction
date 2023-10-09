@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               6
+    friends like like love friends love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    ask say agree admit
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now everyone when once
+EMOTIONS:AGGRESSION                                              3
+    hurts fight blame
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along apart
+EMOTIONS:SADNESS                                                 2
+    sad disappointment
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+SECONDARY:ABSTRACTION                                            1
+    thought
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 42.857143 %
+
+175 words total

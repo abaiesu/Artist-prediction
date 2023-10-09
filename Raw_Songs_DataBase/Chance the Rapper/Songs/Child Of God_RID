@@ -1,0 +1,64 @@
+PRIMARY:SENSATION:COLD                                          16
+    child child child child child child child child child child child child child child child child
+SECONDARY:TEMPORAL REFERENCES                                   15
+    now when when when time time every when when when time time when time time
+SECONDARY:ABSTRACTION                                            9
+    truth example them thought plans guess learning meant guess
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    carried make try make sell make lessons attempt make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at place at open at at place at place
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    told please thankful talk told say sayin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       7
+    passage street line doors path line line
+EMOTIONS:AFFECTION                                               6
+    grateful like like like like friends
+EMOTIONS:AGGRESSION                                              5
+    break hit weapons hate hit
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    handles hands head eyes
+PRIMARY:SENSATION:SOUND                                          4
+    ear voice voice voice
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    drop sink drop
+PRIMARY:NEED:ANALITY                                             3
+    shit shit shit
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    candlewick lit candlestick
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    low low low
+EMOTIONS:GLORY                                                   2
+    rich prince
+PRIMARY:NEED:ORALITY                                             2
+    corner roasted
+PRIMARY:SENSATION:SOFT                                           2
+    delicatessen delicate
+PRIMARY:SENSATION:HARD                                           2
+    glass rock
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow heaven
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safely
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chastised
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    tossed
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolls
+
+PRIMARY             : 53.278689 %
+SECONDARY           : 35.245902 %
+EMOTIONS            : 11.475410 %
+
+563 words total

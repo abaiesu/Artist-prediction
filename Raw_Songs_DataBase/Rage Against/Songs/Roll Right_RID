@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:SOUND                                         14
+    drums echo echo echo echo echo echo drums echo echo echo echo echo echo
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    off back off here back here level level level level level level
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  8
+    roll roll roll roll roll roll roll roll
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now now time now when hour when hour
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call call call call call
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:NEED:ORALITY                                             3
+    lick mouthpieces mouthpieces
+EMOTIONS:AGGRESSION                                              3
+    shot breaks hits
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line doors doors
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands head hands
+SECONDARY:RESTRAINT                                              3
+    leashes caught leashes
+EMOTIONS:ANXIETY                                                 3
+    fear fear fear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    calm calm calm
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    spark fire
+PRIMARY:SENSATION:COLD                                           2
+    freeze freeze
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    vapors
+
+PRIMARY             : 64.197531 %
+SECONDARY           : 24.691358 %
+EMOTIONS            : 11.111111 %
+
+283 words total

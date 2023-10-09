@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    away at here place where away away away away out out away away away away out out inside at
+SECONDARY:TEMPORAL REFERENCES                                    8
+    sometimes when time when now times again time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make reach reach reach reach mend
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say said please please say said
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face face hand face skin
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        4
+    forever forever forever forever
+SECONDARY:ABSTRACTION                                            3
+    guess cause knew
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grows
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:NEED:ORALITY                                             1
+    throats
+
+PRIMARY             : 57.575758 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 6.060606 %
+
+224 words total

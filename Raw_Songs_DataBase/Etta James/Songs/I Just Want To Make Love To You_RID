@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              15
+    love love love love love love loving love love love loving love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell talk talk treat tell talk talk treat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    work make making make make make make
+SECONDARY:ABSTRACTION                                            6
+    true know sure know sure real
+PRIMARY:NEED:ORALITY                                             5
+    bread fed cook bread fed
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    wide wide
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+
+PRIMARY             : 24.000000 %
+SECONDARY           : 42.000000 %
+EMOTIONS            : 34.000000 %
+
+265 words total

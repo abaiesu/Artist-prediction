@@ -1,0 +1,56 @@
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    call talk tell tell say talk say talk tell tell say talk tell say talk say talk
+SECONDARY:ABSTRACTION                                           15
+    knows cause sure know knows certain may may sure know knows think know knows knows
+EMOTIONS:AFFECTION                                               6
+    patti like likes friend kindness kinder
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    outside outside out point out
+PRIMARY:NEED:ORALITY                                             4
+    chewin tongues tongues tongues
+PRIMARY:SENSATION:VISION                                         3
+    looks brown sees
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    dig dig dig
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    secrets secrets secrets
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            3
+    ruin ruin ruin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    barkin barkin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    finds make
+PRIMARY:SENSATION:ODOR                                           2
+    sniff smell
+PRIMARY:NEED:ANALITY                                             2
+    shit piss
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lays
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+EMOTIONS:GLORY                                                   1
+    eagle
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driveway
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trailer
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:POSITIVE AFFECT                                         1
+    gay
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smokes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everyone
+EMOTIONS:AGGRESSION                                              1
+    kickin
+
+PRIMARY             : 41.772152 %
+SECONDARY           : 44.303797 %
+EMOTIONS            : 13.924051 %
+
+339 words total

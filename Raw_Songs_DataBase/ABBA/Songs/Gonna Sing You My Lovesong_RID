@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              15
+    love love darling lovesong loving lovesong like lovesong lovesong lovesong loving lovesong darling love lovesong
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    11
+    sing sing sing sing sing sing sing sing sing sing sing
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then every ever then when every when ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    makes make make make make make make make
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say consolation please please
+SECONDARY:ABSTRACTION                                            5
+    think know cause know think
+PRIMARY:SENSATION:VISION                                         4
+    see blue light light
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy fun happy
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at where
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lingered
+
+PRIMARY             : 15.942029 %
+SECONDARY           : 42.028986 %
+EMOTIONS            : 42.028986 %
+
+262 words total

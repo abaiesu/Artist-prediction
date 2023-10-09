@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at at where where here
+PRIMARY:SENSATION:VISION                                         4
+    look look see see
+SECONDARY:ABSTRACTION                                            4
+    know thought think know
+PRIMARY:NEED:ORALITY                                             3
+    mouth mouth mouth
+SECONDARY:TEMPORAL REFERENCES                                    3
+    times already already
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 42.307692 %
+EMOTIONS            : 3.846154 %
+
+107 words total

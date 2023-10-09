@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old past when when when moment when
+EMOTIONS:AFFECTION                                               5
+    love love love like love
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:ABSTRACTION                                            2
+    know true
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warmth sun
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    restless
+PRIMARY:SENSATION:VISION                                         1
+    moonlight
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:SENSATION:COLD                                           1
+    cool
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 17.857143 %
+
+118 words total

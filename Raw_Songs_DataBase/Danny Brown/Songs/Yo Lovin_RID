@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back off back back middle straight back back
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when now now week years months season already
+EMOTIONS:AFFECTION                                               5
+    lovin like like like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used money make used make
+SECONDARY:ABSTRACTION                                            5
+    supposed reason know truth cause
+PRIMARY:NEED:ORALITY                                             3
+    fruit spit starvin
+EMOTIONS:AGGRESSION                                              3
+    beat hit guns
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:SENSATION:SOUND                                          2
+    heart swisher
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:NEED:ANALITY                                             1
+    shit
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 45.283019 %
+SECONDARY           : 37.735849 %
+EMOTIONS            : 16.981132 %
+
+247 words total

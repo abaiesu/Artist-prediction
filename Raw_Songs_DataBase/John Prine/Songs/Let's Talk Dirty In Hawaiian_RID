@@ -1,0 +1,56 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    say talk talk say talking talking said talk say
+PRIMARY:SENSATION:SOUND                                          6
+    heard ear hear hear boom hear
+PRIMARY:NEED:ORALITY                                             6
+    licka licka coconut drinking rum pineapple
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long long out back long
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old when while when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    waka waka waka waka
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    bought make boughta
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    tall tree airplane
+PRIMARY:NEED:ANALITY                                             3
+    dirty dirty dirty
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    guitars playing dance
+SECONDARY:ABSTRACTION                                            3
+    understand guess known
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    palm hands
+EMOTIONS:AFFECTION                                               2
+    like dear
+PRIMARY:SENSATION:HARD                                           2
+    steel rocka
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stepped
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+EMOTIONS:AGGRESSION                                              1
+    kicka
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunset
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    sway
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:VISION                                         1
+    moonlight
+
+PRIMARY             : 58.208955 %
+SECONDARY           : 32.835821 %
+EMOTIONS            : 8.955224 %
+
+218 words total

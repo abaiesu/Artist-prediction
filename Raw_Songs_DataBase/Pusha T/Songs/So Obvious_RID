@@ -1,0 +1,62 @@
+PRIMARY:SENSATION:VISION                                        12
+    see lightyear lookin glimpse view lookin saw see saw look beam see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 12
+    sellin sell sell sell money sell sell sell sell sell sell sell
+EMOTIONS:AGGRESSION                                              8
+    hits shots hit critics whiplash hate cut hit
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    dreams nightmares dream wake waka
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here ahead at at here
+PRIMARY:SENSATION:SOUND                                          5
+    bangladesh buzz music music bangladesh
+SECONDARY:TEMPORAL REFERENCES                                    4
+    year when everywhere when
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right should law
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    quote talk tell say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    game sing art
+SECONDARY:ABSTRACTION                                            3
+    know believe thought
+PRIMARY:SENSATION:ODOR                                           3
+    smell smell smell
+PRIMARY:NEED:ORALITY                                             3
+    corner cook raw
+SECONDARY:RESTRAINT                                              3
+    block block bar
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door rims stepper
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high top
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throwin rise
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    lean drop
+PRIMARY:NEED:SEX                                                 2
+    fuck bitch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye neck
+PRIMARY:SENSATION:TOUCH                                          2
+    thick touch
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:GLORY                                                   1
+    rich
+SECONDARY:ORDER                                                  1
+    measure
+
+PRIMARY             : 53.061224 %
+SECONDARY           : 31.632653 %
+EMOTIONS            : 15.306122 %
+
+569 words total

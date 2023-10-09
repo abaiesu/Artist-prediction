@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           16
+    understand thinking guess guessing understand thinking thinking thinking understand know surely understand thinking thinking thinking understand
+PRIMARY:SENSATION:VISION                                        10
+    scene watch watch see watch watch watch see watch see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    game games played cry cry games played cry cry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back back back back back back back back
+PRIMARY:SENSATION:SOUND                                          5
+    hear hear heart hear hear
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    sea sea raining sea sea
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    sunset sunset sunset sunset sunset
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    die die die die die
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    sun sun sun sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    roll roll roll roll
+SECONDARY:ORDER                                                  4
+    listen listen listen listen
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    birds birds birds birds
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make making
+PRIMARY:SENSATION:HARD                                           1
+    hardest
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:GLORY                                                   1
+    wondering
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+
+PRIMARY             : 58.426966 %
+SECONDARY           : 28.089888 %
+EMOTIONS            : 13.483146 %
+
+343 words total

@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    within square out inside front behind aside at far away
+SECONDARY:TEMPORAL REFERENCES                                    7
+    while now time often times now time
+SECONDARY:ABSTRACTION                                            4
+    knew think know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    spent find found found
+EMOTIONS:GLORY                                                   3
+    pride palace greatest
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    stranger secret
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    greet gift
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    walls halls
+PRIMARY:SENSATION:SOUND                                          2
+    music music
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    player player
+EMOTIONS:POSITIVE AFFECT                                         1
+    enjoy
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 45.833333 %
+SECONDARY           : 39.583333 %
+EMOTIONS            : 14.583333 %
+
+175 words total

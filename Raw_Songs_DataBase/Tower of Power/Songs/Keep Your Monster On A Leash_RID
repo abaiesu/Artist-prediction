@@ -1,0 +1,40 @@
+SECONDARY:RESTRAINT                                             17
+    leash leash leash leash leash leash control leash leash leash leash leash leash leash leash leash leash
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say talkin talkin saying preach borrow borrow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    bodies bodies hair feet hands
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long out ahead ahead
+EMOTIONS:AFFECTION                                               3
+    like like love
+SECONDARY:ORDER                                                  3
+    listen listen simple
+PRIMARY:NEED:ORALITY                                             2
+    drink drink
+SECONDARY:ABSTRACTION                                            2
+    know almost
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spend pay
+SECONDARY:TEMPORAL REFERENCES                                    1
+    till
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dive
+EMOTIONS:ANXIETY                                                 1
+    trouble
+EMOTIONS:AGGRESSION                                              1
+    hit
+
+PRIMARY             : 28.301887 %
+SECONDARY           : 60.377358 %
+EMOTIONS            : 11.320755 %
+
+334 words total

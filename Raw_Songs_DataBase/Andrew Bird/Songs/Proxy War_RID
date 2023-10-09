@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    over over over over at where close close over over over over at where over over close close over over over
+SECONDARY:ABSTRACTION                                            6
+    true real them them true real
+SECONDARY:TEMPORAL REFERENCES                                    4
+    evermore time now time
+EMOTIONS:AGGRESSION                                              4
+    cut knife cut knife
+PRIMARY:SENSATION:VISION                                         4
+    looks peer peer looks
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met calling met
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood blood
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    floods floods
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    atmosphere atmosphere
+
+PRIMARY             : 59.615385 %
+SECONDARY           : 28.846154 %
+EMOTIONS            : 11.538462 %
+
+247 words total

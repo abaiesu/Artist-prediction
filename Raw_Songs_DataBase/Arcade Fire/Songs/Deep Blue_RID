@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         7
+    star watched star see saw see blue
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time then when now while while
+SECONDARY:ABSTRACTION                                            5
+    almost something predict something something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here place here over
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    fading screen shadows
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    century century
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under deep
+PRIMARY:SENSATION:SOUND                                          2
+    heard hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dying dead
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild wild
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speaker
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playing
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+
+PRIMARY             : 68.292683 %
+SECONDARY           : 29.268293 %
+EMOTIONS            : 2.439024 %
+
+271 words total

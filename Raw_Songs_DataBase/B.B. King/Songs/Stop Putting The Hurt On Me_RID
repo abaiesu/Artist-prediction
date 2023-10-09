@@ -1,0 +1,26 @@
+EMOTIONS:AGGRESSION                                              5
+    stole robbed stole robbed hurting
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away away inside over over
+EMOTIONS:AFFECTION                                               5
+    friends friends friends love love
+SECONDARY:ABSTRACTION                                            4
+    know know understand think
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now everybody everybody then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used used won won
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk talk talk share
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heartache
+EMOTIONS:GLORY                                                   3
+    pride pride great
+PRIMARY:SENSATION:VISION                                         2
+    looked looked
+
+PRIMARY             : 25.641026 %
+SECONDARY           : 41.025641 %
+EMOTIONS            : 33.333333 %
+
+196 words total

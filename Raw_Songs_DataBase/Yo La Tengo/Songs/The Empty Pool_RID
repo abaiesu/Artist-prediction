@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here over out overy
+PRIMARY:NEED:ORALITY                                             4
+    drink beer coffee brewed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    playing game playing
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pool sea
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:VISION                                         1
+    watch
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+SECONDARY:TEMPORAL REFERENCES                                    1
+    season
+PRIMARY:SENSATION:SOUND                                          1
+    drums
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    calm
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    swept
+EMOTIONS:AFFECTION                                               1
+    lover
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystery
+SECONDARY:ABSTRACTION                                            1
+    plane
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+
+PRIMARY             : 64.000000 %
+SECONDARY           : 16.000000 %
+EMOTIONS            : 20.000000 %
+
+82 words total

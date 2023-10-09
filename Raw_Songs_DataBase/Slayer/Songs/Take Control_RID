@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    say called social call ask answer say answer say called introduce social called social
+EMOTIONS:AGGRESSION                                              8
+    weapon war despise conflict despise war fury despise
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away away here here away here
+SECONDARY:ABSTRACTION                                            6
+    something why problem reality cause known
+EMOTIONS:ANXIETY                                                 5
+    panic fear terror terror terror
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now when when
+SECONDARY:RESTRAINT                                              3
+    control control control
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won machine
+PRIMARY:NEED:SEX                                                 2
+    obscenity fuck
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+SECONDARY:ORDER                                                  1
+    system
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    diffusing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    decay
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    lights
+
+PRIMARY             : 24.137931 %
+SECONDARY           : 53.448276 %
+EMOTIONS            : 22.413793 %
+
+225 words total

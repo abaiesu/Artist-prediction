@@ -1,0 +1,24 @@
+EMOTIONS:POSITIVE AFFECT                                        10
+    relief relief relief relief relief relief relief relief relief relief
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    offer speak talk talk please offer speak
+PRIMARY:SENSATION:VISION                                         4
+    bright bright bright bright
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    toes face face
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    straight back straight
+PRIMARY:SENSATION:ODOR                                           1
+    nosed
+SECONDARY:RESTRAINT                                              1
+    interrupt
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 35.483871 %
+SECONDARY           : 32.258065 %
+EMOTIONS            : 32.258065 %
+
+124 words total

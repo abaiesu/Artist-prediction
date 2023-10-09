@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time now then then again yesterday today then
+SECONDARY:ABSTRACTION                                            6
+    judgement judgement know knew judgement judgement
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    foot foot face hand eye knees
+PRIMARY:SENSATION:VISION                                         6
+    see saw appear saw saw witnessed
+PRIMARY:SENSATION:SOUND                                          5
+    sounded voice heard heard heard
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    kneel kneel said thank
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far eastern away out
+EMOTIONS:AFFECTION                                               4
+    pitiful mercy mercy mercy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry cry cried
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burning smoke flames
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    tried tried
+EMOTIONS:GLORY                                                   2
+    great great
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:AGGRESSION                                              1
+    wound
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 33.870968 %
+EMOTIONS            : 17.741935 %
+
+254 words total

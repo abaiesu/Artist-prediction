@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    out west where out away out west where out west where out west out west
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    used money paid paid make available makeup won make available makeup
+SECONDARY:ABSTRACTION                                            5
+    cause know real know real
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hair chest face hair chest
+PRIMARY:SENSATION:VISION                                         4
+    brown look look shine
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    tall high roof
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    chase drive drive
+EMOTIONS:AFFECTION                                               3
+    friends appreciate appreciate
+SECONDARY:RESTRAINT                                              2
+    leash leash
+SECONDARY:TEMPORAL REFERENCES                                    1
+    date
+EMOTIONS:GLORY                                                   1
+    proud
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:AGGRESSION                                              1
+    cut
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 57.627119 %
+SECONDARY           : 33.898305 %
+EMOTIONS            : 8.474576 %
+
+279 words total

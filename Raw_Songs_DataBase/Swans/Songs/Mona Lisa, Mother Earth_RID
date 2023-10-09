@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    tonight tonight tonight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dreams dreams
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean water
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burning sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spend
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+EMOTIONS:AGGRESSION                                              1
+    beaten
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:NEED:ORALITY                                             1
+    breast
+PRIMARY:SENSATION:VISION                                         1
+    shines
+
+PRIMARY             : 77.272727 %
+SECONDARY           : 18.181818 %
+EMOTIONS            : 4.545455 %
+
+98 words total

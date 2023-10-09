@@ -1,0 +1,58 @@
+PRIMARY:SENSATION:VISION                                        20
+    light shining star see blue blue watch light light light light see light light light light light light light light
+EMOTIONS:AFFECTION                                              12
+    like love love love love kind love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                   12
+    tonight yearning ever time now minutes then clock clock when now when
+SECONDARY:ABSTRACTION                                           11
+    think why why true thought true believe thought thinking reason thoughts
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    make found found found found find found found found found found
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here longer over over away away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eye hands body palms hands
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain wet rain
+EMOTIONS:AGGRESSION                                              2
+    hate doubt
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warmth burning
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile thrill
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shaking quiver
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    promised said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sinks drop
+SECONDARY:RESTRAINT                                              2
+    stop block
+PRIMARY:SENSATION:ODOR                                           2
+    breathless breathless
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:ANXIETY                                                 1
+    fright
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slower
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:NEED:ANALITY                                             1
+    mess
+
+PRIMARY             : 47.222222 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 15.740741 %
+
+423 words total

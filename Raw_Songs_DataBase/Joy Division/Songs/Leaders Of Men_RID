@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out longer where situation out
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time when past
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door floor street wall
+EMOTIONS:AGGRESSION                                              4
+    wars broken hate crush
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    promise spoken promise
+PRIMARY:SENSATION:SOUND                                          3
+    noise loud sound
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    sown reach manipulation
+PRIMARY:NEED:SEX                                                 2
+    womb infatuation
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    drips
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    nightmare
+PRIMARY:SENSATION:VISION                                         1
+    imagination
+SECONDARY:MORAL IMPERATIVE                                       1
+    laws
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twist
+SECONDARY:ABSTRACTION                                            1
+    thoughts
+
+PRIMARY             : 57.500000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 12.500000 %
+
+182 words total

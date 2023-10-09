@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out back at at pointing at back side away
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when once when now now
+SECONDARY:ABSTRACTION                                            5
+    figure knows knows knows knows
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    floor door door floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed dead dead
+PRIMARY:SENSATION:COLD                                           2
+    winter snow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    picks carry
+EMOTIONS:AGGRESSION                                              2
+    fight kill
+SECONDARY:RESTRAINT                                              2
+    locks stops
+PRIMARY:SENSATION:TOUCH                                          2
+    scratching scratching
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:NEED:SEX                                                 1
+    undressed
+PRIMARY:NEED:ORALITY                                             1
+    throat
+
+PRIMARY             : 58.536585 %
+SECONDARY           : 36.585366 %
+EMOTIONS            : 4.878049 %
+
+198 words total

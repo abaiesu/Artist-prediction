@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old years while every years while
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell tell forgive follow
+EMOTIONS:AFFECTION                                               3
+    darlin like dear
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+EMOTIONS:POSITIVE AFFECT                                         2
+    delight happiness
+SECONDARY:ABSTRACTION                                            1
+    thought
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallin
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    cheeks
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 32.142857 %
+
+138 words total

@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    back place place away place place inside place place place place place places where
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            9
+    wake sleep sleep sleep asleep sleep sleep asleep sleep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    work won won won won work work won
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when when when
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    calling calling call calling
+EMOTIONS:AFFECTION                                               4
+    like darling darling darling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands feet feet
+PRIMARY:SENSATION:SOUND                                          2
+    ring heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:AGGRESSION                                              1
+    beat
+SECONDARY:ORDER                                                  1
+    constantly
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 55.357143 %
+SECONDARY           : 33.928571 %
+EMOTIONS            : 10.714286 %
+
+254 words total

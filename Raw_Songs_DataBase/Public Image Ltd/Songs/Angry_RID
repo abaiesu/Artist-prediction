@@ -1,0 +1,32 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    make make make make make make try make make use built
+EMOTIONS:AGGRESSION                                              8
+    angry angry angry angry angry angry angry angry
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:SENSATION:SOUND                                          2
+    deaf heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    apart out
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    follow excuse
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+EMOTIONS:ANXIETY                                                 1
+    coward
+PRIMARY:SENSATION:VISION                                         1
+    watch
+SECONDARY:RESTRAINT                                              1
+    conform
+SECONDARY:ORDER                                                  1
+    uniform
+SECONDARY:ABSTRACTION                                            1
+    why
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    impressed
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 45.714286 %
+EMOTIONS            : 34.285714 %
+
+156 words total

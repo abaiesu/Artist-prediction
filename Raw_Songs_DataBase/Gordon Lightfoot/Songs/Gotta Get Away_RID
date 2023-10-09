@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    places away here away here over over away here back long away here back away away away away away
+SECONDARY:ABSTRACTION                                           10
+    thought thought somethin believe real think almost thought somethin believe
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time years old again time today old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    workin money bidin make
+EMOTIONS:AFFECTION                                               4
+    loved love friend loved
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    chase ride
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes toes
+PRIMARY:SENSATION:SOUND                                          2
+    sound voice
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    awake doze
+PRIMARY:NEED:ORALITY                                             1
+    toothpaste
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    horn
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:SENSATION:COLD                                           1
+    sleet
+PRIMARY:SENSATION:VISION                                         1
+    sunshine
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springtime
+
+PRIMARY             : 53.968254 %
+SECONDARY           : 36.507937 %
+EMOTIONS            : 9.523810 %
+
+266 words total

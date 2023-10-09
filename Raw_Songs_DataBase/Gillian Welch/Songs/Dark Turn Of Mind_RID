@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever already now when
+SECONDARY:ABSTRACTION                                            4
+    cause know know know
+PRIMARY:SENSATION:VISION                                         4
+    see see bright bright
+EMOTIONS:AFFECTION                                               2
+    love lovely
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treat calling
+EMOTIONS:AGGRESSION                                              1
+    unkind
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    bones
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:SENSATION:TASTE                                          1
+    sweetly
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:NEED:ORALITY                                             1
+    fruit
+
+PRIMARY             : 39.285714 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 25.000000 %
+
+148 words total

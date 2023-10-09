@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    away back away over over over away here over over
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    floor floor floor floor floor
+SECONDARY:ABSTRACTION                                            4
+    true know thought true
+EMOTIONS:AFFECTION                                               4
+    darling love love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said tell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+EMOTIONS:AGGRESSION                                              2
+    breaks breaks
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now ever
+EMOTIONS:ANXIETY                                                 1
+    troubles
+
+PRIMARY             : 52.777778 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 19.444444 %
+
+149 words total

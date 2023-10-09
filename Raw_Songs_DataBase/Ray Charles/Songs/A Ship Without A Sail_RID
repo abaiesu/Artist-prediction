@@ -1,0 +1,36 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           7
+    ship sail sailors ship sail ship sail
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place place at out at at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    head hand hand hand hand
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    sea ocean ocean sea sea
+EMOTIONS:AFFECTION                                               5
+    love love like loveless loveless
+SECONDARY:ABSTRACTION                                            3
+    know why why
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sell use
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:NEED:ORALITY                                             1
+    breast
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    guided
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 65.909091 %
+SECONDARY           : 20.454545 %
+EMOTIONS            : 13.636364 %
+
+181 words total

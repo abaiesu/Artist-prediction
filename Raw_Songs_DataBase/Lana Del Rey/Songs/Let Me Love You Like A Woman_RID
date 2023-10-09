@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              26
+    love like like like love like like like love like like like love like love like like love like like love like like like love like
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    mention talk mention talk talk talk
+SECONDARY:ABSTRACTION                                            6
+    cause meant cause guess meant meant
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    south where long far away
+PRIMARY:SENSATION:VISION                                         5
+    shine see shine pink shine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make count make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    poems poems poems
+PRIMARY:SENSATION:TASTE                                          3
+    bittersweet bittersweet bittersweet
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    infinity infinity infinity
+PRIMARY:SENSATION:COLD                                           1
+    north
+SECONDARY:RESTRAINT                                              1
+    manage
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:NEED:ORALITY                                             1
+    champagne
+
+PRIMARY             : 29.850746 %
+SECONDARY           : 25.373134 %
+EMOTIONS            : 44.776119 %
+
+337 words total

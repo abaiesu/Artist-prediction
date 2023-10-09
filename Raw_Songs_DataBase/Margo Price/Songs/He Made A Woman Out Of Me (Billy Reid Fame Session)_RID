@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when till everybody when ago when when ever when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    south long out back long behind back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    worked worked used job
+SECONDARY:ABSTRACTION                                            4
+    learning guess think know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say tell meet
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    hurt
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    yonder
+
+PRIMARY             : 32.352941 %
+SECONDARY           : 61.764706 %
+EMOTIONS            : 5.882353 %
+
+254 words total

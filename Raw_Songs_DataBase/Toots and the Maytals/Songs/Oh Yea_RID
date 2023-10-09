@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everybody every every now now
+PRIMARY:SENSATION:SOUND                                          4
+    music music hear hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    east west south away
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say said asking
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    shake shake shake
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    guitar playing play
+SECONDARY:ABSTRACTION                                            2
+    believe believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find make
+PRIMARY:SENSATION:VISION                                         2
+    watch watch
+PRIMARY:SENSATION:COLD                                           1
+    north
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 13.333333 %
+
+167 words total

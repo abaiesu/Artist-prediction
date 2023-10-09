@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:COLD                                           6
+    winter icy cold frost icy icy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long where sides where here
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hunger trees hungry
+PRIMARY:NEED:ORALITY                                             2
+    throat meat
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wild wild
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:VISION                                         1
+    light
+EMOTIONS:ANXIETY                                                 1
+    fear
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lakes
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+EMOTIONS:AFFECTION                                               1
+    affected
+SECONDARY:ORDER                                                  1
+    form
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+
+PRIMARY             : 80.645161 %
+SECONDARY           : 9.677419 %
+EMOTIONS            : 9.677419 %
+
+115 words total

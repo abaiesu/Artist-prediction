@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes body hair eyes body
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away away
+PRIMARY:SENSATION:VISION                                         2
+    looks looks
+PRIMARY:NEED:ORALITY                                             2
+    sucks sucks
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fog fog
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean ocean
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:ABSTRACTION                                            2
+    fact fact
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    buried buried
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    pile pile
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor floor
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    worked
+
+PRIMARY             : 80.769231 %
+SECONDARY           : 11.538462 %
+EMOTIONS            : 7.692308 %
+
+127 words total

@@ -1,0 +1,28 @@
+SECONDARY:RESTRAINT                                             10
+    stop stop stop stop stop stop stop stop stop stop
+SECONDARY:ABSTRACTION                                            5
+    know truly cause truly truly
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say granted say
+EMOTIONS:AFFECTION                                               2
+    welcome welcome
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+EMOTIONS:AGGRESSION                                              2
+    hurt hurt
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    somewhere
+
+PRIMARY             : 6.896552 %
+SECONDARY           : 68.965517 %
+EMOTIONS            : 24.137931 %
+
+161 words total

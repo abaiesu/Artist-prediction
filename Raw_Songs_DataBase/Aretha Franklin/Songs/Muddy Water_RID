@@ -1,0 +1,44 @@
+PRIMARY:NEED:ANALITY                                            11
+    muddy muddy muddy muddy muddy muddy muddy muddy muddy muddy muddy
+PRIMARY:ICARIAN IMAGERY:WATER                                    9
+    water water water water water water water water water
+PRIMARY:NEED:ORALITY                                             8
+    drink drink drink drink drink drink drink drink
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out square out out place ahead out
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk say promised say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won work make find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleep sleep sleep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:AFFECTION                                               2
+    love like
+SECONDARY:ABSTRACTION                                            2
+    believe know
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:NEED:SEX                                                 1
+    kisses
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 74.193548 %
+SECONDARY           : 19.354839 %
+EMOTIONS            : 6.451613 %
+
+240 words total

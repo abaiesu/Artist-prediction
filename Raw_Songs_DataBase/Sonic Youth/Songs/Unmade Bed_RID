@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    again time time now time now time
+EMOTIONS:AFFECTION                                               7
+    friend love love like like kinda lover
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    back out back away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eyes arms
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:SENSATION:VISION                                         2
+    look looking
+EMOTIONS:AGGRESSION                                              2
+    break hit
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    says answered
+EMOTIONS:SADNESS                                                 2
+    pain loneliness
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lays bed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:NEED:ORALITY                                             1
+    suckered
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charm
+
+PRIMARY             : 45.238095 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 26.190476 %
+
+176 words total

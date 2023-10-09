@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    across where where back square across here wherever out off
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    handsome hand arms hand hand head hand
+SECONDARY:MORAL IMPERATIVE                                       5
+    right right respect right right
+PRIMARY:SENSATION:VISION                                         5
+    green see see appear see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    edge viaduct border bridge
+SECONDARY:TEMPORAL REFERENCES                                    4
+    past past past past
+SECONDARY:ABSTRACTION                                            3
+    know cause plan
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams nightmares dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    reach won money
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    bird tall
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep hole
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow screen
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fires
+PRIMARY:SENSATION:SOUND                                          1
+    humming
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+EMOTIONS:AGGRESSION                                              1
+    destroy
+PRIMARY:SENSATION:SOFT                                           1
+    whispering
+EMOTIONS:ANXIETY                                                 1
+    worry
+
+PRIMARY             : 67.213115 %
+SECONDARY           : 26.229508 %
+EMOTIONS            : 6.557377 %
+
+321 words total

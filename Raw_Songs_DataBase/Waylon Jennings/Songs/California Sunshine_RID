@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         7
+    sunshine star sunshine sunshine sunshine sunshine sunshine
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    west far behind west here here
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    playing game play playing game play
+SECONDARY:ABSTRACTION                                            5
+    except cause know cause cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    headed headin headed
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+EMOTIONS:AFFECTION                                               2
+    mate mate
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon soon
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:NEED:ORALITY                                             1
+    corners
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 26.190476 %
+EMOTIONS            : 21.428571 %
+
+175 words total

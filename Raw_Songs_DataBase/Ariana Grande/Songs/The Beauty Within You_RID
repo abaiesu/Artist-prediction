@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                        10
+    vision see look shining star look shining star shining star
+EMOTIONS:AFFECTION                                               8
+    like like love love like love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    makeup find makes makes find makes makes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    inside within out inside within within within
+PRIMARY:SENSATION:GENERAL-SENSATION                              7
+    beauty beautiful beauty beautiful beauty beautiful beauty
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when every time when time
+SECONDARY:ABSTRACTION                                            4
+    believe cause believe cause
+PRIMARY:SENSATION:HARD                                           4
+    hardest hardest hardest hardest
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+EMOTIONS:AGGRESSION                                              1
+    hit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 54.098361 %
+SECONDARY           : 29.508197 %
+EMOTIONS            : 16.393443 %
+
+272 words total

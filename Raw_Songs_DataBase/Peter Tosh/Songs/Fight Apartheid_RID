@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out out out apartheid apartheid place off off off where
+EMOTIONS:AGGRESSION                                              7
+    fight fight shoot shoot beat break break
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    build build build build build
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    line border border border border
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    dig digging dig
+SECONDARY:MORAL IMPERATIVE                                       3
+    justice right right
+PRIMARY:SENSATION:COLD                                           2
+    children children
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:NEED:ORALITY                                             1
+    pearls
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handing
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+SECONDARY:RESTRAINT                                              1
+    prison
+SECONDARY:ABSTRACTION                                            1
+    certain
+
+PRIMARY             : 54.761905 %
+SECONDARY           : 26.190476 %
+EMOTIONS            : 19.047619 %
+
+207 words total

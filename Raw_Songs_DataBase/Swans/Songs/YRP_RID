@@ -1,0 +1,14 @@
+SECONDARY:RESTRAINT                                              2
+    control control
+SECONDARY:MORAL IMPERATIVE                                       2
+    property property
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    money
+EMOTIONS:GLORY                                                   1
+    superior
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 83.333333 %
+EMOTIONS            : 16.666667 %
+
+61 words total

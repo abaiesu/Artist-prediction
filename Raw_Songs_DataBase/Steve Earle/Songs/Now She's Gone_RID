@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when now when time now again now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at where behind out
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said met said say
+EMOTIONS:AFFECTION                                               3
+    darlin goodbye like
+SECONDARY:ABSTRACTION                                            3
+    understand thought know
+EMOTIONS:AGGRESSION                                              2
+    stole broken
+PRIMARY:SENSATION:VISION                                         2
+    watch lightning
+PRIMARY:SENSATION:ODOR                                           2
+    smell perfume
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:NEED:ORALITY                                             1
+    lap
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trying
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:NEED:SEX                                                 1
+    kisses
+
+PRIMARY             : 45.945946 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 13.513514 %
+
+168 words total

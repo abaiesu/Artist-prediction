@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    tell please tell please told told speaks said speaks
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when everybody soon soon
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won won find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy crazy wake
+SECONDARY:ABSTRACTION                                            3
+    believe real real
+PRIMARY:SENSATION:SOUND                                          3
+    louder louder heard
+SECONDARY:ORDER                                                  2
+    listen listen
+EMOTIONS:ANXIETY                                                 2
+    worried worried
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cried
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 21.621622 %
+SECONDARY           : 62.162162 %
+EMOTIONS            : 16.216216 %
+
+183 words total

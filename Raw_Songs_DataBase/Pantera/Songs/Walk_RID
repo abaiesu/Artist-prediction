@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    call say talking talking tell say talking say talking talking say talking say talking talking
+SECONDARY:MORAL IMPERATIVE                                      10
+    respect respect respect respect respect respect respect respect respect respect
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out at where away where away
+EMOTIONS:AFFECTION                                               6
+    friend friends like friends sympathize friends
+SECONDARY:ABSTRACTION                                            6
+    something learned known something learned known
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    belong lesson achieve belong lesson
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time when every time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry violins playing
+SECONDARY:ORDER                                                  2
+    standard standard
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    dawn dawn
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AGGRESSION                                              1
+    bothered
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 21.212121 %
+SECONDARY           : 63.636364 %
+EMOTIONS            : 15.151515 %
+
+249 words total

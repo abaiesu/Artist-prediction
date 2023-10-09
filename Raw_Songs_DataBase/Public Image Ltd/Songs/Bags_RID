@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:TOUCH                                          3
+    rubber rubber rubber
+PRIMARY:NEED:ORALITY                                             3
+    swallow dinner feast
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun burns
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silent death
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place close
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    desert desert
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fever fever
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:ODOR                                           1
+    smell
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+EMOTIONS:ANXIETY                                                 1
+    terror
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    void
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 87.878788 %
+SECONDARY           : 6.060606 %
+EMOTIONS            : 6.060606 %
+
+94 words total

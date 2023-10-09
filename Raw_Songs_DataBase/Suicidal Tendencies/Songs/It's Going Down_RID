@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    side where longer place out side where place out side
+EMOTIONS:SADNESS                                                 6
+    pain sad sad sad sad sad
+PRIMARY:SENSATION:VISION                                         5
+    see see see surveys see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    try try try try try
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time now when now
+PRIMARY:SENSATION:SOUND                                          4
+    heart ringing ringing echoes
+SECONDARY:RESTRAINT                                              4
+    block block control stop
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head head face face
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake dreaming wake dreaming
+EMOTIONS:AGGRESSION                                              4
+    damage fight fight breaking
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    pitch pitch shakes
+SECONDARY:ABSTRACTION                                            3
+    cause believe cause
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie lie
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    forgiveness follow
+EMOTIONS:ANXIETY                                                 2
+    terror panic
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    blaze fire
+PRIMARY:NEED:ANALITY                                             1
+    sweating
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:NEED:SEX                                                 1
+    rape
+PRIMARY:SENSATION:COLD                                           1
+    shivers
+
+PRIMARY             : 52.112676 %
+SECONDARY           : 26.760563 %
+EMOTIONS            : 21.126761 %
+
+382 words total

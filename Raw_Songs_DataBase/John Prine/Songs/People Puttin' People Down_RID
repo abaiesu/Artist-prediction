@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes sometimes sometimes sometimes sometimes sometimes
+EMOTIONS:POSITIVE AFFECT                                         6
+    fun fun fun glad smile fun
+PRIMARY:SENSATION:COLD                                           4
+    cold cold cold cold
+SECONDARY:ABSTRACTION                                            3
+    may may may
+EMOTIONS:SADNESS                                                 2
+    sad frown
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    build makes
+EMOTIONS:GLORY                                                   1
+    crown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    fence
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 36.666667 %
+
+190 words total

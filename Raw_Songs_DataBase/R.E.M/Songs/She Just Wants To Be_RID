@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    now past now earlier now now now now now when now past now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    away places off somewhere somewhere back somewhere somewhere somewhere somewhere somewhere somewhere
+SECONDARY:ABSTRACTION                                           10
+    something knows knows knows knows knows truly why knows knows
+EMOTIONS:GLORY                                                   8
+    greater greater rich greater greater greater greater greater
+PRIMARY:SENSATION:VISION                                         3
+    looked look light
+EMOTIONS:AFFECTION                                               2
+    affectations like
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    stir
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    remind
+
+PRIMARY             : 32.692308 %
+SECONDARY           : 48.076923 %
+EMOTIONS            : 19.230769 %
+
+258 words total

@@ -1,0 +1,46 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    signal signal answer signal answer signal signal answer signal message
+PRIMARY:SENSATION:SOUND                                          8
+    voice noise noise heard noise noise noise noise
+SECONDARY:ABSTRACTION                                            6
+    circumstance truth defines reason defines reason
+EMOTIONS:AGGRESSION                                              5
+    war abuse guns wounds wounds
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    drifting die lies die
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where out overdose
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea floods
+EMOTIONS:ANXIETY                                                 2
+    fear terrorize
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    paying
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    transcend
+SECONDARY:RESTRAINT                                              1
+    block
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:NEED:ORALITY                                             1
+    starvation
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fires
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:NEED:SEX                                                 1
+    sex
+
+PRIMARY             : 48.076923 %
+SECONDARY           : 36.538462 %
+EMOTIONS            : 15.384615 %
+
+192 words total

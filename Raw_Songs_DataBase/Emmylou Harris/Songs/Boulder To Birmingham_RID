@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         7
+    watched watched watched see see see see
+SECONDARY:ABSTRACTION                                            5
+    know thought knowing know thought
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear heartbreak sound
+EMOTIONS:AFFECTION                                               4
+    love like bosom bosom
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    fire burn burn burn
+PRIMARY:SENSATION:HARD                                           3
+    rock hardest rock
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    ocean wash wash
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    airplane sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly mountain
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    below canyon
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wilderness
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 70.454545 %
+SECONDARY           : 18.181818 %
+EMOTIONS            : 11.363636 %
+
+231 words total

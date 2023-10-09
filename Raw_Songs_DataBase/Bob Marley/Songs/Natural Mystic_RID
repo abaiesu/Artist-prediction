@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                            10
+    mystic mystic mystic mystic mystic mystic mystic mystic mystic mystic
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    ask tell answer ask tell ask tell
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now past now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    die lie lie die lie
+SECONDARY:ABSTRACTION                                            5
+    why reality know them why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used won tried find won
+SECONDARY:ORDER                                                  3
+    listen listen listen
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+EMOTIONS:SADNESS                                                 2
+    suffer suffer
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 41.304348 %
+SECONDARY           : 54.347826 %
+EMOTIONS            : 4.347826 %
+
+232 words total

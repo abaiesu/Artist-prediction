@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    once now now hour when years then when once now now once now now
+PRIMARY:SENSATION:VISION                                         6
+    see appear bright shining see see
+PRIMARY:SENSATION:SOUND                                          3
+    sound heart sound
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found found
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:ANXIETY                                                 2
+    fear fears
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    taught
+EMOTIONS:POSITIVE AFFECT                                         1
+    relieved
+SECONDARY:ABSTRACTION                                            1
+    believed
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 32.432432 %
+SECONDARY           : 51.351351 %
+EMOTIONS            : 16.216216 %
+
+121 words total

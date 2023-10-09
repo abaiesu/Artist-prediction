@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           17
+    know know know know know know sure know know know believe know know know know know know
+EMOTIONS:AFFECTION                                              11
+    love love love love like love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    offer help accept responsibility treated offer help accept
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when again when when again
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes hands eyes hands
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try try try try
+PRIMARY:SENSATION:VISION                                         3
+    bright see bright
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    strange strange strange
+PRIMARY:SENSATION:COLD                                           2
+    children children
+SECONDARY:ORDER                                                  2
+    simple simple
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    opened opened
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 27.536232 %
+SECONDARY           : 55.072464 %
+EMOTIONS            : 17.391304 %
+
+325 words total

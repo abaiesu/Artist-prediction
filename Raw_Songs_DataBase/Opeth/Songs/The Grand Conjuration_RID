@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyes neck hands hand veins eyes head
+PRIMARY:NEED:ORALITY                                             4
+    thirst choking throat mouth
+EMOTIONS:GLORY                                                   3
+    majesty wealth kingdom
+SECONDARY:ABSTRACTION                                            3
+    know belief why
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    beckoning tell say
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pour tides
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    price assembling
+EMOTIONS:AGGRESSION                                              2
+    hate vengeance
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternal
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    poetry
+PRIMARY:SENSATION:SOUND                                          1
+    sounds
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+SECONDARY:ORDER                                                  1
+    form
+SECONDARY:RESTRAINT                                              1
+    decree
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spins
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    path
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mist
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 19.047619 %
+
+138 words total

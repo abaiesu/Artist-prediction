@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now sometimes when everything sometimes then sometimes again then sometimes
+SECONDARY:ABSTRACTION                                            9
+    understand know know know meant problems cause know cause
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please please share please
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find try try
+EMOTIONS:POSITIVE AFFECT                                         2
+    carefree joy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    side out
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:ANXIETY                                                 1
+    worry
+SECONDARY:RESTRAINT                                              1
+    bound
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edgy
+SECONDARY:ORDER                                                  1
+    simple
+
+PRIMARY             : 23.255814 %
+SECONDARY           : 65.116279 %
+EMOTIONS            : 11.627907 %
+
+224 words total

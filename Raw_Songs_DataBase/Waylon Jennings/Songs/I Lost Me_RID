@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    away somewhere along where somewhere along somewhere along ahead somewhere along somewhere along
+SECONDARY:TEMPORAL REFERENCES                                    4
+    times till till once
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    tried tried used tried
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:ABSTRACTION                                            2
+    learned considered
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiled enjoyed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+EMOTIONS:AFFECTION                                               1
+    loved
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 13.333333 %
+
+143 words total

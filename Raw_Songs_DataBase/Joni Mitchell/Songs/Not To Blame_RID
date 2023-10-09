@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out place out at among out out
+EMOTIONS:AGGRESSION                                              6
+    hit beat blame blame despise blame
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    coast coast line line line
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said say say said
+EMOTIONS:AFFECTION                                               3
+    loved love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face eye
+EMOTIONS:SADNESS                                                 2
+    miseries lonely
+PRIMARY:SENSATION:VISION                                         2
+    see looks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make claim
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    washed wet
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+EMOTIONS:GLORY                                                   1
+    fame
+PRIMARY:SENSATION:TOUCH                                          1
+    rubber
+SECONDARY:ABSTRACTION                                            1
+    learning
+PRIMARY:NEED:SEX                                                 1
+    perversity
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+
+PRIMARY             : 53.488372 %
+SECONDARY           : 18.604651 %
+EMOTIONS            : 27.906977 %
+
+189 words total

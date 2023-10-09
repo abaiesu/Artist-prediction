@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where where where at out wherever where where
+SECONDARY:ABSTRACTION                                            6
+    thought surely thought know know know
+EMOTIONS:AFFECTION                                               5
+    love love mercy favorite love
+EMOTIONS:POSITIVE AFFECT                                         4
+    happiness smile smile happiness
+EMOTIONS:AGGRESSION                                              4
+    hate blame war hurt
+PRIMARY:SENSATION:VISION                                         4
+    stars see light light
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should right right
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please guiding please guiding
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    endless eternal
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets line
+PRIMARY:NEED:ORALITY                                             2
+    eats lunch
+EMOTIONS:ANXIETY                                                 2
+    trouble worry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+SECONDARY:RESTRAINT                                              1
+    blocks
+EMOTIONS:SADNESS                                                 1
+    sorrow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 41.379310 %
+SECONDARY           : 29.310345 %
+EMOTIONS            : 29.310345 %
+
+215 words total

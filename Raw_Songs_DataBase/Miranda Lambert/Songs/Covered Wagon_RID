@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      26
+    road road road road road road road road road road road road road road road road road road road road road road road road road road
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out place here
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    roam
+PRIMARY:SENSATION:TOUCH                                          1
+    itch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headed
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 89.473684 %
+SECONDARY           : 7.894737 %
+EMOTIONS            : 2.631579 %
+
+241 words total

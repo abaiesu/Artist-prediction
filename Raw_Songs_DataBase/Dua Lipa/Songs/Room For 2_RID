@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back closed back back behind back back where back back
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now now now time now now everyone now now
+EMOTIONS:AGGRESSION                                              8
+    shove blaming shove shove shove shove shove shove
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  7
+    tumblin tumblin tumblin tumblin tumblin tumblin tumblin
+PRIMARY:NEED:SEX                                                 7
+    kiss kiss kiss kiss kiss kiss kiss
+SECONDARY:ABSTRACTION                                            4
+    why something something thought
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:VISION                                         4
+    looking see see saw
+PRIMARY:SENSATION:TASTE                                          2
+    bitter sweet
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won machines
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under under
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    spark flame
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doors
+SECONDARY:RESTRAINT                                              1
+    shut
+EMOTIONS:GLORY                                                   1
+    crown
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chaos
+
+PRIMARY             : 54.411765 %
+SECONDARY           : 26.470588 %
+EMOTIONS            : 19.117647 %
+
+363 words total

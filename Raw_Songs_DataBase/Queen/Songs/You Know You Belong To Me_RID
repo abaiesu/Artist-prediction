@@ -1,0 +1,40 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        6
+    shadows shadows shadows clouds shadows shadows
+SECONDARY:ABSTRACTION                                            5
+    know know know know know
+PRIMARY:SENSATION:VISION                                         5
+    moonlight bright see moonlight bright
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    belong belong makes belong belong
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when every when
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away away
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain wash
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+EMOTIONS:AGGRESSION                                              1
+    hurts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 38.095238 %
+EMOTIONS            : 11.904762 %
+
+115 words total

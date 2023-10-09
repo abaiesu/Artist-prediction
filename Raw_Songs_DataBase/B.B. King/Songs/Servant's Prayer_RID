@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    everyday now now when when ever today today
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    calling calling follow calling offering offering
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+EMOTIONS:SADNESS                                                 2
+    sad lonely
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make burdened
+EMOTIONS:AGGRESSION                                              2
+    hurt harm
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    within at
+EMOTIONS:GLORY                                                   1
+    throne
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 25.806452 %
+SECONDARY           : 51.612903 %
+EMOTIONS            : 22.580645 %
+
+148 words total

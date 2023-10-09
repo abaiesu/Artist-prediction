@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  40
+    hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung hung
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    granted called tell answer calling
+SECONDARY:ABSTRACTION                                            3
+    knew know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying won use
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    overheard at
+EMOTIONS:AGGRESSION                                              2
+    despise weapon
+EMOTIONS:AFFECTION                                               1
+    darling
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 73.770492 %
+SECONDARY           : 21.311475 %
+EMOTIONS            : 4.918033 %
+
+245 words total

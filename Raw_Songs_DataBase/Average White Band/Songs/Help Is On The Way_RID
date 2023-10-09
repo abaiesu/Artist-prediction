@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    far long away at closer away over distance closer
+SECONDARY:ABSTRACTION                                            8
+    know know cause cause why know cause cause
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    talk tell say help help help help
+PRIMARY:SENSATION:VISION                                         6
+    watchin lighten lighten see lighten lighten
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won found found
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    line streets line
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    throwin throwin
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    trickle
+PRIMARY:NEED:ORALITY                                             1
+    eatin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippin
+
+PRIMARY             : 48.979592 %
+SECONDARY           : 46.938776 %
+EMOTIONS            : 4.081633 %
+
+196 words total

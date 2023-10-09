@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here back behind out behind
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find cured cured cured won
+SECONDARY:TEMPORAL REFERENCES                                    4
+    times time time time
+SECONDARY:ABSTRACTION                                            4
+    perhaps think figure think
+EMOTIONS:AGGRESSION                                              4
+    unkind unkind struggling unkind
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told told
+SECONDARY:RESTRAINT                                              1
+    bind
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+
+PRIMARY             : 20.689655 %
+SECONDARY           : 55.172414 %
+EMOTIONS            : 24.137931 %
+
+195 words total

@@ -1,0 +1,62 @@
+PRIMARY:SENSATION:VISION                                        11
+    brown glow glow glow glow glow glow glow glow glow glow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    open over inside across where off out out over
+SECONDARY:MORAL IMPERATIVE                                       9
+    right right right right right right right right right
+PRIMARY:SENSATION:SOUND                                          7
+    hearts ringing sound hear voice blaring hear
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    wet soaked pour bathroom swimming
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes find make make
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    swollen roll swollen
+PRIMARY:SENSATION:ODOR                                           3
+    breathe breath breath
+PRIMARY:NEED:ORALITY                                             3
+    swallow coughed tongue
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every when now
+PRIMARY:SENSATION:SOFT                                           2
+    soft soft
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    chest face
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor floor
+SECONDARY:ABSTRACTION                                            2
+    them know
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk talk
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:SENSATION:TOUCH                                          1
+    sting
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AGGRESSION                                              1
+    beating
+EMOTIONS:GLORY                                                   1
+    wonderfully
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forevermore
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 67.901235 %
+SECONDARY           : 24.691358 %
+EMOTIONS            : 7.407407 %
+
+260 words total

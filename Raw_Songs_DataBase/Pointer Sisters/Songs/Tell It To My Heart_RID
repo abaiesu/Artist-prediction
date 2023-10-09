@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    tonight minute time now time now minute minute now now
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell tell tell told say help
+EMOTIONS:AFFECTION                                               5
+    like love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won winning make
+PRIMARY:SENSATION:SOUND                                          2
+    heartstrings heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside inside
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+SECONDARY:ABSTRACTION                                            2
+    know believe
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handful
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    passage
+PRIMARY:SENSATION:COLD                                           1
+    shivering
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+EMOTIONS:ANXIETY                                                 1
+    trembling
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+
+PRIMARY             : 37.209302 %
+SECONDARY           : 48.837209 %
+EMOTIONS            : 13.953488 %
+
+229 words total

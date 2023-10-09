@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                           20
+    believe think know think knew know know know know know know know know knew know know know why know know
+EMOTIONS:AFFECTION                                              14
+    like like like like romance like like like like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything when everything
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met tell treated
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    art art art
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    mad mad
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fires
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+EMOTIONS:SADNESS                                                 1
+    sad
+
+PRIMARY             : 18.644068 %
+SECONDARY           : 50.847458 %
+EMOTIONS            : 30.508475 %
+
+375 words total

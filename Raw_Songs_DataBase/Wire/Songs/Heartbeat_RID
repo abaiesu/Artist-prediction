@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                              35
+    like like like like like like like like like like like like like like like like like like like like like like like like like like like like like like like like like like like
+PRIMARY:SENSATION:SOUND                                         35
+    heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat heartbeat
+EMOTIONS:GLORY                                                   8
+    sublime sublime sublime sublime sublime sublime sublime sublime
+PRIMARY:SENSATION:COLD                                           2
+    icy cold
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+SECONDARY:ABSTRACTION                                            1
+    something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    remark
+
+PRIMARY             : 44.186047 %
+SECONDARY           : 3.488372 %
+EMOTIONS            : 52.325581 %
+
+163 words total

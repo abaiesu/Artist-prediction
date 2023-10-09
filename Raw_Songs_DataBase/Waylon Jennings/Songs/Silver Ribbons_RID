@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out where where back back somewhere where where back
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when again time again then again
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    callin ask ask ask ask
+PRIMARY:SENSATION:SOUND                                          4
+    tune sound hear whistle
+EMOTIONS:SADNESS                                                 3
+    lonesome lonely lonesome
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travelin travelin
+PRIMARY:SENSATION:VISION                                         2
+    brunetts see
+EMOTIONS:AFFECTION                                               2
+    love welcome
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    railroad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    picked
+PRIMARY:NEED:ORALITY                                             1
+    apples
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heads
+SECONDARY:ABSTRACTION                                            1
+    knew
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 34.210526 %
+EMOTIONS            : 13.157895 %
+
+183 words total

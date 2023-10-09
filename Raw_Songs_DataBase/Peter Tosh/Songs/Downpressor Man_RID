@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       30
+    where where where along along where where where along along along along along where where where along along along along along along along along along where where along where here
+PRIMARY:NEED:ORALITY                                             8
+    drink champagne drink champagne drink champagne drink soup
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    boiling boiling boiling melting melting melting
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    sea sea sea sea sea
+PRIMARY:SENSATION:HARD                                           5
+    rocks rocks rocks rocks rocks
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said telling said said call
+EMOTIONS:POSITIVE AFFECT                                         4
+    laugh laugh laugh funny
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    test money money money
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when now
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under under under
+SECONDARY:ABSTRACTION                                            3
+    know them them
+SECONDARY:RESTRAINT                                              1
+    bar
+
+PRIMARY             : 71.250000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 8.750000 %
+
+410 words total

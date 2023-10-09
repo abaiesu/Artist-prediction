@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    open open at apart
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call speak helpless
+PRIMARY:NEED:ORALITY                                             3
+    drunken mouth tongue
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed silent
+EMOTIONS:AGGRESSION                                              2
+    violators rage
+PRIMARY:SENSATION:VISION                                         2
+    lights behold
+SECONDARY:ABSTRACTION                                            1
+    thoughts
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    curtain
+SECONDARY:ORDER                                                  1
+    universal
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unknown
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flames
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:SADNESS                                                 1
+    sob
+
+PRIMARY             : 58.064516 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 12.903226 %
+
+151 words total

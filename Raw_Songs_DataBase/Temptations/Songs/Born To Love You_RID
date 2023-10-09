@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              27
+    lovely love love love love love love love love love darling love darling love love love love love love love love love darling love love love love
+SECONDARY:ABSTRACTION                                           13
+    knew knew guess cause understand know meant true guess why believe believe true
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while then then now
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside here
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fair fair
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hand
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please tell
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sigh
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+
+PRIMARY             : 25.757576 %
+SECONDARY           : 30.303030 %
+EMOTIONS            : 43.939394 %
+
+288 words total

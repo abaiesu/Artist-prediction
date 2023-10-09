@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:HARD                                          13
+    hard hard hard hard hard hard hard hard hard hard hard hard hard
+SECONDARY:ABSTRACTION                                            9
+    cause real know know cause know real known known
+EMOTIONS:ANXIETY                                                 8
+    trouble trouble trouble trouble trouble trouble trouble trouble
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now then again now now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make business win win make make
+PRIMARY:NEED:ORALITY                                             4
+    sugar sugar sugar sugar
+PRIMARY:SENSATION:COLD                                           2
+    cool cooled
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playin playin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+SECONDARY:RESTRAINT                                              2
+    taxes taxes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death death
+PRIMARY:NEED:ANALITY                                             2
+    sweat sweat
+EMOTIONS:AGGRESSION                                              2
+    fight bother
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over places
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say protection
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+EMOTIONS:AFFECTION                                               1
+    kind
+
+PRIMARY             : 44.117647 %
+SECONDARY           : 36.764706 %
+EMOTIONS            : 19.117647 %
+
+347 words total

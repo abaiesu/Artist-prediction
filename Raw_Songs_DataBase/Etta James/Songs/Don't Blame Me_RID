@@ -1,0 +1,38 @@
+EMOTIONS:AGGRESSION                                              6
+    blame blame blame blame blame blame
+EMOTIONS:AFFECTION                                               3
+    love like love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help help
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes makes
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+SECONDARY:ABSTRACTION                                            1
+    something
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 38.461538 %
+
+95 words total

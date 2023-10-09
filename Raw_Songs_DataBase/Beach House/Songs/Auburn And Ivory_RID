@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         6
+    saw light lights saw light lights
+SECONDARY:TEMPORAL REFERENCES                                    4
+    once when once when
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:AGGRESSION                                              3
+    break break break
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warming fire
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes bones
+PRIMARY:SENSATION:HARD                                           2
+    hardly hardly
+EMOTIONS:GLORY                                                   2
+    golder golder
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell said
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sails
+
+PRIMARY             : 60.714286 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 17.857143 %
+
+111 words total

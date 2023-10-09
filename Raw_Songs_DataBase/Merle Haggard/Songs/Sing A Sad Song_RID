@@ -1,0 +1,26 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    13
+    sing sing sing sing sing sing sing sing sing sing sing sing sing
+EMOTIONS:SADNESS                                                 7
+    sadness sad unhappy unhappy sadness sad sad
+PRIMARY:SENSATION:VISION                                         2
+    blue appear
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then then
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 21.875000 %
+SECONDARY           : 12.500000 %
+EMOTIONS            : 65.625000 %
+
+116 words total

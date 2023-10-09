@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    far away side side far away side side inside far away side side side side
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    hand hand arms hand hand hand hand hand hand
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    fire burnin fire burnin fire burnin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    growin sky growin sky growin sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    ship sailin ship sailin ship sailin
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    clouds clouds clouds
+SECONDARY:ABSTRACTION                                            3
+    cause cause knowin
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please mention
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay try
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hearts
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safe safely
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:VISION                                         1
+    saw
+EMOTIONS:AGGRESSION                                              1
+    jealous
+EMOTIONS:SADNESS                                                 1
+    pain
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bubble
+PRIMARY:SENSATION:COLD                                           1
+    north
+SECONDARY:RESTRAINT                                              1
+    locked
+
+PRIMARY             : 72.602740 %
+SECONDARY           : 13.698630 %
+EMOTIONS            : 13.698630 %
+
+246 words total

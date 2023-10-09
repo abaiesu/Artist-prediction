@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old time old dated time every when everytime
+SECONDARY:ABSTRACTION                                            5
+    know tender cause cause meant
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away where apart here here
+EMOTIONS:AFFECTION                                               5
+    love love goodbye love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    shared promised say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed laid
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:AGGRESSION                                              1
+    beat
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+
+PRIMARY             : 32.432432 %
+SECONDARY           : 51.351351 %
+EMOTIONS            : 16.216216 %
+
+186 words total

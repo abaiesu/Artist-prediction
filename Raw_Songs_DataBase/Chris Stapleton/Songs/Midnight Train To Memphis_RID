@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    soon now when till now when
+EMOTIONS:AGGRESSION                                              6
+    shotguns hit breakfast shotguns grudge shotguns
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    line fences floor fences fences
+SECONDARY:ORDER                                                  3
+    listen listen listen
+SECONDARY:ABSTRACTION                                            2
+    judge judge
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pay work
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:NEED:ORALITY                                             2
+    mouth eat
+SECONDARY:RESTRAINT                                              2
+    shut prisoner
+PRIMARY:SENSATION:VISION                                         1
+    looked
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    whistle
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    longest
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 47.222222 %
+EMOTIONS            : 19.444444 %
+
+171 words total

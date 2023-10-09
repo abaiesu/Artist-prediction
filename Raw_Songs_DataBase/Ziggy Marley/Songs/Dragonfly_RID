@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everybody time hour clocks old every everybody time hour clocks
+SECONDARY:RESTRAINT                                              7
+    stops must must must stops must must
+EMOTIONS:GLORY                                                   7
+    wonder wondering wonder wondering wondering wondering wondering
+PRIMARY:SENSATION:VISION                                         7
+    see look looked see look see look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    off at at at off at
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    ride ride ride ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    mister mister mister
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes eyes eyes
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+SECONDARY:ABSTRACTION                                            3
+    why why understand
+EMOTIONS:ANXIETY                                                 2
+    worried worried
+PRIMARY:NEED:ANALITY                                             2
+    shit shit
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tree tree
+EMOTIONS:AFFECTION                                               2
+    kind kind
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silently
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+
+PRIMARY             : 47.058824 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 17.647059 %
+
+285 words total

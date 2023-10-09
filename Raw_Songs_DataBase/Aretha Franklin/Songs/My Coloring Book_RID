@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                        16
+    coloring coloring see color watched color gray color blue color color green sees color color color
+SECONDARY:ABSTRACTION                                            5
+    them thought true them them
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then now ever
+EMOTIONS:AFFECTION                                               2
+    kind like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes arms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    away between
+EMOTIONS:SADNESS                                                 2
+    weep lonely
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please depended
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:TOUCH                                          1
+    touched
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 60.526316 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 10.526316 %
+
+145 words total

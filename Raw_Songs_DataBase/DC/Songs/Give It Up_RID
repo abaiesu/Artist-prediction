@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here distance out here here out out out out out
+EMOTIONS:AGGRESSION                                              8
+    fighting rip whip rip whip whip whippin whippin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make aim make pick make
+PRIMARY:SENSATION:HARD                                           5
+    rock rock rocket rock rock
+SECONDARY:ABSTRACTION                                            3
+    cause cause sure
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    shout shout shout
+PRIMARY:SENSATION:SOUND                                          3
+    loud loud loud
+PRIMARY:NEED:ORALITY                                             3
+    beer bite cream
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire fire
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:POSITIVE AFFECT                                         1
+    delight
+
+PRIMARY             : 53.061224 %
+SECONDARY           : 20.408163 %
+EMOTIONS            : 26.530612 %
+
+356 words total

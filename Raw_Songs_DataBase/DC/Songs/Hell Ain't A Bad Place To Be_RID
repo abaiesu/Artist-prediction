@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    out out place out long place closes opens apart out place place place place
+SECONDARY:ABSTRACTION                                            7
+    think think why knows thinking something know
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes sometimes sometimes every minute then
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cry playin games playing
+PRIMARY:NEED:ORALITY                                             3
+    beer licks drinks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spends money make
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tellin say said
+EMOTIONS:AFFECTION                                               2
+    kinda lovin
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:SENSATION:VISION                                         2
+    see light
+PRIMARY:SENSATION:SOUND                                          2
+    ear heart
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfaction
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pours
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confusion
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heavenly
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 12.962963 %
+
+211 words total

@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            7
+    knowledge knowledge reality known believe truths evident
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    teachings
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+EMOTIONS:ANXIETY                                                 1
+    horror
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    revelations
+PRIMARY:SENSATION:VISION                                         1
+    imagined
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chaos
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+EMOTIONS:SADNESS                                                 1
+    painfully
+EMOTIONS:GLORY                                                   1
+    conquer
+EMOTIONS:AGGRESSION                                              1
+    hates
+
+PRIMARY             : 36.842105 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 21.052632 %
+
+116 words total

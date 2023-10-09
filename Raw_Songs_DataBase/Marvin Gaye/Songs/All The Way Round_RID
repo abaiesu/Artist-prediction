@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    off away where at straight point over back away away at
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time ever now time when again old times sometime when
+EMOTIONS:AFFECTION                                               8
+    like like darling love lovers love love love
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say accept tell said treat treat treat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won find find mend mend
+SECONDARY:ABSTRACTION                                            4
+    understanding understand understand surely
+SECONDARY:RESTRAINT                                              2
+    must control
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+EMOTIONS:GLORY                                                   1
+    greatest
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+
+PRIMARY             : 33.898305 %
+SECONDARY           : 47.457627 %
+EMOTIONS            : 18.644068 %
+
+327 words total

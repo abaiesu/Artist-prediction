@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:ABSTRACTION                                            3
+    believe believe learn
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time ago everybody
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long across
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said proclaim
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:GLORY                                                   1
+    conquer
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:HARD                                           1
+    rock
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    foundation
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 30.000000 %
+
+116 words total

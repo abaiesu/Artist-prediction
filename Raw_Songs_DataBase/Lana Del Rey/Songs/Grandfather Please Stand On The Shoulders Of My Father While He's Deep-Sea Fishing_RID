@@ -1,0 +1,48 @@
+SECONDARY:ABSTRACTION                                           10
+    know know think know think know cause believe know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    near behind near near near
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again while while while
+PRIMARY:SENSATION:VISION                                         4
+    scenes blue green vision
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful beautiful
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+SECONDARY:MORAL IMPERATIVE                                       2
+    shoulders shoulders
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea sea
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bodied bones
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallible
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    poetry
+PRIMARY:SENSATION:SOUND                                          1
+    melodies
+EMOTIONS:GLORY                                                   1
+    wonderful
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 6.250000 %
+
+270 words total

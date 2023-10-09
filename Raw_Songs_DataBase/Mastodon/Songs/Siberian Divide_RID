@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:COLD                                          10
+    ice snow frozen frostbite snowbank ice ice snow ice ice
+PRIMARY:NEED:ORALITY                                             8
+    eating jaw teeth eating chewing starvation fruits lips
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    hands wrist limbs bone skull face skulls
+SECONDARY:ABSTRACTION                                            5
+    known provisions known provisions think
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    warm solar sun warm
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    shakes swollen spine
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away at towards
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    path hallucination
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    sinking fall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    bark horned
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb climb
+PRIMARY:SENSATION:VISION                                         2
+    shining shines
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    sweeps sweeps
+EMOTIONS:AGGRESSION                                              1
+    destruction
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeper
+PRIMARY:SENSATION:SOUND                                          1
+    belly
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 79.661017 %
+SECONDARY           : 15.254237 %
+EMOTIONS            : 5.084746 %
+
+177 words total

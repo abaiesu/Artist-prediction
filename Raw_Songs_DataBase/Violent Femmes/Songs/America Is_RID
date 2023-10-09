@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    at at at at at out out out out out out out out between level level level level
+EMOTIONS:ANXIETY                                                10
+    desperation desperation trouble trouble desperation desperation desperation desperation desperation desperation
+SECONDARY:ABSTRACTION                                            8
+    figures facts facts facts figures facts facts facts
+EMOTIONS:AGGRESSION                                              8
+    murder murder aggression aggression aggression aggression aggression aggression
+PRIMARY:SENSATION:VISION                                         6
+    look look look look look watch
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when then then then everywhere
+SECONDARY:RESTRAINT                                              5
+    limit limit limit lock limit
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream dream dream dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find work
+PRIMARY:SENSATION:ODOR                                           3
+    nose smell smell
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+EMOTIONS:SADNESS                                                 2
+    sorry sorry
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:NEED:ORALITY                                             1
+    suck
+
+PRIMARY             : 44.303797 %
+SECONDARY           : 30.379747 %
+EMOTIONS            : 25.316456 %
+
+237 words total

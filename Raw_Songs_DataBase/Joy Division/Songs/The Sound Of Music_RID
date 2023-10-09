@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  13
+    higher higher higher higher higher higher higher higher higher higher higher higher higher
+PRIMARY:SENSATION:VISION                                         7
+    see see see see see see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    off situation out out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    try make makes makes makes
+EMOTIONS:AGGRESSION                                              3
+    cut degraded break
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:ABSTRACTION                                            1
+    true
+PRIMARY:SENSATION:HARD                                           1
+    harder
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    sensation
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreak
+SECONDARY:ORDER                                                  1
+    systematically
+PRIMARY:NEED:SEX                                                 1
+    perverse
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 17.777778 %
+EMOTIONS            : 15.555556 %
+
+125 words total

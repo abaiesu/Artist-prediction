@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:TASTE                                         20
+    sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet sweet
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now everybody sometime now soon now now soon
+SECONDARY:ABSTRACTION                                            5
+    important chose choose known knowing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    tall tall tall tall tall
+EMOTIONS:AGGRESSION                                              3
+    broke broken beat
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry sing
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    road road
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+EMOTIONS:AFFECTION                                               1
+    lovin
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 61.111111 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 11.111111 %
+
+227 words total

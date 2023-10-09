@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    tell inquire ask ask say ask ask say ask ask say say say
+EMOTIONS:AFFECTION                                              10
+    lover love love love love love love love love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       10
+    died died died died died died died died died died
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far place behind away
+SECONDARY:ABSTRACTION                                            4
+    why true real compare
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when every till
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    sail ship sail
+EMOTIONS:ANXIETY                                                 3
+    trouble worry trouble
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+
+PRIMARY             : 42.372881 %
+SECONDARY           : 35.593220 %
+EMOTIONS            : 22.033898 %
+
+244 words total

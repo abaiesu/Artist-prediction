@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              18
+    kind friends dear love love love like love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time time year when presents everything everywhere once year when every
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    gifts gift say gift gift
+SECONDARY:ABSTRACTION                                            5
+    why know why know why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    making buying find
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy smiling joy
+EMOTIONS:GLORY                                                   3
+    greater greater greater
+SECONDARY:ORDER                                                  1
+    lists
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:ANXIETY                                                 1
+    cares
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knee
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+
+PRIMARY             : 10.714286 %
+SECONDARY           : 44.642857 %
+EMOTIONS            : 44.642857 %
+
+237 words total

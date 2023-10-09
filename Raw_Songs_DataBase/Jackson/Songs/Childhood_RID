@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:VISION                                         9
+    seen looking view seen look seen seen watch seen
+PRIMARY:SENSATION:COLD                                           9
+    childhood child childhood childhood childhood childhood childhood childhood childhood
+SECONDARY:ABSTRACTION                                            9
+    cause understands cause cause known judge cause known judge
+EMOTIONS:AFFECTION                                               7
+    like love like love love like love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    pardon say ask say share
+EMOTIONS:GLORY                                                   5
+    wonder adventurous conquest throne wonder
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    searching searching searching
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found try try
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    strange strange fantastical
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    round within
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+EMOTIONS:SADNESS                                                 1
+    painful
+
+PRIMARY             : 51.562500 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 20.312500 %
+
+198 words total

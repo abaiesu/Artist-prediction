@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    east where where straight sides curve at western out close out western western out close out western western
+SECONDARY:TEMPORAL REFERENCES                                   11
+    old when till time once again when tonight when tonight tonight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   8
+    springtime thrown spring swing swing swing swing swing
+EMOTIONS:AFFECTION                                               4
+    kind like like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    fence floors floors
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire scorch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    rode rode
+SECONDARY:ORDER                                                  2
+    rank rank
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sight sight
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:SENSATION:COLD                                           1
+    north
+PRIMARY:SENSATION:HARD                                           1
+    iron
+EMOTIONS:AGGRESSION                                              1
+    hits
+SECONDARY:ABSTRACTION                                            1
+    true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 25.862069 %
+EMOTIONS            : 12.068966 %
+
+219 words total

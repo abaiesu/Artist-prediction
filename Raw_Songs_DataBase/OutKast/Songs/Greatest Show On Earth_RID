@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              10
+    love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    7
+    tonight when while week every while while
+SECONDARY:MORAL IMPERATIVE                                       7
+    right right should right right right right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    step step step step step step
+SECONDARY:ABSTRACTION                                            4
+    them know sure true
+PRIMARY:NEED:ORALITY                                             4
+    drank candy drank drank
+PRIMARY:SENSATION:VISION                                         4
+    see green blue light
+EMOTIONS:GLORY                                                   3
+    greatest greatest greatest
+SECONDARY:RESTRAINT                                              3
+    shut shut shut
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    clowns dancing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call please
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    selling
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:SENSATION:SOFT                                           1
+    gentlemen
+PRIMARY:SENSATION:SOUND                                          1
+    chorus
+
+PRIMARY             : 36.065574 %
+SECONDARY           : 39.344262 %
+EMOTIONS            : 24.590164 %
+
+312 words total

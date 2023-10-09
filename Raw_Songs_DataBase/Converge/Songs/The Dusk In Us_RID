@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    at within among at where among within where somewhere among within
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    protectors speaks say speaks ask speaks
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when time when past time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    bide try test won
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed rest die
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rise dawn rising
+EMOTIONS:AGGRESSION                                              3
+    grudge revenge broken
+PRIMARY:NEED:ORALITY                                             3
+    tongues tongues tongues
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows shadows
+EMOTIONS:AFFECTION                                               2
+    dear dear
+PRIMARY:SENSATION:SOUND                                          2
+    noise heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    flesh bone
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+EMOTIONS:ANXIETY                                                 1
+    frightened
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:NEED:ANALITY                                             1
+    shattered
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:VISION                                         1
+    imagine
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 29.090909 %
+EMOTIONS            : 10.909091 %
+
+225 words total

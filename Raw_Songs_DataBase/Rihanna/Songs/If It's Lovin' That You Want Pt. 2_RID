@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   26
+    now then then then everything now every when whenever then then then everything everything ever whenever then then then everything when whenever then then then everything
+EMOTIONS:AFFECTION                                              19
+    loving loving loving friend friend loving loving loving love like friend loving loving loving friend friend loving loving loving
+SECONDARY:SOCIAL BEHAVIOR                                       19
+    share share share tell tell call share share saying saying call share share share told call share share share
+SECONDARY:ABSTRACTION                                           18
+    cause cause cause think thought cause know cause understand why know true know cause think cause know think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    make make make make won make make make try make make
+SECONDARY:MORAL IMPERATIVE                                      10
+    should right should right right right should right should right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here here straight over long here here here
+EMOTIONS:AGGRESSION                                              4
+    doubt break hit hit
+EMOTIONS:ANXIETY                                                 3
+    fear troubles fears
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand hand handcuff
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams fantasy
+PRIMARY:SENSATION:VISION                                         2
+    see brighter
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mista
+EMOTIONS:GLORY                                                   1
+    wonder
+
+PRIMARY             : 14.925373 %
+SECONDARY           : 62.686567 %
+EMOTIONS            : 22.388060 %
+
+740 words total

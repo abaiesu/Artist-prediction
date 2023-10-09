@@ -1,0 +1,30 @@
+SECONDARY:RESTRAINT                                              5
+    caught stopped block catch block
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now ever now when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    roadblock roadblock
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    surf surf
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    eastern eastern
+EMOTIONS:AFFECTION                                               2
+    kind goodbye
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find won
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+
+PRIMARY             : 32.000000 %
+SECONDARY           : 56.000000 %
+EMOTIONS            : 12.000000 %
+
+96 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         10
+    body body body head body body body body body body
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    dancing dancing play dancing dancing screams sight dancing
+SECONDARY:RESTRAINT                                              5
+    cage cage cage cage cage
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    spirit spirit spirit
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+EMOTIONS:AGGRESSION                                              2
+    doubt beats
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calls forgiven
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead slow
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doorway
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughs
+
+PRIMARY             : 40.425532 %
+SECONDARY           : 21.276596 %
+EMOTIONS            : 38.297872 %
+
+282 words total

@@ -1,0 +1,44 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                 17
+    roll roll roll roll roll roll roll roll roll roll roll roll roll roll roll roll roll
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      13
+    road road road road road road road road road road road road sidewalk
+PRIMARY:SENSATION:VISION                                         5
+    seen seen star blue shining
+EMOTIONS:AGGRESSION                                              3
+    cut kicking shove
+EMOTIONS:GLORY                                                   2
+    rich famous
+PRIMARY:SENSATION:HARD                                           2
+    rock glass
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:SENSATION:SOFT                                           2
+    velvet soft
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long off
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    wet rain
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driver
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:COLD                                           1
+    cool
+SECONDARY:ABSTRACTION                                            1
+    tenderloin
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    jungle
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 81.355932 %
+SECONDARY           : 8.474576 %
+EMOTIONS            : 10.169492 %
+
+174 words total

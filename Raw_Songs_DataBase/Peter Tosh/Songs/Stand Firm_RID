@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       36
+    tell say tell say say tell say tell say say tell say tell say say tell say tell say say tell say tell say confess say tell say tell say tell say tell say talkin say
+PRIMARY:SENSATION:VISION                                        13
+    seen seen seen seen light seen seen seen seen light seen seen seen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 11
+    works works works works works works works works works works works
+PRIMARY:NEED:ORALITY                                            11
+    feed feed feed feed feed feed feed feed feed feed feed
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here here within here here here
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then then when
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    fantasy madness
+SECONDARY:ABSTRACTION                                            1
+    think
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:POSITIVE AFFECT                                         1
+    gladness
+
+PRIMARY             : 36.781609 %
+SECONDARY           : 59.770115 %
+EMOTIONS            : 3.448276 %
+
+431 words total

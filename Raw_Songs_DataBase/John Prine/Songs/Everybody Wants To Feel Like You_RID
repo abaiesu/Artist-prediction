@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    clock sometime everybody time time everybody brief every
+PRIMARY:SENSATION:SOUND                                          4
+    ringing heart bell rings
+EMOTIONS:AFFECTION                                               4
+    like love like love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work used make
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    chase chase
+SECONDARY:ABSTRACTION                                            2
+    why true
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    foot eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside round
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+EMOTIONS:AGGRESSION                                              1
+    beats
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 14.285714 %
+
+154 words total

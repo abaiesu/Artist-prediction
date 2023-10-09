@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    towards within out within inside within
+PRIMARY:SENSATION:VISION                                         4
+    stars stars halo star
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    muscles blood
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    stagnant dead
+EMOTIONS:AGGRESSION                                              2
+    severed beating
+PRIMARY:SENSATION:SOUND                                          2
+    buzz ring
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    bridges
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    hornet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    inferno
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    sharp
+
+PRIMARY             : 70.000000 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 13.333333 %
+
+86 words total

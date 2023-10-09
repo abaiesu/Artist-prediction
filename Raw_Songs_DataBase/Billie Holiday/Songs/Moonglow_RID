@@ -1,0 +1,28 @@
+SECONDARY:RESTRAINT                                              4
+    must must must must
+PRIMARY:SENSATION:VISION                                         4
+    blue blue blue blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    straight where straight where
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    saying please saying please
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now when now when
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+EMOTIONS:AFFECTION                                               2
+    dear dear
+PRIMARY:NEED:ORALITY                                             2
+    fast fast
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    float float
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heavenly heavenly
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 6.250000 %
+
+156 words total

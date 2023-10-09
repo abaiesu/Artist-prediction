@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    somewhere between at between wide between between between between somewhere between where somewhere between between
+EMOTIONS:AGGRESSION                                              7
+    hate anger rage enemy war attack revenge
+EMOTIONS:GLORY                                                   5
+    rich extremes extremes extremes extremes
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say say say forgive
+EMOTIONS:AFFECTION                                               3
+    love friend like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    calm die death
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    awake dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    machine belong
+SECONDARY:ABSTRACTION                                            2
+    know different
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line lane
+EMOTIONS:ANXIETY                                                 2
+    afraid scared
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:NEED:SEX                                                 1
+    obscene
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pulse
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driven
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    boil
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    depth
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    swim
+
+PRIMARY             : 50.847458 %
+SECONDARY           : 16.949153 %
+EMOTIONS            : 32.203390 %
+
+246 words total

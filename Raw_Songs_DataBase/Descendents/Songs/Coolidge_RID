@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at over at where away off at at back behind closed back
+PRIMARY:SENSATION:VISION                                         9
+    look looked saw saw see see look looked saw
+SECONDARY:ABSTRACTION                                            6
+    thinking cause thought know almost thinking
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever week past now
+PRIMARY:SENSATION:COLD                                           2
+    cool cool
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told admit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall door
+EMOTIONS:AGGRESSION                                              2
+    enemy defeat
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolling
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    tossing
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+
+PRIMARY             : 66.000000 %
+SECONDARY           : 26.000000 %
+EMOTIONS            : 8.000000 %
+
+238 words total

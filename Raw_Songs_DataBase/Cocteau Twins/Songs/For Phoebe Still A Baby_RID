@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:VISION                                         8
+    seen shine shine seen shine shine shine shine
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out along along away out along along along
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    asked tell please say asked tell please
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time then time then now now now
+SECONDARY:ORDER                                                  7
+    listen listen listen listen listen listen listen
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 38.095238 %
+SECONDARY           : 54.761905 %
+EMOTIONS            : 7.142857 %
+
+159 words total

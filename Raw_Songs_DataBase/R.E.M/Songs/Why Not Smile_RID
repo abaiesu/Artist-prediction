@@ -1,0 +1,30 @@
+EMOTIONS:SADNESS                                                 4
+    sad sad sad sad
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    speak speak speak
+SECONDARY:ABSTRACTION                                            3
+    why why why
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile smile smile
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while while while
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+EMOTIONS:ANXIETY                                                 1
+    worry
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 40.000000 %
+
+82 words total

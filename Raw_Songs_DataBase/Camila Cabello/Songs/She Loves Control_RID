@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              19
+    lovers loves loves like like loves loves love loves loves loves loves loves loves loves loves loves loves loves
+SECONDARY:RESTRAINT                                             16
+    bar control control control control control control control control control control control control control control control
+SECONDARY:ABSTRACTION                                            6
+    cause know know cause know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here back back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won try won makes
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever ever ever
+PRIMARY:SENSATION:TASTE                                          3
+    taste taste taste
+EMOTIONS:AGGRESSION                                              2
+    kill kills
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:VISION                                         1
+    looking
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:NEED:SEX                                                 1
+    lusts
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 15.384615 %
+SECONDARY           : 49.230769 %
+EMOTIONS            : 35.384615 %
+
+296 words total

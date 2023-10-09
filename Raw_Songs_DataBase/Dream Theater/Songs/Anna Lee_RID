@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:ODOR                                           9
+    breathe breathe breathe breathe breathe breathe breathe breathe breathe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    trying belong trying belong trying belong
+SECONDARY:ABSTRACTION                                            6
+    believe know believe know believe know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where behind within where out where
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    helpless invite calling answer call
+PRIMARY:SENSATION:VISION                                         5
+    unseen scene lucid unseen unseen
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    wash wash rain wash
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands eyes skin
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every time now
+EMOTIONS:AGGRESSION                                              2
+    steal wounds
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:NEED:SEX                                                 1
+    shameless
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+
+PRIMARY             : 56.140351 %
+SECONDARY           : 35.087719 %
+EMOTIONS            : 8.771930 %
+
+260 words total

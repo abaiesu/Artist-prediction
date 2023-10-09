@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    close away at back close away at close away over over close away outside side side close away at
+EMOTIONS:AFFECTION                                              18
+    love love love love love like like love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when everything when when when when everything when when when when when while
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    face handed face face eyes eyes feet
+EMOTIONS:ANXIETY                                                 5
+    afraid afraid afraid afraid afraid
+SECONDARY:ABSTRACTION                                            4
+    learned know cause fact
+PRIMARY:SENSATION:VISION                                         4
+    light light look look
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say accept accept
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies lies lies
+EMOTIONS:AGGRESSION                                              3
+    break break break
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall falls
+PRIMARY:SENSATION:TOUCH                                          2
+    touches touches
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:RESTRAINT                                              1
+    locked
+
+PRIMARY             : 45.348837 %
+SECONDARY           : 24.418605 %
+EMOTIONS            : 30.232558 %
+
+334 words total

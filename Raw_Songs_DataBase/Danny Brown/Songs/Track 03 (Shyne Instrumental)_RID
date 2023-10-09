@@ -1,0 +1,48 @@
+PRIMARY:NEED:ORALITY                                            21
+    bread eat food eat food eat food eat food spit bacons brew liquor eat food eat food eat food eat food
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    reach sell occupation success counting money
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    inside where off off
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    street streets lines curb
+EMOTIONS:AFFECTION                                               4
+    like like like like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when daily daily
+SECONDARY:ABSTRACTION                                            3
+    learned cause purpose
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds ladder
+PRIMARY:SENSATION:SOUND                                          2
+    heard belly
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    chasing chasing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    chest kidney
+PRIMARY:SENSATION:VISION                                         1
+    light
+EMOTIONS:AGGRESSION                                              1
+    gun
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:NEED:SEX                                                 1
+    puberty
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    teaching
+SECONDARY:ORDER                                                  1
+    graduate
+SECONDARY:MORAL IMPERATIVE                                       1
+    honors
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    clowns
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 9.523810 %
+
+186 words total

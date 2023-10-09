@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out places at side
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then time time past
+SECONDARY:ABSTRACTION                                            3
+    cause reason cause
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game playthings
+PRIMARY:SENSATION:SOFT                                           2
+    soft whisper
+EMOTIONS:SADNESS                                                 2
+    sad lonesome
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweetness
+PRIMARY:SENSATION:SOUND                                          2
+    ears sound
+EMOTIONS:AGGRESSION                                              1
+    blame
+EMOTIONS:AFFECTION                                               1
+    kind
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talkin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    faces
+PRIMARY:SENSATION:VISION                                         1
+    seen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springtime
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 53.125000 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 18.750000 %
+
+158 words total

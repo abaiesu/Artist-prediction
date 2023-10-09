@@ -1,0 +1,18 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here at
+PRIMARY:SENSATION:VISION                                         1
+    light
+EMOTIONS:ANXIETY                                                 1
+    dread
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 71.428571 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 14.285714 %
+
+42 words total

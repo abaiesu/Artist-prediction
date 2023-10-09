@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    between where places between where
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    fantastic fantastic
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+PRIMARY:SENSATION:VISION                                         2
+    look look
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 29.629630 %
+EMOTIONS            : 14.814815 %
+
+113 words total

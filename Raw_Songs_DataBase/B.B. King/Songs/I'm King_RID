@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            8
+    know learn why know know know think reason
+EMOTIONS:AFFECTION                                               7
+    love loved loved loving lover lover lovin
+PRIMARY:SENSATION:VISION                                         5
+    seen blues sunshine blues blues
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    use use try trade use
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call tell
+EMOTIONS:POSITIVE AFFECT                                         2
+    jokin fun
+SECONDARY:TEMPORAL REFERENCES                                    1
+    everything
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:AGGRESSION                                              1
+    gun
+
+PRIMARY             : 21.212121 %
+SECONDARY           : 48.484848 %
+EMOTIONS            : 30.303030 %
+
+155 words total

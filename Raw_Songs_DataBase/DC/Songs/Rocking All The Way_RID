@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    out at at along away at out out back out out out out out out off out
+PRIMARY:SENSATION:HARD                                           5
+    rocking rockin rockin rockin rocking
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    says said said advice
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    play sights play play
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    mad mad mad
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won make pay
+EMOTIONS:ANXIETY                                                 2
+    trouble trouble
+PRIMARY:SENSATION:SOUND                                          2
+    humming hear
+EMOTIONS:AGGRESSION                                              2
+    shoot kick
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:NEED:SEX                                                 1
+    sexy
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+SECONDARY:RESTRAINT                                              1
+    stop
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 25.490196 %
+EMOTIONS            : 15.686275 %
+
+238 words total

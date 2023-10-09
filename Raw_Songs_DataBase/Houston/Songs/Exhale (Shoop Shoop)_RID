@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   19
+    everyone sometime sometimes sometimes every when when sometimes sometimes when when when often when sometimes sometimes when when when
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    say say tells say say say say say say answers tells say say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    point point place somewhere inside point
+EMOTIONS:AFFECTION                                               4
+    love friends familiar friends
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    win find find
+SECONDARY:ABSTRACTION                                            3
+    why know why
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh laugh
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 18.032787 %
+SECONDARY           : 67.213115 %
+EMOTIONS            : 14.754098 %
+
+325 words total

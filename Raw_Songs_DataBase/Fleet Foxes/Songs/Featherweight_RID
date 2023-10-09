@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    near distant long within back long within
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when year year past past
+EMOTIONS:AGGRESSION                                              6
+    war battleground war war hate hate
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won grasping sold
+SECONDARY:ABSTRACTION                                            2
+    may may
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    forgiven forgiven
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ORDER                                                  2
+    balance balance
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm warm
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    uncertain
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    rafters
+PRIMARY:SENSATION:HARD                                           1
+    copper
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 38.095238 %
+EMOTIONS            : 19.047619 %
+
+226 words total

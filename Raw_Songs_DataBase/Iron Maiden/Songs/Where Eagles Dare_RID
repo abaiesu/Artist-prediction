@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    outside near where long where closing near round away where where
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    sky sky high sky
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    fly fly climb fly
+EMOTIONS:GLORY                                                   4
+    eagles eagles eagles eagles
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make try make try
+PRIMARY:SENSATION:SOUND                                          3
+    rumbling sound echoing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    roar cries roaring
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    below deep valley
+PRIMARY:SENSATION:COLD                                           2
+    snowing snow
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drop fall
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:AGGRESSION                                              2
+    enemy guns
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    confident
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+EMOTIONS:ANXIETY                                                 1
+    panicking
+SECONDARY:ABSTRACTION                                            1
+    chose
+
+PRIMARY             : 60.784314 %
+SECONDARY           : 19.607843 %
+EMOTIONS            : 19.607843 %
+
+170 words total

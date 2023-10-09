@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    now now now when today today when today now week today year everybody today now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    away away away far behind away away far behind away here away close
+EMOTIONS:AFFECTION                                               8
+    lovin love like love love like love friends
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    please please said said said please say
+SECONDARY:ABSTRACTION                                            6
+    understand know know think think think
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    slip slip slippin slippin slippin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find try find try
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:SENSATION:VISION                                         2
+    see look
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+EMOTIONS:AGGRESSION                                              1
+    break
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 37.681159 %
+SECONDARY           : 49.275362 %
+EMOTIONS            : 13.043478 %
+
+494 words total

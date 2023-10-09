@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where over back where over back point where over back
+SECONDARY:ABSTRACTION                                            8
+    reason believe think know think guests predictions think
+SECONDARY:TEMPORAL REFERENCES                                    7
+    past now now now now early now
+PRIMARY:SENSATION:VISION                                         6
+    scan see see see looks see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face eyes hands eyes eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    roll shake roll spine roll
+EMOTIONS:AFFECTION                                               4
+    affection affection like affection
+SECONDARY:ORDER                                                  3
+    formation formation formation
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly fly fly
+SECONDARY:RESTRAINT                                              2
+    blocks blocks
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    invite suggest
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blast
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silences
+PRIMARY:SENSATION:SOFT                                           1
+    tingles
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 6.896552 %
+
+194 words total

@@ -1,0 +1,20 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    apart here
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything now
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+SECONDARY:ABSTRACTION                                            1
+    why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:AGGRESSION                                              1
+    break
+
+PRIMARY             : 22.222222 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 11.111111 %
+
+27 words total

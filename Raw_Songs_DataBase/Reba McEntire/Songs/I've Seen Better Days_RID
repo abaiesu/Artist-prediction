@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        10
+    shining green seen seen seen look seen seen seen seen
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everything everything when times when
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rain pouring rain pouring
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where out away
+EMOTIONS:AFFECTION                                               3
+    loving like loving
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms arms
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+EMOTIONS:AGGRESSION                                              1
+    hits
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+
+PRIMARY             : 67.647059 %
+SECONDARY           : 14.705882 %
+EMOTIONS            : 17.647059 %
+
+141 words total

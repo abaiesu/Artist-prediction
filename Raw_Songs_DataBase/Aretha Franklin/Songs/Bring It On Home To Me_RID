@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:TASTE                                          5
+    sweet sweet sweet sweet sweet
+EMOTIONS:AFFECTION                                               5
+    loving loving loving loving loving
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    behind out out at
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever when now
+SECONDARY:ABSTRACTION                                            3
+    know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money tried
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    buried buried
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treat forgive
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughed
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:NEED:ORALITY                                             1
+    honey
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 36.666667 %
+EMOTIONS            : 23.333333 %
+
+163 words total

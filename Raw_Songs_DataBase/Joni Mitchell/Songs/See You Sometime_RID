@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now sometime again sometime again then when sometime
+PRIMARY:SENSATION:VISION                                         8
+    view see looking see see sunshine see see
+SECONDARY:ABSTRACTION                                            8
+    why something know cause plane sure them sure
+EMOTIONS:AFFECTION                                               7
+    like friends like like kind like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where out
+PRIMARY:NEED:ORALITY                                             2
+    honey apple
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hang spring
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell meet
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+EMOTIONS:AGGRESSION                                              1
+    hurts
+EMOTIONS:GLORY                                                   1
+    fame
+PRIMARY:SENSATION:TASTE                                          1
+    tasted
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+PRIMARY:SENSATION:SOUND                                          1
+    heartlessly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headful
+
+PRIMARY             : 40.816327 %
+SECONDARY           : 40.816327 %
+EMOTIONS            : 18.367347 %
+
+217 words total

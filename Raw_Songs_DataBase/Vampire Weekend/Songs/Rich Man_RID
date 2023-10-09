@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    find spent win won make find
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when when
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    told says told
+EMOTIONS:GLORY                                                   3
+    rich gold rich
+EMOTIONS:POSITIVE AFFECT                                         2
+    satisfied satisfied
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    swing climb
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back behind
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    steps staircases
+EMOTIONS:AFFECTION                                               2
+    likely love
+SECONDARY:ABSTRACTION                                            2
+    possibly meant
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:RESTRAINT                                              1
+    compelled
+PRIMARY:SENSATION:VISION                                         1
+    gleam
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    odds
+
+PRIMARY             : 25.806452 %
+SECONDARY           : 51.612903 %
+EMOTIONS            : 22.580645 %
+
+219 words total

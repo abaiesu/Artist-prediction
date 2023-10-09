@@ -1,0 +1,50 @@
+EMOTIONS:ANXIETY                                                11
+    fear fear fear fear fear fear fear fear fear fear fear
+PRIMARY:SENSATION:SOUND                                          5
+    hear ring ear voices ear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off off at at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head feet knee
+EMOTIONS:AGGRESSION                                              3
+    shoot break disagree
+PRIMARY:SENSATION:SOFT                                           2
+    gentle gentleman
+SECONDARY:TEMPORAL REFERENCES                                    2
+    till now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance cry
+SECONDARY:ORDER                                                  2
+    listen listen
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won make
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speak
+PRIMARY:SENSATION:TASTE                                          1
+    sweetly
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    gutter
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:TOUCH                                          1
+    scratchy
+PRIMARY:NEED:ORALITY                                             1
+    eating
+EMOTIONS:SADNESS                                                 1
+    painful
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:ABSTRACTION                                            1
+    choice
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+
+PRIMARY             : 40.816327 %
+SECONDARY           : 20.408163 %
+EMOTIONS            : 38.775510 %
+
+168 words total

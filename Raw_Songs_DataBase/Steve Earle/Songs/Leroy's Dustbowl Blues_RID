@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away west place at along away out
+PRIMARY:SENSATION:VISION                                         6
+    blues lookin blue blues lights blues
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    coast line roadside
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    highway highway hungry
+EMOTIONS:AGGRESSION                                              2
+    broken beat
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time when
+SECONDARY:MORAL IMPERATIVE                                       1
+    honest
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headed
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rollin
+PRIMARY:SENSATION:SOUND                                          1
+    heartaches
+SECONDARY:RESTRAINT                                              1
+    police
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 73.529412 %
+SECONDARY           : 20.588235 %
+EMOTIONS            : 5.882353 %
+
+164 words total

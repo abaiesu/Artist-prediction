@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    open out open out where longer closet away open inside open
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    window lanes window window window
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  4
+    roll roll roll roll
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call say call said
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain rain rain
+PRIMARY:SENSATION:SOUND                                          3
+    heart ring echoes
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when old yesterday
+PRIMARY:SENSATION:HARD                                           2
+    harder hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travelers drive
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    countin pay
+SECONDARY:ABSTRACTION                                            2
+    know may
+PRIMARY:SENSATION:COLD                                           1
+    cooler
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyed
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:VISION                                         1
+    blues
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 68.627451 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 7.843137 %
+
+218 words total

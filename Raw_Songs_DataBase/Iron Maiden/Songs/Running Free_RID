@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out out here out at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pickup money spent
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+EMOTIONS:AGGRESSION                                              1
+    hit
+SECONDARY:RESTRAINT                                              1
+    jail
+SECONDARY:ORDER                                                  1
+    listened
+EMOTIONS:SADNESS                                                 1
+    wail
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:NEED:ORALITY                                             1
+    whiskey
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 15.789474 %
+
+240 words total

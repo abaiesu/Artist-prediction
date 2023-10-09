@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where inside between between inside between inside between
+EMOTIONS:AGGRESSION                                              4
+    broken mockery anger hatred
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    walls walls walls walls
+EMOTIONS:SADNESS                                                 4
+    sorrow misery depression sadness
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    bones bones bones
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams madness
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death safety
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughter joy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    arise
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    nameless
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:NEED:ANALITY                                             1
+    rotten
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ancient
+EMOTIONS:GLORY                                                   1
+    glory
+SECONDARY:RESTRAINT                                              1
+    confined
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    burial
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shelter
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:SENSATION:SOUND                                          1
+    echoes
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:MORAL IMPERATIVE                                       1
+    justice
+
+PRIMARY             : 62.222222 %
+SECONDARY           : 11.111111 %
+EMOTIONS            : 26.666667 %
+
+163 words total

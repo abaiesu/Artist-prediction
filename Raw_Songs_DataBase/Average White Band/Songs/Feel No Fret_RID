@@ -1,0 +1,34 @@
+EMOTIONS:SADNESS                                                14
+    sad loneliness weeping wailing groaning weeping weeping wailing moaning groaning weeping wailing moaning groaning
+EMOTIONS:ANXIETY                                                11
+    fret fret fret fret fret fret fret fret fret fret fret
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time time then soon then soon time then soon
+EMOTIONS:AFFECTION                                               6
+    friend friend friend friend friend friend
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes handle head
+PRIMARY:SENSATION:VISION                                         2
+    look see
+SECONDARY:ABSTRACTION                                            2
+    know why
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    occupy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+
+PRIMARY             : 19.642857 %
+SECONDARY           : 23.214286 %
+EMOTIONS            : 57.142857 %
+
+183 words total

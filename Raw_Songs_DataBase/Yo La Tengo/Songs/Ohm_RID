@@ -1,0 +1,42 @@
+SECONDARY:RESTRAINT                                             25
+    resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting resisting
+SECONDARY:TEMPORAL REFERENCES                                   15
+    sometimes sometimes sometimes sometimes today ever time time once ever time time ever time time
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    explained say calling explained say explained say
+SECONDARY:ABSTRACTION                                            7
+    cause know thought cause know cause know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out longer far away away longer
+PRIMARY:SENSATION:SOUND                                          4
+    hearts heard heard voice
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try make tried
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    top higher
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slipping slipping
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:AGGRESSION                                              1
+    hurts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 25.609756 %
+SECONDARY           : 70.731707 %
+EMOTIONS            : 3.658537 %
+
+297 words total

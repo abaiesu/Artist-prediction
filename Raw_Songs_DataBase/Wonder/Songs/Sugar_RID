@@ -1,0 +1,26 @@
+PRIMARY:NEED:ORALITY                                            20
+    sugar sugar sugar sugar sugar sugar sugar sugar cooking sugar supper sugar sugar sugar sugar sugar sugar sugar sugar sugar
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time every time time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play play play
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money find
+EMOTIONS:AFFECTION                                               2
+    loving loving
+SECONDARY:ABSTRACTION                                            1
+    thinking
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    places
+EMOTIONS:AGGRESSION                                              1
+    cannon
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 63.888889 %
+SECONDARY           : 19.444444 %
+EMOTIONS            : 16.666667 %
+
+161 words total

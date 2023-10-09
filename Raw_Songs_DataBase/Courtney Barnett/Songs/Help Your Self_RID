@@ -1,0 +1,40 @@
+SECONDARY:ABSTRACTION                                           10
+    learn something learn learn know true learn learn know true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    where place place out back surrounds place place
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    depends says please help tell
+SECONDARY:TEMPORAL REFERENCES                                    3
+    momentary time time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    hungry hungry hungry
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    creek swim
+PRIMARY:SENSATION:VISION                                         2
+    watch sunshine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found won
+PRIMARY:SENSATION:ODOR                                           2
+    breath breath
+PRIMARY:NEED:ORALITY                                             2
+    swallow swallow
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jump
+PRIMARY:SENSATION:COLD                                           1
+    northeast
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+
+PRIMARY             : 52.173913 %
+SECONDARY           : 45.652174 %
+EMOTIONS            : 2.173913 %
+
+179 words total

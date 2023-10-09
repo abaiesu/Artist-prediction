@@ -1,0 +1,32 @@
+SECONDARY:MORAL IMPERATIVE                                       4
+    right right right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    across space away
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say told say
+SECONDARY:TEMPORAL REFERENCES                                    3
+    month tonight while
+PRIMARY:SENSATION:VISION                                         3
+    ray blue ray
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trek
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flyers
+SECONDARY:RESTRAINT                                              1
+    police
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screams
+
+PRIMARY             : 45.833333 %
+SECONDARY           : 45.833333 %
+EMOTIONS            : 8.333333 %
+
+91 words total

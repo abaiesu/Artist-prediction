@@ -1,0 +1,26 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                       18
+    slow slow slow slow slow slow slow slow slow slow slow slow slow slow slow slow slow slow
+SECONDARY:TEMPORAL REFERENCES                                   16
+    when now minute time minute time minute time time minute time minute time time minute time
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    line line line line line line line line
+EMOTIONS:AFFECTION                                               4
+    like like love like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 58.490566 %
+SECONDARY           : 33.962264 %
+EMOTIONS            : 7.547170 %
+
+316 words total

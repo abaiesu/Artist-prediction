@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    long long long away back long long long long
+SECONDARY:TEMPORAL REFERENCES                                    5
+    till then when now time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    called called call called
+PRIMARY:NEED:SEX                                                 2
+    kiss kissed
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    woke dreams
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 60.714286 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 3.571429 %
+
+113 words total

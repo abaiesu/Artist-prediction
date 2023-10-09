@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out away out here inside behind out away
+SECONDARY:ABSTRACTION                                            7
+    think think know them think think know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    price pay prepare find prepare price pay
+PRIMARY:SENSATION:VISION                                         6
+    notice see light light notice see
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today daily time everything today daily
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say congratulate say
+SECONDARY:ORDER                                                  2
+    simply simply
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slips slips
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    lines step
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 44.897959 %
+SECONDARY           : 53.061224 %
+EMOTIONS            : 2.040816 %
+
+199 words total

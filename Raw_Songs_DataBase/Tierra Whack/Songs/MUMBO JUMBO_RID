@@ -1,0 +1,36 @@
+SECONDARY:ABSTRACTION                                            9
+    true true know why true why know real know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away away away away away
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  5
+    wave wave wave wave wave
+EMOTIONS:AFFECTION                                               4
+    love love goodbye goodbye
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head hands
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+EMOTIONS:AGGRESSION                                              1
+    hate
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 36.111111 %
+EMOTIONS            : 13.888889 %
+
+118 words total

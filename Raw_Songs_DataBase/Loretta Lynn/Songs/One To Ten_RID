@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    date again date again again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart back away back
+EMOTIONS:AFFECTION                                               4
+    goodbye darling goodbye goodbye
+PRIMARY:NEED:SEX                                                 3
+    kiss kiss kiss
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 42.307692 %
+EMOTIONS            : 19.230769 %
+
+211 words total

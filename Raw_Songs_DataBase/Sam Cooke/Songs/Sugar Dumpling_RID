@@ -1,0 +1,36 @@
+PRIMARY:NEED:ORALITY                                            15
+    sugar sugar sugar sugar sugar sugar sugar eat dinner meat coffee coffee sugar sugar sugar
+SECONDARY:TEMPORAL REFERENCES                                   14
+    every every every every now while whenever every every now whenever whenever every every
+EMOTIONS:AFFECTION                                               9
+    love love love love love love kinds love love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    grows grows grows hungry grows
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell call tell call say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away at over beside
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand head hand
+SECONDARY:ABSTRACTION                                            3
+    something different cause
+PRIMARY:SENSATION:TOUCH                                          2
+    rub rub
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    hires
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+
+PRIMARY             : 48.484848 %
+SECONDARY           : 37.878788 %
+EMOTIONS            : 13.636364 %
+
+249 words total

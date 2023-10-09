@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+SECONDARY:ABSTRACTION                                            3
+    decided decided decided
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep sleep
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm warm
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    toss toss
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+EMOTIONS:ANXIETY                                                 2
+    fright fright
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistake mistake
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find make
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    apologize
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 23.076923 %
+
+171 words total

@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    time time time time once now time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used tried tried cost
+EMOTIONS:AGGRESSION                                              2
+    break angry
+SECONDARY:ABSTRACTION                                            2
+    knows understanding
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    here out
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treated please
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees blood
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    tall tree
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    water fountain
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 46.875000 %
+EMOTIONS            : 15.625000 %
+
+180 words total

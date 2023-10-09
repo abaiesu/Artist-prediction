@@ -1,0 +1,24 @@
+EMOTIONS:AGGRESSION                                              3
+    cut hurt hurt
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out inside inside
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand hand hands
+SECONDARY:TEMPORAL REFERENCES                                    2
+    past past
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+SECONDARY:ABSTRACTION                                            1
+    think
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+
+PRIMARY             : 43.750000 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 25.000000 %
+
+75 words total

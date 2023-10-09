@@ -1,0 +1,20 @@
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+PRIMARY:NEED:ORALITY                                             2
+    corn corn
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    plow
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    deserted
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 11.111111 %
+
+65 words total

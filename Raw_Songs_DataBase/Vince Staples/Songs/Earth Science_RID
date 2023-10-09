@@ -1,0 +1,50 @@
+SECONDARY:SOCIAL BEHAVIOR                                       19
+    say calls said said said said told told meeting ask call said told help called told talk speak told
+SECONDARY:TEMPORAL REFERENCES                                   16
+    moment time again when time everyday week every when when time when ever when today when
+SECONDARY:ABSTRACTION                                           13
+    guess understand thinking something why know know think understanding think real plan think
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    over place forwarding here out at back at back away
+EMOTIONS:AFFECTION                                               8
+    familiar like appreciate love love love love friend
+PRIMARY:SENSATION:VISION                                         7
+    look see see seen see look see
+EMOTIONS:AGGRESSION                                              5
+    shovels anger hurt killed beats
+SECONDARY:MORAL IMPERATIVE                                       5
+    should right right right should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make student make try
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes face eyes
+EMOTIONS:POSITIVE AFFECT                                         3
+    glad glad joy
+PRIMARY:NEED:SEX                                                 2
+    bitches fuck
+EMOTIONS:SADNESS                                                 2
+    sorry pain
+PRIMARY:SENSATION:SOUND                                          2
+    voice tone
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:SENSATION:HARD                                           1
+    steel
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 29.906542 %
+SECONDARY           : 53.271028 %
+EMOTIONS            : 16.822430 %
+
+457 words total

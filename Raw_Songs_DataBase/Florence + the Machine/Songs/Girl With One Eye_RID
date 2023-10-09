@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         13
+    eye eye eye eye eye hand eye eye eye eye eye eye eye
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    open out open out out open out out out out out out
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    told told said said said said said said said said said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    price pay price pay price pay
+EMOTIONS:AGGRESSION                                              6
+    knife cut cut hurt cut cut
+PRIMARY:NEED:ANALITY                                             6
+    filthy dirt filthy filthy filthy filthy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    cry cry cry cry cry cry
+SECONDARY:ABSTRACTION                                            5
+    why cause why cause cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleeps sleeps sleep
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    relax die
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slip slipped
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:RESTRAINT                                              1
+    stopped
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:SENSATION:VISION                                         1
+    watched
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:ANXIETY                                                 1
+    worry
+EMOTIONS:AFFECTION                                               1
+    kinda
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouded
+
+PRIMARY             : 54.117647 %
+SECONDARY           : 28.235294 %
+EMOTIONS            : 17.647059 %
+
+275 words total

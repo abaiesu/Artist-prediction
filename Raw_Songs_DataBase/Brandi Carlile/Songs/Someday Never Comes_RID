@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    place where out away here outside place away here
+SECONDARY:TEMPORAL REFERENCES                                    6
+    past when old when when then
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said tell thank said tell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hair hand hand face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found built built
+PRIMARY:SENSATION:VISION                                         3
+    gray see see
+SECONDARY:ABSTRACTION                                            3
+    reason different reason
+EMOTIONS:AFFECTION                                               2
+    dear love
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 42.500000 %
+EMOTIONS            : 7.500000 %
+
+164 words total

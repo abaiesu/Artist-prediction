@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here over out over out
+SECONDARY:ABSTRACTION                                            4
+    think why knew think
+SECONDARY:TEMPORAL REFERENCES                                    2
+    times when
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:SENSATION:VISION                                         1
+    blue
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 45.000000 %
+EMOTIONS            : 15.000000 %
+
+99 words total

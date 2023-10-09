@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      16
+    road road road road walls road road road road road road road road road road road
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    met met said told met met said forgive met met met met
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyes head head hands bloody face arms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over back over along
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won burden found
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    traveled
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:AGGRESSION                                              1
+    battle
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shook
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:SADNESS                                                 1
+    orphan
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 5.357143 %
+
+280 words total

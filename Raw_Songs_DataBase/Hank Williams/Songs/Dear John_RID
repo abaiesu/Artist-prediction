@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when now again now old ever now again now
+EMOTIONS:AFFECTION                                               7
+    dear dear goodbye dear dear dear dear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make won try won try won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back along along forward along along
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said address say said said
+SECONDARY:ABSTRACTION                                            3
+    cause know know
+PRIMARY:SENSATION:SOUND                                          2
+    belly belly
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:NEED:ORALITY                                             1
+    coffee
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:POSITIVE AFFECT                                         1
+    grin
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 32.653061 %
+SECONDARY           : 46.938776 %
+EMOTIONS            : 20.408163 %
+
+271 words total

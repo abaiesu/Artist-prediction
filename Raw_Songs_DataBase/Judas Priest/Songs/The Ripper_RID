@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    back at back near back where where at back
+EMOTIONS:AGGRESSION                                              7
+    attack ripper ripper knife ripper ripper ripper
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when when soon
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets wall street
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+SECONDARY:ABSTRACTION                                            3
+    knowing except probably
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fog shadows
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile laugh
+EMOTIONS:ANXIETY                                                 2
+    fear fright
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+PRIMARY:NEED:SEX                                                 1
+    shameless
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    nameless
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:SENSATION:VISION                                         1
+    lamp
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    damp
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    footstep
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+
+PRIMARY             : 52.083333 %
+SECONDARY           : 20.833333 %
+EMOTIONS            : 27.083333 %
+
+165 words total

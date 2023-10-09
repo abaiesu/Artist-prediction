@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    off off off off out out off off off off off off off off off out out off off off off off out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 18
+    sold work work paid work picked money copy sold work paid work collect work sold work work paid
+EMOTIONS:AGGRESSION                                             16
+    cut cut cut cut cut shooter hit cut cut cut cut threat cut cut cut cut
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    road curb streets doors road curb streets road curb streets
+SECONDARY:TEMPORAL REFERENCES                                   10
+    already clock whenever already clock whenever every already clock whenever
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    calls tell callin said calls say calls
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    top roof top top top
+SECONDARY:ABSTRACTION                                            5
+    meant cause meant cause meant
+SECONDARY:RESTRAINT                                              4
+    block lock block block
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    bucket wash
+EMOTIONS:ANXIETY                                                 2
+    scared scared
+PRIMARY:SENSATION:SOUND                                          2
+    buzz heard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    neck thumbs
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+EMOTIONS:GLORY                                                   1
+    riches
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:NEED:ORALITY                                             1
+    banana
+
+PRIMARY             : 41.935484 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 22.580645 %
+
+501 words total

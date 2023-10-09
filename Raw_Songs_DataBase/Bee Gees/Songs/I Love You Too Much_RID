@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    where over where where back over where where outside where here over where where closer closer closer closer closer
+EMOTIONS:AFFECTION                                              12
+    love love loving loving love love loving loving lover love loving loving
+SECONDARY:MORAL IMPERATIVE                                       8
+    should should should right should should should should
+SECONDARY:ABSTRACTION                                            6
+    know know think real know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when ever when weekend hour
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed die lie
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eyes blood
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             3
+    strangers mystery stranger
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under under under
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hunger
+PRIMARY:SENSATION:VISION                                         1
+    imagination
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 51.388889 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 19.444444 %
+
+372 words total

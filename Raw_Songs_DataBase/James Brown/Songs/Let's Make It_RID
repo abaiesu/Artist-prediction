@@ -1,0 +1,26 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    pay make pay make pay make make
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say tell tell tell
+SECONDARY:ABSTRACTION                                            5
+    know know know know know
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    pretty pretty pretty pretty
+PRIMARY:NEED:ORALITY                                             3
+    bread honey honey
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every today every
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    knees knees
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+
+PRIMARY             : 31.250000 %
+SECONDARY           : 68.750000 %
+EMOTIONS            : 0.000000 %
+
+207 words total

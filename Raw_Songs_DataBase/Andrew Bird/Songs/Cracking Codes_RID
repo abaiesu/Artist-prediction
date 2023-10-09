@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            9
+    may know true true true know true true cause
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    speak say say say say
+PRIMARY:SENSATION:SOUND                                          5
+    sounds music ears ears ears
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at between long
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every times when
+PRIMARY:SENSATION:VISION                                         2
+    look spies
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play sung
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:NEED:ORALITY                                             1
+    tongues
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lines
+PRIMARY:SENSATION:TASTE                                          1
+    savor
+
+PRIMARY             : 45.714286 %
+SECONDARY           : 48.571429 %
+EMOTIONS            : 5.714286 %
+
+126 words total

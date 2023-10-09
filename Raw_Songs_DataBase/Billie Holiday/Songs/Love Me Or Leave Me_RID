@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              12
+    love love love love love love love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time time time time today time time time time today
+EMOTIONS:SADNESS                                                 4
+    lonely lonely lonely lonely
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won find won find
+SECONDARY:ABSTRACTION                                            2
+    believe believe
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:NEED:SEX                                                 2
+    kissin kissin
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    borrow borrow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+
+PRIMARY             : 13.636364 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 40.909091 %
+
+206 words total

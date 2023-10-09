@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    out here out here out here out here here here here here out here out here
+PRIMARY:ICARIAN IMAGERY:WATER                                   12
+    rain rain rain rain rain rain rain rain rain rain rain rain
+SECONDARY:RESTRAINT                                              4
+    stop stop stop stop
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything time time
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:SADNESS                                                 2
+    pain pain
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    help help
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mister
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    working
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    guitar
+
+PRIMARY             : 69.811321 %
+SECONDARY           : 24.528302 %
+EMOTIONS            : 5.660377 %
+
+268 words total

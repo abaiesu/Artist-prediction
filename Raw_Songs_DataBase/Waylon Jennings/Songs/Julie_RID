@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when everyone everything while then time now again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    built money possessions money buy try
+EMOTIONS:AFFECTION                                               5
+    married love liked love love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    answer told say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at out out
+EMOTIONS:AGGRESSION                                              3
+    break hurt tormented
+SECONDARY:RESTRAINT                                              3
+    control locked control
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream insane
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hands
+EMOTIONS:GLORY                                                   2
+    empire gold
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:ORALITY                                             1
+    drinking
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+PRIMARY:SENSATION:COLD                                           1
+    child
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:ABSTRACTION                                            1
+    guess
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 29.787234 %
+SECONDARY           : 44.680851 %
+EMOTIONS            : 25.531915 %
+
+193 words total

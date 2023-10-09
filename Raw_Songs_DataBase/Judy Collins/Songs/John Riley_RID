@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              12
+    marry kind marry love love love married love love married love love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said answer reply said said
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    sea sea sea sea
+EMOTIONS:AGGRESSION                                              4
+    battle slain battle slain
+SECONDARY:ABSTRACTION                                            4
+    true them true true
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where across long long
+SECONDARY:TEMPORAL REFERENCES                                    3
+    years then when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found picked
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    fair fair
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    riding sails
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:NEED:ORALITY                                             2
+    salt salt
+EMOTIONS:SADNESS                                                 2
+    weep weep
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:NEED:SEX                                                 1
+    kisses
+
+PRIMARY             : 37.037037 %
+SECONDARY           : 27.777778 %
+EMOTIONS            : 35.185185 %
+
+203 words total

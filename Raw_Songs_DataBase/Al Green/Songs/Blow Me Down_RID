@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    old time everyone old old again again again
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said say say say
+SECONDARY:ABSTRACTION                                            3
+    problems real ideally
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+EMOTIONS:GLORY                                                   2
+    eagle heroes
+SECONDARY:RESTRAINT                                              1
+    catchin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headache
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:MORAL IMPERATIVE                                       1
+    legal
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AGGRESSION                                              1
+    strife
+PRIMARY:SENSATION:VISION                                         1
+    halos
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 13.793103 %
+SECONDARY           : 62.068966 %
+EMOTIONS            : 24.137931 %
+
+214 words total

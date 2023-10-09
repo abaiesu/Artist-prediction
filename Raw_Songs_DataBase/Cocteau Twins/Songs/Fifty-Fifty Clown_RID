@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyes brain
+SECONDARY:TEMPORAL REFERENCES                                    3
+    seasons again again
+PRIMARY:SENSATION:VISION                                         3
+    light light light
+EMOTIONS:SADNESS                                                 2
+    lone lone
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow shadow
+EMOTIONS:AGGRESSION                                              2
+    angry despise
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    ahead ahead
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleased call
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safe safe
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+SECONDARY:ABSTRACTION                                            1
+    true
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 51.724138 %
+SECONDARY           : 24.137931 %
+EMOTIONS            : 24.137931 %
+
+158 words total

@@ -1,0 +1,16 @@
+EMOTIONS:AFFECTION                                               2
+    loves loves
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:ABSTRACTION                                            1
+    why
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 42.857143 %
+
+40 words total

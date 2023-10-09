@@ -1,0 +1,30 @@
+EMOTIONS:AFFECTION                                               4
+    love love love kind
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call say admit please
+SECONDARY:ABSTRACTION                                            3
+    thought thought thinking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over over over
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill happy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won make
+PRIMARY:SENSATION:SOFT                                           2
+    gentle gentle
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 23.076923 %
+
+84 words total

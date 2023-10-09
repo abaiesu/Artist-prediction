@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:SOUND                                          4
+    hummingbird hummingbird hummingbird heard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+PRIMARY:NEED:ORALITY                                             2
+    cornucopia olive
+EMOTIONS:GLORY                                                   2
+    golden crown
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside at
+SECONDARY:ABSTRACTION                                            2
+    believe believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    try market
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:SENSATION:SOFT                                           1
+    fleecy
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dive
+EMOTIONS:AGGRESSION                                              1
+    broken
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:SENSATION:VISION                                         1
+    light
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hillside
+
+PRIMARY             : 55.555556 %
+SECONDARY           : 18.518519 %
+EMOTIONS            : 25.925926 %
+
+97 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    head hands head hands body body hand arm
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    place where
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sings sings
+SECONDARY:ABSTRACTION                                            2
+    choice choice
+PRIMARY:SENSATION:VISION                                         2
+    see shining
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spindle reel
+EMOTIONS:AGGRESSION                                              1
+    kill
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    descend
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:SENSATION:HARD                                           1
+    steel
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+
+PRIMARY             : 68.965517 %
+SECONDARY           : 17.241379 %
+EMOTIONS            : 13.793103 %
+
+139 words total

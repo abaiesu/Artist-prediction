@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when when time time now quick then now when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long place surround place surround
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    branches trees grow branches trees
+SECONDARY:MORAL IMPERATIVE                                       3
+    should right right
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    unknown unknown
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hang hang
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    lower lower
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    bridge
+
+PRIMARY             : 55.882353 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 2.941176 %
+
+119 words total

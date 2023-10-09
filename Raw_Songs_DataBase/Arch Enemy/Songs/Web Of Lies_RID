@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away at circles pointless far at
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    lies dying lies lies dying
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    game play game game play
+EMOTIONS:ANXIETY                                                 3
+    dangerous dangerous dangerous
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+PRIMARY:NEED:ANALITY                                             2
+    rotting rotting
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    share shared
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    cost cost
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+EMOTIONS:AGGRESSION                                              1
+    deceit
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:NEED:ORALITY                                             1
+    eating
+SECONDARY:RESTRAINT                                              1
+    refuse
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 26.315789 %
+
+117 words total

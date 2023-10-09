@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    often every when when when often every often every when when when
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell confirmation help treat tell confirmation tell confirmation help treat
+EMOTIONS:AFFECTION                                              10
+    love love love friend love friend love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away back straighten out straighten out away away back
+SECONDARY:ABSTRACTION                                            5
+    know know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find carry find carry
+PRIMARY:SENSATION:TASTE                                          3
+    sweet sweet sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    fade fade fade
+SECONDARY:RESTRAINT                                              2
+    catch catch
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling falling
+PRIMARY:SENSATION:VISION                                         2
+    blue blue
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:SENSATION:SOFT                                           2
+    gently gently
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    roam roam
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 47.142857 %
+EMOTIONS            : 17.142857 %
+
+263 words total

@@ -1,0 +1,36 @@
+PRIMARY:NEED:ORALITY                                            35
+    honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey honey
+SECONDARY:ABSTRACTION                                            7
+    know know know know know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    nearly place where place where nearly
+EMOTIONS:AFFECTION                                               5
+    love like like like love
+PRIMARY:SENSATION:VISION                                         5
+    see look star look star
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    machine make machine make
+EMOTIONS:POSITIVE AFFECT                                         3
+    thrill thrill thrill
+EMOTIONS:AGGRESSION                                              3
+    kill hurt kill
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard heard
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now when now
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing cry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 65.853659 %
+SECONDARY           : 18.292683 %
+EMOTIONS            : 15.853659 %
+
+305 words total

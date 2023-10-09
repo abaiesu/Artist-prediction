@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                       12
+    call ask ask tell call call tell say say help say say
+SECONDARY:ABSTRACTION                                           12
+    believe believe know believe believe difference believe sure believe believe difference believe
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when when when when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    floorboard street sidewalk channel
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    trying reach make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    over out where close
+SECONDARY:ORDER                                                  4
+    listen listen listen listen
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand hand eyes
+PRIMARY:SENSATION:VISION                                         3
+    watching flashing pictures
+EMOTIONS:AFFECTION                                               3
+    kind love love
+PRIMARY:SENSATION:COLD                                           2
+    cold child
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 30.000000 %
+SECONDARY           : 63.333333 %
+EMOTIONS            : 6.666667 %
+
+326 words total

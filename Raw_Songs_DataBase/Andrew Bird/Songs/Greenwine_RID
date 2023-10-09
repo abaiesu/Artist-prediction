@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    over out away where out at across back out
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair blood eyes
+PRIMARY:NEED:ORALITY                                             3
+    teeth drink drink
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor floor
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burned sun
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    bottom bottom
+PRIMARY:SENSATION:HARD                                           2
+    glass glass
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway sky
+PRIMARY:SENSATION:VISION                                         2
+    stars shining
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+SECONDARY:RESTRAINT                                              1
+    stopped
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+EMOTIONS:AGGRESSION                                              1
+    shot
+SECONDARY:ABSTRACTION                                            1
+    thought
+EMOTIONS:SADNESS                                                 1
+    sad
+
+PRIMARY             : 70.454545 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 4.545455 %
+
+176 words total

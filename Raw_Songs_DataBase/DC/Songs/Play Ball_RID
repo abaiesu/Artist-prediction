@@ -1,0 +1,40 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    19
+    play play play play play shout play play play play play play play play play play play play play
+EMOTIONS:AGGRESSION                                              5
+    hit shootin shooting hit shooting
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    round off out here
+SECONDARY:ORDER                                                  3
+    listen listen listen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    walls walls walls
+PRIMARY:NEED:ANALITY                                             3
+    stalls stalls stalls
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pour swim
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time when
+PRIMARY:NEED:ORALITY                                             2
+    drinks gin
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:RESTRAINT                                              1
+    leash
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unbound
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dive
+PRIMARY:SENSATION:SOUND                                          1
+    loud
+
+PRIMARY             : 36.538462 %
+SECONDARY           : 17.307692 %
+EMOTIONS            : 46.153846 %
+
+171 words total

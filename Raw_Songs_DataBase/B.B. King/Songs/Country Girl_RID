@@ -1,0 +1,34 @@
+EMOTIONS:POSITIVE AFFECT                                         9
+    glad glad glad glad glad glad glad glad glad
+SECONDARY:ABSTRACTION                                            8
+    know know know know plane plane know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back back at back at
+PRIMARY:NEED:ORALITY                                             4
+    lunch dinner lunch dinner
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time everything ever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door door floor door
+PRIMARY:SENSATION:VISION                                         3
+    seen seen see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find won won
+EMOTIONS:AGGRESSION                                              2
+    breakfast breakfast
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:ANXIETY                                                 2
+    worry worry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flew
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 36.734694 %
+SECONDARY           : 36.734694 %
+EMOTIONS            : 26.530612 %
+
+242 words total

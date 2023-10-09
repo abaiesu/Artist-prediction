@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            6
+    know true know know know why
+PRIMARY:NEED:ORALITY                                             5
+    candy cream cream eat candy
+EMOTIONS:AFFECTION                                               5
+    like like love like like
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talk please please please please
+PRIMARY:SENSATION:VISION                                         4
+    see shining bright see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    sun sun sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    buy try buy
+PRIMARY:SENSATION:COLD                                           3
+    ice ice child
+SECONDARY:TEMPORAL REFERENCES                                    2
+    tonight soon
+PRIMARY:SENSATION:TASTE                                          2
+    taste taste
+PRIMARY:NEED:SEX                                                 1
+    fuck
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 38.636364 %
+EMOTIONS            : 11.363636 %
+
+132 words total

@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                       14
+    call followers followers call meeting tell meeting call followers call meeting tell meeting tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at out out central at out central at at
+SECONDARY:ABSTRACTION                                            8
+    something know something know idea something know know
+SECONDARY:RESTRAINT                                              5
+    control control cages cages control
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            4
+    wild chaos chaos chaos
+SECONDARY:TEMPORAL REFERENCES                                    4
+    early then when time
+SECONDARY:MORAL IMPERATIVE                                       4
+    honor honor honor honor
+PRIMARY:SENSATION:VISION                                         3
+    green green greens
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying trying try
+SECONDARY:ORDER                                                  2
+    simple simple
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under under
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll roll
+EMOTIONS:AGGRESSION                                              1
+    disturbance
+EMOTIONS:GLORY                                                   1
+    heron
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 34.375000 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 3.125000 %
+
+189 words total

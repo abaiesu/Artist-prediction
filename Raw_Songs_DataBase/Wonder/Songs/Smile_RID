@@ -1,0 +1,36 @@
+EMOTIONS:POSITIVE AFFECT                                         9
+    smile smile smile smile gladness smile smile smile smile
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    trying use find trying use find
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when every ever time time
+PRIMARY:SENSATION:VISION                                         3
+    see shining light
+EMOTIONS:SADNESS                                                 2
+    sorrow sadness
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    breaking
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:ABSTRACTION                                            1
+    may
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    near
+
+PRIMARY             : 25.000000 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 36.111111 %
+
+120 words total

@@ -1,0 +1,40 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                    12
+    sun sun sun sun sun sun sun sun sun sun sun sun
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when now moment then now ever ever ever again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    over across at close back place where further away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    buildings used won try won
+PRIMARY:SENSATION:VISION                                         5
+    looking see looks light light
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cries cry cry cry
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lay dead bed
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face body
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call say
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    comfort
+PRIMARY:NEED:SEX                                                 1
+    naked
+PRIMARY:NEED:ORALITY                                             1
+    lips
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+
+PRIMARY             : 60.655738 %
+SECONDARY           : 31.147541 %
+EMOTIONS            : 8.196721 %
+
+276 words total

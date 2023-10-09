@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:SOUND                                         14
+    bells ringing ringing bell ring bells ringing hear bells ring bells ringing bells ring
+PRIMARY:SENSATION:VISION                                         4
+    see see looks see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out place out at
+SECONDARY:ABSTRACTION                                            4
+    planned thought truly knew
+EMOTIONS:POSITIVE AFFECT                                         3
+    happy laughing glee
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now while ever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head hair organ
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    invitation please
+EMOTIONS:AFFECTION                                               2
+    dear love
+PRIMARY:SENSATION:COLD                                           2
+    cold children
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    aisle
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    valley
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    bought
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    plays
+
+PRIMARY             : 62.000000 %
+SECONDARY           : 22.000000 %
+EMOTIONS            : 16.000000 %
+
+203 words total

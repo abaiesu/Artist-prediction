@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out out at center at center
+SECONDARY:ABSTRACTION                                            6
+    think something thought understood think something
+PRIMARY:SENSATION:VISION                                         6
+    look watching see look watching see
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said say said say
+PRIMARY:SENSATION:SOUND                                          2
+    heard heard
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:RESTRAINT                                              2
+    stop stop
+PRIMARY:SENSATION:ODOR                                           2
+    breathing breathing
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 45.714286 %
+SECONDARY           : 48.571429 %
+EMOTIONS            : 5.714286 %
+
+156 words total

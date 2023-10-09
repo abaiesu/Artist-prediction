@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes body brow face brow
+SECONDARY:TEMPORAL REFERENCES                                    3
+    minute then when
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        3
+    forever lifetime lifetime
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at space at
+EMOTIONS:AFFECTION                                               2
+    loved loved
+EMOTIONS:AGGRESSION                                              1
+    steal
+PRIMARY:SENSATION:ODOR                                           1
+    breaths
+PRIMARY:SENSATION:VISION                                         1
+    seen
+EMOTIONS:SADNESS                                                 1
+    painted
+PRIMARY:NEED:ORALITY                                             1
+    corner
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 19.047619 %
+
+167 words total

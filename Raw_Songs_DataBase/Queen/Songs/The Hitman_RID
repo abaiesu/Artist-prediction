@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here aside east west back away
+EMOTIONS:AFFECTION                                               5
+    love love love love love
+EMOTIONS:AGGRESSION                                              4
+    kill gun struggle cut
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+EMOTIONS:ANXIETY                                                 2
+    trouble trouble
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:NEED:ORALITY                                             1
+    sucker
+SECONDARY:ABSTRACTION                                            1
+    knows
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+PRIMARY:SENSATION:COLD                                           1
+    cool
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:SENSATION:TOUCH                                          1
+    sting
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 23.333333 %
+EMOTIONS            : 43.333333 %
+
+227 words total

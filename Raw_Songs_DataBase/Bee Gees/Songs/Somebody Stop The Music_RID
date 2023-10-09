@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              10
+    love love love love love love love love love love
+SECONDARY:RESTRAINT                                              8
+    stop stop stop stop stop stop stop stop
+PRIMARY:SENSATION:SOUND                                          8
+    music tune music tune music tune music tune
+EMOTIONS:GLORY                                                   4
+    crown crown crown crown
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    clown clown clown clown
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    arise arose
+PRIMARY:SENSATION:VISION                                         2
+    see saw
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    balcony grows
+SECONDARY:ABSTRACTION                                            2
+    knew truth
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside out
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystery
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 24.000000 %
+EMOTIONS            : 36.000000 %
+
+162 words total

@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    tonight time tonight then now tonight tonight tonight tonight
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell say say say please say please tell
+EMOTIONS:SADNESS                                                 6
+    lonely lonely lonely lonely lonely lonely
+PRIMARY:SENSATION:VISION                                         5
+    light see see light light
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lies
+EMOTIONS:AFFECTION                                               1
+    goodbye
+SECONDARY:ABSTRACTION                                            1
+    sure
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knees
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ORDER                                                  1
+    divided
+
+PRIMARY             : 25.641026 %
+SECONDARY           : 56.410256 %
+EMOTIONS            : 17.948718 %
+
+167 words total

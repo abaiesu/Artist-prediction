@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    talkin call tell say tell call say talk call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make make make
+PRIMARY:SENSATION:SOUND                                          3
+    heart sound heart
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everybody when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    wide out
+EMOTIONS:AGGRESSION                                              2
+    beat beat
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:ABSTRACTION                                            1
+    predict
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 53.333333 %
+EMOTIONS            : 6.666667 %
+
+192 words total

@@ -1,0 +1,26 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    plays yellow plays harp harp plays plays
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    open wide away off away open wide
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today when everybody everybody today everybody
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    doors windows doors windows
+SECONDARY:ABSTRACTION                                            3
+    know know know
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    greet greet
+EMOTIONS:ANXIETY                                                 2
+    trouble troubled
+PRIMARY:SENSATION:VISION                                         1
+    green
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 38.235294 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 26.470588 %
+
+157 words total

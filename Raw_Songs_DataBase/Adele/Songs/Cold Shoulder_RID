@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   21
+    then every time every time whenever whenever when time when when whenever whenever time time again when whenever whenever whenever whenever
+PRIMARY:SENSATION:VISION                                        16
+    see see look look look see look see look look see look look look look look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    where round at at at at at at at at
+SECONDARY:ABSTRACTION                                            6
+    think why know know think know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make find try find
+EMOTIONS:AGGRESSION                                              5
+    shoots knives knives knives knives
+PRIMARY:SENSATION:COLD                                           4
+    cold cold cold cold
+SECONDARY:MORAL IMPERATIVE                                       4
+    shoulder shoulder shoulder shoulder
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    shower shower shower shower
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say tell admitting
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eyes eyes
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+
+PRIMARY             : 44.318182 %
+SECONDARY           : 44.318182 %
+EMOTIONS            : 11.363636 %
+
+297 words total

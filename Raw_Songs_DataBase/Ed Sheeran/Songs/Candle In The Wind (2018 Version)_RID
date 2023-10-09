@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    at out out long out long at out long out long
+SECONDARY:TEMPORAL REFERENCES                                   11
+    while when ever ever when when ever while when ever ever
+PRIMARY:ICARIAN IMAGERY:FIRE                                    11
+    candle candle burned candle candle burned candle candle burned candle burned
+EMOTIONS:AFFECTION                                               9
+    goodbye like liked like liked goodbye goodbye like liked
+SECONDARY:ABSTRACTION                                            9
+    knew knowing known knowing known knew something knowing known
+SECONDARY:ORDER                                                  3
+    norma norma norma
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain rain rain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    price paid found
+EMOTIONS:SADNESS                                                 2
+    loneliness pain
+PRIMARY:NEED:SEX                                                 2
+    nude sexual
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    brain
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:VISION                                         1
+    sees
+
+PRIMARY             : 44.285714 %
+SECONDARY           : 38.571429 %
+EMOTIONS            : 17.142857 %
+
+301 words total

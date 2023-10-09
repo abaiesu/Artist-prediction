@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    then when when old when when when when
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said thanks generous thanks said ask said said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here inside over open at at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head headed eyed
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds sky
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    passage floor
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly rise
+EMOTIONS:AGGRESSION                                              2
+    blame blame
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calmly calmly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:COLD                                           1
+    chill
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    treks
+PRIMARY:NEED:SEX                                                 1
+    sex
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+
+PRIMARY             : 55.102041 %
+SECONDARY           : 34.693878 %
+EMOTIONS            : 10.204082 %
+
+190 words total

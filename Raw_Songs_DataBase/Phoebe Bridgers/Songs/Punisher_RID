@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where open east side place here at open where
+SECONDARY:ABSTRACTION                                            9
+    thought real reason know knows know cause know know
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    told met say told met talk
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when ever everyone times when
+EMOTIONS:AGGRESSION                                              4
+    kicks angry killer cut
+EMOTIONS:AFFECTION                                               4
+    favorite love like like
+SECONDARY:RESTRAINT                                              4
+    bar punishers caught stop
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:COLD                                           1
+    snow
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    roof
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    copycat
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 48.148148 %
+EMOTIONS            : 18.518519 %
+
+225 words total

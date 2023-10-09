@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    far behind where at far where here far far far far where where
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                  12
+    heaven heaven heaven heaven heaven heaven heaven heaven heaven heaven heaven heaven
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while when now while while
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    calling followed address
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:ORDER                                                  1
+    simple
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:SENSATION:HARD                                           1
+    stone
+
+PRIMARY             : 74.358974 %
+SECONDARY           : 25.641026 %
+EMOTIONS            : 0.000000 %
+
+191 words total

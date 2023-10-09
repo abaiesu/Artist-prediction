@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    everybody now everything now when older now then everything everybody past now early everybody then everything
+SECONDARY:ABSTRACTION                                            7
+    knows something know cause knows know cause
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:SENSATION:VISION                                         3
+    lookin seeing saw
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    price pay money
+EMOTIONS:AGGRESSION                                              2
+    killing criticized
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+SECONDARY:ORDER                                                  2
+    listening listening
+PRIMARY:NEED:SEX                                                 2
+    fucking fucking
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    calm
+PRIMARY:SENSATION:HARD                                           1
+    glass
+EMOTIONS:GLORY                                                   1
+    fame
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:NEED:ANALITY                                             1
+    shit
+
+PRIMARY             : 20.408163 %
+SECONDARY           : 61.224490 %
+EMOTIONS            : 18.367347 %
+
+206 words total

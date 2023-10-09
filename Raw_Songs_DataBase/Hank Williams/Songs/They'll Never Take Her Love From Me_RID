@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                               9
+    love love sympathy love fond love love bride love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    today ever hour now
+EMOTIONS:POSITIVE AFFECT                                         3
+    smiling happiness happy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    along beside aside
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    carry used make
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    thankful shared said
+SECONDARY:ABSTRACTION                                            3
+    may thought knew
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face arms
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:GLORY                                                   2
+    golden golden
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    stairs stepped
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:ANXIETY                                                 1
+    cares
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:NEED:SEX                                                 1
+    caress
+
+PRIMARY             : 26.829268 %
+SECONDARY           : 34.146341 %
+EMOTIONS            : 39.024390 %
+
+167 words total

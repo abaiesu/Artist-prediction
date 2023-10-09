@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                           12
+    thinking guess learned thought knows guess learned knew guess learned guess learned
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now soon soon then now soon soon
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at here away here beside back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    won lesson lesson make lesson lesson
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    answered answered
+EMOTIONS:SADNESS                                                 2
+    sorrow lonely
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 21.951220 %
+SECONDARY           : 68.292683 %
+EMOTIONS            : 9.756098 %
+
+175 words total

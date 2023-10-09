@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       23
+    within close close where place where where where outside close side places where round round apart out away away out behind place place
+PRIMARY:SENSATION:VISION                                        16
+    saw saw looking looking blue view looking looking looked look looked lights shined glow looking looking
+SECONDARY:TEMPORAL REFERENCES                                   11
+    time now time now again time time ago time ago time
+EMOTIONS:AFFECTION                                               8
+    friend friends friends friend friends like friend friends
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    building collect find trying find trying find trying
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    lay bed lay died died
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    fence edged streets windows wall
+SECONDARY:ABSTRACTION                                            5
+    think know think guessed guessed
+PRIMARY:SENSATION:SOUND                                          4
+    hear sound heard noise
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes body faces
+SECONDARY:RESTRAINT                                              2
+    limits stop
+PRIMARY:NEED:ORALITY                                             2
+    corner stomach
+EMOTIONS:AGGRESSION                                              2
+    knife torn
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low deep
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talked
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    played
+PRIMARY:SENSATION:HARD                                           1
+    nail
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmer
+
+PRIMARY             : 62.376238 %
+SECONDARY           : 26.732673 %
+EMOTIONS            : 10.891089 %
+
+306 words total

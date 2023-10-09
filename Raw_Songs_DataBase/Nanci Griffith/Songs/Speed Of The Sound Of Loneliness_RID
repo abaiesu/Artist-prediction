@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    straight at over out far behind over out over out out out out
+SECONDARY:TEMPORAL REFERENCES                                    4
+    early when sometimes today
+EMOTIONS:AGGRESSION                                              4
+    broken jealous broken broken
+PRIMARY:SENSATION:SOUND                                          4
+    sound heart sound sound
+EMOTIONS:SADNESS                                                 4
+    loneliness loneliness sorrow loneliness
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    heaven heaven heaven
+EMOTIONS:ANXIETY                                                 2
+    worried dreadful
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask say
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burns
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 58.536585 %
+SECONDARY           : 14.634146 %
+EMOTIONS            : 26.829268 %
+
+248 words total

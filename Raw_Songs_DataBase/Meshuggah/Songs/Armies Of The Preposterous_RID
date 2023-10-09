@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            6
+    reason truth contrive ideals truth contrive
+PRIMARY:SENSATION:VISION                                         5
+    see vision view see vision
+PRIMARY:SENSATION:SOUND                                          3
+    echo blaring sound
+EMOTIONS:GLORY                                                   2
+    awe magnificent
+EMOTIONS:AGGRESSION                                              2
+    revolting revolting
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far point
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again old
+PRIMARY:NEED:ORALITY                                             2
+    swallow poison
+PRIMARY:NEED:ANALITY                                             2
+    bile putrid
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    quiver
+EMOTIONS:ANXIETY                                                 1
+    tremble
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    saturated
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    declaration
+EMOTIONS:AFFECTION                                               1
+    embrace
+
+PRIMARY             : 51.612903 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 19.354839 %
+
+137 words total

@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                            4
+    thought know why something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out close close out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    foot eyes eyes head
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard echoed
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreamed wake
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call share
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed die
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloud
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinning
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searchin
+PRIMARY:SENSATION:VISION                                         1
+    lookin
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 2.941176 %
+
+123 words total

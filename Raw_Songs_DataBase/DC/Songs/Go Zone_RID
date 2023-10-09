@@ -1,0 +1,42 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    high hungry high high high
+SECONDARY:RESTRAINT                                              5
+    block block stop block block
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    far closing south south
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money use find find
+PRIMARY:SENSATION:HARD                                           4
+    rock rock rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    relaxation rest die
+SECONDARY:ABSTRACTION                                            3
+    cause know why
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly fly fly
+PRIMARY:NEED:ORALITY                                             3
+    candy sugar mouth
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye feet
+PRIMARY:SENSATION:TASTE                                          2
+    sweet bitter
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sings
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 64.444444 %
+SECONDARY           : 31.111111 %
+EMOTIONS            : 4.444444 %
+
+296 words total

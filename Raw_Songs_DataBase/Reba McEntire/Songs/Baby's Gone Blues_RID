@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                        10
+    blues blues sunshine blues blues blues blues blues blues blues
+SECONDARY:ABSTRACTION                                            6
+    cause something cause sure knowing true
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heartache heart
+EMOTIONS:AFFECTION                                               4
+    love like like love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back here back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used won recover
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+SECONDARY:TEMPORAL REFERENCES                                    1
+    tonight
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 14.285714 %
+
+167 words total

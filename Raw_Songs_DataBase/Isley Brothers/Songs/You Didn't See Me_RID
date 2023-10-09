@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:VISION                                        10
+    see saw see saw see see see see see saw
+SECONDARY:ABSTRACTION                                            5
+    know know know think think
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again sometimes then time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where inside inside
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 53.571429 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 10.714286 %
+
+186 words total

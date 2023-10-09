@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:TASTE                                         24
+    sweet sweet sweet sweet sweet sweeter sweetness sweetness sweetest sweetest sweet sweetness sweetness sweetness sweetest sweetest sweet sweetness sweetness sweetness sweetness sweetest sweetest sweetest
+PRIMARY:NEED:ORALITY                                            10
+    coffee lips sugar coffee tooth cookies cakes menus cakes sugar
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now ever now ever now now ever now
+SECONDARY:ABSTRACTION                                            7
+    know know truth cause true surely know
+PRIMARY:NEED:SEX                                                 3
+    kissed kiss kisses
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell say tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    use bought
+SECONDARY:ORDER                                                  2
+    order listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shakes shakes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out away
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rainy rain
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    melts melt
+EMOTIONS:AFFECTION                                               1
+    fond
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 31.884058 %
+EMOTIONS            : 1.449275 %
+
+268 words total

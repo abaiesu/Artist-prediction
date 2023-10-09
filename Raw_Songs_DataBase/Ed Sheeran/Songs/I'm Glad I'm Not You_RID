@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    while again then when again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here long back where where
+PRIMARY:SENSATION:SOUND                                          5
+    hearts heart tunes melody heart
+EMOTIONS:AFFECTION                                               4
+    friends love friends love
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    strange unknown unknown strange
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    playing games playing games
+PRIMARY:SENSATION:TASTE                                          3
+    tangled tangled sweetness
+SECONDARY:ABSTRACTION                                            3
+    know know true
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    telling speak telling
+EMOTIONS:AGGRESSION                                              2
+    broken fight
+PRIMARY:NEED:ANALITY                                             2
+    shattered shite
+PRIMARY:NEED:ORALITY                                             2
+    spite lips
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile glad
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+
+PRIMARY             : 51.923077 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 25.000000 %
+
+255 words total

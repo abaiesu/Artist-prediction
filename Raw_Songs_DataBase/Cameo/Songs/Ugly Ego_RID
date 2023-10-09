@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back behind back behind open open open open open open
+SECONDARY:ABSTRACTION                                            6
+    know know fact know know fact
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    talkin tell said tell tell
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky high
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heads brain
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+PRIMARY:SENSATION:VISION                                         1
+    looking
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stepping
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 51.515152 %
+SECONDARY           : 39.393939 %
+EMOTIONS            : 9.090909 %
+
+176 words total

@@ -1,0 +1,20 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when when now when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes arms eyes arms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where between where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    belong make belong
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ABSTRACTION                                            1
+    know
+
+PRIMARY             : 45.000000 %
+SECONDARY           : 45.000000 %
+EMOTIONS            : 10.000000 %
+
+112 words total

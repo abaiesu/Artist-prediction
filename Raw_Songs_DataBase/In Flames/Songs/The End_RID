@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    straight ahead space space space space space space back back back space space
+SECONDARY:ABSTRACTION                                           10
+    something know think think know think think know think think
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell say say say tell say say tell say say
+PRIMARY:SENSATION:ODOR                                           9
+    breath breath breath breath breath breath breath breath breath
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now while when when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slow slow slow
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream dream dream
+EMOTIONS:POSITIVE AFFECT                                         3
+    celebrating celebrating celebrating
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find find
+PRIMARY:SENSATION:VISION                                         2
+    view see
+EMOTIONS:AFFECTION                                               1
+    kind
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    path
+EMOTIONS:SADNESS                                                 1
+    misery
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:AGGRESSION                                              1
+    fight
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    lit
+SECONDARY:RESTRAINT                                              1
+    control
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 42.028986 %
+EMOTIONS            : 10.144928 %
+
+365 words total

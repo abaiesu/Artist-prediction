@@ -1,0 +1,34 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    9
+    water water water water water water water water water
+SECONDARY:TEMPORAL REFERENCES                                    8
+    ever years years now every years years now
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    follow ask tell promise declaration promise declaration
+SECONDARY:ABSTRACTION                                            7
+    them figured know why figured know why
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             6
+    stranger stranger stranger stranger stranger stranger
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    behind behind behind behind behind behind
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes headlights headlights
+EMOTIONS:AGGRESSION                                              2
+    fights fights
+PRIMARY:SENSATION:TASTE                                          2
+    tasted tasted
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    flames flames
+SECONDARY:ORDER                                                  2
+    precisely precisely
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:HARD                                           1
+    solid
+EMOTIONS:AFFECTION                                               1
+    embrace
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 5.263158 %
+
+207 words total

@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    sometimes everybody when when tonight
+SECONDARY:ABSTRACTION                                            3
+    believe thought them
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said say
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    walls window
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trade found
+EMOTIONS:AFFECTION                                               2
+    kind kind
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    somewhere south
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shades
+EMOTIONS:AGGRESSION                                              1
+    deceiver
+PRIMARY:SENSATION:ODOR                                           1
+    perfume
+PRIMARY:SENSATION:SOFT                                           1
+    lace
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rode
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 41.379310 %
+SECONDARY           : 41.379310 %
+EMOTIONS            : 17.241379 %
+
+125 words total

@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    time again once again today now now soon soon
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     7
+    play scream game playful game play play
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    death die die die die die
+EMOTIONS:AGGRESSION                                              5
+    gun gun hateful vengeance kill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    place round inside round
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    spin spinning spinning
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highest highly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    makes collect
+PRIMARY:SENSATION:VISION                                         2
+    gleam blue
+EMOTIONS:ANXIETY                                                 2
+    terror trouble
+SECONDARY:RESTRAINT                                              2
+    stops stops
+PRIMARY:NEED:ORALITY                                             2
+    grains drink
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said please
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    odds
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:SENSATION:HARD                                           1
+    nail
+PRIMARY:SENSATION:COLD                                           1
+    cold
+
+PRIMARY             : 44.827586 %
+SECONDARY           : 27.586207 %
+EMOTIONS            : 27.586207 %
+
+276 words total

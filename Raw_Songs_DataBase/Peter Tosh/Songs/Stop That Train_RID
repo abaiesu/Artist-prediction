@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    long long overstan long long east west aside at long long
+SECONDARY:RESTRAINT                                             10
+    stop stop stop stop stop stop stop stop stop stop
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    won won tried find won won try find won won
+SECONDARY:MORAL IMPERATIVE                                       6
+    right right right right right right
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said teaching said said
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:NEED:ORALITY                                             1
+    food
+
+PRIMARY             : 28.888889 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 4.444444 %
+
+199 words total

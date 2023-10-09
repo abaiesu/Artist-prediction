@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out at far over back where south
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    found soldiers soldiers pay
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met called tell
+EMOTIONS:AGGRESSION                                              3
+    war fight war
+SECONDARY:RESTRAINT                                              2
+    bound bound
+SECONDARY:TEMPORAL REFERENCES                                    2
+    duranqo when
+PRIMARY:SENSATION:SOUND                                          2
+    hear heard
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    die quiet
+EMOTIONS:GLORY                                                   1
+    gold
+SECONDARY:ABSTRACTION                                            1
+    guess
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    border
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:VISION                                         1
+    greenback
+EMOTIONS:AFFECTION                                               1
+    likely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:SENSATION:COLD                                           1
+    chile
+EMOTIONS:ANXIETY                                                 1
+    trouble
+
+PRIMARY             : 48.571429 %
+SECONDARY           : 34.285714 %
+EMOTIONS            : 17.142857 %
+
+142 words total

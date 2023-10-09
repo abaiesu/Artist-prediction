@@ -1,0 +1,26 @@
+PRIMARY:NEED:ORALITY                                             7
+    fed fed fed fed fed fed fed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    line line line line line line
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say treated said said
+SECONDARY:ABSTRACTION                                            5
+    know believed know true know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now once everything now now
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:VISION                                         1
+    saw
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+
+PRIMARY             : 44.117647 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 5.882353 %
+
+164 words total

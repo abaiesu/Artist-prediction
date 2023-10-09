@@ -1,0 +1,34 @@
+EMOTIONS:AGGRESSION                                              4
+    war murder kill war
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything years years
+PRIMARY:SENSATION:SOUND                                          3
+    heart hear hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where here here
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flight dawn dawn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    win soldiers
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:ABSTRACTION                                            2
+    history history
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow slow
+EMOTIONS:GLORY                                                   2
+    awe awe
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystery
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    foot
+
+PRIMARY             : 41.935484 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 29.032258 %
+
+150 words total

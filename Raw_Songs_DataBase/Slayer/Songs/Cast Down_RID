@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    surface inside place where back away where where here away away where
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everyday everywhere now every time again when everyday when when
+EMOTIONS:AGGRESSION                                              9
+    hatred broken shoot stabs steals destroy hate steals steals
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    find find won money found found won won money
+SECONDARY:ABSTRACTION                                            7
+    reason judge real reason choose judge judge
+EMOTIONS:SADNESS                                                 6
+    despair pain suffering despair pain suffering
+PRIMARY:SENSATION:VISION                                         5
+    see watch see looking sees
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face blood face blood blood
+PRIMARY:NEED:SEX                                                 3
+    fucking rapes fucking
+PRIMARY:SENSATION:TASTE                                          2
+    taste taste
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    bury digging
+PRIMARY:SENSATION:SOUND                                          2
+    hears hears
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    thrown thrown
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:SENSATION:HARD                                           1
+    harder
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    speaks
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+SECONDARY:ORDER                                                  1
+    system
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deeper
+PRIMARY:NEED:ORALITY                                             1
+    feeds
+SECONDARY:RESTRAINT                                              1
+    prison
+
+PRIMARY             : 47.619048 %
+SECONDARY           : 34.523810 %
+EMOTIONS            : 17.857143 %
+
+313 words total

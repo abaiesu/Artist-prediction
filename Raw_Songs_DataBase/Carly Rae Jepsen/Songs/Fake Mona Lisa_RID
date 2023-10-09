@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    among round over off round over off
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said said said
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every yesterday every
+PRIMARY:SENSATION:VISION                                         2
+    stars noticed
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:SADNESS                                                 2
+    painted painted
+PRIMARY:NEED:ORALITY                                             2
+    corners corners
+EMOTIONS:POSITIVE AFFECT                                         2
+    smile smile
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swim swim
+PRIMARY:SENSATION:ODOR                                           2
+    breathe breathe
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    cheek
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    stir
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamer
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 25.714286 %
+EMOTIONS            : 17.142857 %
+
+176 words total

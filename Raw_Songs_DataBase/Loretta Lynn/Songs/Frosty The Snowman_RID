@@ -1,0 +1,48 @@
+PRIMARY:SENSATION:COLD                                          13
+    frosty snowman frosty snowman snow children frosty snowman children frosty snowman frosty snowman
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out placed away here square back
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say said saying sayin
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old when moment when again
+EMOTIONS:POSITIVE AFFECT                                         4
+    jolly happy laugh fun
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    coal sun hot melt
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes head hand
+SECONDARY:ABSTRACTION                                            3
+    know knew them
+SECONDARY:RESTRAINT                                              3
+    must catch stop
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dance play cry
+PRIMARY:NEED:ORALITY                                             1
+    corncob
+PRIMARY:SENSATION:ODOR                                           1
+    nose
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairy
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:SENSATION:SOFT                                           1
+    silk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waved
+EMOTIONS:AFFECTION                                               1
+    goodbye
+
+PRIMARY             : 56.666667 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 13.333333 %
+
+199 words total

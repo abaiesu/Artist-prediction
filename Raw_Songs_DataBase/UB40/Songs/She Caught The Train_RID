@@ -1,0 +1,16 @@
+EMOTIONS:AFFECTION                                               3
+    love friends love
+EMOTIONS:SADNESS                                                 2
+    loneliness loneliness
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    asked said
+SECONDARY:RESTRAINT                                              2
+    catch catch
+PRIMARY:SENSATION:VISION                                         1
+    seen
+
+PRIMARY             : 10.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 50.000000 %
+
+80 words total

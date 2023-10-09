@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              12
+    like kind like like loved like loves loved loved loved loved love
+SECONDARY:TEMPORAL REFERENCES                                    9
+    tonight sometimes time tonight now now now now now
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    say met promise tell tell say say
+PRIMARY:SENSATION:VISION                                         4
+    see seen looked looking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won found pick makes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    outside off open at
+SECONDARY:ABSTRACTION                                            4
+    know think know know
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    drive driving driveway
+EMOTIONS:POSITIVE AFFECT                                         3
+    funny happy smile
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doors aisle
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:SENSATION:COLD                                           1
+    cold
+EMOTIONS:ANXIETY                                                 1
+    worry
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 30.645161 %
+SECONDARY           : 40.322581 %
+EMOTIONS            : 29.032258 %
+
+348 words total

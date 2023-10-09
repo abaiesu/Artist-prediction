@@ -1,0 +1,28 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    built built built built carry built
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    pleased acceptable please please please please
+SECONDARY:TEMPORAL REFERENCES                                    5
+    momentarily time then occasionally then
+EMOTIONS:AFFECTION                                               4
+    like like friend friend
+SECONDARY:ABSTRACTION                                            4
+    something real something real
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at out
+PRIMARY:SENSATION:SOUND                                          1
+    temporarily
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    lower
+PRIMARY:SENSATION:COLD                                           1
+    chilled
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    verge
+EMOTIONS:AGGRESSION                                              1
+    blame
+
+PRIMARY             : 18.750000 %
+SECONDARY           : 65.625000 %
+EMOTIONS            : 15.625000 %
+
+133 words total

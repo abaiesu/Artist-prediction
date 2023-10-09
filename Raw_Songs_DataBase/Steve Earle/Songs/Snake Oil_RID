@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    close along long long open long further along
+SECONDARY:TEMPORAL REFERENCES                                    7
+    everyone now time soon now again now
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    please tell call say tell tell
+PRIMARY:SENSATION:VISION                                         4
+    see seen blue see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    cost job factory mend
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    attention impressed
+SECONDARY:ABSTRACTION                                            2
+    believe somethin
+PRIMARY:SENSATION:SOUND                                          2
+    heard hear
+EMOTIONS:ANXIETY                                                 2
+    trouble fear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    ease dead
+PRIMARY:SENSATION:SOFT                                           1
+    gentlemen
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travelin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+SECONDARY:RESTRAINT                                              1
+    shut
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+
+PRIMARY             : 51.020408 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 6.122449 %
+
+228 words total

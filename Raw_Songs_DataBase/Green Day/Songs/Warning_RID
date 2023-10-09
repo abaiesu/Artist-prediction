@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    service announcement tell talk said said said said said said said service announcement
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    test machinery reach pay pay test
+SECONDARY:RESTRAINT                                              4
+    police shut police shut
+SECONDARY:TEMPORAL REFERENCES                                    4
+    date everything date everything
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safety safety
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+EMOTIONS:ANXIETY                                                 2
+    dangerous dangerous
+EMOTIONS:AGGRESSION                                              1
+    protest
+SECONDARY:ABSTRACTION                                            1
+    may
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+
+PRIMARY             : 18.421053 %
+SECONDARY           : 73.684211 %
+EMOTIONS            : 7.894737 %
+
+211 words total

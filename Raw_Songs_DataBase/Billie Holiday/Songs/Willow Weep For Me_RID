@@ -1,0 +1,32 @@
+EMOTIONS:SADNESS                                                10
+    weep weep weep weep sad weep weeping weeping weep weep
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    along here along along
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear heart hear
+EMOTIONS:AFFECTION                                               4
+    lovely lovely love sympathy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    branches tree branches
+SECONDARY:ORDER                                                  2
+    listen listen
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:SENSATION:SOFT                                           2
+    whisper murmur
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say plead
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    stream
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sighing
+
+PRIMARY             : 45.945946 %
+SECONDARY           : 13.513514 %
+EMOTIONS            : 40.540541 %
+
+127 words total

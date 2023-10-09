@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    behind space at behind space
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    heavenly towers hunger
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call beckoning
+SECONDARY:TEMPORAL REFERENCES                                    2
+    timeless timeless
+PRIMARY:SENSATION:COLD                                           2
+    frost frost
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:NEED:ORALITY                                             1
+    thirst
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    unspeakable
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AGGRESSION                                              1
+    wrath
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruins
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sights
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reaching
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    veins
+PRIMARY:SENSATION:VISION                                         1
+    stars
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    descent
+
+PRIMARY             : 67.857143 %
+SECONDARY           : 17.857143 %
+EMOTIONS            : 14.285714 %
+
+96 words total

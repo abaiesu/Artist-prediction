@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time time
+PRIMARY:SENSATION:SOUND                                          2
+    music music
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off here
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    told
+PRIMARY:NEED:SEX                                                 1
+    naked
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 0.000000 %
+
+70 words total

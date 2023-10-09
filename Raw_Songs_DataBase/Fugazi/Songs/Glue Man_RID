@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out where where over back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    spent pick make spent
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everyone every time everywhere
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    rolls roll rolls
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call says says
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    tide tide
+SECONDARY:ABSTRACTION                                            2
+    them thoughts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    palm hand
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:HARD                                           1
+    stones
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 56.250000 %
+SECONDARY           : 40.625000 %
+EMOTIONS            : 3.125000 %
+
+130 words total

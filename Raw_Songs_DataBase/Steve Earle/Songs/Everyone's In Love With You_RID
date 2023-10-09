@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    everyone everyone when sometimes everyone everyone everyone everyone everyone when everyone
+EMOTIONS:AFFECTION                                              11
+    love love love love love love love love like like love
+SECONDARY:ABSTRACTION                                            8
+    them themselves knowin cause think cause think know
+PRIMARY:SENSATION:VISION                                         3
+    watch light glow
+SECONDARY:RESTRAINT                                              2
+    must stop
+EMOTIONS:AGGRESSION                                              2
+    broken struggle
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where at
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall drop
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    baskin
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 23.404255 %
+SECONDARY           : 48.936170 %
+EMOTIONS            : 27.659574 %
+
+188 words total

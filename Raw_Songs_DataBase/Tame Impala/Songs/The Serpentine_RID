@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    told said said agree said said
+EMOTIONS:AFFECTION                                               5
+    like love kinda like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    away round side round
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dancing frolic dancing frolic
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    swimming swimming river sea
+PRIMARY:NEED:ORALITY                                             2
+    milky honey
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eye
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+SECONDARY:ABSTRACTION                                            1
+    think
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:SENSATION:VISION                                         1
+    visions
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+EMOTIONS:SADNESS                                                 1
+    woes
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 20.512821 %
+EMOTIONS            : 25.641026 %
+
+180 words total

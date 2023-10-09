@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    within at round tipple
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    wings hovers soar
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    gates walls gate
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hair eye heads
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    birds steep above
+SECONDARY:RESTRAINT                                              3
+    decreeth prison bars
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie quiet
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:GLORY                                                   2
+    crowned royal
+PRIMARY:SENSATION:HARD                                           2
+    stone iron
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:SENSATION:TASTE                                          1
+    tangled
+PRIMARY:NEED:SEX                                                 1
+    wanton
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flames
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+EMOTIONS:POSITIVE AFFECT                                         1
+    enjoy
+
+PRIMARY             : 61.904762 %
+SECONDARY           : 26.190476 %
+EMOTIONS            : 11.904762 %
+
+127 words total

@@ -1,0 +1,42 @@
+EMOTIONS:POSITIVE AFFECT                                        13
+    happy cheer happy glad smile happy grin happy happy happy laugh happy happy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    off off out out off over place over place
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    face face chin face face face face face
+PRIMARY:SENSATION:VISION                                         5
+    gray look look sunshine sunshine
+SECONDARY:ABSTRACTION                                            3
+    decide think knew
+EMOTIONS:SADNESS                                                 2
+    tragedy whine
+EMOTIONS:AGGRESSION                                              2
+    doubt slap
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    spread spread
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now old
+PRIMARY:SENSATION:TOUCH                                          1
+    brush
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pick
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    pleasant
+EMOTIONS:GLORY                                                   1
+    noble
+PRIMARY:SENSATION:TASTE                                          1
+    bitterish
+PRIMARY:NEED:ORALITY                                             1
+    banana
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 50.909091 %
+SECONDARY           : 14.545455 %
+EMOTIONS            : 34.545455 %
+
+162 words total

@@ -1,0 +1,30 @@
+SECONDARY:ORDER                                                 15
+    moderation moderate moderation moderation moderation moderation moderation moderation moderation moderation moderation moderation moderation moderation moderation
+SECONDARY:ABSTRACTION                                           15
+    think think think think knew understood know think think think knew learn learn cause figure
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    pay trying win win win win
+PRIMARY:SENSATION:VISION                                         5
+    look see looking see see
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then everything then
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back out
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    attention
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 18.965517 %
+SECONDARY           : 68.965517 %
+EMOTIONS            : 12.068966 %
+
+276 words total

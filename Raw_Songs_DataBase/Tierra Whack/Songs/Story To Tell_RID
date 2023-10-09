@@ -1,0 +1,58 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    tell replied said said tellin talkin said influence call said talk
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everybody time then older time when while past when now
+SECONDARY:ABSTRACTION                                           10
+    think thinkin thinkin guessin thought knew knows know know guess
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    off where off back out straight out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       5
+    streets door window streets streets
+PRIMARY:SENSATION:VISION                                         5
+    look looking see filmed views
+EMOTIONS:AGGRESSION                                              4
+    kicked break killed beat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    win make skills test
+PRIMARY:NEED:ORALITY                                             3
+    dishes gut spittin
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleep crazy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellin horn
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+EMOTIONS:ANXIETY                                                 2
+    fear nervous
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    rode ride
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bathroom
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+SECONDARY:ORDER                                                  1
+    uniform
+PRIMARY:SENSATION:COLD                                           1
+    chillin
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skull
+EMOTIONS:SADNESS                                                 1
+    depressed
+EMOTIONS:GLORY                                                   1
+    famous
+PRIMARY:SENSATION:HARD                                           1
+    rock
+
+PRIMARY             : 41.666667 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 15.476190 %
+
+418 words total

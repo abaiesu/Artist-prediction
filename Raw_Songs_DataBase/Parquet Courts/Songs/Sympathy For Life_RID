@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hands hands hands
+EMOTIONS:AFFECTION                                               3
+    sympathy sympathy sympathy
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    scream scream
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out here
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    communicates communicates
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reaching
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 29.411765 %
+
+78 words total

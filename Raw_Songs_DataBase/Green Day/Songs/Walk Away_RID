@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       25
+    off away away away away away away away back away away away away away away away away away away away away away away away away
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time time now when time
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fall fall fall fall
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pick win used
+EMOTIONS:AGGRESSION                                              3
+    fight wounds fight
+PRIMARY:SENSATION:HARD                                           3
+    harder harder harder
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:RESTRAINT                                              1
+    guard
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    swelling
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    remind
+PRIMARY:NEED:ORALITY                                             1
+    lick
+
+PRIMARY             : 68.000000 %
+SECONDARY           : 24.000000 %
+EMOTIONS            : 8.000000 %
+
+219 words total

@@ -1,0 +1,38 @@
+EMOTIONS:AGGRESSION                                             18
+    hurts hurt kills kill hurts broken break hurts hurt kills kill hurts hurts hurt hurts hurt kills hurts
+SECONDARY:TEMPORAL REFERENCES                                   14
+    when years ago everything when once when when when when everything when once once
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell tell said ask tell tell say tell
+SECONDARY:ABSTRACTION                                            6
+    know why know almost know cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place distance at away distance away
+PRIMARY:SENSATION:VISION                                         4
+    look see look imagine
+EMOTIONS:AFFECTION                                               3
+    love friend like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes face
+EMOTIONS:SADNESS                                                 2
+    loneliest pain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spendin makin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    awake awake
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:GLORY                                                   1
+    wonderin
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+
+PRIMARY             : 23.611111 %
+SECONDARY           : 41.666667 %
+EMOTIONS            : 34.722222 %
+
+307 words total

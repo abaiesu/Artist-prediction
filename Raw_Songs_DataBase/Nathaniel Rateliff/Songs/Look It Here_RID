@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       25
+    here out here out here here out here out here out here out here out here out here out here out here out here out
+PRIMARY:SENSATION:VISION                                        13
+    look look look look look look look look look look look look look
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    please calling plead please please
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now when time now
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear heart hear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    knees knees knees
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:SADNESS                                                 1
+    weep
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:ABSTRACTION                                            1
+    proved
+
+PRIMARY             : 75.806452 %
+SECONDARY           : 19.354839 %
+EMOTIONS            : 4.838710 %
+
+189 words total

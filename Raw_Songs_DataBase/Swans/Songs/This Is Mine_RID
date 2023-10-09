@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    everything when when
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    hole hole
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+SECONDARY:ABSTRACTION                                            2
+    them them
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:NEED:ORALITY                                             1
+    spit
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 7.692308 %
+
+67 words total

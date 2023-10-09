@@ -1,0 +1,38 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    found tried reach found won won try reach
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away out long away where away out
+SECONDARY:ABSTRACTION                                            6
+    thought why truth true belief believe
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    callin say help callin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream woke wake
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slipped slip
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hear
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:SENSATION:TASTE                                          1
+    tangled
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    stream
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+
+PRIMARY             : 46.341463 %
+SECONDARY           : 48.780488 %
+EMOTIONS            : 4.878049 %
+
+143 words total

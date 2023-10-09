@@ -1,0 +1,54 @@
+EMOTIONS:AGGRESSION                                             17
+    shoot shot shoot shot shoot shot shoot shot hit shoot shot shoot shot shoot shot shoot shot
+SECONDARY:ABSTRACTION                                           16
+    know think think think thinking think thinking know somethin thought different think thinking think thinking know
+PRIMARY:SENSATION:SOUND                                         11
+    heard heart heart heart heart heart heard heart heart heart heart
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    follow talking talkin talkin follow say say talkin talkin follow
+PRIMARY:SENSATION:VISION                                        10
+    see notice see see see observe observe see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    won make find find built built won built built won
+EMOTIONS:AFFECTION                                               9
+    love love love like love love like love love
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now today months sudden time now today now today
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    back back off back here here back
+PRIMARY:NEED:ANALITY                                             7
+    messing shit shit messing shit shit messing
+EMOTIONS:GLORY                                                   5
+    wonder sublime sublime wonder wonder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    art art game play play
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    water water water water
+PRIMARY:SENSATION:TOUCH                                          4
+    slick slick slick slick
+PRIMARY:NEED:ORALITY                                             4
+    lip lip lip lip
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fell fell fell
+SECONDARY:RESTRAINT                                              2
+    caught stop
+PRIMARY:NEED:SEX                                                 2
+    fuckin sexy
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line curb
+PRIMARY:SENSATION:HARD                                           2
+    harder harder
+EMOTIONS:POSITIVE AFFECT                                         1
+    humor
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumpin
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+SECONDARY:ORDER                                                  1
+    accurately
+
+PRIMARY             : 40.559441 %
+SECONDARY           : 33.566434 %
+EMOTIONS            : 25.874126 %
+
+645 words total

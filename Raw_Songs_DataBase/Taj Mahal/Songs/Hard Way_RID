@@ -1,0 +1,24 @@
+PRIMARY:SENSATION:HARD                                          11
+    hard hard hard hard hardships hard hard hard hard hard hard
+SECONDARY:ABSTRACTION                                            6
+    know think may know may know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used find find tried tried
+EMOTIONS:SADNESS                                                 4
+    suffer suffer suffer suffer
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out place place out
+EMOTIONS:ANXIETY                                                 3
+    worried worried troubles
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:COLD                                           2
+    snow snow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+
+PRIMARY             : 43.589744 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 23.076923 %
+
+170 words total

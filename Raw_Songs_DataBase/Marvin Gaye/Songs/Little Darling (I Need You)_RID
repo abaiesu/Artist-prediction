@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                              17
+    lovin darlin darlin darlin love darlin love darlin darlin darlin darlin loves love darlin like love darlin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    pay price pay price make pay price
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at inside at
+SECONDARY:ABSTRACTION                                            3
+    know knows knows
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then now
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    hurt
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 13.513514 %
+SECONDARY           : 32.432432 %
+EMOTIONS            : 54.054054 %
+
+218 words total

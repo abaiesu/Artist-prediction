@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    when old when time when when now sometimes when when old when
+PRIMARY:SENSATION:SOUND                                         10
+    sound loud sound heard heard heard heart heard heard heard
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    saying met said said kneeling said say said
+SECONDARY:ABSTRACTION                                            7
+    thought think know true thought think know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    away back nearly at at away back
+EMOTIONS:AGGRESSION                                              6
+    broken hurt broke blame angry hurt
+SECONDARY:RESTRAINT                                              3
+    stop must must
+PRIMARY:SENSATION:VISION                                         3
+    saw looked looked
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    bed bed
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:NEED:ORALITY                                             1
+    dishes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    thrown
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 43.055556 %
+SECONDARY           : 43.055556 %
+EMOTIONS            : 13.888889 %
+
+261 words total

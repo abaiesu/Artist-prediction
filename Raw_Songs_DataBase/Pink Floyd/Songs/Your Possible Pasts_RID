@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       28
+    behind sidings closer closer closer closer closer closer closer closer backs out closer closer closer closer closer closer out behind closer closer closer closer closer closer closer closer
+SECONDARY:ABSTRACTION                                            7
+    possible possible think think learned possible think
+SECONDARY:TEMPORAL REFERENCES                                    6
+    pasts time then now now pasts
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyed face eyes hand hand
+PRIMARY:SENSATION:COLD                                           4
+    cold child cold cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used used used
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    imploring said told
+EMOTIONS:ANXIETY                                                 2
+    frightened terrified
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    doorway stepping
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flutter
+PRIMARY:SENSATION:VISION                                         1
+    bright
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    crazy
+SECONDARY:ORDER                                                  1
+    ranks
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:GLORY                                                   1
+    gold
+EMOTIONS:AGGRESSION                                              1
+    knives
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+
+PRIMARY             : 61.333333 %
+SECONDARY           : 30.666667 %
+EMOTIONS            : 8.000000 %
+
+232 words total

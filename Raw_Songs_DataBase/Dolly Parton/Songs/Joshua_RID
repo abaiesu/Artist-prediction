@@ -1,0 +1,48 @@
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    said say spoke said told said said call call talked talking say said asked help
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    out out out at long round place across back here here out closer
+SECONDARY:TEMPORAL REFERENCES                                   10
+    old old ever when already when when time old old
+SECONDARY:ABSTRACTION                                            6
+    think them true cause knew why
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    railroad railroad door railroad
+PRIMARY:SENSATION:VISION                                         4
+    seen seen saw looking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    foot beard hair face
+PRIMARY:SENSATION:SOUND                                          3
+    heard heard voice
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile smiled happy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find spent
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    growled grew
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low deep
+EMOTIONS:SADNESS                                                 2
+    orphan lonesome
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laying
+PRIMARY:NEED:ORALITY                                             1
+    swallowed
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:ANXIETY                                                 1
+    frighten
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 46.835443 %
+SECONDARY           : 41.772152 %
+EMOTIONS            : 11.392405 %
+
+401 words total

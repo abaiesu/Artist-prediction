@@ -1,0 +1,44 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    sun sun sun sun sun
+SECONDARY:TEMPORAL REFERENCES                                    4
+    hours weeks months now
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    guide speakers guided
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+SECONDARY:ABSTRACTION                                            2
+    choose understood
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad fun
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at space
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow silence
+PRIMARY:SENSATION:SOUND                                          2
+    sound rattled
+PRIMARY:SENSATION:VISION                                         2
+    scene lights
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    confused
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    ascend
+EMOTIONS:AFFECTION                                               1
+    friend
+EMOTIONS:GLORY                                                   1
+    prince
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    blurs
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+
+PRIMARY             : 51.428571 %
+SECONDARY           : 31.428571 %
+EMOTIONS            : 17.142857 %
+
+130 words total

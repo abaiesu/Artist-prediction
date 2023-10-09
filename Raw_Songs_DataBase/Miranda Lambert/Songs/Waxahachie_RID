@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                         4
+    lookin lookin lookin lookin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long overrated long long
+EMOTIONS:AFFECTION                                               4
+    friend like friend friend
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    drive drive drive
+SECONDARY:TEMPORAL REFERENCES                                    2
+    ever again
+PRIMARY:SENSATION:SOUND                                          2
+    buzz tempo
+SECONDARY:ABSTRACTION                                            2
+    guess truth
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:TOUCH                                          1
+    rubble
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+EMOTIONS:AGGRESSION                                              1
+    beat
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 62.068966 %
+SECONDARY           : 20.689655 %
+EMOTIONS            : 17.241379 %
+
+206 words total

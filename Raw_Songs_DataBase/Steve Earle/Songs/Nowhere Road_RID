@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    straighter longer here long long back far back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    road road road road line gate
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    preacher teacher say
+SECONDARY:ABSTRACTION                                            3
+    know cause know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pay prepared pay
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway highway
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searching
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rollin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 31.428571 %
+EMOTIONS            : 8.571429 %
+
+179 words total

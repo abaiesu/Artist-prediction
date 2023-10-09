@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    here over near over over over over over over over over over over over over over over over over over over over over over
+SECONDARY:ABSTRACTION                                           16
+    know sure true true sure may know know real know know sure know know sure know
+SECONDARY:SOCIAL BEHAVIOR                                       16
+    said gift share share tell communicate say say say communicate tell commitment shared tell call communicate
+SECONDARY:TEMPORAL REFERENCES                                   16
+    when everything tonight tonight now again when when tonight now again tonight now again tonight now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    success achieve found make make find makin find make
+SECONDARY:MORAL IMPERATIVE                                       8
+    right right right right respect right right right
+EMOTIONS:AFFECTION                                               8
+    like friend love dear kind love love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head feet toe hair
+PRIMARY:SENSATION:SOUND                                          2
+    heard sounds
+EMOTIONS:GLORY                                                   2
+    greatest great
+PRIMARY:SENSATION:HARD                                           2
+    nail brassiere
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    comfort beautiful
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    soothe lay
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:SENSATION:TOUCH                                          1
+    massage
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+EMOTIONS:POSITIVE AFFECT                                         1
+    glad
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 35.042735 %
+SECONDARY           : 55.555556 %
+EMOTIONS            : 9.401709 %
+
+514 words total

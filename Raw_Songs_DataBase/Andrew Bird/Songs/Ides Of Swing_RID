@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when when when when when when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    head eyes head eye hands head
+SECONDARY:ABSTRACTION                                            5
+    know know sure scheming know
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            5
+    swooning dreaming dreaming dreaming dreaming
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    bounce swinging
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll shaking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees growl
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire warm
+EMOTIONS:AFFECTION                                               2
+    love like
+EMOTIONS:AGGRESSION                                              1
+    cruelist
+PRIMARY:SENSATION:HARD                                           1
+    stiff
+SECONDARY:ORDER                                                  1
+    list
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:SENSATION:SOUND                                          1
+    music
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:VISION                                         1
+    green
+
+PRIMARY             : 58.333333 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 8.333333 %
+
+182 words total

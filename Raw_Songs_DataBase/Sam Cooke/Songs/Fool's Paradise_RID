@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    told told said met told said said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    off out out out
+SECONDARY:ABSTRACTION                                            3
+    think learned learned
+PRIMARY:NEED:ORALITY                                             3
+    drinking drinking drinking
+SECONDARY:TEMPORAL REFERENCES                                    1
+    often
+EMOTIONS:GLORY                                                   1
+    wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:RESTRAINT                                              1
+    catch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    lesson
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruining
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 53.846154 %
+EMOTIONS            : 7.692308 %
+
+127 words total

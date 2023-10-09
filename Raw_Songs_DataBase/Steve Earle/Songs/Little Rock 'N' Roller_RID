@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    while weeks tonight when older everything when tonight now minute sometimes when past
+SECONDARY:ABSTRACTION                                           10
+    believe guess know cause know cause know knows thinkin know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    answered help called talk tellin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long somewhere here out over
+PRIMARY:SENSATION:VISION                                         4
+    light watchin picture blue
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    roller rollers roll
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line wallet
+SECONDARY:MORAL IMPERATIVE                                       2
+    ought right
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:SADNESS                                                 1
+    whine
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:ANXIETY                                                 1
+    afraid
+EMOTIONS:AGGRESSION                                              1
+    bother
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheers
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 7.142857 %
+
+237 words total

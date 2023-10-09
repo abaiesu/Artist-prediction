@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              13
+    love married love love bride love married love dear dear love married love
+SECONDARY:ABSTRACTION                                            7
+    know know knowing know know know know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    met spoke said
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart hearts
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    close side over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    belong pay cost
+EMOTIONS:AGGRESSION                                              2
+    broke broken
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternity
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+
+PRIMARY             : 21.052632 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 42.105263 %
+
+132 words total

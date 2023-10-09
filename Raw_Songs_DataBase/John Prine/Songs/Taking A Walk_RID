@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    opening outside situation situation outside out overalls opened outside
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    door floor frame door
+PRIMARY:SENSATION:VISION                                         4
+    appearance watching looked watching
+SECONDARY:ABSTRACTION                                            3
+    believe concentration know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    yesterday now when
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    invited say speaks
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    birds birds high
+EMOTIONS:AFFECTION                                               2
+    like welcome
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:HARD                                           1
+    hardwood
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    disheveled
+EMOTIONS:AGGRESSION                                              1
+    blame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falls
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+
+PRIMARY             : 65.000000 %
+SECONDARY           : 27.500000 %
+EMOTIONS            : 7.500000 %
+
+231 words total

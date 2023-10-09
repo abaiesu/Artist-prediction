@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    comfort comfort comfort comfort
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    longer away away place
+PRIMARY:SENSATION:VISION                                         3
+    see seeing vision
+SECONDARY:RESTRAINT                                              2
+    enclosed binds
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon time
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:SOUND                                          2
+    voice echo
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+PRIMARY:NEED:ORALITY                                             1
+    feed
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fade
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 72.000000 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 0.000000 %
+
+120 words total

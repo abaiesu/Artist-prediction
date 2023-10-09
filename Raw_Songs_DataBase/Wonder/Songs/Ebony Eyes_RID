@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             15
+    beautiful beauty pretty beauty pretty beauty pretty beauty pretty beauty pretty pretty beauty beauty pretty
+EMOTIONS:AGGRESSION                                              6
+    beat beat beat beat beat beat
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    streets streets streets streets streets streets
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes eyes eyes eyes eyes eyes
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then when when
+SECONDARY:ABSTRACTION                                            3
+    know know cause
+EMOTIONS:GLORY                                                   2
+    supreme wonders
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiles happiness
+PRIMARY:SENSATION:VISION                                         2
+    stars light
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky birds
+EMOTIONS:AFFECTION                                               2
+    like love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:SENSATION:SOUND                                          1
+    rhythm
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 14.035088 %
+EMOTIONS            : 22.807018 %
+
+289 words total

@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       17
+    tell talk help help help help help help help help help help help help help help help
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time now times everybody now now times everybody
+SECONDARY:ABSTRACTION                                            5
+    may understand effect understand effect
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    use try try try
+EMOTIONS:AGGRESSION                                              3
+    kicked breakin breakin
+PRIMARY:SENSATION:SOUND                                          2
+    music loud
+PRIMARY:SENSATION:VISION                                         2
+    look see
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    shakin shakin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high heaven
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+
+PRIMARY             : 22.448980 %
+SECONDARY           : 69.387755 %
+EMOTIONS            : 8.163265 %
+
+404 words total

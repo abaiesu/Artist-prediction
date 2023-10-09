@@ -1,0 +1,42 @@
+EMOTIONS:AGGRESSION                                              7
+    threat shot shooting shot shot shot shooting
+PRIMARY:SENSATION:VISION                                         7
+    lights shining seeing see lights shining seeing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    inside at outside extends out outside
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea shower
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    asking asking
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again when
+SECONDARY:ABSTRACTION                                            2
+    thought believe
+PRIMARY:NEED:ORALITY                                             1
+    coughing
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    bottom
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:SENSATION:COLD                                           1
+    numb
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnt
+EMOTIONS:ANXIETY                                                 1
+    shy
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    pulse
+PRIMARY:NEED:ANALITY                                             1
+    stalls
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 15.000000 %
+EMOTIONS            : 22.500000 %
+
+127 words total

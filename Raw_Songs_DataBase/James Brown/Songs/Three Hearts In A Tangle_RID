@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                         10
+    hearts heart hearts heart heart heart hearts heart heart louder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    pay trying reach won
+EMOTIONS:AGGRESSION                                              3
+    break broken break
+SECONDARY:ABSTRACTION                                            3
+    true choose surely
+SECONDARY:TEMPORAL REFERENCES                                    3
+    then ever now
+PRIMARY:SENSATION:TASTE                                          2
+    tangle tangle
+EMOTIONS:SADNESS                                                 2
+    sorrow suffer
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancing sing
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:SENSATION:VISION                                         1
+    watching
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 31.428571 %
+EMOTIONS            : 25.714286 %
+
+135 words total

@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    beneath beneath deep beneath
+SECONDARY:TEMPORAL REFERENCES                                    4
+    again again again again
+EMOTIONS:AGGRESSION                                              3
+    beak beat knives
+PRIMARY:NEED:ORALITY                                             2
+    meat teeth
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    behind distance
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:SENSATION:SOUND                                          1
+    bell
+SECONDARY:ABSTRACTION                                            1
+    proves
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    buy
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shares
+SECONDARY:RESTRAINT                                              1
+    cages
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+EMOTIONS:AFFECTION                                               1
+    friends
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 17.391304 %
+
+61 words total

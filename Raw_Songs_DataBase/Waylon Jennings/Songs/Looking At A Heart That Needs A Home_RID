@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                         6
+    looking looking looking looking looking looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    round at at at at at
+PRIMARY:SENSATION:SOUND                                          5
+    heart heart heart heart heart
+EMOTIONS:AFFECTION                                               5
+    love like love love like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    depends accepts accepts
+SECONDARY:ABSTRACTION                                            3
+    thought guess perhaps
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    stranger strange
+SECONDARY:TEMPORAL REFERENCES                                    2
+    week times
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find found
+PRIMARY:SENSATION:SOFT                                           2
+    gentleman gentleman
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drifter
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 58.974359 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 12.820513 %
+
+159 words total

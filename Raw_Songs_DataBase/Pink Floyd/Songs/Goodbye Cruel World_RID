@@ -1,0 +1,16 @@
+EMOTIONS:AFFECTION                                               6
+    goodbye goodbye goodbye goodbye goodbye goodbye
+EMOTIONS:AGGRESSION                                              1
+    cruel
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 70.000000 %
+
+28 words total

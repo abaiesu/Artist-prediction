@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                              8
+    angry broken anger breaking hurt breaks breaking hurt
+SECONDARY:ABSTRACTION                                            7
+    believe believe believe why believe believe believe
+SECONDARY:TEMPORAL REFERENCES                                    6
+    till then time now when time
+EMOTIONS:POSITIVE AFFECT                                         5
+    smile happy happy happy happy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart inside back inside
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell forgiving forgiving
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    mending makes mending
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silently silence
+EMOTIONS:GLORY                                                   2
+    wonder proud
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:VISION                                         1
+    looking
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 18.181818 %
+SECONDARY           : 45.454545 %
+EMOTIONS            : 36.363636 %
+
+162 words total

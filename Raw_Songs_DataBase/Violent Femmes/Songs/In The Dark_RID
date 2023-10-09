@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            5
+    know know know knows knows
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long at out close
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ago ever when then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    wins risk task won
+EMOTIONS:AFFECTION                                               3
+    friend friend friend
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    game playing game
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    die die die
+EMOTIONS:AGGRESSION                                              1
+    broke
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughter
+EMOTIONS:GLORY                                                   1
+    fame
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+
+PRIMARY             : 28.125000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 28.125000 %
+
+205 words total

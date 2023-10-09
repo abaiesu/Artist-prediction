@@ -1,0 +1,52 @@
+PRIMARY:SENSATION:SOUND                                         18
+    voice noise voice voice loud voice voice hear voice loud loud hear hear voice noise voice voice voice
+SECONDARY:ABSTRACTION                                           13
+    choice cause cause believing choice cause believing choice cause choice cause choice cause
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when when now when now when when when now now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        7
+    quiet die lie silence silence quiet quiet
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out at front out out out
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    calling speak saying calling speaking
+SECONDARY:MORAL IMPERATIVE                                       4
+    shoulder shoulder shoulder shoulder
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eye foot hand hand
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain river rain
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    belong win belong
+EMOTIONS:AGGRESSION                                              3
+    violence rage killing
+PRIMARY:SENSATION:SOFT                                           2
+    whisper whisper
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    scream scream
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street street
+PRIMARY:SENSATION:VISION                                         2
+    look see
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+EMOTIONS:SADNESS                                                 2
+    pain pain
+PRIMARY:NEED:ORALITY                                             2
+    mouths lips
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:POSITIVE AFFECT                                         1
+    rejoice
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 37.755102 %
+EMOTIONS            : 12.244898 %
+
+373 words total

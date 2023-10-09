@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    tell said tell said asking asking asking say tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    trying trying tried tried pay try try
+SECONDARY:TEMPORAL REFERENCES                                    7
+    past past time now older now now
+EMOTIONS:AFFECTION                                               7
+    love love mercy mercy sympathy love love
+SECONDARY:ABSTRACTION                                            6
+    know believe believe understand prove prove
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+EMOTIONS:ANXIETY                                                 1
+    troubles
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 15.555556 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 17.777778 %
+
+203 words total

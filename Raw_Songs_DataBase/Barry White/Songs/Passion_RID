@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:SOUND                                         13
+    hearts hearts heart music hearts music hearts heart music hearts heart music hearts
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make make make make belongs make
+PRIMARY:SENSATION:VISION                                         6
+    see moonlight shine star see star
+SECONDARY:TEMPORAL REFERENCES                                    6
+    tonight time time time time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here close far at close
+EMOTIONS:AGGRESSION                                              5
+    break shooting break shooting break
+EMOTIONS:AFFECTION                                               4
+    darling like darling like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please please please
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+EMOTIONS:POSITIVE AFFECT                                         1
+    enjoy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    ecstasy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+
+PRIMARY             : 52.830189 %
+SECONDARY           : 28.301887 %
+EMOTIONS            : 18.867925 %
+
+239 words total

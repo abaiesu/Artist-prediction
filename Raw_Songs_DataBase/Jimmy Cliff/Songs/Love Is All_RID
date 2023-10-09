@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              19
+    love love love love love loving loving love love love love love love love love love love love love
+SECONDARY:ABSTRACTION                                            6
+    know know cause think know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money buy money money
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    open open
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then when
+EMOTIONS:GLORY                                                   2
+    rich rich
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:SENSATION:VISION                                         1
+    shinin
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burnin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 31.111111 %
+EMOTIONS            : 48.888889 %
+
+331 words total

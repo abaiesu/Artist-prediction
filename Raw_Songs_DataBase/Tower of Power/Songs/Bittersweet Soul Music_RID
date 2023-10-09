@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:SOUND                                         17
+    hear melody music music heart music music music music music music music music music music music music
+PRIMARY:SENSATION:TASTE                                         17
+    bitter sweetness bittersweet bittersweet bittersweet bittersweet bittersweet bittersweet bitterness sweet sweetness bittersweet bittersweet bittersweet bittersweet bittersweet bittersweet
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now moment again then when then every now
+SECONDARY:ABSTRACTION                                            7
+    thinking why why why knew why why
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    sing sing sing sing sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    behind over over
+EMOTIONS:SADNESS                                                 3
+    pain pain pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lingers lingers
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found make
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistake mistake
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handle
+EMOTIONS:AGGRESSION                                              1
+    break
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 56.000000 %
+SECONDARY           : 24.000000 %
+EMOTIONS            : 20.000000 %
+
+281 words total

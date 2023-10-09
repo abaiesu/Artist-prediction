@@ -1,0 +1,38 @@
+PRIMARY:SENSATION:SOUND                                          6
+    hearing bells ringing bells ringing bells
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    here out at where off
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    reaching make money picked
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talked said followed tell
+PRIMARY:SENSATION:VISION                                         4
+    lamp watching pink blue
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wallet line door
+SECONDARY:ABSTRACTION                                            3
+    plant cause purpose
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every time every
+PRIMARY:NEED:ORALITY                                             3
+    lemons cherries fruit
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll pitching
+PRIMARY:NEED:ANALITY                                             1
+    stalking
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    hot
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+
+PRIMARY             : 62.790698 %
+SECONDARY           : 34.883721 %
+EMOTIONS            : 2.325581 %
+
+249 words total

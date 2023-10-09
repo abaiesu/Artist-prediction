@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    across close inside where apart place middle long
+PRIMARY:SENSATION:VISION                                         5
+    watchin watchin see glowin moonlight
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now tonight already when everything
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won pick won
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell promises call promise
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes skin arms
+SECONDARY:ABSTRACTION                                            3
+    thinkin thought know
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burnin warm
+PRIMARY:SENSATION:TASTE                                          2
+    bittersweet taste
+EMOTIONS:AGGRESSION                                              2
+    breakin tore
+SECONDARY:MORAL IMPERATIVE                                       2
+    should shoulder
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    safe rest
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:RESTRAINT                                              1
+    resist
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    lonesome
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secrets
+
+PRIMARY             : 54.000000 %
+SECONDARY           : 38.000000 %
+EMOTIONS            : 8.000000 %
+
+197 words total

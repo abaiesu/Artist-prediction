@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    used making making try try make making try try make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    here back away away place where inside away away
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now past now soon then now now
+SECONDARY:ABSTRACTION                                            7
+    thought thought know think proof except think
+EMOTIONS:AFFECTION                                               4
+    love goodbye love goodbye
+EMOTIONS:SADNESS                                                 3
+    sad lonely pain
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said say say
+PRIMARY:SENSATION:VISION                                         2
+    see watching
+EMOTIONS:AGGRESSION                                              2
+    breaking breaking
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 16.666667 %
+
+208 words total

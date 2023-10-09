@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    space place where over here out wide open at over
+PRIMARY:SENSATION:VISION                                         9
+    view stars light light see see light see light
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    waters flood sea seas swimming
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    flight flight wing fly fly
+EMOTIONS:AGGRESSION                                              4
+    invaded break arrow arrows
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find won found found
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    guide teach told speech
+SECONDARY:ABSTRACTION                                            4
+    different them believe true
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again once now
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    under beneath tunnel
+EMOTIONS:AFFECTION                                               3
+    like like like
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky higher sky
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    search searched
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes flesh
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chaos
+EMOTIONS:SADNESS                                                 1
+    despair
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sinking
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ship
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+
+PRIMARY             : 65.217391 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 13.043478 %
+
+213 words total

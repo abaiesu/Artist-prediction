@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               7
+    like like like like like like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    along over side at at away
+PRIMARY:SENSATION:VISION                                         3
+    gaze appear gaze
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreams dreams dreams
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river water
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging hanging
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    hush
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    belong
+
+PRIMARY             : 72.727273 %
+SECONDARY           : 3.030303 %
+EMOTIONS            : 24.242424 %
+
+106 words total

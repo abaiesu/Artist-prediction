@@ -1,0 +1,42 @@
+EMOTIONS:AGGRESSION                                             19
+    hit broken hit hit hit hit broken hit hit hit hit hit hit hit hit hit hit hit hit
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    close back wide open far wide open close back wide open far wide open at behind
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now now now now time now past now then then
+SECONDARY:ABSTRACTION                                            8
+    guess why thought thought guess why thought thought
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes eyes eyes eyes eyes eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    slow lay rest slow lay rest
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    help signal help signal
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    roam journey roam journey
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreaming dreaming dreaming dreaming
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find reach
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high high
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+EMOTIONS:AFFECTION                                               2
+    love loved
+PRIMARY:SENSATION:HARD                                           2
+    stone stone
+PRIMARY:SENSATION:VISION                                         1
+    stars
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:TOUCH                                          1
+    touching
+
+PRIMARY             : 48.913043 %
+SECONDARY           : 28.260870 %
+EMOTIONS            : 22.826087 %
+
+413 words total

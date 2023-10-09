@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out at out aside inside back where out out out
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now again again now again again time again
+PRIMARY:SENSATION:COLD                                           5
+    cold cold cold cold cold
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    called depended shelter shelter
+EMOTIONS:AFFECTION                                               3
+    love love like
+PRIMARY:SENSATION:VISION                                         2
+    gaze looks
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sang
+PRIMARY:SENSATION:TASTE                                          1
+    sweetly
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    linger
+PRIMARY:SENSATION:SOUND                                          1
+    ringless
+SECONDARY:ABSTRACTION                                            1
+    true
+EMOTIONS:AGGRESSION                                              1
+    hurts
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 56.818182 %
+SECONDARY           : 29.545455 %
+EMOTIONS            : 13.636364 %
+
+127 words total

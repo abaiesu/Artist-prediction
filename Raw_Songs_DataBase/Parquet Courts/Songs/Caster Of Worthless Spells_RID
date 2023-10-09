@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    distance space between out at
+SECONDARY:ABSTRACTION                                            3
+    thought history cause
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river river
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said called
+SECONDARY:ORDER                                                  1
+    measured
+PRIMARY:SENSATION:VISION                                         1
+    gazing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    delivered
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+EMOTIONS:AGGRESSION                                              1
+    violent
+EMOTIONS:SADNESS                                                 1
+    suffer
+
+PRIMARY             : 55.000000 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 10.000000 %
+
+105 words total

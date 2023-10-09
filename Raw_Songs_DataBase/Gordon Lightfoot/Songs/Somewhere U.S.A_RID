@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out where somewhere far somewhere where somewhere
+EMOTIONS:AFFECTION                                               6
+    like like like love like love
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    offer met offer say offer
+SECONDARY:ABSTRACTION                                            4
+    knew knows know think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    built spend tried
+EMOTIONS:POSITIVE AFFECT                                         3
+    gladly gladly gladly
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now times
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    guitar play
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:RESTRAINT                                              1
+    bar
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:NEED:ORALITY                                             1
+    drink
+
+PRIMARY             : 36.585366 %
+SECONDARY           : 36.585366 %
+EMOTIONS            : 26.829268 %
+
+176 words total

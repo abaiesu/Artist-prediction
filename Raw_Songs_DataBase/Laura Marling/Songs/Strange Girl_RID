@@ -1,0 +1,48 @@
+EMOTIONS:AGGRESSION                                              9
+    hate angry angry cut angry angry break angry angry
+EMOTIONS:AFFECTION                                               9
+    love love friends love love like like love love
+SECONDARY:ABSTRACTION                                            7
+    them them plan something cause something supposed
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    records working paid work job build
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             6
+    strange strange strange strange strange strange
+EMOTIONS:SADNESS                                                 6
+    lonely lonely lonely lonely lonely lonely
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say call announced socialist please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out away off away
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+SECONDARY:RESTRAINT                                              2
+    refused insist
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    wave wave
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    blur
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+
+PRIMARY             : 32.352941 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 35.294118 %
+
+244 words total

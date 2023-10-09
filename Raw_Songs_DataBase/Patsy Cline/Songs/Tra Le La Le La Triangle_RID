@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               6
+    love goodbye love love love love
+PRIMARY:SENSATION:VISION                                         5
+    saw looked see look look
+PRIMARY:SENSATION:TASTE                                          3
+    tangle tangle tangle
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at at
+SECONDARY:ABSTRACTION                                            2
+    know true
+EMOTIONS:AGGRESSION                                              2
+    break hurt
+PRIMARY:NEED:ANALITY                                             1
+    mess
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 52.000000 %
+SECONDARY           : 16.000000 %
+EMOTIONS            : 32.000000 %
+
+290 words total

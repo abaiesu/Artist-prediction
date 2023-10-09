@@ -1,0 +1,46 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    making acquire make found won won
+PRIMARY:SENSATION:SOUND                                          4
+    rhythm sound sound hear
+EMOTIONS:AGGRESSION                                              4
+    breaking break stealing gun
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ever everyone instant when
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    shaking spinning spin
+EMOTIONS:AFFECTION                                               2
+    like love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow yellow
+PRIMARY:SENSATION:TASTE                                          2
+    sweetest taste
+SECONDARY:ABSTRACTION                                            2
+    different think
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    port port
+EMOTIONS:GLORY                                                   2
+    royal royal
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fever
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    side
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 30.952381 %
+EMOTIONS            : 26.190476 %
+
+145 words total

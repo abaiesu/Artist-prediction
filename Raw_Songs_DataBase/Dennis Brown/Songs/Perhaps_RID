@@ -1,0 +1,22 @@
+SECONDARY:SOCIAL BEHAVIOR                                       21
+    able tell ask ask answer say confess please tell ask ask answer say confess please tell say sayin sayin sayin say
+SECONDARY:ABSTRACTION                                           18
+    know perhaps perhaps perhaps perhaps perhaps perhaps perhaps perhaps perhaps perhaps perhaps perhaps perhaps perhaps perhaps why perhaps
+SECONDARY:TEMPORAL REFERENCES                                    6
+    times then again times then again
+EMOTIONS:AFFECTION                                               5
+    love love dear love dear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make won
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over over
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+PRIMARY:SENSATION:SOUND                                          2
+    hearted hearted
+
+PRIMARY             : 6.779661 %
+SECONDARY           : 81.355932 %
+EMOTIONS            : 11.864407 %
+
+208 words total

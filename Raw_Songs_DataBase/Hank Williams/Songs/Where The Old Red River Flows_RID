@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    tonight old while old old tonight tonight old old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where place where where at where back where where
+PRIMARY:SENSATION:VISION                                         5
+    see lights lights shine bright
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    river river beach river river
+PRIMARY:SENSATION:SOFT                                           4
+    soft soft soft soft
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used makes
+EMOTIONS:AFFECTION                                               2
+    dear love
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    twilight twilight
+EMOTIONS:POSITIVE AFFECT                                         2
+    laughter gay
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+EMOTIONS:AGGRESSION                                              1
+    whippoorwills
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+PRIMARY:SENSATION:HARD                                           1
+    rocks
+PRIMARY:SENSATION:COLD                                           1
+    icy
+
+PRIMARY             : 67.346939 %
+SECONDARY           : 22.448980 %
+EMOTIONS            : 10.204082 %
+
+167 words total

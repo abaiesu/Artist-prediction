@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    far away back behind away back away back away back
+SECONDARY:ABSTRACTION                                            5
+    cause meant think meant think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used try try won
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when again again again
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms arms arms
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:POSITIVE AFFECT                                         2
+    gay gay
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:SENSATION:SOUND                                          1
+    music
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 37.142857 %
+EMOTIONS            : 20.000000 %
+
+171 words total

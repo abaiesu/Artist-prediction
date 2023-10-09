@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here here back back here back back back
+SECONDARY:ABSTRACTION                                            6
+    thinking know think think thinking thinking
+EMOTIONS:AFFECTION                                               6
+    like love love love love love
+EMOTIONS:AGGRESSION                                              6
+    blame hurt blame hurt hurt hurt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    won won won won won
+PRIMARY:SENSATION:VISION                                         4
+    light see see light
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    burned hot burned hot
+EMOTIONS:SADNESS                                                 2
+    sad sad
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:NEED:ORALITY                                             2
+    fast fast
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    explain
+
+PRIMARY             : 40.425532 %
+SECONDARY           : 29.787234 %
+EMOTIONS            : 29.787234 %
+
+305 words total

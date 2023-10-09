@@ -1,0 +1,30 @@
+SECONDARY:ORDER                                                 19
+    measure measure measure measure measure measure measure measure measure measure measure measure measure measure measure measure measure measure measure
+SECONDARY:ABSTRACTION                                            6
+    believe know believe know believe know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call tell call tell say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    straight away behind
+SECONDARY:TEMPORAL REFERENCES                                    3
+    soon soon now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money money tried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    skin neck face
+PRIMARY:SENSATION:VISION                                         2
+    watched look
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+
+PRIMARY             : 22.000000 %
+SECONDARY           : 72.000000 %
+EMOTIONS            : 6.000000 %
+
+275 words total

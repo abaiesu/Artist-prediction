@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      10
+    bridge bridge road bridge bridge bridge fence bridge bridge bridge
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    place somewhere place along over here over here close at
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every when now old when when
+PRIMARY:SENSATION:VISION                                         5
+    seen looking see look see
+SECONDARY:ABSTRACTION                                            4
+    thinks almost almost think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    finds sowing find
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say says say
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+EMOTIONS:GLORY                                                   1
+    rich
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:SENSATION:SOUND                                          1
+    tune
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rides
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 32.692308 %
+EMOTIONS            : 9.615385 %
+
+265 words total

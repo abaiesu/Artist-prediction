@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    sea wet sea swimmer swimee sea
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    bouncing float float
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    deep deep deep
+PRIMARY:SENSATION:VISION                                         3
+    blue blue blue
+SECONDARY:ABSTRACTION                                            3
+    something know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    near at
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:GLORY                                                   2
+    great richie
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time everyday
+PRIMARY:NEED:ORALITY                                             1
+    biting
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 59.375000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 15.625000 %
+
+459 words total

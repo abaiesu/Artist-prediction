@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out somewhere side out long
+SECONDARY:ABSTRACTION                                            3
+    know them think
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treat respond
+EMOTIONS:AGGRESSION                                              2
+    kick beat
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawning
+PRIMARY:NEED:ORALITY                                             1
+    spoon
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    bedlam
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:GLORY                                                   1
+    crown
+EMOTIONS:AFFECTION                                               1
+    friend
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 20.000000 %
+
+148 words total

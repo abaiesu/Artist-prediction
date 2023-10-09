@@ -1,0 +1,48 @@
+SECONDARY:ABSTRACTION                                           10
+    think cause know think think something thought know know think
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when once year older now now now now when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    over out outside here somewhere where at far far
+PRIMARY:SENSATION:VISION                                         5
+    saw stars saw stars stars
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    money bought sold
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    says meet say
+PRIMARY:NEED:ANALITY                                             2
+    stalker shit
+EMOTIONS:AGGRESSION                                              2
+    hate hit
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    security
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 48.214286 %
+EMOTIONS            : 8.928571 %
+
+263 words total

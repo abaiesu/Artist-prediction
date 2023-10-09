@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when time time then
+PRIMARY:SENSATION:SOUND                                          5
+    whistle whistle whistle whistle whistle
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    behind reared somewhere middle
+SECONDARY:ORDER                                                  3
+    listen listen listen
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say speak
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees tree
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    built try
+EMOTIONS:AFFECTION                                               2
+    goodbye goodbye
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+SECONDARY:ABSTRACTION                                            1
+    chose
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climbed
+PRIMARY:SENSATION:VISION                                         1
+    colors
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 44.117647 %
+EMOTIONS            : 5.882353 %
+
+171 words total

@@ -1,0 +1,30 @@
+EMOTIONS:AGGRESSION                                             10
+    war war war war fury threat defeat war war war
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now time now everywhere now time when hour now
+EMOTIONS:SADNESS                                                 4
+    suffering grief pain pain
+SECONDARY:ABSTRACTION                                            3
+    know almost judge
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over out overcome
+EMOTIONS:GLORY                                                   2
+    glory victory
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    wings
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    roars
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:ANXIETY                                                 1
+    panic
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 13.513514 %
+SECONDARY           : 37.837838 %
+EMOTIONS            : 48.648649 %
+
+152 words total

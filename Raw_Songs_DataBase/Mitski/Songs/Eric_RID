@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                         6
+    watch watching view blue light notice
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    off closer long long at
+SECONDARY:ABSTRACTION                                            5
+    choose know know know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    makes sell sell price
+EMOTIONS:AFFECTION                                               3
+    like loving like
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    help kneel forgive
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head skin skin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play cries
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:RESTRAINT                                              1
+    control
+EMOTIONS:AGGRESSION                                              1
+    hurt
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:ANXIETY                                                 1
+    trembling
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulders
+PRIMARY:SENSATION:SOFT                                           1
+    soft
+EMOTIONS:SADNESS                                                 1
+    weep
+
+PRIMARY             : 45.238095 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 21.428571 %
+
+179 words total

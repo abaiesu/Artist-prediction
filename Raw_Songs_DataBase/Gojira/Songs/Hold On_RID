@@ -1,0 +1,44 @@
+EMOTIONS:AGGRESSION                                             12
+    striking fight fight fight fight fight fight break fight fight fight fight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    far long out open where
+EMOTIONS:POSITIVE AFFECT                                         4
+    grinding grinding grinding grinding
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    ocean ocean flood ocean
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find find belong attempt
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time now when when
+EMOTIONS:AFFECTION                                               3
+    mercy mercy embrace
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    depth deep under
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    safety death die
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride ride ride
+SECONDARY:ABSTRACTION                                            3
+    prove understand may
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun fire
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging rise
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:SENSATION:VISION                                         1
+    witness
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shelter
+
+PRIMARY             : 46.551724 %
+SECONDARY           : 20.689655 %
+EMOTIONS            : 32.758621 %
+
+223 words total

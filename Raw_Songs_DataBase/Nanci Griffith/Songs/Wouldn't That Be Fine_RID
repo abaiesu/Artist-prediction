@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    behind beside away away away place round behind
+PRIMARY:SENSATION:VISION                                         3
+    see light saw
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes head
+SECONDARY:TEMPORAL REFERENCES                                    2
+    years now
+EMOTIONS:AGGRESSION                                              2
+    broken anger
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ABSTRACTION                                            1
+    knew
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flown
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:NEED:SEX                                                 1
+    naked
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:HARD                                           1
+    rock
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulders
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 16.666667 %
+EMOTIONS            : 16.666667 %
+
+177 words total

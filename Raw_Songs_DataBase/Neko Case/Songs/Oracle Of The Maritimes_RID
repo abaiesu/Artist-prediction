@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    chest hand legs hand face hair hand eyes eyes
+SECONDARY:ABSTRACTION                                            8
+    planned cause sure surely real cause thoughts sure
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    asked tell tell tell said said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream dream oracle oracle
+EMOTIONS:AFFECTION                                               4
+    love like love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside here distance
+EMOTIONS:ANXIETY                                                 3
+    afraid worry scared
+SECONDARY:TEMPORAL REFERENCES                                    2
+    sometimes sometimes
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange exotic
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean ocean
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    died
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloudy
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fireworks
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+PRIMARY:SENSATION:HARD                                           1
+    granite
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    shout
+
+PRIMARY             : 54.385965 %
+SECONDARY           : 31.578947 %
+EMOTIONS            : 14.035088 %
+
+234 words total

@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           13
+    know understand why why know knew plans understand know knew plans understand know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talk help invited invited
+EMOTIONS:SADNESS                                                 3
+    depressed pain pain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back off long
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eyes eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    prepare mended
+SECONDARY:TEMPORAL REFERENCES                                    2
+    once now
+EMOTIONS:ANXIETY                                                 2
+    shudder desperation
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    nightmare
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:NEED:ANALITY                                             1
+    disgust
+PRIMARY:SENSATION:VISION                                         1
+    watched
+PRIMARY:NEED:ORALITY                                             1
+    beer
+EMOTIONS:AGGRESSION                                              1
+    anger
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:RESTRAINT                                              1
+    stopped
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+
+PRIMARY             : 27.906977 %
+SECONDARY           : 51.162791 %
+EMOTIONS            : 20.930233 %
+
+215 words total

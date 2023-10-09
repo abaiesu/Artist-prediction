@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back back where pointless along where round round
+SECONDARY:TEMPORAL REFERENCES                                    8
+    sometimes every every when now once yesterday now
+PRIMARY:SENSATION:VISION                                         5
+    see stars light see stars
+PRIMARY:SENSATION:SOUND                                          4
+    hear hear hear hear
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    callin call callin call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    job makin used
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    sky sky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fallin fallin
+EMOTIONS:SADNESS                                                 1
+    lonesome
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 56.410256 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 5.128205 %
+
+175 words total

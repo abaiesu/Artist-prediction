@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    date time past again time past
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say say call say say talking
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           6
+    driver driver drive driver driver drive
+PRIMARY:NEED:ORALITY                                             3
+    corner fast fast
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    slow slow slow
+SECONDARY:ABSTRACTION                                            3
+    cause know cause
+PRIMARY:SENSATION:VISION                                         2
+    looks looks
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    somewhere somewhere
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    slipping slipping
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    mad
+EMOTIONS:AGGRESSION                                              1
+    complain
+
+PRIMARY             : 51.351351 %
+SECONDARY           : 40.540541 %
+EMOTIONS            : 8.108108 %
+
+134 words total

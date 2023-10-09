@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    preacher call call tell tell call told call
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at round at at where at
+EMOTIONS:AFFECTION                                               6
+    loved welcome welcome welcome welcome welcome
+SECONDARY:ABSTRACTION                                            4
+    believe believe believe believe
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    sinking sinking sinking sinking
+PRIMARY:SENSATION:VISION                                         4
+    look look look look
+EMOTIONS:ANXIETY                                                 4
+    trouble trouble trouble trouble
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spent won
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grew heaven
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    neck brain
+EMOTIONS:SADNESS                                                 2
+    orphanage moan
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:SENSATION:SOUND                                          1
+    ring
+EMOTIONS:GLORY                                                   1
+    throne
+PRIMARY:NEED:ORALITY                                             1
+    liquor
+
+PRIMARY             : 44.897959 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 26.530612 %
+
+215 words total

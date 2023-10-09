@@ -1,0 +1,28 @@
+EMOTIONS:AGGRESSION                                              6
+    breaks breaks revenge breaks broke broke
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when now when when
+EMOTIONS:AFFECTION                                               5
+    like loves like like like
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    pick used
+SECONDARY:ABSTRACTION                                            2
+    true learn
+EMOTIONS:SADNESS                                                 1
+    misery
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:GLORY                                                   1
+    applaudin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    front
+
+PRIMARY             : 26.666667 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 43.333333 %
+
+123 words total

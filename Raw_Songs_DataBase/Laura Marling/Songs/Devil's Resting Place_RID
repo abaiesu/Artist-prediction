@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    off place place out place here away place where where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    won won job sold won won won won
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    call say ask please say speak say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          7
+    eyes blood face head chest face face
+PRIMARY:ICARIAN IMAGERY:WATER                                    7
+    sea water water water water water water
+SECONDARY:ABSTRACTION                                            4
+    know why think think
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when tonight
+EMOTIONS:AGGRESSION                                              3
+    loathed loathed loathed
+PRIMARY:SENSATION:TASTE                                          3
+    taste bitterness taste
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step wall
+PRIMARY:NEED:ORALITY                                             2
+    drink drink
+PRIMARY:SENSATION:VISION                                         2
+    look gaze
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rests rests
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumped
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 58.208955 %
+SECONDARY           : 35.820896 %
+EMOTIONS            : 5.970149 %
+
+281 words total

@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where side rearrange out
+SECONDARY:TEMPORAL REFERENCES                                    3
+    today today today
+PRIMARY:SENSATION:VISION                                         2
+    sunshine appear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find found
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:ABSTRACTION                                            1
+    perhaps
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rising
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+
+PRIMARY             : 52.631579 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 10.526316 %
+
+71 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              13
+    love like lovin lovin love lovin lovin lovin love dear lovin lovin lovin
+SECONDARY:RESTRAINT                                              9
+    stop stop stop stop stop stop stop stop stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    inside inside out near inside near near closer
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when yearnin every every moment ever
+SECONDARY:ABSTRACTION                                            6
+    somethin sure believe know surely reason
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    spark fire flame
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell shared met
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:VISION                                         1
+    glow
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:ORDER                                                  1
+    simply
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 27.586207 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 22.413793 %
+
+230 words total

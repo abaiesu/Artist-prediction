@@ -1,0 +1,32 @@
+PRIMARY:NEED:ORALITY                                            13
+    meals meals eat eat food eat meals meals eat eat food eat eat
+EMOTIONS:AFFECTION                                              10
+    like like friend love like like like like like friend
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    describe call talk call talk call talk
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when now when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    beside rearrange beside rearrange rearrange
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    makes make try makes makes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    wake wake wake
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:AGGRESSION                                              1
+    break
+EMOTIONS:ANXIETY                                                 1
+    fearful
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 21.428571 %
+
+287 words total

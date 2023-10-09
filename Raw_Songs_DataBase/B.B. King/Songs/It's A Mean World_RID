@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    old old when when
+EMOTIONS:POSITIVE AFFECT                                         4
+    smile laugh smile laugh
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    blood vein blood vein
+EMOTIONS:ANXIETY                                                 2
+    worryin worryin
+SECONDARY:ABSTRACTION                                            2
+    knowin cause
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    here
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistreat
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 39.130435 %
+SECONDARY           : 26.086957 %
+EMOTIONS            : 34.782609 %
+
+132 words total

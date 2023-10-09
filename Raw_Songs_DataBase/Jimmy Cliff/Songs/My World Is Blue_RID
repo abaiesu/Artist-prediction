@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:VISION                                        14
+    blue blue blue blue see blue blue see blue blue see blue blue blue
+SECONDARY:TEMPORAL REFERENCES                                    7
+    clock soon now clock soon now then
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    telling help help help help said
+EMOTIONS:AGGRESSION                                              4
+    broke hurting broke break
+EMOTIONS:AFFECTION                                               3
+    flirting loving loving
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleeping
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    dawning dawning
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistake mistake
+PRIMARY:SENSATION:SOUND                                          2
+    heartache heartache
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 52.083333 %
+SECONDARY           : 31.250000 %
+EMOTIONS            : 16.666667 %
+
+236 words total

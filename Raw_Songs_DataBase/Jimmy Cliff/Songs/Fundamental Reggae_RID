@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                              10
+    love like like love like love like like love like
+PRIMARY:SENSATION:SOUND                                          8
+    music sound rhythm music music sound rhythm music
+SECONDARY:ABSTRACTION                                            5
+    know know solution know know
+EMOTIONS:AGGRESSION                                              3
+    beat steal beat
+SECONDARY:TEMPORAL REFERENCES                                    2
+    every everyone
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found make
+PRIMARY:NEED:ORALITY                                             1
+    soup
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+SECONDARY:ORDER                                                  1
+    classical
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 34.210526 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 36.842105 %
+
+165 words total

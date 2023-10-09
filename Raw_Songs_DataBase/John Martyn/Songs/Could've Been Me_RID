@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                        11
+    see look see look see see see see gleam watch gleam
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eye eye eye eye eye eye
+SECONDARY:ABSTRACTION                                            6
+    know knew know know know know
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow tell tell
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back round
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time when
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waving
+EMOTIONS:AFFECTION                                               1
+    goodbye
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+
+PRIMARY             : 64.705882 %
+SECONDARY           : 32.352941 %
+EMOTIONS            : 2.941176 %
+
+240 words total

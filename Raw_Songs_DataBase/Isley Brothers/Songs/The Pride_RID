@@ -1,0 +1,30 @@
+EMOTIONS:GLORY                                                  16
+    pride pride pride pride pride pride pride pride pride pride pride pride pride pride pride pride
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    makes belong makes makes makes try makes make makes belong
+SECONDARY:ABSTRACTION                                            6
+    know know think think think think
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when when when again when when
+EMOTIONS:AGGRESSION                                              4
+    break break break break
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    along long
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say say
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burned
+
+PRIMARY             : 9.803922 %
+SECONDARY           : 49.019608 %
+EMOTIONS            : 41.176471 %
+
+243 words total

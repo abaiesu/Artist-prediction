@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:VISION                                         8
+    shine see seen saw looking look seen seen
+SECONDARY:TEMPORAL REFERENCES                                    7
+    ever when while while then while while
+EMOTIONS:AGGRESSION                                              7
+    steal kick hate hurts beat kicking kick
+EMOTIONS:POSITIVE AFFECT                                         7
+    joy laugh joke laugh joke laugh joke
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    place middle inside longer back across behind
+SECONDARY:ABSTRACTION                                            4
+    them them them them
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face face eyes hair
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell call call call
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    spin spin spin
+EMOTIONS:ANXIETY                                                 2
+    nervous scared
+PRIMARY:NEED:ANALITY                                             2
+    dirt dirt
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying carrying
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    river stream
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:SADNESS                                                 1
+    discouraged
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    ladder
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+
+PRIMARY             : 48.529412 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 26.470588 %
+
+262 words total

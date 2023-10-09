@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside outside out
+EMOTIONS:AGGRESSION                                              3
+    torment rage tortured
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    screams horns
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    price paid
+EMOTIONS:SADNESS                                                 2
+    pain dirges
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    faces head
+EMOTIONS:ANXIETY                                                 1
+    terrorism
+PRIMARY:SENSATION:SOUND                                          1
+    deafening
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    message
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    blast
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisting
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 42.857143 %
+
+83 words total

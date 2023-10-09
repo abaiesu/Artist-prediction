@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              24
+    flirt intimate flirtatious flirtatious flirtatious flirtatious flirt flirtatious flirtatious flirtatious flirtatious flirt flirtatious flirtatious flirtatious flirtatious flirtatious flirtatious flirtatious flirtatious flirtatious flirtatious flirtatious flirtatious
+SECONDARY:ABSTRACTION                                           15
+    think perhaps thought choose consider probably believe something guess probably probably know probably real know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    at inside where inside where inside where
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    making won make won won
+EMOTIONS:AGGRESSION                                              5
+    hurt hurt hurt hurt fight
+PRIMARY:SENSATION:TOUCH                                          5
+    touch touch touch touch touch
+EMOTIONS:SADNESS                                                 4
+    sorry sorry sorry sorry
+PRIMARY:SENSATION:VISION                                         4
+    look look look look
+SECONDARY:TEMPORAL REFERENCES                                    3
+    once once once
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes arms
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    stimulation physical
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    respond pleasure
+EMOTIONS:ANXIETY                                                 1
+    alarm
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:NEED:SEX                                                 1
+    sensual
+
+PRIMARY             : 25.925926 %
+SECONDARY           : 30.864198 %
+EMOTIONS            : 43.209877 %
+
+399 words total

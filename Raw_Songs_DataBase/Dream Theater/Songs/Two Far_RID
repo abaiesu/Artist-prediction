@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    far away distance here here distance close here inside here
+SECONDARY:TEMPORAL REFERENCES                                    5
+    today again time time time
+PRIMARY:SENSATION:SOUND                                          3
+    hearts hearts heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reaching test
+SECONDARY:RESTRAINT                                              2
+    control must
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    transcend transcending
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb climb
+PRIMARY:SENSATION:TOUCH                                          1
+    contact
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pour
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 68.750000 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 3.125000 %
+
+87 words total

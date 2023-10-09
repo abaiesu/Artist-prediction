@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                              14
+    dear dear love love goodbye love goodbye love goodbye love goodbye love goodbye love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out longer at at side somewhere
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    speak say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spend used find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    leg hand
+PRIMARY:SENSATION:VISION                                         2
+    light light
+SECONDARY:TEMPORAL REFERENCES                                    2
+    soon when
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:AGGRESSION                                              1
+    unkind
+PRIMARY:SENSATION:SOUND                                          1
+    belly
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fairest
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sports
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 34.883721 %
+SECONDARY           : 25.581395 %
+EMOTIONS            : 39.534884 %
+
+153 words total

@@ -1,0 +1,52 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    years years moment every when time while when
+PRIMARY:ICARIAN IMAGERY:WATER                                    6
+    rain stream fountain rain rain fountain
+EMOTIONS:AGGRESSION                                              6
+    shotgun whipcream breakdown fought shot kick
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    sparks hot sparks sparks sparks
+SECONDARY:ABSTRACTION                                            5
+    thoughts knew true reality real
+EMOTIONS:AFFECTION                                               4
+    like like marries like
+PRIMARY:SENSATION:HARD                                           3
+    hard steel nail
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over here at
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed deadend peaceful
+PRIMARY:SENSATION:SOUND                                          3
+    drum ring hear
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street door
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    countdown countdown
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    roll roll
+PRIMARY:NEED:SEX                                                 2
+    naked kiss
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hung
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+
+PRIMARY             : 56.923077 %
+SECONDARY           : 27.692308 %
+EMOTIONS            : 15.384615 %
+
+210 words total

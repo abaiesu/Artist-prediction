@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    speak tell speak speak say say speak speak help
+SECONDARY:ABSTRACTION                                            8
+    choice thought choice cause know choice choice choice
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    won money find goal goal find makes
+PRIMARY:SENSATION:SOUND                                          5
+    voice voice voice voice voice
+SECONDARY:TEMPORAL REFERENCES                                    5
+    times time when again sometimes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    here places at over
+EMOTIONS:AFFECTION                                               4
+    married married married married
+EMOTIONS:SADNESS                                                 2
+    lonely sorry
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    lifetime
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 24.489796 %
+SECONDARY           : 61.224490 %
+EMOTIONS            : 14.285714 %
+
+383 words total

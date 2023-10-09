@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away round out out here along here here along
+SECONDARY:TEMPORAL REFERENCES                                    8
+    once now now now now while now now
+EMOTIONS:AGGRESSION                                              6
+    stab cut hurt violence war killing
+SECONDARY:ABSTRACTION                                            6
+    may them history know know know
+EMOTIONS:AFFECTION                                               4
+    like like like lovers
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    dancing sing dancing sing
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please tell please
+PRIMARY:SENSATION:COLD                                           2
+    cold winters
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    decay silence
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:NEED:ORALITY                                             1
+    spite
+EMOTIONS:GLORY                                                   1
+    scorn
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeping
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sweeps
+PRIMARY:SENSATION:SOUND                                          1
+    deafening
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 39.285714 %
+SECONDARY           : 32.142857 %
+EMOTIONS            : 28.571429 %
+
+223 words total

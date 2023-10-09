@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    once now now hour already when years when
+PRIMARY:SENSATION:VISION                                         4
+    see appear bright shining
+PRIMARY:SENSATION:SOUND                                          2
+    sound heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found toils
+EMOTIONS:ANXIETY                                                 2
+    fear fears
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    taught
+EMOTIONS:POSITIVE AFFECT                                         1
+    relieved
+SECONDARY:ABSTRACTION                                            1
+    believed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    safe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    far
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 37.037037 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 18.518519 %
+
+103 words total

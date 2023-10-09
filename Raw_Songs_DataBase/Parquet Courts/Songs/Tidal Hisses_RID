@@ -1,0 +1,26 @@
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time moment time
+SECONDARY:ORDER                                                  2
+    constant constant
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    longer out
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slow drifting
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn sizzle
+PRIMARY:SENSATION:SOUND                                          2
+    humming hisses
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sunsets
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heads
+EMOTIONS:AFFECTION                                               1
+    love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 11.764706 %
+
+62 words total

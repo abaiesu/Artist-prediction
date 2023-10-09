@@ -1,0 +1,40 @@
+EMOTIONS:AFFECTION                                               9
+    loves loves loves loves like loves loves loves loves
+SECONDARY:ABSTRACTION                                            5
+    know why think cause knows
+SECONDARY:TEMPORAL REFERENCES                                    3
+    while now again
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    warm sun melting
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    use win make
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rivers rain rain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at long
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands eyes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:NEED:ORALITY                                             1
+    drink
+SECONDARY:RESTRAINT                                              1
+    catch
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+EMOTIONS:GLORY                                                   1
+    wondering
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 28.205128 %
+
+215 words total

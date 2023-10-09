@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    once now ever already once again
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    offer please response influence
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    apart space within
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:SENSATION:TOUCH                                          3
+    touching brushing scratch
+SECONDARY:ABSTRACTION                                            2
+    something understood
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find trying
+EMOTIONS:AGGRESSION                                              2
+    fought shot
+PRIMARY:SENSATION:VISION                                         2
+    colour gazing
+SECONDARY:MORAL IMPERATIVE                                       1
+    virtue
+SECONDARY:RESTRAINT                                              1
+    interference
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edges
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+EMOTIONS:AFFECTION                                               1
+    embracing
+EMOTIONS:GLORY                                                   1
+    golden
+
+PRIMARY             : 39.393939 %
+SECONDARY           : 48.484848 %
+EMOTIONS            : 12.121212 %
+
+90 words total

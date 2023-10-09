@@ -1,0 +1,36 @@
+SECONDARY:RESTRAINT                                              6
+    must must must must must must
+EMOTIONS:SADNESS                                                 6
+    dreary dreary woe woe woe woe
+SECONDARY:TEMPORAL REFERENCES                                    5
+    soon then then then then
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    die lay dead dead
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    regions where regions where
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        4
+    eternal eternal eternal eternal
+EMOTIONS:POSITIVE AFFECT                                         4
+    happiness happiness happiness happiness
+EMOTIONS:ANXIETY                                                 2
+    trembling trembling
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    spirit spirit
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    unknown unknown
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deepest
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+SECONDARY:ABSTRACTION                                            1
+    thought
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 26.666667 %
+
+109 words total

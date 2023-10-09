@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                            9
+    know think think think think think think think think
+PRIMARY:SENSATION:SOUND                                          9
+    heard heard heart heard heard heard heard heard heard
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  8
+    stirred stirred stirred stirred stirred stirred stirred stirred
+PRIMARY:SENSATION:VISION                                         5
+    saw look light brighten look
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    inside behind behind
+PRIMARY:SENSATION:HARD                                           2
+    stone stone
+EMOTIONS:AGGRESSION                                              2
+    gun gun
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wandering wandering
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wilderness wild
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warmer
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grown
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    weary
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    minstrel
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawned
+EMOTIONS:POSITIVE AFFECT                                         1
+    delights
+
+PRIMARY             : 68.518519 %
+SECONDARY           : 20.370370 %
+EMOTIONS            : 11.111111 %
+
+211 words total

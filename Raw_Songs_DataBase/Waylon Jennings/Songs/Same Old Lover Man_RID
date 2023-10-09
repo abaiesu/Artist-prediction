@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               6
+    lover lover like kinda lover lover
+SECONDARY:ABSTRACTION                                            6
+    cause believe believe believe believe believe
+SECONDARY:TEMPORAL REFERENCES                                    5
+    old ago old old old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long long back outside
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say please say
+EMOTIONS:AGGRESSION                                              3
+    deceive deceive deceive
+PRIMARY:SENSATION:COLD                                           3
+    children cold child
+EMOTIONS:SADNESS                                                 3
+    lonesome grief grief
+PRIMARY:SENSATION:SOUND                                          2
+    hear voices
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+
+PRIMARY             : 29.729730 %
+SECONDARY           : 37.837838 %
+EMOTIONS            : 32.432432 %
+
+147 words total

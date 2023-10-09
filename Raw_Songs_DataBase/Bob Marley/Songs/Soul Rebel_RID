@@ -1,0 +1,38 @@
+EMOTIONS:AGGRESSION                                             13
+    rebel rebel rebel rebel bother rebel rebel rebel rebel rebel rebel rebel rebel
+SECONDARY:RESTRAINT                                              8
+    capturer must must must capturer capturer must capturer
+PRIMARY:SENSATION:VISION                                         6
+    see blue blue blue see blue
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said say talk talk say said
+EMOTIONS:GLORY                                                   5
+    adventurer adventurer adventurer adventure adventurer
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    wide wide at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work won work
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hillside hillside
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    travel travel
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then time
+SECONDARY:ABSTRACTION                                            2
+    them them
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:NEED:ORALITY                                             1
+    corner
+
+PRIMARY             : 31.666667 %
+SECONDARY           : 35.000000 %
+EMOTIONS            : 33.333333 %
+
+174 words total

@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then then then then when when
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    confess said mentioned taught teachings please
+PRIMARY:SENSATION:SOUND                                          4
+    heard heart hear heard
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    lit candle warm
+PRIMARY:SENSATION:VISION                                         3
+    green look blue
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make practice studied
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long back here
+SECONDARY:ABSTRACTION                                            3
+    sure suppose guess
+PRIMARY:SENSATION:COLD                                           3
+    shivering froze ice
+EMOTIONS:AGGRESSION                                              2
+    jealous tortured
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+SECONDARY:RESTRAINT                                              2
+    locked stop
+PRIMARY:NEED:ORALITY                                             2
+    honeymoon lips
+EMOTIONS:AFFECTION                                               2
+    loved lovers
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepless
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruin
+SECONDARY:MORAL IMPERATIVE                                       1
+    duty
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    pool
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+
+PRIMARY             : 49.019608 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 9.803922 %
+
+250 words total

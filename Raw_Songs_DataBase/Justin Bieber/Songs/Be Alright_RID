@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    now now everything everything soon everything everything everything everything everything
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    across across at over across at long here
+SECONDARY:ABSTRACTION                                            8
+    know cause cause cause know know cause cause
+PRIMARY:SENSATION:VISION                                         5
+    look see look bright lights
+EMOTIONS:ANXIETY                                                 5
+    worry worry worry worry worry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face eyes arms
+EMOTIONS:SADNESS                                                 3
+    sorrow sorrow sorrow
+EMOTIONS:AGGRESSION                                              3
+    fights fights fights
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    ocean sea
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call promise
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 42.372881 %
+SECONDARY           : 37.288136 %
+EMOTIONS            : 20.338983 %
+
+231 words total

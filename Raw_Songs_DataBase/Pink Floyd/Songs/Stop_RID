@@ -1,0 +1,16 @@
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    off
+SECONDARY:ORDER                                                  1
+    uniform
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 20.000000 %
+SECONDARY           : 80.000000 %
+EMOTIONS            : 0.000000 %
+
+32 words total

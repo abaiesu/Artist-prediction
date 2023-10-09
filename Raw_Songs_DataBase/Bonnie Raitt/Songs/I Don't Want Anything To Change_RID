@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everywhere time moment time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    rearrange over outside over
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    pick won won
+EMOTIONS:SADNESS                                                 2
+    sad lonely
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fading fading
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    borrow borrow
+SECONDARY:ABSTRACTION                                            2
+    know truth
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleepless
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+PRIMARY:NEED:ANALITY                                             1
+    mess
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 36.000000 %
+SECONDARY           : 48.000000 %
+EMOTIONS            : 16.000000 %
+
+221 words total

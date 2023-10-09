@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    near where where somewhere where where near long near
+SECONDARY:ABSTRACTION                                            9
+    know know know know real suppose know prove prove
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again old every every again again
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    silence dead dead
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    window road road
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+EMOTIONS:AFFECTION                                               2
+    friend friend
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    signal forgive
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    spirit
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    desert
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hair
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    finds
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    searchlight
+EMOTIONS:AGGRESSION                                              1
+    strike
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 12.500000 %
+
+216 words total

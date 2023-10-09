@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    now old soon now when again now now time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    sang troubadours art troubadours troubadours troubadours
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out wherefore out
+EMOTIONS:AFFECTION                                               4
+    darlin love love like
+PRIMARY:SENSATION:HARD                                           4
+    hard hard hard hard
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door floor window
+SECONDARY:ABSTRACTION                                            3
+    figure figure knew
+EMOTIONS:AGGRESSION                                              2
+    bother fight
+SECONDARY:RESTRAINT                                              1
+    lock
+PRIMARY:NEED:SEX                                                 1
+    bitch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:SOFT                                           1
+    satin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:SENSATION:VISION                                         1
+    blue
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 27.272727 %
+
+196 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      12
+    street avenue door door door door door door door door door door
+PRIMARY:SENSATION:VISION                                        10
+    see blues blues blues blues blues blues blues blues blues
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    call tell talk called talk
+EMOTIONS:SADNESS                                                 4
+    sorrow pain moan sad
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when every every
+EMOTIONS:AFFECTION                                               3
+    pity love goodbye
+EMOTIONS:AGGRESSION                                              2
+    hurts blame
+PRIMARY:NEED:ORALITY                                             2
+    food cook
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    across
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:SENSATION:TASTE                                          1
+    bittersweet
+EMOTIONS:POSITIVE AFFECT                                         1
+    joy
+
+PRIMARY             : 59.183673 %
+SECONDARY           : 18.367347 %
+EMOTIONS            : 22.448980 %
+
+215 words total

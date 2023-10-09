@@ -1,0 +1,30 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    tried won won tried
+SECONDARY:TEMPORAL REFERENCES                                    4
+    once when when when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cried sight cried
+EMOTIONS:AGGRESSION                                              3
+    broke broke hate
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+EMOTIONS:SADNESS                                                 2
+    wailed wailed
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    died died
+SECONDARY:ABSTRACTION                                            2
+    cause cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    apart
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+
+PRIMARY             : 29.629630 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 33.333333 %
+
+216 words total

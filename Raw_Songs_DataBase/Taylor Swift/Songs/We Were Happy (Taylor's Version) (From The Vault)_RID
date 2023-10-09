@@ -1,0 +1,42 @@
+EMOTIONS:POSITIVE AFFECT                                        14
+    happy happy laughed happy happy laughed happy happy happy happy laughed happy happy happy
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when when while when when now when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    along somewhere back back back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used buy used buy
+PRIMARY:SENSATION:VISION                                         4
+    lights shining bright watch
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talking talking telling talking
+PRIMARY:SENSATION:TOUCH                                          3
+    touch touch touch
+EMOTIONS:AFFECTION                                               3
+    goodbye love marry
+SECONDARY:ABSTRACTION                                            3
+    cause choices cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms neck
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streets
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    threw
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:HARD                                           1
+    harder
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:SENSATION:SOUND                                          1
+    voices
+
+PRIMARY             : 34.482759 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 31.034483 %
+
+261 words total

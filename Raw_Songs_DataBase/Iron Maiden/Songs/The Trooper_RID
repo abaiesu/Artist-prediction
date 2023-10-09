@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    back towards round near far away close near rounds at
+EMOTIONS:AGGRESSION                                              6
+    attack battlefield break guns fight fight
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    death lay lay lay
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fire smoke fire
+PRIMARY:SENSATION:ODOR                                           3
+    musket smell breath
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    roar screams sights
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    wins won
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    plunge fall
+EMOTIONS:SADNESS                                                 2
+    pain groan
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bodies body
+PRIMARY:SENSATION:SOUND                                          1
+    sounds
+SECONDARY:ABSTRACTION                                            1
+    certain
+PRIMARY:NEED:ANALITY                                             1
+    sweats
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    below
+PRIMARY:SENSATION:VISION                                         1
+    gazing
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:SENSATION:COLD                                           1
+    numb
+PRIMARY:NEED:ORALITY                                             1
+    throat
+
+PRIMARY             : 65.306122 %
+SECONDARY           : 10.204082 %
+EMOTIONS            : 24.489796 %
+
+252 words total

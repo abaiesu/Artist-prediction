@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    off away away off long at at at at
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    dawn rise dawn mountain
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    wake sleep wake sleep
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won find find
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+EMOTIONS:ANXIETY                                                 2
+    scared scared
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    birds
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+SECONDARY:RESTRAINT                                              1
+    must
+SECONDARY:ABSTRACTION                                            1
+    tend
+PRIMARY:NEED:SEX                                                 1
+    kissing
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulders
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answering
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    chest
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+EMOTIONS:AGGRESSION                                              1
+    kicks
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silent
+
+PRIMARY             : 70.270270 %
+SECONDARY           : 18.918919 %
+EMOTIONS            : 10.810811 %
+
+173 words total

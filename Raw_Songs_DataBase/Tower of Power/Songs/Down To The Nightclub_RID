@@ -1,0 +1,40 @@
+PRIMARY:NEED:ORALITY                                            10
+    fast drink liquor drunk drunk drunk drunk drunk drunk liquor
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out place place out at at at here here
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old while time while now now
+PRIMARY:SENSATION:TOUCH                                          6
+    slick slick slick slick slick slick
+SECONDARY:ABSTRACTION                                            5
+    cause know something almost know
+PRIMARY:SENSATION:VISION                                         4
+    lookin watching look look
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    hangin jumps jumping
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road floor road
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride driving
+EMOTIONS:AGGRESSION                                              2
+    hits beat
+SECONDARY:MORAL IMPERATIVE                                       2
+    righteously righteously
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:SENSATION:SOUND                                          1
+    hearty
+
+PRIMARY             : 68.333333 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 5.000000 %
+
+350 words total

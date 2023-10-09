@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            7
+    knows know cause somethin knows know know
+EMOTIONS:AFFECTION                                               6
+    kind love love kind loves loves
+PRIMARY:SENSATION:VISION                                         4
+    shines light look looks
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+SECONDARY:TEMPORAL REFERENCES                                    1
+    once
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drop
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AGGRESSION                                              1
+    doubt
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talkin
+
+PRIMARY             : 41.379310 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 24.137931 %
+
+154 words total

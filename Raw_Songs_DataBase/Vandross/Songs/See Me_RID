@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    yesterday time time soon when
+EMOTIONS:AFFECTION                                               5
+    like love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    long out here side long
+SECONDARY:ABSTRACTION                                            3
+    almost cause know
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spend won
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    fantasy
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    higher
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:POSITIVE AFFECT                                         1
+    satisfied
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    asked
+
+PRIMARY             : 38.235294 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 26.470588 %
+
+191 words total

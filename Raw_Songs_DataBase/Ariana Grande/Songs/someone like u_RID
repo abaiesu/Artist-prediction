@@ -1,0 +1,14 @@
+EMOTIONS:AFFECTION                                               7
+    like like like like like like like
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time time
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please please
+SECONDARY:ABSTRACTION                                            2
+    true true
+
+PRIMARY             : 0.000000 %
+SECONDARY           : 46.153846 %
+EMOTIONS            : 53.846154 %
+
+84 words total

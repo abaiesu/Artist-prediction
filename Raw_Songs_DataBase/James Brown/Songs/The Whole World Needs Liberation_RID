@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   26
+    now ago now now now then then everything then now now now now now now now now now now now time time time time now now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    ahead back between at situation
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    told helping say say say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    try find won try won
+EMOTIONS:ANXIETY                                                 4
+    worry fret trouble worry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sing sing
+SECONDARY:ABSTRACTION                                            2
+    know fact
+PRIMARY:SENSATION:VISION                                         2
+    look see
+PRIMARY:SENSATION:SOUND                                          2
+    louder hear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 22.033898 %
+SECONDARY           : 66.101695 %
+EMOTIONS            : 11.864407 %
+
+410 words total

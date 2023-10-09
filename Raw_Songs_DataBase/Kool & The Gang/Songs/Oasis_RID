@@ -1,0 +1,30 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 17
+    found find found found found found found found found found found found found find found found found
+SECONDARY:TEMPORAL REFERENCES                                   10
+    minute now when now now time when when now when
+SECONDARY:ABSTRACTION                                            5
+    think somethin thinking know thinking
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    searched searched
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chances
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journey
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:AGGRESSION                                              1
+    doubted
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 18.604651 %
+SECONDARY           : 76.744186 %
+EMOTIONS            : 4.651163 %
+
+190 words total

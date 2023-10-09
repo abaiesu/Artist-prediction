@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       24
+    places spaces east west south east west east west south southern southern east west south east west south east west south east west south
+PRIMARY:SENSATION:COLD                                          13
+    north north north north north north north north north north north north north
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           5
+    travelin travelin travelin explore travelin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    found find find found make
+SECONDARY:ABSTRACTION                                            5
+    known sure real real reason
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever ever every
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    invitations thanksgiving
+EMOTIONS:GLORY                                                   1
+    renown
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    fantastic
+PRIMARY:SENSATION:VISION                                         1
+    view
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountains
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    valleys
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrills
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 71.212121 %
+SECONDARY           : 24.242424 %
+EMOTIONS            : 4.545455 %
+
+180 words total

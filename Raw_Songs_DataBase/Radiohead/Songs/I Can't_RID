@@ -1,0 +1,28 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    try try find try try try try try try
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    blurted
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+EMOTIONS:AGGRESSION                                              1
+    doubt
+PRIMARY:SENSATION:SOUND                                          1
+    rattling
+SECONDARY:RESTRAINT                                              1
+    cage
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+
+PRIMARY             : 23.809524 %
+SECONDARY           : 61.904762 %
+EMOTIONS            : 14.285714 %
+
+179 words total

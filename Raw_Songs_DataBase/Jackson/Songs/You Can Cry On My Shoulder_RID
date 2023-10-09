@@ -1,0 +1,30 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                    14
+    cry cry cry cry cry cry cry cry cry cry cry cry cry cry
+SECONDARY:ABSTRACTION                                            8
+    know them supposed understand may know them them
+SECONDARY:MORAL IMPERATIVE                                       8
+    shoulder shoulder shoulder shoulder shoulder shoulder shoulder shoulder
+EMOTIONS:AFFECTION                                               6
+    love love love love love darling
+EMOTIONS:ANXIETY                                                 5
+    afraid troubles troubles troubles troubles
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell treating help
+EMOTIONS:SADNESS                                                 2
+    sad misery
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again now
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strange
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 3.846154 %
+SECONDARY           : 44.230769 %
+EMOTIONS            : 51.923077 %
+
+251 words total

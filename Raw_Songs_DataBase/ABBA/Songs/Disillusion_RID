@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when when now then when now now
+SECONDARY:ABSTRACTION                                            4
+    know know reason thinking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    circle somewhere out
+PRIMARY:SENSATION:SOUND                                          3
+    hear voice loud
+EMOTIONS:AGGRESSION                                              3
+    breaking wound breaking
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face face
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling laughing
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows shadows
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say shared
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    try
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+EMOTIONS:GLORY                                                   1
+    wondering
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 39.473684 %
+EMOTIONS            : 18.421053 %
+
+177 words total

@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    outside where toward outside where outside where places long outside where toward outside where inside where
+PRIMARY:SENSATION:COLD                                           5
+    cool cool snow cool snow
+PRIMARY:SENSATION:VISION                                         4
+    stars sunshine stars sunshine
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking talk meet
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    fog clouds
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain rain
+SECONDARY:ABSTRACTION                                            1
+    knows
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+EMOTIONS:AGGRESSION                                              1
+    bothering
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 83.333333 %
+SECONDARY           : 13.888889 %
+EMOTIONS            : 2.777778 %
+
+213 words total

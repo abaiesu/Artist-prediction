@@ -1,0 +1,50 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    till till time sometime then while now
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    sight cry cry cry cry play
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    round round out place away
+PRIMARY:SENSATION:VISION                                         5
+    shine see look see light
+SECONDARY:ABSTRACTION                                            5
+    model cause supposed believe believe
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    machine make machine make
+SECONDARY:RESTRAINT                                              2
+    shut stop
+EMOTIONS:AFFECTION                                               2
+    love like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face head
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fire melt
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spin
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underground
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    throw
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    pile
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:SENSATION:COLD                                           1
+    children
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shelter
+
+PRIMARY             : 46.153846 %
+SECONDARY           : 36.538462 %
+EMOTIONS            : 17.307692 %
+
+194 words total

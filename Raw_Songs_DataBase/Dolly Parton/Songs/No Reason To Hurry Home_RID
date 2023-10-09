@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at at at at out forward
+PRIMARY:SENSATION:VISION                                         5
+    look look see see look
+SECONDARY:ABSTRACTION                                            5
+    cause reason plans reason reason
+EMOTIONS:AFFECTION                                               4
+    love love love love
+EMOTIONS:AGGRESSION                                              3
+    hate hate hate
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+EMOTIONS:SADNESS                                                 1
+    sadness
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    ask
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+
+PRIMARY             : 46.666667 %
+SECONDARY           : 26.666667 %
+EMOTIONS            : 26.666667 %
+
+140 words total

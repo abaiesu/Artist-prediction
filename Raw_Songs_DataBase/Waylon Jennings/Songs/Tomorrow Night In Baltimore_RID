@@ -1,0 +1,54 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    back long back back out off open open
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every when tonight ever tonight past then
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    head hair hands hip hip hands
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    beckon calling helplessly asks told
+PRIMARY:SENSATION:VISION                                         3
+    shiny see watched
+EMOTIONS:AFFECTION                                               3
+    love love goodbye
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    door door door
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    ecstasy nightmare
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling fallen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    carrying costumes
+SECONDARY:ABSTRACTION                                            2
+    them cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    rolls
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endlessly
+PRIMARY:SENSATION:HARD                                           1
+    granite
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lingers
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:SENSATION:TOUCH                                          1
+    brush
+PRIMARY:SENSATION:SOFT                                           1
+    satin
+PRIMARY:NEED:ORALITY                                             1
+    lips
+EMOTIONS:GLORY                                                   1
+    struts
+SECONDARY:RESTRAINT                                              1
+    guarded
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoking
+
+PRIMARY             : 58.928571 %
+SECONDARY           : 30.357143 %
+EMOTIONS            : 10.714286 %
+
+241 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at where over at where over at over at
+SECONDARY:TEMPORAL REFERENCES                                    8
+    till when when till when till when when
+EMOTIONS:AFFECTION                                               8
+    like kind like friends like kind like kind
+SECONDARY:ABSTRACTION                                            5
+    truth them why believe them
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    grew high high high
+EMOTIONS:AGGRESSION                                              3
+    unkind cut blade
+PRIMARY:SENSATION:COLD                                           3
+    freezes freezes freezes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 39.130435 %
+SECONDARY           : 34.782609 %
+EMOTIONS            : 26.086957 %
+
+190 words total

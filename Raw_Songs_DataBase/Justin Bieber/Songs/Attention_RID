@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             11
+    attention attention attention attention attention attention attention attention attention attention attention
+SECONDARY:ABSTRACTION                                            5
+    certain decide something certain decide
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+PRIMARY:NEED:ORALITY                                             4
+    drink drink drink drink
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    smoke smoke smoke smoke
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    middle side middle
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+EMOTIONS:AFFECTION                                               2
+    love affection
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 10.256410 %
+
+229 words total

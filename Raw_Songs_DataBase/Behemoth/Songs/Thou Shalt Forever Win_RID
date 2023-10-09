@@ -1,0 +1,52 @@
+EMOTIONS:AGGRESSION                                              5
+    break fight destroy destroy destroy
+EMOTIONS:GLORY                                                   4
+    kingdoms pride majesty golden
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    burden find find
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    smoke burnt fire
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yelling dance
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silently death
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    depths deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mountains wings
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bodies hand
+EMOTIONS:AFFECTION                                               2
+    love devoted
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    extending
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    lakes
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gates
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+SECONDARY:ORDER                                                  1
+    constantly
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternally
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruined
+
+PRIMARY             : 48.780488 %
+SECONDARY           : 19.512195 %
+EMOTIONS            : 31.707317 %
+
+172 words total

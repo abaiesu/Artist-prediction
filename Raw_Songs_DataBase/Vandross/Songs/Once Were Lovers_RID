@@ -1,0 +1,40 @@
+PRIMARY:SENSATION:SOUND                                          8
+    heart heart hearts hearts heart heard voice ear
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now old when once time again then then
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    shared shared met say tellin
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart over back here
+EMOTIONS:AFFECTION                                               4
+    love lovers love like
+EMOTIONS:AGGRESSION                                              3
+    breaking break broken
+SECONDARY:ABSTRACTION                                            3
+    cause why know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used used mend
+EMOTIONS:SADNESS                                                 2
+    pain lonely
+PRIMARY:SENSATION:VISION                                         2
+    blue sees
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:ORDER                                                  1
+    dividing
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+EMOTIONS:ANXIETY                                                 1
+    worry
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cried
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiled
+
+PRIMARY             : 32.653061 %
+SECONDARY           : 42.857143 %
+EMOTIONS            : 24.489796 %
+
+229 words total

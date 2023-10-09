@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    old old old old ever old old old ever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    round at round at
+PRIMARY:SENSATION:VISION                                         4
+    blues blues blues blues
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    head toes head toes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    woke woke
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:SADNESS                                                 2
+    lonesome lonesome
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    horn horn
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ride ride
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistreated mistreated
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+EMOTIONS:ANXIETY                                                 2
+    worried worried
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 45.238095 %
+SECONDARY           : 30.952381 %
+EMOTIONS            : 23.809524 %
+
+209 words total

@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    at here here here here at here here
+PRIMARY:SENSATION:VISION                                         6
+    lights light look look lights light
+SECONDARY:TEMPORAL REFERENCES                                    6
+    today when now now today when
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    please say please
+SECONDARY:ABSTRACTION                                            2
+    learn learn
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:SENSATION:TASTE                                          1
+    taste
+EMOTIONS:GLORY                                                   1
+    glory
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 58.620690 %
+SECONDARY           : 37.931034 %
+EMOTIONS            : 3.448276 %
+
+223 words total

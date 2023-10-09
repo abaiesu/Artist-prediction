@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:SOUND                                          7
+    hear musical musical musical musical musical musical
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    said said talk tell tell tell talk
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    test make try make use make use
+SECONDARY:TEMPORAL REFERENCES                                    6
+    tonight tonight tonight tonight tonight tonight
+SECONDARY:ABSTRACTION                                            6
+    cause cause may may may sure
+EMOTIONS:GLORY                                                   3
+    crown crown crown
+EMOTIONS:SADNESS                                                 2
+    frown frown
+PRIMARY:SENSATION:TOUCH                                          1
+    rub
+EMOTIONS:AFFECTION                                               1
+    mercy
+EMOTIONS:AGGRESSION                                              1
+    break
+PRIMARY:NEED:ANALITY                                             1
+    stall
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    wrist
+
+PRIMARY             : 22.727273 %
+SECONDARY           : 59.090909 %
+EMOTIONS            : 18.181818 %
+
+354 words total

@@ -1,0 +1,38 @@
+EMOTIONS:AFFECTION                                              10
+    dear like welcome like like welcome dear like like welcome
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    call call call call call call call call call
+SECONDARY:TEMPORAL REFERENCES                                    6
+    weeks sudden now now months now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out here out at here here
+SECONDARY:ABSTRACTION                                            5
+    cause why reason why reason
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pay makes pay makes pay
+PRIMARY:SENSATION:SOUND                                          4
+    hear rings snaps hear
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    attention attention attention
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets streets streets
+EMOTIONS:AGGRESSION                                              3
+    broken broken broken
+EMOTIONS:ANXIETY                                                 2
+    fear trembling
+EMOTIONS:GLORY                                                   2
+    wonder wonder
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    strange strange
+EMOTIONS:SADNESS                                                 1
+    whining
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+
+PRIMARY             : 30.158730 %
+SECONDARY           : 39.682540 %
+EMOTIONS            : 30.158730 %
+
+240 words total

@@ -1,0 +1,40 @@
+EMOTIONS:SADNESS                                                 4
+    loneliness melancholy melancholy melancholy
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    long where out
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    ask forgive
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    basking beautifully
+PRIMARY:SENSATION:VISION                                         2
+    glow bright
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    art
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    voids
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    path
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+EMOTIONS:AGGRESSION                                              1
+    enemies
+
+PRIMARY             : 53.846154 %
+SECONDARY           : 15.384615 %
+EMOTIONS            : 30.769231 %
+
+95 words total

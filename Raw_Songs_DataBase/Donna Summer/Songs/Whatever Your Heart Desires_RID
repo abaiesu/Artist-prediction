@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   16
+    ever ever ever time ever ever ever ever ever time ever ever ever ever ever ever
+EMOTIONS:AFFECTION                                              10
+    kind love love love love love kind love love love
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heart heart heart heart
+SECONDARY:ABSTRACTION                                            5
+    knew may may may may
+SECONDARY:RESTRAINT                                              5
+    must requires requires requires requires
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    follow imitations follow follow follow
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    swaying swaying
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    playing playing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside inside
+EMOTIONS:AGGRESSION                                              2
+    stole stole
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest rest
+EMOTIONS:POSITIVE AFFECT                                         2
+    glad joy
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+EMOTIONS:SADNESS                                                 1
+    sad
+EMOTIONS:ANXIETY                                                 1
+    afraid
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreaming
+
+PRIMARY             : 21.875000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 28.125000 %
+
+235 words total

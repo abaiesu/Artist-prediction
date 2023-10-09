@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     9
+    fire burn fire fire burn fire fire burn fire
+EMOTIONS:AGGRESSION                                              3
+    hate fight rebellion
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets streets streets
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    rise rise rise
+EMOTIONS:GLORY                                                   3
+    empires empires empires
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+EMOTIONS:SADNESS                                                 1
+    suffer
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calls
+SECONDARY:ABSTRACTION                                            1
+    truth
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tall
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 10.000000 %
+EMOTIONS            : 23.333333 %
+
+125 words total

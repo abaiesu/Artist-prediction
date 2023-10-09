@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    talkin talkin talkin talkin said said talkin talkin talkin talkin
+SECONDARY:TEMPORAL REFERENCES                                    8
+    now every time everyday everywhere every time everywhere
+SECONDARY:ABSTRACTION                                            8
+    believe believe believe true believe believe true judgement
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    pay paid used pay paid used
+EMOTIONS:AGGRESSION                                              3
+    blame blame blame
+PRIMARY:NEED:ORALITY                                             2
+    meals meals
+SECONDARY:RESTRAINT                                              2
+    obey obey
+PRIMARY:SENSATION:VISION                                         2
+    lookin lookin
+PRIMARY:SENSATION:HARD                                           2
+    iron iron
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+PRIMARY:SENSATION:ODOR                                           2
+    smell smell
+SECONDARY:MORAL IMPERATIVE                                       1
+    righteous
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    overcome
+
+PRIMARY             : 22.448980 %
+SECONDARY           : 71.428571 %
+EMOTIONS            : 6.122449 %
+
+236 words total

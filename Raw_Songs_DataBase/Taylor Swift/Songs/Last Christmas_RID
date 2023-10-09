@@ -1,0 +1,44 @@
+SECONDARY:TEMPORAL REFERENCES                                   14
+    year once year now now again year year year year year year year year
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away distance away away apart away away away
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart heart heart heart heart heart
+SECONDARY:ABSTRACTION                                            6
+    meant know know thought guess cause
+EMOTIONS:AFFECTION                                               5
+    love friends lover like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eye eyes face
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell saying
+PRIMARY:NEED:ORALITY                                             1
+    bitten
+EMOTIONS:ANXIETY                                                 1
+    shy
+SECONDARY:RESTRAINT                                              1
+    catch
+EMOTIONS:POSITIVE AFFECT                                         1
+    merry
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowded
+PRIMARY:SENSATION:COLD                                           1
+    ice
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+EMOTIONS:AGGRESSION                                              1
+    tore
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 40.350877 %
+SECONDARY           : 43.859649 %
+EMOTIONS            : 15.789474 %
+
+341 words total

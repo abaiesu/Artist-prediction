@@ -1,0 +1,46 @@
+SECONDARY:ABSTRACTION                                           11
+    true true learn think true true true true true true true
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             9
+    strange strange strange strange strange strange strange strange strange
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make make found make found make found
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    west long over within long
+PRIMARY:SENSATION:VISION                                         3
+    ray see looks
+EMOTIONS:POSITIVE AFFECT                                         3
+    smiled smile thrill
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when time
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wilder chances
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say forgiving
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hair
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    rode
+PRIMARY:NEED:ORALITY                                             1
+    tea
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waves
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    deadly
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:COLD                                           1
+    winters
+
+PRIMARY             : 50.847458 %
+SECONDARY           : 38.983051 %
+EMOTIONS            : 10.169492 %
+
+217 words total

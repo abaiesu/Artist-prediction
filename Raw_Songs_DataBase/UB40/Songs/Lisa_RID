@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    time whenever then everybody time when time then everybody when then everybody when then everybody
+PRIMARY:SENSATION:VISION                                        10
+    see watching saw see watching see watching saw saw saw
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    afar near place afar afar place place place
+SECONDARY:ABSTRACTION                                            8
+    think may know think think know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    used make used make used make
+SECONDARY:MORAL IMPERATIVE                                       6
+    should should should should should should
+EMOTIONS:AFFECTION                                               6
+    like like like like like like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing sing sing
+EMOTIONS:GLORY                                                   3
+    admire admire admire
+PRIMARY:SENSATION:SOUND                                          3
+    hear hear hear
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    talking talking talking
+SECONDARY:ORDER                                                  3
+    simplicity simplicity simplicity
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    search search search
+EMOTIONS:AGGRESSION                                              2
+    steal jealously
+EMOTIONS:ANXIETY                                                 1
+    afraid
+SECONDARY:RESTRAINT                                              1
+    guard
+
+PRIMARY             : 29.268293 %
+SECONDARY           : 51.219512 %
+EMOTIONS            : 19.512195 %
+
+285 words total

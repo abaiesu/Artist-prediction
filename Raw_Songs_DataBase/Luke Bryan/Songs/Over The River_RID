@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    out over round over out long over at over long over long over over
+PRIMARY:ICARIAN IMAGERY:WATER                                    8
+    river river river splash river river river river
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    allowed follow follow mentioned said follow said
+SECONDARY:TEMPORAL REFERENCES                                    7
+    when past then week when week week
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    neck skinny head eyes blood
+PRIMARY:NEED:ORALITY                                             4
+    beer biting beer beer
+SECONDARY:MORAL IMPERATIVE                                       4
+    right should should should
+PRIMARY:SENSATION:SOUND                                          3
+    blaring louder hearing
+PRIMARY:SENSATION:VISION                                         2
+    see lights
+EMOTIONS:AGGRESSION                                              2
+    fighting shot
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burning
+SECONDARY:RESTRAINT                                              1
+    bound
+EMOTIONS:AFFECTION                                               1
+    friendly
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumpin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    streetlights
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:ABSTRACTION                                            1
+    thought
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dipping
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+
+PRIMARY             : 63.768116 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 5.797101 %
+
+247 words total

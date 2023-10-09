@@ -1,0 +1,26 @@
+EMOTIONS:AFFECTION                                               7
+    loving friend love friends loving loving friends
+SECONDARY:ABSTRACTION                                            7
+    sure know sure know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make use trying trying trying find
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say say say say lend helping
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out out out
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand hand knees hand
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+PRIMARY:NEED:ORALITY                                             2
+    bread bread
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+
+PRIMARY             : 26.829268 %
+SECONDARY           : 56.097561 %
+EMOTIONS            : 17.073171 %
+
+206 words total

@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:ODOR                                          24
+    breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath breath
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    away away away inside away away here behind away away away away away
+SECONDARY:TEMPORAL REFERENCES                                    7
+    every time every ever time time when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    make make find find find find found
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    please please tell tell
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    sleep sleep sleep sleep
+EMOTIONS:AFFECTION                                               3
+    love love love
+PRIMARY:SENSATION:SOUND                                          3
+    heart sound ear
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+PRIMARY:SENSATION:VISION                                         2
+    look see
+SECONDARY:RESTRAINT                                              2
+    captured control
+EMOTIONS:AGGRESSION                                              2
+    stolen destroy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sigh cry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:COLD                                           1
+    shiver
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:SENSATION:SOFT                                           1
+    whisper
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:ABSTRACTION                                            1
+    surely
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:SADNESS                                                 1
+    lonely
+
+PRIMARY             : 62.352941 %
+SECONDARY           : 28.235294 %
+EMOTIONS            : 9.411765 %
+
+315 words total

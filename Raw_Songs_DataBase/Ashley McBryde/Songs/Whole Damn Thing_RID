@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                        13
+    see see saw watching glances saw glimpse look glances look see glances scene
+SECONDARY:ABSTRACTION                                           12
+    think thought know know sure thinking thought know believe thought know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  9
+    trying trying try spent making reaching used make make
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at here place besides out out
+EMOTIONS:AFFECTION                                               5
+    like darling like love like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    arms hair eyes eyes
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything when now everything
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    share tell tell tell
+PRIMARY:NEED:ORALITY                                             3
+    lips lips lips
+EMOTIONS:AGGRESSION                                              2
+    anger wreck
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream dream
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quietly
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slide
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:HARD                                           1
+    glasses
+EMOTIONS:POSITIVE AFFECT                                         1
+    smiling
+PRIMARY:SENSATION:TASTE                                          1
+    sweetly
+
+PRIMARY             : 47.945205 %
+SECONDARY           : 41.095890 %
+EMOTIONS            : 10.958904 %
+
+324 words total

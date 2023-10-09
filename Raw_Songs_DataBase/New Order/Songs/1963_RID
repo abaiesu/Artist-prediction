@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    at point close point at point at at close point at close point at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 13
+    bought bought used used price won used using price won using price won
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    gift said told gift please told gift please told gift please
+EMOTIONS:AGGRESSION                                             10
+    hurt gun gun kill hatred hurt gun hatred hurt gun
+SECONDARY:ABSTRACTION                                            6
+    think think think meant meant meant
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    eyes eyes eyes eyes eyes eyes
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when time often occasion when
+EMOTIONS:AFFECTION                                               5
+    love kind like love love
+PRIMARY:SENSATION:VISION                                         4
+    saw saw saw shine
+EMOTIONS:GLORY                                                   3
+    great great great
+SECONDARY:ORDER                                                  3
+    listen listen listen
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    bridge
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+
+PRIMARY             : 31.707317 %
+SECONDARY           : 46.341463 %
+EMOTIONS            : 21.951220 %
+
+394 words total

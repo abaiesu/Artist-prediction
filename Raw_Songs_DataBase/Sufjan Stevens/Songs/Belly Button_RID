@@ -1,0 +1,16 @@
+PRIMARY:NEED:ORALITY                                             3
+    food food stomach
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out out
+PRIMARY:SENSATION:SOUND                                          2
+    belly belly
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:NEED:ANALITY                                             1
+    maggots
+
+PRIMARY             : 90.000000 %
+SECONDARY           : 10.000000 %
+EMOTIONS            : 0.000000 %
+
+31 words total

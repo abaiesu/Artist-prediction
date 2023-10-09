@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    season when while while seasons while
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    longer out out away at out
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    tell say say telling say
+PRIMARY:SENSATION:VISION                                         4
+    grey light flash watch
+EMOTIONS:AGGRESSION                                              4
+    hate trample hate trample
+SECONDARY:ABSTRACTION                                            3
+    real chose reasons
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mistakes fade
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spent spent
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    awake
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rains
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    waving
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    bury
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 51.111111 %
+SECONDARY           : 35.555556 %
+EMOTIONS            : 13.333333 %
+
+178 words total

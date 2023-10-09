@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    here far here apart where here here here here back where at here here here here here here
+SECONDARY:TEMPORAL REFERENCES                                    6
+    every every everybody now then again
+SECONDARY:ABSTRACTION                                            4
+    know knew know probably
+PRIMARY:SENSATION:SOUND                                          2
+    hearts heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood hands
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+EMOTIONS:AGGRESSION                                              1
+    broke
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    traveled
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    work
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 64.102564 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 5.128205 %
+
+158 words total

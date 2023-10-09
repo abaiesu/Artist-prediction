@@ -1,0 +1,20 @@
+SECONDARY:ABSTRACTION                                            5
+    thought think fact guess guess
+SECONDARY:TEMPORAL REFERENCES                                    4
+    while time while time
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    talked help saying communicate
+EMOTIONS:AFFECTION                                               3
+    sympathy sympathy sympathy
+PRIMARY:SENSATION:VISION                                         2
+    rough rough
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:NEED:ANALITY                                             1
+    shit
+
+PRIMARY             : 15.000000 %
+SECONDARY           : 70.000000 %
+EMOTIONS            : 15.000000 %
+
+250 words total

@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    long long long long beside long
+EMOTIONS:AFFECTION                                               4
+    love like like like
+EMOTIONS:AGGRESSION                                              2
+    beating kill
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood blood
+SECONDARY:ABSTRACTION                                            2
+    believe believe
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 52.380952 %
+SECONDARY           : 19.047619 %
+EMOTIONS            : 28.571429 %
+
+90 words total

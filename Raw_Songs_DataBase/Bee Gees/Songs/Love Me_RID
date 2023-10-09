@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                              19
+    love love love love love love love love love love love love love love love love love love love
+SECONDARY:SOCIAL BEHAVIOR                                       13
+    help say please please please please please please please please please please please
+SECONDARY:TEMPORAL REFERENCES                                   12
+    times when when when every time ever then every time when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    at longer at longer at away longer out longer longer longer longer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 10
+    make make make try make work make make make make
+PRIMARY:SENSATION:VISION                                         6
+    look glow see look glow see
+EMOTIONS:AGGRESSION                                              6
+    break break break break break break
+SECONDARY:ABSTRACTION                                            4
+    believe know probably think
+PRIMARY:SENSATION:HARD                                           4
+    harder harder hard harder
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 28.260870 %
+SECONDARY           : 42.391304 %
+EMOTIONS            : 29.347826 %
+
+357 words total

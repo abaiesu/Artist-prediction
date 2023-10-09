@@ -1,0 +1,22 @@
+PRIMARY:SENSATION:VISION                                         4
+    blue blue blue blue
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time now today now
+EMOTIONS:SADNESS                                                 2
+    sad lonely
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tellin
+SECONDARY:ABSTRACTION                                            1
+    plan
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+EMOTIONS:POSITIVE AFFECT                                         1
+    gay
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 20.000000 %
+
+66 words total

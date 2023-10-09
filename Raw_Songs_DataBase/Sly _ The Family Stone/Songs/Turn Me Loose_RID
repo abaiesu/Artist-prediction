@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    tell tell say tell thank tell tell thank
+EMOTIONS:AGGRESSION                                              3
+    hate hate hate
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+SECONDARY:RESTRAINT                                              1
+    control
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+SECONDARY:ABSTRACTION                                            1
+    believe
+
+PRIMARY             : 21.052632 %
+SECONDARY           : 52.631579 %
+EMOTIONS            : 26.315789 %
+
+191 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    over where here out here where side place
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    calling tell saying asking call say
+EMOTIONS:AFFECTION                                               4
+    darling romance dear loves
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now clock present past
+EMOTIONS:SADNESS                                                 4
+    sorry lonesome sorrow weep
+EMOTIONS:AGGRESSION                                              3
+    hurt hurt broke
+SECONDARY:ABSTRACTION                                            2
+    know known
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won find
+SECONDARY:RESTRAINT                                              2
+    bar bar
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor aisle
+PRIMARY:SENSATION:VISION                                         1
+    blue
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:SENSATION:SOUND                                          1
+    heartbreak
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    drops
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+
+PRIMARY             : 32.558140 %
+SECONDARY           : 39.534884 %
+EMOTIONS            : 27.906977 %
+
+166 words total

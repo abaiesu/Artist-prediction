@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:VISION                                         6
+    see look see look look see
+SECONDARY:ABSTRACTION                                            4
+    know real know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    round here round here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money buy money buy
+PRIMARY:NEED:ORALITY                                             2
+    bite fat
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jump jump
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell say
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+EMOTIONS:AFFECTION                                               2
+    like like
+EMOTIONS:SADNESS                                                 1
+    sorry
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    fire
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+EMOTIONS:AGGRESSION                                              1
+    cut
+
+PRIMARY             : 48.484848 %
+SECONDARY           : 39.393939 %
+EMOTIONS            : 12.121212 %
+
+148 words total

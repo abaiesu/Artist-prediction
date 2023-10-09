@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    situation point outside
+SECONDARY:ABSTRACTION                                            2
+    reason consequence
+PRIMARY:SENSATION:VISION                                         2
+    look look
+EMOTIONS:ANXIETY                                                 1
+    avoided
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+SECONDARY:ORDER                                                  1
+    simple
+EMOTIONS:AGGRESSION                                              1
+    defeated
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 11.764706 %
+
+71 words total

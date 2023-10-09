@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    opened wide closed inside opened wide closed inside
+SECONDARY:ABSTRACTION                                            6
+    tenderly tenderly tenderly tenderly tenderly tenderly
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    shore sea shore sea
+PRIMARY:NEED:SEX                                                 3
+    caressed kissed kissed
+EMOTIONS:AFFECTION                                               3
+    embraced love love
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees trees
+SECONDARY:TEMPORAL REFERENCES                                    2
+    then then
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wandering wandering
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sigh sigh
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mist mist
+PRIMARY:SENSATION:SOUND                                          2
+    hearts hearts
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    met met
+PRIMARY:SENSATION:ODOR                                           2
+    breathlessly breathlessly
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    arms arms
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+EMOTIONS:ANXIETY                                                 1
+    trembling
+
+PRIMARY             : 64.444444 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 13.333333 %
+
+114 words total

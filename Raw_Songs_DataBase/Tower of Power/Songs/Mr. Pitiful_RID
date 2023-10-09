@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    call call call call call explain tell call call explain
+EMOTIONS:AFFECTION                                              10
+    pitiful pitiful pitiful like pitiful pitiful pitiful pitiful pitiful love
+SECONDARY:TEMPORAL REFERENCES                                   10
+    everybody everyplace when when everything when everything past everything everything
+PRIMARY:SENSATION:VISION                                         5
+    see blue see blue blue
+SECONDARY:ABSTRACTION                                            5
+    understand cause knows understand understand
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make won won makes trying
+EMOTIONS:SADNESS                                                 4
+    sad sad sad sad
+EMOTIONS:GLORY                                                   2
+    fame fame
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back back
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 12.500000 %
+SECONDARY           : 55.357143 %
+EMOTIONS            : 32.142857 %
+
+223 words total

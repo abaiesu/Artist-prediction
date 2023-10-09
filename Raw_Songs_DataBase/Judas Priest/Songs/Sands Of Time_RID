@@ -1,0 +1,24 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everywhere time everything everywhere
+SECONDARY:RESTRAINT                                              2
+    must control
+PRIMARY:SENSATION:VISION                                         2
+    vision see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    inside out
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    aware
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 0.000000 %
+
+68 words total

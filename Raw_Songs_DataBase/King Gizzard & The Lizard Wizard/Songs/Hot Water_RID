@@ -1,0 +1,36 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    8
+    water water water water water water water water
+PRIMARY:ICARIAN IMAGERY:FIRE                                     8
+    hot hot hot hot hot heat hot hot
+SECONDARY:TEMPORAL REFERENCES                                    5
+    date old everybody moment everybody
+PRIMARY:NEED:ORALITY                                             2
+    eat vomit
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:ORDER                                                  1
+    system
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    straighten
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spend
+SECONDARY:ABSTRACTION                                            1
+    believe
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:NEED:SEX                                                 1
+    raper
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spineless
+PRIMARY:SENSATION:SOUND                                          1
+    echoes
+PRIMARY:SENSATION:SOFT                                           1
+    whispers
+
+PRIMARY             : 76.470588 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 0.000000 %
+
+60 words total

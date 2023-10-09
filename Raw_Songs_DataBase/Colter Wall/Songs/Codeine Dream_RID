@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    hour sometimes every now every when every
+PRIMARY:SENSATION:VISION                                         5
+    green look green brown seeing
+SECONDARY:ABSTRACTION                                            4
+    thoughts thinkin why think
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dream dream dream dream
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    backs away round
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    laid die lay
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door floor
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    thumbing eyes
+EMOTIONS:AGGRESSION                                              2
+    cruel unkind
+PRIMARY:SENSATION:COLD                                           1
+    north
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    hazy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:HARD                                           1
+    harder
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 7.692308 %
+
+162 words total

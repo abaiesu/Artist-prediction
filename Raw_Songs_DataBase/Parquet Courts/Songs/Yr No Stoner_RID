@@ -1,0 +1,36 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    built risk build build
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    front apartment far at
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say speaking say
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    impression pretty
+PRIMARY:SENSATION:VISION                                         2
+    sees looks
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall street
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:SENSATION:SOUND                                          2
+    heard hear
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wet
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:GLORY                                                   1
+    wonder
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasin
+PRIMARY:SENSATION:HARD                                           1
+    stones
+
+PRIMARY             : 55.172414 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 10.344828 %
+
+144 words total

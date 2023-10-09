@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    level side level level level level level level level level level
+SECONDARY:TEMPORAL REFERENCES                                    2
+    year old
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make carrying
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eye
+EMOTIONS:GLORY                                                   1
+    proud
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:ABSTRACTION                                            1
+    choice
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:SOUND                                          1
+    voice
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+EMOTIONS:AGGRESSION                                              1
+    blame
+
+PRIMARY             : 68.000000 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 12.000000 %
+
+90 words total

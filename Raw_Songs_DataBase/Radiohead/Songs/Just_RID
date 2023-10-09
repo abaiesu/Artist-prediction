@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    off round out
+EMOTIONS:AFFECTION                                               3
+    like friends sympathy
+SECONDARY:ABSTRACTION                                            3
+    why why why
+EMOTIONS:AGGRESSION                                              3
+    hurts hurts hurts
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hanging hanging
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    teach teach
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor door
+PRIMARY:NEED:ANALITY                                             1
+    stink
+PRIMARY:NEED:ORALITY                                             1
+    suckered
+SECONDARY:RESTRAINT                                              1
+    locks
+SECONDARY:TEMPORAL REFERENCES                                    1
+    times
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    reeling
+
+PRIMARY             : 43.478261 %
+SECONDARY           : 30.434783 %
+EMOTIONS            : 26.086957 %
+
+194 words total

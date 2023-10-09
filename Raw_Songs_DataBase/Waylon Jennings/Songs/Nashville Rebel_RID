@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    call say advice talk say say call say say say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time old time
+EMOTIONS:AFFECTION                                               4
+    love love like like
+EMOTIONS:AGGRESSION                                              3
+    rebel rebel rebel
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    games sing guitar
+SECONDARY:ABSTRACTION                                            2
+    guessin cause
+PRIMARY:SENSATION:COLD                                           1
+    ice
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:ORDER                                                  1
+    normal
+
+PRIMARY             : 10.000000 %
+SECONDARY           : 56.666667 %
+EMOTIONS            : 33.333333 %
+
+203 words total

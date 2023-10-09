@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       17
+    out out back away out out wide out back away middle away back away middle away away
+SECONDARY:ABSTRACTION                                            7
+    know cause know know know know know
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    tried found tried found found found
+EMOTIONS:AGGRESSION                                              6
+    fight fought fight fight fight fight
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   6
+    fly fly fly fly fly fly
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said said said
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:NEED:ANALITY                                             1
+    mess
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 54.716981 %
+SECONDARY           : 33.962264 %
+EMOTIONS            : 11.320755 %
+
+257 words total

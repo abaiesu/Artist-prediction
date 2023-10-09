@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    meet meet offer gift
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    beautiful beautiful fairer
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    apart over place
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    shore shore
+EMOTIONS:GLORY                                                   2
+    wonderful glory
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    prepare
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    hallow
+
+PRIMARY             : 65.217391 %
+SECONDARY           : 21.739130 %
+EMOTIONS            : 13.043478 %
+
+96 words total

@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    once again once again when old once again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    out out inside over rearrange behind out back
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say talk explaining calling say say
+EMOTIONS:AFFECTION                                               6
+    loved friend friends friends love loved
+SECONDARY:ABSTRACTION                                            6
+    know cause them know them cause
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    wall walls window walls wall walls
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used try find used find
+PRIMARY:SENSATION:TOUCH                                          2
+    scratched scratched
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:NEED:ORALITY                                             1
+    fast
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fallin
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+EMOTIONS:ANXIETY                                                 1
+    afraid
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+SECONDARY:RESTRAINT                                              1
+    shutting
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistakes
+PRIMARY:SENSATION:VISION                                         1
+    grey
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chasing
+EMOTIONS:GLORY                                                   1
+    proud
+
+PRIMARY             : 38.983051 %
+SECONDARY           : 45.762712 %
+EMOTIONS            : 15.254237 %
+
+264 words total

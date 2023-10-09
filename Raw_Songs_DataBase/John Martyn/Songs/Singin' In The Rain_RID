@@ -1,0 +1,32 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rain rain rain rain
+EMOTIONS:POSITIVE AFFECT                                         4
+    happy laughing smile happy
+SECONDARY:TEMPORAL REFERENCES                                    2
+    again everyone
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at place
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    clouds clouds
+EMOTIONS:GLORY                                                   1
+    glorious
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 9.090909 %
+EMOTIONS            : 27.272727 %
+
+80 words total

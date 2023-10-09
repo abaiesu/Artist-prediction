@@ -1,0 +1,32 @@
+EMOTIONS:ANXIETY                                                10
+    cares cares cares cares cares cares cares cares cares cares
+SECONDARY:ABSTRACTION                                            9
+    cause cause cause cause know know cause cause cause
+EMOTIONS:SADNESS                                                 8
+    sad lonely sad lonely sad lonely sad lonely
+PRIMARY:NEED:ORALITY                                             6
+    sugar honey sugar sugar sugar sugar
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time everywhere when when time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won pay selling won
+PRIMARY:SENSATION:TASTE                                          4
+    sweet sweet sweet sweet
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing playing dance sing
+EMOTIONS:AFFECTION                                               4
+    love romance love darling
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    sayin say say
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+
+PRIMARY             : 22.950820 %
+SECONDARY           : 34.426230 %
+EMOTIONS            : 42.622951 %
+
+310 words total

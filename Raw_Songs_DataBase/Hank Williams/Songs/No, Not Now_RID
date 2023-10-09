@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    when now now now now now week quickly then every when
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    say asked told asked said said say asked said said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    here away here out here here
+EMOTIONS:AFFECTION                                               3
+    marry marry married
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest dead
+SECONDARY:ABSTRACTION                                            2
+    cause guessed
+PRIMARY:SENSATION:VISION                                         1
+    picture
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hand
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 30.769231 %
+SECONDARY           : 61.538462 %
+EMOTIONS            : 7.692308 %
+
+155 words total

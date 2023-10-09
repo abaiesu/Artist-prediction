@@ -1,0 +1,30 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say talking say talking say talking
+SECONDARY:ABSTRACTION                                            4
+    may guess guess guess
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make make claim make
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when month
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    birds trees
+PRIMARY:SENSATION:VISION                                         1
+    sunshine
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloudy
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    outside
+PRIMARY:NEED:ORALITY                                             1
+    honey
+PRIMARY:SENSATION:TASTE                                          1
+    sweeter
+EMOTIONS:GLORY                                                   1
+    riches
+
+PRIMARY             : 32.000000 %
+SECONDARY           : 64.000000 %
+EMOTIONS            : 4.000000 %
+
+137 words total

@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    street floor frame line door door
+EMOTIONS:AGGRESSION                                              3
+    kick kicked killing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    round place
+PRIMARY:NEED:ANALITY                                             2
+    dirties dirty
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+SECONDARY:ABSTRACTION                                            1
+    them
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:ORDER                                                  1
+    order
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 18.181818 %
+EMOTIONS            : 18.181818 %
+
+166 words total

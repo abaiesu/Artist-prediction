@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    where wherever where here here here surrounds here here here here where where wherever where where wherever where
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        9
+    forever forever forever forever forever forever forever forever forever
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever ever ever ever ever
+PRIMARY:SENSATION:VISION                                         4
+    light shone imagination imagination
+EMOTIONS:ANXIETY                                                 4
+    afraid afraid afraid afraid
+PRIMARY:SENSATION:ODOR                                           4
+    breath breathe breath breathe
+SECONDARY:ABSTRACTION                                            4
+    true true true true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found found found
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    sea sea
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    secrets secrets
+PRIMARY:SENSATION:SOFT                                           2
+    whisper whisper
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+
+PRIMARY             : 66.176471 %
+SECONDARY           : 19.117647 %
+EMOTIONS            : 14.705882 %
+
+271 words total

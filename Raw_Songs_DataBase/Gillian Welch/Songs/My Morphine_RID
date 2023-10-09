@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          9
+    eye eye eye eye eye eye eye eye eye
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    lay death lay death lay death
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used makes used used
+SECONDARY:TEMPORAL REFERENCES                                    3
+    time time when
+PRIMARY:SENSATION:VISION                                         2
+    looked seen
+SECONDARY:MORAL IMPERATIVE                                       2
+    should right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    off where
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+PRIMARY:SENSATION:HARD                                           1
+    stoned
+EMOTIONS:SADNESS                                                 1
+    weep
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+EMOTIONS:AGGRESSION                                              1
+    war
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spin
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+SECONDARY:ABSTRACTION                                            1
+    knew
+
+PRIMARY             : 60.526316 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 10.526316 %
+
+189 words total

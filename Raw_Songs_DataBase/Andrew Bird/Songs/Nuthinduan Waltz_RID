@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    old when when when when when old
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at layers sides at
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    root root
+PRIMARY:SENSATION:SOUND                                          2
+    voice buzzing
+SECONDARY:ABSTRACTION                                            2
+    why why
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall fall
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hung above
+PRIMARY:NEED:ANALITY                                             1
+    dung
+PRIMARY:NEED:ORALITY                                             1
+    wheat
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    step
+EMOTIONS:SADNESS                                                 1
+    despair
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 34.615385 %
+EMOTIONS            : 3.846154 %
+
+175 words total

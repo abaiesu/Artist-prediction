@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back at away out away away
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything everybody everybody everybody
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money paid make working
+EMOTIONS:SADNESS                                                 3
+    lonely lonely lonely
+EMOTIONS:GLORY                                                   3
+    awe awe awe
+PRIMARY:SENSATION:VISION                                         3
+    look look look
+PRIMARY:NEED:ORALITY                                             2
+    fast liquor
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    borrowed talk
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dream woke
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:AGGRESSION                                              1
+    beat
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:NEED:ANALITY                                             1
+    shit
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 28.947368 %
+EMOTIONS            : 23.684211 %
+
+179 words total

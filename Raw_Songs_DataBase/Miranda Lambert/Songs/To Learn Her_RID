@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                           12
+    learn learn learn know true learn learn know learn learn learn learn
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    works tried lesson works
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when everything
+PRIMARY:SENSATION:VISION                                         2
+    see ray
+PRIMARY:NEED:ORALITY                                             2
+    drinkin dinners
+EMOTIONS:AGGRESSION                                              2
+    hurts hate
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    meet thanksgiving
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:SADNESS                                                 1
+    sorry
+
+PRIMARY             : 13.157895 %
+SECONDARY           : 55.263158 %
+EMOTIONS            : 31.578947 %
+
+180 words total

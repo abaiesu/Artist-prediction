@@ -1,0 +1,28 @@
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     9
+    play play play play play play play play play
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said please call please call please
+PRIMARY:SENSATION:SOUND                                          6
+    heard heart heard heart heard heart
+SECONDARY:ABSTRACTION                                            4
+    know meant know meant
+EMOTIONS:AFFECTION                                               3
+    love grateful grateful
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out out out
+EMOTIONS:AGGRESSION                                              3
+    broke broke broke
+SECONDARY:TEMPORAL REFERENCES                                    3
+    today today today
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+EMOTIONS:SADNESS                                                 2
+    sadness sadness
+PRIMARY:SENSATION:VISION                                         1
+    blue
+
+PRIMARY             : 23.809524 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 40.476190 %
+
+156 words total

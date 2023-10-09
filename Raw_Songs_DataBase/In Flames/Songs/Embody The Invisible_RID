@@ -1,0 +1,48 @@
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    river sea sea
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    towards near ahead
+SECONDARY:MORAL IMPERATIVE                                       2
+    privilege right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under underneath
+EMOTIONS:GLORY                                                   2
+    throne proud
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        2
+    forever forever
+PRIMARY:NEED:ORALITY                                             2
+    fast mouth
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    wander chasm
+SECONDARY:TEMPORAL REFERENCES                                    2
+    years when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won burdens
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    silent silence
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor steps
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+EMOTIONS:SADNESS                                                 1
+    loneliness
+EMOTIONS:AGGRESSION                                              1
+    wounds
+SECONDARY:ABSTRACTION                                            1
+    understand
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:SENSATION:VISION                                         1
+    shining
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shaking
+
+PRIMARY             : 65.714286 %
+SECONDARY           : 20.000000 %
+EMOTIONS            : 14.285714 %
+
+143 words total

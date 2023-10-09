@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            6
+    think know learning learning think think
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    fires burning heating
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make makes make
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    perception perception perception
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    educate educate
+SECONDARY:TEMPORAL REFERENCES                                    2
+    instant instant
+SECONDARY:RESTRAINT                                              1
+    stops
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:SENSATION:VISION                                         1
+    greenhouse
+PRIMARY:SENSATION:COLD                                           1
+    colder
+PRIMARY:SENSATION:SOUND                                          1
+    drums
+EMOTIONS:AGGRESSION                                              1
+    beating
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 57.692308 %
+EMOTIONS            : 3.846154 %
+
+174 words total

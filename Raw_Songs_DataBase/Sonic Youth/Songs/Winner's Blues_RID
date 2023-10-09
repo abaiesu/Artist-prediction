@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    away out back along long long out back out away long out out out out round
+SECONDARY:TEMPORAL REFERENCES                                   12
+    today time time when times now sometimes sometimes sometimes time today every
+SECONDARY:ABSTRACTION                                            5
+    thought know know thought know
+PRIMARY:SENSATION:VISION                                         3
+    see blues look
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eye eyes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn burn
+SECONDARY:RESTRAINT                                              1
+    bound
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    win
+EMOTIONS:AGGRESSION                                              1
+    rage
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 54.347826 %
+SECONDARY           : 41.304348 %
+EMOTIONS            : 4.347826 %
+
+153 words total

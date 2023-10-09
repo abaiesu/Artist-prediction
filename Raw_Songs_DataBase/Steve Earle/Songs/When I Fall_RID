@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    whenever when then again when years times every when when
+SECONDARY:ABSTRACTION                                            4
+    thought know cause considerin
+PRIMARY:SENSATION:VISION                                         4
+    see light watched blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at back place
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won cost find
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    answer call remind
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    deserted trip
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    highway above
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall tumbled
+EMOTIONS:SADNESS                                                 1
+    lonesome
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:GLORY                                                   1
+    gold
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    soar
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+SECONDARY:RESTRAINT                                              1
+    catch
+EMOTIONS:ANXIETY                                                 1
+    feared
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:AGGRESSION                                              1
+    hurt
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 46.666667 %
+EMOTIONS            : 13.333333 %
+
+156 words total

@@ -1,0 +1,32 @@
+EMOTIONS:AFFECTION                                               7
+    lovers love love mate love welcome lovers
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time when time date old time
+EMOTIONS:AGGRESSION                                              3
+    jealousy hate fight
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sigh sigh
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    apply
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+PRIMARY:SENSATION:VISION                                         1
+    moonlight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+PRIMARY:SENSATION:SOUND                                          1
+    hearts
+EMOTIONS:GLORY                                                   1
+    glory
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+
+PRIMARY             : 20.689655 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 44.827586 %
+
+108 words total

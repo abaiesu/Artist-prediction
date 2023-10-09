@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      16
+    doors wall doors street street doors wall walls street street walls walls wall street street street
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    between away out out between side out out within side out out out out
+SECONDARY:SOCIAL BEHAVIOR                                        9
+    call talking tell talking tell talking tell tell called
+SECONDARY:TEMPORAL REFERENCES                                    7
+    today today when time quicken suddenly when
+SECONDARY:ORDER                                                  5
+    listen listen listen listen listen
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    barking barking barking barking
+PRIMARY:SENSATION:VISION                                         3
+    bright bright see
+PRIMARY:SENSATION:SOUND                                          3
+    ringing hear ears
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burn burn
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    rest rest
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hills
+PRIMARY:NEED:ORALITY                                             1
+    tongue
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    building
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+SECONDARY:RESTRAINT                                              1
+    locked
+
+PRIMARY             : 58.904110 %
+SECONDARY           : 34.246575 %
+EMOTIONS            : 6.849315 %
+
+316 words total

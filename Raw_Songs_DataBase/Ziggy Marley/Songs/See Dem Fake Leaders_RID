@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    place out where behind place out
+EMOTIONS:AGGRESSION                                              6
+    enemies killing fighting war enemies killing
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now quick now now now
+SECONDARY:ABSTRACTION                                            5
+    real cause something think cause
+PRIMARY:SENSATION:VISION                                         4
+    see see look seen
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    making make profit making
+EMOTIONS:AFFECTION                                               4
+    friends love love friends
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    riding riding
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    wave wave
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    fires fires
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    explain granted
+EMOTIONS:GLORY                                                   2
+    rich supremacy
+SECONDARY:ORDER                                                  1
+    system
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bubbles
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+
+PRIMARY             : 36.734694 %
+SECONDARY           : 34.693878 %
+EMOTIONS            : 28.571429 %
+
+229 words total

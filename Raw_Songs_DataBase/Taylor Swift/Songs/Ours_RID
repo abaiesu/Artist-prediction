@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    here out at out at at where between at at
+EMOTIONS:AFFECTION                                              10
+    like like love love love love love love love love
+PRIMARY:SENSATION:VISION                                        10
+    shine look rough shine look rough shine look shine rough
+SECONDARY:ABSTRACTION                                            7
+    judge know choice know cause cause cause
+PRIMARY:SENSATION:HARD                                           7
+    rocks hard rocks hard rocks hard rocks
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    makes makes makes belong makes
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   5
+    throw jump throw throw throw
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    elevator high high high
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now time past now
+EMOTIONS:ANXIETY                                                 4
+    worry worry worry worry
+PRIMARY:SENSATION:GENERAL-SENSATION                              4
+    pretty pretty pretty pretty
+EMOTIONS:AGGRESSION                                              3
+    disapproves fight doubt
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    water water water
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say speak remarks
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh smiles
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:NEED:ORALITY                                             2
+    lip teeth
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    strangers
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    silence
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    stairs
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+
+PRIMARY             : 56.043956 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 20.879121 %
+
+317 words total

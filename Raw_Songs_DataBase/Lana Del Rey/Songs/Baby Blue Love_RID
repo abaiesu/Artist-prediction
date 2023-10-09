@@ -1,0 +1,50 @@
+PRIMARY:SENSATION:VISION                                        19
+    looking blue blue looking look looking blue blue blue blue looking blue blue blue blue looking blue blue blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    at outside at back back at outside here at where at outside across at outside
+SECONDARY:ABSTRACTION                                            6
+    knows knows them cause plan them
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    fire smoking fire fire fire
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    pick pick pick won pick
+EMOTIONS:AFFECTION                                               4
+    like like like love
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say ask tell
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    pour liquid
+EMOTIONS:AGGRESSION                                              2
+    cutting hurts
+SECONDARY:ORDER                                                  2
+    listening class
+PRIMARY:SENSATION:SOUND                                          2
+    music hearts
+EMOTIONS:ANXIETY                                                 2
+    dangerous dangerous
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    streets street
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+EMOTIONS:SADNESS                                                 1
+    paint
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:SENSATION:COLD                                           1
+    cool
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    riding
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 64.102564 %
+SECONDARY           : 23.076923 %
+EMOTIONS            : 12.820513 %
+
+323 words total

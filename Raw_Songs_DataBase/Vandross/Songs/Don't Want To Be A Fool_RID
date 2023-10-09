@@ -1,0 +1,32 @@
+SECONDARY:TEMPORAL REFERENCES                                   22
+    till now till once time again till ever again whenever every time time again till ever again again till again again again
+EMOTIONS:AFFECTION                                               8
+    love friend love love love love love love
+SECONDARY:ABSTRACTION                                            8
+    sure believed decided know different decided cause decided
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    said tell say said tell said say said
+EMOTIONS:AGGRESSION                                              5
+    hit hurt blame breaks kill
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    risk won find
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at back out
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor street
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    game game
+PRIMARY:SENSATION:VISION                                         2
+    looks look
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+SECONDARY:RESTRAINT                                              1
+    caught
+
+PRIMARY             : 16.176471 %
+SECONDARY           : 61.764706 %
+EMOTIONS            : 22.058824 %
+
+333 words total

@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    closes at away behind closes away at outside at where
+SECONDARY:ABSTRACTION                                            8
+    know knows know why guess knows know know
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when hours everything time time everyone everything when
+PRIMARY:ICARIAN IMAGERY:FIRE                                     7
+    sunny sunny sunny sunny sunny sunny sunny
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    weary ease slowly ease slowly weary
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   4
+    rise throwing rise throws
+PRIMARY:SENSATION:VISION                                         3
+    look looking looking
+EMOTIONS:AFFECTION                                               3
+    friend friend friend
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeps sleeps
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes eyes
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleased pleased
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees grow
+EMOTIONS:SADNESS                                                 1
+    weeps
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    window
+EMOTIONS:GLORY                                                   1
+    wondering
+
+PRIMARY             : 61.290323 %
+SECONDARY           : 29.032258 %
+EMOTIONS            : 9.677419 %
+
+183 words total

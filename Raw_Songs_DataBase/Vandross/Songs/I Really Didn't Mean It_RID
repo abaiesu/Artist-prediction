@@ -1,0 +1,36 @@
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    told said met say said help told said met promise talk share told said met
+SECONDARY:ABSTRACTION                                           12
+    think cause knew know know true believe cause knew know real know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    out away back back away back back back back back
+EMOTIONS:AFFECTION                                               8
+    love dear love love friend love love friend
+SECONDARY:TEMPORAL REFERENCES                                    5
+    every moment when when time
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    cried cried cried cried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head hands face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    used try test
+EMOTIONS:AGGRESSION                                              2
+    jealousy doubt
+PRIMARY:SENSATION:SOUND                                          2
+    heard heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:POSITIVE AFFECT                                         1
+    happiness
+EMOTIONS:SADNESS                                                 1
+    mourning
+PRIMARY:SENSATION:HARD                                           1
+    harder
+
+PRIMARY             : 28.169014 %
+SECONDARY           : 49.295775 %
+EMOTIONS            : 22.535211 %
+
+404 words total

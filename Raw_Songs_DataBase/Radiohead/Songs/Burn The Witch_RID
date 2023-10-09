@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    at round where where where
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    burn burn burn burn burn
+SECONDARY:ABSTRACTION                                            4
+    know reason know know
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flying float flying
+EMOTIONS:ANXIETY                                                 3
+    panic avoid panic
+EMOTIONS:AGGRESSION                                              3
+    attack shoot attack
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+EMOTIONS:POSITIVE AFFECT                                         1
+    cheer
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doors
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talk
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eye
+PRIMARY:SENSATION:TOUCH                                          1
+    contact
+
+PRIMARY             : 57.575758 %
+SECONDARY           : 15.151515 %
+EMOTIONS            : 27.272727 %
+
+96 words total

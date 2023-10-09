@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    old tonight tonight old tonight tonight tonight tonight tonight
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    play guitar yell guitar play play
+PRIMARY:SENSATION:SOUND                                          4
+    ringing bell rhythm hear
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    close back where
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    top hill tree
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say said saying
+SECONDARY:ABSTRACTION                                            2
+    learned them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    used carry
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:AGGRESSION                                              1
+    gunny
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    railroad
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shade
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drivers
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:VISION                                         1
+    lights
+
+PRIMARY             : 39.024390 %
+SECONDARY           : 41.463415 %
+EMOTIONS            : 19.512195 %
+
+190 words total

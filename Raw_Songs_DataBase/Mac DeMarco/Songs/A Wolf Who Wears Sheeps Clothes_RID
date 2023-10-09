@@ -1,0 +1,32 @@
+EMOTIONS:ANXIETY                                                 3
+    trouble trouble trouble
+SECONDARY:ABSTRACTION                                            3
+    know believe believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where outside wherever
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    meeting meeting follow
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    trying make
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    quiet dead
+PRIMARY:SENSATION:VISION                                         1
+    light
+SECONDARY:TEMPORAL REFERENCES                                    1
+    sometimes
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadow
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    windowpane
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+PRIMARY:NEED:ANALITY                                             1
+    shit
+
+PRIMARY             : 47.826087 %
+SECONDARY           : 39.130435 %
+EMOTIONS            : 13.043478 %
+
+97 words total

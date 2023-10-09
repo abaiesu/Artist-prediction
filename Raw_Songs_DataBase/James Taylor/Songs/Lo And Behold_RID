@@ -1,0 +1,40 @@
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   6
+    hill hill hill hill hill hill
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now everyone everyone time till now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    where long long here where
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say talking talking
+PRIMARY:SENSATION:VISION                                         2
+    behold seen
+EMOTIONS:GLORY                                                   2
+    glorious glory
+EMOTIONS:AGGRESSION                                              2
+    kill kill
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    build build
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    laid laid
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rise
+
+PRIMARY             : 56.410256 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 15.384615 %
+
+156 words total

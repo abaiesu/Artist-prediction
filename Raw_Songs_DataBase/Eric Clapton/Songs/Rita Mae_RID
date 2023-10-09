@@ -1,0 +1,20 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    today today today today time time today time today when
+PRIMARY:SENSATION:VISION                                         4
+    saw saw see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    out out away away
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    visit visit say
+SECONDARY:RESTRAINT                                              1
+    catch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    finished
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 62.500000 %
+EMOTIONS            : 0.000000 %
+
+101 words total

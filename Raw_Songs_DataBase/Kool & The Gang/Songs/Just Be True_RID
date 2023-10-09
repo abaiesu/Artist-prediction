@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                           21
+    true true true true true true true think true know true true true true true true true true true true true
+PRIMARY:SENSATION:VISION                                         6
+    watchin watching watchin watchin see see
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away inside inside inside inside
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+EMOTIONS:GLORY                                                   4
+    pride pride pride pride
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    high high high
+SECONDARY:RESTRAINT                                              2
+    must must
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    follow
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    today
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 56.862745 %
+EMOTIONS            : 7.843137 %
+
+209 words total

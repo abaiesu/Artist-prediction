@@ -1,0 +1,32 @@
+EMOTIONS:AGGRESSION                                              5
+    damage hit damage damage damage
+EMOTIONS:AFFECTION                                               4
+    love love like like
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everyone every everyone every
+PRIMARY:SENSATION:VISION                                         3
+    watched seen seen
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at out
+SECONDARY:ABSTRACTION                                            2
+    know understand
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    cellar
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:NEED:ORALITY                                             1
+    milk
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+
+PRIMARY             : 39.285714 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 35.714286 %
+
+114 words total

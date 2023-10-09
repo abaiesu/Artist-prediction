@@ -1,0 +1,34 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    used spend won afford won
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every while every every
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    highway highway highway highway
+SECONDARY:RESTRAINT                                              4
+    jail must catch must
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    road road road
+EMOTIONS:AFFECTION                                               3
+    like love like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back along
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolling rolling
+PRIMARY:SENSATION:HARD                                           2
+    stone stone
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    luxury
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slow
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travels
+
+PRIMARY             : 47.058824 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 11.764706 %
+
+181 words total

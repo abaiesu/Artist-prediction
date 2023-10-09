@@ -1,0 +1,50 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where here sided out ahead off at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    business business business business tried use
+EMOTIONS:AFFECTION                                               4
+    love love love love
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said calling said say
+SECONDARY:ABSTRACTION                                            4
+    guess guess thought plan
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now time now
+SECONDARY:RESTRAINT                                              2
+    catch catch
+EMOTIONS:AGGRESSION                                              2
+    broke blame
+PRIMARY:SENSATION:VISION                                         2
+    looked look
+PRIMARY:SENSATION:TOUCH                                          2
+    itching scratch
+EMOTIONS:SADNESS                                                 1
+    lonely
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:SENSATION:SOFT                                           1
+    feathers
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+SECONDARY:ORDER                                                  1
+    divided
+EMOTIONS:ANXIETY                                                 1
+    desperate
+SECONDARY:MORAL IMPERATIVE                                       1
+    law
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trail
+EMOTIONS:GLORY                                                   1
+    eagle
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    jumps
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 43.750000 %
+EMOTIONS            : 18.750000 %
+
+229 words total

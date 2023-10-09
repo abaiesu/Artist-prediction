@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                    6
+    now now again again now today
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say forgiveness said say tellin
+SECONDARY:ABSTRACTION                                            4
+    cause learned true cause
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    over over
+EMOTIONS:AGGRESSION                                              2
+    broke blame
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    lesson
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    knee
+
+PRIMARY             : 24.000000 %
+SECONDARY           : 64.000000 %
+EMOTIONS            : 12.000000 %
+
+163 words total

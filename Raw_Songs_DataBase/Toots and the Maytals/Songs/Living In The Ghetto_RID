@@ -1,0 +1,32 @@
+EMOTIONS:GLORY                                                   6
+    rich riches rich richer kingdom kingdom
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    far where at off off far
+SECONDARY:ABSTRACTION                                            4
+    why know know know
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then then then then
+PRIMARY:NEED:ORALITY                                             4
+    thirsting feed thirsting feed
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+EMOTIONS:SADNESS                                                 3
+    weep misery misery
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say say
+SECONDARY:RESTRAINT                                              2
+    must must
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hungering hungering
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+
+PRIMARY             : 39.024390 %
+SECONDARY           : 31.707317 %
+EMOTIONS            : 29.268293 %
+
+266 words total

@@ -1,0 +1,34 @@
+SECONDARY:ABSTRACTION                                            3
+    knows learns cause
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms hair eyes
+PRIMARY:NEED:ORALITY                                             2
+    corner starving
+SECONDARY:TEMPORAL REFERENCES                                    2
+    time old
+EMOTIONS:AGGRESSION                                              2
+    murderer gun
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    trees hungry
+SECONDARY:ORDER                                                  1
+    list
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    reminder
+PRIMARY:SENSATION:COLD                                           1
+    child
+EMOTIONS:SADNESS                                                 1
+    sad
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    middle
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    businessman
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 13.636364 %
+
+183 words total

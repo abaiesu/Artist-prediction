@@ -1,0 +1,34 @@
+PRIMARY:SENSATION:COLD                                          13
+    snow snow snow snow snow snow snow snow snow snow snow snow snow
+EMOTIONS:AFFECTION                                               6
+    dear goodbyeing love dear goodbyeing love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    outside place out long long
+PRIMARY:ICARIAN IMAGERY:FIRE                                     4
+    fire warm fire fire
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    slowly slowly
+EMOTIONS:ANXIETY                                                 1
+    frightful
+EMOTIONS:POSITIVE AFFECT                                         1
+    delightful
+SECONDARY:RESTRAINT                                              1
+    stopping
+PRIMARY:NEED:ORALITY                                             1
+    corn
+PRIMARY:SENSATION:VISION                                         1
+    lights
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AGGRESSION                                              1
+    hate
+
+PRIMARY             : 71.794872 %
+SECONDARY           : 5.128205 %
+EMOTIONS            : 23.076923 %
+
+151 words total

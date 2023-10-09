@@ -1,0 +1,20 @@
+EMOTIONS:POSITIVE AFFECT                                         9
+    thrill thrill thrill thrill thrill thrill thrill thrill thrill
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    away away away away away away over over
+SECONDARY:ABSTRACTION                                            4
+    know know know know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now now now
+EMOTIONS:SADNESS                                                 2
+    sorry lonely
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 28.571429 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 42.857143 %
+
+147 words total

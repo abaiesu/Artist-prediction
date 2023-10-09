@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:VISION                                         4
+    seen seen stars seen
+EMOTIONS:AFFECTION                                               3
+    dear dear dear
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flying fly mountain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    far place
+EMOTIONS:ANXIETY                                                 2
+    cares cares
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high birds
+EMOTIONS:SADNESS                                                 2
+    lonesome weep
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now when
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+SECONDARY:ABSTRACTION                                            1
+    thinking
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    waters
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+
+PRIMARY             : 66.666667 %
+SECONDARY           : 10.000000 %
+EMOTIONS            : 23.333333 %
+
+142 words total

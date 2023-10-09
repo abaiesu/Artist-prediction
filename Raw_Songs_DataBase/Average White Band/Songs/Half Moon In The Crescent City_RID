@@ -1,0 +1,46 @@
+PRIMARY:SENSATION:VISION                                        12
+    looks shine shine shine shine shine shine blue shine shine shine blue
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    where east out at at long at away here
+PRIMARY:SENSATION:GENERAL-SENSATION                              8
+    pretty pretty pretty pretty pretty pretty pretty pretty
+SECONDARY:TEMPORAL REFERENCES                                    7
+    then today now now time time while
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   7
+    hang hang hang dawn hang hang hang
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    hot hot hot hot hot hot
+SECONDARY:ABSTRACTION                                            4
+    know cause guess knows
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    heading feet heading heading
+PRIMARY:NEED:ORALITY                                             3
+    whiskey coffee teeth
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    lake lake
+SECONDARY:MORAL IMPERATIVE                                       2
+    ought right
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    street street
+SECONDARY:RESTRAINT                                              2
+    stop caught
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    drop drop
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:SENSATION:SOUND                                          1
+    sound
+EMOTIONS:GLORY                                                   1
+    fame
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dance
+EMOTIONS:SADNESS                                                 1
+    mourn
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 3.947368 %
+
+375 words total

@@ -1,0 +1,62 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    at at off away inside south pointing curving here out
+PRIMARY:SENSATION:SOUND                                          5
+    hears aloud bell ring heart
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  5
+    fell sliding sliding sliding sliding
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    told say commitment guidance
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should right
+EMOTIONS:POSITIVE AFFECT                                         4
+    smiled fun laugh celebration
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing dancing sing dance
+PRIMARY:SENSATION:VISION                                         4
+    glancing seen lights bright
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when when again
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    streets step path
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    hand head feet
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dream
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    sail ride
+EMOTIONS:AGGRESSION                                              2
+    fought beat
+PRIMARY:NEED:SEX                                                 1
+    kiss
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    claim
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    hole
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:COLD                                           1
+    north
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    crowd
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    churns
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:NEED:ORALITY                                             1
+    fast
+EMOTIONS:GLORY                                                   1
+    proud
+
+PRIMARY             : 63.380282 %
+SECONDARY           : 21.126761 %
+EMOTIONS            : 15.492958 %
+
+233 words total

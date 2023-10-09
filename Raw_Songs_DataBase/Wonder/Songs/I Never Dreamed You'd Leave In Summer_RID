@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    then when now then now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dreamed dreamed dreamed
+SECONDARY:ABSTRACTION                                            3
+    thought thought why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spent find find
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said said said
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back away
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    springtime
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 40.740741 %
+SECONDARY           : 51.851852 %
+EMOTIONS            : 7.407407 %
+
+107 words total

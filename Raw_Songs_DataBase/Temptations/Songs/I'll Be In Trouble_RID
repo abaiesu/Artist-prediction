@@ -1,0 +1,32 @@
+EMOTIONS:ANXIETY                                                26
+    trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble trouble
+SECONDARY:ABSTRACTION                                           13
+    decide decide cause know decide know cause decide know know decide know know
+EMOTIONS:AFFECTION                                               7
+    love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make make make prepare prepare
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    say say say say confess
+SECONDARY:TEMPORAL REFERENCES                                    4
+    everything ever everyday everyway
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    here side side
+EMOTIONS:AGGRESSION                                              2
+    hurt deceive
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    stranger
+EMOTIONS:GLORY                                                   1
+    pride
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:NEED:ANALITY                                             1
+    mess
+
+PRIMARY             : 8.571429 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 51.428571 %
+
+333 words total

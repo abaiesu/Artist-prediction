@@ -1,0 +1,30 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    when once time soon month now when when
+SECONDARY:ABSTRACTION                                            5
+    sure know reason know know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cries cries cries
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door floor
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    close
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+EMOTIONS:SADNESS                                                 1
+    grieving
+PRIMARY:NEED:ORALITY                                             1
+    drunk
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+EMOTIONS:AFFECTION                                               1
+    friend
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+
+PRIMARY             : 29.629630 %
+SECONDARY           : 51.851852 %
+EMOTIONS            : 18.518519 %
+
+154 words total

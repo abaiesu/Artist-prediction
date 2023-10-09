@@ -1,0 +1,46 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    times ever ever ever times ever every every everywhere times ever ever every times ever times ever
+PRIMARY:SENSATION:HARD                                           5
+    hard hard hard hard hard
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    help says answer call
+EMOTIONS:AGGRESSION                                              3
+    war war war
+SECONDARY:ABSTRACTION                                            3
+    choice choice choice
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly flapping
+PRIMARY:SENSATION:VISION                                         2
+    colored spies
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won won
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    cliff
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    behind
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:NEED:ORALITY                                             1
+    poison
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:SENSATION:SOUND                                          1
+    music
+EMOTIONS:GLORY                                                   1
+    pride
+SECONDARY:ORDER                                                  1
+    uniform
+
+PRIMARY             : 33.962264 %
+SECONDARY           : 52.830189 %
+EMOTIONS            : 13.207547 %
+
+176 words total

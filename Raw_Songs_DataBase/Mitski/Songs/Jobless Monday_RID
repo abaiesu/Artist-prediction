@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    further out where long out out out where out out out out
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    afford buy makes
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said met please
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:ABSTRACTION                                            2
+    know difference
+PRIMARY:NEED:ORALITY                                             1
+    food
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+EMOTIONS:AFFECTION                                               1
+    loves
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:SENSATION:VISION                                         1
+    light
+
+PRIMARY             : 60.714286 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 3.571429 %
+
+109 words total

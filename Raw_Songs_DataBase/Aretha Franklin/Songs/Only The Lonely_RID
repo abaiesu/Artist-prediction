@@ -1,0 +1,36 @@
+EMOTIONS:SADNESS                                                10
+    lonely lonely lonely hopeless hopeless lonely hopeless hopeless loneliness lonely
+SECONDARY:ABSTRACTION                                            8
+    know know may scheme true know know know
+EMOTIONS:AFFECTION                                               6
+    love love love like love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    used find used find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreams dream dream dream
+SECONDARY:TEMPORAL REFERENCES                                    4
+    soon time when time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    place somewhere at
+PRIMARY:NEED:ORALITY                                             2
+    cafe lips
+PRIMARY:SENSATION:SOUND                                          2
+    melody heartbreak
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    warm
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    game
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    beach
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:NEED:SEX                                                 1
+    caress
+
+PRIMARY             : 30.612245 %
+SECONDARY           : 32.653061 %
+EMOTIONS            : 36.734694 %
+
+127 words total

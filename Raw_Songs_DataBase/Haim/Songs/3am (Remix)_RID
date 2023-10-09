@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    off at away away away away away away off away away away away away away away away away off
+PRIMARY:ICARIAN IMAGERY:ASCENT                                  15
+    floating floating floating floating floating floating floating floating floating floating floating floating floating floating floating
+SECONDARY:ABSTRACTION                                            9
+    why cause thinking cause thinking think cause thinking know
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    calling calling meet calling calling
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time now time now time
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    picking picking make picking
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head head head
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    spinning spinning spinning
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    bed bed bed
+PRIMARY:SENSATION:SOUND                                          3
+    ringing ringing ringing
+SECONDARY:RESTRAINT                                              2
+    stop resist
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    screen
+PRIMARY:SENSATION:VISION                                         1
+    looking
+
+PRIMARY             : 64.864865 %
+SECONDARY           : 33.783784 %
+EMOTIONS            : 1.351351 %
+
+249 words total

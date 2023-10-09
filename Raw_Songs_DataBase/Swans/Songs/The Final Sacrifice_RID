@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    where inside inside inside close out out
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now now now
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    follow follow thank
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    blood eyes head
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    step step
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lie
+PRIMARY:NEED:ORALITY                                             1
+    drink
+PRIMARY:SENSATION:VISION                                         1
+    look
+
+PRIMARY             : 64.000000 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 8.000000 %
+
+117 words total

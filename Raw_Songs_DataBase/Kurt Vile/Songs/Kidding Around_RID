@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       19
+    straight narrow straight between over at far away inside along over here straight narrow straight between over over here
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    eyes blood brain eyes blood
+EMOTIONS:AGGRESSION                                              5
+    arrow unkind arrow brawlway kill
+PRIMARY:SENSATION:SOUND                                          3
+    sounds ears hear
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try trying trying
+SECONDARY:ABSTRACTION                                            2
+    think know
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    pretty pretty
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell say
+EMOTIONS:GLORY                                                   1
+    sublime
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+EMOTIONS:POSITIVE AFFECT                                         1
+    funny
+SECONDARY:ORDER                                                  1
+    listening
+PRIMARY:SENSATION:HARD                                           1
+    rocky
+
+PRIMARY             : 64.583333 %
+SECONDARY           : 20.833333 %
+EMOTIONS            : 14.583333 %
+
+192 words total

@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         7
+    notice notice notice notice notice notice notice
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said said said said said said
+SECONDARY:TEMPORAL REFERENCES                                    6
+    tonight when tonight tonight tonight tonight
+PRIMARY:SENSATION:SOFT                                           4
+    whispered softly whispered softly
+PRIMARY:SENSATION:COLD                                           4
+    child child child child
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    over where over
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    head head
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    drift
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    build
+EMOTIONS:ANXIETY                                                 1
+    dread
+
+PRIMARY             : 56.756757 %
+SECONDARY           : 35.135135 %
+EMOTIONS            : 8.108108 %
+
+171 words total

@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    off back off back at back off back long
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when old now when
+EMOTIONS:AFFECTION                                               4
+    love loving darling love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    street street lines street
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say calling pleasure
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    face hair
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven high
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:SENSATION:COLD                                           1
+    frostbite
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunstroke
+EMOTIONS:POSITIVE AFFECT                                         1
+    laughing
+EMOTIONS:GLORY                                                   1
+    strutting
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    finishing
+SECONDARY:ORDER                                                  1
+    neat
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journeys
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    bathtub
+
+PRIMARY             : 58.139535 %
+SECONDARY           : 23.255814 %
+EMOTIONS            : 18.604651 %
+
+176 words total

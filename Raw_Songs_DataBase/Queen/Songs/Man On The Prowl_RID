@@ -1,0 +1,44 @@
+PRIMARY:SENSATION:VISION                                        12
+    watch looking look look watch looking look look look look look looking
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    side out out out out out out out out out
+PRIMARY:NEED:ORALITY                                             3
+    fast honey honey
+EMOTIONS:ANXIETY                                                 3
+    trouble trouble trouble
+SECONDARY:ABSTRACTION                                            3
+    cause cause cause
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy dreaming
+EMOTIONS:SADNESS                                                 2
+    lonely lonely
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driving
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    lane
+PRIMARY:NEED:ANALITY                                             1
+    dirty
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:TEMPORAL REFERENCES                                    1
+    when
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    teach
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancin
+
+PRIMARY             : 73.469388 %
+SECONDARY           : 10.204082 %
+EMOTIONS            : 16.326531 %
+
+296 words total

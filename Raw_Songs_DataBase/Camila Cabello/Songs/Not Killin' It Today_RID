@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   18
+    today today again today today when time today today again today today today today again today today today
+EMOTIONS:AGGRESSION                                             17
+    killed hurt jealous killin break killing killin jealous killin break killing killin killin break killing killin killin
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    message reply tell confident please helps tell confident please please
+EMOTIONS:POSITIVE AFFECT                                         8
+    joke hilarious fun laugh hilarious fun laugh laugh
+PRIMARY:NEED:ORALITY                                             7
+    drink eat cake eat cake eat cake
+EMOTIONS:AFFECTION                                               6
+    affectionate love like affectionate love like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    face eyes face face
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    cry cry cry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    try try try
+SECONDARY:ABSTRACTION                                            2
+    cause why
+PRIMARY:NEED:SEX                                                 2
+    sexy sexy
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hungover
+PRIMARY:SENSATION:TASTE                                          1
+    sweetest
+PRIMARY:SENSATION:VISION                                         1
+    looked
+
+PRIMARY             : 20.238095 %
+SECONDARY           : 39.285714 %
+EMOTIONS            : 40.476190 %
+
+377 words total

@@ -1,0 +1,24 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    said said talk please talk tell advice say advice treat
+PRIMARY:SENSATION:VISION                                         5
+    blues blues blues blues blues
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every every when when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    use try won price
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    away away at
+EMOTIONS:AFFECTION                                               3
+    goodbye goodbye like
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows shadows
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fallin fallin
+SECONDARY:ABSTRACTION                                            2
+    know know
+
+PRIMARY             : 34.285714 %
+SECONDARY           : 57.142857 %
+EMOTIONS            : 8.571429 %
+
+154 words total

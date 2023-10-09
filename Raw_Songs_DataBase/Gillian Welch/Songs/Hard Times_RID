@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                   17
+    when now old times times times old time old time times times times old times times times
+PRIMARY:SENSATION:HARD                                           9
+    hard hard hard hard hard hard hard hard hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    used plow make machine picking plow pick
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    sing sing horn playing
+EMOTIONS:AFFECTION                                               2
+    loved loved
+PRIMARY:SENSATION:SOUND                                          2
+    hear noise
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calling said
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+PRIMARY:NEED:ORALITY                                             2
+    honey sugar
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    long
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+EMOTIONS:AGGRESSION                                              1
+    kick
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floor
+PRIMARY:SENSATION:VISION                                         1
+    seen
+SECONDARY:ABSTRACTION                                            1
+    guess
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    woke
+
+PRIMARY             : 37.037037 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 12.962963 %
+
+281 words total

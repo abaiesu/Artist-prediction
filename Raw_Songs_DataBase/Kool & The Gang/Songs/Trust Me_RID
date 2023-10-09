@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              21
+    love lovers love love love like like friend love love like love love like like love like like like lovin like
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out away away side at back back back side
+SECONDARY:TEMPORAL REFERENCES                                    9
+    when times time when every time already then when
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    found spend find spend won record spend
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    called say confidante call share met
+SECONDARY:ABSTRACTION                                            6
+    probably believe believe think know believe
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     4
+    games play played games
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    rolled shook
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    chance chance
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:VISION                                         1
+    shinin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    edge
+EMOTIONS:AGGRESSION                                              1
+    wrecks
+SECONDARY:RESTRAINT                                              1
+    catch
+EMOTIONS:ANXIETY                                                 1
+    worry
+
+PRIMARY             : 24.675325 %
+SECONDARY           : 40.259740 %
+EMOTIONS            : 35.064935 %
+
+441 words total

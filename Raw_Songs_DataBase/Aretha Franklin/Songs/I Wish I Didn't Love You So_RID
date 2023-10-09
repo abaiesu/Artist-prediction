@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               5
+    love love friend love love
+SECONDARY:TEMPORAL REFERENCES                                    4
+    ago now now when
+SECONDARY:MORAL IMPERATIVE                                       3
+    should should should
+SECONDARY:ABSTRACTION                                            3
+    why tender something
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    long long
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+EMOTIONS:POSITIVE AFFECT                                         2
+    smiling smiling
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    mend try
+EMOTIONS:AGGRESSION                                              1
+    torture
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    says
+
+PRIMARY             : 22.222222 %
+SECONDARY           : 48.148148 %
+EMOTIONS            : 29.629630 %
+
+92 words total

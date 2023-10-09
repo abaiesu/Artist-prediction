@@ -1,0 +1,38 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    says say say say ask told
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    money money find money money
+EMOTIONS:AGGRESSION                                              3
+    beat beat beat
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    guitar dancing guitar
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+SECONDARY:ABSTRACTION                                            2
+    know sure
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    back out
+PRIMARY:NEED:ORALITY                                             1
+    corner
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    shake
+EMOTIONS:AFFECTION                                               1
+    friend
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 31.250000 %
+SECONDARY           : 46.875000 %
+EMOTIONS            : 21.875000 %
+
+186 words total

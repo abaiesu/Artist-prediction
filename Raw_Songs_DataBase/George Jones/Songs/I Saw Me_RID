@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   18
+    time tonight time tonight time tonight now everything time tonight time tonight now everything time tonight time tonight
+PRIMARY:SENSATION:VISION                                        17
+    saw saw looked saw saw picture saw see saw looked saw saw picture saw see saw saw
+SECONDARY:ABSTRACTION                                            5
+    believed reason why reason why
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    placed side side
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head eyes eyes
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cried cried
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+EMOTIONS:AFFECTION                                               2
+    love love
+EMOTIONS:GLORY                                                   1
+    crown
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 48.214286 %
+EMOTIONS            : 8.928571 %
+
+171 words total

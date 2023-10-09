@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                           11
+    knew sure know why somethin knows truth know why know why
+SECONDARY:TEMPORAL REFERENCES                                    7
+    while again sometimes again tonight again again
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    ask say ask say say ask say
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    somewhere at at here at
+EMOTIONS:AFFECTION                                               5
+    like love love friends love
+EMOTIONS:POSITIVE AFFECT                                         4
+    happy smile smile smile
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make tried try
+PRIMARY:SENSATION:SOUND                                          2
+    heard heart
+EMOTIONS:AGGRESSION                                              1
+    hate
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 17.391304 %
+SECONDARY           : 60.869565 %
+EMOTIONS            : 21.739130 %
+
+280 words total

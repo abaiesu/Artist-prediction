@@ -1,0 +1,54 @@
+PRIMARY:SENSATION:VISION                                        12
+    watch look look see sees looking look see look looking look see
+SECONDARY:TEMPORAL REFERENCES                                   10
+    time when again when when now now time everything when
+SECONDARY:ABSTRACTION                                            8
+    cause know why know belief understand cause why
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    close away out here back off out
+EMOTIONS:AFFECTION                                               6
+    friend like love friend love love
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    eyes blood eyes eyes
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy dreams crazy
+EMOTIONS:GLORY                                                   3
+    wonder wonder wonder
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall fallin fall
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    rain sea sea
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make make make
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    jump throw
+EMOTIONS:AGGRESSION                                              2
+    steal breaks
+PRIMARY:SENSATION:HARD                                           2
+    glass glass
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sail
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternally
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    quiet
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+
+PRIMARY             : 55.128205 %
+SECONDARY           : 28.205128 %
+EMOTIONS            : 16.666667 %
+
+252 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               6
+    love like loved love like loved
+PRIMARY:ICARIAN IMAGERY:WATER                                    5
+    rain river rain rain rain
+PRIMARY:SENSATION:VISION                                         4
+    shine shine shine shine
+SECONDARY:ABSTRACTION                                            4
+    guess cause true may
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won money
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    mountain
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+EMOTIONS:SADNESS                                                 1
+    unhappy
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloudy
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    out
+
+PRIMARY             : 46.875000 %
+SECONDARY           : 28.125000 %
+EMOTIONS            : 25.000000 %
+
+112 words total

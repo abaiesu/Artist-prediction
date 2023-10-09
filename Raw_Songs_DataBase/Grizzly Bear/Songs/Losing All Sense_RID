@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    long here here round away here over away here long long
+SECONDARY:TEMPORAL REFERENCES                                    6
+    when today ago then past past
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    woke awake awake
+PRIMARY:SENSATION:SOUND                                          3
+    hear echo heart
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    ask able help
+SECONDARY:ABSTRACTION                                            3
+    reasons thinking thinking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make found goal
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    drift lies lie
+SECONDARY:RESTRAINT                                              2
+    bound control
+EMOTIONS:AGGRESSION                                              2
+    cut cut
+PRIMARY:NEED:ORALITY                                             2
+    fast fast
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    body body
+SECONDARY:ORDER                                                  1
+    dividing
+PRIMARY:SENSATION:VISION                                         1
+    looking
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    wave
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    wash
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 55.102041 %
+SECONDARY           : 38.775510 %
+EMOTIONS            : 6.122449 %
+
+198 words total

@@ -1,0 +1,42 @@
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    won pay price makes try won tried copycat
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    talk talk tell talk say say comment
+SECONDARY:ABSTRACTION                                            6
+    know facts cause different cause know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when ever once
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh thrill
+EMOTIONS:AGGRESSION                                              2
+    murder blame
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    at
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:TASTE                                          1
+    tart
+EMOTIONS:AFFECTION                                               1
+    like
+SECONDARY:RESTRAINT                                              1
+    must
+EMOTIONS:ANXIETY                                                 1
+    worried
+PRIMARY:SENSATION:SOUND                                          1
+    sounding
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+SECONDARY:ORDER                                                  1
+    normal
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heads
+PRIMARY:SENSATION:VISION                                         1
+    see
+
+PRIMARY             : 17.500000 %
+SECONDARY           : 67.500000 %
+EMOTIONS            : 15.000000 %
+
+192 words total

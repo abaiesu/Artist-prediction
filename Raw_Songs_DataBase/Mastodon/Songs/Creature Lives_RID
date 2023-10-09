@@ -1,0 +1,32 @@
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say talk help said
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    swamp swamp
+SECONDARY:ABSTRACTION                                            2
+    them them
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh laughed
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+PRIMARY:SENSATION:VISION                                         1
+    saw
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+EMOTIONS:AFFECTION                                               1
+    liked
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    tried
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+SECONDARY:TEMPORAL REFERENCES                                    1
+    again
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+
+PRIMARY             : 35.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 15.000000 %
+
+62 words total

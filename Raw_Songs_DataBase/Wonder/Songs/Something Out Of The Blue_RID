@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    opened out away out out out out where out out out
+SECONDARY:ABSTRACTION                                            9
+    something something know know something something something something something
+PRIMARY:SENSATION:VISION                                         9
+    blue blue blue see blue see blue blue blue
+SECONDARY:TEMPORAL REFERENCES                                    6
+    then time then time then now
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    said said said said said said
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    find swept found paid cost
+EMOTIONS:AFFECTION                                               3
+    love love love
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy gladness
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    heaven
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+
+PRIMARY             : 41.818182 %
+SECONDARY           : 47.272727 %
+EMOTIONS            : 10.909091 %
+
+132 words total

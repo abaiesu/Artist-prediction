@@ -1,0 +1,52 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    open back front back out where at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hands face chest body heel
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:NEED:ANALITY                                             4
+    shit shit shit shit
+EMOTIONS:AGGRESSION                                              4
+    guns whip slap killing
+PRIMARY:SENSATION:SOUND                                          4
+    sounding heart sounding trill
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    smoke burn heat
+SECONDARY:TEMPORAL REFERENCES                                    3
+    again when then
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make apply buy
+SECONDARY:ABSTRACTION                                            3
+    important think real
+PRIMARY:NEED:ORALITY                                             3
+    spit cream cookies
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    traveled shipping
+PRIMARY:NEED:SEX                                                 2
+    fuck fuck
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    talk appeal
+SECONDARY:MORAL IMPERATIVE                                       2
+    should shouldn
+PRIMARY:SENSATION:VISION                                         1
+    brown
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+EMOTIONS:GLORY                                                   1
+    golden
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mysteries
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:SENSATION:COLD                                           1
+    cold
+SECONDARY:ORDER                                                  1
+    simple
+
+PRIMARY             : 59.322034 %
+SECONDARY           : 23.728814 %
+EMOTIONS            : 16.949153 %
+
+249 words total

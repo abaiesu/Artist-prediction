@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here behind out level here behind away closure
+SECONDARY:TEMPORAL REFERENCES                                    6
+    again past now again past now
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    dreams dreams dreams dreams
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             4
+    secrets void secrets void
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell answers tell answers
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    wall wall path
+EMOTIONS:AFFECTION                                               3
+    sympathize like like
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    3
+    hole deeper hole
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    reach find
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall dig
+EMOTIONS:AGGRESSION                                              2
+    broken broken
+PRIMARY:NEED:ORALITY                                             2
+    sucks sucks
+SECONDARY:ABSTRACTION                                            2
+    know know
+PRIMARY:SENSATION:SOUND                                          1
+    noise
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    climb
+
+PRIMARY             : 60.416667 %
+SECONDARY           : 29.166667 %
+EMOTIONS            : 10.416667 %
+
+163 words total

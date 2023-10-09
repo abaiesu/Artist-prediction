@@ -1,0 +1,34 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                     3
+    burning burning burning
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    between between between
+PRIMARY:SENSATION:VISION                                         3
+    light shining bright
+EMOTIONS:ANXIETY                                                 2
+    fear fear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lies lays
+EMOTIONS:SADNESS                                                 2
+    suffer grief
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when while
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    confession confess
+SECONDARY:ABSTRACTION                                            2
+    them belief
+SECONDARY:ORDER                                                  1
+    forming
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    rises
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    body
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 26.923077 %
+EMOTIONS            : 15.384615 %
+
+119 words total

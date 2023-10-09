@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    over over over over over over over over
+EMOTIONS:ANXIETY                                                 7
+    fear fears fear fear fear fears fear
+SECONDARY:TEMPORAL REFERENCES                                    4
+    past every when soon
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    said asked asked
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    constructing built
+SECONDARY:ABSTRACTION                                            2
+    cause know
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fall falling
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    climb rises
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    higher spire
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    faces feet
+PRIMARY:SENSATION:VISION                                         2
+    bright lighters
+PRIMARY:SENSATION:HARD                                           2
+    rockaway steel
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    beneath below
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    curtains
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    walls
+SECONDARY:RESTRAINT                                              1
+    permission
+PRIMARY:SENSATION:COLD                                           1
+    snow
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+
+PRIMARY             : 57.446809 %
+SECONDARY           : 25.531915 %
+EMOTIONS            : 17.021277 %
+
+138 words total

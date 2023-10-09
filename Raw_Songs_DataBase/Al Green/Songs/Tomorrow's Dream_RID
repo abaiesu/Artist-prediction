@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       16
+    back distant off away off longer here overcome off back distant off away off longer over
+SECONDARY:TEMPORAL REFERENCES                                   16
+    now today now now tonight tonight now tonight now tonight now today now tonight now tonight
+PRIMARY:SENSATION:VISION                                         8
+    look look looking bright look look looking bright
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    gain trying belong gain
+EMOTIONS:POSITIVE AFFECT                                         3
+    satisfied happiness satisfied
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:ANXIETY                                                 1
+    distress
+EMOTIONS:SADNESS                                                 1
+    pain
+EMOTIONS:AGGRESSION                                              1
+    defeat
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 11.111111 %
+
+224 words total

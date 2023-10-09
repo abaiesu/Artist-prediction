@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             18
+    critical hit murderer murder murder broken hit murderer murder murder rebel hit murderer murder murder murderer murder murder
+EMOTIONS:AFFECTION                                              17
+    love goodbye like love love like goodbye like love love love love love like love love love
+SECONDARY:SOCIAL BEHAVIOR                                       15
+    told say ask call allowed say ask call allowed said allowed call allowed call allowed
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    screaming screaming cry screaming screaming
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hand eyes hand eyes
+PRIMARY:SENSATION:COLD                                           4
+    numb numb numb cold
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now ever now
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    flying flying flying
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor floor floor
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie die
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    waved waved
+PRIMARY:SENSATION:SOUND                                          2
+    heart hear
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 28.915663 %
+SECONDARY           : 22.891566 %
+EMOTIONS            : 48.192771 %
+
+387 words total

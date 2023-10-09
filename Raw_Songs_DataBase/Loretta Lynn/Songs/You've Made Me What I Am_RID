@@ -1,0 +1,28 @@
+SECONDARY:ABSTRACTION                                            6
+    know why know know reason know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when everybody when when when
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say ask talk tell
+EMOTIONS:AFFECTION                                               4
+    love loved love like
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes head head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found tried find
+PRIMARY:SENSATION:VISION                                         2
+    look look
+EMOTIONS:AGGRESSION                                              2
+    blames hate
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    hang hanging
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    round out
+SECONDARY:RESTRAINT                                              1
+    stop
+
+PRIMARY             : 26.470588 %
+SECONDARY           : 55.882353 %
+EMOTIONS            : 17.647059 %
+
+171 words total

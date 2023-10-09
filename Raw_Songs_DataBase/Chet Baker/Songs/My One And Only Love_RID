@@ -1,0 +1,54 @@
+EMOTIONS:AFFECTION                                               5
+    like love love like love
+SECONDARY:ABSTRACTION                                            3
+    thought tender known
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms hand cheek
+PRIMARY:SENSATION:SOUND                                          2
+    heart heart
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    wings spring
+SECONDARY:TEMPORAL REFERENCES                                    2
+    while whenever
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm fire
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heaven heaven
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    speak tells
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+PRIMARY:SENSATION:VISION                                         1
+    appear
+EMOTIONS:GLORY                                                   1
+    splendor
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    shadows
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    mystic
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    charms
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    hush
+PRIMARY:NEED:ORALITY                                             1
+    lips
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+EMOTIONS:ANXIETY                                                 1
+    blush
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 57.894737 %
+SECONDARY           : 21.052632 %
+EMOTIONS            : 21.052632 %
+
+121 words total

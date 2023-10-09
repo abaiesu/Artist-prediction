@@ -1,0 +1,38 @@
+SECONDARY:ABSTRACTION                                            7
+    thought sure think believe think thinking think
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now old when now when minute when
+EMOTIONS:AFFECTION                                               6
+    darling love lover lover lover lover
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    tried make find found found
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    ask remind convince
+EMOTIONS:ANXIETY                                                 2
+    worry dreadful
+EMOTIONS:AGGRESSION                                              2
+    breaking doubt
+PRIMARY:SENSATION:SOUND                                          2
+    hearts rings
+PRIMARY:SENSATION:VISION                                         1
+    look
+PRIMARY:NEED:SEX                                                 1
+    kisses
+SECONDARY:MORAL IMPERATIVE                                       1
+    honest
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippers
+PRIMARY:SENSATION:HARD                                           1
+    rocking
+
+PRIMARY             : 21.428571 %
+SECONDARY           : 54.761905 %
+EMOTIONS            : 23.809524 %
+
+225 words total

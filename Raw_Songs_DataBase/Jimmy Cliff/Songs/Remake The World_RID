@@ -1,0 +1,32 @@
+EMOTIONS:SADNESS                                                 3
+    suffering sad sad
+EMOTIONS:POSITIVE AFFECT                                         3
+    happiness happiness joke
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    south east west
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everything while
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:MORAL IMPERATIVE                                       2
+    conscience conscience
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    test test
+SECONDARY:ABSTRACTION                                            2
+    prove think
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    mister mister
+PRIMARY:SENSATION:COLD                                           1
+    north
+EMOTIONS:AGGRESSION                                              1
+    strife
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sight
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+
+PRIMARY             : 24.000000 %
+SECONDARY           : 36.000000 %
+EMOTIONS            : 40.000000 %
+
+187 words total

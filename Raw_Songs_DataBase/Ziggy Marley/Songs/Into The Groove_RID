@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    where where where surface where where surrounded where where where surface
+PRIMARY:SENSATION:VISION                                         6
+    see light light shines light see
+SECONDARY:TEMPORAL REFERENCES                                    5
+    tonight everything everything time time
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    sky grows heights sky
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           4
+    ride ride ride ride
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    soak soak waters
+EMOTIONS:AFFECTION                                               3
+    like like love
+SECONDARY:RESTRAINT                                              3
+    catch catch catch
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  3
+    wave wave wave
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly fly
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    plunge plunge
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 69.230769 %
+SECONDARY           : 21.153846 %
+EMOTIONS            : 9.615385 %
+
+233 words total

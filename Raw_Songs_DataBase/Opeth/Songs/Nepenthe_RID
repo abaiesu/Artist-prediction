@@ -1,0 +1,22 @@
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+PRIMARY:SENSATION:COLD                                           1
+    snow
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    inside
+EMOTIONS:AFFECTION                                               1
+    friends
+SECONDARY:TEMPORAL REFERENCES                                    1
+    hour
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:NEED:ORALITY                                             1
+    feed
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 12.500000 %
+
+41 words total

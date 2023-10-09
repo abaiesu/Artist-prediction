@@ -1,0 +1,30 @@
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    6
+    low low low low low low
+SECONDARY:ABSTRACTION                                            5
+    cause know fact cause fact
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said tell tell tell
+SECONDARY:TEMPORAL REFERENCES                                    3
+    every now now
+PRIMARY:NEED:ORALITY                                             2
+    drink drink
+EMOTIONS:GLORY                                                   2
+    proud proud
+PRIMARY:SENSATION:VISION                                         2
+    see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    spend working
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:NEED:ANALITY                                             1
+    sweat
+EMOTIONS:ANXIETY                                                 1
+    trouble
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+
+PRIMARY             : 40.000000 %
+SECONDARY           : 50.000000 %
+EMOTIONS            : 10.000000 %
+
+183 words total

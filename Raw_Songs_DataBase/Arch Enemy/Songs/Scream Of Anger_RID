@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here place place where out here place place
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    won won price pay
+PRIMARY:SENSATION:VISION                                         4
+    see appear see see
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever soon when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death die
+PRIMARY:SENSATION:ODOR                                           1
+    breath
+SECONDARY:ABSTRACTION                                            1
+    them
+EMOTIONS:SADNESS                                                 1
+    sorrow
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangman
+EMOTIONS:ANXIETY                                                 1
+    fear
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    screaming
+EMOTIONS:AGGRESSION                                              1
+    anger
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 53.333333 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 16.666667 %
+
+145 words total

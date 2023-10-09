@@ -1,0 +1,48 @@
+SECONDARY:RESTRAINT                                             12
+    stop punished stop punished stop punished stop punished stop punished stop punished
+SECONDARY:TEMPORAL REFERENCES                                   10
+    when when when when now now every sometimes when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    wide open wide open at at where
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    call say say committing request call
+EMOTIONS:POSITIVE AFFECT                                         5
+    fun fun fun fun smiling
+EMOTIONS:SADNESS                                                 5
+    suffer sufferer suffer suffer suffer
+PRIMARY:SENSATION:SOUND                                          3
+    sound musical belly
+PRIMARY:NEED:ORALITY                                             3
+    corner teeth coffee
+PRIMARY:SENSATION:VISION                                         3
+    see see see
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    gate gate
+EMOTIONS:ANXIETY                                                 2
+    afraid afraid
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance dance
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    top
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    relax
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skinning
+SECONDARY:ABSTRACTION                                            1
+    know
+PRIMARY:NEED:ANALITY                                             1
+    sweater
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    worker
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+EMOTIONS:AFFECTION                                               1
+    like
+EMOTIONS:GLORY                                                   1
+    gold
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 43.478261 %
+EMOTIONS            : 23.188406 %
+
+400 words total

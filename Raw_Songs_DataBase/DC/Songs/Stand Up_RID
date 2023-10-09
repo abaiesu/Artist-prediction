@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          8
+    headset headlines face heel face face face face
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    making make make make make make make
+SECONDARY:ABSTRACTION                                            6
+    know know know know know know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out front
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play game
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot flame
+EMOTIONS:AGGRESSION                                              1
+    steal
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:SENSATION:SOFT                                           1
+    lace
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+EMOTIONS:AFFECTION                                               1
+    loving
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 38.235294 %
+EMOTIONS            : 11.764706 %
+
+217 words total

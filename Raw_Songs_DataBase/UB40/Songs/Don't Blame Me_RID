@@ -1,0 +1,40 @@
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say education lend lend helping pleasant
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hair handouts hand blood hand
+SECONDARY:ABSTRACTION                                            4
+    think thought facts think
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when time now when
+PRIMARY:SENSATION:VISION                                         4
+    see seeing see green
+EMOTIONS:GLORY                                                   2
+    riches wealth
+SECONDARY:RESTRAINT                                              2
+    must insist
+EMOTIONS:AGGRESSION                                              2
+    killing blame
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    fair
+EMOTIONS:AFFECTION                                               1
+    welcome
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:ANXIETY                                                 1
+    scared
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:NEED:ORALITY                                             1
+    feed
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    endless
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    sea
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    sail
+
+PRIMARY             : 42.105263 %
+SECONDARY           : 42.105263 %
+EMOTIONS            : 15.789474 %
+
+163 words total

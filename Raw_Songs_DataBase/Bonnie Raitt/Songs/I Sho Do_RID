@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    away long long out long
+SECONDARY:TEMPORAL REFERENCES                                    5
+    everything time ago ever when
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say told help help
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor streets floor
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    blood feet
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    boiling hot
+PRIMARY:SENSATION:VISION                                         2
+    see see
+EMOTIONS:AFFECTION                                               1
+    love
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 51.851852 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 3.703704 %
+
+163 words total

@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:VISION                                         3
+    stars light star
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say kneel
+SECONDARY:RESTRAINT                                              2
+    stop obey
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where at
+EMOTIONS:AFFECTION                                               2
+    lover love
+EMOTIONS:GLORY                                                   1
+    wonderful
+SECONDARY:TEMPORAL REFERENCES                                    1
+    every
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    above
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    trade
+SECONDARY:ABSTRACTION                                            1
+    think
+
+PRIMARY             : 41.176471 %
+SECONDARY           : 41.176471 %
+EMOTIONS            : 17.647059 %
+
+93 words total

@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        10
+    saw saw saw look saw seeing saw saw saw look
+SECONDARY:ABSTRACTION                                            8
+    cause something sure know thought cause something sure
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    cries cries cries cries cry cries cries cries
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face eyes head face eyes
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    longer place longer place
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when when
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    lies die die
+EMOTIONS:AFFECTION                                               2
+    familiar love
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hanging
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+EMOTIONS:AGGRESSION                                              1
+    bother
+PRIMARY:NEED:ORALITY                                             1
+    honey
+
+PRIMARY             : 51.020408 %
+SECONDARY           : 26.530612 %
+EMOTIONS            : 22.448980 %
+
+171 words total

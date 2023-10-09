@@ -1,0 +1,22 @@
+SECONDARY:TEMPORAL REFERENCES                                   10
+    ever ever every every ever ever ever ever ever ever
+SECONDARY:MORAL IMPERATIVE                                       8
+    right right right right right right right right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    cry cry cry cry cry cry cry cry
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    over over over over over over over over
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say say tell tell say tell tell say
+EMOTIONS:AFFECTION                                               6
+    goodbye love love goodbye goodbye goodbye
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    try try try try
+SECONDARY:ABSTRACTION                                            2
+    know know
+
+PRIMARY             : 14.814815 %
+SECONDARY           : 59.259259 %
+EMOTIONS            : 25.925926 %
+
+186 words total

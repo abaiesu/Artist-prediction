@@ -1,0 +1,26 @@
+PRIMARY:ICARIAN IMAGERY:FIRE                                    19
+    fire burn fire fire fire fire fire fire burn fire fire fire fire fire fire fire burn fire fire
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    inside out here back inside here here inside here
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time now now now sometimes now
+PRIMARY:SENSATION:VISION                                         4
+    glow light glow glow
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    call call call
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    bide find job
+SECONDARY:ABSTRACTION                                            3
+    know cause know
+EMOTIONS:AGGRESSION                                              2
+    fight gun
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+EMOTIONS:AFFECTION                                               1
+    love
+
+PRIMARY             : 61.538462 %
+SECONDARY           : 32.692308 %
+EMOTIONS            : 5.769231 %
+
+190 words total

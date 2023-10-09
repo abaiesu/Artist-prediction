@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            8
+    something know think think supposed think think think
+EMOTIONS:AGGRESSION                                              5
+    stab harm harm harm harm
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when now when once
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    situation back away
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work work work
+SECONDARY:MORAL IMPERATIVE                                       3
+    right right right
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sight sight sight
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+EMOTIONS:GLORY                                                   2
+    gold gold
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slipped
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    slowly
+PRIMARY:SENSATION:VISION                                         1
+    gray
+
+PRIMARY             : 18.421053 %
+SECONDARY           : 55.263158 %
+EMOTIONS            : 26.315789 %
+
+162 words total

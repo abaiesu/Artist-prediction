@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    away where out out far behind
+PRIMARY:SENSATION:VISION                                         5
+    blues lookin look see look
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when now when
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    window horizon
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find win
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain wash
+SECONDARY:ABSTRACTION                                            2
+    reason cause
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:COLD                                           1
+    cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    candle
+EMOTIONS:AGGRESSION                                              1
+    hurt
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    said
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    highway
+SECONDARY:RESTRAINT                                              1
+    stop
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travelin
+
+PRIMARY             : 62.500000 %
+SECONDARY           : 34.375000 %
+EMOTIONS            : 3.125000 %
+
+177 words total

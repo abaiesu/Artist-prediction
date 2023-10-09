@@ -1,0 +1,36 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    every every every now now now now ever ever ever everything sometimes
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    said said say recites help help shelter help help help help
+EMOTIONS:SADNESS                                                 5
+    lonely lonely lonely lonely lonely
+SECONDARY:ABSTRACTION                                            5
+    cause know know believe know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    sing sang sight
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out over over
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  3
+    fall falling falling
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    head cheek head
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make copy
+EMOTIONS:AGGRESSION                                              1
+    anger
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:ANXIETY                                                 1
+    fret
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+PRIMARY:SENSATION:VISION                                         1
+    imagine
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+
+PRIMARY             : 24.528302 %
+SECONDARY           : 56.603774 %
+EMOTIONS            : 18.867925 %
+
+328 words total

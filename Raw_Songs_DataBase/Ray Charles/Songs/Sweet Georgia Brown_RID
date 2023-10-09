@@ -1,0 +1,30 @@
+PRIMARY:SENSATION:VISION                                        10
+    brown brown brown brown brown brown brown brown brown brown
+PRIMARY:SENSATION:TASTE                                          8
+    sweet sweet sweet sweet sweet sweet sweet sweet
+SECONDARY:ABSTRACTION                                            8
+    why know why them why know why them
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        6
+    die lie dead die lie dead
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell said met tell said met
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shade shade
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet feet
+SECONDARY:ORDER                                                  2
+    neat neat
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sigh sigh
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when when
+PRIMARY:SENSATION:COLD                                           2
+    cools cools
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    claimed claimed
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 38.461538 %
+EMOTIONS            : 3.846154 %
+
+188 words total

@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    here here here here here far far here far here far
+SECONDARY:ABSTRACTION                                            8
+    cause cause understood understood understood cause cause understood
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             6
+    secret secret secret secrets secrets secrets
+SECONDARY:MORAL IMPERATIVE                                       4
+    should should should should
+PRIMARY:SENSATION:VISION                                         1
+    looking
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    soldiers
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+
+PRIMARY             : 60.606061 %
+SECONDARY           : 39.393939 %
+EMOTIONS            : 0.000000 %
+
+137 words total

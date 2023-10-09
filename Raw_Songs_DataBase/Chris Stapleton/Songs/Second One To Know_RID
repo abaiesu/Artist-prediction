@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                            8
+    know know cause know know understand know know
+EMOTIONS:AFFECTION                                               6
+    love love love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    back behind back behind back behind
+PRIMARY:ICARIAN IMAGERY:FIRE                                     6
+    burner hot burner hot burner hot
+SECONDARY:TEMPORAL REFERENCES                                    5
+    ever ever ever now ever
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    promise treat ask treat tell
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    die
+EMOTIONS:AGGRESSION                                              1
+    stole
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+
+PRIMARY             : 41.304348 %
+SECONDARY           : 43.478261 %
+EMOTIONS            : 15.217391 %
+
+211 words total

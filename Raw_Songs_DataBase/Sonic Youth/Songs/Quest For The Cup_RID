@@ -1,0 +1,44 @@
+EMOTIONS:AFFECTION                                              11
+    like like like like like like like like like like like
+PRIMARY:SENSATION:VISION                                         6
+    look look look look look look
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            4
+    woke dreams dreams dreams
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    use make make test
+SECONDARY:ABSTRACTION                                            4
+    guess true true true
+SECONDARY:TEMPORAL REFERENCES                                    3
+    clock then now
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    out away west
+PRIMARY:NEED:ORALITY                                             3
+    lips salty salty
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot hot
+EMOTIONS:POSITIVE AFFECT                                         1
+    thrill
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    sidewalk
+EMOTIONS:ANXIETY                                                 1
+    alarm
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slip
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    rest
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    met
+PRIMARY:NEED:SEX                                                 1
+    kissed
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+
+PRIMARY             : 48.000000 %
+SECONDARY           : 26.000000 %
+EMOTIONS            : 26.000000 %
+
+201 words total

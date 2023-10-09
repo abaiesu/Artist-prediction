@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                              13
+    like like like like like like like like like like like like like
+PRIMARY:NEED:ORALITY                                            12
+    candy cake sugar honey candy cake candy cake honey candy candy cake
+PRIMARY:SENSATION:TASTE                                          9
+    sweet sweet sweet sweetie sweet sweet sweet sweeter sweet
+SECONDARY:TEMPORAL REFERENCES                                    3
+    ever then when
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hair eyes
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    win counts
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lay die
+EMOTIONS:GLORY                                                   1
+    golden
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beauty
+SECONDARY:MORAL IMPERATIVE                                       1
+    ought
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:SENSATION:SOUND                                          1
+    buzzing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    round
+PRIMARY:NEED:SEX                                                 1
+    kisses
+
+PRIMARY             : 58.823529 %
+SECONDARY           : 13.725490 %
+EMOTIONS            : 27.450980 %
+
+177 words total

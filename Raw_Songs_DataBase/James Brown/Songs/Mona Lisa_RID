@@ -1,0 +1,34 @@
+EMOTIONS:AFFECTION                                               5
+    like lover lovely lovely lovely
+EMOTIONS:SADNESS                                                 4
+    lonely lonely lonely lonely
+EMOTIONS:POSITIVE AFFECT                                         3
+    smile smile smile
+SECONDARY:ABSTRACTION                                            3
+    cause real real
+PRIMARY:SENSATION:COLD                                           3
+    cold cold cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    work work work
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    art art art
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             2
+    mystic strangeness
+EMOTIONS:AGGRESSION                                              2
+    blamed broken
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie die
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    warm warm
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreams
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    doorstep
+
+PRIMARY             : 34.285714 %
+SECONDARY           : 17.142857 %
+EMOTIONS            : 48.571429 %
+
+118 words total

@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    conversation call tell call call confession say call
+PRIMARY:SENSATION:SOUND                                          6
+    heart heart heart heart heart heart
+SECONDARY:ABSTRACTION                                            4
+    may understanding prove true
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when yearn when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams madly
+EMOTIONS:AFFECTION                                               1
+    friendly
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    situation
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+SECONDARY:RESTRAINT                                              1
+    control
+
+PRIMARY             : 35.714286 %
+SECONDARY           : 60.714286 %
+EMOTIONS            : 3.571429 %
+
+118 words total

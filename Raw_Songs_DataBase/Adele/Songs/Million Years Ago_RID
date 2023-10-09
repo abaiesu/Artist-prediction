@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   13
+    when sometimes when years ago when now sometimes when years ago years ago
+PRIMARY:SENSATION:VISION                                         9
+    see look flashing watch look light look flashing watch
+SECONDARY:ABSTRACTION                                            8
+    learning learning decide known know think know thought
+EMOTIONS:AFFECTION                                               6
+    like friends like like like friends
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    earn pay found try
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   3
+    fly thrown thrown
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    sky grew sky
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    floor streets floor
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun joke
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    cry cry
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    feet eye
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+SECONDARY:RESTRAINT                                              1
+    must
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    where
+EMOTIONS:ANXIETY                                                 1
+    scared
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 37.704918 %
+SECONDARY           : 44.262295 %
+EMOTIONS            : 18.032787 %
+
+302 words total

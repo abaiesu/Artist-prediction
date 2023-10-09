@@ -1,0 +1,56 @@
+EMOTIONS:AFFECTION                                               8
+    like like like love like friends love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    close back apart back inside out
+SECONDARY:TEMPORAL REFERENCES                                    6
+    old when once while time again
+EMOTIONS:AGGRESSION                                              5
+    break crush wreck break shove
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    laid bed lay quiet
+PRIMARY:SENSATION:SOUND                                          3
+    heart heart heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    body head hand
+SECONDARY:ABSTRACTION                                            3
+    thought believing them
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call talks
+SECONDARY:ORDER                                                  2
+    listless normal
+PRIMARY:SENSATION:COLD                                           2
+    snow cold
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    won make
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grown above
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:HARD                                           1
+    rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    roll
+PRIMARY:NEED:SEX                                                 1
+    sex
+SECONDARY:RESTRAINT                                              1
+    refuse
+EMOTIONS:SADNESS                                                 1
+    depressed
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fading
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    melt
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+
+PRIMARY             : 50.819672 %
+SECONDARY           : 26.229508 %
+EMOTIONS            : 22.950820 %
+
+250 words total

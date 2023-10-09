@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       20
+    long out place at out out out where out out out out out where out out out where out out
+SECONDARY:ABSTRACTION                                            7
+    know believe cause cause guess cause cause
+SECONDARY:TEMPORAL REFERENCES                                    4
+    every time now again
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    win used used used
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    washing rain washing washing
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          4
+    hands hand hands hands
+EMOTIONS:AGGRESSION                                              3
+    kick fight blame
+EMOTIONS:AFFECTION                                               3
+    love love like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say treated
+SECONDARY:RESTRAINT                                              2
+    caught catchin
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    scream
+EMOTIONS:GLORY                                                   1
+    victory
+PRIMARY:SENSATION:VISION                                         1
+    picture
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    bed
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 51.724138 %
+SECONDARY           : 34.482759 %
+EMOTIONS            : 13.793103 %
+
+276 words total

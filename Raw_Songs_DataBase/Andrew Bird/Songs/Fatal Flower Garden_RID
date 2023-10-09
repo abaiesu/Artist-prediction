@@ -1,0 +1,50 @@
+SECONDARY:SOCIAL BEHAVIOR                                       11
+    talk allowed says tell offered offered call call tell call tell
+SECONDARY:TEMPORAL REFERENCES                                   10
+    till again then again till when again then then then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out where here here where at at at at
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hand feet head head feet
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    rained poured rained rained
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  4
+    fell fall bury bury
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    play yellow playmates
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    high upper
+PRIMARY:SENSATION:TASTE                                          2
+    sweet tangerine
+EMOTIONS:AFFECTION                                               2
+    dear dear
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    tossed
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:SENSATION:VISION                                         1
+    green
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+PRIMARY:NEED:ORALITY                                             1
+    apple
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    hall
+PRIMARY:SENSATION:SOUND                                          1
+    hear
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+
+PRIMARY             : 56.060606 %
+SECONDARY           : 36.363636 %
+EMOTIONS            : 7.575758 %
+
+214 words total

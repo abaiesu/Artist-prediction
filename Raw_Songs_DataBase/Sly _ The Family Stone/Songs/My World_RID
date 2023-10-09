@@ -1,0 +1,30 @@
+SECONDARY:ABSTRACTION                                            4
+    reason why reason reason
+EMOTIONS:POSITIVE AFFECT                                         4
+    joy fun smile smile
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    far inside near
+PRIMARY:SENSATION:COLD                                           2
+    child child
+PRIMARY:SENSATION:VISION                                         1
+    star
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    magic
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    ride
+EMOTIONS:AFFECTION                                               1
+    friend
+EMOTIONS:ANXIETY                                                 1
+    troubles
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    answer
+
+PRIMARY             : 42.857143 %
+SECONDARY           : 28.571429 %
+EMOTIONS            : 28.571429 %
+
+120 words total

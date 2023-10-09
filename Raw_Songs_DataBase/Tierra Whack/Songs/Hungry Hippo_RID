@@ -1,0 +1,26 @@
+PRIMARY:NEED:ORALITY                                            10
+    pearls bite bite bite bite bite bite bite bite pearls
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said thank said thank
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    open open open
+EMOTIONS:AFFECTION                                               2
+    likes likes
+SECONDARY:ABSTRACTION                                            2
+    know think
+SECONDARY:RESTRAINT                                              1
+    shut
+PRIMARY:SENSATION:SOUND                                          1
+    heard
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    spend
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wallet
+
+PRIMARY             : 57.692308 %
+SECONDARY           : 34.615385 %
+EMOTIONS            : 7.692308 %
+
+114 words total

@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                             14
+    break breakpoint breakpoint criticist breakpoint breakpoint breakpoint breakpoint hurt hurt breakpoint breakpoint breakpoint breakpoint
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    inside point pointing back straight
+EMOTIONS:SADNESS                                                 4
+    pain suffering misery sad
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make try find
+SECONDARY:TEMPORAL REFERENCES                                    3
+    times till when
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    say pleasure
+SECONDARY:RESTRAINT                                              2
+    control lock
+EMOTIONS:POSITIVE AFFECT                                         2
+    laugh smile
+PRIMARY:SENSATION:VISION                                         2
+    watching see
+SECONDARY:ABSTRACTION                                            2
+    opinions know
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    wakes wakes
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slide
+EMOTIONS:GLORY                                                   1
+    great
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lift
+PRIMARY:NEED:ANALITY                                             1
+    mess
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    horn
+PRIMARY:SENSATION:TOUCH                                          1
+    rubber
+
+PRIMARY             : 27.659574 %
+SECONDARY           : 25.531915 %
+EMOTIONS            : 46.808511 %
+
+270 words total

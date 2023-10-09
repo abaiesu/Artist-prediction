@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       12
+    round straight out behind back straight out behind back near outside at
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    doors wall windows stairs
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now now instant while
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    screaming cry cries
+SECONDARY:RESTRAINT                                              3
+    locked caught caught
+PRIMARY:SENSATION:VISION                                         3
+    look look glare
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes flesh blood
+PRIMARY:ICARIAN IMAGERY:WATER                                    2
+    rain pouring
+EMOTIONS:AFFECTION                                               2
+    kind kind
+PRIMARY:NEED:ANALITY                                             2
+    stalking stalking
+EMOTIONS:ANXIETY                                                 2
+    terror fear
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    falling descend
+PRIMARY:SENSATION:SOUND                                          2
+    hear echo
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    atmosphere heaven
+SECONDARY:MORAL IMPERATIVE                                       1
+    sanctuary
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+EMOTIONS:AGGRESSION                                              1
+    struck
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    cellar
+PRIMARY:SENSATION:ODOR                                           1
+    breathe
+PRIMARY:SENSATION:TOUCH                                          1
+    scratching
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    calls
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    death
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    ascend
+PRIMARY:NEED:ORALITY                                             1
+    feasts
+
+PRIMARY             : 66.101695 %
+SECONDARY           : 20.338983 %
+EMOTIONS            : 13.559322 %
+
+200 words total

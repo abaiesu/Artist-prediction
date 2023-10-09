@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                           14
+    reality true true plant truth known reality true true true true true true true
+SECONDARY:TEMPORAL REFERENCES                                    5
+    time past when time past
+PRIMARY:SENSATION:VISION                                         2
+    gazing gazing
+PRIMARY:SENSATION:HARD                                           2
+    rock rock
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    wilderness wilderness
+EMOTIONS:AGGRESSION                                              1
+    vex
+PRIMARY:NEED:ORALITY                                             1
+    food
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:POSITIVE AFFECT                                         1
+    joyful
+EMOTIONS:SADNESS                                                 1
+    sadness
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lies
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    dig
+
+PRIMARY             : 30.303030 %
+SECONDARY           : 60.606061 %
+EMOTIONS            : 9.090909 %
+
+213 words total

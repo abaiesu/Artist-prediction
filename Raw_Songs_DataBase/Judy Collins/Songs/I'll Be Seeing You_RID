@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    again when again old every everything when when
+PRIMARY:SENSATION:VISION                                         7
+    seeing seeing bright looking seeing looking seeing
+PRIMARY:SENSATION:SOUND                                          4
+    bells hearts ring heart
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    places across at at
+EMOTIONS:AFFECTION                                               3
+    familiar embraces lovely
+EMOTIONS:POSITIVE AFFECT                                         2
+    thrill gay
+SECONDARY:ABSTRACTION                                            2
+    knows think
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find find
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    sun sun
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    dawn
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    meet
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+PRIMARY:NEED:ORALITY                                             1
+    cafe
+PRIMARY:SENSATION:COLD                                           1
+    children
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    chestnut
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    trees
+
+PRIMARY             : 56.097561 %
+SECONDARY           : 31.707317 %
+EMOTIONS            : 12.195122 %
+
+153 words total

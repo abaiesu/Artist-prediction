@@ -1,0 +1,42 @@
+EMOTIONS:AFFECTION                                              10
+    kind dear lovely lovely romance dear lovely romance dear lovely
+PRIMARY:SENSATION:TASTE                                          8
+    delicious delicious sweet delicious delectable sweet delicious delectable
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    tell please say tell please say
+SECONDARY:TEMPORAL REFERENCES                                    4
+    sudden while when when
+EMOTIONS:POSITIVE AFFECT                                         4
+    delightful delightful delightful delightful
+SECONDARY:ABSTRACTION                                            4
+    understand reason why cause
+SECONDARY:RESTRAINT                                              3
+    control limit limit
+PRIMARY:SENSATION:SOUND                                          3
+    melody hear hear
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    sing sing
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    at at
+PRIMARY:SENSATION:VISION                                         2
+    glance glance
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  2
+    swell swell
+PRIMARY:SENSATION:SOFT                                           2
+    murmuring murmuring
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    low low
+PRIMARY:NEED:SEX                                                 2
+    kiss kiss
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    delirious delirious
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+EMOTIONS:SADNESS                                                 1
+    pain
+
+PRIMARY             : 43.333333 %
+SECONDARY           : 28.333333 %
+EMOTIONS            : 28.333333 %
+
+238 words total

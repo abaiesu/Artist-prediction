@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    place forward forward forward where forward forward
+SECONDARY:TEMPORAL REFERENCES                                    5
+    months ancient months now months
+PRIMARY:SENSATION:VISION                                         3
+    sunshine sunshine sunshine
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    ascend lift
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hill high
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    heads eyes
+PRIMARY:NEED:ORALITY                                             2
+    food feeds
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    gates
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    water
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    chant
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+
+PRIMARY             : 75.000000 %
+SECONDARY           : 21.428571 %
+EMOTIONS            : 3.571429 %
+
+97 words total

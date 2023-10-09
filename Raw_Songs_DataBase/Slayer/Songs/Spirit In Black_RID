@@ -1,0 +1,60 @@
+SECONDARY:TEMPORAL REFERENCES                                    8
+    time past present till till time past present
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    within away where within closely within
+SECONDARY:ABSTRACTION                                            5
+    thought know choice thoughts thought
+PRIMARY:SENSATION:VISION                                         5
+    look watching looking see look
+PRIMARY:ICARIAN IMAGERY:FIRE                                     5
+    inferno fireballs burning spark inferno
+EMOTIONS:AFFECTION                                               4
+    welcome like welcome like
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        4
+    eternity forever immortality eternity
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    halls brimstone walls gates
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    dream nightmare dream
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find used found
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   3
+    spirit spirit spirits
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    eyes flesh blood
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    beneath deep
+EMOTIONS:AGGRESSION                                              2
+    broken hatred
+PRIMARY:NEED:ORALITY                                             2
+    eaten feed
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    confessions tell
+PRIMARY:SENSATION:SOUND                                          2
+    hear voice
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    buried
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    journey
+PRIMARY:NEED:ANALITY                                             1
+    rot
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+PRIMARY:SENSATION:HARD                                           1
+    glass
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rains
+EMOTIONS:GLORY                                                   1
+    wonder
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cries
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    faded
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 63.013699 %
+SECONDARY           : 26.027397 %
+EMOTIONS            : 10.958904 %
+
+226 words total

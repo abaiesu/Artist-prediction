@@ -1,0 +1,26 @@
+SECONDARY:ABSTRACTION                                            6
+    thought know thought know know know
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now tonight every time
+EMOTIONS:POSITIVE AFFECT                                         2
+    fun fun
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    treat treat
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    back
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    tumbling
+
+PRIMARY             : 13.636364 %
+SECONDARY           : 72.727273 %
+EMOTIONS            : 13.636364 %
+
+146 words total

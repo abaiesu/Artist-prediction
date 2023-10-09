@@ -1,0 +1,28 @@
+SECONDARY:SOCIAL BEHAVIOR                                       10
+    tell ask pleased please asking asking please asking please asking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  8
+    money money money money won won won won
+EMOTIONS:AGGRESSION                                              5
+    hit shoot shoot shoot shoot
+SECONDARY:ABSTRACTION                                            4
+    know sure know almost
+SECONDARY:TEMPORAL REFERENCES                                    3
+    when while now
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           3
+    ride drive ride
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    out out
+PRIMARY:SENSATION:VISION                                         2
+    see visualize
+EMOTIONS:AFFECTION                                               1
+    dear
+SECONDARY:RESTRAINT                                              1
+    permission
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 17.500000 %
+SECONDARY           : 67.500000 %
+EMOTIONS            : 15.000000 %
+
+225 words total

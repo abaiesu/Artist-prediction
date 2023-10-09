@@ -1,0 +1,34 @@
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    told told told told told told told
+PRIMARY:SENSATION:SOUND                                          7
+    heart heart heart heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now years now years
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    lie lie lie lie
+EMOTIONS:SADNESS                                                 4
+    lonely sorrow lonely sorrow
+EMOTIONS:AFFECTION                                               3
+    love love love
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+SECONDARY:ABSTRACTION                                            2
+    know learn
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistaken
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    apart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    pay
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 22.500000 %
+
+117 words total

@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    everybody times everybody tonight everybody tonight sometimes everybody everybody now everybody everyone everybody everybody everyone
+EMOTIONS:AFFECTION                                              13
+    loves love loves loves love loves love love love love loves love loves
+SECONDARY:ABSTRACTION                                            5
+    surely knew why why true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    find find success success
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    share ask help share
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at where out
+EMOTIONS:GLORY                                                   3
+    applause golden wondering
+SECONDARY:MORAL IMPERATIVE                                       2
+    right should
+PRIMARY:SENSATION:TASTE                                          1
+    sweetheart
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+PRIMARY:SENSATION:VISION                                         1
+    lights
+
+PRIMARY             : 11.538462 %
+SECONDARY           : 57.692308 %
+EMOTIONS            : 30.769231 %
+
+188 words total

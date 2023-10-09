@@ -1,0 +1,42 @@
+PRIMARY:SENSATION:SOUND                                         14
+    heart heart heart heart heart heart heart heart heart heart heart heart heart heart
+SECONDARY:TEMPORAL REFERENCES                                    5
+    older when now older past
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    apart where straight apart
+EMOTIONS:AGGRESSION                                              3
+    blade break war
+EMOTIONS:ANXIETY                                                 3
+    worry worry trouble
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    winning trying trying
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    hole deep
+EMOTIONS:AFFECTION                                               2
+    loved like
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    fell fell
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    protection said
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulder
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    legs
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    pile
+PRIMARY:SENSATION:TOUCH                                          1
+    rubble
+PRIMARY:SENSATION:COLD                                           1
+    child
+
+PRIMARY             : 61.224490 %
+SECONDARY           : 22.448980 %
+EMOTIONS            : 16.326531 %
+
+244 words total

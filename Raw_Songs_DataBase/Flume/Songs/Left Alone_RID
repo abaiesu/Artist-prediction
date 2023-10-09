@@ -1,0 +1,40 @@
+EMOTIONS:AGGRESSION                                              8
+    beating beating beating beating beating beating hurts hurts
+EMOTIONS:AFFECTION                                               8
+    loves loves loves loves loves loves darling darling
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    long at at out out out out out
+EMOTIONS:SADNESS                                                 8
+    suffering sorrow sorrow sorrow sorrow sorrow sorrow sorrow
+PRIMARY:SENSATION:ODOR                                           7
+    breathe breathe breathe breathe breathe breathe breathe
+PRIMARY:SENSATION:SOUND                                          6
+    sound sound sound sound sound sound
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    bones knees brain knees brain
+SECONDARY:ABSTRACTION                                            4
+    them something them something
+PRIMARY:SENSATION:VISION                                         3
+    blue watch watch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found find find
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    calm calm
+EMOTIONS:GLORY                                                   2
+    proud proud
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:NEED:ORALITY                                             1
+    swallow
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    wild
+
+PRIMARY             : 47.887324 %
+SECONDARY           : 15.492958 %
+EMOTIONS            : 36.619718 %
+
+247 words total

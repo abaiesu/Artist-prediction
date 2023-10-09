@@ -1,0 +1,26 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         12
+    hands hand face hands hand face hands hand face hands hand face
+EMOTIONS:AFFECTION                                               4
+    like like like like
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    streaming streaming streaming streaming
+PRIMARY:SENSATION:VISION                                         4
+    lights lights lights lights
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   4
+    hung hung hung hung
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    told told
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+SECONDARY:TEMPORAL REFERENCES                                    1
+    ever
+EMOTIONS:ANXIETY                                                 1
+    worry
+
+PRIMARY             : 71.428571 %
+SECONDARY           : 14.285714 %
+EMOTIONS            : 14.285714 %
+
+169 words total

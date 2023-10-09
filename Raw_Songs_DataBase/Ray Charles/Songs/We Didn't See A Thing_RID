@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:VISION                                        28
+    see see see see see see see see see ray see see see see see ray seen see see see see see see see see see see see
+SECONDARY:ABSTRACTION                                           10
+    know know know sure know know sure know certainly know
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    tell call tell talkin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    working workin paid working
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    western straight straight
+PRIMARY:SENSATION:SOUND                                          3
+    hear ring heard
+PRIMARY:NEED:ORALITY                                             2
+    drinkin beer
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dancin game
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    swing
+PRIMARY:NEED:SEX                                                 1
+    kiss
+EMOTIONS:AFFECTION                                               1
+    married
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    football
+
+PRIMARY             : 63.934426 %
+SECONDARY           : 31.147541 %
+EMOTIONS            : 4.918033 %
+
+351 words total

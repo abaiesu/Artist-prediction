@@ -1,0 +1,36 @@
+PRIMARY:SENSATION:GENERAL-SENSATION                             16
+    attention attention attention attention attention attention attention attention attention attention attention attention attention attention attention attention
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now when when when
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    where out along back
+SECONDARY:ABSTRACTION                                            4
+    cause cause cause cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    makes makes try
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    scream shout sing
+EMOTIONS:AFFECTION                                               2
+    like like
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dreamer
+SECONDARY:MORAL IMPERATIVE                                       1
+    rights
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    forever
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lay
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    showers
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    falling
+
+PRIMARY             : 57.777778 %
+SECONDARY           : 31.111111 %
+EMOTIONS            : 11.111111 %
+
+228 words total

@@ -1,0 +1,36 @@
+EMOTIONS:AGGRESSION                                              5
+    shoot break break break break
+PRIMARY:SENSATION:SOUND                                          4
+    heart heart heart heart
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    make buy make make
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    mad mad dreaming
+SECONDARY:ABSTRACTION                                            3
+    know real basic
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    where where
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    flames
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    please
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+PRIMARY:SENSATION:SOFT                                           1
+    whispered
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sighs
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dies
+
+PRIMARY             : 45.161290 %
+SECONDARY           : 25.806452 %
+EMOTIONS            : 29.032258 %
+
+140 words total

@@ -1,0 +1,56 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       14
+    inside beside beside at out behind out out inside inside far out where behind
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    hands blood head arms hands
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    called said said said
+SECONDARY:RESTRAINT                                              3
+    cage cage cage
+SECONDARY:TEMPORAL REFERENCES                                    3
+    hours now hour
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    found counting used
+EMOTIONS:POSITIVE AFFECT                                         3
+    laughed laughed laughed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    door door
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    death death
+EMOTIONS:AGGRESSION                                              2
+    cut kill
+PRIMARY:SENSATION:SOFT                                           2
+    tingling feathered
+PRIMARY:SENSATION:TOUCH                                          2
+    tickle touched
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    sleeping sleeping
+EMOTIONS:SADNESS                                                 2
+    loneliest loneliest
+EMOTIONS:AFFECTION                                               2
+    love embraced
+EMOTIONS:ANXIETY                                                 1
+    trembling
+SECONDARY:ABSTRACTION                                            1
+    consider
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yell
+PRIMARY:SENSATION:SOUND                                          1
+    ears
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    bird
+PRIMARY:NEED:ORALITY                                             1
+    spite
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    beneath
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    creek
+PRIMARY:NEED:SEX                                                 1
+    kiss
+
+PRIMARY             : 59.016393 %
+SECONDARY           : 22.950820 %
+EMOTIONS            : 18.032787 %
+
+290 words total

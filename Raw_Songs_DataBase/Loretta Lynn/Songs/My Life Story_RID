@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    here where back here back here over over
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell asks asked tellin asks asked tellin
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    hills heaven hillbilly hill hill
+SECONDARY:ABSTRACTION                                            4
+    them think know know
+EMOTIONS:AFFECTION                                               4
+    marry marry marry marry
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    feller feller
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:NEED:SEX                                                 2
+    kissed kissed
+SECONDARY:ORDER                                                  1
+    listen
+SECONDARY:TEMPORAL REFERENCES                                    1
+    old
+PRIMARY:NEED:ORALITY                                             1
+    milkin
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    sweepin
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    lazy
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellin
+
+PRIMARY             : 48.780488 %
+SECONDARY           : 39.024390 %
+EMOTIONS            : 12.195122 %
+
+211 words total

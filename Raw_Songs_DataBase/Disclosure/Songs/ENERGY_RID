@@ -1,0 +1,26 @@
+PRIMARY:SENSATION:VISION                                         9
+    look look look look look see look look look
+SECONDARY:MORAL IMPERATIVE                                       6
+    right should right should right should
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    where level where level where where
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now now now now now
+SECONDARY:ABSTRACTION                                            4
+    know thinking know think
+SECONDARY:ORDER                                                  2
+    listen order
+PRIMARY:SENSATION:SOUND                                          2
+    hearing hearing
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    reach
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    talking
+EMOTIONS:AFFECTION                                               1
+    favour
+
+PRIMARY             : 45.945946 %
+SECONDARY           : 51.351351 %
+EMOTIONS            : 2.702703 %
+
+186 words total

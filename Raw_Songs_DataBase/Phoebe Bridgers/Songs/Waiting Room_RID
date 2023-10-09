@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    over over open out over
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    teacher aid ask said
+EMOTIONS:AGGRESSION                                              3
+    broken broken gun
+PRIMARY:NEED:ORALITY                                             3
+    feeds mouth lips
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    won make make
+SECONDARY:ABSTRACTION                                            3
+    know know know
+PRIMARY:SENSATION:VISION                                         2
+    noticed see
+EMOTIONS:AFFECTION                                               2
+    love love
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when ever
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    bodies brains
+SECONDARY:ORDER                                                  1
+    class
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    lifts
+EMOTIONS:SADNESS                                                 1
+    misery
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    washed
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    drive
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:SENSATION:HARD                                           1
+    hard
+
+PRIMARY             : 47.368421 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 15.789474 %
+
+184 words total

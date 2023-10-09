@@ -1,0 +1,42 @@
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION           11
+    waking sleep dream dreamer wake dreamers dreamers dreaming dreamer dreamer dreamer
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    used used used found won make
+SECONDARY:TEMPORAL REFERENCES                                    5
+    now when time when now
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    promise say told meet meet
+EMOTIONS:AFFECTION                                               4
+    like like love like
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     3
+    dancing playing plaything
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at at at
+EMOTIONS:POSITIVE AFFECT                                         2
+    joy smile
+EMOTIONS:AGGRESSION                                              2
+    broken destroy
+PRIMARY:NEED:ORALITY                                             2
+    honey honey
+SECONDARY:ABSTRACTION                                            2
+    know true
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:SENSATION:SOFT                                           2
+    whisper gently
+EMOTIONS:GLORY                                                   1
+    pride
+PRIMARY:SENSATION:VISION                                         1
+    see
+EMOTIONS:ANXIETY                                                 1
+    worry
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    perceptible
+
+PRIMARY             : 38.888889 %
+SECONDARY           : 37.037037 %
+EMOTIONS            : 24.074074 %
+
+247 words total

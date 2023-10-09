@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                              10
+    like kind love love like kind love love like kind
+SECONDARY:TEMPORAL REFERENCES                                    9
+    then then now when when when now when when
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    met met treat treat tell treated treat
+SECONDARY:ABSTRACTION                                            7
+    believe thought thought believe think think believe
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at near at
+PRIMARY:SENSATION:HARD                                           3
+    hard hard hard
+EMOTIONS:AGGRESSION                                              2
+    hurts hurts
+EMOTIONS:POSITIVE AFFECT                                         1
+    fun
+SECONDARY:ORDER                                                  1
+    listen
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+
+PRIMARY             : 17.391304 %
+SECONDARY           : 52.173913 %
+EMOTIONS            : 30.434783 %
+
+196 words total

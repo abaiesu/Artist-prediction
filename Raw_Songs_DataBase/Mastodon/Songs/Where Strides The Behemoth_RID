@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    further far away close
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    footsteps head eyesight
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    follow forgive
+EMOTIONS:AGGRESSION                                              2
+    anger kill
+PRIMARY:SENSATION:VISION                                         1
+    visions
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+EMOTIONS:GLORY                                                   1
+    princess
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chase
+SECONDARY:TEMPORAL REFERENCES                                    1
+    past
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    horizon
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 61.111111 %
+SECONDARY           : 22.222222 %
+EMOTIONS            : 16.666667 %
+
+66 words total

@@ -1,0 +1,34 @@
+SECONDARY:TEMPORAL REFERENCES                                   15
+    everything old time when time hour hours hours years old when time hour time hour
+PRIMARY:SENSATION:SOUND                                          9
+    heard noise hear hear ears music hear hear hear
+PRIMARY:SENSATION:VISION                                         7
+    watch light stars watch watch stars visual
+EMOTIONS:AFFECTION                                               6
+    friend like loves friend like loves
+SECONDARY:ABSTRACTION                                            4
+    know them know cause
+EMOTIONS:AGGRESSION                                              3
+    wars invaded complain
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        2
+    background backdrop
+EMOTIONS:POSITIVE AFFECT                                         1
+    laugh
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    cry
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    fly
+PRIMARY:SENSATION:HARD                                           1
+    hardly
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    use
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    depend
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+
+PRIMARY             : 39.622642 %
+SECONDARY           : 39.622642 %
+EMOTIONS            : 20.754717 %
+
+299 words total

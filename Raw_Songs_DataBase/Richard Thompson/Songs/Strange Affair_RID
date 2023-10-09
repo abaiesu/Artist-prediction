@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    away away where where far where towards back back
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            7
+    dreams dreamed sleepers wakened wake sleep dream
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             6
+    strange strange strange strange strange strange
+SECONDARY:TEMPORAL REFERENCES                                    6
+    time years now when when now
+SECONDARY:ABSTRACTION                                            6
+    provision truth them why proof why
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    make won test builds win win
+EMOTIONS:AFFECTION                                               5
+    lover friend loves like lover
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    promised answer answer called follow
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        3
+    dying death lies
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    travel
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    road
+EMOTIONS:ANXIETY                                                 1
+    fear
+PRIMARY:SENSATION:VISION                                         1
+    grey
+EMOTIONS:AGGRESSION                                              1
+    enemy
+SECONDARY:RESTRAINT                                              1
+    prisoners
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    clouds
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    eyes
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 39.062500 %
+EMOTIONS            : 10.937500 %
+
+230 words total

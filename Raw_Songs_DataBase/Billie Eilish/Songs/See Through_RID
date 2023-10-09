@@ -1,0 +1,32 @@
+SECONDARY:ABSTRACTION                                           12
+    know guess think know guess know thinking know why cause think know
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    committed please said treat said please
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    overdid out at at
+PRIMARY:SENSATION:VISION                                         4
+    looking see looking see
+EMOTIONS:AFFECTION                                               4
+    like love love like
+SECONDARY:TEMPORAL REFERENCES                                    3
+    minute now when
+EMOTIONS:SADNESS                                                 2
+    sadly sorry
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    finish
+SECONDARY:ORDER                                                  1
+    listen
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    neck
+EMOTIONS:POSITIVE AFFECT                                         1
+    gladly
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 24.390244 %
+SECONDARY           : 58.536585 %
+EMOTIONS            : 17.073171 %
+
+157 words total

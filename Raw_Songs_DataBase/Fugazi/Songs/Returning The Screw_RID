@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    wide open point away back
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calls sharpened
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when now
+SECONDARY:RESTRAINT                                              1
+    caught
+SECONDARY:ORDER                                                  1
+    simple
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    burn
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    recorded
+EMOTIONS:POSITIVE AFFECT                                         1
+    humour
+EMOTIONS:AGGRESSION                                              1
+    arrow
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    soaked
+PRIMARY:NEED:ANALITY                                             1
+    urine
+SECONDARY:ABSTRACTION                                            1
+    meant
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spread
+PRIMARY:SENSATION:TASTE                                          1
+    sweet
+
+PRIMARY             : 50.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 10.000000 %
+
+83 words total

@@ -1,0 +1,44 @@
+SECONDARY:ABSTRACTION                                           19
+    real real real real real real real real real real real real real real real real real real real
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    closet space place
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    sleeping waking dream
+EMOTIONS:AFFECTION                                               3
+    love loving like
+PRIMARY:SENSATION:TASTE                                          3
+    bitter taste taste
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadows mistress
+SECONDARY:TEMPORAL REFERENCES                                    2
+    past every
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    pleasure say
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    success price
+PRIMARY:NEED:ORALITY                                             2
+    breast swallowed
+PRIMARY:NEED:SEX                                                 2
+    whore bitch
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    blood
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    leisure
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    dome
+PRIMARY:SENSATION:ODOR                                           1
+    breathing
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:SENSATION:SOUND                                          1
+    music
+EMOTIONS:GLORY                                                   1
+    genius
+EMOTIONS:AGGRESSION                                              1
+    cruel
+
+PRIMARY             : 39.215686 %
+SECONDARY           : 49.019608 %
+EMOTIONS            : 11.764706 %
+
+170 words total

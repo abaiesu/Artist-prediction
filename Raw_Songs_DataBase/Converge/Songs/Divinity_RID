@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        7
+    out away away apart away away apart
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        4
+    faded shade faded shade
+PRIMARY:SENSATION:VISION                                         3
+    brightside see brightside
+PRIMARY:SENSATION:COLD                                           2
+    cold cold
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    search
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spine
+PRIMARY:SENSATION:TASTE                                          1
+    sour
+SECONDARY:ABSTRACTION                                            1
+    them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    used
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    play
+EMOTIONS:AFFECTION                                               1
+    devotion
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    face
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    sink
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+
+PRIMARY             : 80.769231 %
+SECONDARY           : 11.538462 %
+EMOTIONS            : 7.692308 %
+
+96 words total

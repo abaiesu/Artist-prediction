@@ -1,0 +1,30 @@
+SECONDARY:MORAL IMPERATIVE                                      26
+    right right right right right right right right right right right right right right right right right right right right right right right right right right
+SECONDARY:TEMPORAL REFERENCES                                   11
+    now now now now now now everybody now now early now
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell tell
+EMOTIONS:POSITIVE AFFECT                                         2
+    happy happy
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:SADNESS                                                 1
+    pain
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rain
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    sky
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sunny
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+
+PRIMARY             : 13.461538 %
+SECONDARY           : 80.769231 %
+EMOTIONS            : 5.769231 %
+
+405 words total

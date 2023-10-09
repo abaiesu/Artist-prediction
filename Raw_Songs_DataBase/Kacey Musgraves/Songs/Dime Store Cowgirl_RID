@@ -1,0 +1,48 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    where out out away where out out away where out out away where
+SECONDARY:ABSTRACTION                                            6
+    cause cause cause cause cause cause
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    grow grow cliffs grow grow
+SECONDARY:TEMPORAL REFERENCES                                    5
+    past minute ever ever ever
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    call call call call
+PRIMARY:SENSATION:VISION                                         3
+    picture seen stars
+PRIMARY:ICARIAN IMAGERY:WATER                                    3
+    pool riverwalk shore
+EMOTIONS:GLORY                                                   3
+    golden golden golden
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    afford cost cost
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    mount springs
+EMOTIONS:AFFECTION                                               2
+    kinda love
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    driven
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    under
+SECONDARY:RESTRAINT                                              1
+    limits
+PRIMARY:NEED:ORALITY                                             1
+    drank
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fell
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    palm
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    trailer
+EMOTIONS:AGGRESSION                                              1
+    steal
+PRIMARY:SENSATION:SOUND                                          1
+    heart
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 55.932203 %
+SECONDARY           : 32.203390 %
+EMOTIONS            : 11.864407 %
+
+353 words total

@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    9
+    months ago now when now when then when then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    out far long long long long
+SECONDARY:ABSTRACTION                                            4
+    known know cause cause
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        4
+    slow slow slow slow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:SENSATION:SOFT                                           2
+    velvet velvet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    count count
+PRIMARY:SENSATION:VISION                                         2
+    stars stars
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    drive drive
+SECONDARY:MORAL IMPERATIVE                                       1
+    shoulda
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    heeled
+PRIMARY:NEED:SEX                                                 1
+    kissed
+PRIMARY:NEED:ANALITY                                             1
+    dirt
+EMOTIONS:AFFECTION                                               1
+    like
+
+PRIMARY             : 53.658537 %
+SECONDARY           : 43.902439 %
+EMOTIONS            : 2.439024 %
+
+242 words total

@@ -1,0 +1,28 @@
+EMOTIONS:AFFECTION                                               4
+    love love love love
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    behind at round here
+SECONDARY:TEMPORAL REFERENCES                                    3
+    now old ever
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    floor door
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lie die
+PRIMARY:SENSATION:VISION                                         1
+    blue
+EMOTIONS:SADNESS                                                 1
+    lonesome
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hangin
+EMOTIONS:AGGRESSION                                              1
+    blaming
+SECONDARY:ABSTRACTION                                            1
+    cause
+
+PRIMARY             : 47.619048 %
+SECONDARY           : 23.809524 %
+EMOTIONS            : 28.571429 %
+
+110 words total

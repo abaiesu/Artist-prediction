@@ -1,0 +1,48 @@
+SECONDARY:TEMPORAL REFERENCES                                   22
+    everybody every every every every everybody every every every every every every every every every every every every every every every every
+SECONDARY:ABSTRACTION                                           10
+    history choose plan history history history history learn history history
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    say say tells say lend tells tells promised
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     8
+    sing cry sing sing sing sing cries sing
+EMOTIONS:GLORY                                                   8
+    glory conquest glory conquest hero glory conquest hero
+EMOTIONS:AGGRESSION                                              5
+    kicked slaughtered struggles break slaughtered
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    back place across across across
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          5
+    face eyes face hand eyes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        5
+    dies die dies dies dies
+PRIMARY:SENSATION:COLD                                           5
+    children child children child child
+PRIMARY:SENSATION:VISION                                         4
+    see see see shines
+SECONDARY:RESTRAINT                                              4
+    must must must must
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    soldier soldier soldier soldier
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       3
+    path path path
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    hot fires
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    higher hill
+EMOTIONS:SADNESS                                                 2
+    pain grief
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    dreams dreams
+SECONDARY:MORAL IMPERATIVE                                       2
+    should should
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    deep
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    flying
+
+PRIMARY             : 32.407407 %
+SECONDARY           : 46.296296 %
+EMOTIONS            : 21.296296 %
+
+351 words total

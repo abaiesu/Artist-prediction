@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    behind out out here out away behind out behind out out
+SECONDARY:ABSTRACTION                                            9
+    know know why know learned know why know why
+SECONDARY:TEMPORAL REFERENCES                                    8
+    tonight already now when tonight already tonight already
+EMOTIONS:ANXIETY                                                 6
+    scared afraid scared scared scared scared
+SECONDARY:SOCIAL BEHAVIOR                                        6
+    say say promise say say say
+EMOTIONS:AFFECTION                                               4
+    lovers pity pity lovers
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    street street street street
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    spent lesson spent
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    dead dead
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    headed
+SECONDARY:MORAL IMPERATIVE                                       1
+    should
+
+PRIMARY             : 33.928571 %
+SECONDARY           : 48.214286 %
+EMOTIONS            : 17.857143 %
+
+343 words total

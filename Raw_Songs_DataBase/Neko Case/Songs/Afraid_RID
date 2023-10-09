@@ -1,0 +1,24 @@
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:SENSATION:VISION                                         2
+    see see
+PRIMARY:SENSATION:GENERAL-SENSATION                              2
+    beautiful beautiful
+SECONDARY:TEMPORAL REFERENCES                                    2
+    often often
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    play play
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            2
+    confuse confuse
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hunger hunger
+SECONDARY:RESTRAINT                                              2
+    capture capture
+
+PRIMARY             : 44.444444 %
+SECONDARY           : 44.444444 %
+EMOTIONS            : 11.111111 %
+
+96 words total

@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    back where at place back where at back where at back where at
+SECONDARY:TEMPORAL REFERENCES                                    9
+    year time when time again when again again again
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     6
+    sang poems play play play play
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   5
+    high tall sky growing trees
+PRIMARY:ICARIAN IMAGERY:WATER                                    4
+    waterloo waterloo waterloo waterloo
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           2
+    ships sail
+PRIMARY:SENSATION:VISION                                         2
+    green seen
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    dream
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    tell
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 28.000000 %
+EMOTIONS            : 12.000000 %
+
+203 words total

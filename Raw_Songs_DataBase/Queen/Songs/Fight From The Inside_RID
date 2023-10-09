@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    inside rear inside inside inside out inside rear inside inside inside
+EMOTIONS:AGGRESSION                                             10
+    fight attack fight fight fight fight attack fight fight fight
+SECONDARY:ABSTRACTION                                            6
+    think know think think know think
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       6
+    wall line streets line line line
+SECONDARY:MORAL IMPERATIVE                                       5
+    rights right right right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    win money win
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hands hands
+PRIMARY:SENSATION:VISION                                         1
+    picture
+PRIMARY:NEED:ORALITY                                             1
+    sucker
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    fall
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    spinner
+
+PRIMARY             : 48.936170 %
+SECONDARY           : 29.787234 %
+EMOTIONS            : 21.276596 %
+
+163 words total

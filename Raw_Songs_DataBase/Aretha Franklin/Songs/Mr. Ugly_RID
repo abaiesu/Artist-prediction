@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at across open wide wide off
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     5
+    play guitar sing cry dance
+SECONDARY:TEMPORAL REFERENCES                                    4
+    when when when ever
+PRIMARY:SENSATION:SOUND                                          3
+    melodies heart heart
+SECONDARY:ABSTRACTION                                            2
+    know know
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    tell tell
+PRIMARY:SENSATION:VISION                                         2
+    star look
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make make
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rainbow
+PRIMARY:SENSATION:COLD                                           1
+    winter
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    serenade
+EMOTIONS:ANXIETY                                                 1
+    scare
+EMOTIONS:GLORY                                                   1
+    great
+SECONDARY:ORDER                                                  1
+    divide
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tall
+PRIMARY:NEED:SEX                                                 1
+    kiss
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+
+PRIMARY             : 51.351351 %
+SECONDARY           : 29.729730 %
+EMOTIONS            : 18.918919 %
+
+138 words total

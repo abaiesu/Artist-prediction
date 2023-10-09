@@ -1,0 +1,44 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    out out away back back place where off away
+SECONDARY:TEMPORAL REFERENCES                                    8
+    again year times everything every ever every ever
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  7
+    found found found find labors labor find
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    4
+    under root under under
+EMOTIONS:AGGRESSION                                              4
+    cut blames blamed blame
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    say taught forgive forgive
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        3
+    fog fog fog
+EMOTIONS:AFFECTION                                               2
+    like love
+PRIMARY:SENSATION:SOUND                                          2
+    hear hear
+SECONDARY:ABSTRACTION                                            2
+    think know
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    danced
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floated
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    feet
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    hill
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    wander
+PRIMARY:SENSATION:VISION                                         1
+    see
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+
+PRIMARY             : 48.148148 %
+SECONDARY           : 38.888889 %
+EMOTIONS            : 12.962963 %
+
+233 words total

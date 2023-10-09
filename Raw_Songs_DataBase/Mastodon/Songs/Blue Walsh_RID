@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       11
+    out long long long away long long long long long long
+PRIMARY:SENSATION:VISION                                        10
+    view watch watch bright green glow watch watch watch watch
+SECONDARY:ABSTRACTION                                            9
+    cause cause cause sure them cause cause cause cause
+PRIMARY:ICARIAN IMAGERY:WATER                                    8
+    swam sea pouring rain steam steam steam steam
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when when time time when
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    asleep asleep
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    deep deep
+PRIMARY:SENSATION:SOUND                                          2
+    hear voice
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  2
+    dipped sinking
+SECONDARY:RESTRAINT                                              2
+    caught caught
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    call
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    fades
+PRIMARY:NEED:ORALITY                                             1
+    teeth
+EMOTIONS:AGGRESSION                                              1
+    knife
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    make
+
+PRIMARY             : 68.333333 %
+SECONDARY           : 30.000000 %
+EMOTIONS            : 1.666667 %
+
+213 words total

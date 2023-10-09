@@ -1,0 +1,40 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    at where place here here at where where where
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    callin says conversation told asked replied talk say
+SECONDARY:TEMPORAL REFERENCES                                    6
+    sometimes sometimes when present now then
+EMOTIONS:AFFECTION                                               5
+    lover love love like love
+PRIMARY:SENSATION:SOUND                                          4
+    rings sound hear bang
+EMOTIONS:POSITIVE AFFECT                                         4
+    joke laugh joker joker
+SECONDARY:ABSTRACTION                                            4
+    why know known known
+PRIMARY:SENSATION:VISION                                         4
+    see see see see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make try copy
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    organ body body
+PRIMARY:SENSATION:TASTE                                          2
+    sweet sweet
+EMOTIONS:ANXIETY                                                 2
+    terror frightens
+EMOTIONS:SADNESS                                                 1
+    lonely
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    playin
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floats
+PRIMARY:SENSATION:COLD                                           1
+    children
+EMOTIONS:GLORY                                                   1
+    proud
+
+PRIMARY             : 40.677966 %
+SECONDARY           : 35.593220 %
+EMOTIONS            : 23.728814 %
+
+274 words total

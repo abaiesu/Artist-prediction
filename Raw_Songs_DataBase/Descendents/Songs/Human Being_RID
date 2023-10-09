@@ -1,0 +1,22 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    place over back over
+SECONDARY:ABSTRACTION                                            1
+    fact
+EMOTIONS:AGGRESSION                                              1
+    kill
+SECONDARY:TEMPORAL REFERENCES                                    1
+    times
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    accept
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    trip
+PRIMARY:SENSATION:VISION                                         1
+    notice
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    hands
+
+PRIMARY             : 63.636364 %
+SECONDARY           : 27.272727 %
+EMOTIONS            : 9.090909 %
+
+85 words total

@@ -1,0 +1,24 @@
+EMOTIONS:AFFECTION                                               5
+    love love loving love loved
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said say asked
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    along side here here
+SECONDARY:ABSTRACTION                                            3
+    thought known know
+PRIMARY:SENSATION:HARD                                           3
+    hardly hardly hardly
+PRIMARY:SENSATION:SOUND                                          2
+    hear heart
+SECONDARY:TEMPORAL REFERENCES                                    1
+    now
+SECONDARY:RESTRAINT                                              1
+    guarded
+EMOTIONS:AGGRESSION                                              1
+    hit
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 37.500000 %
+EMOTIONS            : 25.000000 %
+
+126 words total

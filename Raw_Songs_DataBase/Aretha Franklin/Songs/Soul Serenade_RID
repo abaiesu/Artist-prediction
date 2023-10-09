@@ -1,0 +1,32 @@
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        9
+    serenade serenade serenade serenade serenade serenade serenade serenade serenade
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when everyone soon now now
+PRIMARY:SENSATION:SOUND                                          3
+    hear sound hear
+PRIMARY:SENSATION:GENERAL-SENSATION                              3
+    pretty pretty pretty
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    tell tell message
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   2
+    fly jump
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    away
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+EMOTIONS:SADNESS                                                 1
+    lonely
+SECONDARY:ABSTRACTION                                            1
+    know
+EMOTIONS:AFFECTION                                               1
+    devotion
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    ocean
+
+PRIMARY             : 57.575758 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 9.090909 %
+
+125 words total

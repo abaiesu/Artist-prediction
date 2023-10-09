@@ -1,0 +1,30 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       22
+    side side place place place place open away place place place place side side place place place place place place place place
+EMOTIONS:AFFECTION                                              17
+    love love love love love love love love love love love love love love love love love
+SECONDARY:INSTRUMENTAL BEHAVIOR                                 16
+    found found found found found found found found found found found found found found found found
+EMOTIONS:SADNESS                                                16
+    hopeless hopeless hopeless hopeless hopeless hopeless hopeless hopeless hopeless hopeless hopeless hopeless hopeless hopeless hopeless hopeless
+PRIMARY:SENSATION:VISION                                         4
+    light shine light light
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    yellow yellow
+SECONDARY:TEMPORAL REFERENCES                                    2
+    now now
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        2
+    shadow shadow
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    door
+SECONDARY:ORDER                                                  1
+    divide
+SECONDARY:ABSTRACTION                                            1
+    cause
+PRIMARY:SENSATION:SOUND                                          1
+    heartbeat
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 23.529412 %
+EMOTIONS            : 41.176471 %
+
+216 words total

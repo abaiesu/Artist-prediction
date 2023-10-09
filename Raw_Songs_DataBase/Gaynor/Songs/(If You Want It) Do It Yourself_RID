@@ -1,0 +1,24 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       13
+    out out away out out out out out out out out out out
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    said say help help say
+PRIMARY:SENSATION:VISION                                         5
+    lookin see see lookin see
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  4
+    money used find used
+SECONDARY:TEMPORAL REFERENCES                                    3
+    years ago then
+SECONDARY:ABSTRACTION                                            2
+    may think
+PRIMARY:NEED:ORALITY                                             1
+    honey
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:HARD                                           1
+    glass
+
+PRIMARY             : 57.142857 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 2.857143 %
+
+381 words total

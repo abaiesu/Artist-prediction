@@ -1,0 +1,42 @@
+SECONDARY:TEMPORAL REFERENCES                                    7
+    now now old then now now when
+PRIMARY:SENSATION:TASTE                                          6
+    sweet sweet sweet sweet sweet sweet
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  6
+    built used make afford built labor
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    front back back over back
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       4
+    floor window road road
+PRIMARY:ICARIAN IMAGERY:FIRE                                     2
+    burns blastin
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    pretty
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yellow
+PRIMARY:SENSATION:VISION                                         1
+    gray
+SECONDARY:RESTRAINT                                              1
+    tax
+EMOTIONS:SADNESS                                                 1
+    paint
+EMOTIONS:AGGRESSION                                              1
+    army
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    river
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laying
+EMOTIONS:AFFECTION                                               1
+    kinda
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    low
+PRIMARY:NEED:ANALITY                                             1
+    soil
+SECONDARY:ABSTRACTION                                            1
+    history
+
+PRIMARY             : 54.761905 %
+SECONDARY           : 35.714286 %
+EMOTIONS            : 9.523810 %
+
+178 words total

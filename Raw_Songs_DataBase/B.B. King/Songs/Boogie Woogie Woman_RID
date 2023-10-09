@@ -1,0 +1,16 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    time time time time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long long at at
+SECONDARY:RESTRAINT                                              2
+    bound bound
+SECONDARY:ABSTRACTION                                            1
+    cause
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+
+PRIMARY             : 33.333333 %
+SECONDARY           : 66.666667 %
+EMOTIONS            : 0.000000 %
+
+140 words total

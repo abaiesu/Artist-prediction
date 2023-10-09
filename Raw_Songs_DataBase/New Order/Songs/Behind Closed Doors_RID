@@ -1,0 +1,34 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       21
+    place where open inside open at behind closed away place somewhere behind closed behind closed behind closed behind closed behind closed
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       8
+    doors street doors doors doors doors doors doors
+SECONDARY:TEMPORAL REFERENCES                                    5
+    haste time every everyone today
+SECONDARY:ABSTRACTION                                            3
+    know something them
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    find makes
+PRIMARY:SENSATION:VISION                                         2
+    look see
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    eyes bones
+EMOTIONS:AGGRESSION                                              2
+    beats blame
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    please call
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             1
+    secret
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    underneath
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    tree
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    asleep
+SECONDARY:ORDER                                                  1
+    listen
+
+PRIMARY             : 71.153846 %
+SECONDARY           : 25.000000 %
+EMOTIONS            : 3.846154 %
+
+195 words total

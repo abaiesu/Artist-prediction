@@ -1,0 +1,40 @@
+SECONDARY:TEMPORAL REFERENCES                                   12
+    every everyday clock when time now clock time hour now clock clock
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        5
+    out where where somewhere where
+SECONDARY:ABSTRACTION                                            3
+    cause understands knows
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    arms face face
+EMOTIONS:AGGRESSION                                              2
+    fight killing
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    telling telling
+SECONDARY:MORAL IMPERATIVE                                       2
+    right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    work buy
+PRIMARY:NEED:ORALITY                                             2
+    beer whiskey
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    wake
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    floors
+SECONDARY:RESTRAINT                                              1
+    stops
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    beautiful
+PRIMARY:SENSATION:HARD                                           1
+    hard
+EMOTIONS:AFFECTION                                               1
+    like
+PRIMARY:SENSATION:TASTE                                          1
+    sour
+EMOTIONS:POSITIVE AFFECT                                         1
+    happy
+
+PRIMARY             : 36.585366 %
+SECONDARY           : 53.658537 %
+EMOTIONS            : 9.756098 %
+
+215 words total

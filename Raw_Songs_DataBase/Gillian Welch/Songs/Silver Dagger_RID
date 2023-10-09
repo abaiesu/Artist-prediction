@@ -1,0 +1,38 @@
+SECONDARY:TEMPORAL REFERENCES                                    5
+    when year when every every
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    side side here here
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    trying build found
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    hill high
+PRIMARY:SENSATION:VISION                                         2
+    blues look
+PRIMARY:NEED:ORALITY                                             2
+    food drinking
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    calling answer
+EMOTIONS:GLORY                                                   2
+    castle great
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand hand
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    sun
+PRIMARY:SENSATION:HARD                                           1
+    hard
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    hang
+EMOTIONS:AFFECTION                                               1
+    lovers
+SECONDARY:ABSTRACTION                                            1
+    believed
+EMOTIONS:AGGRESSION                                              1
+    destroyer
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            1
+    sleeps
+
+PRIMARY             : 51.612903 %
+SECONDARY           : 35.483871 %
+EMOTIONS            : 12.903226 %
+
+143 words total

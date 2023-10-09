@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:HARD                                          20
+    rock rock rock rock rock rock rocker rocker rock rock rocking rock rock rocker rocker rock rock rock rock rock
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       10
+    long long long round round long long round long long
+PRIMARY:SENSATION:VISION                                         7
+    see see see see see seen see
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  6
+    roll roll roll roll roll roll
+SECONDARY:ABSTRACTION                                            4
+    know cause know cause
+PRIMARY:SENSATION:TASTE                                          4
+    sweetest sweetest sweetest sweetest
+PRIMARY:NEED:ORALITY                                             3
+    honey honey honey
+EMOTIONS:AFFECTION                                               3
+    love love love
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said said
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everytime ever
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+
+PRIMARY             : 80.645161 %
+SECONDARY           : 12.903226 %
+EMOTIONS            : 6.451613 %
+
+259 words total

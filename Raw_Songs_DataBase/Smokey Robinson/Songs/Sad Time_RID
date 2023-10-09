@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   18
+    time time times times when when time time when when time time time time time time time time
+EMOTIONS:SADNESS                                                11
+    sad sad sad sad sad sad sad sad sad sad sad
+EMOTIONS:AFFECTION                                              10
+    love love love love love love love love love love
+SECONDARY:ABSTRACTION                                            7
+    know think think believe know believe know
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    longer away longer away
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    grow grow
+EMOTIONS:AGGRESSION                                              2
+    breaking breaking
+PRIMARY:SENSATION:SOUND                                          1
+    heartache
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    shared
+PRIMARY:SENSATION:TOUCH                                          1
+    touch
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 13.793103 %
+SECONDARY           : 46.551724 %
+EMOTIONS            : 39.655172 %
+
+258 words total

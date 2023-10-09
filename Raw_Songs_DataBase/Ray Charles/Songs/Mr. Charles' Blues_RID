@@ -1,0 +1,28 @@
+PRIMARY:SENSATION:COLD                                           4
+    winter snow winter snow
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now sometime sometime everyday
+EMOTIONS:AFFECTION                                               4
+    darling like like darling
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            3
+    crazy crazy wake
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    money money
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    shouted shout
+SECONDARY:ABSTRACTION                                            2
+    know know
+EMOTIONS:AGGRESSION                                              2
+    break break
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    laid
+PRIMARY:SENSATION:VISION                                         1
+    blues
+
+PRIMARY             : 38.461538 %
+SECONDARY           : 30.769231 %
+EMOTIONS            : 30.769231 %
+
+135 words total

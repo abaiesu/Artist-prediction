@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        9
+    circle out long out back near here far back
+SECONDARY:TEMPORAL REFERENCES                                    9
+    ago time now soon while when time now time
+SECONDARY:ABSTRACTION                                            7
+    know why understood believes learned understood know
+SECONDARY:MORAL IMPERATIVE                                       3
+    should right right
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    make tried make
+PRIMARY:SENSATION:HARD                                           2
+    hard hard
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     2
+    dance play
+EMOTIONS:AFFECTION                                               2
+    love love
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    steps
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    chance
+PRIMARY:SENSATION:TASTE                                          1
+    bitter
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    handed
+PRIMARY:DEFENSIVE SYMBOLIZATION:RANDOM MOVEMENT                  1
+    twisted
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    say
+SECONDARY:RESTRAINT                                              1
+    must
+
+PRIMARY             : 36.363636 %
+SECONDARY           : 54.545455 %
+EMOTIONS            : 9.090909 %
+
+189 words total

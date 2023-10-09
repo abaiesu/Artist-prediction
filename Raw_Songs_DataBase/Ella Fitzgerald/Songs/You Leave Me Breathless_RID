@@ -1,0 +1,32 @@
+PRIMARY:SENSATION:ODOR                                           6
+    breathless breath breathless breath breathless breath
+SECONDARY:SOCIAL BEHAVIOR                                        5
+    speechless say say say say
+PRIMARY:SENSATION:SOUND                                          5
+    melody heart heart heart heart
+EMOTIONS:AFFECTION                                               4
+    like like darling darling
+EMOTIONS:POSITIVE AFFECT                                         4
+    grin funny grin funny
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    at away away
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   2
+    heavenly birds
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    chin chin
+PRIMARY:NEED:ORALITY                                             2
+    lips lips
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touch
+PRIMARY:SENSATION:VISION                                         1
+    look
+EMOTIONS:GLORY                                                   1
+    wonderful
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    spring
+
+PRIMARY             : 63.157895 %
+SECONDARY           : 13.157895 %
+EMOTIONS            : 23.684211 %
+
+152 words total

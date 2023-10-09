@@ -1,0 +1,26 @@
+SECONDARY:SOCIAL BEHAVIOR                                        8
+    call call call call call call call call
+PRIMARY:SENSATION:TASTE                                          8
+    sweeter sweeter sweeter sweeter sweeter sweeter sweeter sweeter
+EMOTIONS:AFFECTION                                               8
+    love love love loving love loving love love
+PRIMARY:REGRESSIVE COGNITION:CONSCIOUSNESS ALTERATION            2
+    crazy crazy
+EMOTIONS:SADNESS                                                 2
+    sad sad
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        2
+    lazy lazy
+PRIMARY:SENSATION:SOFT                                           1
+    gentle
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    sing
+SECONDARY:ABSTRACTION                                            1
+    know
+SECONDARY:TEMPORAL REFERENCES                                    1
+    then
+
+PRIMARY             : 38.235294 %
+SECONDARY           : 29.411765 %
+EMOTIONS            : 32.352941 %
+
+186 words total

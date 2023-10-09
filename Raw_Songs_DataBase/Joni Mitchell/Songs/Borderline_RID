@@ -1,0 +1,46 @@
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                      15
+    borderline fence borderline borderline borderline borderline edged borderlines borderline streets borderline borderline borderline borderline borderline
+SECONDARY:TEMPORAL REFERENCES                                   13
+    everybody when every every every every every every every every every every quick
+SECONDARY:ABSTRACTION                                            5
+    why think know thinking opinionated
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    at at along place
+EMOTIONS:AGGRESSION                                              4
+    blame rage kick deride
+EMOTIONS:AFFECTION                                               3
+    like friend friend
+PRIMARY:SENSATION:HARD                                           3
+    hard stone glass
+PRIMARY:SENSATION:VISION                                         2
+    looks see
+EMOTIONS:GLORY                                                   2
+    pride wonder
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    ease
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    skin
+PRIMARY:SENSATION:TOUCH                                          1
+    thick
+EMOTIONS:POSITIVE AFFECT                                         1
+    jokes
+PRIMARY:ICARIAN IMAGERY:FIRE                                     1
+    smoke
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    makes
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    grow
+EMOTIONS:ANXIETY                                                 1
+    scared
+SECONDARY:ORDER                                                  1
+    measure
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    thrown
+SECONDARY:RESTRAINT                                              1
+    caught
+
+PRIMARY             : 48.387097 %
+SECONDARY           : 33.870968 %
+EMOTIONS            : 17.741935 %
+
+213 words total

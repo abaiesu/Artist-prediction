@@ -1,0 +1,28 @@
+PRIMARY:REGRESSIVE COGNITION:UNKNOWN                             9
+    strange strange magic magic strange secrets strange magic strange
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    makes makes makes makes makes
+EMOTIONS:GLORY                                                   5
+    wonder wonder wonder wonder wonder
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    side longer where away
+SECONDARY:TEMPORAL REFERENCES                                    3
+    moment every moment
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    call call
+SECONDARY:ABSTRACTION                                            1
+    certain
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    street
+EMOTIONS:SADNESS                                                 1
+    tragic
+PRIMARY:ICARIAN IMAGERY:ASCENT                                   1
+    floating
+PRIMARY:ICARIAN IMAGERY:WATER                                    1
+    rivers
+
+PRIMARY             : 48.484848 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 18.181818 %
+
+105 words total

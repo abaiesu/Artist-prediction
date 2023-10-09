@@ -1,0 +1,28 @@
+SECONDARY:TEMPORAL REFERENCES                                   11
+    past past past ever tonight past past past past past ever
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    said said thankful met
+EMOTIONS:AFFECTION                                               3
+    love like love
+SECONDARY:ABSTRACTION                                            2
+    cause true
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    found found
+SECONDARY:MORAL IMPERATIVE                                       1
+    right
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    arms
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    place
+EMOTIONS:SADNESS                                                 1
+    unhappy
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    slippin
+PRIMARY:REGRESSIVE COGNITION:TIMELESSNESS                        1
+    eternaly
+
+PRIMARY             : 14.285714 %
+SECONDARY           : 71.428571 %
+EMOTIONS            : 14.285714 %
+
+141 words total

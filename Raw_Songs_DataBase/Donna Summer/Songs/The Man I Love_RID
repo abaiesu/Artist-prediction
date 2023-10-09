@@ -1,0 +1,36 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        8
+    along at at place at out outside at
+EMOTIONS:AFFECTION                                               6
+    love love kind kind kind love
+SECONDARY:ABSTRACTION                                            5
+    something understand know know cause
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make won find find find
+PRIMARY:SENSATION:VISION                                         4
+    look looking see looking
+PRIMARY:NEED:ORALITY                                             4
+    candy dine dine dishes
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    say say sayin
+EMOTIONS:AGGRESSION                                              3
+    fighting breaking beat
+SECONDARY:TEMPORAL REFERENCES                                    2
+    when time
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          2
+    hand head
+EMOTIONS:GLORY                                                   1
+    rich
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    dancing
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+SECONDARY:MORAL IMPERATIVE                                       1
+    respect
+
+PRIMARY             : 40.425532 %
+SECONDARY           : 34.042553 %
+EMOTIONS            : 25.531915 %
+
+209 words total

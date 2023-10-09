@@ -1,0 +1,20 @@
+SECONDARY:TEMPORAL REFERENCES                                    4
+    whenever brief interlude whenever
+SECONDARY:ABSTRACTION                                            4
+    think suppose thought think
+EMOTIONS:SADNESS                                                 3
+    melancholy misery melancholy
+EMOTIONS:AFFECTION                                               2
+    kind like
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    described
+PRIMARY:SENSATION:VISION                                         1
+    blue
+PRIMARY:NEED:ORALITY                                             1
+    sugar
+
+PRIMARY             : 12.500000 %
+SECONDARY           : 56.250000 %
+EMOTIONS            : 31.250000 %
+
+68 words total

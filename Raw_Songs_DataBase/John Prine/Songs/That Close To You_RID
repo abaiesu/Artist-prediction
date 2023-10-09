@@ -1,0 +1,36 @@
+EMOTIONS:AFFECTION                                               7
+    like like like like like like lovers
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        6
+    at close close middle close close
+SECONDARY:SOCIAL BEHAVIOR                                        3
+    ask plead borrow
+SECONDARY:ABSTRACTION                                            3
+    know something something
+PRIMARY:SENSATION:VISION                                         2
+    lightning view
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    2
+    under hole
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  2
+    make find
+SECONDARY:TEMPORAL REFERENCES                                    2
+    everybody while
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    cloudy
+EMOTIONS:POSITIVE AFFECT                                         1
+    smile
+PRIMARY:SENSATION:COLD                                           1
+    child
+SECONDARY:MORAL IMPERATIVE                                       1
+    oughtta
+EMOTIONS:AGGRESSION                                              1
+    hurts
+SECONDARY:RESTRAINT                                              1
+    stop
+EMOTIONS:SADNESS                                                 1
+    sorrow
+
+PRIMARY             : 35.294118 %
+SECONDARY           : 35.294118 %
+EMOTIONS            : 29.411765 %
+
+140 words total

@@ -1,0 +1,22 @@
+SECONDARY:RESTRAINT                                             10
+    limiter limited limiter limited limiter limiter limited limited limiter limited
+EMOTIONS:SADNESS                                                 5
+    sorry sorry sorry sorry sorry
+PRIMARY:SENSATION:VISION                                         5
+    see see see see see
+SECONDARY:ABSTRACTION                                            5
+    knew thought cause know choice
+SECONDARY:TEMPORAL REFERENCES                                    4
+    then everybody everybody then
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    back where at
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    found
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          1
+    head
+
+PRIMARY             : 26.470588 %
+SECONDARY           : 58.823529 %
+EMOTIONS            : 14.705882 %
+
+222 words total

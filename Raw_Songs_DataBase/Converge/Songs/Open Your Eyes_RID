@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       18
+    open open open open open out inside behind open open open open open open open open open open
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                         17
+    eyes eyes eyes eyes eyes eyes eyes eyes eyes eyes eyes eyes eyes eyes eyes eyes eyes
+SECONDARY:SOCIAL BEHAVIOR                                        7
+    tell tell tell tell helps tell say
+EMOTIONS:AGGRESSION                                              6
+    damage hurt hate damage hurt hate
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  5
+    make work make make work
+EMOTIONS:SADNESS                                                 4
+    sorry sorry sorry sorry
+PRIMARY:SENSATION:VISION                                         4
+    see look see look
+PRIMARY:NEED:SEX                                                 4
+    fucking fucking fucking fucking
+SECONDARY:ABSTRACTION                                            4
+    real knew real know
+SECONDARY:TEMPORAL REFERENCES                                    3
+    sometimes sometimes sometimes
+EMOTIONS:AFFECTION                                               2
+    sympathy welcome
+EMOTIONS:EXPRESSIVE BEHAVIOR                                     1
+    yell
+PRIMARY:SENSATION:SOUND                                          1
+    hears
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    wall
+PRIMARY:SENSATION:HARD                                           1
+    stone
+PRIMARY:DEFENSIVE SYMBOLIZATION:DIFFUSION                        1
+    mistake
+
+PRIMARY             : 59.493671 %
+SECONDARY           : 24.050633 %
+EMOTIONS            : 16.455696 %
+
+242 words total

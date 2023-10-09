@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                       15
+    out distant out out out place behind out out out behind out place out place
+PRIMARY:SENSATION:VISION                                        12
+    watch watching looking look look watching looking watching look look look look
+SECONDARY:TEMPORAL REFERENCES                                    4
+    times times times times
+SECONDARY:SOCIAL BEHAVIOR                                        4
+    spoke tell spoken talking
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  3
+    find find find
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          3
+    face face face
+SECONDARY:MORAL IMPERATIVE                                       2
+    right correction
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    line line
+PRIMARY:NEED:ORALITY                                             1
+    mouth
+PRIMARY:ICARIAN IMAGERY:HEIGHT                                   1
+    high
+EMOTIONS:AFFECTION                                               1
+    love
+PRIMARY:SENSATION:HARD                                           1
+    hard
+SECONDARY:ABSTRACTION                                            1
+    them
+SECONDARY:RESTRAINT                                              1
+    caught
+PRIMARY:DEFENSIVE SYMBOLIZATION:CHAOS                            1
+    ruined
+PRIMARY:SENSATION:GENERAL-SENSATION                              1
+    aware
+
+PRIMARY             : 69.811321 %
+SECONDARY           : 28.301887 %
+EMOTIONS            : 1.886792 %
+
+221 words total

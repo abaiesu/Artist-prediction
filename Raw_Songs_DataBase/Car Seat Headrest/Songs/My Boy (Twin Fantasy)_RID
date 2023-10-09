@@ -1,0 +1,16 @@
+PRIMARY:SENSATION:VISION                                         1
+    see
+SECONDARY:TEMPORAL REFERENCES                                    1
+    time
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        1
+    somewhere
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       1
+    line
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    won
+
+PRIMARY             : 60.000000 %
+SECONDARY           : 40.000000 %
+EMOTIONS            : 0.000000 %
+
+24 words total

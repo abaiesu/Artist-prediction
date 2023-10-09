@@ -1,0 +1,32 @@
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        4
+    long here backstreets here
+SECONDARY:TEMPORAL REFERENCES                                    4
+    now again old till
+PRIMARY:SENSATION:COLD                                           2
+    cold child
+EMOTIONS:AGGRESSION                                              2
+    cuts tortures
+EMOTIONS:ANXIETY                                                 2
+    tremble tremble
+SECONDARY:ABSTRACTION                                            2
+    know prove
+EMOTIONS:AFFECTION                                               2
+    like friend
+EMOTIONS:SADNESS                                                 1
+    loneliness
+PRIMARY:DEFENSIVE SYMBOLIZATION:VOYAGE                           1
+    chased
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    find
+SECONDARY:SOCIAL BEHAVIOR                                        1
+    treat
+PRIMARY:ICARIAN IMAGERY:DESCENT                                  1
+    lean
+PRIMARY:SENSATION:VISION                                         1
+    picture
+
+PRIMARY             : 37.500000 %
+SECONDARY           : 33.333333 %
+EMOTIONS            : 29.166667 %
+
+124 words total

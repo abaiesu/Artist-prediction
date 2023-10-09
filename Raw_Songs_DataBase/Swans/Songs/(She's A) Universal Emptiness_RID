@@ -1,0 +1,38 @@
+PRIMARY:REGRESSIVE COGNITION:NARCISSISM                          6
+    hands face face eyes knees hand
+SECONDARY:ORDER                                                  6
+    universal universal universal universal universal universal
+PRIMARY:REGRESSIVE COGNITION:CONCRETENESS                        3
+    where at far
+SECONDARY:ABSTRACTION                                            3
+    something know know
+EMOTIONS:SADNESS                                                 3
+    sadness suffers sadness
+PRIMARY:REGRESSIVE COGNITION:BRINK-PASSAGE                       2
+    wall window
+PRIMARY:SENSATION:TOUCH                                          2
+    touch touched
+EMOTIONS:AFFECTION                                               2
+    like like
+SECONDARY:SOCIAL BEHAVIOR                                        2
+    said confessing
+PRIMARY:SENSATION:VISION                                         2
+    blue saw
+EMOTIONS:AGGRESSION                                              2
+    broken cruelty
+SECONDARY:INSTRUMENTAL BEHAVIOR                                  1
+    making
+PRIMARY:ICARIAN IMAGERY:DEPTH                                    1
+    holes
+PRIMARY:DEFENSIVE SYMBOLIZATION:PASSIVITY                        1
+    dead
+SECONDARY:TEMPORAL REFERENCES                                    1
+    once
+SECONDARY:RESTRAINT                                              1
+    punished
+
+PRIMARY             : 44.736842 %
+SECONDARY           : 36.842105 %
+EMOTIONS            : 18.421053 %
+
+199 words total
