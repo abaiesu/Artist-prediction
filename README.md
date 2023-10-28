@@ -10,3 +10,5 @@ kNN: the kNN is the base and initial model. It did not do so well but it gave us
 CNN: With not much success from that method we decided to move to CNN. After removing stop words, stemming and tokenizing the lyrics we used pre-trained GLoVe embeddings and truncated or padded the input to a certain length. Truncating was simply cutting off after a point and padding were random numbers following a normal with the mean and standard deviation seen from the previous data. This was put through multiple conv1D, pooling, and dropout layers before a flatten and 2 dense layers. This gave us an accuracy of about 35% for 15 artists however gave us little knowledge of why the classifications were done and the accuracy fell sharply for larger sets. This is why we moved on to the following.\
 Logistic Regression: We used the same pre-processing and feature extraction as the kNN and then did binary classification on each artist and picked the artists with the highest probability. To boost the results we used bagging.\ 
 Conclusions: We could see the effect of each feature and got much better accuracies \
+\
+The results can be seen in the logreg.ipynb file
