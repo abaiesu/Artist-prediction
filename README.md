@@ -1,4 +1,4 @@
-# Text-Shazam
+# Artist prediction
 CSE204 project 2023 
 
 The goal of this project is to create a machine learning model which matches the lyrics of a song to a predicted artist. \
